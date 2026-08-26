@@ -15,7 +15,7 @@ func main() {
 	jsonDir := ".build/03_json"
 	templateDir := ".build/04_md/templates"
 	outputDir := ".build/04_md/docs"
-	srdBasePath := ".build/01_pdf/DH-SRD-2025-09-09.md"
+	srdBasePath := ".build/01_pdf/DH-SRD-2026-08-25.md"
 	srdPath := "README.md"
 
 	entries, err := os.ReadDir(jsonDir)
@@ -28,6 +28,7 @@ func main() {
 		"upper":            strings.ToUpper,
 		"urlEncode":        url.PathEscape,
 		"featureQuestions": featureQuestions,
+		"featureLabel":     featureLabel,
 		"fileName":         sanitizeFilename,
 		"abilityLink":      abilityLink,
 		"optionAt":         optionAt,
@@ -128,6 +129,7 @@ func normalizeItem(item map[string]any) {
 	ensureSlice(item, "foundation")
 	ensureSlice(item, "specialization")
 	ensureSlice(item, "mastery")
+	ensureSlice(item, "question")
 	ensureString(item, "suggested_secondary")
 	stripEmbeddedFeatureQuestions(item)
 }
@@ -206,7 +208,12 @@ func generateSRD(basePath, outPath, jsonDir string) error {
 	content = replaceClassDomainLinks(content, categoryLinks["classes"], categoryLinks["domains"])
 	content = replaceClassMentionList(content, categoryLinks["classes"])
 	content = replaceAncestryMentionList(content, categoryLinks["ancestries"])
-	content = insertCommunityParagraph(content, categoryLinks["communities"])
+	content = insertCategoryParagraph(content, categoryLinks["communities"],
+		"COMMUNITIES", "The core ruleset includes the following communities:")
+	content = insertCategoryParagraph(content, categoryLinks["ancestries"],
+		"ANCESTRIES", "This SRD describes the following ancestries:")
+	content = insertCategoryParagraph(content, categoryLinks["transformations"],
+		"TRANSFORMATIONS", "The core materials include the following transformations:")
 	content = insertDomainCardReferenceList(content, categoryLinks["domains"])
 	content = removeDomainCardReferenceSections(content, categoryLinks["domains"])
 	content = removeSectionsByHeadingPrefix(content, 2, []string{
@@ -314,6 +321,10 @@ func replaceHeadingBlocksWithLinks(content string, nameLinks map[string]linkTarg
 			i = skipHeadingBlock(lines, i, level)
 			continue
 		}
+		if target.category == "transformations" {
+			i = skipHeadingBlock(lines, i, level)
+			continue
+		}
 		if target.category == "domains" {
 			out = append(out, fmt.Sprintf("- [%s](%s)", target.name, target.path))
 			out = append(out, "")
@@ -345,7 +356,7 @@ func replaceTableNamesWithLinks(content string, sectionLinks map[string]map[stri
 			continue
 		}
 		columnIndex := 1
-		if currentSection == "LOOT" || currentSection == "CONSUMABLES" {
+		if currentSection == "LOOT" || currentSection == "ITEMS" || currentSection == "CONSUMABLES" {
 			columnIndex = 2
 		}
 		updated, changed := replaceTableCell(line, links, columnIndex)
@@ -399,8 +410,12 @@ func replaceClassDomainLinks(content string, classLinks, domainLinks map[string]
 	inClassDomains := false
 	for i, line := range lines {
 		level, title := parseHeading(line)
-		if level == 2 {
-			inClassDomains = strings.EqualFold(strings.TrimSpace(title), "CLASS DOMAINS")
+		if level > 0 {
+			if strings.EqualFold(strings.TrimSpace(title), "CLASS DOMAINS") {
+				inClassDomains = true
+			} else if level <= 3 {
+				inClassDomains = false
+			}
 		}
 		if !inClassDomains {
 			continue
@@ -438,7 +453,7 @@ func replaceClassMentionList(content string, classLinks map[string]linkTarget) s
 	if len(classLinks) == 0 {
 		return content
 	}
-	prefix := "There are 9 classes in the Daggerheart core materials:"
+	prefix := "the Daggerheart Core Set includes only the following nine classes:"
 	start := strings.Index(content, prefix)
 	if start == -1 {
 		return content
@@ -480,7 +495,7 @@ func replaceAncestryMentionList(content string, ancestryLinks map[string]linkTar
 	if len(ancestryLinks) == 0 {
 		return content
 	}
-	prefix := "The core ruleset includes the following ancestries:"
+	prefix := "The Daggerheart Core Set includes only the following ancestries:"
 	start := strings.Index(content, prefix)
 	if start == -1 {
 		return content
@@ -518,33 +533,36 @@ func replaceAncestryMentionList(content string, ancestryLinks map[string]linkTar
 	return content
 }
 
-func insertCommunityParagraph(content string, communityLinks map[string]linkTarget) string {
-	if len(communityLinks) == 0 {
+// insertCategoryParagraph inserts a linked list of every entry in the given
+// category at the end of the named level-2 section's intro (before its first
+// remaining subheading, or at the end of the section).
+func insertCategoryParagraph(content string, links map[string]linkTarget, sectionTitle, lead string) string {
+	if len(links) == 0 {
 		return content
 	}
 	lines := strings.Split(content, "\n")
 	for i, line := range lines {
 		level, title := parseHeading(line)
-		if level == 2 && strings.EqualFold(strings.TrimSpace(title), "COMMUNITIES") {
+		if level == 2 && strings.EqualFold(strings.TrimSpace(title), sectionTitle) {
 			end := i + 1
 			for end < len(lines) {
 				nextLevel, _ := parseHeading(lines[end])
-				if nextLevel > 0 && nextLevel <= 2 {
+				if nextLevel > 0 && nextLevel <= 4 {
 					break
 				}
 				end++
 			}
 			var names []string
-			for _, target := range communityLinks {
+			for _, target := range links {
 				names = append(names, target.name)
 			}
 			sort.Strings(names)
 			var linked []string
 			for _, name := range names {
-				target := communityLinks[normalizeHeading(name)]
+				target := links[normalizeHeading(name)]
 				linked = append(linked, fmt.Sprintf("[%s](%s)", target.name, target.path))
 			}
-			paragraph := "The core ruleset includes the following communities: " + strings.Join(linked, ", ") + "."
+			paragraph := lead + " " + strings.Join(linked, ", ") + "."
 			block := []string{"", paragraph, ""}
 			out := append([]string{}, lines[:end]...)
 			out = append(out, block...)
@@ -922,7 +940,7 @@ func insertContents(content string) string {
 			block := []string{
 				"**REFERENCE SITE**",
 				"",
-				"[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)",
+				"[matthttam.github.io/daggerheart-srd-2.0](https://matthttam.github.io/daggerheart-srd-2.0/)",
 				"",
 				"# CONTENTS",
 				"",
@@ -938,7 +956,7 @@ func insertContents(content string) string {
 	block := append([]string{
 		"#### REFERENCE SITE",
 		"",
-		"[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)",
+		"[matthttam.github.io/daggerheart-srd-2.0](https://matthttam.github.io/daggerheart-srd-2.0/)",
 		"",
 		"# CONTENTS",
 		"",
@@ -1078,6 +1096,16 @@ func tierFromValue(value any) int {
 		}
 	}
 	return 0
+}
+
+// featureLabel renders a feature name as its inline label: names keep their
+// printed terminal period (2.0 countdown/pool labels); all others get the
+// usual trailing colon.
+func featureLabel(name string) string {
+	if strings.HasSuffix(name, ".") {
+		return name
+	}
+	return name + ":"
 }
 
 func featureQuestions(features any) []string {

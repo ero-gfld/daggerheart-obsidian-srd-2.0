@@ -10,6 +10,7 @@
 - **CLASS ITEMS -** {{ .items }}
 
 ---
+{{- if .suggested_traits }}
 
 - **SUGGESTED TRAITS -** {{ .suggested_traits }}
 - **SUGGESTED PRIMARY -** {{ .suggested_primary }}
@@ -19,6 +20,7 @@
 - **SUGGESTED ARMOR -** {{ .suggested_armor }}
 
 ---
+{{- end }}
 
 ### HOPE FEATURE
 
@@ -30,6 +32,10 @@
 
 **_{{ .name }}:_** {{ .text }}
 {{ end }}
+{{- if .features_extra }}
+
+{{ .features_extra }}
+{{- end }}
 
 {{- if and (eq .name "Druid") .beastform_tiers }}
 
@@ -79,3 +85,7 @@ _Ask your fellow players one of the following questions for their character to a
 
 - {{ .question }}
   {{- end }}
+{{- if .extra_sections }}
+
+{{ .extra_sections }}
+{{- end }}

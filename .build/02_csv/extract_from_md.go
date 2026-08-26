@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	markdownPath := ".build/01_pdf/DH-SRD-2025-09-09.md"
+	markdownPath := ".build/01_pdf/DH-SRD-2026-08-25.md"
 	contentBytes, err := os.ReadFile(markdownPath)
 	if err != nil {
 		fmt.Printf("Error reading markdown file: %v\n", err)
@@ -38,6 +38,7 @@ func main() {
 	extractEnvironments(content, outputDir)
 	extractItems(content, outputDir)
 	extractSubclasses(content, outputDir)
+	extractTransformations(content, outputDir)
 	extractWeapons(content, outputDir)
 }
 
@@ -141,6 +142,38 @@ func headerLevel(line string) int {
 	return level
 }
 
+// shiftHeadings promotes/demotes every heading in block so its shallowest
+// heading lands at targetTop, preserving relative heading depth.
+func shiftHeadings(block string, targetTop int) string {
+	lines := strings.Split(block, "\n")
+	min := 0
+	for _, l := range lines {
+		if lvl := headerLevel(l); lvl > 0 && (min == 0 || lvl < min) {
+			min = lvl
+		}
+	}
+	if min == 0 || min == targetTop {
+		return block
+	}
+	delta := targetTop - min
+	for i, l := range lines {
+		lvl := headerLevel(l)
+		if lvl == 0 {
+			continue
+		}
+		title := strings.TrimSpace(strings.TrimLeft(strings.TrimSpace(l), "#"))
+		newLvl := lvl + delta
+		if newLvl < 1 {
+			newLvl = 1
+		}
+		if newLvl > 6 {
+			newLvl = 6
+		}
+		lines[i] = strings.Repeat("#", newLvl) + " " + title
+	}
+	return strings.Join(lines, "\n")
+}
+
 func findHeaderLine(content, headerLine string) (string, bool) {
 	level := headerLevel(headerLine)
 	target := normalizeHeaderText(strings.TrimSpace(strings.TrimLeft(headerLine, "#")))
@@ -195,6 +228,11 @@ func getSection(content, headerLine string) string {
 
 	return rest[:firstLineEnd+1+endLoc[0]]
 }
+
+// The 2.0 SRD punctuates mechanic-suffixed feature labels with a period
+// instead of 1.0's colon (e.g. "_Rampage - Reaction: Countdown (Loop 1d6)._").
+// Recognize those labels, keeping the printed period in the feature name.
+var reFeatureDotLabel = regexp.MustCompile(`^_([^_]*(?:Countdown|Pool)(?:\s*\([^)_]*\))?\.)_\s*(.*)`)
 
 func warnMissing(entity, name, field string) {
 	if name == "" {
@@ -417,7 +455,9 @@ func scanVariations(content string) {
 				strings.Contains(n, "domaincardreference") ||
 				strings.Contains(n, "domains") ||
 				strings.Contains(n, "consumable") ||
-				strings.Contains(n, "loot")
+				strings.Contains(n, "loot") ||
+				strings.Contains(n, "items") ||
+				strings.Contains(n, "transformation")
 		}
 
 		for _, h := range headers {
@@ -485,6 +525,7 @@ func scanVariations(content string) {
 		"##### SPELLCAST TRAIT":             true,
 		"##### HOPE FEATURE":                true,
 		"##### USING FEATURES AFTER A ROLL": true,
+		"##### TRANSFORMATION FEATURES":     true,
 	}
 
 	pos := 0
@@ -651,7 +692,7 @@ func extractAdversaries(content, outputDir string) {
 	reSectionTier := regexp.MustCompile(`(?i)Tier\s+(\d+)`)
 	for _, m := range matches {
 		h := m[1]
-		if strings.Contains(h, "USING") || strings.Contains(h, "ENVIRONMENT") {
+		if strings.Contains(h, "USING") || strings.Contains(h, "ENVIRONMENT") || strings.Contains(h, "COLOSSAL") {
 			continue
 		}
 		section := getSection(content, "## "+h)
@@ -768,7 +809,13 @@ func extractAdversaries(content, outputDir string) {
 						}
 						break
 					}
-					if strings.HasPrefix(l, "_") && strings.Contains(l, ":_") {
+					if m := reFeatureDotLabel.FindStringSubmatch(l); len(m) > 2 {
+						if currN != "" {
+							feats = append(feats, currN, strings.Trim(currT, "\n"))
+						}
+						currN = titleizeIfAllCaps(m[1])
+						currT = strings.TrimSpace(m[2])
+					} else if strings.HasPrefix(l, "_") && strings.Contains(l, ":_") {
 						if currN != "" {
 							feats = append(feats, currN, strings.Trim(currT, "\n"))
 						}
@@ -791,8 +838,12 @@ func extractAdversaries(content, outputDir string) {
 				warnMissing("Adversary", name, "Features")
 			}
 
+			if len(feats) > 18 {
+				warnFormat("Adversary", name, fmt.Sprintf("%d features (only 9 kept)", len(feats)/2))
+			}
+
 			row := []string{name, tier, typeStr, desc, motives, diff, thresh, hp, stress, atk, attackName, rng, dmg, exp}
-			for i := 0; i < 14; i++ {
+			for i := 0; i < 18; i++ {
 				if i < len(feats) {
 					row = append(row, feats[i])
 				} else {
@@ -802,26 +853,34 @@ func extractAdversaries(content, outputDir string) {
 			records = append(records, row)
 		}
 	}
-	writeCSV(outputDir+"/adversaries.csv", []string{"Name", "Tier", "Type", "Description", "Motives and Tactics", "Difficulty", "Thresholds", "HP", "Stress", "ATK", "Attack", "Range", "Damage", "Experience", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Feature 4 Name", "Feature 4 Text", "Feature 5 Name", "Feature 5 Text", "Feature 6 Name", "Feature 6 Text", "Feature 7 Name", "Feature 7 Text"}, records)
+	writeCSV(outputDir+"/adversaries.csv", []string{"Name", "Tier", "Type", "Description", "Motives and Tactics", "Difficulty", "Thresholds", "HP", "Stress", "ATK", "Attack", "Range", "Damage", "Experience", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Feature 4 Name", "Feature 4 Text", "Feature 5 Name", "Feature 5 Text", "Feature 6 Name", "Feature 6 Text", "Feature 7 Name", "Feature 7 Text", "Feature 8 Name", "Feature 8 Text", "Feature 9 Name", "Feature 9 Text"}, records)
 }
 
 func extractAncestries(content, outputDir string) {
 	section := getSection(content, "## ANCESTRIES")
 	chunks := strings.Split(section, "\n### ")
 	var records [][]string
-	for i, chunk := range chunks {
-		if i == 0 {
-			continue
-		}
+	var processChunk func(chunk string)
+	processChunk = func(chunk string) {
 		lines := strings.Split(chunk, "\n")
 		name := titleizeIfAllCaps(strings.TrimSpace(lines[0]))
 		desc, feats := "", []string{}
+
+		// Some ancestries (e.g. Elemental Kin) group sub-ancestries under
+		// level-4 headings; treat each sub-ancestry as its own entry.
+		if subChunks := strings.Split(chunk, "\n#### "); len(subChunks) > 1 {
+			warnFormat("Ancestry", name, fmt.Sprintf("split into %d sub-ancestries", len(subChunks)-1))
+			for _, subChunk := range subChunks[1:] {
+				processChunk(subChunk)
+			}
+			return
+		}
 
 		reFeat := regexp.MustCompile(`(?m)^#{4,6}\s+ANCESTRY FEATURE(S)?\b.*$`)
 		splitIdx, header := findHeaderBlockStart(chunk, reFeat)
 		if splitIdx == -1 {
 			warnMissing("Ancestry", name, "Ancestry Features")
-			continue
+			return
 		}
 		if header != "##### ANCESTRY FEATURES" && header != "##### ANCESTRY FEATURE" {
 			warnFormat("Ancestry", name, fmt.Sprintf("ancestry feature heading '%s'", header))
@@ -869,6 +928,12 @@ func extractAncestries(content, outputDir string) {
 			}
 		}
 		records = append(records, row)
+	}
+	for i, chunk := range chunks {
+		if i == 0 {
+			continue
+		}
+		processChunk(chunk)
 	}
 	writeCSV(outputDir+"/ancestries.csv", []string{"Name", "Description", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text"}, records)
 }
@@ -1004,6 +1069,37 @@ func extractClasses(content, outputDir string) {
 			cfFeats = extractFeaturePairs(chunk[ci:])
 		}
 
+		// Capture verbatim subsystem blocks that have no dedicated schema
+		// fields, preserving their position on the class page: any headed
+		// block between the class features and the subclasses heading (e.g.
+		// Warlock's SPHERE OF INFLUENCE EXAMPLES), and any headed block after
+		// CONNECTIONS at the end of the section (e.g. Brawler's MARTIAL
+		// STANCES). Druid's BEASTFORM OPTIONS keeps its dedicated handling.
+		featuresExtra := ""
+		reAnyHead := regexp.MustCompile(`(?m)^#{4,6}\s+\S.*$`)
+		reSubsHead := regexp.MustCompile(`(?m)^#{4,6}\s+.*SUBCLASSES\s*$`)
+		if ci, _ := findHeaderBlockStart(chunk, reCF); ci != -1 {
+			if sl := reSubsHead.FindStringIndex(chunk); sl != nil && sl[0] > ci {
+				cfLineEnd := ci + strings.Index(chunk[ci:], "\n")
+				if hl := reAnyHead.FindStringIndex(chunk[cfLineEnd:sl[0]]); hl != nil {
+					featuresExtra = strings.TrimSpace(shiftHeadings(chunk[cfLineEnd+hl[0]:sl[0]], 3))
+				}
+			}
+		}
+		extraSections := ""
+		if cnIdx := strings.Index(chunk, "#### CONNECTIONS"); cnIdx != -1 {
+			cnLineEnd := cnIdx + strings.Index(chunk[cnIdx:], "\n") + 1
+			reTrail := regexp.MustCompile(`(?m)^#{3,4} (.+)$`)
+			if m := reTrail.FindStringSubmatchIndex(chunk[cnLineEnd:]); m != nil {
+				title := strings.TrimSpace(chunk[cnLineEnd+m[2] : cnLineEnd+m[3]])
+				// BEASTFORM OPTIONS (Druid) and RANGER COMPANION (Beastbound)
+				// already have dedicated rendering on other pages.
+				if !strings.Contains(title, "BEASTFORM") && !strings.Contains(title, "COMPANION") {
+					extraSections = strings.TrimSpace(shiftHeadings(chunk[cnLineEnd+m[0]:], 3))
+				}
+			}
+		}
+
 		bg := []string{"", "", ""}
 		if bi := strings.Index(chunk, "#### BACKGROUND QUESTIONS"); bi != -1 {
 			c := 0
@@ -1068,9 +1164,9 @@ func extractClasses(content, outputDir string) {
 			cf3n, cf3t = cfFeats[4], cfFeats[5]
 		}
 
-		records = append(records, []string{name, strings.TrimSpace(desc), d1, d2, evasion, hp, items, sugTraits, sugPrimary, sugSecondary, sugArmor, hopeN, hopeT, cf1n, cf1t, cf2n, cf2t, cf3n, cf3t, bg[0], bg[1], bg[2], cn[0], cn[1], cn[2], sub1, sub2})
+		records = append(records, []string{name, strings.TrimSpace(desc), d1, d2, evasion, hp, items, sugTraits, sugPrimary, sugSecondary, sugArmor, hopeN, hopeT, cf1n, cf1t, cf2n, cf2t, cf3n, cf3t, bg[0], bg[1], bg[2], cn[0], cn[1], cn[2], sub1, sub2, featuresExtra, extraSections})
 	}
-	writeCSV(outputDir+"/classes.csv", []string{"Name", "Description", "Domain 1", "Domain 2", "Evasion", "HP", "Items", "Suggested Traits", "Suggested Primary", "Suggested Secondary", "Suggested Armor", "Hope Feature Name", "Hope Feature Text", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Background 1 Question", "Background 2 Question", "Background 3 Question", "Connection 1 Question", "Connection 2 Question", "Connection 3 Question", "Subclass 1", "Subclass 2"}, records)
+	writeCSV(outputDir+"/classes.csv", []string{"Name", "Description", "Domain 1", "Domain 2", "Evasion", "HP", "Items", "Suggested Traits", "Suggested Primary", "Suggested Secondary", "Suggested Armor", "Hope Feature Name", "Hope Feature Text", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Background 1 Question", "Background 2 Question", "Background 3 Question", "Connection 1 Question", "Connection 2 Question", "Connection 3 Question", "Subclass 1", "Subclass 2", "Features Extra", "Extra Sections"}, records)
 }
 
 func extractCommunities(content, outputDir string) {
@@ -1131,25 +1227,8 @@ func extractCommunities(content, outputDir string) {
 }
 
 func extractConsumables(content, outputDir string) {
-	section := getSection(content, "## CONSUMABLES")
-	var records [][]string
-	for _, line := range strings.Split(section, "\n") {
-		cells, ok := parseMarkdownTableRow(line, 3)
-		if !ok {
-			continue
-		}
-		if strings.EqualFold(cells[0], "roll") {
-			continue
-		}
-		roll, name, desc := cells[0], strings.Trim(cells[1], "* "), cells[2]
-		name = titleizeIfAllCaps(name)
-		name = titleizeIfAllCaps(name)
-		if roll == "" || name == "" {
-			warnMissing("Consumable", name, "Roll or Name")
-		}
-		records = append(records, []string{roll, name, desc})
-	}
-	writeCSV(outputDir+"/consumables.csv", []string{"Roll", "Name", "Description"}, records)
+	records := extractRollTables(content, "## CONSUMABLES", "Consumable")
+	writeCSV(outputDir+"/consumables.csv", []string{"Roll", "Name", "Description", "Table"}, records)
 }
 
 func extractDomains(content, outputDir string) {
@@ -1168,6 +1247,11 @@ func extractDomains(content, outputDir string) {
 	for i, chunk := range chunks {
 		if i == 0 || strings.HasPrefix(chunk, "##") {
 			continue
+		}
+		// Stop at the next level-3 heading (e.g. ### CLASS DOMAINS follows
+		// the last domain) so its content doesn't leak into the description.
+		if idx := strings.Index(chunk, "\n### "); idx != -1 {
+			chunk = chunk[:idx]
 		}
 		lines := strings.Split(chunk, "\n")
 		name := titleizeIfAllCaps(strings.TrimSpace(lines[0]))
@@ -1312,7 +1396,13 @@ func extractEnvironments(content, outputDir string) {
 					}
 					break
 				}
-				if strings.HasPrefix(l, "_") && strings.Contains(l, ":_") {
+				if m := reFeatureDotLabel.FindStringSubmatch(l); len(m) > 2 {
+					if currN != "" {
+						feats = append(feats, currN, strings.Trim(currT, "\n"))
+					}
+					currN = titleizeIfAllCaps(m[1])
+					currT = strings.TrimSpace(m[2])
+				} else if strings.HasPrefix(l, "_") && strings.Contains(l, ":_") {
 					if currN != "" {
 						feats = append(feats, currN, strings.Trim(currT, "\n"))
 					}
@@ -1331,6 +1421,9 @@ func extractEnvironments(content, outputDir string) {
 			if currN != "" {
 				feats = append(feats, currN, strings.Trim(currT, "\n"))
 			}
+		}
+		if len(feats) > 12 {
+			warnFormat("Environment", name, fmt.Sprintf("%d features (only 6 kept)", len(feats)/2))
 		}
 		row := []string{name, tier, typ, desc, imp, diff, adv}
 		for k := 0; k < 6; k++ {
@@ -1549,9 +1642,25 @@ func extractBeastforms(content, outputDir string) {
 }
 
 func extractItems(content, outputDir string) {
-	section := getSection(content, "## LOOT")
+	records := extractRollTables(content, "## ITEMS", "Item")
+	writeCSV(outputDir+"/items.csv", []string{"Roll", "Name", "Description", "Table"}, records)
+}
+
+// extractRollTables reads a section containing one or more roll tables
+// (e.g. ### Core Set Items, ### Additional Items), each restarting its Roll
+// numbering at 01. The originating table is recorded so duplicate roll
+// numbers stay distinguishable.
+func extractRollTables(content, headerLine, entity string) [][]string {
+	section := getSection(content, headerLine)
 	var records [][]string
+	table := ""
 	for _, line := range strings.Split(section, "\n") {
+		if level, title := parseHeadingLine(line); level == 3 {
+			table = strings.TrimSpace(title)
+			for _, suffix := range []string{" Items", " Consumables"} {
+				table = strings.TrimSuffix(table, suffix)
+			}
+		}
 		cells, ok := parseMarkdownTableRow(line, 3)
 		if !ok {
 			continue
@@ -1560,12 +1669,31 @@ func extractItems(content, outputDir string) {
 			continue
 		}
 		roll, name, desc := cells[0], strings.Trim(cells[1], "* "), cells[2]
+		name = titleizeIfAllCaps(name)
 		if roll == "" || name == "" {
-			warnMissing("Item", name, "Roll or Name")
+			warnMissing(entity, name, "Roll or Name")
 		}
-		records = append(records, []string{roll, name, desc})
+		if table == "" {
+			warnFormat(entity, name, "table row before any level-3 table heading")
+		}
+		records = append(records, []string{roll, name, desc, table})
 	}
-	writeCSV(outputDir+"/items.csv", []string{"Roll", "Name", "Description"}, records)
+	return records
+}
+
+func parseHeadingLine(line string) (int, string) {
+	trimmed := strings.TrimLeft(line, " \t")
+	if !strings.HasPrefix(trimmed, "#") {
+		return 0, ""
+	}
+	hashes := 0
+	for hashes < len(trimmed) && trimmed[hashes] == '#' {
+		hashes++
+	}
+	if hashes >= len(trimmed) || trimmed[hashes] != ' ' {
+		return 0, ""
+	}
+	return hashes, strings.TrimSpace(trimmed[hashes:])
 }
 
 func extractSubclasses(content, outputDir string) {
@@ -1663,6 +1791,85 @@ func extractSubclasses(content, outputDir string) {
 	}
 
 	writeCSV(outputDir+"/subclasses.csv", []string{"Name", "Description", "Spellcast Trait", "Foundation 1 Name", "Foundation 1 Text", "Foundation 2 Name", "Foundation 2 Text", "Specialization 1 Name", "Specialization 1 Text", "Specialization 2 Name", "Specialization 2 Text", "Mastery 1 Name", "Mastery 1 Text", "Mastery 2 Name", "Mastery 2 Text"}, records)
+}
+
+func extractTransformations(content, outputDir string) {
+	section := getSection(content, "## TRANSFORMATIONS")
+	if section == "" {
+		fmt.Println("Warning: Transformations section not found")
+		return
+	}
+	chunks := strings.Split(section, "\n### ")
+	var records [][]string
+	maxQuestions := 6
+	for i, chunk := range chunks {
+		if i == 0 {
+			continue
+		}
+		lines := strings.Split(chunk, "\n")
+		name := titleizeIfAllCaps(strings.TrimSpace(lines[0]))
+		// GRANTING TRANSFORMATIONS is part of the section intro, not an entry.
+		if !strings.Contains(chunk, "TRANSFORMATION FEATURES") {
+			warnFormat("Transformation", name, "no TRANSFORMATION FEATURES heading; treated as intro")
+			continue
+		}
+
+		reFeat := regexp.MustCompile(`(?m)^#{4,6}\s+TRANSFORMATION FEATURES\b.*$`)
+		splitIdx, header := findHeaderBlockStart(chunk, reFeat)
+		if splitIdx == -1 {
+			warnMissing("Transformation", name, "Transformation Features")
+			continue
+		}
+		if header != "##### TRANSFORMATION FEATURES" {
+			warnFormat("Transformation", name, fmt.Sprintf("features heading '%s'", header))
+		}
+		desc := strings.TrimSpace(strings.Trim(chunk[len(lines[0]):splitIdx], "\n"))
+		feats := extractFeaturePairs(chunk[splitIdx:])
+		if len(feats) == 0 {
+			warnMissing("Transformation", name, "Features")
+		}
+
+		questions := []string{}
+		reQuestions := regexp.MustCompile(`(?m)^#{4,6}\s+TRANSFORMATION QUESTIONS\b.*$`)
+		if qi, qHeader := findHeaderBlockStart(chunk, reQuestions); qi != -1 {
+			if qHeader != "##### TRANSFORMATION QUESTIONS" {
+				warnFormat("Transformation", name, fmt.Sprintf("questions heading '%s'", qHeader))
+			}
+			for _, l := range strings.Split(chunk[qi:], "\n")[1:] {
+				t := strings.TrimSpace(l)
+				if strings.HasPrefix(t, "#") {
+					break
+				}
+				if strings.HasPrefix(t, "- ") {
+					questions = append(questions, strings.TrimSpace(strings.TrimPrefix(t, "- ")))
+				}
+			}
+		}
+		if len(questions) == 0 {
+			warnMissing("Transformation", name, "Questions")
+		}
+		if len(questions) > maxQuestions {
+			warnFormat("Transformation", name, fmt.Sprintf("%d questions (only %d kept)", len(questions), maxQuestions))
+		}
+
+		row := []string{name, desc}
+		for k := 0; k < 4; k++ {
+			if k < len(feats) {
+				row = append(row, feats[k])
+			} else {
+				row = append(row, "")
+			}
+		}
+		for k := 0; k < maxQuestions; k++ {
+			if k < len(questions) {
+				row = append(row, questions[k])
+			} else {
+				row = append(row, "")
+			}
+		}
+		records = append(records, row)
+	}
+	writeCSV(outputDir+"/transformations.csv", []string{"Name", "Description", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Question 1 Text", "Question 2 Text", "Question 3 Text", "Question 4 Text", "Question 5 Text", "Question 6 Text"}, records)
 }
 
 func extractWeapons(content, outputDir string) {

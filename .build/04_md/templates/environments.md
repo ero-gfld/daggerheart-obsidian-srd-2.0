@@ -10,5 +10,5 @@
 
 {{- range .feature }}
 
-**_{{ .name }}:_** {{ .text }}{{ if .question }} _{{ .question }}_{{ end }}
+**_{{ featureLabel .name }}_** {{ .text }}{{ if .question }} _{{ .question }}_{{ end }}
 {{- end }}
