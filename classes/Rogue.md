@@ -1,6 +1,6 @@
 # Rogue
 
-Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there’s honor among thieves for those who know where to look.
+Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there's honor among thieves for those who know where to look.
 
 ---
 
@@ -8,13 +8,6 @@ Rogues are scoundrels, often in both attitude and practice. Broadly known as lia
 - **STARTING EVASION -** 12
 - **STARTING HIT POINTS -** 6
 - **CLASS ITEMS -** A set of forgery tools or a grappling hook
-
----
-
-- **SUGGESTED TRAITS -** +1, -1, +2, 0, +1, 0
-- **SUGGESTED PRIMARY -** Dagger
-- **SUGGESTED SECONDARY -** Small Dagger
-- **SUGGESTED ARMOR -** Gambeson Armor
 
 ---
 

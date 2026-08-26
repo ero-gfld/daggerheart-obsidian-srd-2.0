@@ -11,13 +11,6 @@ Bards are the most charismatic people in all the realms. Members of this class a
 
 ---
 
-- **SUGGESTED TRAITS -** 0, -1, +1, 0, +2, +1
-- **SUGGESTED PRIMARY -** Rapier
-- **SUGGESTED SECONDARY -** Small Dagger
-- **SUGGESTED ARMOR -** Gambeson Armor
-
----
-
 ### HOPE FEATURE
 
 **_Make a Scene:_** **Spend 3 Hope** to temporarily _Distract_ a target within Close range, giving them a -2 penalty to their Difficulty.

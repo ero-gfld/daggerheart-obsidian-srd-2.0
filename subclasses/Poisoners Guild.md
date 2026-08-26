@@ -1,0 +1,36 @@
+# Poisoners Guild
+
+Play the Poisoners Guild if you want to debilitate your targets with punishing afflictions.
+
+### SPELLCAST TRAIT
+
+Knowledge
+
+### FOUNDATION FEATURE
+
+**_Toxic Concoctions:_** **Mark a Stress** to place **1d4+1** tokens on this card. When you make a successful weapon attack, you can spend a token to afflict the target with a poison. You know these poisons:
+
+- _Ghost Petal:_ The target becomes temporarily _Vulnerable_.
+- _Grave Spore:_ The target must also mark a Stress.
+- _Leech Weed:_ You deal an extra **1d6** damage on this attack.
+
+When you take a long rest, clear all unspent tokens.
+
+### SPECIALIZATION FEATURES
+
+**_Poison Compendium:_** You also know these poisons:
+
+- _Midnight Vine:_ The target has disadvantage on attack rolls until it marks a Stress to clear this condition.
+- _Gorgon Root:_ The target becomes temporarily _Restrained_.
+
+**_Twin Fang:_** When you afflict a target _Marked for Death_ with a poison you know, you can spend an additional token to also inflict the effect of a second poison you know.
+
+### MASTERY FEATURES
+
+**_Venomancer:_** You also know these poisons:
+
+- _Blight Seed:_ The target gains a -3 penalty to their damage thresholds until the end of the scene. This effect can't stack.
+- _Fear Leaf:_ You deal extra damage equal to the result of your Fear Die on this attack.
+- _Corpse Thorn:_ The target gains disadvantage on reaction rolls until the end of the scene.
+
+**_Adder's Blessing:_** You are immune to poisons and other toxins.

@@ -7,13 +7,7 @@ Whether through an institution or individual study, those known as wizards acqui
 - **DOMAINS -** [Codex](../domains/Codex.md) & [Splendor](../domains/Splendor.md)
 - **STARTING EVASION -** 11
 - **STARTING HIT POINTS -** 5
-- **CLASS ITEMS -** A book you’re trying to translate or a tiny, harmless elemental pet
-
----
-
-- **SUGGESTED TRAITS -** -1, 0, 0, +1, +1, +2
-- **SUGGESTED PRIMARY -** Greatstaff
-- **SUGGESTED ARMOR -** Leather Armor
+- **CLASS ITEMS -** A book you're trying to translate or a tiny, harmless elemental pet
 
 ---
 

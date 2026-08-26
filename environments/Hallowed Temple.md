@@ -19,4 +19,4 @@
 
 **_Relentless Hope - Reaction:_** Once per scene, each PC can mark a Stress to turn a result with Fear into a result with Hope. _What emotions or memories do you connect with when fear presses in?_
 
-**_Divine Censure - Reaction:_** When the PCs have trespassed, blasphemed, or off ended the clergy, you can **spend a Fear** to summon a High Seraph and **1d4** Bladed Guards within Close range of the senior priest to reinforce their will. _What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?_
+**_Divine Censure - Reaction:_** When the PCs have trespassed, blasphemed, or offended the clergy, you can **spend a Fear** to summon a High Seraph and **1d4** Bladed Guards within Close range of the senior priest to reinforce their will. _What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?_

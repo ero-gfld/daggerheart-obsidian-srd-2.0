@@ -11,12 +11,6 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 ---
 
-- **SUGGESTED TRAITS -** +2, +1, 0, +1, -1, 0
-- **SUGGESTED PRIMARY -** Longsword
-- **SUGGESTED ARMOR -** Chainmail Armor
-
----
-
 ### HOPE FEATURE
 
 **_No Mercy:_** **Spend 3 Hope** to gain a +1 bonus to your attack rolls until your next rest.

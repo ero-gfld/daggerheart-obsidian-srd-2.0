@@ -1,6 +1,6 @@
 # Cliffside Ascent
 
-**_Tier 1 Traversal._** _A steep, rocky cliff side tall enough to make traversal dangerous._
+**_Tier 1 Traversal._** _A steep, rocky cliffside tall enough to make traversal dangerous._
 
 - **Impulses:** Cast the unready down to a rocky doom, draw people in with promise of what lies at the top
 - **Difficulty:** 12
@@ -8,7 +8,7 @@
 
 ### FEATURES
 
-**_The Climb - Passive:_** Climbing up the cliff side uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:
+**_The Climb - Passive:_** Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:
 
 - **Critical Success:** Tick down 3
 - **Success with Hope:** Tick down 2
