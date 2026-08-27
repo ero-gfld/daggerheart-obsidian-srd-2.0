@@ -12,21 +12,21 @@
 
 {{- range .foundation }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{- end }}
 
 ### {{ literalHeading .specialization_heading "SPECIALIZATION FEATURE" (len .specialization) }}
 
 {{- range .specialization }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{- end }}
 
 ### {{ literalHeading .mastery_heading "MASTERY FEATURE" (len .mastery) }}
 
 {{- range .mastery }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{- end }}
 
 {{- if eq .name "Beastbound" }}
@@ -78,14 +78,14 @@ When you command your companion to attack, they gain any benefits that would nor
 
 When your character levels up, choose one available option for your companion from the following list and mark it on your sheet:
 
-- _Intelligent:_ Your companion gains a permanent +1 bonus to a Companion Experience of your choice.
-- _Light in the Dark:_ Use this as an additional Hope slot your character can mark.
-- _Creature Comfort:_ Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a Stress.
-- _Armored:_ When your companion takes damage, you can **mark one of your Armor Slots** instead of marking one of their Stress.
-- _Vicious:_ Increase your companion's damage dice or range by one step (d6 to d8, Close to Far, etc.).
-- _Resilient:_ Your companion gains an additional Stress slot.
-- _Bonded:_ When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
-- _Aware:_ Your companion gains a permanent +2 bonus to their Evasion.
+- **_Intelligent:_** Your companion gains a permanent +1 bonus to a Companion Experience of your choice.
+- **_Light in the Dark:_** Use this as an additional Hope slot your character can mark.
+- **_Creature Comfort:_** Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a Stress.
+- **_Armored:_** When your companion takes damage, you can **mark one of your Armor Slots** instead of marking one of their Stress.
+- **_Vicious:_** Increase your companion's damage dice or range by one step (d6 to d8, Close to Far, etc.).
+- **_Resilient:_** Your companion gains an additional Stress slot.
+- **_Bonded:_** When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
+- **_Aware:_** Your companion gains a permanent +2 bonus to their Evasion.
   {{- end }}
 
 {{- if eq .name "Martial Artist" }}
@@ -120,41 +120,41 @@ The following section lists all martial stances by tier.
 
 ##### TIER 1
 
-_Favored:_ Gain a bonus to damage rolls equal to a trait of your choice.
+**_Favored:_** Gain a bonus to damage rolls equal to a trait of your choice.
 
-_Invigorating:_ On a successful attack, roll a **d4**. On a result of 4, gain a Focus.
+**_Invigorating:_** On a successful attack, roll a **d4**. On a result of 4, gain a Focus.
 
-_Quick:_ When you make an attack, you can **spend a Focus** or **mark a Stress** to target another creature within range with that attack.
+**_Quick:_** When you make an attack, you can **spend a Focus** or **mark a Stress** to target another creature within range with that attack.
 
-_Reliable:_ Gain a +1 bonus to your attack rolls.
+**_Reliable:_** Gain a +1 bonus to your attack rolls.
 
 ##### TIER 2
 
-_Aggressive:_ Gain a -1 penalty to your Evasion. On a successful attack, roll an additional damage die and discard the lowest result.
+**_Aggressive:_** Gain a -1 penalty to your Evasion. On a successful attack, roll an additional damage die and discard the lowest result.
 
-_Anchored:_ Gain a +2 bonus to your damage thresholds. While in this stance, you can't be moved against your will.
+**_Anchored:_** Gain a +2 bonus to your damage thresholds. While in this stance, you can't be moved against your will.
 
-_Defensive:_ Attack rolls targeting you from within Melee range have disadvantage unless the attacker marks a Stress to negate the disadvantage.
+**_Defensive:_** Attack rolls targeting you from within Melee range have disadvantage unless the attacker marks a Stress to negate the disadvantage.
 
-_Otherworldly:_ On a successful attack, you can deal physical or magic damage.
+**_Otherworldly:_** On a successful attack, you can deal physical or magic damage.
 
 ##### TIER 3
 
-_Grappling:_ On a successful attack within Melee range, you can **spend a Focus** or **mark a Stress** to temporarily _Restrain_ the target or throw the target up to Close range.
+**_Grappling:_** On a successful attack within Melee range, you can **spend a Focus** or **mark a Stress** to temporarily _Restrain_ the target or throw the target up to Close range.
 
-_Scary:_ On a successful attack, the target must mark a Stress.
+**_Scary:_** On a successful attack, the target must mark a Stress.
 
-_Stable:_ You can **spend a Focus** instead of an Armor Slot to reduce damage.
+**_Stable:_** You can **spend a Focus** instead of an Armor Slot to reduce damage.
 
-_Vigilant:_ When you are targeted by an attack, you can **mark a Stress** to gain a **d6** bonus to your Evasion against the attack.
+**_Vigilant:_** When you are targeted by an attack, you can **mark a Stress** to gain a **d6** bonus to your Evasion against the attack.
 
 ##### TIER 4
 
-_Crushing:_ When you deal Severe damage, you can **spend a Hope** to force the target to mark an additional Hit Point.
+**_Crushing:_** When you deal Severe damage, you can **spend a Hope** to force the target to mark an additional Hit Point.
 
-_Exacting:_ When you roll a 1 on a damage die, you can treat it as the highest value on the die instead.
+**_Exacting:_** When you roll a 1 on a damage die, you can treat it as the highest value on the die instead.
 
-_Honed:_ **Spend a Focus** before you make an attack roll to gain a +1 bonus to your Proficiency for that attack.
+**_Honed:_** **Spend a Focus** before you make an attack roll to gain a +1 bonus to your Proficiency for that attack.
 
-_Isolating:_ Gain advantage on attack rolls when there are no other creatures within Very Close range of you or your target.
+**_Isolating:_** Gain advantage on attack rolls when there are no other creatures within Very Close range of you or your target.
 {{- end }}

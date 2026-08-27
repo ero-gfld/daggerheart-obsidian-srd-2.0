@@ -29,7 +29,7 @@ While _Unstoppable_, you gain the following benefits:
 
 ### SUBCLASSES
 
-Choose either the **[Stalwart](../subclasses/Stalwart.md)** or **[Vengeance](../subclasses/Vengeance.md)** subclass.
+_Choose either the **[Stalwart](../subclasses/Stalwart.md)** or **[Vengeance](../subclasses/Vengeance.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

@@ -16,8 +16,8 @@ Presence
 
 ### SPECIALIZATION FEATURE
 
-**_Maestro:_** Your rallying songs steel the courage of those who listen. When you give a Rally Die to an ally, they can gain a Hope or clear a Stress.
+**_Maestro._** Your rallying songs steel the courage of those who listen. When you give a Rally Die to an ally, they can gain a Hope or clear a Stress.
 
 ### MASTERY FEATURE
 
-**_Virtuoso:_** You are among the greatest of your craft and your skill is boundless. You can perform each of your "Gifted Performer" feature's songs twice per long rest.
+**_Virtuoso._** You are among the greatest of your craft and your skill is boundless. You can perform each of your "Gifted Performer" feature's songs twice per long rest.

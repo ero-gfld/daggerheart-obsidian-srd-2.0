@@ -6,5 +6,5 @@
 
 {{- range .feature }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{- end }}

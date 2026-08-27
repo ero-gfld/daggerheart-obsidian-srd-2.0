@@ -24,13 +24,13 @@
 
 ### {{ headingOr .hope_feature_heading "HOPE FEATURE" }}
 
-**_{{ .hope_feature_name }}:_** {{ .hope_feature_text }}
+**_{{ featureLabel .hope_feature_name }}_** {{ .hope_feature_text }}
 
 ### {{ literalHeading .class_features_heading "CLASS FEATURE" (len .feature) }}
 
 {{ range .feature }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{ end }}
 {{- if .features_extra }}
 
@@ -67,7 +67,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ### SUBCLASSES
 
-Choose either the **[{{ .subclass_1 }}](../subclasses/{{ urlEncode .subclass_1 }}.md)** or **[{{ .subclass_2 }}](../subclasses/{{ urlEncode .subclass_2 }}.md)** subclass.
+_Choose either the **[{{ .subclass_1 }}](../subclasses/{{ urlEncode .subclass_1 }}.md)** or **[{{ .subclass_2 }}](../subclasses/{{ urlEncode .subclass_2 }}.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

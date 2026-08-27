@@ -63,6 +63,13 @@ type config struct {
 	// every entry is content a reader of the repo will never see.
 	roundTripIgnore []*regexp.Regexp
 
+	// authoredProseIgnore lists published lines (by regexp) that are allowed to
+	// have no counterpart in the SRD source. This is the allowlist for the
+	// reverse round-trip, and every entry has to be repo metadata rather than
+	// game content: the moment an entry describes the SRD itself, the generator
+	// is authoring prose again. Keep it as short as it is.
+	authoredProseIgnore []*regexp.Regexp
+
 	// categoryContext maps a content directory to heading keywords that make a
 	// link into that directory plausible. Used by link-target-sanity.
 	categoryContext map[string][]string
@@ -81,6 +88,16 @@ func defaultConfig(root string) *config {
 			regexp.MustCompile(`^(ARCANA|BLADE|BONE|CODEX|DREAD|GRACE|MIDNIGHT|SAGE|SPLENDOR|VALOR) DOMAIN\b`),
 		},
 		roundTripIgnore: nil,
+		// The PDF has no reference site — this repo is the reference site — so
+		// the two-line "REFERENCE SITE" block stage 04 prepends to README.md is
+		// the one piece of published text that is deliberately not in the SRD.
+		// It is repo metadata (where this rendering lives), not game content,
+		// and it is allowlisted by exact shape so that a third line appearing
+		// under the same banner is still reported.
+		authoredProseIgnore: []*regexp.Regexp{
+			regexp.MustCompile(`^\*\*REFERENCE SITE\*\*$`),
+			regexp.MustCompile(`^\[matthttam\.github\.io/daggerheart-srd-2\.0\]\(https://matthttam\.github\.io/daggerheart-srd-2\.0/\)$`),
+		},
 		categoryContext: map[string][]string{
 			"abilities":       {"DOMAIN", "ABILIT", "CARD", "SPELL", "GRIMOIRE", "LOADOUT", "VAULT", "ARCANA", "BLADE", "BONE", "CODEX", "DREAD", "GRACE", "MIDNIGHT", "SAGE", "SPLENDOR", "VALOR"},
 			"adversaries":     {"ADVERSAR", "MONSTER", "STAT BLOCK", "ENCOUNTER", "COMBAT", "BATTLE", "GM ", "ENEMY", "ENEMIES"},
@@ -524,6 +541,7 @@ func main() {
 	rep := &report{}
 
 	checkContentRoundTrip(r, rep)
+	checkAuthoredProse(r, rep)
 	checkSectionRemovalLinks(r, rep)
 	checkLinkIntegrity(r, rep)
 	checkLinkTargetSanity(r, rep)
@@ -721,6 +739,130 @@ func checkContentRoundTrip(r *repo, rep *report) {
 			reported = true
 		}
 		_ = reported
+	}
+}
+
+// ---------------------------------------------------------------------------
+// Check: authored-prose (the reverse round-trip)
+// ---------------------------------------------------------------------------
+
+// minProseTokens is the shortest fragment authored-prose will report. One- and
+// two-token fragments are the field labels, navigation stubs and single cell
+// values stage 04's templates supply *around* SRD content — the "Trait Bonus"
+// of a beastform bullet, the "Option 1" column heading of the domain card grid,
+// the "See: Aetheris" stubs in README.md — and the SRD prints nothing in those
+// positions for them to be verbatim copies of. They are also where covers()
+// says the least: under gramK it is a bag lookup over every short n-gram in the
+// source, and at one or two tokens that is nearly free. Prose starts above them.
+//
+// The known cost is that the four "upgraded" beastforms publish "<no value>"
+// where stage 04's template renders a field the SRD never gave them; "no value"
+// is two tokens, so this check does not report it. Fix that in the template
+// rather than by lowering this floor.
+const minProseTokens = 3
+
+// emphasisRunRe matches one markdown-emphasised fragment: "**_Tier 1_**",
+// "_Primary_", "**Melee**".
+var emphasisRunRe = regexp.MustCompile(`[*_]{1,3}([^*_]+?)[*_]{1,3}`)
+
+// emphasisOnlyRuns splits a segment that is *nothing but* a sequence of
+// emphasised fragments into those fragments, and returns nil for anything else.
+// It models the one output-side restructuring splitSegments does not: stage 04's
+// templates assemble such lines out of separate source cells, so
+// "**_Tier 1_** _Primary_ _Physical_ _Weapon_" is four independent values from
+// one weapon table row and no source line prints them in that order.
+//
+// Every fragment it returns is still required to trace back to the source, so
+// the split loosens *contiguity* only; it never lets an unsourced word through.
+// And it gives up the moment a letter or digit survives outside the emphasis
+// runs, which is what keeps it away from ordinary prose: a sentence with a bold
+// word in the middle of it is still checked as one sentence, so an invented
+// sentence cannot be waved past a fragment at a time.
+func emphasisOnlyRuns(s string) []string {
+	ms := emphasisRunRe.FindAllStringSubmatch(s, -1)
+	if len(ms) < 2 {
+		return nil
+	}
+	for _, r := range emphasisRunRe.ReplaceAllString(s, " ") {
+		if unicode.IsLetter(r) || unicode.IsDigit(r) {
+			return nil
+		}
+	}
+	out := make([]string, 0, len(ms))
+	for _, m := range ms {
+		if v := strings.TrimSpace(m[1]); v != "" {
+			out = append(out, v)
+		}
+	}
+	return out
+}
+
+// checkAuthoredProse runs the round-trip in the output → source direction.
+//
+// content-round-trip asks "did any SRD text stop being published?"; this asks
+// the opposite and equally important question, "is any published text not in
+// the SRD?" A repo whose entire value proposition is a verbatim rendering of a
+// licensed document cannot ship a sentence Darrington Press did not write.
+func checkAuthoredProse(r *repo, rep *report) {
+	const check = "authored-prose"
+	c := buildCorpus([]*mdFile{r.source})
+
+	for _, f := range r.publishedFiles() {
+		inFence := false
+		for i, ln := range f.lines {
+			trimmed := strings.TrimSpace(ln)
+			if strings.HasPrefix(trimmed, "```") || strings.HasPrefix(trimmed, "~~~") {
+				inFence = !inFence
+				continue
+			}
+			if inFence || trimmed == "" {
+				continue
+			}
+			// Note there is no heading skip here, unlike in
+			// content-round-trip: the forward direction skips headings because
+			// the generator legitimately rewrites and re-levels source ones,
+			// but in this direction a heading nobody wrote is exactly as
+			// unpublishable as a sentence nobody wrote. The "#" markers
+			// tokenize away to nothing.
+			if matchesAny(r.cfg.authoredProseIgnore, trimmed) {
+				continue
+			}
+			toks := tokenize(ln)
+			if len(toks) == 0 {
+				continue // rules, table delimiter rows, image-only lines
+			}
+			if c.covers(toks) {
+				continue
+			}
+			// Compare link *text* only: stage 04's whole job is to splice
+			// "[Broadsword](weapons/Broadsword.md)" into sentences the SRD
+			// prints as "Broadsword", and the target path is repo structure
+			// rather than prose.
+			for _, seg := range splitSegments(stripLinks(trimmed)) {
+				if st := tokenize(seg); len(st) < minProseTokens || c.covers(st) {
+					continue
+				}
+				pieces := emphasisOnlyRuns(seg)
+				if len(pieces) == 0 {
+					pieces = []string{seg}
+				}
+				unsourced := ""
+				for _, piece := range pieces {
+					pt := tokenize(piece)
+					if len(pt) < minProseTokens || c.covers(pt) {
+						continue
+					}
+					unsourced = piece
+					break
+				}
+				if unsourced == "" {
+					continue
+				}
+				rep.add(check, sevError, f.rel, i+1,
+					"published text appears nowhere in %s; generated output must be verbatim SRD content: %q",
+					r.cfg.sourceMD, excerpt(unsourced, 140))
+			}
+		}
 	}
 }
 

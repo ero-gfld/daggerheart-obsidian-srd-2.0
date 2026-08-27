@@ -14,7 +14,7 @@
 
 - They gain advantage on all attacks.
 - They deal an extra **1d10** damage on a successful attack.
-- They gain the following feature: _Relentless (2) - Passive:_ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _How does the enemy change in appearance? What fears do their blows bring to the surface?_
+- They gain the following feature: _Relentless (2) - Passive._ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _How does the enemy change in appearance? What fears do their blows bring to the surface?_
 
 **_The Summoning - Reaction:_** _Countdown (6)._ When the PCs enter the scene or the cult begins the ritual to summon a demon, activate the countdown. Designate one adversary to lead the ritual. The countdown ticks down when a PC rolls with Fear. When it triggers, summon a Minor Demon within Very Close range of the ritual's leader. If the leader is defeated, the countdown ends with no effect as the ritual fails. _What will the cult do with this leashed demon if they succeed? What will they try to summon next?_
 

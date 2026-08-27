@@ -332,7 +332,9 @@ Eclipse,10,Midnight,Spell,2,"Make a **Spellcast Roll (16)**. Once per long rest 
 Additionally, when you or an ally succeeds with Hope against an adversary within this shadow, the target must mark a Stress.
 
 This spell lasts until the GM spends a Fear on their turn to clear this effect or you take Severe damage."
-Specter of the Dark,10,Midnight,Spell,1,"**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you're in this form."
+Specter of the Dark,10,Midnight,Spell,1,"**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects.
+
+Other creatures can still see you while you're in this form."
 Gifted Tracker,1,Sage,Ability,0,"When you're tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of Hope** and ask the GM that many questions from the following list.
 
 - What direction did they go?

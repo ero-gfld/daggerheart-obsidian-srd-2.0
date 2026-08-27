@@ -63,11 +63,19 @@ files; fix the extractor or the source markdown instead.
 
     go run .build/05_validate/validate.go
 
-Validates the whole pipeline output against the source markdown: content
-round-trip, link integrity, entity coverage, stat-block completeness, duplicate
-detection, table integrity and filename portability. Exits non-zero on any
-ERROR-level finding, so it can gate CI. See `.build/05_validate/README.md` for
-what each check does and which real bug it was written to catch.
+Validates the whole pipeline output against the source markdown, in both
+directions: content round-trip (no SRD text stopped being published), authored
+prose (no published text is absent from the SRD), link integrity, entity
+coverage, stat-block completeness, duplicate detection, table integrity and
+filename portability. Exits non-zero on any ERROR-level finding. See
+`.build/05_validate/README.md` for what each check does and which real bug it
+was written to catch.
+
+`.github/workflows/ci.yml` runs this before `mkdocs gh-deploy`, so a validation
+failure blocks publishing rather than shipping broken content. WARN findings do
+not fail the build; the four the suite currently reports are faithful
+reflections of inconsistencies printed in the SRD PDF itself. Run it locally
+before pushing to `main`.
 
 ## Testing Static Site
 

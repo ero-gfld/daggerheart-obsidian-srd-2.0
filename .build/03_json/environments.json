@@ -6,7 +6,7 @@
       {
         "name": "Overgrown Battlefield - Passive",
         "question": "Why did these groups come to blows? Why is the grove unused now?",
-        "text": "There has been a battle here. A PC can make an Instinct Roll to identify evidence of that fight. On a success with Hope, learn all three pieces of information below. On a success with Fear, learn two. On a failure, a PC can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment. A PC with an appropriate background or Experience can learn an additional detail and ask a follow-up question about the scene and get a truthful (if not always complete) answer. _Why did these groups come to blows? Why is the grove unused now?_\n\n- Traces of a battle (broken weapons and branches, gouges in the ground) litter the ground.\n- A moss-covered tree trunk is actually the corpse of a treant.\n- Still-standing trees are twisted in strange ways, as if by powerful magic."
+        "text": "There has been a battle here. A PC can make an Instinct Roll to identify evidence of that fight. On a success with Hope, learn all three pieces of information below. On a success with Fear, learn two. On a failure, a PC can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment. A PC with an appropriate background or Experience can learn an additional detail and ask a follow-up question about the scene and get a truthful (if not always complete) answer.\n\n- Traces of a battle (broken weapons and branches, gouges in the ground) litter the ground.\n- A moss-covered tree trunk is actually the corpse of a treant.\n- Still-standing trees are twisted in strange ways, as if by powerful magic.\n\n_Why did these groups come to blows? Why is the grove unused now?_"
       },
       {
         "name": "Barbed Vines - Action",
@@ -43,7 +43,7 @@
       {
         "name": "Labyrinth - Passive",
         "question": "What did miners previously extract here? Who in the party knows how to navigate below ground? What are the PCs most afraid might happen to them down here?",
-        "text": "The party must complete a Progress Countdown (4) to find their way through the mines. Each time a PC rolls with Hope while finding their way through, they discover one of the curiosities below. _What did miners previously extract here? Who in the party knows how to navigate below ground? What are the PCs most afraid might happen to them down here?_\n\n- An unmined vein of precious metals or gemstones\n- Various mining tools, including a broken (but mendable) mine cart made of adamantine\n- Psychic echoes of the miners' tragic end\n- The desiccated corpses of miners who lost their way in the tunnels\n- Tattered remnants of darkweave spider silk"
+        "text": "The party must complete a Progress Countdown (4) to find their way through the mines. Each time a PC rolls with Hope while finding their way through, they discover one of the curiosities below.\n\n- An unmined vein of precious metals or gemstones\n- Various mining tools, including a broken (but mendable) mine cart made of adamantine\n- Psychic echoes of the miners' tragic end\n- The desiccated corpses of miners who lost their way in the tunnels\n- Tattered remnants of darkweave spider silk\n\n_What did miners previously extract here? Who in the party knows how to navigate below ground? What are the PCs most afraid might happen to them down here?_"
       },
       {
         "name": "Into the Spider's Web - Action",
@@ -333,7 +333,7 @@
       {
         "name": "Remember, Remember - Passive",
         "question": "What are the locals celebrating? What is the festival famous for? How did the PCs first hear about it?",
-        "text": "This time of year marks an important anniversary or astronomical event, such as the founding of the town or the summer solstice. On a successful Knowledge Roll, a PC can answer one of the questions below (or two, if they critically succeed). On a failure, they answer one question, but you decide which part of their answer is inaccurate and gain a Fear. _What are the locals celebrating? What is the festival famous for? How did the PCs first hear about it?_\n\n- The festival celebrates a crop or export that is critical to the economy here. What is it?\n- Why didn't the festival happen last year?\n- This festival is similar to another one held in a neighboring region. What makes them different?"
+        "text": "This time of year marks an important anniversary or astronomical event, such as the founding of the town or the summer solstice. On a successful Knowledge Roll, a PC can answer one of the questions below (or two, if they critically succeed). On a failure, they answer one question, but you decide which part of their answer is inaccurate and gain a Fear.\n\n- The festival celebrates a crop or export that is critical to the economy here. What is it?\n- Why didn't the festival happen last year?\n- This festival is similar to another one held in a neighboring region. What makes them different?\n\n_What are the locals celebrating? What is the festival famous for? How did the PCs first hear about it?_"
       },
       {
         "name": "Political Machinations - Passive",
@@ -365,7 +365,7 @@
       {
         "name": "What's the Talk of the Town? - Passive",
         "question": "Who has what kind of information? What gossip do the locals start spreading about the PCs?",
-        "text": "A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant. _Who has what kind of information? What gossip do the locals start spreading about the PCs?_\n\n- A fascinating rumor with a connection to a PC's background\n- A promising job for the party involving a nearby threat or situation\n- Local folklore that relates to something they've seen\n- Town gossip that hints at a community problem"
+        "text": "A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.\n\n- A fascinating rumor with a connection to a PC's background\n- A promising job for the party involving a nearby threat or situation\n- Local folklore that relates to something they've seen\n- Town gossip that hints at a community problem\n\n_Who has what kind of information? What gossip do the locals start spreading about the PCs?_"
       },
       {
         "name": "Sing For Your Supper - Passive",
@@ -402,7 +402,7 @@
       {
         "name": "Rumors Abound - Passive",
         "question": "What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?",
-        "text": "Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria. _What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?_\n\n- **Critical Success:** Learn about two major events. The PC can ask one follow-up question about one of the rumors and get a truthful (if not always complete) answer.\n- **Success with Hope:** Learn about two events, at least one of which is relevant to the character's background.\n- **Success with Fear:** Learn an alarming rumor related to the character's background.\n- **Any Failure:** The locals respond poorly to their inquiries. The PC must mark a Stress to learn one relevant rumor."
+        "text": "Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria:\n\n- **Critical Success:** Learn about two major events. The PC can ask one follow-up question about one of the rumors and get a truthful (if not always complete) answer.\n- **Success with Hope:** Learn about two events, at least one of which is relevant to the character's background.\n- **Success with Fear:** Learn an alarming rumor related to the character's background.\n- **Any Failure:** The locals respond poorly to their inquiries. The PC must mark a Stress to learn one relevant rumor.\n\n_What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?_"
       },
       {
         "name": "Society of the Broken Compass - Passive",
@@ -535,7 +535,7 @@
       {
         "name": "Blasphemous Might - Action",
         "question": "How does the enemy change in appearance? What fears do their blows bring to the surface?",
-        "text": "A portion of the ritual's power is diverted into a cult member to fight off interlopers. Choose one adversary to become _Imbued_ with terrible magic until the scene ends or they're defeated. An _Imbued_ adversary immediately takes the spotlight and gains one of the following benefits, or all three if you **spend a Fear**:\n\n- They gain advantage on all attacks.\n- They deal an extra **1d10** damage on a successful attack.\n- They gain the following feature: _Relentless (2) - Passive:_ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _How does the enemy change in appearance? What fears do their blows bring to the surface?_"
+        "text": "A portion of the ritual's power is diverted into a cult member to fight off interlopers. Choose one adversary to become _Imbued_ with terrible magic until the scene ends or they're defeated. An _Imbued_ adversary immediately takes the spotlight and gains one of the following benefits, or all three if you **spend a Fear**:\n\n- They gain advantage on all attacks.\n- They deal an extra **1d10** damage on a successful attack.\n- They gain the following feature: _Relentless (2) - Passive._ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _How does the enemy change in appearance? What fears do their blows bring to the surface?_"
       },
       {
         "name": "The Summoning - Reaction",
@@ -631,7 +631,7 @@
       {
         "name": "Divine Guidance - Passive",
         "question": "What does it feel like as you are touched by this vision? What feeling lingers after the images have passed?",
-        "text": "A PC who prays to a deity while in the Hallowed Temple can make an Instinct Roll to receive answers. If the god they beseech isn't welcome in this temple, the roll is made with disadvantage. _What does it feel like as you are touched by this vision? What feeling lingers after the images have passed?_\n\n- **Critical Success:** The PC gains clear information. Additionally, they gain **1d4** Hope, which can be distributed between the party if they share the vision and guidance they received.\n- **Success with Hope:** The PC receives clear information.\n- **Success with Fear:** The PC receives brief flashes of insight and an emotional impression conveying an answer.\n- **Any Failure:** The PC receives only vague flashes. They can mark a Stress to receive one clear image without context."
+        "text": "A PC who prays to a deity while in the Hallowed Temple can make an Instinct Roll to receive answers. If the god they beseech isn't welcome in this temple, the roll is made with disadvantage.\n\n- **Critical Success:** The PC gains clear information. Additionally, they gain **1d4** Hope, which can be distributed between the party if they share the vision and guidance they received.\n- **Success with Hope:** The PC receives clear information.\n- **Success with Fear:** The PC receives brief flashes of insight and an emotional impression conveying an answer.\n- **Any Failure:** The PC receives only vague flashes. They can mark a Stress to receive one clear image without context.\n\n_What does it feel like as you are touched by this vision? What feeling lingers after the images have passed?_"
       },
       {
         "name": "Relentless Hope - Reaction",
@@ -658,7 +658,7 @@
       {
         "name": "Buried Knowledge - Passive",
         "question": "What greater secrets does the city contain? Why have so many ghosts lingered here? What doomed adventurers have met a bad fate here already?",
-        "text": "The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot. _What greater secrets does the city contain? Why have so many ghosts lingered here? What doomed adventurers have met a bad fate here already?_\n\n- **Critical Success:** Gain valuable information and a related useful item.\n- **Success with Hope:** Gain valuable information.\n- **Success with Fear:** Uncover vague or incomplete information.\n- **Any Failure:** Mark a Stress to find a lead after an exhaustive search."
+        "text": "The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot.\n\n- **Critical Success:** Gain valuable information and a related useful item.\n- **Success with Hope:** Gain valuable information.\n- **Success with Fear:** Uncover vague or incomplete information.\n- **Any Failure:** Mark a Stress to find a lead after an exhaustive search.\n\n_What greater secrets does the city contain? Why have so many ghosts lingered here? What doomed adventurers have met a bad fate here already?_"
       },
       {
         "name": "Ghostly Form - Passive",
@@ -961,7 +961,7 @@
       {
         "name": "The Indigo Flame - Passive",
         "question": "What Fallen cult corrupted these woods? What have they already done with the cursed wood and sap from this tree?",
-        "text": "PCs who approach the central tree can make a Knowledge Roll to try to identify the magic that consumed this environment. _What Fallen cult corrupted these woods? What have they already done with the cursed wood and sap from this tree?_\n\n- **On a success**: They learn three of the below details. On a success with Fear, they learn two.\n- **On a failure**: They can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment.\n- **Details:** This is a result of Fallen magic. The corruption is spread through the ashen moss. It can be cleansed only by a ritual of nature magic with a Progress Countdown (8)."
+        "text": "PCs who approach the central tree can make a Knowledge Roll to try to identify the magic that consumed this environment.\n\n- **On a success**: They learn three of the below details. On a success with Fear, they learn two.\n- **On a failure**: They can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment.\n- **Details:** This is a result of Fallen magic. The corruption is spread through the ashen moss. It can be cleansed only by a ritual of nature magic with a Progress Countdown (8).\n\n_What Fallen cult corrupted these woods? What have they already done with the cursed wood and sap from this tree?_"
       },
       {
         "name": "Grasping Vines - Action",
@@ -1008,7 +1008,7 @@
       {
         "name": "Collateral Damage - Reaction",
         "question": "What debris is scattered by the attack? What is broken by the strike that can't be easily mended?",
-        "text": "When an adversary is defeated, you can **spend a Fear** to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll. _What debris is scattered by the attack? What is broken by the strike that can't be easily mended?_\n\n- Targets who fail take **3d8+3** physical or magic damage and must mark a Stress.\n- Targets who succeed must mark a Stress."
+        "text": "When an adversary is defeated, you can **spend a Fear** to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll.\n\n- Targets who fail take **3d8+3** physical or magic damage and must mark a Stress.\n- Targets who succeed must mark a Stress.\n\n_What debris is scattered by the attack? What is broken by the strike that can't be easily mended?_"
       }
     ],
     "features_heading": "FEATURES",

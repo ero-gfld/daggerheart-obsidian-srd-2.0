@@ -2,14 +2,14 @@
 
 **_Tier {{ .tier }}_** _{{ .examples }}_
 
-- **Trait Bonus:** {{ .trait_bonus }}
-- **Evasion Bonus:** {{ .evasion_bonus }}
-- **Attack:** {{ .attack }}
-- **Advantages:** {{ .advantages }}
-
+{{ if .trait_bonus }}- **Trait Bonus:** {{ .trait_bonus }}
+{{ end }}{{ if .evasion_bonus }}- **Evasion Bonus:** {{ .evasion_bonus }}
+{{ end }}{{ if .attack }}- **Attack:** {{ .attack }}
+{{ end }}{{ if .advantages }}- **Advantages:** {{ .advantages }}
+{{ end }}
 ### FEATURES
 
 {{- range .feature }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{- end }}

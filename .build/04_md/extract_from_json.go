@@ -45,6 +45,7 @@ func main() {
 		"urlEncode":        url.PathEscape,
 		"featureQuestions": featureQuestions,
 		"featureLabel":     featureLabel,
+		"abilitySubLabels": abilitySubLabels,
 		"fileName":         sanitizeFilename,
 		"abilityLink":      abilityLink,
 		"optionAt":         optionAt,
@@ -1380,10 +1381,23 @@ func hasHeadingPrefix(title string, prefixes []string) bool {
 	return false
 }
 
+// rtrimLines removes trailing whitespace, which is invisible noise everywhere
+// except in one place where it is content: two or more trailing spaces are a
+// markdown hard line break. The SRD uses exactly that in the "Players can spend
+// Hope to" list, where each bold move name sits on its own line above its
+// description (PDF p49); right-trimming those lines lets markdown's lazy
+// continuation glue the label onto the paragraph and prints one run-on line.
+//
+// A hard break is normalised to two spaces rather than left as found, so the
+// output still has no ragged trailing whitespace.
 func rtrimLines(input string) string {
 	lines := strings.Split(input, "\n")
 	for i, line := range lines {
-		lines[i] = strings.TrimRight(line, " \t")
+		trimmed := strings.TrimRight(line, " \t")
+		if trimmed != "" && len(line)-len(strings.TrimRight(line, " ")) >= 2 {
+			trimmed += "  "
+		}
+		lines[i] = trimmed
 	}
 	return strings.Join(lines, "\n")
 }
@@ -1676,6 +1690,33 @@ func tierFromValue(value any) int {
 		}
 	}
 	return 0
+}
+
+// A domain card that grants several named options prints each option's label in
+// QuestaSans-BoldItalic — the same weight the PDF gives every adversary,
+// environment and community feature label, all of which stage 04 already
+// publishes as "**_Label:_**". The source markdown writes all of them in its
+// document-wide plain-italic convention, so without this upgrade
+// abilities/*.md is the one generated category that loses the printed bold.
+//
+// The SRD prints two shapes and they differ in where the colon sits, which the
+// source markdown already records faithfully, so each is rewritten in place:
+//
+//	_Power Push:_ Make a Spellcast Roll…   (colon inside the bold-italic run)
+//	- _Blizzard_: Deal 2d20+8 magic damage… (colon outside it)
+//
+// Both patterns are anchored to the start of a line and require the emphasis to
+// open it, so an italicised term inside a sentence (_Vulnerable_, _Hidden_) is
+// never touched.
+var (
+	abilityParaSubLabelRe   = regexp.MustCompile(`(?m)^_([^_]+:)_(\s|$)`)
+	abilityBulletSubLabelRe = regexp.MustCompile(`(?m)^(\s*-\s+)_([^_]+)_:(\s|$)`)
+)
+
+// abilitySubLabels applies that upgrade to one domain card's body text.
+func abilitySubLabels(text string) string {
+	out := abilityParaSubLabelRe.ReplaceAllString(text, "**_${1}_**${2}")
+	return abilityBulletSubLabelRe.ReplaceAllString(out, "${1}**_${2}_**:${3}")
 }
 
 // featureLabel renders a feature name as its inline label: names keep their

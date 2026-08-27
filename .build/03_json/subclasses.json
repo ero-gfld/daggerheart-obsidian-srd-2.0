@@ -84,7 +84,7 @@
     "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
-        "name": "Virtuoso",
+        "name": "Virtuoso.",
         "text": "You are among the greatest of your craft and your skill is boundless. You can perform each of your \"Gifted Performer\" feature's songs twice per long rest."
       }
     ],
@@ -92,7 +92,7 @@
     "name": "Troubadour",
     "specialization": [
       {
-        "name": "Maestro",
+        "name": "Maestro.",
         "text": "Your rallying songs steel the courage of those who listen. When you give a Rally Die to an ally, they can gain a Hope or clear a Stress."
       }
     ],
@@ -115,7 +115,7 @@
     "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
-        "name": "Epic Poetry",
+        "name": "Epic Poetry.",
         "text": "Your Rally Die increases to a **d10.** Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your advantage die."
       }
     ],
@@ -123,7 +123,7 @@
     "name": "Wordsmith",
     "specialization": [
       {
-        "name": "Eloquent",
+        "name": "Eloquent.",
         "text": "Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:\n\n- Allow them to find a mundane object or tool they need.\n- Help an Ally without spending Hope.\n- Give them an additional downtime move during their next rest."
       }
     ],

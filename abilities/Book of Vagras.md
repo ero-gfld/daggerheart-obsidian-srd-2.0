@@ -2,8 +2,8 @@
 
 **_Level 2_** _Codex Grimoire._ **_Recall Cost_** _2._
 
-_Runic Lock:_ Make a **Spellcast Roll (15)** on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.
+**_Runic Lock:_** Make a **Spellcast Roll (15)** on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.
 
-_Arcane Door:_ When you have no adversaries within Melee range, make a **Spellcast Roll (13)**. On a success, **spend a Hope** to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.
+**_Arcane Door:_** When you have no adversaries within Melee range, make a **Spellcast Roll (13)**. On a success, **spend a Hope** to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.
 
-_Reveal:_ Make a **Spellcast Roll**. If there is anything magically hidden within Close range, it is revealed.
+**_Reveal:_** Make a **Spellcast Roll**. If there is anything magically hidden within Close range, it is revealed.

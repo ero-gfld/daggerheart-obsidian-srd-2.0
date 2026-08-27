@@ -25,7 +25,7 @@ Your Combo Die starts as a **d4**. Once per tier, you can increase your Combo Di
 
 ### SUBCLASSES
 
-Choose either the **[Juggernaut](../subclasses/Juggernaut.md)** or **[Martial Artist](../subclasses/Martial%20Artist.md)** subclass.
+_Choose either the **[Juggernaut](../subclasses/Juggernaut.md)** or **[Martial Artist](../subclasses/Martial%20Artist.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

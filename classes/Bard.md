@@ -21,7 +21,7 @@ Bards are the most charismatic people in all the realms. Members of this class a
 
 ### SUBCLASSES
 
-Choose either the **[Troubadour](../subclasses/Troubadour.md)** or **[Wordsmith](../subclasses/Wordsmith.md)** subclass.
+_Choose either the **[Troubadour](../subclasses/Troubadour.md)** or **[Wordsmith](../subclasses/Wordsmith.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

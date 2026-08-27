@@ -10,13 +10,15 @@
 
 **_Pitch Black - Passive:_** There is no light, natural or otherwise, in these underground mining tunnels. Ask the PCs what they use for light or how they otherwise find their way in the dark. PCs without a reliable source of light make action and reaction rolls with disadvantage. _What fuel does the party's light source use, and how long will it last? What unwanted attention does the light attract?_
 
-**_Labyrinth - Passive:_** The party must complete a Progress Countdown (4) to find their way through the mines. Each time a PC rolls with Hope while finding their way through, they discover one of the curiosities below. _What did miners previously extract here? Who in the party knows how to navigate below ground? What are the PCs most afraid might happen to them down here?_
+**_Labyrinth - Passive:_** The party must complete a Progress Countdown (4) to find their way through the mines. Each time a PC rolls with Hope while finding their way through, they discover one of the curiosities below.
 
 - An unmined vein of precious metals or gemstones
 - Various mining tools, including a broken (but mendable) mine cart made of adamantine
 - Psychic echoes of the miners' tragic end
 - The desiccated corpses of miners who lost their way in the tunnels
 - Tattered remnants of darkweave spider silk
+
+_What did miners previously extract here? Who in the party knows how to navigate below ground? What are the PCs most afraid might happen to them down here?_
 
 **_Into the Spider's Web - Action:_** **Spend a Fear** to summon a Darkweave Queen inside her gossamer-strewn lair. She drops from the ceiling within Close range of a PC and immediately takes the spotlight. _How does the Darkweave Queen use her lair to her advantage? What remnants of her past meals can the party find here?_
 

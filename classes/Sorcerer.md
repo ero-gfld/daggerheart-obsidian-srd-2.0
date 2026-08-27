@@ -28,7 +28,7 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 
 ### SUBCLASSES
 
-Choose either the **[Elemental Origin](../subclasses/Elemental%20Origin.md)** or **[Primal Origin](../subclasses/Primal%20Origin.md)** subclass.
+_Choose either the **[Elemental Origin](../subclasses/Elemental%20Origin.md)** or **[Primal Origin](../subclasses/Primal%20Origin.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

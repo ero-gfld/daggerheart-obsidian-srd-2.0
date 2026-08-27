@@ -28,7 +28,7 @@ Rogues are scoundrels, often in both attitude and practice. Broadly known as lia
 
 ### SUBCLASSES
 
-Choose either the **[Nightwalker](../subclasses/Nightwalker.md)** or **[Syndicate](../subclasses/Syndicate.md)** subclass.
+_Choose either the **[Nightwalker](../subclasses/Nightwalker.md)** or **[Syndicate](../subclasses/Syndicate.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

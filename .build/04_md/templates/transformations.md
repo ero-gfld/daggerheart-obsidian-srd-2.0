@@ -6,7 +6,7 @@
 
 {{- range .feature }}
 
-**_{{ .name }}:_** {{ .text }}
+**_{{ featureLabel .name }}_** {{ .text }}
 {{- end }}
 
 ### {{ literalHeading .questions_heading "TRANSFORMATION QUESTION" (len .question) }}

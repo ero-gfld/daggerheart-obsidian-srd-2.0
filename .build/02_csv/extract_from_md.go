@@ -350,8 +350,15 @@ func extractFeaturePairs(block string) []string {
 			if currN != "" {
 				feats = append(feats, currN, currT)
 			}
+			// Keep the printed period. The SRD punctuates four Bard subclass
+			// feature labels with a period instead of the document's usual
+			// colon ("Maestro.", "Virtuoso.", "Eloquent.", "Epic Poetry." —
+			// PDF p11); dropping it here and letting the templates re-attach a
+			// colon would make the published page read cleaner than the page it
+			// is supposed to reproduce. featureLabel in stage 04 prints a name
+			// that already ends in a period as-is.
 			currN = strings.TrimSpace(strings.Trim(m[1], "*_ "))
-			currN = titleizeIfAllCaps(currN)
+			currN = titleizeIfAllCaps(currN) + "."
 			currT = strings.TrimSpace(m[2])
 			continue
 		}

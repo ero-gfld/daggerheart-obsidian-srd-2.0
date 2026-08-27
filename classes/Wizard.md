@@ -25,7 +25,7 @@ You can change this number when you take a long rest.
 
 ### SUBCLASSES
 
-Choose either the **[School of Knowledge](../subclasses/School%20of%20Knowledge.md)** or **[School of War](../subclasses/School%20of%20War.md)** subclass.
+_Choose either the **[School of Knowledge](../subclasses/School%20of%20Knowledge.md)** or **[School of War](../subclasses/School%20of%20War.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

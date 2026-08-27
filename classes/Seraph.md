@@ -21,7 +21,7 @@ Seraphs are divine fighters and healers imbued with sacred purpose. A wide array
 
 ### SUBCLASSES
 
-Choose either the **[Divine Wielder](../subclasses/Divine%20Wielder.md)** or **[Winged Sentinel](../subclasses/Winged%20Sentinel.md)** subclass.
+_Choose either the **[Divine Wielder](../subclasses/Divine%20Wielder.md)** or **[Winged Sentinel](../subclasses/Winged%20Sentinel.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

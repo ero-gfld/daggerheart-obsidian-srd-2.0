@@ -8,11 +8,13 @@
 
 ### FEATURES
 
-**_Remember, Remember - Passive:_** This time of year marks an important anniversary or astronomical event, such as the founding of the town or the summer solstice. On a successful Knowledge Roll, a PC can answer one of the questions below (or two, if they critically succeed). On a failure, they answer one question, but you decide which part of their answer is inaccurate and gain a Fear. _What are the locals celebrating? What is the festival famous for? How did the PCs first hear about it?_
+**_Remember, Remember - Passive:_** This time of year marks an important anniversary or astronomical event, such as the founding of the town or the summer solstice. On a successful Knowledge Roll, a PC can answer one of the questions below (or two, if they critically succeed). On a failure, they answer one question, but you decide which part of their answer is inaccurate and gain a Fear.
 
 - The festival celebrates a crop or export that is critical to the economy here. What is it?
 - Why didn't the festival happen last year?
 - This festival is similar to another one held in a neighboring region. What makes them different?
+
+_What are the locals celebrating? What is the festival famous for? How did the PCs first hear about it?_
 
 **_Political Machinations - Passive:_** While everyone is gathered in one place, the locals take the opportunity to quash feuds, drum up new business, and navigate local politics. A PC can stick their nose in the goings-on by making a Presence Roll. On a success, they make a connection to a local luminary who can give them a job, share important information, or make useful introductions. On a failure, they must mark a Stress. _What new crisis is on everyone's lips? Why can't this community solve the problem on its own? What reward can they offer the PCs in exchange for their aid?_
 

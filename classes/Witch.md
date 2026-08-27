@@ -29,7 +29,7 @@ Witches are magical practitioners who commune with the forces of nature and enti
 
 ### SUBCLASSES
 
-Choose either the **[Hedge](../subclasses/Hedge.md)** or **[Moon](../subclasses/Moon.md)** subclass.
+_Choose either the **[Hedge](../subclasses/Hedge.md)** or **[Moon](../subclasses/Moon.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

@@ -9,7 +9,7 @@
 
 ### FEATURES
 
-**_Pack Alpha - Passive: Pool._** When the Fang Lord makes a successful attack, add a token to the Guahalan Pool. When a Guahalan ally within Close range makes an attack, you can **spend a token** from the Guahalan Pool to give them advantage on the roll.
+**_Pack Alpha - Passive:_** _Pool_. When the Fang Lord makes a successful attack, add a token to the Guahalan Pool. When a Guahalan ally within Close range makes an attack, you can **spend a token** from the Guahalan Pool to give them advantage on the roll.
 
 **_Unleash the Beast - Action:_** **Spend a Fear** to have the Fang Lord adopt a bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action.
 

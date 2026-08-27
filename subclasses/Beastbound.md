@@ -71,11 +71,11 @@ When you command your companion to attack, they gain any benefits that would nor
 
 When your character levels up, choose one available option for your companion from the following list and mark it on your sheet:
 
-- _Intelligent:_ Your companion gains a permanent +1 bonus to a Companion Experience of your choice.
-- _Light in the Dark:_ Use this as an additional Hope slot your character can mark.
-- _Creature Comfort:_ Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a Stress.
-- _Armored:_ When your companion takes damage, you can **mark one of your Armor Slots** instead of marking one of their Stress.
-- _Vicious:_ Increase your companion's damage dice or range by one step (d6 to d8, Close to Far, etc.).
-- _Resilient:_ Your companion gains an additional Stress slot.
-- _Bonded:_ When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
-- _Aware:_ Your companion gains a permanent +2 bonus to their Evasion.
+- **_Intelligent:_** Your companion gains a permanent +1 bonus to a Companion Experience of your choice.
+- **_Light in the Dark:_** Use this as an additional Hope slot your character can mark.
+- **_Creature Comfort:_** Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a Stress.
+- **_Armored:_** When your companion takes damage, you can **mark one of your Armor Slots** instead of marking one of their Stress.
+- **_Vicious:_** Increase your companion's damage dice or range by one step (d6 to d8, Close to Far, etc.).
+- **_Resilient:_** Your companion gains an additional Stress slot.
+- **_Bonded:_** When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
+- **_Aware:_** Your companion gains a permanent +2 bonus to their Evasion.

@@ -14,7 +14,9 @@
 
 **_Reinforcements! - Action:_** Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight. _Who are they targeting first? What formation do they take?_
 
-**_Collateral Damage - Reaction:_** When an adversary is defeated, you can **spend a Fear** to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll. _What debris is scattered by the attack? What is broken by the strike that can't be easily mended?_
+**_Collateral Damage - Reaction:_** When an adversary is defeated, you can **spend a Fear** to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll.
 
 - Targets who fail take **3d8+3** physical or magic damage and must mark a Stress.
 - Targets who succeed must mark a Stress.
+
+_What debris is scattered by the attack? What is broken by the strike that can't be easily mended?_

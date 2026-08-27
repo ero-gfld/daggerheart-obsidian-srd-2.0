@@ -27,7 +27,7 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 ### SUBCLASSES
 
-Choose either the **[Call of the Brave](../subclasses/Call%20of%20the%20Brave.md)** or **[Call of the Slayer](../subclasses/Call%20of%20the%20Slayer.md)** subclass.
+_Choose either the **[Call of the Brave](../subclasses/Call%20of%20the%20Brave.md)** or **[Call of the Slayer](../subclasses/Call%20of%20the%20Slayer.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

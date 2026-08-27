@@ -10,14 +10,21 @@ go run .build/05_validate/validate.go
 ```
 
 Run it from the repository root. It exits **non-zero when any ERROR-level check
-fails**, so it can gate CI:
+fails**, and that is what gates CI: `.github/workflows/ci.yml` runs it before
+`mkdocs gh-deploy`, so a failure blocks publishing instead of shipping broken
+content to GitHub Pages.
 
 ```yaml
 - uses: actions/setup-go@v5
   with:
     go-version: '1.24'
+    cache: false
 - run: go run .build/05_validate/validate.go
 ```
+
+WARN findings do **not** fail the build — that would need `-warn-fatal` — because
+the four the suite currently reports are faithful reflections of inconsistencies
+printed in the SRD PDF itself, not defects in the generated output.
 
 Flags:
 
@@ -29,7 +36,8 @@ Flags:
 
 Everything the checks know about *this* repo — which markdown is the source,
 which directories hold generated content, which sections may legitimately be
-lifted out of `README.md`, which heading keywords make a link plausible — lives
+lifted out of `README.md`, which heading keywords make a link plausible, which
+published lines are repo metadata rather than SRD content — lives
 in the `config` struct at the top of `validate.go`. Point the checks at a
 restructured repo by editing that, not the check bodies.
 
@@ -39,8 +47,9 @@ The pipeline is `source md → CSV → JSON → generated content dirs + README.
 Every stage is a lossy transformation driven by pattern matching, and the
 failure mode that matters is silent: text that exists in the SRD source simply
 stops existing in the published output, with nothing in the build log to say so.
-Three such losses were found by hand before this suite was written, and they are
-the reference cases every check is measured against:
+Three such losses were found by hand before this suite was written, and a fourth
+bug — the mirror image of the other three — was found by the suite itself. They
+are the reference cases every check is measured against:
 
 1. **Reborne's truncated feature.** `communities/Reborne.md` drops the second
    paragraph of *Found Family* — the extractor stops a multi-paragraph feature
@@ -54,11 +63,24 @@ the reference cases every check is measured against:
 3. **Monster Hunting's transformations.** The `REANIMATED` / `VAMPIRE` /
    `WEREWOLF` subsections under Monster Hunting Campaigns vanished with no link
    at all. *Vampire's Curse* and *Wolf's Curse* exist nowhere in the repo.
+4. **The five invented sentences.** The round of fixes for bugs 1–3 restored
+   reachability by *writing new prose*: three README sentences enumerating the
+   ancestries, communities and transformations ("This SRD describes the
+   following ancestries: …"), an editorial note on the four Elemental Kin
+   ancestry pages ("*One of the Elemental Kin ancestries.*"), and a pointer note
+   on `subclasses/Martial Artist.md` telling the reader the Martial Stances
+   sheet was printed on the Brawler class page. None of the five appear anywhere
+   in the SRD. The communities one was actively misleading: it sat immediately
+   below the SRD's own "the Daggerheart Core Set includes only the following
+   communities: Highborne, …" and then listed all fifteen. Every check in the
+   suite passed on that tree, because each of those checks only ever asks
+   whether source text *survived*.
 
-All three are the same shape of bug: **content silently stopped being
-reachable.** So the suite is built around one dominant check — content
-round-trip — with the other checks guarding the ways output can be wrong while
-still containing all the words.
+Bugs 1–3 are the same shape: **content silently stopped being reachable.** Bug 4
+is that shape run backwards: **content appeared that no one licensed.** So the
+suite is built around two mirrored round-trip checks — source → output and
+output → source — with the other checks guarding the ways output can be wrong
+while still containing all the words.
 
 ---
 
@@ -66,7 +88,8 @@ still containing all the words.
 
 ### `content-round-trip` — ERROR
 
-**Catches bugs 1, 2 and 3.** This is the load-bearing check; everything else is
+**Catches bugs 1, 2 and 3.** This is the load-bearing check in the source →
+output direction; `authored-prose` below is its mirror and everything else is
 supporting fire.
 
 Every non-blank, non-heading line of the SRD source markdown must appear either
@@ -94,6 +117,84 @@ lifted into. `config.deliberateRemovals` exists for the companion heading check
 below; `config.roundTripIgnore` can suppress individual source lines by regexp
 and should be kept empty, since every entry in it is content a reader will
 never see.
+
+### `authored-prose` — ERROR
+
+**Catches bug 4.** The reverse of `content-round-trip`, and the reason bug 4
+survived three rounds of review: every other check in this suite reads the
+source and asks whether it still shows up in the output, so none of them can
+see text that was never in the source to begin with.
+
+Every non-blank line of `README.md` and of every generated content file must
+trace back to `.build/01_pdf/DH-SRD-*.md`. This repo's entire value proposition
+is a verbatim rendering of a document published under the Darrington Press
+Community Gaming License; a sentence the generator wrote is not SRD text, is not
+covered by that license, and is indistinguishable to a reader from text that is.
+Authored prose in generated output has to be impossible to ship, not merely
+discouraged.
+
+The comparison machinery is the same token/5-gram index `content-round-trip`
+uses, pointed the other way: the corpus is built from the source markdown alone
+and the published lines are the queries. Everything the forward check tolerates
+is therefore tolerated here — re-wrapping, re-emphasising, smart quotes — and
+four further output-side transformations are modelled on top:
+
+- **Link syntax compares text, not target.** `[Broadsword](weapons/Broadsword.md)`
+  is looked up as `Broadsword`. Stage 04's whole job is splicing links into
+  sentences the SRD prints unlinked, and the target path is repo structure
+  rather than prose. This is what lets the linkified enumerations of every
+  ancestry and community (source lines 78 and 79) pass while the *invented*
+  enumerations of bug 4 — which linkified the same names inside a sentence
+  Darrington Press never wrote — do not.
+- **Table rows re-rendered as bullets.** A weapon table row becomes
+  `- **Trait:** Agility` / `- **Range:** Melee`, and a beastform's
+  `_Agility +1 | Evasion +2 | Melee Agility d4 phy_` becomes
+  `- **Attack:** Melee Agility d4 phy`. A line that does not match whole is
+  broken into segments exactly as in the forward direction — table cells,
+  pipe-delimited stat fields, `**Label:**` markers, sentences — and each segment
+  is looked up on its own.
+- **Emphasis-only lines.** A segment that is *nothing but* a sequence of
+  emphasised fragments is one more thing the forward direction never sees:
+  stage 04 assembles it out of separate cells of a single source row, so
+  `**_Tier 1_** _Primary_ _Physical_ _Weapon_` is four independent values that no
+  source line prints in that order. `emphasisOnlyRuns` splits those and requires
+  each fragment to trace back — 303 weapon header lines, 61 armor header lines
+  and the 24 beastform `**_Tier 1_** _(Fox, Mouse, Weasel, etc.)_` lines need
+  it. Because every fragment is still required, the split loosens *contiguity*
+  only; it never lets an unsourced word through. And it gives up the moment a
+  letter or digit survives outside the emphasis runs, so a sentence with a bold
+  word in the middle of it is still checked as one sentence and an invented
+  sentence cannot be waved past a fragment at a time.
+- **Headings are checked too**, unlike in the forward direction, which skips
+  them because the generator legitimately rewrites and re-levels source
+  headings. In this direction a heading nobody wrote is exactly as
+  unpublishable as a sentence nobody wrote, and the current tree passes with
+  headings included.
+
+Fragments shorter than three tokens are not reported. They are the field labels,
+navigation stubs and single cell values the stage-04 templates supply *around*
+SRD content — the `**Trait Bonus:**` of a beastform bullet, the `**Option 1**`
+column heading of the domain card grid, the 45 `See: [Aetheris](…)` stubs in
+`README.md` — and the SRD prints no label in those positions for them to be
+verbatim copies of. They are also the fragments the index can say least about:
+below the 5-gram threshold, a lookup degrades to a bag test over every short
+n-gram in the source, so a hit is nearly free and a miss nearly meaningless.
+Prose starts above them. The known cost of that floor is that the
+four "upgraded" beastforms (`Legendary Beast`, `Legendary Hybrid`,
+`Mythic Beast`, `Mythic Hybrid`) publish `<no value>` in their stat bullets —
+the SRD gives those forms no stat line and the template renders the empty field
+anyway — and `no value` is two tokens, so this check does not report it. That is
+a stage-04 template bug worth fixing at the source; it is not something to
+loosen this floor for.
+
+`config.authoredProseIgnore` is the allowlist, and it holds exactly two entries:
+the `**REFERENCE SITE**` banner and the `matthttam.github.io` link beneath it
+that stage 04 prepends to `README.md`. The PDF has no reference site — this repo
+*is* the reference site — so those two lines are repo metadata rather than game
+content. They are matched by exact shape, so a third line appearing under the
+same banner is still reported. Every future entry has to clear the same bar: the
+moment an allowlist entry describes the SRD rather than the repository, the
+generator is authoring prose again.
 
 ### `section-removal-link` — ERROR
 

@@ -25,7 +25,7 @@ You can have only one adversary _Marked for Death_ at a time. This condition las
 
 ### SUBCLASSES
 
-Choose either the **[Executioners Guild](../subclasses/Executioners%20Guild.md)** or **[Poisoners Guild](../subclasses/Poisoners%20Guild.md)** subclass.
+_Choose either the **[Executioners Guild](../subclasses/Executioners%20Guild.md)** or **[Poisoners Guild](../subclasses/Poisoners%20Guild.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

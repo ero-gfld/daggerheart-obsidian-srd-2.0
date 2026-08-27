@@ -25,7 +25,7 @@ Rangers are highly skilled hunters who, despite their martial abilities, rarely 
 
 ### SUBCLASSES
 
-Choose either the **[Beastbound](../subclasses/Beastbound.md)** or **[Wayfinder](../subclasses/Wayfinder.md)** subclass.
+_Choose either the **[Beastbound](../subclasses/Beastbound.md)** or **[Wayfinder](../subclasses/Wayfinder.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

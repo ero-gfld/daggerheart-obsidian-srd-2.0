@@ -54,7 +54,7 @@ When building a warlock, choose their patron's sphere of influence from the list
 
 ### SUBCLASSES
 
-Choose either the **[Pact of the Endless](../subclasses/Pact%20of%20the%20Endless.md)** or **[Pact of the Wrathful](../subclasses/Pact%20of%20the%20Wrathful.md)** subclass.
+_Choose either the **[Pact of the Endless](../subclasses/Pact%20of%20the%20Endless.md)** or **[Pact of the Wrathful](../subclasses/Pact%20of%20the%20Wrathful.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

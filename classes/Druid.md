@@ -19,7 +19,7 @@ Becoming a druid is more than an occupation; it's a calling for those who wish t
 
 **_Beastform:_** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can't use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform's features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you're in a Beastform, your armor becomes part of your body and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
 
-**_Wildtouch:_** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire at will.
+**_Wildtouch:_** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire—at will.
 
 ### BEASTFORM OPTIONS
 
@@ -74,7 +74,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ### SUBCLASSES
 
-Choose either the **[Warden of the Elements](../subclasses/Warden%20of%20the%20Elements.md)** or **[Warden of Renewal](../subclasses/Warden%20of%20Renewal.md)** subclass.
+_Choose either the **[Warden of the Elements](../subclasses/Warden%20of%20the%20Elements.md)** or **[Warden of Renewal](../subclasses/Warden%20of%20Renewal.md)** subclass._
 
 ### BACKGROUND QUESTIONS
 

@@ -132,7 +132,7 @@ As a narrative-focused game, Daggerheart is not a place where technical, out-of-
 
 Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.
 
-> _Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process._
+> _**Note:** You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process._
 
 ##### STEP 1
 
@@ -206,7 +206,7 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 Develop your character's **background** by answering the **background questions** in your character guide, modifying or replacing them if they don't fit the character you want to play.
 
-> _**Note:** Your background has no explicit mechanical effect, but it greatly affects the character you'll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character's past more ambiguous for the time being and discover their backstory through play._
+> _Note: Your background has no explicit mechanical effect, but it greatly affects the character you'll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character's past more ambiguous for the time being and discover their backstory through play._
 
 ##### STEP 7
 
@@ -737,7 +737,7 @@ The acting player rolls their entire dice pool and announces the results in the 
 
 > _**Example:** A player is making an action roll with a +1 in the relevant trait and no other modifiers; they roll the Duality Dice and get a result of 5 on their Hope Die and 7 on their Fear Die, then announce "I rolled a 13 with Fear!"_
 
-##### STEP 5: RESOLVE THE OUTCOME
+###### STEP 5: RESOLVE THE OUTCOME
 
 The active player and the GM work together, along with the suggestions and support of the rest of the table, to resolve the outcome of the action.
 
@@ -850,18 +850,18 @@ Every PC starts with 2 Hope at character creation and gains more throughout play
 
 Players can spend Hope to:
 
-- **Help an Ally**
+- **Help an Ally**  
   When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
-- **Utilize an Experience**
+- **Utilize an Experience**  
   When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
-- **Initiate a Tag Team Roll**
+- **Initiate a Tag Team Roll**  
   Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their action rolls and then choose which set of results to apply to the outcome.
-- **Activate a Hope Feature**
+- **Activate a Hope Feature**  
   A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. **Class Hope features** are class-specific features, detailed on your character sheet, that cost 3 Hope to activate.
 
 > _**Note:** When using a Hope Feature, if you rolled with Hope for that action, the Hope you gain from that roll can be spent on that feature (or toward it, if it requires spending multiple Hope)._
 
-##### FEAR
+###### FEAR
 
 The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.
 
@@ -2648,7 +2648,7 @@ High-impact effects that cost a Fear to activate.
 
 **Momentum - Reaction:** When this adversary makes a successful attack against a PC, you gain a Fear.
 
-##### PASSIVES
+###### PASSIVES
 
 **Horde (X) - Passive:** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
 
@@ -2707,285 +2707,285 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 | Difficulty          | 11                | 14                 | 17                 | 20                 |
 | Damage Thresholds   | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
 
-#### ADVERSARIES BY TIER
+##### ADVERSARIES BY TIER
 
 This section contains the following stat blocks:
 
 ###### TIER 1 (LEVEL 1)
 
-- [Acid Burrower](adversaries/Acid%20Burrower.md)
-- [Ahuizotl](adversaries/Ahuizotl.md)
-- [Atototl](adversaries/Atototl.md)
-- [Bear](adversaries/Bear.md)
-- [Bugboar](adversaries/Bugboar.md)
-- [Cave Ogre](adversaries/Cave%20Ogre.md)
-- [Common Ruffian](adversaries/Common%20Ruffian.md)
-- [Construct](adversaries/Construct.md)
-- [Courtier](adversaries/Courtier.md)
-- [Darkweave Crawler](adversaries/Darkweave%20Crawler.md)
-- [Darkweave Queen](adversaries/Darkweave%20Queen.md)
-- [Darkweave Spinner](adversaries/Darkweave%20Spinner.md)
-- [Darkweave Swarmlings](adversaries/Darkweave%20Swarmlings.md)
-- [Deeproot Defender](adversaries/Deeproot%20Defender.md)
-- [Dire Wolf](adversaries/Dire%20Wolf.md)
-- [Elk](adversaries/Elk.md)
-- [Falcon](adversaries/Falcon.md)
-- [Giant Mosquitoes](adversaries/Giant%20Mosquitoes.md)
-- [Giant Rat](adversaries/Giant%20Rat.md)
-- [Giant Scorpion](adversaries/Giant%20Scorpion.md)
-- [Glass Snake](adversaries/Glass%20Snake.md)
-- [Grimmling Warband](adversaries/Grimmling%20Warband.md)
-- [Archer Guard](adversaries/Archer%20Guard.md)
-- [Bladed Guard](adversaries/Bladed%20Guard.md)
-- [Head Guard](adversaries/Head%20Guard.md)
-- [Harpy](adversaries/Harpy.md)
-- [Harrier](adversaries/Harrier.md)
-- [Jagged Knife Bandit](adversaries/Jagged%20Knife%20Bandit.md)
-- [Jagged Knife Hexer](adversaries/Jagged%20Knife%20Hexer.md)
-- [Jagged Knife Kneebreaker](adversaries/Jagged%20Knife%20Kneebreaker.md)
-- [Jagged Knife Lackey](adversaries/Jagged%20Knife%20Lackey.md)
-- [Jagged Knife Lieutenant](adversaries/Jagged%20Knife%20Lieutenant.md)
-- [Jagged Knife Shadow](adversaries/Jagged%20Knife%20Shadow.md)
-- [Jagged Knife Sniper](adversaries/Jagged%20Knife%20Sniper.md)
-- [Kelpie](adversaries/Kelpie.md)
-- [Masque Muerte](adversaries/Masque%20Muerte.md)
-- [Mechanorb](adversaries/Mechanorb.md)
-- [Merchant](adversaries/Merchant.md)
-- [Minor Chaos Elemental](adversaries/Minor%20Chaos%20Elemental.md)
-- [Minor Fire Elemental](adversaries/Minor%20Fire%20Elemental.md)
-- [Minor Demon](adversaries/Minor%20Demon.md)
-- [Minor Treant](adversaries/Minor%20Treant.md)
-- [Mountain Troll](adversaries/Mountain%20Troll.md)
-- [Octopus](adversaries/Octopus.md)
-- [Green Ooze](adversaries/Green%20Ooze.md)
-- [Tiny Green Ooze](adversaries/Tiny%20Green%20Ooze.md)
-- [Red Ooze](adversaries/Red%20Ooze.md)
-- [Tiny Red Ooze](adversaries/Tiny%20Red%20Ooze.md)
-- [Panther](adversaries/Panther.md)
-- [Petty Noble](adversaries/Petty%20Noble.md)
-- [Phantom](adversaries/Phantom.md)
-- [Pirate Captain](adversaries/Pirate%20Captain.md)
-- [Pirate Raiders](adversaries/Pirate%20Raiders.md)
-- [Pirate Tough](adversaries/Pirate%20Tough.md)
-- [Poltergeist](adversaries/Poltergeist.md)
-- [Rabble Mawb](adversaries/Rabble%20Mawb.md)
-- [Redcap Biters](adversaries/Redcap%20Biters.md)
-- [Redcap Breaker](adversaries/Redcap%20Breaker.md)
-- [Redcap Butcher](adversaries/Redcap%20Butcher.md)
-- [Redcap Candlemaker](adversaries/Redcap%20Candlemaker.md)
-- [Redcap Skinner](adversaries/Redcap%20Skinner.md)
-- [Rugaru](adversaries/Rugaru.md)
-- [Sawtoothed Gillbeast](adversaries/Sawtoothed%20Gillbeast.md)
-- [Sellsword](adversaries/Sellsword.md)
-- [Skeleton Archer](adversaries/Skeleton%20Archer.md)
-- [Skeleton Dredge](adversaries/Skeleton%20Dredge.md)
-- [Skeleton Knight](adversaries/Skeleton%20Knight.md)
-- [Skeleton Warrior](adversaries/Skeleton%20Warrior.md)
-- [Soul-Shattered Mage](adversaries/Soul-Shattered%20Mage.md)
-- [Spellblade](adversaries/Spellblade.md)
-- [Spellbound Armor](adversaries/Spellbound%20Armor.md)
-- [Swarm of Rats](adversaries/Swarm%20of%20Rats.md)
-- [Sylvan Soldier](adversaries/Sylvan%20Soldier.md)
-- [Tangle Bramble Swarm](adversaries/Tangle%20Bramble%20Swarm.md)
-- [Tangle Bramble](adversaries/Tangle%20Bramble.md)
-- [Viper](adversaries/Viper.md)
-- [Waxwork Creation](adversaries/Waxwork%20Creation.md)
-- [Weaponmaster](adversaries/Weaponmaster.md)
-- [Will-O'-The-Wisps](adversaries/Will-O-The-Wisps.md)
-- [Young Dryad](adversaries/Young%20Dryad.md)
-- [Yufo](adversaries/Yufo.md)
-- [Brawny Zombie](adversaries/Brawny%20Zombie.md)
-- [Patchwork Zombie Hulk](adversaries/Patchwork%20Zombie%20Hulk.md)
-- [Rotted Zombie](adversaries/Rotted%20Zombie.md)
-- [Shambling Zombie](adversaries/Shambling%20Zombie.md)
-- [Zombie Pack](adversaries/Zombie%20Pack.md)
+- Acid Burrower
+- Ahuizotl
+- Atototl
+- Bear
+- Bugboar
+- Cave Ogre
+- Common Ruffian
+- Construct
+- Courtier
+- Darkweave Crawler
+- Darkweave Queen
+- Darkweave Spinner
+- Darkweave Swarmlings
+- Deeproot Defender
+- Dire Wolf
+- Elk
+- Falcon
+- Giant Mosquitoes
+- Giant Rat
+- Giant Scorpion
+- Glass Snake
+- Grimmling Warband
+- Archer Guard
+- Bladed Guard
+- Head Guard
+- Harpy
+- Harrier
+- Jagged Knife Bandit
+- Jagged Knife Hexer
+- Jagged Knife Kneebreaker
+- Jagged Knife Lackey
+- Jagged Knife Lieutenant
+- Jagged Knife Shadow
+- Jagged Knife Sniper
+- Kelpie
+- Masque Muerte
+- Mechanorb
+- Merchant
+- Minor Chaos Elemental
+- Minor Fire Elemental
+- Minor Demon
+- Minor Treant
+- Mountain Troll
+- Octopus
+- Green Ooze
+- Tiny Green Ooze
+- Red Ooze
+- Tiny Red Ooze
+- Panther
+- Petty Noble
+- Phantom
+- Pirate Captain
+- Pirate Raiders
+- Pirate Tough
+- Poltergeist
+- Rabble Mawb
+- Redcap Biters
+- Redcap Breaker
+- Redcap Butcher
+- Redcap Candlemaker
+- Redcap Skinner
+- Rugaru
+- Sawtoothed Gillbeast
+- Sellsword
+- Skeleton Archer
+- Skeleton Dredge
+- Skeleton Knight
+- Skeleton Warrior
+- Soul-Shattered Mage
+- Spellblade
+- Spellbound Armor
+- Swarm of Rats
+- Sylvan Soldier
+- Tangle Bramble Swarm
+- Tangle Bramble
+- Viper
+- Waxwork Creation
+- Weaponmaster
+- Will-o'-the-Wisps
+- Young Dryad
+- Yufo
+- Brawny Zombie
+- Patchwork Zombie Hulk
+- Rotted Zombie
+- Shambling Zombie
+- Zombie Pack
 
 ###### TIER 2 (LEVELS 2-4)
 
-- [Archer Squadron](adversaries/Archer%20Squadron.md)
-- [Apprentice Assassin](adversaries/Apprentice%20Assassin.md)
-- [Assassin Poisoner](adversaries/Assassin%20Poisoner.md)
-- [Master Assassin](adversaries/Master%20Assassin.md)
-- [Banshee](adversaries/Banshee.md)
-- [Basilisk](adversaries/Basilisk.md)
-- [Battle Box](adversaries/Battle%20Box.md)
-- [Berserker Alpha](adversaries/Berserker%20Alpha.md)
-- [Berserker Initiate](adversaries/Berserker%20Initiate.md)
-- [Centaur Warden](adversaries/Centaur%20Warden.md)
-- [Chaos Skull](adversaries/Chaos%20Skull.md)
-- [Chicken-Foot Hut](adversaries/Chicken-Foot%20Hut.md)
-- [Conscript](adversaries/Conscript.md)
-- [Courtesan](adversaries/Courtesan.md)
-- [Cult Adept](adversaries/Cult%20Adept.md)
-- [Cult Fang](adversaries/Cult%20Fang.md)
-- [Cult Initiate](adversaries/Cult%20Initiate.md)
-- [Demonic Hound Pack](adversaries/Demonic%20Hound%20Pack.md)
-- [Dire Pangolati](adversaries/Dire%20Pangolati.md)
-- [Doppelhound](adversaries/Doppelhound.md)
-- [Dragon Knight](adversaries/Dragon%20Knight.md)
-- [Electric Eels](adversaries/Electric%20Eels.md)
-- [Elephant](adversaries/Elephant.md)
-- [Elite Soldier](adversaries/Elite%20Soldier.md)
-- [Entombed Cat Beast](adversaries/Entombed%20Cat%20Beast.md)
-- [Entombed Elite Guard](adversaries/Entombed%20Elite%20Guard.md)
-- [Entombed Empress](adversaries/Entombed%20Empress.md)
-- [Entombed Necropriest](adversaries/Entombed%20Necropriest.md)
-- [Entombed Skin Beetles](adversaries/Entombed%20Skin%20Beetles.md)
-- [Entombed Stonemason](adversaries/Entombed%20Stonemason.md)
-- [Failed Experiment](adversaries/Failed%20Experiment.md)
-- [Flock of Feather Fiends](adversaries/Flock%20of%20Feather%20Fiends.md)
-- [Fowlbear](adversaries/Fowlbear.md)
-- [Fungispunj Sporeling](adversaries/Fungispunj%20Sporeling.md)
-- [Fungispunj Sporophore](adversaries/Fungispunj%20Sporophore.md)
-- [Gargoyle](adversaries/Gargoyle.md)
-- [Giant Beastmaster](adversaries/Giant%20Beastmaster.md)
-- [Giant Brawler](adversaries/Giant%20Brawler.md)
-- [Giant Eagle](adversaries/Giant%20Eagle.md)
-- [Giant Octopus](adversaries/Giant%20Octopus.md)
-- [Giant Recruit](adversaries/Giant%20Recruit.md)
-- [Gobstalker](adversaries/Gobstalker.md)
-- [Gorgon](adversaries/Gorgon.md)
-- [Guahalan Alebrujo](adversaries/Guahalan%20Alebrujo.md)
-- [Guahalan Fang Lord](adversaries/Guahalan%20Fang%20Lord.md)
-- [Guahalan Shifter](adversaries/Guahalan%20Shifter.md)
-- [Guahalan Spirit Beast](adversaries/Guahalan%20Spirit%20Beast.md)
-- [Guahalan Spirit Singer](adversaries/Guahalan%20Spirit%20Singer.md)
-- [Hill Titan](adversaries/Hill%20Titan.md)
-- [Hive Walker](adversaries/Hive%20Walker.md)
-- [Jack-O'-Lantern](adversaries/Jack-O-Lantern.md)
-- [Juvenile Flickerfly](adversaries/Juvenile%20Flickerfly.md)
-- [Knight of the Realm](adversaries/Knight%20of%20the%20Realm.md)
-- [Landshark](adversaries/Landshark.md)
-- [Landshark Behemoth](adversaries/Landshark%20Behemoth.md)
-- [Masked Thief](adversaries/Masked%20Thief.md)
-- [Merchant Baron](adversaries/Merchant%20Baron.md)
-- [Minotaur Wrecker](adversaries/Minotaur%20Wrecker.md)
-- [Mortal Hunter](adversaries/Mortal%20Hunter.md)
-- [Ravenous Mockery](adversaries/Ravenous%20Mockery.md)
-- [Royal Advisor](adversaries/Royal%20Advisor.md)
-- [Rust Eater](adversaries/Rust%20Eater.md)
-- [Scarecrow](adversaries/Scarecrow.md)
-- [Secret-Keeper](adversaries/Secret-Keeper.md)
-- [Shark](adversaries/Shark.md)
-- [Siren](adversaries/Siren.md)
-- [Spectral Archer](adversaries/Spectral%20Archer.md)
-- [Spectral Captain](adversaries/Spectral%20Captain.md)
-- [Spectral Guardian](adversaries/Spectral%20Guardian.md)
-- [Sprite](adversaries/Sprite.md)
-- [Spy](adversaries/Spy.md)
-- [Stone Titan](adversaries/Stone%20Titan.md)
-- [Stonewraith](adversaries/Stonewraith.md)
-- [Triceratops](adversaries/Triceratops.md)
-- [Tyrannosaurus](adversaries/Tyrannosaurus.md)
-- [Urco](adversaries/Urco.md)
-- [Valdenhax](adversaries/Valdenhax.md)
-- [War Wizard](adversaries/War%20Wizard.md)
+- Archer Squadron
+- Apprentice Assassin
+- Assassin Poisoner
+- Master Assassin
+- Banshee
+- Basilisk
+- Battle Box
+- Berserker Alpha
+- Berserker Initiate
+- Centaur Warden
+- Chaos Skull
+- Chicken-Foot Hut
+- Conscript
+- Courtesan
+- Cult Adept
+- Cult Fang
+- Cult Initiate
+- Demonic Hound Pack
+- Dire Pangolati
+- Doppelhound
+- Dragon Knight
+- Electric Eels
+- Elephant
+- Elite Soldier
+- Entombed Cat Beast
+- Entombed Elite Guard
+- Entombed Empress
+- Entombed Necropriest
+- Entombed Skin Beetles
+- Entombed Stonemason
+- Failed Experiment
+- Flock of Feather Fiends
+- Fowlbear
+- Fungispunj Sporeling
+- Fungispunj Sporophore
+- Gargoyle
+- Giant Beastmaster
+- Giant Brawler
+- Giant Eagle
+- Giant Octopus
+- Giant Recruit
+- Gobstalker
+- Gorgon
+- Guahalan Alebrujo
+- Guahalan Fang Lord
+- Guahalan Shifter
+- Guahalan Spirit Beast
+- Guahalan Spirit Singer
+- Hill Titan
+- Hive Walker
+- Jack-o'-Lantern
+- Juvenile Flickerfly
+- Knight of the Realm
+- Landshark
+- Landshark Behemoth
+- Masked Thief
+- Merchant Baron
+- Minotaur Wrecker
+- Mortal Hunter
+- Ravenous Mockery
+- Royal Advisor
+- Rust Eater
+- Scarecrow
+- Secret-Keeper
+- Shark
+- Siren
+- Spectral Archer
+- Spectral Captain
+- Spectral Guardian
+- Sprite
+- Spy
+- Stone Titan
+- Stonewraith
+- Triceratops
+- Tyrannosaurus
+- Urco
+- Valdenhax
+- War Wizard
 
 ###### TIER 3 (LEVELS 5-7)
 
-- [Adult Flickerfly](adversaries/Adult%20Flickerfly.md)
-- [Archmage](adversaries/Archmage.md)
-- [Catrin](adversaries/Catrin.md)
-- [Chimera](adversaries/Chimera.md)
-- [Crimson Lepus](adversaries/Crimson%20Lepus.md)
-- [Cryptimoth](adversaries/Cryptimoth.md)
-- [Cursed Merfolk](adversaries/Cursed%20Merfolk.md)
-- [Deep Dweller](adversaries/Deep%20Dweller.md)
-- [Demon of Avarice](adversaries/Demon%20of%20Avarice.md)
-- [Demon of Despair](adversaries/Demon%20of%20Despair.md)
-- [Demon of Hubris](adversaries/Demon%20of%20Hubris.md)
-- [Demon of Jealousy](adversaries/Demon%20of%20Jealousy.md)
-- [Demon of Wrath](adversaries/Demon%20of%20Wrath.md)
-- [Dire Bat](adversaries/Dire%20Bat.md)
-- [Drake](adversaries/Drake.md)
-- [Dryad](adversaries/Dryad.md)
-- [Dullahan](adversaries/Dullahan.md)
-- [Elemental Spark](adversaries/Elemental%20Spark.md)
-- [Fellmounted Shadow King](adversaries/Fellmounted%20Shadow%20King.md)
-- [Fire Titan](adversaries/Fire%20Titan.md)
-- [Frost Titan](adversaries/Frost%20Titan.md)
-- [Gargantuan Sea Turtle](adversaries/Gargantuan%20Sea%20Turtle.md)
-- [Greater Earth Elemental](adversaries/Greater%20Earth%20Elemental.md)
-- [Greater Water Elemental](adversaries/Greater%20Water%20Elemental.md)
-- [Huge Green Ooze](adversaries/Huge%20Green%20Ooze.md)
-- [Hydra](adversaries/Hydra.md)
-- [Lamia](adversaries/Lamia.md)
-- [Lamplight Beguiler](adversaries/Lamplight%20Beguiler.md)
-- [Manticore](adversaries/Manticore.md)
-- [Monarch](adversaries/Monarch.md)
-- [Night Children](adversaries/Night%20Children.md)
-- [Pain Priest](adversaries/Pain%20Priest.md)
-- [Phoenix](adversaries/Phoenix.md)
-- [Plesiosaurus](adversaries/Plesiosaurus.md)
-- [Roc](adversaries/Roc.md)
-- [Sandwyrm](adversaries/Sandwyrm.md)
-- [Shapeshifting Fiend](adversaries/Shapeshifting%20Fiend.md)
-- [Shapeshifting Fiend Revealed](adversaries/Shapeshifting%20Fiend%20Revealed.md)
-- [Stag Knight](adversaries/Stag%20Knight.md)
-- [Storm Titan](adversaries/Storm%20Titan.md)
-- [Oak Treant](adversaries/Oak%20Treant.md)
-- [Treant Sapling](adversaries/Treant%20Sapling.md)
-- [Unicorn](adversaries/Unicorn.md)
-- [Head Vampire](adversaries/Head%20Vampire.md)
-- [Vampire](adversaries/Vampire.md)
-- [Vampire Bat Swarm](adversaries/Vampire%20Bat%20Swarm.md)
-- [Vampire Lord](adversaries/Vampire%20Lord.md)
-- [Vault Guardian Gaoler](adversaries/Vault%20Guardian%20Gaoler.md)
-- [Vault Guardian Sentinel](adversaries/Vault%20Guardian%20Sentinel.md)
-- [Vault Guardian Turret](adversaries/Vault%20Guardian%20Turret.md)
-- [Viscera Sucker](adversaries/Viscera%20Sucker.md)
-- [Whisper Wraith](adversaries/Whisper%20Wraith.md)
-- [Wyvern](adversaries/Wyvern.md)
-- [Young Fire Dragon](adversaries/Young%20Fire%20Dragon.md)
-- [Young Ice Dragon](adversaries/Young%20Ice%20Dragon.md)
+- Adult Flickerfly
+- Archmage
+- Catrin
+- Chimera
+- Crimson Lepus
+- Cryptimoth
+- Cursed Merfolk
+- Deep Dweller
+- Demon of Avarice
+- Demon of Despair
+- Demon of Hubris
+- Demon of Jealousy
+- Demon of Wrath
+- Dire Bat
+- Drake
+- Dryad
+- Dullahan
+- Elemental Spark
+- Fellmounted Shadow King
+- Fire Titan
+- Frost Titan
+- Gargantuan Sea Turtle
+- Greater Earth Elemental
+- Greater Water Elemental
+- Huge Green Ooze
+- Hydra
+- Lamia
+- Lamplight Beguiler
+- Manticore
+- Monarch
+- Night Children
+- Pain Priest
+- Phoenix
+- Plesiosaurus
+- Roc
+- Sandwyrm
+- Shapeshifting Fiend
+- Shapeshifting Fiend Revealed
+- Stag Knight
+- Storm Titan
+- Oak Treant
+- Treant Sapling
+- Unicorn
+- Head Vampire
+- Vampire
+- Vampire Bat Swarm
+- Vampire Lord
+- Vault Guardian Gaoler
+- Vault Guardian Sentinel
+- Vault Guardian Turret
+- Viscera Sucker
+- Whisper Wraith
+- Wyvern
+- Young Fire Dragon
+- Young Ice Dragon
 
 ###### TIER 4 (LEVELS 8-10)
 
-- [Arch-Necromancer](adversaries/Arch-Necromancer.md)
-- [Cephilith Abomination](adversaries/Cephilith%20Abomination.md)
-- [Cephilith Hatchling](adversaries/Cephilith%20Hatchling.md)
-- [Cephilith Novitiate](adversaries/Cephilith%20Novitiate.md)
-- [Cephilith Priest](adversaries/Cephilith%20Priest.md)
-- [Cephilith Titan](adversaries/Cephilith%20Titan.md)
-- [Cipactli](adversaries/Cipactli.md)
-- [Cloud Titan](adversaries/Cloud%20Titan.md)
-- [Demon Lord Berzug](adversaries/Demon%20Lord%20Berzug.md)
-- [Dragon Mother Mitera](adversaries/Dragon%20Mother%20Mitera.md)
-- [Fallen Shock Troop](adversaries/Fallen%20Shock%20Troop.md)
-- [Fallen Sorcerer](adversaries/Fallen%20Sorcerer.md)
-- [Fallen Warlord: Realm-Breaker](adversaries/Fallen%20Warlord%20Realm-Breaker.md)
-- [Fallen Warlord: Undefeated Champion](adversaries/Fallen%20Warlord%20Undefeated%20Champion.md)
-- [Fire Titan Warlord](adversaries/Fire%20Titan%20Warlord.md)
-- [Gargantuan War Machine](adversaries/Gargantuan%20War%20Machine.md)
-- [Ghastly Legion](adversaries/Ghastly%20Legion.md)
-- [Griffin](adversaries/Griffin.md)
-- [Hallowed Archer](adversaries/Hallowed%20Archer.md)
-- [Hallowed Choir](adversaries/Hallowed%20Choir.md)
-- [Hallowed Soldier](adversaries/Hallowed%20Soldier.md)
-- [Harbinger of Death](adversaries/Harbinger%20of%20Death.md)
-- [Harbinger of Famine](adversaries/Harbinger%20of%20Famine.md)
-- [Harbinger of Pestilence](adversaries/Harbinger%20of%20Pestilence.md)
-- [Harbinger of War](adversaries/Harbinger%20of%20War.md)
-- [High Seraph](adversaries/High%20Seraph.md)
-- [Kraken](adversaries/Kraken.md)
-- [Oracle of Doom](adversaries/Oracle%20of%20Doom.md)
-- [Outer Realms Abomination](adversaries/Outer%20Realms%20Abomination.md)
-- [Outer Realms Corruptor](adversaries/Outer%20Realms%20Corrupter.md)
-- [Outer Realms Thrall](adversaries/Outer%20Realms%20Thrall.md)
-- [Owl Witch](adversaries/Owl%20Witch.md)
-- [Ruby Dragon](adversaries/Ruby%20Dragon.md)
-- [Severed Shadow](adversaries/Severed%20Shadow.md)
-- [Supreme Demiurge Adonix](adversaries/Supreme%20Demiurge%20Adonix.md)
-- [Temporal Enforcer](adversaries/Temporal%20Enforcer.md)
-- [Volcanic Dragon: Obsidian Predator](adversaries/Volcanic%20Dragon%20Obsidian%20Predator.md)
-- [Volcanic Dragon: Molten Scourge](adversaries/Volcanic%20Dragon%20Molten%20Scourge.md)
-- [Volcanic Dragon: Ashen Tyrant](adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)
-- [Water Mother](adversaries/Water%20Mother.md)
-- [Wyrmfiend](adversaries/Wyrmfiend.md)
-- [Wyrmlings](adversaries/Wyrmlings.md)
-- [Xero the Castle Killer](adversaries/Xero%20the%20Castle%20Killer.md)
-- [Perfected Zombie](adversaries/Perfected%20Zombie.md)
-- [Zombie Legion](adversaries/Zombie%20Legion.md)
+- Arch-Necromancer
+- Cephilith Abomination
+- Cephilith Hatchling
+- Cephilith Novitiate
+- Cephilith Priest
+- Cephilith Titan
+- Cipactli
+- Cloud Titan
+- Demon Lord Berzug
+- Dragon Mother Mitera
+- Fallen Shock Troop
+- Fallen Sorcerer
+- Fallen Warlord: Realm-Breaker
+- Fallen Warlord: Undefeated Champion
+- Fire Titan Warlord
+- Gargantuan War Machine
+- Ghastly Legion
+- Griffin
+- Hallowed Archer
+- Hallowed Choir
+- Hallowed Soldier
+- Harbinger of Death
+- Harbinger of Famine
+- Harbinger of Pestilence
+- Harbinger of War
+- High Seraph
+- Kraken
+- Oracle of Doom
+- Outer Realms Abomination
+- Outer Realms Corruptor
+- Outer Realms Thrall
+- Owl Witch
+- Ruby Dragon
+- Severed Shadow
+- Supreme Demiurge Adonix
+- Temporal Enforcer
+- Volcanic Dragon: Obsidian Predator
+- Volcanic Dragon: Molten Scourge
+- Volcanic Dragon: Ashen Tyrant
+- Water Mother
+- Wyrmfiend
+- Wyrmlings
+- Xero the Castle Killer
+- Perfected Zombie
+- Zombie Legion
 
 ### USING ENVIRONMENTS
 
@@ -3191,7 +3191,7 @@ Empower your players to frame their own downtime scenes. Ask the players what it
 
 ##### PROJECTS DURING DOWNTIME
 
-The Work on a Project downtime move requires more GM input than other downtime moves and is best suited for longterm endeavors the PCs wish to undertake.
+The Work on a Project downtime move requires more GM input than other downtime moves and is best suited for long-term endeavors the PCs wish to undertake.
 
 These projects are typically tracked using a Progress Countdown. When deciding the starting value of the countdown, consider the complexity of the project, the availability of relevant tools, and the impact of the project on the story.
 
@@ -3227,7 +3227,7 @@ _When an invading nation attacks an ancient forest deity, a virulent overgrowth 
 
 _Designed by Carlos Cisco, Rowan Hall, & Spenser Starke_
 
-**COMPLEXITY RATING:** 1
+**COMPLEXITY RATING:** •
 
 ##### THE PITCH
 
@@ -3253,9 +3253,7 @@ _If your group decides to play this campaign, give your players the following in
 
 **Fanewick** is a wild and untamed land, long avoided by outside forces. The woods are dark and twisting, filled with Faint Divinities who perform small miracles and services for its inhabitants, but are just as likely to lure travelers off narrow paths to their ruin. Seemingly harmless expanses of field hide bogs that engulf entire armies, consuming heavy artillery as quickly as it can cross the border. This wilderness fosters hardy people who are bold enough to raise families where others have not and strictly follow the unique rules that keep them safe. These Wicklings remained insulated from their neighbors' wars until plague forced the people of Haven to desperate acts.
 
-**Haven** was once the most powerful force in the region; for centuries, the high stone walls into the capital bore the phrase "The Godless Gate." While the original meaning has been
-
-lost to common knowledge, some dusty tomes and ancient records state that the founders of Haven wished to be free of the influence of the Faint Divinities that dominated the surrounding regions. They hatched a plan to kill one of the mightiest of these deities, known as **Shun'Aush the Granite Ophid.** While their exact method of deicide is forgotten, their victory ensured Haven's dominance in the region for centuries to come. They made their home behind his remains, which became the mighty walls that Haven is known for.
+**Haven** was once the most powerful force in the region; for centuries, the high stone walls into the capital bore the phrase "The Godless Gate." While the original meaning has been lost to common knowledge, some dusty tomes and ancient records state that the founders of Haven wished to be free of the influence of the Faint Divinities that dominated the surrounding regions. They hatched a plan to kill one of the mightiest of these deities, known as **Shun'Aush the Granite Ophid.** While their exact method of deicide is forgotten, their victory ensured Haven's dominance in the region for centuries to come. They made their home behind his remains, which became the mighty walls that Haven is known for.
 
 But Shun'Aush would have his revenge. As the Havenites carved through his stone body, the fine dust left behind settled into the surrounding earth. There was a time of prosperity over many centuries while the scales of the god remained undisturbed. But progress is its own pressure. The growing population demanded increased productivity, and as farmers tilled deeper soil and miners hacked into hidden stone, the ancient stone dust rose to the surface. The same walls that brought the city security became the crucible that incubated a virulent plague.
 
@@ -3363,7 +3361,7 @@ After the Witherwild corrupted Fanewick, some drakona, fauns, firbolgs, and infe
 
 Many families of galapa and ribbets who lived in the bogs of Fanewick were displaced when Haven's army invaded.
 
-##### Havenites and the Serpent's Sickness
+###### Havenites and the Serpent's Sickness
 
 Anyone, but especially those from Haven, may carry the Serpent's Sickness, which stiffens their movements and gives them limited time to survive without a cure.
 
@@ -3371,7 +3369,7 @@ Anyone, but especially those from Haven, may carry the Serpent's Sickness, which
 
 _All classes are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players._
 
-###### DRUIDS, RANGERS, AND SORCERERS
+###### Druids, Rangers, and Sorcerers
 
 Druids, rangers, and sorcerers are commonly found throughout Fanewick. If players choose one of these classes, they should consider how their character's connection to the natural world might be impacted by the Witherwild.
 
@@ -3483,11 +3481,9 @@ These are but a small slice of the hundreds, if not thousands, of Faint Diviniti
 
 _You can use the prompt below to start your campaign, or create your own._
 
-The Reaping Eye is stowed in a secure vault beneath the central tower of Haven's wizarding school, seemingly impossible to recover. A secretive and dangerous rebel group, led by a mysterious figure known only as the **Fanewraith** (she/ her), has hatched a plan to end the curse of the Witherwild: find the Great Owl, Nikta, and pluck out the Sowing Eye. While this may solve the immediate problem, the long-term consequences are not being considered, just as they weren't when Haven invaded.
+The Reaping Eye is stowed in a secure vault beneath the central tower of Haven's wizarding school, seemingly impossible to recover. A secretive and dangerous rebel group, led by a mysterious figure known only as the **Fanewraith** (she/her), has hatched a plan to end the curse of the Witherwild: find the Great Owl, Nikta, and pluck out the Sowing Eye. While this may solve the immediate problem, the long-term consequences are not being considered, just as they weren't when Haven invaded.
 
-Haven's beleaguered spymaster, **Kreil Dirn** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven's internal activities. Kreil has never agreed—at least not openly—with **Archmage**
-
-**Phylax's** (they/them) decision to steal the Reaping Eye, and the consequences they've all paid for that decision have been grimly vindicating.
+Haven's beleaguered spymaster, **Kreil Dirn** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven's internal activities. Kreil has never agreed—at least not openly—with **Archmage Phylax's** (they/them) decision to steal the Reaping Eye, and the consequences they've all paid for that decision have been grimly vindicating.
 
 Recently, Kreil uncovered the Fanewraith's plot and is horrified by the possibility of her success. Knowing he can't send a troop of Haven soldiers deep into the woods to hunt down and stop the Fanewraith from stealing the Sowing Eye, Kreil uses his vast network of informants and spies to find a group of adventurers who can bring the Fanewraith to swift justice.
 

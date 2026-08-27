@@ -5,7 +5,6 @@
 - **Trait Bonus:** Strength +3
 - **Evasion Bonus:** Evasion +2
 - **Attack:** Strength Melee d12+10 phy
-- **Advantages:** <no value>
 
 ### FEATURES
 

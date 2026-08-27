@@ -10,5 +10,5 @@
 
 ### FEATURE
 
-**_{{ $feat.name }}:_** {{ $feat.text }}
+**_{{ featureLabel $feat.name }}_** {{ $feat.text }}
 {{- end }}

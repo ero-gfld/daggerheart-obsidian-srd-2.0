@@ -731,7 +731,7 @@
       },
       {
         "name": "On My Signal - Reaction",
-        "text": "_Countdown (5)._ When the Head Guard is in the spotlight for the first time, activate the countdown. It ticks down when a PC makes an attack roll. When it triggers, all Archer Guards within Far range make a standard attack with advantage against the nearest target within their range. If any attacks succeed on the same target, combine their damage."
+        "text": "_Countdown (5)_. When the Head Guard is in the spotlight for the first time, activate the countdown. It ticks down when a PC makes an attack roll. When it triggers, all Archer Guards within Far range make a standard attack with advantage against the nearest target within their range. If any attacks succeed on the same target, combine their damage."
       },
       {
         "name": "Momentum - Reaction",
@@ -3171,7 +3171,7 @@
     "feature": [
       {
         "name": "Blink Beast - Passive",
-        "text": "When combat begins, place a duplicate within Close range of the Doppelhound. The Doppelhound occupies both its place and its duplicate's. The duplicate can move when the Doppelhound is spotlighted, and the Doppelhound can target enemies with attacks as if it were in its duplicate's place. When the Doppelhound or duplicate is attacked, the attacker rolls a **d6**. On an even result, they target the Doppelhound. On an odd result, they target the duplicate, and the attack fails. If an attack succeeds against the Doppelhound, the duplicate is dispelled until you **spend a Fear** to conjure it again."
+        "text": "When combat begins, place a duplicate within Close range of the Doppelhound. The Doppelhound occupies both its place and its duplicate's. The duplicate can move when the Doppelhound is spotlighted, and the Doppelhound can target enemies with attacks as if it were in its duplicate's place. When the Doppelhound or duplicate is attacked, the attacker rolls a d6. On an even result, they target the Doppelhound. On an odd result, they target the duplicate, and the attack fails. If an attack succeeds against the Doppelhound, the duplicate is dispelled until you **spend a Fear** to conjure it again."
       },
       {
         "name": "Double Strike - Action",
@@ -3965,8 +3965,8 @@
     "experience": "Ancient Knowledge +2, Hunter +2",
     "feature": [
       {
-        "name": "Pack Alpha - Passive: Pool.",
-        "text": "When the Fang Lord makes a successful attack, add a token to the Guahalan Pool. When a Guahalan ally within Close range makes an attack, you can **spend a token** from the Guahalan Pool to give them advantage on the roll."
+        "name": "Pack Alpha - Passive",
+        "text": "_Pool_. When the Fang Lord makes a successful attack, add a token to the Guahalan Pool. When a Guahalan ally within Close range makes an attack, you can **spend a token** from the Guahalan Pool to give them advantage on the roll."
       },
       {
         "name": "Unleash the Beast - Action",
@@ -4204,7 +4204,7 @@
       },
       {
         "name": "Hallucinatory Breath - Reaction",
-        "text": "_Countdown (Loop 1d6)._ When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must succeed on an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail must mark a Stress and lose a Hope."
+        "text": "_Countdown (Loop 1d6)_. When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must succeed on an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail must mark a Stress and lose a Hope."
       }
     ],
     "features_heading": "FEATURES",
@@ -4425,7 +4425,7 @@
       },
       {
         "name": "Rampage - Reaction",
-        "text": "_Countdown (Loop 1d6)._ When the Hunter is in the spotlight for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within Far range and make an attack against all targets in their path. Targets the Hunter succeeds against take **2d8+2** physical damage."
+        "text": "_Countdown (Loop 1d6)_. When the Hunter is in the spotlight for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within Far range and make an attack against all targets in their path. Targets the Hunter succeeds against take **2d8+2** physical damage."
       }
     ],
     "features_heading": "FEATURES",
@@ -4572,7 +4572,7 @@
       },
       {
         "name": "Summoning Ritual - Reaction",
-        "text": "_Countdown (6)._ When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick down this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range."
+        "text": "_Countdown (6)_. When the Secret-Keeper is in the spotlight for the first time, activate the countdown. When they mark HP, tick down this countdown by the number of HP marked. When it triggers, summon a Minor Demon who appears at Close range."
       },
       {
         "name": "Fallen Hounds - Reaction",
@@ -6759,7 +6759,7 @@
     "atk": "+3",
     "attack": "Magitech Cannon",
     "damage": "3d10+3 mag",
-    "description": "A massive living turret with reinforced armor and twelve pistondriven mechanical legs.",
+    "description": "A massive living turret with reinforced armor and twelve piston-driven mechanical legs.",
     "difficulty": "16",
     "feature": [
       {

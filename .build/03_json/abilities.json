@@ -1172,7 +1172,7 @@
     "level": "10",
     "name": "Specter of the Dark",
     "recall": "1",
-    "text": "**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you're in this form.",
+    "text": "**Mark a Stress** to become _Spectral_ until you make an action roll targeting another creature. While _Spectral_, you're immune to physical damage and can float and pass through solid objects.\n\nOther creatures can still see you while you're in this form.",
     "type": "Spell"
   },
   {

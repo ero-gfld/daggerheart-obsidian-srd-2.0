@@ -8,12 +8,14 @@
 
 ### FEATURES
 
-**_Rumors Abound - Passive:_** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria. _What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?_
+**_Rumors Abound - Passive:_** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria:
 
 - **Critical Success:** Learn about two major events. The PC can ask one follow-up question about one of the rumors and get a truthful (if not always complete) answer.
 - **Success with Hope:** Learn about two events, at least one of which is relevant to the character's background.
 - **Success with Fear:** Learn an alarming rumor related to the character's background.
 - **Any Failure:** The locals respond poorly to their inquiries. The PC must mark a Stress to learn one relevant rumor.
+
+_What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?_
 
 **_Society of the Broken Compass - Passive:_** An adventuring society maintains a chapterhouse here, where heroes trade boasts and rumors, drink to their imagined successes, and scheme to undermine their rivals. _What boasts do the adventurers here make, and which do you think are true?_
 
