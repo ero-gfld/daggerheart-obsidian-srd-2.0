@@ -1615,7 +1615,7 @@ func extractQuestions(text string) []string {
 
 	lines := strings.Split(text, "\n")
 	reSentence := regexp.MustCompile(`[^?]*\?`)
-	reStart := regexp.MustCompile(`(?i)^(who|what|when|where|why|how|which|can|do|did|is|are|should|would|could)\b`)
+	reStart := regexp.MustCompile(`(?i)^(who|what|when|where|why|how|which|can|do|did|is|are|should|would|could|if|would|have|has|was|were)\b`)
 
 	extractFromSegment := func(segment string) {
 		for _, match := range reSentence.FindAllString(segment, -1) {

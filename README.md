@@ -150,8 +150,8 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 Your character's **heritage** combines two elements: **ancestry** and **community.**
 
-- A character's **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features.** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Aetheris, Clank, Drakona, Dwarf, Earthkin, Elf, Emberkin, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Gnome, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah, Skykin, Tidekin. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
-- Your character's **community** represents their culture or environment of origin and grants them a **community feature.** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Duneborne, Freeborne, Frostborne, Hearthborne, Highborne, Loreborne, Orderborne, Reborne, Ridgeborne, Seaborne, Slyborne, Underborne, Warborne, Wanderborne, Wildborne.
+- A character's **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features.** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: [Aetheris](ancestries/Aetheris.md), [Clank](ancestries/Clank.md), [Drakona](ancestries/Drakona.md), [Dwarf](ancestries/Dwarf.md), [Earthkin](ancestries/Earthkin.md), [Elf](ancestries/Elf.md), [Emberkin](ancestries/Emberkin.md), [Faerie](ancestries/Faerie.md), [Faun](ancestries/Faun.md), [Firbolg](ancestries/Firbolg.md), [Fungril](ancestries/Fungril.md), [Galapa](ancestries/Galapa.md), [Giant](ancestries/Giant.md), [Gnome](ancestries/Gnome.md), [Goblin](ancestries/Goblin.md), [Halfling](ancestries/Halfling.md), [Human](ancestries/Human.md), [Infernis](ancestries/Infernis.md), [Katari](ancestries/Katari.md), [Orc](ancestries/Orc.md), [Ribbet](ancestries/Ribbet.md), [Simiah](ancestries/Simiah.md), [Skykin](ancestries/Skykin.md), [Tidekin](ancestries/Tidekin.md). To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
+- Your character's **community** represents their culture or environment of origin and grants them a **community feature.** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: [Duneborne](communities/Duneborne.md), [Freeborne](communities/Freeborne.md), [Frostborne](communities/Frostborne.md), [Hearthborne](communities/Hearthborne.md), [Highborne](communities/Highborne.md), [Loreborne](communities/Loreborne.md), [Orderborne](communities/Orderborne.md), [Reborne](communities/Reborne.md), [Ridgeborne](communities/Ridgeborne.md), [Seaborne](communities/Seaborne.md), [Slyborne](communities/Slyborne.md), [Underborne](communities/Underborne.md), [Warborne](communities/Warborne.md), [Wanderborne](communities/Wanderborne.md), [Wildborne](communities/Wildborne.md).
 
 ##### STEP 3
 
@@ -389,8 +389,6 @@ Each ancestry grants two **ancestry features.** While some features (such as the
 
 If you'd like to make a character who combines more than one ancestry, see "Mixed Ancestry."
 
-This SRD describes the following ancestries: [Aetheris](ancestries/Aetheris.md), [Clank](ancestries/Clank.md), [Drakona](ancestries/Drakona.md), [Dwarf](ancestries/Dwarf.md), [Earthkin](ancestries/Earthkin.md), [Elf](ancestries/Elf.md), [Emberkin](ancestries/Emberkin.md), [Faerie](ancestries/Faerie.md), [Faun](ancestries/Faun.md), [Firbolg](ancestries/Firbolg.md), [Fungril](ancestries/Fungril.md), [Galapa](ancestries/Galapa.md), [Giant](ancestries/Giant.md), [Gnome](ancestries/Gnome.md), [Goblin](ancestries/Goblin.md), [Halfling](ancestries/Halfling.md), [Human](ancestries/Human.md), [Infernis](ancestries/Infernis.md), [Katari](ancestries/Katari.md), [Orc](ancestries/Orc.md), [Ribbet](ancestries/Ribbet.md), [Simiah](ancestries/Simiah.md), [Skykin](ancestries/Skykin.md), [Tidekin](ancestries/Tidekin.md).
-
 #### AETHERIS
 
 See: [Aetheris](ancestries/Aetheris.md)
@@ -518,8 +516,6 @@ Communities represent a key aspect of the **culture, class,** or **environment o
 
 Your character's community grants them a **community feature.** Each community card also lists six adjectives you can use as inspiration to create your character's personality, their relationship to their peers, their attitude toward their upbringing, or the demeanor with which they interact with the rest of the party. Please note the Daggerheart Core Set includes only the following communities: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne.
 
-The core ruleset includes the following communities: [Duneborne](communities/Duneborne.md), [Freeborne](communities/Freeborne.md), [Frostborne](communities/Frostborne.md), [Hearthborne](communities/Hearthborne.md), [Highborne](communities/Highborne.md), [Loreborne](communities/Loreborne.md), [Orderborne](communities/Orderborne.md), [Reborne](communities/Reborne.md), [Ridgeborne](communities/Ridgeborne.md), [Seaborne](communities/Seaborne.md), [Slyborne](communities/Slyborne.md), [Underborne](communities/Underborne.md), [Wanderborne](communities/Wanderborne.md), [Warborne](communities/Warborne.md), [Wildborne](communities/Wildborne.md).
-
 #### DUNEBORNE
 
 See: [Duneborne](communities/Duneborne.md)
@@ -591,8 +587,6 @@ Transformation cards do not count toward your loadout maximum. When your charact
 If there are details you'd like to incorporate into your character that go beyond the features on a transformation card, work with your GM to explore how they might manifest in your campaign's narrative.
 
 A PC can't have more than one transformation.
-
-The core materials include the following transformations: [Demigod](transformations/Demigod.md), [Ghost](transformations/Ghost.md), [Reanimated](transformations/Reanimated.md), [Shapeshifter](transformations/Shapeshifter.md), [Vampire](transformations/Vampire.md), [Werewolf](transformations/Werewolf.md).
 
 #### GRANTING TRANSFORMATIONS
 

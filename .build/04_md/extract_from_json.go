@@ -32,8 +32,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Structural placement (which grouping section an entity sits in) and a
-	// backstop for the literal heading text, read straight from the source SRD
+	// A backstop for the literal heading text, read straight from the source SRD
 	// markdown. The CSV/JSON stages carry the printed heading of every feature
 	// group now, and those values win; this only fills a gap, because without a
 	// literal the templates have to guess the plural from a feature count and
@@ -98,6 +97,9 @@ func main() {
 			if base == "classes" && len(beastformTiers) > 0 {
 				item["beastform_tiers"] = beastformTiers
 			}
+			if base == "classes" {
+				dropRelocatedClassSection(item)
+			}
 			normalizeItem(item)
 			applySourceHeadings(base, item, srcInfo)
 			outPath := filepath.Join(categoryDir, sanitizeFilename(name)+".md")
@@ -144,6 +146,40 @@ func renderTemplate(tmpl *template.Template, name, outPath string, data map[stri
 	return ensureCanonicalFilename(outPath)
 }
 
+// relocatedClassSections names the trailing class-chapter subsystem blocks that
+// belong to one subclass's own sheet and are printed on that subclass's page
+// instead of on the class page.
+//
+// Stage 02 already withholds two of these from a class's extra sections by the
+// same rule (see the BEASTFORM / COMPANION test in
+// .build/02_csv/extract_from_md.go): Druid's BEASTFORM OPTIONS renders from the
+// beastform data, and Ranger's RANGER COMPANION renders on
+// subclasses/Beastbound.md. Brawler's MARTIAL STANCES is the third of the same
+// shape — it is the Martial Artist sheet, and it renders on
+// subclasses/Martial Artist.md — so leaving it here as well would print the
+// whole section twice.
+var relocatedClassSections = []string{"MARTIAL STANCES"}
+
+// dropRelocatedClassSection clears a class's trailing extra sections when they
+// are that class's relocated subsystem block. Stage 02 captures the trailing
+// run as a single string starting at one heading, so matching that heading is
+// enough to identify the whole run.
+func dropRelocatedClassSection(item map[string]any) {
+	extra, _ := item["extra_sections"].(string)
+	extra = strings.TrimSpace(extra)
+	if extra == "" {
+		return
+	}
+	firstLine, _, _ := strings.Cut(extra, "\n")
+	_, title := parseHeading(firstLine)
+	for _, name := range relocatedClassSections {
+		if strings.EqualFold(strings.TrimSpace(title), name) {
+			item["extra_sections"] = ""
+			return
+		}
+	}
+}
+
 func normalizeItem(item map[string]any) {
 	ensureSlice(item, "feature")
 	ensureSlice(item, "background")
@@ -161,8 +197,6 @@ func normalizeItem(item map[string]any) {
 	for _, key := range literalHeadingFields {
 		ensureString(item, key)
 	}
-	ensureString(item, "parent_group")
-	ensureString(item, "parent_group_anchor")
 	stripEmbeddedFeatureQuestions(item)
 }
 
@@ -172,10 +206,6 @@ type entityInfo struct {
 	// children holds the literal text of the headings inside the entity's
 	// block, exactly as the PDF prints them.
 	children []string
-	// parentGroup is the enclosing heading when the entity is nested inside a
-	// grouping section rather than directly under its category root — the four
-	// elemental kin sit under ELEMENTAL KIN, for example.
-	parentGroup string
 }
 
 type headingSlot struct {
@@ -244,7 +274,7 @@ var literalHeadingFields = func() []string {
 }()
 
 // loadSourceEntityInfo walks the source SRD once and records, per entity, the
-// literal headings inside its block and the group section it belongs to.
+// literal headings printed inside its block.
 //
 // An entity is only recognised at its canonical definition site (see
 // canonicalCategoryFor), so a campaign-frame section that reuses an entity name
@@ -283,7 +313,6 @@ func loadSourceEntityInfo(srcPath string, categoryLinks map[string]map[string]li
 			info[ob.category][ob.key] = e
 		}
 
-		parent := stack.raw(level - 1)
 		stack.push(level, title)
 
 		category := canonicalCategoryFor(level, &stack)
@@ -309,17 +338,19 @@ func loadSourceEntityInfo(srcPath string, categoryLinks map[string]map[string]li
 		if info[category] == nil {
 			info[category] = map[string]entityInfo{}
 		}
-		e := info[category][key]
-		e.parentGroup = parent
-		info[category][key] = e
+		// Register the entity even when it prints no headings of its own, so
+		// the map records every entity the source defines.
+		if _, seen := info[category][key]; !seen {
+			info[category][key] = entityInfo{}
+		}
 		open = append(open, openBlock{category: category, key: key, level: level})
 	}
 	return info
 }
 
-// applySourceHeadings copies the PDF's literal heading text (and group
-// membership) onto an item, without ever overwriting a value the JSON already
-// carries — so the day the CSV stage grows these columns, they win.
+// applySourceHeadings copies the PDF's literal heading text onto an item,
+// without ever overwriting a value the JSON already carries — so the day the
+// CSV stage grows these columns, they win.
 func applySourceHeadings(category string, item map[string]any, info map[string]map[string]entityInfo) {
 	name, _ := item["name"].(string)
 	entity := info[category][normalizeHeading(name)]
@@ -342,19 +373,6 @@ func applySourceHeadings(category string, item map[string]any, info map[string]m
 			// so out loud rather than silently "correcting" the PDF.
 			fmt.Fprintf(os.Stderr, "WARNING: %s/%s: no literal %s in the JSON or the source markdown; the template's fallback wording will be used\n",
 				category, name, slot.field)
-		}
-	}
-
-	// A grouping heading is only interesting when it is not the category's own
-	// root section: "Aetheris" sits directly under ANCESTRIES, "Earthkin" sits
-	// under ELEMENTAL KIN.
-	if category == "ancestries" {
-		group := strings.TrimSpace(entity.parentGroup)
-		if group != "" && normalizeHeading(group) != "ancestries" {
-			if existing, _ := item["parent_group"].(string); strings.TrimSpace(existing) == "" {
-				item["parent_group"] = titleCaseHeading(group)
-				item["parent_group_anchor"] = headingAnchor(group)
-			}
 		}
 	}
 }
@@ -466,6 +484,25 @@ func stripEmbeddedFeatureQuestions(item map[string]any) {
 		}
 		if strings.Contains(text, question) {
 			f["question"] = ""
+			continue
+		}
+		// The question field is a filtered join of the sentences in the feature's
+		// trailing italic run. If every one of those sentences already appears in
+		// the text, the field is redundant even when the joined form does not
+		// match verbatim (a sentence the filter skipped can sit between them).
+		allPresent := true
+		for _, sentence := range strings.SplitAfter(question, "?") {
+			sentence = strings.TrimSpace(sentence)
+			if sentence == "" {
+				continue
+			}
+			if !strings.Contains(text, sentence) {
+				allPresent = false
+				break
+			}
+		}
+		if allPresent {
+			f["question"] = ""
 		}
 	}
 }
@@ -499,14 +536,9 @@ func generateSRD(basePath, outPath string, sectionLinks, categoryLinks map[strin
 		fmt.Fprintf(os.Stderr, "WARNING: %s\n", w)
 	}
 	content = replaceClassDomainLinks(content, categoryLinks["classes"], categoryLinks["domains"])
-	content = replaceClassMentionList(content, categoryLinks["classes"])
-	content = replaceAncestryMentionList(content, categoryLinks["ancestries"])
-	content = insertCategoryParagraph(content, categoryLinks["communities"],
-		"COMMUNITIES", "The core ruleset includes the following communities:")
-	content = insertCategoryParagraph(content, categoryLinks["ancestries"],
-		"ANCESTRIES", "This SRD describes the following ancestries:")
-	content = insertCategoryParagraph(content, categoryLinks["transformations"],
-		"TRANSFORMATIONS", "The core materials include the following transformations:")
+	for _, list := range mentionLists {
+		content = linkifyMentionList(content, categoryLinks[list.category], list.prefix)
+	}
 	content = insertDomainCardReferenceList(content, categoryLinks["domains"])
 	content = removeDomainCardReferenceSections(content, categoryLinks["domains"])
 	content = removeSectionsByHeadingPrefix(content, 2, []string{
@@ -923,128 +955,71 @@ func replaceClassDomainLinks(content string, classLinks, domainLinks map[string]
 	return strings.Join(lines, "\n")
 }
 
-func replaceClassMentionList(content string, classLinks map[string]linkTarget) string {
-	if len(classLinks) == 0 {
-		return content
-	}
-	prefix := "the Daggerheart Core Set includes only the following nine classes:"
-	start := strings.Index(content, prefix)
-	if start == -1 {
-		return content
-	}
-	end := strings.Index(content[start:], ".")
-	if end == -1 {
-		return content
-	}
-	end += start
-	listText := content[start+len(prefix) : end]
-	parts := strings.Split(listText, ",")
-	if len(parts) < 2 {
-		return content
-	}
-	for i, part := range parts {
-		parts[i] = strings.TrimSpace(part)
-	}
-	lastPart := parts[len(parts)-1]
-	if strings.HasPrefix(lastPart, "and ") {
-		lastPart = strings.TrimSpace(strings.TrimPrefix(lastPart, "and "))
-		parts[len(parts)-1] = lastPart
-	}
-	for i, name := range parts {
-		target, ok := classLinks[normalizeHeading(name)]
-		if !ok {
-			continue
-		}
-		parts[i] = fmt.Sprintf("[%s](%s)", target.name, target.path)
-	}
-	if len(parts) > 1 {
-		parts[len(parts)-1] = "and " + parts[len(parts)-1]
-	}
-	repl := prefix + " " + strings.Join(parts, ", ") + "."
-	content = content[:start] + repl + content[end+1:]
-	return content
+// mentionList names a sentence the SRD itself prints that enumerates every
+// member of a category, together with the category whose generated files those
+// names should link to. Nothing here adds prose: the sentences already exist in
+// the source markdown, and only the names inside them are turned into links.
+var mentionLists = []struct {
+	category string
+	prefix   string
+}{
+	// Character creation, step 2. These two sentences name every ancestry and
+	// every community in the SRD, so linking them is what keeps each of those
+	// pages reachable from the README without adding a sentence of our own.
+	{"ancestries", "Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet:"},
+	{"communities", "Take the card for one of the following communities, then write its name in the Heritage field of your character sheet:"},
+	// The Core Set subsets printed again in the CLASSES and ANCESTRIES
+	// chapter intros.
+	{"classes", "the Daggerheart Core Set includes only the following nine classes:"},
+	{"ancestries", "The Daggerheart Core Set includes only the following ancestries:"},
 }
 
-func replaceAncestryMentionList(content string, ancestryLinks map[string]linkTarget) string {
-	if len(ancestryLinks) == 0 {
-		return content
-	}
-	prefix := "The Daggerheart Core Set includes only the following ancestries:"
-	start := strings.Index(content, prefix)
-	if start == -1 {
-		return content
-	}
-	end := strings.Index(content[start:], ".")
-	if end == -1 {
-		return content
-	}
-	end += start
-	listText := content[start+len(prefix) : end]
-	parts := strings.Split(listText, ",")
-	if len(parts) < 2 {
-		return content
-	}
-	for i, part := range parts {
-		parts[i] = strings.TrimSpace(part)
-	}
-	lastPart := parts[len(parts)-1]
-	if strings.HasPrefix(lastPart, "and ") {
-		lastPart = strings.TrimSpace(strings.TrimPrefix(lastPart, "and "))
-		parts[len(parts)-1] = lastPart
-	}
-	for i, name := range parts {
-		target, ok := ancestryLinks[normalizeHeading(name)]
-		if !ok {
-			continue
-		}
-		parts[i] = fmt.Sprintf("[%s](%s)", target.name, target.path)
-	}
-	if len(parts) > 1 {
-		parts[len(parts)-1] = "and " + parts[len(parts)-1]
-	}
-	repl := prefix + " " + strings.Join(parts, ", ") + "."
-	content = content[:start] + repl + content[end+1:]
-	return content
-}
-
-// insertCategoryParagraph inserts a linked list of every entry in the given
-// category at the end of the named level-2 section's intro (before its first
-// remaining subheading, or at the end of the section).
-func insertCategoryParagraph(content string, links map[string]linkTarget, sectionTitle, lead string) string {
+// linkifyMentionList turns each name in a comma-separated list that the source
+// markdown already prints into a link to that name's generated file.
+//
+// It is deliberately conservative about the text around the names: the printed
+// name becomes the link label, the commas, spacing and any "and" before the
+// last entry are left exactly as they were, and a name with no generated file
+// is left as plain text. The sentence therefore still reads word for word as
+// the SRD prints it.
+func linkifyMentionList(content string, links map[string]linkTarget, prefix string) string {
 	if len(links) == 0 {
 		return content
 	}
-	lines := strings.Split(content, "\n")
-	for i, line := range lines {
-		level, title := parseHeading(line)
-		if level == 2 && strings.EqualFold(strings.TrimSpace(title), sectionTitle) {
-			end := i + 1
-			for end < len(lines) {
-				nextLevel, _ := parseHeading(lines[end])
-				if nextLevel > 0 && nextLevel <= 4 {
-					break
-				}
-				end++
-			}
-			var names []string
-			for _, target := range links {
-				names = append(names, target.name)
-			}
-			sort.Strings(names)
-			var linked []string
-			for _, name := range names {
-				target := links[normalizeHeading(name)]
-				linked = append(linked, fmt.Sprintf("[%s](%s)", target.name, target.path))
-			}
-			paragraph := lead + " " + strings.Join(linked, ", ") + "."
-			block := []string{"", paragraph, ""}
-			out := append([]string{}, lines[:end]...)
-			out = append(out, block...)
-			out = append(out, lines[end:]...)
-			return strings.Join(out, "\n")
-		}
+	start := strings.Index(content, prefix)
+	if start == -1 {
+		return content
 	}
-	return content
+	listStart := start + len(prefix)
+	end := strings.Index(content[listStart:], ".")
+	if end == -1 {
+		return content
+	}
+	end += listStart
+	parts := strings.Split(content[listStart:end], ",")
+	if len(parts) < 2 {
+		return content
+	}
+	linked := false
+	for i, part := range parts {
+		lead := part[:len(part)-len(strings.TrimLeft(part, " "))]
+		name := strings.TrimSpace(part)
+		conjunction := ""
+		if rest := strings.TrimPrefix(name, "and "); rest != name {
+			conjunction = "and "
+			name = strings.TrimSpace(rest)
+		}
+		target, ok := links[normalizeHeading(name)]
+		if !ok {
+			continue
+		}
+		parts[i] = lead + conjunction + fmt.Sprintf("[%s](%s)", name, target.path)
+		linked = true
+	}
+	if !linked {
+		return content
+	}
+	return content[:listStart] + strings.Join(parts, ",") + content[end:]
 }
 
 func insertDomainCardReferenceList(content string, domainLinks map[string]linkTarget) string {

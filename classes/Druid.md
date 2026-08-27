@@ -31,8 +31,8 @@ Beastform categories are divided by tier. Each entry includes the following deta
 - **Character Trait:** While transformed, you gain a bonus to the listed trait. For example, while transformed into an Agile Scout, you gain a +1 bonus to your Agility. When this form drops, you lose this bonus.
 - **Attack Rolls:** When you make an attack while transformed, you use the creature's listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within Melee range using your Agility. On a success, you deal d4 physical damage using your Proficiency.
 - **Evasion:** While transformed, you add the creature's Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says "Evasion +2," your Evasion becomes 10 while you're in that form.
-- **Advantage:** Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
-- **Features:** Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement--but they're also fragile, making you more likely to drop out of Beastform.
+- **Advantages:** Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
+- **Features:** Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement—but they're also fragile, making you more likely to drop out of Beastform.
 
 ### BEASTFORMS
 

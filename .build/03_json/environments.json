@@ -438,7 +438,7 @@
     "feature": [
       {
         "name": "Dangerous Crossing - Passive",
-        "question": "Are any of them afraid of drowning?",
+        "question": "Have any of the PCs forded rivers like this before? Are any of them afraid of drowning?",
         "text": "Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the \"Undertow\" action without requiring a Fear to be spent on the feature. _Have any of the PCs forded rivers like this before? Are any of them afraid of drowning?_"
       },
       {
@@ -576,7 +576,7 @@
       },
       {
         "name": "Booby Traps - Reaction",
-        "question": "What kinds of traps and hazards fill this dungeon? What does their construction tell you about whoever designed them?",
+        "question": "What kinds of traps and hazards fill this dungeon? What does their construction tell you about whoever designed them? Have any of them been triggered prior to the party's arrival?",
         "text": "When a PC fails an action roll to navigate the dungeon, activate a trap or hazard such as a spike pit, gauntlet of swinging blades, or locked room slowly filling with water. The party must succeed on a group action roll to deactivate, disarm, or escape it. On a failure, each PC involved in the group action roll takes **2d6+3** physical or magic damage (GM's choice). _What kinds of traps and hazards fill this dungeon? What does their construction tell you about whoever designed them? Have any of them been triggered prior to the party's arrival?_"
       }
     ],
@@ -1044,7 +1044,7 @@
       },
       {
         "name": "Psychic Shuffle - Reaction",
-        "question": "How does it feel being in someone else's skin?",
+        "question": "How does it feel being in someone else's skin? If you could choose to stay like them in one way, what would it be?",
         "text": "When the PCs take a long rest, you can **spend a Fear** to swap their psyches. Collect all the players' character sheets, then shuffle and randomly redistribute them. Each character sheet comes with that PC's Domain cards and player aids. A PC can regain their psyche with a successful Knowledge Roll, at which point they trade sheets with the player who has their original character sheet. _How does it feel being in someone else's skin? If you could choose to stay like them in one way, what would it be?_"
       }
     ],
@@ -1162,7 +1162,7 @@
     "feature": [
       {
         "name": "Underwater Environment - Passive",
-        "question": "What do you think about to keep calm and stretch your air supply?",
+        "question": "Have you ever known anyone who drowned? What do you think about to keep calm and stretch your air supply?",
         "text": "This environment is underwater (see the \"Moving and Fighting Underwater\" rules on page 168 of the core rulebook). In addition to those rules, a creature who breathes air tracks their supply with an Air Supply Countdown. Its starting value is equal to 3 + their tier, and it ticks down when they take an action. If a PC fails an action roll or rolls with Fear, you can use a GM move to tick down their countdown an additional time. If the roll is a failure with Fear, you can tick it down twice instead. Once their countdown triggers, a PC must mark a Stress whenever they take an action underwater until they resurface. _Have you ever known anyone who drowned? What do you think about to keep calm and stretch your air supply?_"
       },
       {
@@ -1278,7 +1278,7 @@
       },
       {
         "name": "Disorienting Reality - Reaction",
-        "question": "What moment do they see? How hard will it be to hold on to the real memory?",
+        "question": "What moment do they see? If it's a memory, how is it warped by this place? How hard will it be to hold on to the real memory?",
         "text": "On a result with Fear, you can ask the PC to describe which of their fears the Chaos Realm evokes as a vision of reality unmakes and reconstitutes itself to the PC. The PC loses a Hope. If it is their last Hope, you gain a Fear. _What moment do they see? If it's a memory, how is it warped by this place? How hard will it be to hold on to the real memory?_"
       }
     ],

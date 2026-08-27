@@ -1048,12 +1048,9 @@ var entityLists = []listSpec{
 		fromMD:   func(r *repo) *mdFile { return r.source },
 		inline:   regexp.MustCompile(`following (?:nine |ten )?domains[^:]*:\s*([^.]+)\.`),
 	},
-	{
-		label:    "transformation list",
-		category: "transformations",
-		fromMD:   func(r *repo) *mdFile { return r.readme },
-		inline:   regexp.MustCompile(`following transformations[^:]*:\s*([^.]+)\.`),
-	},
+	// No transformation list spec: the SRD prints no sentence enumerating all six
+	// transformations, and the generator must not invent one. Transformation
+	// coverage is proven by the entity-orphan check instead.
 }
 
 func splitNameList(s string) []string {
