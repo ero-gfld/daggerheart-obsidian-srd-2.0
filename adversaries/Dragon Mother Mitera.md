@@ -11,7 +11,7 @@
 
 **_Relentless (3) - Passive:_** Mitera can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight her.
 
-**_Diamond Hide - Passive: Countdown (7):_** When Mitera first appears, activate the countdown. Mitera gains a bonus to her Difficulty equal to the countdown die's current value. It ticks down from Mitera's "Seven-Headed" feature. When the countdown triggers, Mitera becomes _Vulnerable_ and gains a +2 bonus to attack rolls.
+**_Diamond Hide - Passive:_** _Countdown (7)._ When Mitera first appears, activate the countdown. Mitera gains a bonus to her Difficulty equal to the countdown die's current value. It ticks down from Mitera's "Seven-Headed" feature. When the countdown triggers, Mitera becomes _Vulnerable_ and gains a +2 bonus to attack rolls.
 
 **_Elemental Breath - Action:_** **Mark a Stress** to have Mitera unleash elemental energy from one head of your choice:
 

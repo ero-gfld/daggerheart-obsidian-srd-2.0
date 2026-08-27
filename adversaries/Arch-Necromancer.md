@@ -17,4 +17,4 @@
 
 **_Not Today, My Dears - Reaction:_** When the Necromancer has marked 7 or more of their HP, you can **spend a Fear** to have them teleport away to a safe location to recover. A PC who succeeds on an Instinct Roll can trace the teleportation magic to their destination.
 
-**_Your Life Is Mine - Reaction: Countdown (Loop 2d6):_** When the Necromancer has marked 6 or more of their HP, activate the countdown. When it triggers, deal **2d10+6** direct magic damage to a target within Close range. The Necromancer then **clears a number of Stress or HP** equal to the number of HP marked by the target from this attack.
+**_Your Life Is Mine - Reaction:_** _Countdown (Loop 2d6)._ When the Necromancer has marked 6 or more of their HP, activate the countdown. When it triggers, deal **2d10+6** direct magic damage to a target within Close range. The Necromancer then **clears a number of Stress or HP** equal to the number of HP marked by the target from this attack.

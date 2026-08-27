@@ -7,9 +7,15 @@
 - **ATK:** {{ .atk }} | **{{ .attack }}:** {{ .range }} | {{ .damage }}{{ if .experience }}
 - **Experience:** {{ .experience }}{{ end }}
 
-### FEATURES
+### {{ headingOr .features_heading "FEATURES" }}
+{{- range featureGroups .feature }}
 
-{{- range .feature }}
+**_{{ featureLabel .feature.name }}_** {{ .feature.text }}
+{{- if .children }}
 
-**_{{ featureLabel .name }}_** {{ .text }}
+{{ range $i, $c := .children }}{{ if $i }}>
+{{ end }}{{ if eq $c.kind "attack" }}> **{{ $c.name }}:** {{ $c.text }}
+{{ else }}> **_{{ featureLabel $c.name }}_** {{ $c.text }}
+{{ end }}{{ end }}
+{{- end }}
 {{- end }}

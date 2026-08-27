@@ -9,4 +9,4 @@
 
 ### FEATURE
 
-**_Entangling:_** On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily Vulnerable.
+**_Entangling:_** On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily _Vulnerable_.

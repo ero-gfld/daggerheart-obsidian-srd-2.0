@@ -11,7 +11,7 @@ Assassins are masters at inflicting deadly injuries with precise strikes. Unlike
 
 ---
 
-### HOPE FEATURE
+### ASSASSIN'S HOPE FEATURE
 
 **_Deadly Determination:_** **Spend 3 Hope** to clear 2 Stress.
 

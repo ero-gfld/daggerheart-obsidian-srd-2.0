@@ -159,7 +159,7 @@ Advanced Greatstaff,Primary,3,Magical,Knowledge,Very Far,d6+6 mag,Two-Handed,Pow
 Rocket Maul,Primary,3,Magical,Strength,Melee,d10+7 mag,Two-Handed,Concussive,"On a successful attack, you can spend a Hope to knock the target back to Far range."
 Crystal Spear,Primary,3,Magical,Finesse,Very Close,d10+6 mag,One-Handed,Piercing,Damage dealt with this weapon treats the target's Major threshold as having a -2 penalty.
 Arc Wand,Primary,3,Magical,Presence,Close,d8+6 mag,One-Handed,Bouncing,Mark any number of Stress to target that many additional creatures in range of the attack.
-Rime Scepter,Primary,3,Magical,Knowledge,Close,d8+6 mag,One-Handed,Freezing,"When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily Restrained."
+Rime Scepter,Primary,3,Magical,Knowledge,Close,d8+6 mag,One-Handed,Freezing,"When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily _Restrained."
 Gunblade,Primary,3,Magical,Agility,Far,d6+6 mag,One-Handed,Versatile,"This weapon can also be used with these statistics—Agility, Melee, d8+6 phy."
 Staff of Augma,Primary,3,Magical,Instinct,Far,d6+7 mag,One-Handed,Catalytic,"On a successful attack, you can mark a Stress to give an ally within Close range a +3 bonus to their next attack roll."
 Legendary Broadsword,Primary,4,Physical,Agility,Melee,d8+9 phy,One-Handed,Reliable,+1 to attack rolls
@@ -191,7 +191,7 @@ Severed Dragon Claw,Primary,4,Physical,Instinct,Melee,d10+11 phy,One-Handed,Dest
 Infinite Staff,Primary,4,Physical,Presence,Melee,d10+9 phy,Two-Handed,Extending,"You can increase the range of this weapon up to Very Far. You gain a -1 penalty to attack rolls for each step you increase the range by (such as Melee to Very Close, Very Close to Close, or Close to Far)."
 Bec de Corbin,Primary,4,Physical,Agility,Very Close,d10+9 phy,Two-Handed,Devastating,"Before you make an attack roll, you can mark a Stress to use a d20 as your damage die."
 Extended Polearm,Primary,4,Physical,Finesse,Very Close,d8+10 phy,Two-Handed,Long,This weapon's attack targets all adversaries in a line within range.
-Swinging Ropeblade,Primary,4,Physical,Presence,Close,d8+9 phy,Two-Handed,Grappling,"On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you."
+Swinging Ropeblade,Primary,4,Physical,Presence,Close,d8+9 phy,Two-Handed,Grappling,"On a successful attack, you can spend a Hope to _Restrain_ the target or pull them into Melee range with you."
 Black Powder Serpentine,Primary,4,Physical,Strength,Far,d8+12 phy,Two-Handed,Incendiary,"-1 to Agility; on a successful attack, all creatures within Very Close range of the target must mark a Hit Point."
 Ricochet Axes,Primary,4,Physical,Agility,Far,d6+11 phy,Two-Handed,Bouncing,Mark 1 or more Stress to hit that many targets in range of the attack.
 Aantari Bow,Primary,4,Physical,Finesse,Far,d6+11 phy,Two-Handed,Reliable,+1 to attack rolls
@@ -216,7 +216,7 @@ Legendary Arcane Rifle,Primary,4,Magical,Agility,Very Far,d10+12 mag,Two-Handed,
 Legendary Greatstaff,Primary,4,Magical,Knowledge,Very Far,d6+9 mag,Two-Handed,Powerful,"On a successful attack, roll an additional damage die and discard the lowest result."
 Starmetal Blade,Primary,4,Magical,Agility,Melee,d8+10 mag,One-Handed,Serrated,"When you roll a 1 on a damage die, it deals 8 damage instead."
 Sword of Light & Flame,Primary,4,Magical,Strength,Melee,d10+11 mag,Two-Handed,Hot,This weapon cuts through solid material.
-Adder's Fang,Primary,4,Magical,Finesse,Melee,d8+9 mag,One-Handed,Venomous,"When you deal Major or greater damage with this weapon, the target becomes temporarily Vulnerable."
+Adder's Fang,Primary,4,Magical,Finesse,Melee,d8+9 mag,One-Handed,Venomous,"When you deal Major or greater damage with this weapon, the target becomes temporarily _Vulnerable_."
 Demon's Edge,Primary,4,Magical,Presence,Melee,d8+10 mag,One-Handed,Disturbing,"When you defeat a creature with this weapon, all adversaries within Close range must mark a Stress."
 Siphoning Gauntlets,Primary,4,Magical,Presence,Melee,d10+9 mag,Two-Handed,Lifestealing,"On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress."
 Midas Scythe,Primary,4,Magical,Knowledge,Melee,d10+9 mag,Two-Handed,Greedy,Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.
@@ -237,8 +237,8 @@ Tower Shield,Secondary,1,Physical,Strength,Melee,d6 phy,One-Handed,Barrier,+2 to
 Small Dagger,Secondary,1,Physical,Finesse,Melee,d8 phy,One-Handed,Paired,+2 to primary weapon damage to targets within Melee range
 Throwing Knives,Secondary,1,Physical,Finesse,Melee,d8 phy,One-Handed,Stockpiled,"You can throw this weapon within Close range by making an attack roll using Finesse. You don't have to retrieve it, as you always have another on hand."
 Fighting Cloak,Secondary,1,Physical,Presence,Melee,d4 phy,One-Handed,Padded,+2 to damage thresholds
-Rune Shield,Secondary,1,Physical,Knowledge,Melee,d4 mag,One-Handed,Protective,+1 to Armor Score
-Focus Runes,Secondary,1,Physical,Instinct,Very Close,d6 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
+Rune Shield,Secondary,1,Magical,Knowledge,Melee,d4 mag,One-Handed,Protective,+1 to Armor Score
+Focus Runes,Secondary,1,Magical,Instinct,Very Close,d6 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
 Whip,Secondary,1,Physical,Presence,Very Close,d6 phy,One-Handed,Startling,Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
 Grappler,Secondary,1,Physical,Finesse,Close,d6 phy,One-Handed,Hooked,"On a successful attack, you can pull the target into Melee range."
 Hand Crossbow,Secondary,1,Physical,Finesse,Far,d6+1 phy,One-Handed,,
@@ -250,17 +250,17 @@ Improved Tower Shield,Secondary,2,Physical,Strength,Melee,d6+2 phy,One-Handed,Ba
 Improved Small Dagger,Secondary,2,Physical,Finesse,Melee,d8+2 phy,One-Handed,Paired,+3 to primary weapon damage to targets within Melee range
 Improved Throwing Knives,Secondary,2,Physical,Finesse,Melee,d8+2 phy,One-Handed,Stockpiled,"You can throw this weapon within Close range by making an attack roll using Finesse. You don't have to retrieve it, as you always have another on hand."
 Improved Fighting Cloak,Secondary,2,Physical,Presence,Melee,d4+2 phy,One-Handed,Padded,+3 to damage thresholds
-Improved Rune Shield,Secondary,2,Physical,Knowledge,Melee,d4+2 mag,One-Handed,Protective,+2 to Armor Score
-Improved Focus Runes,Secondary,2,Physical,Instinct,Very Close,d6+2 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
+Improved Rune Shield,Secondary,2,Magical,Knowledge,Melee,d4+2 mag,One-Handed,Protective,+2 to Armor Score
+Improved Focus Runes,Secondary,2,Magical,Instinct,Very Close,d6+2 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
 Improved Whip,Secondary,2,Physical,Presence,Very Close,d6+2 phy,One-Handed,Startling,Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
 Improved Grappler,Secondary,2,Physical,Finesse,Close,d6+2 phy,One-Handed,Hooked,"On a successful attack, you can pull the target into Melee range."
 Improved Hand Crossbow,Secondary,2,Physical,Finesse,Far,d6+3 phy,One-Handed,,
 Collapsible Baton,Secondary,2,Physical,Strength,Melee,d8 phy,One-Handed,Nonlethal,"When a target would mark any number of Hit Points from an attack with this weapon, they mark an equal number of Stress instead."
 Spiked Shield,Secondary,2,Physical,Strength,Melee,d6+2 phy,One-Handed,Double Duty,+1 to Armor Score; +1 to primary weapon damage within Melee range
 Parrying Dagger,Secondary,2,Physical,Finesse,Melee,d6+2 phy,One-Handed,Parry,"When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled."
-Eldritch Vambrace,Secondary,2,Physical,Instinct,Melee,d8 mag,One-Handed,Deflecting,"When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
+Eldritch Vambrace,Secondary,2,Magical,Instinct,Melee,d8 mag,One-Handed,Deflecting,"When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
 Segmented Staff,Secondary,2,Physical,Agility,Very Close,d6+4 phy,One-Handed,Double Duty,+1 to Armor Score; +1 to primary weapon damage within Melee range
-Razor Wire,Secondary,2,Physical,Finesse,Very Close,d6+3 phy,One-Handed,Entangling,"On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily Vulnerable."
+Razor Wire,Secondary,2,Physical,Finesse,Very Close,d6+3 phy,One-Handed,Entangling,"On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily _Vulnerable_."
 Returning Axe,Secondary,2,Physical,Agility,Close,d6+4 phy,One-Handed,Returning,"When this weapon is thrown within its range, it appears in your hand immediately after the attack."
 Advanced Hatchet,Secondary,3,Physical,Agility,Melee,d8+4 phy,One-Handed,Follow-Up,"On a successful attack with your primary weapon within Melee range, you can mark a Stress to gain a +1 bonus to your Proficiency for this attack."
 Advanced Shortsword,Secondary,3,Physical,Agility,Melee,d8+4 phy,One-Handed,Paired,+4 to primary weapon damage to targets within Melee range
@@ -270,15 +270,15 @@ Advanced Tower Shield,Secondary,3,Physical,Strength,Melee,d6+4 phy,One-Handed,Ba
 Advanced Small Dagger,Secondary,3,Physical,Finesse,Melee,d8+4 phy,One-Handed,Paired,+4 to primary weapon damage to targets within Melee range
 Advanced Throwing Knives,Secondary,3,Physical,Finesse,Melee,d8+4 phy,One-Handed,Stockpiled,"You can throw this weapon within Close range by making an attack roll using Finesse. You don't have to retrieve it, as you always have another on hand."
 Advanced Fighting Cloak,Secondary,3,Physical,Presence,Melee,d4+4 phy,One-Handed,Padded,+4 to damage thresholds
-Advanced Rune Shield,Secondary,3,Physical,Knowledge,Melee,d4+4 mag,One-Handed,Protective,+3 to Armor Score
-Advanced Focus Runes,Secondary,3,Physical,Instinct,Very Close,d6+4 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
+Advanced Rune Shield,Secondary,3,Magical,Knowledge,Melee,d4+4 mag,One-Handed,Protective,+3 to Armor Score
+Advanced Focus Runes,Secondary,3,Magical,Instinct,Very Close,d6+4 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
 Advanced Whip,Secondary,3,Physical,Presence,Very Close,d6+4 phy,One-Handed,Startling,Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
 Advanced Grappler,Secondary,3,Physical,Finesse,Close,d6+4 phy,One-Handed,Hooked,"On a successful attack, you can pull the target into Melee range."
 Advanced Hand Crossbow,Secondary,3,Physical,Finesse,Far,d6+5 phy,One-Handed,,
 Buckler,Secondary,3,Physical,Agility,Melee,d4+4 phy,One-Handed,Deflecting,"When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Score against the attack."
 Tinker's Hammer,Secondary,3,Physical,Strength,Melee,d8+4 phy,One-Handed,Trusty,+1 to attack rolls made with your primary weapon
-Vorpal Shard,Secondary,3,Physical,Knowledge,Melee,d4 mag,One-Handed,Targeted,"When you fail a weapon attack, you can spend a Hope to succeed on your next weapon attack."
-Soul Chain,Secondary,3,Physical,Presence,Very Close,d6+5 mag,One-Handed,Draining,"On a successful attack, you can spend a Hope to force the target to mark a Stress. If they do, you clear a Stress."
+Vorpal Shard,Secondary,3,Magical,Knowledge,Melee,d4 mag,One-Handed,Targeted,"When you fail a weapon attack, you can spend a Hope to succeed on your next weapon attack."
+Soul Chain,Secondary,3,Magical,Presence,Very Close,d6+5 mag,One-Handed,Draining,"On a successful attack, you can spend a Hope to force the target to mark a Stress. If they do, you clear a Stress."
 Powered Gauntlet,Secondary,3,Physical,Knowledge,Close,d6+4 phy,One-Handed,Charged,Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack.
 War Dart,Secondary,3,Physical,Agility,Far,d6+5 phy,One-Handed,Versatile,"This weapon can also be used with these statistics—Agility, Melee, d8+5."
 Hand Sling,Secondary,3,Physical,Finesse,Very Far,d6+4 phy,One-Handed,Versatile,"This weapon can also be used with these statistics—Finesse, Close, d8+4."
@@ -290,15 +290,15 @@ Legendary Tower Shield,Secondary,4,Physical,Strength,Melee,d6+6 phy,One-Handed,B
 Legendary Small Dagger,Secondary,4,Physical,Finesse,Melee,d8+6 phy,One-Handed,Paired,+5 to primary weapon damage to targets within Melee range
 Legendary Throwing Knives,Secondary,4,Physical,Finesse,Melee,d8+6 phy,One-Handed,Stockpiled,"You can throw this weapon within Close range by making an attack roll using Finesse. You don't have to retrieve it, as you always have another on hand."
 Legendary Fighting Cloak,Secondary,4,Physical,Presence,Melee,d4+6 phy,One-Handed,Padded,+5 to damage thresholds
-Legendary Rune Shield,Secondary,4,Physical,Knowledge,Melee,d4+6 mag,One-Handed,Protective,+4 to Armor Score
-Legendary Focus Runes,Secondary,4,Physical,Instinct,Very Close,d6+6 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
+Legendary Rune Shield,Secondary,4,Magical,Knowledge,Melee,d4+6 mag,One-Handed,Protective,+4 to Armor Score
+Legendary Focus Runes,Secondary,4,Magical,Instinct,Very Close,d6+6 mag,One-Handed,Focused,+1 to primary weapon damage to targets within Very Close range
 Legendary Whip,Secondary,4,Physical,Presence,Very Close,d6+6 phy,One-Handed,Startling,Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
 Legendary Grappler,Secondary,4,Physical,Finesse,Close,d6+6 phy,One-Handed,Hooked,"On a successful attack, you can pull the target into Melee range."
 Legendary Hand Crossbow,Secondary,4,Physical,Finesse,Far,d6+7 phy,One-Handed,,
 Braveshield,Secondary,4,Physical,Agility,Melee,d4+6 phy,One-Handed,Sheltering,"When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
 Knuckle Claws,Secondary,4,Physical,Strength,Melee,d6+8 phy,One-Handed,Doubled Up,"When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
 Void Needle,Secondary,4,Physical,Finesse,Melee,d4+6 phy,One-Handed,Inverted,"When you roll a weapon attack with Fear, you gain a Hope."
-Echo Blade,Secondary,4,Physical,Presence,Melee,d4+6 mag,One-Handed,Doubled Up,"When you succeed on an attack with your primary weapon, you can deal damage to another target within Melee range."
-Möbius Orb,Secondary,4,Physical,Knowledge,Melee,d8+6 mag,One-Handed,Recursive,"When you roll the maximum value on a damage die, roll an additional damage die and add the result to the total damage. This feature can trigger repeatedly."
+Echo Blade,Secondary,4,Magical,Presence,Melee,d4+6 mag,One-Handed,Doubled Up,"When you succeed on an attack with your primary weapon, you can deal damage to another target within Melee range."
+Möbius Orb,Secondary,4,Magical,Knowledge,Melee,d8+6 mag,One-Handed,Recursive,"When you roll the maximum value on a damage die, roll an additional damage die and add the result to the total damage. This feature can trigger repeatedly."
 Primer Shard,Secondary,4,Physical,Instinct,Very Close,d4 phy,One-Handed,Locked On,"On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
-Blackblood Tendril,Secondary,4,Physical,Instinct,Close,d6+8 mag,One-Handed,Poisonous,"When a target marks any number of Hit Points from an attack you rolled with Fear, they mark an equal number of Stress."
+Blackblood Tendril,Secondary,4,Magical,Instinct,Close,d6+8 mag,One-Handed,Poisonous,"When a target marks any number of Hit Points from an attack you rolled with Fear, they mark an equal number of Stress."

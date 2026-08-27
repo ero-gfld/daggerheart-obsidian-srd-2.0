@@ -11,6 +11,6 @@
 
 **_Horde (2d10) - Passive:_** When the Choir has marked half or more of its HP, its standard attack deals **2d10** magic damage instead.
 
-**_Celestial Coda - Passive: Countdown (Loop 3):_** The Choir's divine song builds on itself with each refrain. When the Choir first appears, activate the countdown. It ticks down when a PC gains a Hope. When it triggers, place a token on this stat block. The Choir gains a bonus to its damage rolls equal to the number of tokens on this stat block.
+**_Celestial Coda - Passive:_** _Countdown (Loop 3)._ The Choir's divine song builds on itself with each refrain. When the Choir first appears, activate the countdown. It ticks down when a PC gains a Hope. When it triggers, place a token on this stat block. The Choir gains a bonus to its damage rolls equal to the number of tokens on this stat block.
 
 **_Aural Assault - Action:_** The Choir unleashes its built-up divine energy in a single burst, clearing all tokens from this stat block. Deal **1d12** direct magic damage to each enemy within Close range for each token cleared.

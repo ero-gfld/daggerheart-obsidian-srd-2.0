@@ -11,7 +11,7 @@ Seraphs are divine fighters and healers imbued with sacred purpose. A wide array
 
 ---
 
-### HOPE FEATURE
+### SERAPH'S HOPE FEATURE
 
 **_Life Support:_** **Spend 3 Hope** to clear a Hit Point on an ally within Close range.
 

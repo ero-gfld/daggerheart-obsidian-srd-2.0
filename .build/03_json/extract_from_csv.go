@@ -19,10 +19,10 @@ type regularField struct {
 }
 
 type groupedField struct {
-	index int
-	sub   string
+	index    int
+	sub      string
 	subIndex int
-	orig  string
+	orig     string
 }
 
 func normalizeHeader(header string) string {
@@ -99,10 +99,10 @@ func groupDigitFields(fieldnames []string) ([]regularField, map[string][]grouped
 				subKey = "value"
 			}
 			grouped[groupKey] = append(grouped[groupKey], groupedField{
-				index: index,
-				sub:   subKey,
+				index:    index,
+				sub:      subKey,
 				subIndex: subIndex,
-				orig:  orig,
+				orig:     orig,
 			})
 			continue
 		}

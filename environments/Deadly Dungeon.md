@@ -8,7 +8,7 @@
 
 ### FEATURES
 
-**_Twists and Turns - Passive: Countdown (6)._** When the party enters the dungeon, activate the countdown. It ticks down when a PC succeeds on an action roll to navigate the passages. When it triggers, the PCs reach the deepest, darkest, best-defended part of the dungeon. _What reward lies at the heart of the maze? Who built this labyrinth to protect it?_
+**_Twists and Turns - Passive:_** _Countdown (6)._ When the party enters the dungeon, activate the countdown. It ticks down when a PC succeeds on an action roll to navigate the passages. When it triggers, the PCs reach the deepest, darkest, best-defended part of the dungeon. _What reward lies at the heart of the maze? Who built this labyrinth to protect it?_
 
 **_Deep Pockets - Passive:_** Once per rest, the PCs can find a cache of treasure inside the dungeon, either on the corpses of previous delvers or behind hidden doors. On a successful roll to navigate the dungeon, a PC can spend up to 5 Hope to roll that number of **d6s**. Each result rolled gains the party the following loot or equipment:
 

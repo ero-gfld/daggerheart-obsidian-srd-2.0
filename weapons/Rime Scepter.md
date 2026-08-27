@@ -9,4 +9,4 @@
 
 ### FEATURE
 
-**_Freezing:_** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily Restrained.
+**_Freezing:_** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily _Restrained.

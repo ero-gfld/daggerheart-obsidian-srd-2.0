@@ -2199,7 +2199,7 @@
     "feature": [
       {
         "name": "Freezing",
-        "text": "When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily Restrained."
+        "text": "When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily _Restrained."
       }
     ],
     "name": "Rime Scepter",
@@ -2639,7 +2639,7 @@
     "feature": [
       {
         "name": "Grappling",
-        "text": "On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you."
+        "text": "On a successful attack, you can spend a Hope to _Restrain_ the target or pull them into Melee range with you."
       }
     ],
     "name": "Swinging Ropeblade",
@@ -2991,7 +2991,7 @@
     "feature": [
       {
         "name": "Venomous",
-        "text": "When you deal Major or greater damage with this weapon, the target becomes temporarily Vulnerable."
+        "text": "When you deal Major or greater damage with this weapon, the target becomes temporarily _Vulnerable_."
       }
     ],
     "name": "Adder's Fang",
@@ -3331,7 +3331,7 @@
       }
     ],
     "name": "Rune Shield",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "1",
@@ -3347,7 +3347,7 @@
       }
     ],
     "name": "Focus Runes",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "1",
@@ -3533,7 +3533,7 @@
       }
     ],
     "name": "Improved Rune Shield",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "2",
@@ -3549,7 +3549,7 @@
       }
     ],
     "name": "Improved Focus Runes",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "2",
@@ -3655,7 +3655,7 @@
       }
     ],
     "name": "Eldritch Vambrace",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "2",
@@ -3683,7 +3683,7 @@
     "feature": [
       {
         "name": "Entangling",
-        "text": "On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily Vulnerable."
+        "text": "On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily _Vulnerable_."
       }
     ],
     "name": "Razor Wire",
@@ -3847,7 +3847,7 @@
       }
     ],
     "name": "Advanced Rune Shield",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "3",
@@ -3863,7 +3863,7 @@
       }
     ],
     "name": "Advanced Focus Runes",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "3",
@@ -3953,7 +3953,7 @@
       }
     ],
     "name": "Vorpal Shard",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "3",
@@ -3969,7 +3969,7 @@
       }
     ],
     "name": "Soul Chain",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "3",
@@ -4161,7 +4161,7 @@
       }
     ],
     "name": "Legendary Rune Shield",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -4177,7 +4177,7 @@
       }
     ],
     "name": "Legendary Focus Runes",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Very Close",
     "tier": "4",
@@ -4283,7 +4283,7 @@
       }
     ],
     "name": "Echo Blade",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -4299,7 +4299,7 @@
       }
     ],
     "name": "Möbius Orb",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Melee",
     "tier": "4",
@@ -4331,7 +4331,7 @@
       }
     ],
     "name": "Blackblood Tendril",
-    "physical_or_magical": "Physical",
+    "physical_or_magical": "Magical",
     "primary_or_secondary": "Secondary",
     "range": "Close",
     "tier": "4",

@@ -8,7 +8,7 @@
 
 ### FEATURES
 
-**_Open Water - Passive: Countdown (8)._** Reaching their destination requires the party to complete the Open Water Countdown. It ticks down when a PC succeeds on an action roll to aid the ship's journey. _Where is the ship headed? What dangers along the route do the crew speak about in hushed tones?_
+**_Open Water - Passive:_** _Countdown (8)._ Reaching their destination requires the party to complete the Open Water Countdown. It ticks down when a PC succeeds on an action roll to aid the ship's journey. _Where is the ship headed? What dangers along the route do the crew speak about in hushed tones?_
 
 **_Rations Run Low - Passive:_** The first time a PC rolls a failure with Fear on this journey, the crew discovers that the food and fresh water in the ship's hold have been befouled by pests and mold. Until the party reaches its destination, a PC who makes an action roll to advance the Open Water Countdown must succeed on a Strength Reaction Roll or mark a Stress first. _What happened to the rations? What drastic measures does the crew take to ensure they don't all die of hunger and thirst?_
 

@@ -11,7 +11,7 @@
 
 **_Relentless (2) - Passive:_** The Enforcer can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 
-**_Time Looper - Passive: Countdown (Loop 2d6):_** When the Enforcer first appears, activate the countdown. It ticks down when the Enforcer is spotlighted. When it triggers, the Enforcer clears all HP, Stress, and conditions. Reroll the countdown when the Enforcer takes Severe damage.
+**_Time Looper - Passive:_** _Countdown (Loop 2d6)._ When the Enforcer first appears, activate the countdown. It ticks down when the Enforcer is spotlighted. When it triggers, the Enforcer clears all HP, Stress, and conditions. Reroll the countdown when the Enforcer takes Severe damage.
 
 **_Move Between Moments - Action:_** **Mark a Stress** to have the Enforcer teleport to a point within Very Far range, then spotlight them again.
 

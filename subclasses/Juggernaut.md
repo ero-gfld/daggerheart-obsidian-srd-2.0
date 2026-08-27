@@ -14,7 +14,7 @@ Play the Juggernaut if you want to pulverize your opponents with crushing blows.
 
 **_Eye for an Eye:_** Once per rest when an adversary within Melee range forces you to mark any number of Hit Points, you can **mark a Stress** to force them to mark the same number of Hit Points.
 
-### MASTERY FEATURES
+### MASTERY FEATURE
 
 **_Pummeljoy:_** When you critically succeed on a Melee weapon attack, you gain an additional Hope, clear an additional Stress, and gain a +1 bonus to your Proficiency for that attack.
 

@@ -11,7 +11,7 @@ Those who've traded their lives—or perhaps even their souls—to an otherworld
 
 ---
 
-### HOPE FEATURE
+### WARLOCK'S HOPE FEATURE
 
 **_Patron's Boon:_** When you fail a roll, you can **spend 3 Hope** to reroll with advantage.
 
@@ -27,30 +27,30 @@ Those who've traded their lives—or perhaps even their souls—to an otherworld
 
 When building a warlock, choose their patron's sphere of influence from the list below or work with the GM to make your own.
 
-- Ambition
-- Artists
-- Chaos
-- Darkness
-- Death
-- Gamblers
-- Honor
-- Justice
-- Leaders
-- Love
-- Mercy
-- Mischief
-- Nature
-- Protectors
-- Revenge
-- Scholars
-- Secrets
-- Soldiers
-- Strength
-- Travelers
-- Tricksters
-- Truth
-- War
-- Wisdom
+- _Ambition_
+- _Artists_
+- _Chaos_
+- _Darkness_
+- _Death_
+- _Gamblers_
+- _Honor_
+- _Justice_
+- _Leaders_
+- _Love_
+- _Mercy_
+- _Mischief_
+- _Nature_
+- _Protectors_
+- _Revenge_
+- _Scholars_
+- _Secrets_
+- _Soldiers_
+- _Strength_
+- _Travelers_
+- _Tricksters_
+- _Truth_
+- _War_
+- _Wisdom_
 
 ### SUBCLASSES
 

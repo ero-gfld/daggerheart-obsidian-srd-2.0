@@ -13,4 +13,4 @@
 
 **_Fear Aura - Passive:_** A PC who takes the spotlight within Very Close range of the Phantom must succeed on a Presence Reaction Roll (10) or mark a Stress.
 
-**_Lingering Haunt - Reaction: Countdown (1d6)._** When the Phantom is defeated, you can **spend a Fear** to activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, clear the Phantom's HP and immediately spotlight them.
+**_Lingering Haunt - Reaction:_** _Countdown (1d6)._ When the Phantom is defeated, you can **spend a Fear** to activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, clear the Phantom's HP and immediately spotlight them.

@@ -36,8 +36,8 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 - [Flow of the Game](#flow-of-the-game)
 - [Core Gameplay Loop](#core-gameplay-loop)
 - [The Spotlight](#the-spotlight)
-- [Turn Order & Action Economy](#turn-order-action-economy)
-- [Making Moves & Taking Action](#making-moves-taking-action)
+- [Turn Order & Action Economy](#turn-order--action-economy)
+- [Making Moves & Taking Action](#making-moves--taking-action)
 - [Combat](#combat)
 - [Stress](#stress)
 - [Attacking](#attacking)
@@ -59,7 +59,7 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 **[Running an Adventure](#running-an-adventure)**
 
-- [Introduction](#introduction)
+- [Introduction](#introduction-1)
 - [GM Guidance](#gm-guidance)
 - [Core GM Mechanics](#core-gm-mechanics)
 - [Adversaries and Environments](#adversaries-and-environments)
@@ -268,7 +268,7 @@ There are ten Domains, each comprising a collection of cards granting features o
 
 Each class grants access to two domains:
 
-- **Assassion:** [Blade](domains/Blade.md) & [Midnight](domains/Midnight.md)
+- **[Assassion](classes/Assassin.md):** [Blade](domains/Blade.md) & [Midnight](domains/Midnight.md)
 - **[Bard](classes/Bard.md):** [Codex](domains/Codex.md) & [Grace](domains/Grace.md)
 - **[Brawler](classes/Brawler.md):** [Valor](domains/Valor.md) & [Bone](domains/Bone.md)
 - **[Druid](classes/Druid.md):** [Arcana](domains/Arcana.md) & [Sage](domains/Sage.md)
@@ -359,6 +359,20 @@ Each class is divided into two **subclasses,** each of which further defines and
 
 When you acquire a Foundation, Specialization, or Mastery, take its card for use as a reference during play.
 
+- [Assassin](classes/Assassin.md)
+- [Bard](classes/Bard.md)
+- [Brawler](classes/Brawler.md)
+- [Druid](classes/Druid.md)
+- [Guardian](classes/Guardian.md)
+- [Ranger](classes/Ranger.md)
+- [Rogue](classes/Rogue.md)
+- [Seraph](classes/Seraph.md)
+- [Sorcerer](classes/Sorcerer.md)
+- [Warlock](classes/Warlock.md)
+- [Warrior](classes/Warrior.md)
+- [Witch](classes/Witch.md)
+- [Wizard](classes/Wizard.md)
+
 ### ANCESTRIES
 
 **Ancestries** represent your character's lineage, which affects their physical appearance and access to certain special abilities. The following section describes each ancestry in Daggerheart and the characteristics generally shared by members of that ancestry, however, each player decides how much their character aligns with the "standard" or "average" expression of their ancestry.
@@ -377,6 +391,22 @@ If you'd like to make a character who combines more than one ancestry, see "Mixe
 
 This SRD describes the following ancestries: [Aetheris](ancestries/Aetheris.md), [Clank](ancestries/Clank.md), [Drakona](ancestries/Drakona.md), [Dwarf](ancestries/Dwarf.md), [Earthkin](ancestries/Earthkin.md), [Elf](ancestries/Elf.md), [Emberkin](ancestries/Emberkin.md), [Faerie](ancestries/Faerie.md), [Faun](ancestries/Faun.md), [Firbolg](ancestries/Firbolg.md), [Fungril](ancestries/Fungril.md), [Galapa](ancestries/Galapa.md), [Giant](ancestries/Giant.md), [Gnome](ancestries/Gnome.md), [Goblin](ancestries/Goblin.md), [Halfling](ancestries/Halfling.md), [Human](ancestries/Human.md), [Infernis](ancestries/Infernis.md), [Katari](ancestries/Katari.md), [Orc](ancestries/Orc.md), [Ribbet](ancestries/Ribbet.md), [Simiah](ancestries/Simiah.md), [Skykin](ancestries/Skykin.md), [Tidekin](ancestries/Tidekin.md).
 
+#### AETHERIS
+
+See: [Aetheris](ancestries/Aetheris.md)
+
+#### CLANK
+
+See: [Clank](ancestries/Clank.md)
+
+#### DRAKONA
+
+See: [Drakona](ancestries/Drakona.md)
+
+#### DWARF
+
+See: [Dwarf](ancestries/Dwarf.md)
+
 #### ELEMENTAL KIN
 
 Elemental kin are humanoid mortals descended from powerful supernatural entities known as elementals—embodiments of the fundamental forces that shape the Mortal Realm (such as earth, air, fire, and water). These "kin" manifest forces differently, with some appearing more or less humanoid than others, but they all have a lineage that grants them unique ways to harness and influence their elemental heritage.
@@ -386,6 +416,86 @@ At birth, elemental kin closely resemble the element they embody, then become in
 Some elemental kins' physical characteristics are passed down through families, such as one family of earthkin bearing shifting skin with the texture of sand, while another bears marble patterns. Additionally, families often develop their own unique communication styles that use their elemental influence. For example, emberkin might express excitement with flares of fire from their eyes, while tidekin might use currents of color over their bodies to communicate subtle messages.
 
 Though their lifespans vary, all elemental kin return to their element upon their death.
+
+##### EARTHKIN
+
+See: [Earthkin](ancestries/Earthkin.md)
+
+##### EMBERKIN
+
+See: [Emberkin](ancestries/Emberkin.md)
+
+##### SKYKIN
+
+See: [Skykin](ancestries/Skykin.md)
+
+##### TIDEKIN
+
+See: [Tidekin](ancestries/Tidekin.md)
+
+#### ELF
+
+See: [Elf](ancestries/Elf.md)
+
+#### FAERIE
+
+See: [Faerie](ancestries/Faerie.md)
+
+#### FAUN
+
+See: [Faun](ancestries/Faun.md)
+
+#### FIRBOLG
+
+See: [Firbolg](ancestries/Firbolg.md)
+
+#### FUNGRIL
+
+See: [Fungril](ancestries/Fungril.md)
+
+#### GALAPA
+
+See: [Galapa](ancestries/Galapa.md)
+
+#### GIANT
+
+See: [Giant](ancestries/Giant.md)
+
+#### GNOME
+
+See: [Gnome](ancestries/Gnome.md)
+
+#### GOBLIN
+
+See: [Goblin](ancestries/Goblin.md)
+
+#### HALFLING
+
+See: [Halfling](ancestries/Halfling.md)
+
+#### HUMAN
+
+See: [Human](ancestries/Human.md)
+
+#### INFERNIS
+
+See: [Infernis](ancestries/Infernis.md)
+
+#### KATARI
+
+See: [Katari](ancestries/Katari.md)
+
+#### ORC
+
+See: [Orc](ancestries/Orc.md)
+
+#### RIBBET
+
+See: [Ribbet](ancestries/Ribbet.md)
+
+#### SIMIAH
+
+See: [Simiah](ancestries/Simiah.md)
 
 #### MIXED ANCESTRY
 
@@ -410,6 +520,66 @@ Your character's community grants them a **community feature.** Each community c
 
 The core ruleset includes the following communities: [Duneborne](communities/Duneborne.md), [Freeborne](communities/Freeborne.md), [Frostborne](communities/Frostborne.md), [Hearthborne](communities/Hearthborne.md), [Highborne](communities/Highborne.md), [Loreborne](communities/Loreborne.md), [Orderborne](communities/Orderborne.md), [Reborne](communities/Reborne.md), [Ridgeborne](communities/Ridgeborne.md), [Seaborne](communities/Seaborne.md), [Slyborne](communities/Slyborne.md), [Underborne](communities/Underborne.md), [Wanderborne](communities/Wanderborne.md), [Warborne](communities/Warborne.md), [Wildborne](communities/Wildborne.md).
 
+#### DUNEBORNE
+
+See: [Duneborne](communities/Duneborne.md)
+
+#### FREEBORNE
+
+See: [Freeborne](communities/Freeborne.md)
+
+#### FROSTBORNE
+
+See: [Frostborne](communities/Frostborne.md)
+
+#### HEARTHBORNE
+
+See: [Hearthborne](communities/Hearthborne.md)
+
+#### HIGHBORNE
+
+See: [Highborne](communities/Highborne.md)
+
+#### LOREBORNE
+
+See: [Loreborne](communities/Loreborne.md)
+
+#### ORDERBORNE
+
+See: [Orderborne](communities/Orderborne.md)
+
+#### REBORNE
+
+See: [Reborne](communities/Reborne.md)
+
+#### RIDGEBORNE
+
+See: [Ridgeborne](communities/Ridgeborne.md)
+
+#### SEABORNE
+
+See: [Seaborne](communities/Seaborne.md)
+
+#### SLYBORNE
+
+See: [Slyborne](communities/Slyborne.md)
+
+#### UNDERBORNE
+
+See: [Underborne](communities/Underborne.md)
+
+#### WANDERBORNE
+
+See: [Wanderborne](communities/Wanderborne.md)
+
+#### WARBORNE
+
+See: [Warborne](communities/Warborne.md)
+
+#### WILDBORNE
+
+See: [Wildborne](communities/Wildborne.md)
+
 ### TRANSFORMATIONS
 
 Transformations represent a fundamental shift in your character and how they interact with the world. These are optional aspects of a character's identity that the GM can give out during a campaign as part of the narrative or, at their discretion, present as an option during character creation.
@@ -431,6 +601,30 @@ GMs should discuss transformations with their players before incorporating them 
 Some of the transformations presented here are easy to introduce during a campaign as a narrative development. For example, the vampire or werewolf transformation could be gained when the campaign's major villain targets a PC with a significant attack. A PC who gains the reanimated or ghost transformation might have died in a place of great magic or made a story-altering bargain in exchange for their resurrection. These transformations can also be part of character creation. Maybe a PC was born a werewolf and seeks to control this aspect of their lineage, or a PC is a long-dead ghost who haunts the party to protect the living.
 
 Some transformations are more likely to be taken at character creation, such as the shapeshifter or demigod. However, they can still be introduced as a character twist during a campaign. It's ultimately up to you which transformations are available at character creation and how they become available throughout play—decide what works best for you, your players, and the story you're telling together.
+
+#### DEMIGOD
+
+See: [Demigod](transformations/Demigod.md)
+
+#### GHOST
+
+See: [Ghost](transformations/Ghost.md)
+
+#### REANIMATED
+
+See: [Reanimated](transformations/Reanimated.md)
+
+#### SHAPESHIFTER
+
+See: [Shapeshifter](transformations/Shapeshifter.md)
+
+#### VAMPIRE
+
+See: [Vampire](transformations/Vampire.md)
+
+#### WEREWOLF
+
+See: [Werewolf](transformations/Werewolf.md)
 
 ## CORE MECHANICS
 
@@ -1207,7 +1401,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Rocket Maul](weapons/Rocket%20Maul.md) | Strength  | Melee      | d10+7 mag    | Two-Handed | **_Concussive:_** On a successful attack, you can spend a Hope to knock the target back to Far range.                                                                                                        |
 | [Crystal Spear](weapons/Crystal%20Spear.md) | Finesse   | Very Close | d10+6 mag    | One-Handed | **_Piercing:_** Damage dealt with this weapon treats the target's Major threshold as having a -2 penalty.                                                                                                    |
 | [Arc Wand](weapons/Arc%20Wand.md) | Presence  | Close      | d8+6 mag     | One-Handed | **_Bouncing:_** Mark any number of Stress to target that many additional creatures in range of the attack.                                                                                                   |
-| [Rime Scepter](weapons/Rime%20Scepter.md) | Knowledge | Close      | d8+6 mag     | One-Handed | **_Freezing:_** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily Restrained.                                                                                    |
+| [Rime Scepter](weapons/Rime%20Scepter.md) | Knowledge | Close      | d8+6 mag     | One-Handed | **_Freezing:_** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily _Restrained._                                                                                    |
 | [Gunblade](weapons/Gunblade.md) | Agility   | Far        | d6+6 mag     | One-Handed | **_Versatile:_** This weapon can also be used with these statistics—Agility, Melee, d8+6 phy.                                                                                                                |
 | [Staff of Augma](weapons/Staff%20of%20Augma.md) | Instinct  | Far        | d6+7 mag     | One-Handed | **_Catalytic:_** On a successful attack, you can mark a Stress to give an ally within Close range a +3 bonus to their next attack roll.                                                                      |
 
@@ -1244,7 +1438,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Infinite Staff](weapons/Infinite%20Staff.md) | Presence  | Melee      | d10+9 phy  | Two-Handed | **_Extending:_** You can increase the range of this weapon up to Very Far. You gain a -1 penalty to attack rolls for each step you increase the range by (such as Melee to Very Close, Very Close to Close, or Close to Far). |
 | [Bec de Corbin](weapons/Bec%20de%20Corbin.md) | Agility   | Very Close | d10+9 phy  | Two-Handed | **_Devastating:_** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.                                                                                                                     |
 | [Extended Polearm](weapons/Extended%20Polearm.md) | Finesse   | Very Close | d8+10 phy  | Two-Handed | **_Long:_** This weapon's attack targets all adversaries in a line within range.                                                                                                                                              |
-| [Swinging Ropeblade](weapons/Swinging%20Ropeblade.md) | Presence  | Close      | d8+9 phy   | Two-Handed | **_Grappling:_** On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you.                                                                                                  |
+| [Swinging Ropeblade](weapons/Swinging%20Ropeblade.md) | Presence  | Close      | d8+9 phy   | Two-Handed | **_Grappling:_** On a successful attack, you can spend a Hope to _Restrain_ the target or pull them into Melee range with you.                                                                                                  |
 | [Black Powder Serpentine](weapons/Black%20Powder%20Serpentine.md) | Strength  | Far        | d8+12 phy  | Two-Handed | **_Incendiary:_** -1 to Agility; on a successful attack, all creatures within Very Close range of the target must mark a Hit Point.                                                                                           |
 | [Ricochet Axes](weapons/Ricochet%20Axes.md) | Agility   | Far        | d6+11 phy  | Two-Handed | **_Bouncing:_** Mark 1 or more Stress to hit that many targets in range of the attack.                                                                                                                                        |
 | [Aantari Bow](weapons/Aantari%20Bow.md) | Finesse   | Far        | d6+11 phy  | Two-Handed | **_Reliable:_** +1 to attack rolls                                                                                                                                                                                            |
@@ -1276,7 +1470,7 @@ _Players can choose one Tier 1 primary weapon during character creation. The GM 
 | [Legendary Greatstaff](weapons/Legendary%20Greatstaff.md) | Knowledge | Very Far   | d6+9 mag     | Two-Handed | **_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.                                                                                                                                                             |
 | [Starmetal Blade](weapons/Starmetal%20Blade.md) | Agility   | Melee      | d8+10 mag    | One-Handed | **_Serrated:_** When you roll a 1 on a damage die, it deals 8 damage instead.                                                                                                                                                                                    |
 | [Sword of Light & Flame](weapons/Sword%20of%20Light%20and%20Flame.md) | Strength  | Melee      | d10+11 mag   | Two-Handed | **_Hot:_** This weapon cuts through solid material.                                                                                                                                                                                                              |
-| [Adder's Fang](weapons/Adders%20Fang.md) | Finesse   | Melee      | d8+9 mag     | One-Handed | **_Venomous:_** When you deal Major or greater damage with this weapon, the target becomes temporarily Vulnerable.                                                                                                                                               |
+| [Adder's Fang](weapons/Adders%20Fang.md) | Finesse   | Melee      | d8+9 mag     | One-Handed | **_Venomous:_** When you deal Major or greater damage with this weapon, the target becomes temporarily _Vulnerable_.                                                                                                                                               |
 | [Demon's Edge](weapons/Demons%20Edge.md) | Presence  | Melee      | d8+10 mag    | One-Handed | **_Disturbing:_** When you defeat a creature with this weapon, all adversaries within Close range must mark a Stress.                                                                                                                                            |
 | [Siphoning Gauntlets](weapons/Siphoning%20Gauntlets.md) | Presence  | Melee      | d10+9 mag    | Two-Handed | **_Lifestealing:_** On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress.                                                                                                                                                    |
 | [Midas Scythe](weapons/Midas%20Scythe.md) | Knowledge | Melee      | d10+9 mag    | Two-Handed | **_Greedy:_** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.                                                                                                                                                                   |
@@ -1334,7 +1528,7 @@ _Players can choose one Tier 1 secondary weapon during character creation. The G
 | [Parrying Dagger](weapons/Parrying%20Dagger.md) | Finesse   | Melee      | d6+2 phy | One-Handed | **_Parry:_** When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled. |
 | [Eldritch Vambrace](weapons/Eldritch%20Vambrace.md) | Instinct  | Melee      | d8 mag   | One-Handed | **_Deflecting:_** When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack.                                                                                                      |
 | [Segmented Staff](weapons/Segmented%20Staff.md) | Agility   | Very Close | d6+4 phy | One-Handed | **_Double Duty:_** +1 to Armor Score; +1 to primary weapon damage within Melee range                                                                                                                                                                   |
-| [Razor Wire](weapons/Razor%20Wire.md) | Finesse   | Very Close | d6+3 phy | One-Handed | **_Entangling:_** On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily Vulnerable.                                                                            |
+| [Razor Wire](weapons/Razor%20Wire.md) | Finesse   | Very Close | d6+3 phy | One-Handed | **_Entangling:_** On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily _Vulnerable_.                                                                            |
 | [Returning Axe](weapons/Returning%20Axe.md) | Agility   | Close      | d6+4 phy | One-Handed | **_Returning:_** When this weapon is thrown within its range, it appears in your hand immediately after the attack.                                                                                                                                    |
 
 ##### TIER 3 (LEVELS 5-7)
@@ -2782,7 +2976,7 @@ This section contains the following stat blocks:
 - [Kraken](adversaries/Kraken.md)
 - [Oracle of Doom](adversaries/Oracle%20of%20Doom.md)
 - [Outer Realms Abomination](adversaries/Outer%20Realms%20Abomination.md)
-- Outer Realms Corruptor
+- [Outer Realms Corruptor](adversaries/Outer%20Realms%20Corrupter.md)
 - [Outer Realms Thrall](adversaries/Outer%20Realms%20Thrall.md)
 - [Owl Witch](adversaries/Owl%20Witch.md)
 - [Ruby Dragon](adversaries/Ruby%20Dragon.md)
@@ -2916,7 +3110,7 @@ This section contains the following stat blocks.
 ###### TIER 4 (LEVELS 8-10)
 
 - [Chaos Realm](environments/Chaos%20Realm.md) (Traversal)
-- Convergence, City of Portals (Social)
+- [Convergence, City of Portals](environments/Convergence%2C%20the%20City%20of%20Portals.md) (Social)
 - [Divine Usurpation](environments/Divine%20Usurpation.md) (Event)
 - [Imperial Court](environments/Imperial%20Court.md) (Social)
 - [Moon Kingdom](environments/Moon%20Kingdom.md) (Exploration)
@@ -3115,6 +3309,46 @@ In exchange for protection from the Witherwild for themselves and their families
 >
 > _You fled the place of your birth. What circumstances drove you to leave?_
 
+###### ORDERBORNE
+
+Players might choose to build orderborne characters if they want to play current or former members of the Haven Army that invaded Fanewick. Though the army brings violence into this land, they also carry overwhelming grief for a homeland succumbing to disease.
+
+> _What regrets do you carry with you from your conquest of foreign soil?_
+>
+> _What kindness did an enemy combatant bestow upon you in an hour of need? How did this change your view of the people of Fanewick?_
+>
+> _You were charged with planting a rumor in a Fanewick community. What is the rumor, and do you plan to carry out this mission?_
+
+###### SLYBORNE
+
+As the Haven Army is the current martial power in Fanewick, those who wish to play slyborne characters might come from Fanewick rebel groups seeking to expel the invading forces from their lands. Depending on the tactics their group employs, a character from a slyborne community might align with or go against their upbringing.
+
+> _Who among the Haven Army do you wish to exact revenge upon and why?_
+>
+> _You joined an insurgent group working to free this land from Haven's grasp. What has given you doubts about the leadership's methods?_
+>
+> _Someone you love is a member of the Haven Army. How have you used your position in the rebellion to protect them?_
+
+###### SEABORNE
+
+Both Fanewick and Haven have a coastal border. The majority of Fanewick's seaborne communities live in small seaside groups and focus on local travel to neighboring regions, while Havenites tend to live in large ports that ship and receive goods from distant lands.
+
+> _You recently traveled by sea over a vast distance. What went terribly wrong on that passage, and how has it changed you?_
+>
+> _Growing up on the sea taught you a skill few have. What did you learn, and how did it save your life?_
+>
+> _You used to sail with a companion. Who were they, and how do you remain connected?_
+
+###### WANDERBORNE
+
+Wanderborne communities can be found in both Fanewick and Haven, though safe travel has been severely restricted due to the military occupation and the expansion of the Witherwild. Whether a wanderborne character comes from Fanewick, Haven, or elsewhere, the player should determine their character's personal views on the invasion of Fanewick, and how that aligns or departs from their community's views.
+
+> _What do you do to keep your small community safe, independent, and hidden from Haven's forces?_
+>
+> _Because of your community's transience, you have loved ones in both Fanewick and Haven. How has this affected your relationship with the invasion?_
+>
+> _Your community travels to protect something. What is it, and why does it keep you from settling down?_
+
 ##### ANCESTRIES
 
 _All ancestries are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players._
@@ -3122,6 +3356,10 @@ _All ancestries are available, but some have unique aspects within a Witherwild 
 ###### CLANKS
 
 Clanks from Haven are commonly made from iron and steel, while clanks from Fanewick are typically constructed from wood and stone.
+
+###### FUNGRIL
+
+Since the Witherwild spread throughout Fanewick, some fungril inhabiting the forests have grown noticeably larger than fungril from other regions.
 
 ###### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
 
@@ -3767,7 +4005,27 @@ _You can use the following mechanics for a campaign set at a floating magic scho
 
 #### FLIGHT
 
-See: [Flight](abilities/Flight.md)
+During character creation, each player creates a magic artifact they can use to fly. Flying PCs use the normal movement rules and can fly within Close range as part of an action roll, but they must make an appropriate trait roll to move beyond Close range or if movement is their primary action. At the GM's discretion, some threats, such as gaining the _Restrained_ or _Vulnerable_ conditions, losing their magic artifact, or taking Severe damage, can temporarily interrupt a PC's ability to fly.
+
+##### USING TRAITS FOR FLIGHT
+
+A PC can use any appropriate trait (not just Agility) to move while flying. The following are some examples of how each trait might be used:
+
+**Agility:** Swift acrobatics, speed-boosting off an adversary's wake, maintaining an aerodynamic posture, or angling past a winged threat
+
+**Finesse:** Focused, subtle, and well-timed adjustments, threading the needle, precision flying, operating finely tuned controls, or deftly weaving between obstacles
+
+**Strength:** Blasting through floating debris, holding fast in shifting weather, or slamming into a racing rival
+
+**Instinct:** Navigating by sheer intuition, keenly spotting a shortcut, following a migratory current, or sensing hidden danger in the clouds.
+
+**Presence:** Flying with natural grace and effortless style, commanding attention, causing a distraction, creating a spectacle
+
+**Knowledge:** Charting efficient flight plans, plotting rotational momentum, or deducing the exact timing of a foe's wingbeats
+
+##### LESS LETHAL CAMPAIGNS
+
+In a less lethal campaign, any death move that would normally lead to a character's demise instead puts them in the infirmary for a few weeks or sends them home for an extended period of time. While they recover, the PC is unplayable but not dead.
 
 ### FAIRY TALE CAMPAIGNS
 
@@ -3832,6 +4090,26 @@ You can make the following weapons and items available to your players.
 #### TRANSFORMATIONS
 
 _You can use the following mechanics for introducing the Reanimated, Vampire, and Werewolf transformations to your campaign._
+
+##### REANIMATED
+
+When a character gains the Reanimated transformation, their maximum loadout is reduced to one. During a rest, they can use a downtime move to raise their maximum loadout by one until they reach the normal maximum loadout of five.
+
+##### VAMPIRE
+
+You can add the following feature to a prominent vampire adversary's stat block:
+
+**_Vampire's Curse – Action._** Make an attack roll against a target within Melee range. On a success, you can **spend a Fear** to have this adversary sink their teeth into the target's neck and try to turn them into a vampire. Roll a number of **d8s** equal to this adversary's tier and deal that much physical damage to the target. Then roll a **d6**. If the rolled result matches any of the damage dice results, the target marks all their Stress and gains the Vampire transformation.
+
+If the player wishes for their character to become a vampire, the attack roll succeeds automatically. The PC takes the damage, marks all their Stress, and gains the transformation.
+
+##### WEREWOLF
+
+You can add the following feature to a prominent werewolf adversary's stat block:
+
+**_Wolf's Curse – Action._** Make an attack roll against a target within Melee range. On a success, you can **spend a Fear** to have this adversary viciously bite the target. Roll a number of **d20s** equal to this adversary's tier and deal that much physical damage to the target. If the target takes Major or greater damage from this attack, activate a long-term Lycanthropy Countdown (6). It ticks down each time the PC takes a rest without using a downtime move to halt their lycanthropy's progression. When it triggers, the PC gains the Werewolf transformation.
+
+If the player wishes for their character to become a werewolf, the attack roll succeeds automatically. The PC takes the damage and activates a long-term Lycanthropy Countdown (6) regardless of how many HP they marked as a result of the attack. When the countdown triggers, the PC gains the transformation.
 
 #### THE HUNT
 
@@ -3974,13 +4252,13 @@ You can add the following habitat-based features to an adversary:
 
 - **_Blighted – Passive._** This adversary is corrupted by magic. When encountered within a similarly affected area, this adversary critically succeeds on attacks with a die roll of 18-20.
 - **_Enviromancer – Passive._** This adversary can draw upon the wild magic of their surroundings to fuel magical effects. **Mark a Stress** to activate an effect based on the habitat of their current location (if an effect's damage roll uses the adversary's tier, roll the damage die a number of times equal to their tier and total the results):
-  - **_Heat Spell (Desert, Salt Flats, Volcano)._** The adversary exudes oppressive supernatural heat. Each target within Very Close range must succeed on an Instinct Reaction Roll. Targets who fail must mark a Stress and take **d6** direct magic damage using this adversary's tier.
-  - **_Overgrowth Spell (Forest, Jungle)._** This adversary unleashes a burst of branches, brambles, or vines in all directions. Each target within Close range must make an Agility Reaction Roll. Targets who fail take **d8** physical damage using this adversary's tier and are _Restrained_ until they break free with a successful Strength Roll.
-  - **_Wind Spell (Cliffs, Plains, Steppe)._** A tornado surrounds this adversary. Each target within Close range must make a Strength Reaction Roll. Targets who fail take **d8** magic damage using this adversary's tier and are pushed up to Far range. Until this adversary takes damage, attack rolls against them have disadvantage.
-  - **_Ice Spell (Alpine, Glacier, Tundra)._** This adversary unleashes daggers of ice. Make an attack against each PC in front of this adversary within Close range. Targets they succeed against take **d10** magic damage using this adversary's tier and are _Frostbitten_ until they spend a Hope to clear the condition. While _Frostbitten_, a PC gains a -1 penalty to their Proficiency.
+  - **Heat Spell (Desert, Salt Flats, Volcano).** The adversary exudes oppressive supernatural heat. Each target within Very Close range must succeed on an Instinct Reaction Roll. Targets who fail must mark a Stress and take **d6** direct magic damage using this adversary's tier.
+  - **Overgrowth Spell (Forest, Jungle).** This adversary unleashes a burst of branches, brambles, or vines in all directions. Each target within Close range must make an Agility Reaction Roll. Targets who fail take **d8** physical damage using this adversary's tier and are _Restrained_ until they break free with a successful Strength Roll.
+  - **Wind Spell (Cliffs, Plains, Steppe).** A tornado surrounds this adversary. Each target within Close range must make a Strength Reaction Roll. Targets who fail take **d8** magic damage using this adversary's tier and are pushed up to Far range. Until this adversary takes damage, attack rolls against them have disadvantage.
+  - **Ice Spell (Alpine, Glacier, Tundra).** This adversary unleashes daggers of ice. Make an attack against each PC in front of this adversary within Close range. Targets they succeed against take **d10** magic damage using this adversary's tier and are _Frostbitten_ until they spend a Hope to clear the condition. While _Frostbitten_, a PC gains a -1 penalty to their Proficiency.
   - Poison Spell (Moor, Swamp, Wetlands). A cloud of toxic spores explodes from this adversary. Each PC within Close range must succeed on a Strength Reaction Roll or take **d6** direct damage using this adversary's tier and become _Nauseated_ until they clear a HP. While _Nauseated_, a PC can't gain Hope.
-  - **_Stone Spell (Canyon, Mountain, Badlands)._** This adversary gains a bonus to their damage thresholds equal to their tier until they take Severe damage or use this feature again.
-  - **_Water Spell (Riverlands, Sea)._** This adversary unleashes a geyser or tidal wave. Make an attack against all targets within Very Close range. Targets they succeed against are pushed to Close range of where they were and mark a number of Stress equal to this adversary's tier.
+  - **Stone Spell (Canyon, Mountain, Badlands).** This adversary gains a bonus to their damage thresholds equal to their tier until they take Severe damage or use this feature again.
+  - **Water Spell (Riverlands, Sea).** This adversary unleashes a geyser or tidal wave. Make an attack against all targets within Very Close range. Targets they succeed against are pushed to Close range of where they were and mark a number of Stress equal to this adversary's tier.
 
 ## APPENDIX
 

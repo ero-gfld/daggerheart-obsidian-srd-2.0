@@ -3,7 +3,7 @@
 **_Tier 1 Bruiser._** _An empty suit of full plate armor that glows with a faint corona of ghostly light._
 
 - **Motives & Tactics:** Clank noisily, move like clockwork, watch silently
-- **Difficulty:** 10 | **Thresholds:** 9/17 | **HP:** 6 | **Stress:** <no value>
+- **Difficulty:** 10 | **Thresholds:** 9/17 | **HP:** 6 | **Stress:** None
 - **ATK:** +0 | **Zweihänder:** Very Close | 1d10+1 phy
 - **Experience:** Guardian +2
 

@@ -11,7 +11,7 @@ Rangers are highly skilled hunters who, despite their martial abilities, rarely 
 
 ---
 
-### HOPE FEATURE
+### RANGER'S HOPE FEATURE
 
 **_Hold Them Off:_** **Spend 3 Hope** when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.
 

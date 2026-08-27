@@ -19,6 +19,7 @@
 
 **_Nest Warden - Evolution:_** When the Roc's eggs are threatened, it gains the following features:
 
-**_Wrathful - Passive:_** The Roc gains a +2 bonus to its Difficulty and a bonus to damage rolls equal to the number of Stress it has marked.
+> **_Wrathful - Passive:_** The Roc gains a +2 bonus to its Difficulty and a bonus to damage rolls equal to the number of Stress it has marked.
+>
+> **_Electrifying Aura - Passive:_** The Roc has resistance to magic damage. PCs who fail a roll within Very Close range must spend a Hope or mark **1d4** Stress.
 
-**_Electrifying Aura - Passive:_** The Roc has resistance to magic damage. PCs who fail a roll within Very Close range must spend a Hope or mark **1d4** Stress.

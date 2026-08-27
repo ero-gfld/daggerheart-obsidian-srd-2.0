@@ -20,6 +20,7 @@
 
 **_Alpha to Omega - Evolution:_** When Adonix is defeated, they resurrect in Omega form with all HP and Stress cleared. Each PC within Very Far range must succeed on a Presence Reaction Roll or lose a Hope. You gain a Fear for each Hope lost in this way. Adonix gains the following features in this form:
 
-**_Forsaken - Action:_** **Spend a Fear** to choose a PC and activate a Forsaken Countdown (1d8) for them. It ticks down when Adonix is spotlighted. When it triggers, the PC must mark all their HP. The countdown ends if Adonix takes Severe damage. You can have only one Forsaken Countdown active at a time.
+> **_Forsaken - Action:_** **Spend a Fear** to choose a PC and activate a Forsaken Countdown (1d8) for them. It ticks down when Adonix is spotlighted. When it triggers, the PC must mark all their HP. The countdown ends if Adonix takes Severe damage. You can have only one Forsaken Countdown active at a time.
+>
+> **_Armageddon - Reaction:_** When Adonix is defeated again, they unleash a reality storm that shakes the realms to their foundations. Roll a **d6**. On a result of 5-6, each PC must make a death move.
 
-**_Armageddon - Reaction:_** When Adonix is defeated again, they unleash a reality storm that shakes the realms to their foundations. Roll a **d6**. On a result of 5-6, each PC must make a death move.

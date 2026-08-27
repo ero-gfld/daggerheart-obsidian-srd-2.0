@@ -3,26 +3,30 @@
 {{ .description }}
 {{- if .spellcast_trait }}
 
-### SPELLCAST TRAIT
+### {{ headingOr .spellcast_heading "SPELLCAST TRAIT" }}
 
 {{ .spellcast_trait }}
 {{- end }}
 
-### FOUNDATION FEATURE{{ if gt (len .foundation) 1 }}S{{ end }}
+### {{ literalHeading .foundation_heading "FOUNDATION FEATURE" (len .foundation) }}
 
 {{- range .foundation }}
 
 **_{{ .name }}:_** {{ .text }}
 {{- end }}
+{{- if eq .name "Martial Artist" }}
 
-### SPECIALIZATION FEATURE{{ if gt (len .specialization) 1 }}S{{ end }}
+_The Martial Stances sheet -- the Focus economy, the rules for shifting into and dropping out of stances, and all sixteen stances by tier -- is printed on the [Brawler](../classes/Brawler.md#martial-stances) class page._
+{{- end }}
+
+### {{ literalHeading .specialization_heading "SPECIALIZATION FEATURE" (len .specialization) }}
 
 {{- range .specialization }}
 
 **_{{ .name }}:_** {{ .text }}
 {{- end }}
 
-### MASTERY FEATURE{{ if gt (len .mastery) 1 }}S{{ end }}
+### {{ literalHeading .mastery_heading "MASTERY FEATURE" (len .mastery) }}
 
 {{- range .mastery }}
 

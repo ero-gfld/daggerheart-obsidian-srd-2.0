@@ -9,4 +9,4 @@
 
 ### FEATURE
 
-**_Venomous:_** When you deal Major or greater damage with this weapon, the target becomes temporarily Vulnerable.
+**_Venomous:_** When you deal Major or greater damage with this weapon, the target becomes temporarily _Vulnerable_.

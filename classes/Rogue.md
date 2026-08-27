@@ -11,7 +11,7 @@ Rogues are scoundrels, often in both attitude and practice. Broadly known as lia
 
 ---
 
-### HOPE FEATURE
+### ROGUE'S HOPE FEATURE
 
 **_Rogue's Dodge:_** **Spend 3 Hope** to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
 

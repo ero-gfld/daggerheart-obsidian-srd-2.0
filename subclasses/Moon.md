@@ -6,7 +6,7 @@ Play the Moon if you want to embody celestial power to amplify your magic.
 
 Instinct
 
-### FOUNDATION FEATURE
+### FOUNDATION FEATURES
 
 **_Night's Glamour:_** Make a **Spellcast Roll (13)** to _Glamour_ yourself in a bewitching facade. While _Glamoured_, you have advantage on rolls that leverage your illusory appearance. Additionally, adversaries within Close range must mark a Stress to attack you.
 
@@ -18,7 +18,7 @@ Unless you **mark a Stress** to maintain your _Glamour_, it drops when you mark 
 
 **_Ire of Pale Light:_** When a _Hexed_ creature within Very Far range fails an attack, they must mark a Stress.
 
-### MASTERY FEATURE
+### MASTERY FEATURES
 
 **_Lunar Phases:_** At the beginning of each session, roll a **d6** and place it on this card. You gain the matching effect until the end of session.
 

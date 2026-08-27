@@ -15,4 +15,4 @@
 
 **_Slippery - Reaction:_** When the Sorcerer takes damage from an attack, they can teleport up to Far range.
 
-**_Shackles of Guilt - Reaction: Countdown (Loop 2d6):_** When the Sorcerer is in the spotlight for the first time, activate the countdown. When it triggers, all targets within Far range become _Vulnerable_ and must mark a Stress as they relive their greatest regrets. A target can break free from their regret with a successful Presence or Strength Roll. When a PC fails to break free, they lose a Hope.
+**_Shackles of Guilt - Reaction:_** _Countdown (Loop 2d6)._ When the Sorcerer is in the spotlight for the first time, activate the countdown. When it triggers, all targets within Far range become _Vulnerable_ and must mark a Stress as they relive their greatest regrets. A target can break free from their regret with a successful Presence or Strength Roll. When a PC fails to break free, they lose a Hope.

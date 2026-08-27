@@ -11,7 +11,7 @@ Bards are the most charismatic people in all the realms. Members of this class a
 
 ---
 
-### HOPE FEATURE
+### BARD'S HOPE FEATURE
 
 **_Make a Scene:_** **Spend 3 Hope** to temporarily _Distract_ a target within Close range, giving them a -2 penalty to their Difficulty.
 

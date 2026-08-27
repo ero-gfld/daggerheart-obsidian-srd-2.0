@@ -11,7 +11,7 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 ---
 
-### HOPE FEATURE
+### WARRIOR'S HOPE FEATURE
 
 **_No Mercy:_** **Spend 3 Hope** to gain a +1 bonus to your attack rolls until your next rest.
 

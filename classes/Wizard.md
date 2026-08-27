@@ -11,7 +11,7 @@ Whether through an institution or individual study, those known as wizards acqui
 
 ---
 
-### HOPE FEATURE
+### WIZARD'S HOPE FEATURE
 
 **_Not This Time:_** **Spend 3 Hope** to force an adversary within Far range to reroll an attack or damage roll.
 

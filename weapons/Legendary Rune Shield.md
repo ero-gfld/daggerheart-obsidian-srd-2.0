@@ -1,6 +1,6 @@
 # Legendary Rune Shield
 
-**_Tier 4_** _Secondary_ _Physical_ _Weapon_
+**_Tier 4_** _Secondary_ _Magical_ _Weapon_
 
 - **Trait:** Knowledge
 - **Range:** Melee

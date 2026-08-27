@@ -1,6 +1,6 @@
 # Advanced Focus Runes
 
-**_Tier 3_** _Secondary_ _Physical_ _Weapon_
+**_Tier 3_** _Secondary_ _Magical_ _Weapon_
 
 - **Trait:** Instinct
 - **Range:** Very Close

@@ -14,4 +14,4 @@
 
 **_Raptor Nest - Reaction:_** When the PCs enter the raptors' hunting grounds, two Giant Eagles appear at Very Far range of a chosen PC, identifying the PCs as likely prey. _How long has it been since the eagles last found prey? Do they have eggs in their nest, or unfledged young?_
 
-**_Icy Winds - Reaction: Countdown (Loop 4)._** When the PCs enter the mountain pass, activate the countdown. When it triggers, all characters traveling through the pass must succeed on a Strength Reaction Roll or mark a Stress. A PC wearing clothes appropriate for extreme cold gains advantage on these rolls. _What parts of the PC's bodies go numb first? How do they try to keep warm as they press forward?_
+**_Icy Winds - Reaction:_** _Countdown (Loop 4)._ When the PCs enter the mountain pass, activate the countdown. When it triggers, all characters traveling through the pass must succeed on a Strength Reaction Roll or mark a Stress. A PC wearing clothes appropriate for extreme cold gains advantage on these rolls. _What parts of the PC's bodies go numb first? How do they try to keep warm as they press forward?_

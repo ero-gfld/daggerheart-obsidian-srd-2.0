@@ -11,6 +11,7 @@
         "text": "Your \"Marked for Death\" feature uses **d6s** instead of d4s."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "True Strike",
@@ -21,6 +22,7 @@
         "text": "Your \"Marked for Death\" feature uses **d8s** instead of d6s."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Executioners Guild",
     "specialization": [
       {
@@ -32,6 +34,8 @@
         "text": "You gain a +2 bonus to your Evasion against attacks made by a creature you've _Marked for Death_."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Agility"
   },
   {
@@ -42,6 +46,7 @@
         "text": "**Mark a Stress** to place **1d4+1** tokens on this card. When you make a successful weapon attack, you can spend a token to afflict the target with a poison. You know these poisons:\n\n- _Ghost Petal:_ The target becomes temporarily _Vulnerable_.\n- _Grave Spore:_ The target must also mark a Stress.\n- _Leech Weed:_ You deal an extra **1d6** damage on this attack.\n\nWhen you take a long rest, clear all unspent tokens."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Venomancer",
@@ -52,6 +57,7 @@
         "text": "You are immune to poisons and other toxins."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Poisoners Guild",
     "specialization": [
       {
@@ -63,6 +69,8 @@
         "text": "When you afflict a target _Marked for Death_ with a poison you know, you can spend an additional token to also inflict the effect of a second poison you know."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Knowledge"
   },
   {
@@ -73,12 +81,14 @@
         "text": "You can play three different types of songs, once each per long rest; describe how you perform for others to gain the listed benefit:\n\n- _Relaxing Song:_ You and all allies within Close range clear a Hit Point.\n- _Epic Song:_ Make a target within Close range temporarily _Vulnerable._\n- _Heartbreaking Song:_ You and all allies within Close range gain a Hope."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Virtuoso",
         "text": "You are among the greatest of your craft and your skill is boundless. You can perform each of your \"Gifted Performer\" feature's songs twice per long rest."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Troubadour",
     "specialization": [
       {
@@ -86,6 +96,8 @@
         "text": "Your rallying songs steel the courage of those who listen. When you give a Rally Die to an ally, they can gain a Hope or clear a Stress."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Presence"
   },
   {
@@ -100,12 +112,14 @@
         "text": "After you make an action roll to impress, persuade, or offend someone, you can **spend a Hope** to add a **d4** to the roll."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Epic Poetry",
         "text": "Your Rally Die increases to a **d10.** Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your advantage die."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Wordsmith",
     "specialization": [
       {
@@ -113,6 +127,8 @@
         "text": "Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:\n\n- Allow them to find a mundane object or tool they need.\n- Help an Ally without spending Hope.\n- Give them an additional downtime move during their next rest."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Presence"
   },
   {
@@ -127,6 +143,7 @@
         "text": "When you succeed on an attack against a target, you can **spend a Hope** to throw the target within Close range or to force them to mark a Stress."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Pummeljoy",
@@ -137,6 +154,7 @@
         "text": "When you take Severe damage, you can gain a Hope or clear a Stress."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Juggernaut",
     "specialization": [
       {
@@ -147,7 +165,8 @@
         "name": "Eye for an Eye",
         "text": "Once per rest when an adversary within Melee range forces you to mark any number of Hit Points, you can **mark a Stress** to force them to mark the same number of Hit Points."
       }
-    ]
+    ],
+    "specialization_heading": "SPECIALIZATION FEATURES"
   },
   {
     "description": "Play the Martial Artist if you want to use a variety of fighting styles to eliminate your foes.",
@@ -157,6 +176,7 @@
         "text": "You can channel your inner resolve to shift into martial stances that grant you special benefits in combat.\n\nTake the Martial Stances sheet and choose two martial stances from Tier 1. Each time you level up your character, choose an additional stance from your tier or lower."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Limit Breaker",
@@ -167,6 +187,7 @@
         "text": "You can **mark a Stress** instead of spending a Focus to shift into a different stance. Additionally, you can **spend a Focus** instead of marking a Stress to start a combo strike."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Martial Artist",
     "specialization": [
       {
@@ -177,7 +198,8 @@
         "name": "Focus Cannon",
         "text": "**Spend a Focus** to make an Instinct Roll against an adversary within Far range. On a success, deal **d20+3** magic damage using your Proficiency."
       }
-    ]
+    ],
+    "specialization_heading": "SPECIALIZATION FEATURES"
   },
   {
     "description": "Play the Warden of the Elements if you want to embody the natural elements of the wild.",
@@ -187,12 +209,14 @@
         "text": "**Mark a Stress** to _Channel_ one of the following elements until you take Severe damage or until your next rest:\n\n- _Fire:_ When an adversary within Melee range deals damage to you, they take **1d10** magic damage.\n- _Earth:_ Gain a bonus to your damage thresholds equal to your Proficiency.\n- _Water:_ When you deal damage to an adversary within Melee range, all other adversaries within Very Close range must mark a Stress.\n- _Air:_ You can hover, gaining advantage on Agility Rolls."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Elemental Dominion",
         "text": "You further embody your element. While _Channeling_, you gain the following benefit:\n\n- _Fire:_ You gain a +1 bonus to your Proficiency for attacks and spells that deal damage.\n- _Earth:_ When you would mark Hit Points, roll a **d6** per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1.\n- _Water:_ When an attack against you succeeds, you can **mark a Stress** to make the attacker temporarily _Vulnerable_.\n- _Air:_ You gain a +1 bonus to your Evasion and can fly."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Warden of the Elements",
     "specialization": [
       {
@@ -200,6 +224,8 @@
         "text": "Once per rest while _Channeling_, you can assume an aura matching your element. The aura affects targets within Close range until your _Channeling_ ends.\n\n- _Fire:_ When an adversary marks 1 or more Hit Points, they must also mark a Stress.\n- _Earth:_ Your allies gain a +1 bonus to Strength.\n- _Water:_ When an adversary deals damage to you, you can **mark a Stress** to move them anywhere within Very Close range of where they are.\n- _Air:_ When you or an ally takes damage from an attack beyond Melee range, reduce the damage by **1d8**."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Instinct"
   },
   {
@@ -214,12 +240,14 @@
         "text": "Touch a creature and **spend 3 Hope.** That creature clears **1d4** Hit Points."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Defender",
         "text": "Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally within Close range marks 2 or more Hit Points, you can **mark a Stress** to reduce the number of Hit Points they mark by 1."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Warden of Renewal",
     "specialization": [
       {
@@ -231,6 +259,8 @@
         "text": "Once per long rest, **spend 2 Hope** to clear 2 Hit Points on **1d4** allies within Close range."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Instinct"
   },
   {
@@ -245,6 +275,7 @@
         "text": "When you take physical damage, you can **mark an additional Armor Slot** to reduce the severity."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Undaunted",
@@ -255,6 +286,7 @@
         "text": "When an ally within Close range has 2 or fewer Hit Points and would take damage, you can **mark a Stress** to sprint to their side and take the damage instead."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Stalwart",
     "specialization": [
       {
@@ -265,7 +297,8 @@
         "name": "Partners-in-Arms",
         "text": "When an ally within Very Close range takes damage, you can **mark an Armor Slot** to reduce the severity by one threshold."
       }
-    ]
+    ],
+    "specialization_heading": "SPECIALIZATION FEATURES"
   },
   {
     "description": "Play the Vengeance if you want to strike down enemies who harm you or your allies.",
@@ -279,19 +312,22 @@
         "text": "When an adversary within Melee range succeeds on an attack against you, you can **mark 2 Stress** to force the attacker to mark a Hit Point."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Nemesis",
         "text": "**Spend 2 Hope** to _Prioritize_ an adversary until your next rest. When you make an attack against your _Prioritized_ adversary, you can swap the results of your Hope and Fear Dice. You can only _Prioritize_ one adversary at a time."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Vengeance",
     "specialization": [
       {
         "name": "Act of Reprisal",
         "text": "When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiency for the next successful attack you make against that adversary."
       }
-    ]
+    ],
+    "specialization_heading": "SPECIALIZATION FEATURE"
   },
   {
     "description": "Play the Beastbound if you want to form a deep bond with an animal ally.",
@@ -301,6 +337,7 @@
         "text": "You have an animal companion of your choice (at the GM's discretion). They stay by your side unless you tell them otherwise.\n\nTake the Ranger Companion sheet. When you level up your character, choose a level-up option for your companion from this sheet as well."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Advanced Training",
@@ -311,6 +348,7 @@
         "text": "Once per long rest, when the damage from an attack would mark your companion's last Stress or your last Hit Point and you're within Close range of each other, you or your companion can rush to the other's side and take that damage instead."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Beastbound",
     "specialization": [
       {
@@ -322,6 +360,8 @@
         "text": "When an adversary attacks you while they're within your companion's Melee range, you gain a +2 bonus to your Evasion against the attack."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Agility"
   },
   {
@@ -336,12 +376,14 @@
         "text": "When you're traveling to a place you've previously visited or you carry an object that has been at the location before, you can identify the shortest, most direct path to your destination."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Apex Predator",
         "text": "Before you make an attack roll against your _Focus_, you can **spend a Hope.** On a successful attack, you remove a Fear from the GM's Fear pool."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Wayfinder",
     "specialization": [
       {
@@ -349,6 +391,8 @@
         "text": "When your Focus makes an attack against you, you gain a +2 bonus to your Evasion against the attack."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Agility"
   },
   {
@@ -359,6 +403,7 @@
         "text": "You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can **mark a Stress** to disappear from where you are and reappear inside another shadow within Far range. When you reappear, you are _Cloaked._"
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Fleeting Shadow",
@@ -369,6 +414,7 @@
         "text": "**Mark a Stress** to become _Cloaked_ at any time. When _Cloaked_ from this feature, you automatically clear the _Restrained_ condition if you have it. You remain _Cloaked_ in this way until you roll with Fear or until your next rest."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Nightwalker",
     "specialization": [
       {
@@ -380,6 +426,8 @@
         "text": "While you're _Vulnerable,_ add your level to your damage rolls."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Finesse"
   },
   {
@@ -390,12 +438,14 @@
         "text": "When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:\n\n- They owe me a favor, but they'll be hard to find.\n- They're going to ask for something in exchange.\n- They're always in a great deal of trouble.\n- We used to be together. It's a long story.\n- We didn't part on great terms."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Reliable Backup",
         "text": "You can use your \"Contacts Everywhere\" feature three times per session. The following options are added to the list of benefits you can choose from when you use that feature:\n\n- When you mark 1 or more Hit Points, they can rush out to shield you, reducing the Hit Points marked by 1.\n- When you make a Presence Roll in conversation, they back you up. You can roll a **d20** as your Hope Die."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Syndicate",
     "specialization": [
       {
@@ -403,6 +453,8 @@
         "text": "Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:\n\n- They provide 1 handful of gold, a unique tool, or a mundane object that the situation requires.\n- On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die.\n- The next time you deal damage, they snipe from the shadows, adding **2d8** to your damage roll."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Finesse"
   },
   {
@@ -417,12 +469,14 @@
         "text": "Once per long rest, touch a creature and clear 2 Hit Points or 2 Stress from them."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Sacred Resonance",
         "text": "When you roll damage for your \"Spirit Weapon\" feature, if any of the die results match, double the value of each matching die. For example, if you roll two 5s, they count as two 10s."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Divine Wielder",
     "specialization": [
       {
@@ -430,6 +484,8 @@
         "text": "When you roll your Prayer Dice, you can roll an additional die and discard the lowest result. Additionally, you can use your \"Sparing Touch\" feature twice instead of once per long rest."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Strength"
   },
   {
@@ -440,6 +496,7 @@
         "text": "You can fly. While flying, you can do the following:\n\n- **Mark a Stress** to pick up and carry another willing creature approximately your size or smaller.\n- **Spend a Hope** to deal an extra **1d8** damage on a successful attack."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Ascendant",
@@ -450,6 +507,7 @@
         "text": "While flying, you deal an extra **1d12** damage instead of 1d8 from your \"Wings of Light\" feature."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Winged Sentinel",
     "specialization": [
       {
@@ -457,6 +515,8 @@
         "text": "Your supernatural visage strikes awe and fear. While flying, you have advantage on Presence Rolls. When you succeed with Hope on a Presence Roll, you can remove a Fear from the GM's Fear pool instead of gaining Hope."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Strength"
   },
   {
@@ -467,12 +527,14 @@
         "text": "Choose one of the following elements at character creation: air, earth, fire, lightning, water.\n\nYou can shape this element into harmless effects. Additionally, **spend a Hope** and describe how your control over this element helps an action roll you're about to make, then either gain a +2 bonus to the roll or a +3 bonus to the roll's damage."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Transcendence",
         "text": "Once per long rest, you can transform into a physical manifestation of your element. When you do, describe your transformation and choose two of the following benefits to gain until your next rest:\n\n- +4 bonus to your Severe threshold\n- +1 bonus to a character trait of your choice\n- +1 bonus to your Proficiency\n- +2 bonus to your Evasion"
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Elemental Origin",
     "specialization": [
       {
@@ -480,6 +542,8 @@
         "text": "You can call forth your element to protect you from harm. When an attack roll against you succeeds, you can **mark a Stress** and describe how you use your element to defend you. When you do, roll a **d6** and add its result to your Evasion against the attack."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Instinct"
   },
   {
@@ -490,12 +554,14 @@
         "text": "Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals magic damage, you can **mark a Stress** to do one of the following:\n\n- Extend the spell or attack's reach by one range\n- Gain a +2 bonus to the action roll's result\n- Double a damage die of your choice\n- Hit an additional target within range"
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Arcane Charge",
         "text": "You can gather magical energy to enhance your capabilities. When you take magic damage, you become _Charged_. Alternatively, you can **spend 2 Hope** to become _Charged_. When you successfully make an attack that deals magic damage while _Charged_, you can clear your _Charge_ to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being _Charged_ at your next long rest."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Primal Origin",
     "specialization": [
       {
@@ -503,6 +569,8 @@
         "text": "You can enhance the magic of others with your essence. When you Help an Ally with a Spellcast Roll, you can roll a **d8** as your advantage die. Once per long rest, after an ally has made a Spellcast Roll with your help, you can swap the results of their Duality Dice."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURE",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Instinct"
   },
   {
@@ -517,6 +585,7 @@
         "text": "Once per rest, **spend any number of Favor** to roll an equal number of Patron Dice. For each result of 4 or higher, clear a Hit Point."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Dark Aegis",
@@ -527,6 +596,7 @@
         "text": "When an adversary targets you or an ally within Very Close range with an attack, you can **spend a Favor** to _Drain_ them. When you do, they must mark a Stress, and you can clear a Stress. While _Drained_, the target uses a **d12** instead of a d20 for attack rolls (including for advantage or disadvantage) until they fail a roll."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Pact of the Endless",
     "specialization": [
       {
@@ -538,6 +608,8 @@
         "text": "Once per rest, you can **spend a Favor** to halve incoming damage."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Presence"
   },
   {
@@ -552,6 +624,7 @@
         "text": "When you mark any number of Hit Points from an attack, you can **spend a Favor** to roll an equal number of Patron Dice. For each result of 4 or higher, the attacker marks a Hit Point."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Fearsome Attack",
@@ -562,6 +635,7 @@
         "text": "Once per rest when you take damage, you can **spend any number of Favor** to roll that many Patron Dice and target a number of creatures within Close range equal to the highest result. Each target must mark a Hit Point."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Pact of the Wrathful",
     "specialization": [
       {
@@ -573,6 +647,8 @@
         "text": "When you succeed with Hope on an action roll against a target, you can **spend any number of Favor** to force the target to mark an equal number of Stress."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Presence"
   },
   {
@@ -587,19 +663,22 @@
         "text": "Once per long rest, before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, clear 2 Stress and gain 2 Hope."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Camaraderie",
         "text": "Your unwavering bravery is a rallying point for your allies. You can initiate a Tag Team Roll one additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 Hope to do so."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Call of the Brave",
     "specialization": [
       {
         "name": "Rise to the Challenge",
         "text": "You are vigilant in the face of mounting danger. While you have 2 or fewer Hit Points unmarked, you can roll a **d20** as your Hope Die."
       }
-    ]
+    ],
+    "specialization_heading": "SPECIALIZATION FEATURE"
   },
   {
     "description": "Play the Call of the Slayer if you want to strike down adversaries with immense force.",
@@ -609,19 +688,22 @@
         "text": "You gain a pool of dice called Slayer Dice. On a roll with Hope, you can place a **d6** on this card instead of gaining a Hope, adding the die to the pool. You can store a number of Slayer Dice equal to your Proficiency. When you make an attack roll or damage roll, you can spend any number of these Slayer Dice, rolling them and adding their result to the roll. At the end of each session, clear any unspent Slayer Dice on this card and gain a Hope per die cleared."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURE",
     "mastery": [
       {
         "name": "Martial Preparation",
         "text": "You're an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation downtime move. To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a **d6** Slayer Die. A PC with a Slayer Die can spend it to roll the die and add the result to an attack or damage roll of their choice."
       }
     ],
+    "mastery_heading": "MASTERY FEATURE",
     "name": "Call of the Slayer",
     "specialization": [
       {
         "name": "Weapon Specialist",
         "text": "You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can **spend a Hope** to add one of the damage dice from your secondary weapon to the damage roll. Additionally, once per long rest when you roll your Slayer Dice, reroll any 1s."
       }
-    ]
+    ],
+    "specialization_heading": "SPECIALIZATION FEATURE"
   },
   {
     "description": "Play the Hedge if you want to use your craft to empower yourself and your party.",
@@ -635,12 +717,14 @@
         "text": "Once per rest, you can imbue a small item with your protective essence. **Spend any number of Hope** to place an equal number of tokens on this card. When the person holding the talisman takes damage, spend a token to reduce the number of Hit Points they mark by one. Clear all tokens from this card when you take a rest."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Circle of Power",
         "text": "Once per rest, mark a circle on the ground outlining a Very Close area around you, and place a number of tokens equal to your Spellcast trait on this card. While within this circle, you and your allies gain a +2 bonus to damage thresholds, attack rolls, and Evasion. Remove a token each time you or an ally within the circle makes an action roll or evades an attack. This spell lasts until the last token is removed or you exit the circle."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Hedge",
     "specialization": [
       {
@@ -652,6 +736,8 @@
         "text": "You have advantage on attacks against _Hexed_ creatures."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Knowledge"
   },
   {
@@ -662,12 +748,14 @@
         "text": "Make a **Spellcast Roll (13)** to _Glamour_ yourself in a bewitching facade. While _Glamoured_, you have advantage on rolls that leverage your illusory appearance. Additionally, adversaries within Close range must mark a Stress to attack you.\n\nUnless you **mark a Stress** to maintain your _Glamour_, it drops when you mark a Hit Point or deal damage."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Lunar Phases",
         "text": "At the beginning of each session, roll a **d6** and place it on this card. You gain the matching effect until the end of session.\n\n| Roll | Phase  | Effect                                   |\n|------|--------|------------------------------------------|\n| 1    | New    | **Spend a Hope** to negate Minor damage. |\n| 2-3  | Waxing | +2 to damage rolls                       |\n| 4    | Full   | +3 to damage thresholds                  |\n| 5-6  | Waning | +1 to Evasion                            |\n\nOnce per rest, you can **spend a Hope** to increase the value of this die by one. If you increase the value of a 6, it becomes a 1."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "Moon",
     "specialization": [
       {
@@ -679,6 +767,8 @@
         "text": "When a _Hexed_ creature within Very Far range fails an attack, they must mark a Stress."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Instinct"
   },
   {
@@ -693,6 +783,7 @@
         "text": "When you Utilize an Experience, you can **mark a Stress** instead of spending a Hope. If you do, double your Experience modifier for that roll."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Brilliant",
@@ -703,6 +794,7 @@
         "text": "When you use an Experience, roll a **d6.** On a result of 5 or higher, you can use it without spending Hope."
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "School of Knowledge",
     "specialization": [
       {
@@ -714,6 +806,8 @@
         "text": "Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Knowledge"
   },
   {
@@ -728,6 +822,7 @@
         "text": "When you succeed with Fear on an attack roll, you deal an extra **1d10** magic damage."
       }
     ],
+    "foundation_heading": "FOUNDATION FEATURES",
     "mastery": [
       {
         "name": "Thrive in Chaos",
@@ -738,6 +833,7 @@
         "text": "The extra magic damage from your \"Face Your Fear\" feature increases to **3d10.**"
       }
     ],
+    "mastery_heading": "MASTERY FEATURES",
     "name": "School of War",
     "specialization": [
       {
@@ -749,6 +845,8 @@
         "text": "The extra magic damage from your \"Face Your Fear\" feature increases to **2d10**."
       }
     ],
+    "specialization_heading": "SPECIALIZATION FEATURES",
+    "spellcast_heading": "SPELLCAST TRAIT",
     "spellcast_trait": "Knowledge"
   }
 ]

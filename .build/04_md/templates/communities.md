@@ -4,7 +4,7 @@
 
 _{{ .note }}_
 
-### COMMUNITY FEATURE
+### {{ literalHeading .features_heading "COMMUNITY FEATURE" (len .feature) }}
 
 {{- range .feature }}
 

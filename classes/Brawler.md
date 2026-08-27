@@ -11,7 +11,7 @@ Experts in unarmed combat, brawlers hone their bodies into lethal weapons. Wheth
 
 ---
 
-### HOPE FEATURE
+### BRAWLER'S HOPE FEATURE
 
 **_Square Up:_** **Spend 3 Hope** to intimidate a target within Close range, making them temporarily _Vulnerable_.
 
@@ -71,7 +71,7 @@ If you are already in a stance when you shift into a different stance, you autom
 
 The following section lists all martial stances by tier.
 
-**TIER 1**
+##### TIER 1
 
 _Favored:_ Gain a bonus to damage rolls equal to a trait of your choice.
 
@@ -81,7 +81,7 @@ _Quick:_ When you make an attack, you can **spend a Focus** or **mark a Stress**
 
 _Reliable:_ Gain a +1 bonus to your attack rolls.
 
-**TIER 2**
+##### TIER 2
 
 _Aggressive:_ Gain a -1 penalty to your Evasion. On a successful attack, roll an additional damage die and discard the lowest result.
 
@@ -91,7 +91,7 @@ _Defensive:_ Attack rolls targeting you from within Melee range have disadvantag
 
 _Otherworldly:_ On a successful attack, you can deal physical or magic damage.
 
-**TIER 3**
+##### TIER 3
 
 _Grappling:_ On a successful attack within Melee range, you can **spend a Focus** or **mark a Stress** to temporarily _Restrain_ the target or throw the target up to Close range.
 
@@ -101,7 +101,7 @@ _Stable:_ You can **spend a Focus** instead of an Armor Slot to reduce damage.
 
 _Vigilant:_ When you are targeted by an attack, you can **mark a Stress** to gain a **d6** bonus to your Evasion against the attack.
 
-**TIER 4**
+##### TIER 4
 
 _Crushing:_ When you deal Severe damage, you can **spend a Hope** to force the target to mark an additional Hit Point.
 

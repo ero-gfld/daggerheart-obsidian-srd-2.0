@@ -13,7 +13,7 @@
 
 **_Mount - Passive:_** While the Harbinger is on their mount, they gain a +2 bonus to their Difficulty. When the Harbinger takes Severe damage, they're knocked from their mount. If the Harbinger is unhorsed, their mount disappears until you **mark a Stress** to summon it again.
 
-**_Hunger Pangs - Passive: Countdown (Decreasing 6):_** When the Harbinger appears, activate the countdown. It ticks down when the Harbinger is spotlighted. When it triggers, all PCs within Far range mark a Stress and become _Ravenous_. While _Ravenous_, a PC can't spend Hope until they clear the condition with a successful Instinct Roll.
+**_Hunger Pangs - Passive:_** _Countdown (Decreasing 6)._ When the Harbinger appears, activate the countdown. It ticks down when the Harbinger is spotlighted. When it triggers, all PCs within Far range mark a Stress and become _Ravenous_. While _Ravenous_, a PC can't spend Hope until they clear the condition with a successful Instinct Roll.
 
 **_Drain Essence - Action:_** **Spend a Fear** to choose up to three PCs. Each target takes **4d6** magic damage.
 

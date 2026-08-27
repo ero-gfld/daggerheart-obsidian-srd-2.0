@@ -18,6 +18,6 @@ Knowledge
 
 **_Vexing Malison:_** You have advantage on attacks against _Hexed_ creatures.
 
-### MASTERY FEATURE
+### MASTERY FEATURES
 
 **_Circle of Power:_** Once per rest, mark a circle on the ground outlining a Very Close area around you, and place a number of tokens equal to your Spellcast trait on this card. While within this circle, you and your allies gain a +2 bonus to damage thresholds, attack rolls, and Evasion. Remove a token each time you or an ally within the circle makes an action roll or evades an attack. This spell lasts until the last token is removed or you exit the circle.

@@ -11,6 +11,7 @@
         "text": "You have wings that allow you to fly. Once per scene while flying, you can **spend a Hope** instead of marking an Armor Slot."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Aetheris"
   },
   {
@@ -25,6 +26,7 @@
         "text": "When you take a short rest, you can choose a long rest move instead of a short rest move."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Clank"
   },
   {
@@ -39,6 +41,7 @@
         "text": "Choose an element for your breath (such as electricity, fire, or ice). You can use this breath against a target or group of targets within Very Close range, treating it as an Instinct weapon that deals **d8** magic damage using your Proficiency."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Drakona"
   },
   {
@@ -53,6 +56,7 @@
         "text": "**Spend 3 Hope** to halve incoming physical damage."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Dwarf"
   },
   {
@@ -67,6 +71,7 @@
         "text": "While you're touching the ground, you can't be lifted or moved against your will."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Earthkin"
   },
   {
@@ -81,6 +86,7 @@
         "text": "**Mark a Stress** to wreathe your primary weapon in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to damage rolls with that weapon."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Emberkin"
   },
   {
@@ -95,6 +101,7 @@
         "text": "**Spend 2 Hope** to grant you or an ally within Melee range a +1 bonus to Evasion until you take Severe damage or you use this feature again."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Skykin"
   },
   {
@@ -109,6 +116,7 @@
         "text": "Once per rest when you have access to a small amount of water, you can **mark a Stress** to clear a Hit Point on yourself or an ally within Very Close range."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Tidekin"
   },
   {
@@ -123,6 +131,7 @@
         "text": "During a rest, you can drop into a trance to choose an additional downtime move."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Elf"
   },
   {
@@ -137,6 +146,7 @@
         "text": "You can fly. While flying, you can **mark a Stress** after an adversary makes an attack against you to gain a +2 bonus to your Evasion against that attack."
       }
     ],
+    "features_heading": "ANCESTRY FEATURE",
     "name": "Faerie"
   },
   {
@@ -151,6 +161,7 @@
         "text": "When you succeed on an attack against a target within Melee range, you can **mark a Stress** to kick yourself off them, dealing an extra **2d6** damage and knocking back either yourself or the target to Very Close range."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Faun"
   },
   {
@@ -165,6 +176,7 @@
         "text": "When you would mark a Stress, roll a **d6.** On a result of 6, don't mark it."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Firbolg"
   },
   {
@@ -179,6 +191,7 @@
         "text": "While touching a corpse that died recently, you can **mark a Stress** to extract one memory from the corpse related to a specific emotion or sensation of your choice."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Fungril"
   },
   {
@@ -193,6 +206,7 @@
         "text": "**Mark a Stress** to retract into your shell. While in your shell, you have resistance to physical damage, you have disadvantage on action rolls, and you can't move."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Galapa"
   },
   {
@@ -207,6 +221,7 @@
         "text": "Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Giant"
   },
   {
@@ -221,6 +236,7 @@
         "text": "Once per scene, you can teleport to another point you can see within Far range."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Gnome"
   },
   {
@@ -235,6 +251,7 @@
         "text": "Once per rest, **mark a Stress** to force an adversary to reroll an attack against you or an ally within Very Close range."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Goblin"
   },
   {
@@ -249,6 +266,7 @@
         "text": "When you roll a 1 on your Hope Die, you can reroll it."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Halfling"
   },
   {
@@ -263,6 +281,7 @@
         "text": "When you fail a roll that utilized one of your Experiences, you can **mark a Stress** to reroll."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Human"
   },
   {
@@ -277,6 +296,7 @@
         "text": "You have advantage on rolls to intimidate hostile creatures."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Infernis"
   },
   {
@@ -291,6 +311,7 @@
         "text": "Make an **Agility Roll** to scratch a target within Melee range. On a success, they become temporarily _Vulnerable._"
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Katari"
   },
   {
@@ -305,6 +326,7 @@
         "text": "When you succeed on an attack against a target within Melee range, you can **spend a Hope** to gore the target with your tusks, dealing an extra **1d6** damage."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Orc"
   },
   {
@@ -319,6 +341,7 @@
         "text": "You can use your long tongue to grab onto things within Close range. **Mark a Stress** to use your tongue as a Finesse Close weapon that deals **d12** physical damage using your Proficiency."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Ribbet"
   },
   {
@@ -333,6 +356,7 @@
         "text": "Gain a permanent +1 bonus to your Evasion at character creation."
       }
     ],
+    "features_heading": "ANCESTRY FEATURES",
     "name": "Simiah"
   }
 ]

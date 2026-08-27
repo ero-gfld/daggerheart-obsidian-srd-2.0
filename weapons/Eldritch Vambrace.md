@@ -1,6 +1,6 @@
 # Eldritch Vambrace
 
-**_Tier 2_** _Secondary_ _Physical_ _Weapon_
+**_Tier 2_** _Secondary_ _Magical_ _Weapon_
 
 - **Trait:** Instinct
 - **Range:** Melee

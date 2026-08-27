@@ -11,7 +11,7 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 
 ---
 
-### HOPE FEATURE
+### SORCERER'S HOPE FEATURE
 
 **_Volatile Magic:_** **Spend 3 Hope** to reroll any number of your damage dice on an attack that deals magic damage.
 

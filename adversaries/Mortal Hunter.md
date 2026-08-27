@@ -15,4 +15,4 @@
 
 **_Inevitable Death - Action:_** **Mark a Stress** to spotlight **1d4** allies. Attacks they make while spotlighted in this way deal half damage.
 
-**_Rampage - Reaction: Countdown (Loop 1d6)._** When the Hunter is in the spotlight for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within Far range and make an attack against all targets in their path. Targets the Hunter succeeds against take **2d8+2** physical damage.
+**_Rampage - Reaction:_** _Countdown (Loop 1d6)._ When the Hunter is in the spotlight for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within Far range and make an attack against all targets in their path. Targets the Hunter succeeds against take **2d8+2** physical damage.

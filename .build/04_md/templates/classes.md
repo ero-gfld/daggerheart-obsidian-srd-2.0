@@ -22,11 +22,11 @@
 ---
 {{- end }}
 
-### HOPE FEATURE
+### {{ headingOr .hope_feature_heading "HOPE FEATURE" }}
 
 **_{{ .hope_feature_name }}:_** {{ .hope_feature_text }}
 
-### CLASS FEATURE{{ if gt (len .feature) 1 }}S{{ end }}
+### {{ literalHeading .class_features_heading "CLASS FEATURE" (len .feature) }}
 
 {{ range .feature }}
 

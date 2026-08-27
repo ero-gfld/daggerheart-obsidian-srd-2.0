@@ -7,6 +7,7 @@
         "text": "During a short rest, you or an ally can reroll a die used for a downtime move and take the higher result."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Duneborne",
     "note": "Duneborne are often adaptable, centered, collaborative, devoted, cheerful, and observant."
   },
@@ -18,6 +19,7 @@
         "text": "Once per session when you roll with Fear, you can change it into a roll with Hope instead."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Freeborne",
     "note": "Freeborne are often optimistic, guarded, courageous, joyful, subversive, and traumatized."
   },
@@ -29,6 +31,7 @@
         "text": "When you take a rest, you clear a Hit Point."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Frostborne",
     "note": "Frostborne are often cunning, gregarious, intrepid, purposeful, quiet, and warm."
   },
@@ -40,6 +43,7 @@
         "text": "Once per long rest, you can **spend any number of Hope** to grant an ally within Far range an equal number of Hope."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Hearthborne",
     "note": "Hearthborne are often careful, generous, insular, loquacious, smiley, and traditional."
   },
@@ -51,6 +55,7 @@
         "text": "You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Highborne",
     "note": "Highborne are often amiable, candid, conniving, enterprising, ostentatious, and unflappable."
   },
@@ -62,6 +67,7 @@
         "text": "You have advantage on rolls that involve the history, culture, or politics of a prominent person or place."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Loreborne",
     "note": "Loreborne are often direct, eloquent, inquisitive, patient, rhapsodic, and witty."
   },
@@ -73,6 +79,7 @@
         "text": "Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you're embodying one of these principles through your current action, you can roll a **d20** as your Hope Die."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Orderborne",
     "note": "Orderborne are often ambitious, benevolent, pensive, prudent, sardonic, and stoic."
   },
@@ -81,9 +88,10 @@
     "feature": [
       {
         "name": "Found Family",
-        "text": "Once per rest, you can **spend a Hope** to use an ally's Experience as if it were your own. When you do so, describe how your time with that ally prepared you for this moment."
+        "text": "Once per rest, you can **spend a Hope** to use an ally's Experience as if it were your own. When you do so, describe how your time with that ally prepared you for this moment.\n\nWhen you join a new community or rediscover your old one, you can permanently trade this card for that one instead."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Reborne",
     "note": "Reborne are often curious, hopeful, innocent, isolated, mournful, and uncanny."
   },
@@ -95,6 +103,7 @@
         "text": "You have advantage on rolls to traverse dangerous cliffs and ledges, navigate harsh environments, and use your survival knowledge."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Ridgeborne",
     "note": "Ridgeborne are often bold, hardy, indomitable, loyal, reserved, and stubborn."
   },
@@ -106,6 +115,7 @@
         "text": "You can sense the ebb and flow of life. When you roll with Fear, place a token on your community card. You can hold a number of tokens equal to your level. Before you make an action roll, you can spend any number of these tokens to gain a +1 bonus to the roll for each token spent. At the end of each session, clear all unspent tokens."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Seaborne",
     "note": "Seaborne are often candid, cooperative, exuberant, fierce, resolute, and weathered."
   },
@@ -117,6 +127,7 @@
         "text": "You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Slyborne",
     "note": "Slyborne are often calculating, clever, formidable, perceptive, shrewd, and tenacious."
   },
@@ -128,6 +139,7 @@
         "text": "When you're in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Underborne",
     "note": "Underborne are often composed, elusive, indomitable, innovative, resourceful, and unpretentious."
   },
@@ -139,6 +151,7 @@
         "text": "Add a Nomadic Pack to your inventory. Once per session, you can **spend a Hope** to reach into this pack and pull out a mundane item that's useful to your situation. Work with the GM to figure out what item you take out."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Wanderborne",
     "note": "Wanderborne are often inscrutable, magnanimous, mirthful, reliable, savvy, and unorthodox."
   },
@@ -150,6 +163,7 @@
         "text": "Once per session when you would be forced to mark a Stress, you can **spend a Hope** instead.."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Warborne",
     "note": "Warborne are often strategic, devastated, determined, calculating, unwavering, and devoted."
   },
@@ -161,6 +175,7 @@
         "text": "Your movement is naturally silent. You have advantage on rolls to move without being heard."
       }
     ],
+    "features_heading": "COMMUNITY FEATURE",
     "name": "Wildborne",
     "note": "Wildborne are often hardy, loyal, nurturing, reclusive, sagacious, and vibrant."
   }

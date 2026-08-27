@@ -11,7 +11,7 @@ The title of guardian represents an array of martial professions, speaking more 
 
 ---
 
-### HOPE FEATURE
+### GUARDIAN'S HOPE FEATURE
 
 **_Frontline Tank:_** **Spend 3 Hope** to clear 2 Armor Slots.
 

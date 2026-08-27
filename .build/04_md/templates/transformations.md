@@ -2,14 +2,14 @@
 
 {{ .description }}
 
-### TRANSFORMATION FEATURES
+### {{ literalHeading .features_heading "TRANSFORMATION FEATURE" (len .feature) }}
 
 {{- range .feature }}
 
 **_{{ .name }}:_** {{ .text }}
 {{- end }}
 
-### TRANSFORMATION QUESTIONS
+### {{ literalHeading .questions_heading "TRANSFORMATION QUESTION" (len .question) }}
 
 {{- range .question }}
 

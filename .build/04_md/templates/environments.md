@@ -6,7 +6,7 @@
 - **Difficulty:** {{ .difficulty }}
 - **Potential Adversaries:** {{ .potential_adversaries }}
 
-### FEATURES
+### {{ headingOr .features_heading "FEATURES" }}
 
 {{- range .feature }}
 

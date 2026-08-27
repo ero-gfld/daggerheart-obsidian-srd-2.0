@@ -14,3 +14,4 @@ extra_css:
 markdown_extensions:
   - toc:
       toc_depth: 3
+      slugify: !!python/name:pymdownx.slugs.gfm

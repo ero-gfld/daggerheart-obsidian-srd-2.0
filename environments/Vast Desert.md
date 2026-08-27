@@ -8,7 +8,7 @@
 
 ### FEATURES
 
-**_Endless Sands - Passive: Countdown (8)._** To cross the desert, the party must complete the countdown. It ticks down whenever a PC succeeds on an action roll to navigate the seemingly endless expanse. _How do the PCs travel through the desert? What beyond the extreme distance and lack of water makes this area difficult to cross?_
+**_Endless Sands - Passive:_** _Countdown (8)._ To cross the desert, the party must complete the countdown. It ticks down whenever a PC succeeds on an action roll to navigate the seemingly endless expanse. _How do the PCs travel through the desert? What beyond the extreme distance and lack of water makes this area difficult to cross?_
 
 **_Water Supply - Passive:_** When the party starts their journey, place a number of tokens on this stat block equal to 1 + the number of PCs in the scene. Remove a token at the end of each long rest or when a PC fails an action roll to navigate the desert. When a token would be removed but there are none left, each PC must mark a HP and a Stress. A PC can add a token to this stat block by using a downtime move and making a successful Knowledge Roll to hunt for water. _What sorts of water-preserving flora or terrain features have the PCs heard might be found in this desert? How do the PCs collect and carry the water they find?_
 

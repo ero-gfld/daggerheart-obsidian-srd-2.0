@@ -24,6 +24,7 @@
         "text": "**Spend a Fear** to summon a Minor Chaos Elemental drawn to the echoes of violence and discord. They appear within Far range of a chosen PC and immediately take the spotlight. _What color does the grass turn as the elemental appears? How does the chaos warp insects and small wildlife within the grove?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Draw in the curious, echo the past",
     "name": "Abandoned Grove",
     "potential_adversaries": "Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)",
@@ -50,11 +51,12 @@
         "text": "**Spend a Fear** to summon a Darkweave Queen inside her gossamer-strewn lair. She drops from the ceiling within Close range of a PC and immediately takes the spotlight. _How does the Darkweave Queen use her lair to her advantage? What remnants of her past meals can the party find here?_"
       },
       {
-        "name": "Impending Collapse - Reaction: Countdown (2).",
+        "name": "Impending Collapse - Reaction",
         "question": "What other signs of instability does the mine offer the party? What new dangers does the tunnel system's new configuration expose the party to?",
-        "text": "The first time the PCs roll with Fear, describe how the ground subtly vibrates as rocks shift overhead and activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, each PC must succeed on an Agility Reaction Roll or take **1d8+3** physical damage and become temporarily _Restrained_ by the rubble. _What other signs of instability does the mine offer the party? What new dangers does the tunnel system's new configuration expose the party to?_"
+        "text": "_Countdown (2)._ The first time the PCs roll with Fear, describe how the ground subtly vibrates as rocks shift overhead and activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, each PC must succeed on an Agility Reaction Roll or take **1d8+3** physical damage and become temporarily _Restrained_ by the rubble. _What other signs of instability does the mine offer the party? What new dangers does the tunnel system's new configuration expose the party to?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Poison the party with deadly gasses, rumble and collapse, split the party, turn them around",
     "name": "Abandoned Mine",
     "potential_adversaries": "Darkweave Spiders (_Darkweave Crawler, Darkweave Spinner, Darkweave Swarmlings_), Miner Ghosts (_Poltergeist, Will-o'-the-Wisps_)",
@@ -76,11 +78,12 @@
         "text": "The workshop contains numerous pieces of bizarre technology and scientific instrumentation. A PC can make a Knowledge Roll to try to figure out how it works. On a success, they can get it running. On a failure, they break something and take **1d8+4** direct magic damage as they're shocked by electricity and doused in caustic chemicals. _What do these machines do? What do these instruments measure?_"
       },
       {
-        "name": "It's Alive! - Action: Consequence Countdown (6).",
+        "name": "It's Alive! - Action",
         "question": "What was the alchemist trying to achieve with this experiment? Where did they get the materials for it?",
-        "text": "A thunderstorm gathers overhead, threatening to jolt the lightning rod assembly installed atop the workshop. Activate the countdown and narrate how the storm's power increases each time it ticks down when a PC makes an action roll. When it triggers, lightning strikes the rod assembly and overloads the workshop machinery, which explodes after resurrecting one of the alchemist's abandoned projects. Each target within Close range of the machinery must succeed on an Agility Reaction Roll or take **1d10** magic damage. Summon a Failed Experiment at a location within the workshop and gain a Fear for each PC within Very Close range of it. _What was the alchemist trying to achieve with this experiment? Where did they get the materials for it?_"
+        "text": "_Consequence Countdown (6)._ A thunderstorm gathers overhead, threatening to jolt the lightning rod assembly installed atop the workshop. Activate the countdown and narrate how the storm's power increases each time it ticks down when a PC makes an action roll. When it triggers, lightning strikes the rod assembly and overloads the workshop machinery, which explodes after resurrecting one of the alchemist's abandoned projects. Each target within Close range of the machinery must succeed on an Agility Reaction Roll or take **1d10** magic damage. Summon a Failed Experiment at a location within the workshop and gain a Fear for each PC within Very Close range of it. _What was the alchemist trying to achieve with this experiment? Where did they get the materials for it?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Break down the barrier between life and death, draw down lightning from the heavens, overclock the machinery",
     "name": "Alchemist's Abandoned Workshop",
     "potential_adversaries": "Lab Leftovers (Construct, Minor Fire Elemental, Patchwork Zombie Hulk, Swarm of Rats)",
@@ -102,6 +105,7 @@
         "text": "The ambushers reveal themselves to the party, you gain 2 Fear, and the spotlight immediately shifts to one of the ambushing adversaries. _What do the ambushers want from the party? How do their tactics in the ambush reflect that?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Overwhelm, scatter, surround",
     "name": "Ambushed",
     "potential_adversaries": "Any",
@@ -123,6 +127,7 @@
         "text": "When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage. _What are the adversaries in the middle of doing when the ambush starts? How does this impact their approach to the fight?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Escape, group up, protect the most vulnerable",
     "name": "Ambushers",
     "potential_adversaries": "Any",
@@ -154,6 +159,7 @@
         "text": "When one of the PCs splits from the group, the crowds shift and cut them off from the party. _Where does the crowd's movement carry them? How do they feel about being alone but surrounded?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Buy low, and sell high, tempt and tantalize with wares from near and far",
     "name": "Bustling Marketplace",
     "potential_adversaries": "Guards (Bladed Guard, Head Guard), Masked Thief, Merchant",
@@ -180,6 +186,7 @@
         "text": "**Spend a Fear** to have a PC's handhold fail, plummeting them toward the ground. If they aren't saved on the next action, they hit the ground and tick up the countdown by 2. The PC takes **1d12** physical damage if the countdown is between 8 and 12, **2d12** between 4 and 7, and **3d12** at 3 or lower. _How can you tell many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Cast the unready down to a rocky doom, draw people in with promise of what lies at the top",
     "name": "Cliffside Ascent",
     "potential_adversaries": "Construct, Deeproot Defender, Giant Scorpion, Glass Snake",
@@ -211,6 +218,7 @@
         "text": "At the start of a rest, you can **spend a Fear** to have floating orbs enthrall the weary and lure a PC deeper into the swamp. A different PC can use a downtime move to make an action roll to search for them. On a success, both PCs return to camp and can choose downtime moves as normal. On a failure—or if no one searches for them—the lost PC returns hours later, covered in mud and worse, and can't choose downtime moves until their next rest. _What does the lost PC see in the lights that draws them into the darkness? What other glimpses of surprising beauty do the PCs encounter here?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Corrupt, emphasize putrescence, reveal the twisted and unnatural, sicken",
     "name": "Corrupted Swamp",
     "potential_adversaries": "Any Undead (Skeleton, Zombie, Spectral Guardian), Giant Rat, Green Ooze, Tangle Bramble",
@@ -247,6 +255,7 @@
         "text": "When an adversary would mark their last HP, roll a **d6**. On a result of 5 or 6, the adversary doesn't mark it. _Who commanded this land to reject death? How do the dead come back different here?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Bury them six feet deep, choke with fog, lure with promises of entombed treasure, unleash the restless dead",
     "name": "Cursed Graveyard",
     "potential_adversaries": "Corrupted Spirits (Deeproot Defender, _Phantom_), Living Dead (Skeleton Warrior, Zombie Pack, Patchwork Zombie Hulk)",
@@ -278,6 +287,7 @@
         "text": "After a long night, the partygoers start filtering out. When the feast concludes, all PCs who participated in the festivities clear all Stress and gain a Hope. Additionally, each _Honored Guest_ clears all HP and gains an additional Hope, then clears the condition. Each PC who overindulged must succeed on a Strength Reaction Roll or become _Hungover_ until their next rest. While _Hungover_, a PC gains a -1 penalty to action rolls. _What crazy stories do the PCs share with one another as they leave the party? Who do the PCs see unexpectedly canoodling afterward?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Bring everyone together, celebrate a momentous occasion, encourage revelrous abandon",
     "name": "Grand Feast",
     "potential_adversaries": "Apprentice Assassin, Guard, Merchant, Petty Noble, Sellsword, Spy",
@@ -309,6 +319,7 @@
         "text": "When there are no adversaries in the scene, summon a wave of adversaries at Far range from the Charge. Each wave comprises two Tier 1 Minions for each PC in the scene. _Where do these adversaries come from? Who leads them from the shadows?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Crash waves of enemies upon the party's shores, never let them breathe, target their charge",
     "name": "Hold the Line",
     "potential_adversaries": "Guards, Jagged Knives, Pirates, Skeletons, Zombies",
@@ -340,6 +351,7 @@
         "text": "The festival culminates in the arrival of a figure from local folklore who performs special duties for the local community, such as giving treats to children, heckling the gentry, or blessing next year's crops. If the PCs show this figure the proper deference and respect, they gain an appropriate blessing, such as a cryptic prophecy or a magical trinket, and gain **1d4** Hope to distribute among the party. If they insult the figure, they take **1d6+2** magic damage as the figure curses them, and you gain a Fear. _Is this a singular entity or a mantle passed from person to person? What distinctive form do they possess? What is the source of their power to grant boons and banes?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Express local culture and history, forge new relationships, reinforce community",
     "name": "Local Festival",
     "potential_adversaries": "Festival Security (Bladed Guard, Head Guard), Local Luminaries (Commoner, Merchant, Petty Noble), Sundry Ne'er-Do-Wells (Jagged Knife Bandit, Lackey)",
@@ -376,6 +388,7 @@
         "text": "**Spend a Fear** to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take **1d6+2** physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons. _Who started the fight? What will it take to stop it?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Provide opportunities for adventurers, nurture community",
     "name": "Local Tavern",
     "potential_adversaries": "Guards (Bladed Guard, Head Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Merchant",
@@ -412,6 +425,7 @@
         "text": "At night, or when the party is alone in a back alley, you can **spend a Fear** to introduce a group of thieves who try to rob them. The thieves appear at Close range of a chosen PC and include a Jagged Knife Kneebreaker, as many Lackeys as there are PCs, and a Lieutenant. For a larger party, add a Hexer or Sniper. _What details show the party that these people are desperate former adventurers?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Drive the desperate to certain doom, profit off of ragged hope",
     "name": "Outpost Town",
     "potential_adversaries": "Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant",
@@ -438,6 +452,7 @@
         "text": "**Spend a Fear** to summon a Glass Snake within Close range of a chosen PC. The Snake appears in or near the river and immediately takes the spotlight to use their \"Spinning Serpent\" action. _What treasures does the beast have in their burrow? What travelers have already fallen victim to this predator?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Bar crossing, carry away the unready, divide the land",
     "name": "Raging River",
     "potential_adversaries": "Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)",
@@ -449,9 +464,9 @@
     "difficulty": "11",
     "feature": [
       {
-        "name": "Rally the Locals - Passive: Progress Countdown (5).",
+        "name": "Rally the Locals - Passive",
         "question": "How do the pirates threaten or endanger the town besides attacking its inhabitants? What defenses can the PCs take advantage of?",
-        "text": "When the pirates first appear, activate the countdown. It ticks down when a PC succeeds on an action roll to stem the chaos and destruction of the pirate raid. When it triggers, the locals become inspired by the party's actions and join the fight against the pirates. Each PC gains a **d6** Morale Die, which they can spend to add to an action, reaction, or damage roll. _How do the pirates threaten or endanger the town besides attacking its inhabitants? What defenses can the PCs take advantage of?_"
+        "text": "_Progress Countdown (5)._ When the pirates first appear, activate the countdown. It ticks down when a PC succeeds on an action roll to stem the chaos and destruction of the pirate raid. When it triggers, the locals become inspired by the party's actions and join the fight against the pirates. Each PC gains a **d6** Morale Die, which they can spend to add to an action, reaction, or damage roll. _How do the pirates threaten or endanger the town besides attacking its inhabitants? What defenses can the PCs take advantage of?_"
       },
       {
         "name": "Parley - Passive",
@@ -469,6 +484,7 @@
         "text": "When a number of pirates equal to the number of PCs in the scene are defeated, roll a **d6**. On a result of 5 or 6, the pirates change tactics, capturing locals and retreating to the ship so they can ransom the captives later. Activate a Consequence Countdown (4). It ticks down when a PC makes an action roll. When it triggers, the pirates sail away with their victims. _Who do the pirates deem the best captives, and why? What do they want in exchange for the captives' return?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Light it on fire, overwhelm with speed and numbers, take everything that isn't nailed down",
     "name": "Raiding Party",
     "potential_adversaries": "Ship's Crew (Pirate Captain, Pirate Raiders, Pirate Tough)",
@@ -500,6 +516,7 @@
         "text": "When the party prepares for their first day at the beach, have each player describe how their PC changes their attire to be more appropriate for the environment. The GM gives the PC with the freshest look a **d6** Fresh Die that can be spent to add to any action or reaction roll. _What's the fashion in this area? Where do the PCs source their new beach-themed articles and accessories?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Conjure images of sand and surf, give them a breather, prepare them for the conflict ahead",
     "name": "Beach Day",
     "potential_adversaries": "None",
@@ -521,9 +538,9 @@
         "text": "A portion of the ritual's power is diverted into a cult member to fight off interlopers. Choose one adversary to become _Imbued_ with terrible magic until the scene ends or they're defeated. An _Imbued_ adversary immediately takes the spotlight and gains one of the following benefits, or all three if you **spend a Fear**:\n\n- They gain advantage on all attacks.\n- They deal an extra **1d10** damage on a successful attack.\n- They gain the following feature: _Relentless (2) - Passive:_ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _How does the enemy change in appearance? What fears do their blows bring to the surface?_"
       },
       {
-        "name": "The Summoning - Reaction: Countdown (6).",
+        "name": "The Summoning - Reaction",
         "question": "What will the cult do with this leashed demon if they succeed? What will they try to summon next?",
-        "text": "When the PCs enter the scene or the cult begins the ritual to summon a demon, activate the countdown. Designate one adversary to lead the ritual. The countdown ticks down when a PC rolls with Fear. When it triggers, summon a Minor Demon within Very Close range of the ritual's leader. If the leader is defeated, the countdown ends with no effect as the ritual fails. _What will the cult do with this leashed demon if they succeed? What will they try to summon next?_"
+        "text": "_Countdown (6)._ When the PCs enter the scene or the cult begins the ritual to summon a demon, activate the countdown. Designate one adversary to lead the ritual. The countdown ticks down when a PC rolls with Fear. When it triggers, summon a Minor Demon within Very Close range of the ritual's leader. If the leader is defeated, the countdown ends with no effect as the ritual fails. _What will the cult do with this leashed demon if they succeed? What will they try to summon next?_"
       },
       {
         "name": "Complete the Ritual - Reaction",
@@ -531,6 +548,7 @@
         "text": "If the ritual's leader is targeted by an attack or spell, an ally within Very Close range of them can **mark a Stress** to be targeted by that attack or spell instead. _What does it feel like to see such devotion turned to the pursuit of fear and domination?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Profane the land, unite the Mortal Realm with the Circles Below",
     "name": "Cult Ritual",
     "potential_adversaries": "Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)",
@@ -542,9 +560,9 @@
     "difficulty": "14",
     "feature": [
       {
-        "name": "Twists and Turns - Passive: Countdown (6).",
+        "name": "Twists and Turns - Passive",
         "question": "What reward lies at the heart of the maze? Who built this labyrinth to protect it?",
-        "text": "When the party enters the dungeon, activate the countdown. It ticks down when a PC succeeds on an action roll to navigate the passages. When it triggers, the PCs reach the deepest, darkest, best-defended part of the dungeon. _What reward lies at the heart of the maze? Who built this labyrinth to protect it?_"
+        "text": "_Countdown (6)._ When the party enters the dungeon, activate the countdown. It ticks down when a PC succeeds on an action roll to navigate the passages. When it triggers, the PCs reach the deepest, darkest, best-defended part of the dungeon. _What reward lies at the heart of the maze? Who built this labyrinth to protect it?_"
       },
       {
         "name": "Deep Pockets - Passive",
@@ -562,6 +580,7 @@
         "text": "When a PC fails an action roll to navigate the dungeon, activate a trap or hazard such as a spike pit, gauntlet of swinging blades, or locked room slowly filling with water. The party must succeed on a group action roll to deactivate, disarm, or escape it. On a failure, each PC involved in the group action roll takes **2d6+3** physical or magic damage (GM's choice). _What kinds of traps and hazards fill this dungeon? What does their construction tell you about whoever designed them? Have any of them been triggered prior to the party's arrival?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Devour the party's resources, spring the trap, tempt them with treasure, throw monsters at them, turn them around",
     "name": "Deadly Dungeon",
     "potential_adversaries": "Dungeon Denizens (_Gobstalker_, Green Ooze, _Ravenous Mockery_, _Rust Eater_), Rival Adventurers (Giant Brawler, Masked Thief, War Wizard)",
@@ -593,6 +612,7 @@
         "text": "**Spend a Fear** to have the challenging adversary or one of their allies cheat. A PC can notice their underhanded action with a successful Instinct Reaction Roll and respond in kind. _What's off-limits in this conflict? How does the adversary's ally bend the rules without breaking them, or break the rules without getting caught? How can the PCs rebalance the scales?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Focus on one PC, goad them into overcommitting, inflict an embarrassing defeat, sideline the rest of the party",
     "name": "Duel",
     "potential_adversaries": "Any",
@@ -624,6 +644,7 @@
         "text": "When the PCs have trespassed, blasphemed, or offended the clergy, you can **spend a Fear** to summon a High Seraph and **1d4** Bladed Guards within Close range of the senior priest to reinforce their will. _What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful",
     "name": "Hallowed Temple",
     "potential_adversaries": "Guards (Archer Guard, Bladed Guard, Head Guard)",
@@ -655,6 +676,7 @@
         "text": "**Spend a Fear** to manifest the echo of a past disaster that ravaged the city. Activate a Progress Countdown (5) as the disaster replays around the PCs. To complete the countdown and escape the catastrophe, the PCs must overcome threats such as rampaging fires, stampeding civilians, collapsing buildings, or crumbling streets, while recalling history and finding clues to escape the inevitable. _Is this the disaster that led the city to be abandoned? What is known about this disaster, and how could that help the PCs escape?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Misdirect and disorient, replay apocalypses both public and personal",
     "name": "Haunted City",
     "potential_adversaries": "Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), ghostly versions of other adversaries (see \"Ghostly Form\")",
@@ -691,6 +713,7 @@
         "text": "When the Consequence Countdown triggers, the party is discovered and the location enters _High Alert_. Summon a number of Tier 2 adversaries equal to the number of PCs in the scene and immediately spotlight one. While this environment is on _High Alert_, all adversaries gain a +1 bonus to their Difficulty. _What makes these adversaries uniquely suited to guard this location? What do they know about this place that gives them an edge?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Make the party prepare, split them up, throw up obstacles, trap them inside, use up their resources",
     "name": "Heist",
     "potential_adversaries": "Head Guard, Minotaur Wrecker, Secret-Keeper, Spectral Guardian",
@@ -722,6 +745,7 @@
         "text": "**Spend a Fear** to have an operative try to steal something valuable or assassinate someone important. A PC can make an Instinct Roll to try to notice them before they achieve their objective. On a success, the PC gains the opportunity to intervene. On a failure with Fear, the PC is erroneously implicated in the crime. _Who does the operative work for? Why did they send them to the masquerade?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Dance the night away, eat and be merry, make secret deals, trade valuable information",
     "name": "Masquerade Ball",
     "potential_adversaries": "Operatives (Masked Thief, Master Assassin, Spy), Revelers (Courtesan, Merchant Baron, Royal Advisor)",
@@ -748,11 +772,12 @@
         "text": "When the PCs enter the raptors' hunting grounds, two Giant Eagles appear at Very Far range of a chosen PC, identifying the PCs as likely prey. _How long has it been since the eagles last found prey? Do they have eggs in their nest, or unfledged young?_"
       },
       {
-        "name": "Icy Winds - Reaction: Countdown (Loop 4).",
+        "name": "Icy Winds - Reaction",
         "question": "What parts of the PC's bodies go numb first? How do they try to keep warm as they press forward?",
-        "text": "When the PCs enter the mountain pass, activate the countdown. When it triggers, all characters traveling through the pass must succeed on a Strength Reaction Roll or mark a Stress. A PC wearing clothes appropriate for extreme cold gains advantage on these rolls. _What parts of the PC's bodies go numb first? How do they try to keep warm as they press forward?_"
+        "text": "_Countdown (Loop 4)._ When the PCs enter the mountain pass, activate the countdown. When it triggers, all characters traveling through the pass must succeed on a Strength Reaction Roll or mark a Stress. A PC wearing clothes appropriate for extreme cold gains advantage on these rolls. _What parts of the PC's bodies go numb first? How do they try to keep warm as they press forward?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Exact a chilling toll in supplies and stamina, reveal magical tampering, slow down travel",
     "name": "Mountain Pass",
     "potential_adversaries": "Beasts (Bear, Giant Eagle, Glass Snake), Chaos Skull, Minotaur Wrecker, Mortal Hunter",
@@ -764,9 +789,9 @@
     "difficulty": "14",
     "feature": [
       {
-        "name": "Open Water - Passive: Countdown (8).",
+        "name": "Open Water - Passive",
         "question": "Where is the ship headed? What dangers along the route do the crew speak about in hushed tones?",
-        "text": "Reaching their destination requires the party to complete the Open Water Countdown. It ticks down when a PC succeeds on an action roll to aid the ship's journey. _Where is the ship headed? What dangers along the route do the crew speak about in hushed tones?_"
+        "text": "_Countdown (8)._ Reaching their destination requires the party to complete the Open Water Countdown. It ticks down when a PC succeeds on an action roll to aid the ship's journey. _Where is the ship headed? What dangers along the route do the crew speak about in hushed tones?_"
       },
       {
         "name": "Rations Run Low - Passive",
@@ -789,6 +814,7 @@
         "text": "When the Open Water Countdown ticks down to an even number, roll a **d6**. On a result of 4 or higher, summon **1d4** Deep Sea Denizens. _What attracts these creatures to the ship? Is there any way to drive them off without combat?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Reveal what lurks beneath the waves, send them in the wrong direction, sink the ship, use up their resources",
     "name": "Ocean Voyage",
     "potential_adversaries": "Deep Sea Denizens (Electric Eels, Kraken, Shark, Siren), Pirates (Pirate Captain, Pirate Raiders)",
@@ -800,9 +826,9 @@
     "difficulty": "14",
     "feature": [
       {
-        "name": "Endless Sands - Passive: Countdown (8).",
+        "name": "Endless Sands - Passive",
         "question": "How do the PCs travel through the desert? What beyond the extreme distance and lack of water makes this area difficult to cross?",
-        "text": "To cross the desert, the party must complete the countdown. It ticks down whenever a PC succeeds on an action roll to navigate the seemingly endless expanse. _How do the PCs travel through the desert? What beyond the extreme distance and lack of water makes this area difficult to cross?_"
+        "text": "_Countdown (8)._ To cross the desert, the party must complete the countdown. It ticks down whenever a PC succeeds on an action roll to navigate the seemingly endless expanse. _How do the PCs travel through the desert? What beyond the extreme distance and lack of water makes this area difficult to cross?_"
       },
       {
         "name": "Water Supply - Passive",
@@ -825,6 +851,7 @@
         "text": "**Spend a Fear** to summon a sandstorm that disorients and harries travelers. Each PC takes **2d6+3** physical damage. Until the sandstorm dissipates, a PC who makes an action roll must succeed on an Agility Reaction Roll to avoid the swirl of rocks and debris or take **2d6+3** physical damage. _What do the dwellers of this desert wear to weather the sandstorms? How are the dwelling places the party finds here designed to withstand the winds?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Dehydrate, show desolate beauty, threaten danger on the horizon",
     "name": "Vast Desert",
     "potential_adversaries": "Acid Burrower, Desert Raiders (Jagged Knife Bandits), _Landshark_, _Sandwyrm_",
@@ -841,9 +868,9 @@
         "text": "Though the hut's exterior is a rustic single-room cottage, the interior is an ever-shifting estate of haunting splendor replete with numerous bedrooms, libraries, and indoor gardens, among other mysterious installations. _Is there any pattern to the way the hut rearranges itself? What is the most surprising location the PCs could find here?_"
       },
       {
-        "name": "Creepy Doll Collection - Passive: Countdown (5).",
+        "name": "Creepy Doll Collection - Passive",
         "question": "Who were these dolls before? Is there any way to free them from their imprisonment?",
-        "text": "Throughout the hut, the PCs can see many, many porcelain or wooden dolls with strangely lifelike eyes. When the party first enters a doll's line of sight, activate the countdown. It ticks down when a PC fails a roll or rolls with Fear. When it triggers, the dolls come to life and attack. Summon a number of living dolls (Redcap Biters) equal to twice the number of PCs. _Who were these dolls before? Is there any way to free them from their imprisonment?_"
+        "text": "_Countdown (5)._ Throughout the hut, the PCs can see many, many porcelain or wooden dolls with strangely lifelike eyes. When the party first enters a doll's line of sight, activate the countdown. It ticks down when a PC fails a roll or rolls with Fear. When it triggers, the dolls come to life and attack. Summon a number of living dolls (Redcap Biters) equal to twice the number of PCs. _Who were these dolls before? Is there any way to free them from their imprisonment?_"
       },
       {
         "name": "Witches' Brew - Passive",
@@ -856,6 +883,7 @@
         "text": "Time moves differently inside the Witch's Hut. When the door to the hut is closed, roll a **d6**. On a result of 4 or higher, the hut moves to a different—often impossibly far–location that's only revealed to the PCs when they open the hut's door again. _Why does the hut move so often? Where does it wish to bring the PCs? Is there any way to aim it at a specific location?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Creep them out, delay them until the witch's return, lock them inside, move to a different location, tempt them with magical oddities",
     "name": "Witch's Hut",
     "potential_adversaries": "_Chicken-Foot Hut_, Enchanted Defenses (_Gargoyle, Ravenous Mockery, Scarecrow_), _Valdenhax_, The Witch's Victims (_Jack-o'-Lanterns, Redcap Biters_)",
@@ -882,6 +910,7 @@
         "text": "**Spend a Fear** to summon two adversaries within Close range of a PC. Each adversary can use the other's features as if they were their own. _Which creatures has the archmage chosen to combine? What do they hope to learn in doing so?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Collect magical energy, exhaust intruders, reveal the unknown, unleash bursts of magical power",
     "name": "Archmage's Tower",
     "potential_adversaries": "Alchemical Creations (_Chimera_, _Lamia_, _Manticore_), _Archmage_",
@@ -913,6 +942,7 @@
         "text": "Adversaries in the Astral Realm are immune to physical damage, as they are psychic projections instead of flesh and blood. _How does an adversary's astral form differ from their physical form? Why are these psychic projections drawn to the PCs?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Attack their psyches, summon their subconscious fears, warp their perceptions",
     "name": "Astral Realm",
     "potential_adversaries": "Demon of Despair, Elemental Spark, _Pain Priest_, Psychic Vampires (Head Vampire, _Night Children_)",
@@ -944,11 +974,12 @@
         "text": "Warped animals wreathed in indigo flame trample through a point of your choice. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take **3d12+3** physical damage. Targets who succeed take half damage instead. _Are these real animals consumed by the flame or merely constructs of the corrupting magic?_"
       },
       {
-        "name": "Choking Ash - Reaction: Countdown (Loop 6).",
+        "name": "Choking Ash - Reaction",
         "question": "What hallucinations does the ash induce? What incongruous taste does it possess?",
-        "text": "When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take **4d6+5** direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll. _What hallucinations does the ash induce? What incongruous taste does it possess?_"
+        "text": "_Countdown (Loop 6)._ When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take **4d6+5** direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll. _What hallucinations does the ash induce? What incongruous taste does it possess?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Beat out an uncanny rhythm for all to follow, corrupt the woods",
     "name": "Burning Heart of the Woods",
     "potential_adversaries": "Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)",
@@ -980,6 +1011,7 @@
         "text": "When an adversary is defeated, you can **spend a Fear** to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll. _What debris is scattered by the attack? What is broken by the strike that can't be easily mended?_\n\n- Targets who fail take **3d8+3** physical or magic damage and must mark a Stress.\n- Targets who succeed must mark a Stress."
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Bleed out the will to fight, breach the walls, build tension",
     "name": "Castle Siege",
     "potential_adversaries": "Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)",
@@ -1016,6 +1048,7 @@
         "text": "When the PCs take a long rest, you can **spend a Fear** to swap their psyches. Collect all the players' character sheets, then shuffle and randomly redistribute them. Each character sheet comes with that PC's Domain cards and player aids. A PC can regain their psyche with a successful Knowledge Roll, at which point they trade sheets with the player who has their original character sheet. _How does it feel being in someone else's skin? If you could choose to stay like them in one way, what would it be?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Cut them to their core, fracture their psyches, show their true reflection",
     "name": "Crystal Wasteland",
     "potential_adversaries": "Adult Flickerfly, Constructs, Elemental Spark, Vault Guardians, _Whisper Wraiths_",
@@ -1047,6 +1080,7 @@
         "text": "When a PC fails a roll to navigate the lair, you can **spend a Fear** to summon **1d6** Drakes and up to two Wyverns, who appear within Close range of a PC and are immediately spotlighted. _Why do these creatures serve the slumbering dragon? What signs does the party find that foreshadow their presence?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Lure into the levels below, make escape impossible, tempt with treasure, wake the dragon",
     "name": "Dragon's Lair",
     "potential_adversaries": "The Dragon's Minions (_Drake_, _Wyvern_), _Young Fire Dragon_",
@@ -1083,6 +1117,7 @@
         "text": "The Megastorm is sowing fear and chaos among the locals. Describe how the storm puts an NPC in danger. If the PC who next takes the spotlight doesn't use their action to rescue the endangered NPC, you gain a Fear. _Who's taking advantage of the situation? Who's supposed to be in charge here, and what happened to them?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Blow hurricane winds, choke with mudslides, crumble structures, flood, throw debris, light up the sky",
     "name": "Megastorm",
     "potential_adversaries": "Greater Water Elemental, _Storm Titan_",
@@ -1114,6 +1149,7 @@
         "text": "Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight. _Who are they targeting first? What formation do they take?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Seize people, land, and wealth, spill blood for greed and glory",
     "name": "Pitched Battle",
     "potential_adversaries": "Mercenaries (Sellsword, Harrier, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)",
@@ -1145,6 +1181,7 @@
         "text": "**Spend a Fear** to summon up to two Deep Dwellers and **1d6** Cursed Merfolk who try to bind the PCs to their will. These adversaries appear at Close range of a PC, then one immediately takes the spotlight. _Why do these creatures stay here among the ruins? Are they unwilling or unable to resurrect this once-prosperous civilization?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Draw them deep, drown them, reveal ancient wonders",
     "name": "Sunken Citadel",
     "potential_adversaries": "_Cursed Merfolk, Deep Dweller, Plesiosaurus_",
@@ -1181,6 +1218,7 @@
         "text": "If the PCs defeat the casino's automated security or try to leave with stolen winnings, you can **spend an amount of Fear equal to the number of PCs** to summon the casino's true owner, a Demon of Avarice, within Close range of a PC. The Demon is immediately spotlighted and bars the party's exit at all costs. _How did the demon mask their influence until now? How does the casino itself change to reveal its true nature?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Dangle the jackpot just out of reach, dazzle them with spectacle, prey on their vices",
     "name": "Upscale Casino",
     "potential_adversaries": "Automated Security (Vault Guardians), Gamblers (Courtesan, Merchant Baron, Petty Noble, Spy)",
@@ -1207,6 +1245,7 @@
         "text": "**Spend a Fear** to open a fissure that belches out toxic gas at a point of your choice, creating a cloud that blankets everything within Far range. While inside the cloud, a PC must track their air supply with an Air Supply Countdown. Its starting value is equal to 3 + their tier, and it ticks down when they take an action. If a PC fails an action roll or rolls with Fear, you can use a GM move to tick down their countdown an additional time. If the roll is a failure with Fear, you can tick it down twice instead. Once the countdown ends, a PC must mark a Stress whenever they take an action within the gas until they escape the cloud. _What signs do you see to indicate the presence of toxic gas? What taste lingers in the mouths of the PCs who inhale the gas?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Create panic all around, cut off the exits, isolate, make them scramble for safety, split the party",
     "name": "Volcanic Eruption",
     "potential_adversaries": "Elemental Spark, Lava Elemental (Greater Earth Elemental), Volcanic Dragon",
@@ -1223,9 +1262,9 @@
         "text": "Up is down, down is right, right is starward. Gravity and directionality themselves are in flux, and any attempt to move through this realm is an odyssey unto itself, requiring a Progress Countdown (8). On a failure, a PC must mark a Stress in addition to the roll's other consequences. _What does it feel like to move in a space so alien to the Mortal Realm? What landmark or point do you fixate on to maintain your balance? What bizarre landmarks do you traverse on your journey?_"
       },
       {
-        "name": "Everything You Are This Place Will Take from You - Action: Countdown (Loop 1d4).",
+        "name": "Everything You Are This Place Will Take from You - Action",
         "question": "How does this place try to steal from you that which makes you legendary? What does it feel like to have this power taken from you?",
-        "text": "Activate the countdown. When it triggers, all PCs must succeed on a Presence Reaction Roll or their highest trait is temporarily reduced by **1d4** unless they mark a number of Stress equal to its value. Any lost trait points are regained if the PC critically succeeds or escapes the Chaos Realm. _How does this place try to steal from you that which makes you legendary? What does it feel like to have this power taken from you?_"
+        "text": "_Countdown (Loop 1d4)._ Activate the countdown. When it triggers, all PCs must succeed on a Presence Reaction Roll or their highest trait is temporarily reduced by **1d4** unless they mark a number of Stress equal to its value. Any lost trait points are regained if the PC critically succeeds or escapes the Chaos Realm. _How does this place try to steal from you that which makes you legendary? What does it feel like to have this power taken from you?_"
       },
       {
         "name": "Unmaking - Action",
@@ -1243,6 +1282,7 @@
         "text": "On a result with Fear, you can ask the PC to describe which of their fears the Chaos Realm evokes as a vision of reality unmakes and reconstitutes itself to the PC. The PC loses a Hope. If it is their last Hope, you gain a Fear. _What moment do they see? If it's a memory, how is it warped by this place? How hard will it be to hold on to the real memory?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Annihilate certainty, consume power, defy logic",
     "name": "Chaos Realm",
     "potential_adversaries": "Outer Realms Monstrosities (Abomination, Corruptor, Thrall)",
@@ -1269,9 +1309,9 @@
         "text": "This city has the solution to any problem, if you can find it. A PC seeking a particular item with wondrous properties can make an Instinct or Presence Roll to find it in the city's pandimensional marketplace.\n\n- **Critical Success:** The PC finds the perfect item, and the merchant who has it only wants something the PC considers inconsequential in exchange.\n- **Success with Hope:** The PC finds the perfect item and can exchange something of equal value for it.\n- **Success with Fear:** The PC finds the perfect item, but the merchant who has it will only exchange it for something the party can't give them... yet.\n- **Any Failure:** The PC must mark a Stress as they go on a wild goose chase but come up empty-handed. The PC can mark an additional Stress to change this result into a success with Fear.\n\n_Who has the item the party needs? What do they want in return?_"
       },
       {
-        "name": "Don't Make Waves - Passive: Countdown (6).",
+        "name": "Don't Make Waves - Passive",
         "question": "What has the party done (or what do they plan to do) that draws the attention and ire of the city officials? How can they fix the problem they caused?",
-        "text": "Because anything is possible in Convergence, the city maintains a labyrinthine bureaucracy that issues and enforces ordinances regarding all exchanges and interactions between the realms. When the party arrives in Convergence, activate the countdown. It ticks down when a PC does something that upsets the city's delicate political equilibrium. When it triggers, the PCs become _Wanted_ until they clear their names with the authorities. When a _Wanted_ PC rolls with Fear, you can summon **1d4** Temporal Enforcers who appear within Very Close range, immediately take the spotlight, and try to apprehend the party. _What has the party done (or what do they plan to do) that draws the attention and ire of the city officials? How can they fix the problem they caused?_"
+        "text": "_Countdown (6)._ Because anything is possible in Convergence, the city maintains a labyrinthine bureaucracy that issues and enforces ordinances regarding all exchanges and interactions between the realms. When the party arrives in Convergence, activate the countdown. It ticks down when a PC does something that upsets the city's delicate political equilibrium. When it triggers, the PCs become _Wanted_ until they clear their names with the authorities. When a _Wanted_ PC rolls with Fear, you can summon **1d4** Temporal Enforcers who appear within Very Close range, immediately take the spotlight, and try to apprehend the party. _What has the party done (or what do they plan to do) that draws the attention and ire of the city officials? How can they fix the problem they caused?_"
       },
       {
         "name": "An Offer You Can't Refuse - Action",
@@ -1279,6 +1319,7 @@
         "text": "Convergence is home to a tenuous network of rival factions. **Spend a Fear** to have one of them present the party with an easy solution to a difficult problem in exchange for their allegiance. If the party refuses, each PC must mark a Stress, and they can't turn to that faction for help in the future. _Which faction offers the party their support? Who do they want the party to act against?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Confront them with alien customs, dazzle them with infinite variety, tempt them with the impossible",
     "name": "Convergence, the City of Portals",
     "potential_adversaries": "Power Players (Arch-Necromancer, _Demon Lord Berzug_, _Fire Titan Warlord_, High Seraph, Monarch, Oracle of Doom, _Vampire Lord_), Travelers and Residents (Any)",
@@ -1320,6 +1361,7 @@
         "text": "On any failure with Fear against the Usurper, the PC must mark **1d4** Stress from the backlash of magical power. _What visions of failures past torment you as your efforts fall short? How are these memories twisted by the Usurper?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Collect power, overawe, silence dissent",
     "name": "Divine Usurpation",
     "potential_adversaries": "Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie",
@@ -1356,6 +1398,7 @@
         "text": "On a result with Fear, you can **spend a Fear** to have someone loyal to the empire overhear seditious talk within the court. A PC must succeed on an Instinct Reaction Roll to notice that the group has been overheard so they can try to intercept the witness before the PCs are exposed. _How has the empire compromised this witness? Why is their first impulse to protect the empire, even if doesn't treat them well?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort",
     "name": "Imperial Court",
     "potential_adversaries": "Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy",
@@ -1387,6 +1430,7 @@
         "text": "The Moon Kingdom's final ruler has been preserved in a selenite coffin deep within the citadel. On a roll with Fear to investigate her chamber, her baleful shade awakens and attacks the party. Summon the Moon Queen's Spirit (Arch-Necromancer) next to her coffin and immediately spotlight her. _Who buried her here, and why? Can she be resurrected, or is destroying her spirit the only path forward?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Blur the line between dream and reality, let consciousness ebb and flow like the tide, whisper echoes of ancient opulence",
     "name": "Moon Kingdom",
     "potential_adversaries": "Local Fauna (_Cryptimoths, Yufos_), Moon Queen's Spirit (Arch-Necromancer), Reawakened Relics (Constructs, Vault Guardians)",
@@ -1423,6 +1467,7 @@
         "text": "**Spend a Fear** to summon **1d6** Rotted Zombies, two Perfected Zombies, or a Zombie Legion, who appear at Close range of a chosen PC. _Who were these people before they became the necromancer's pawns? What vestiges of those lives remain for the heroes to see?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead",
     "name": "Necromancer's Ossuary",
     "potential_adversaries": "Arch-Necromancer's Host (Perfected Zombie, Zombie Legion)",
@@ -1459,6 +1504,7 @@
         "text": "When a PC spends Hope in the Realm of the Dead, they must roll a **d6**. On an odd result, they must spend an additional Hope or lose the benefit of the Hope they already spent. _What regrets gnaw at the edge of your consciousness while you're here? What memories still tether you to the Mortal Realm?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Drown in despair, leech life, tempt into endless slumber",
     "name": "Realm of the Dead",
     "potential_adversaries": "Any (see \"Death-Touched Denizens\")",
@@ -1495,6 +1541,7 @@
         "text": "When the PCs attempt to escape or end the trial through force, summon a number of Temporal Enforcers equal to the number of PCs in the scene within Close range and immediately spotlight one. _Is this court's authority worthy of respect? What besides the might of the Time Council and its enforcers justifies their control over the timeline?_"
       }
     ],
+    "features_heading": "FEATURES",
     "impulses": "Find the truth, mete out justice, nullify their powers",
     "name": "Time Court",
     "potential_adversaries": "Judge (Monarch), Jury (_Hallowed Choir_), Executioners (_Temporal Enforcers_)",

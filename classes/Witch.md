@@ -11,7 +11,7 @@ Witches are magical practitioners who commune with the forces of nature and enti
 
 ---
 
-### HOPE FEATURE
+### WITCH'S HOPE FEATURE
 
 **_Witch's Charm:_** When you or an ally within Far range fails an action roll, you can **spend 3 Hope** to change it into a success with Fear instead.
 

@@ -234,6 +234,14 @@ func getSection(content, headerLine string) string {
 // Recognize those labels, keeping the printed period in the feature name.
 var reFeatureDotLabel = regexp.MustCompile(`^_([^_]*(?:Countdown|Pool)(?:\s*\([^)_]*\))?\.)_\s*(.*)`)
 
+// headingText strips the leading hashes from a markdown heading line and
+// returns the literal text as printed in the source markdown, so downstream
+// rendering can reproduce singular/plural heading variants ("MASTERY FEATURE"
+// vs "MASTERY FEATURES") exactly instead of guessing.
+func headingText(header string) string {
+	return strings.TrimSpace(strings.TrimLeft(strings.TrimSpace(header), "#"))
+}
+
 func warnMissing(entity, name, field string) {
 	if name == "" {
 		name = "<unknown>"
@@ -749,26 +757,28 @@ func extractAdversaries(content, outputDir string) {
 				warnMissing("Adversary", name, "Motives & Tactics")
 			}
 
-			// 2. Stats (Difficulty, Thresholds, HP, Stress) - can be in one line or separate
-			if m := regexp.MustCompile(`(?i)[*][*]Difficulty:[*][*]\s*(\d+)`).FindStringSubmatch(fullText); len(m) > 1 {
-				diff = m[1]
-			} else {
+			// 2. Stats (Difficulty, Thresholds, HP, Stress) - can be in one line or separate.
+			// Every one of these fields can print a non-numeric value verbatim in the
+			// SRD (e.g. "Thresholds: None" on p99, "Stress: None" on p110), so capture
+			// whatever the page prints up to the next pipe/newline rather than forcing
+			// a numeric shape and dropping the value when it doesn't fit.
+			statValue := func(field string) string {
+				re := regexp.MustCompile(`(?i)[*][*]` + field + `:[*][*]\s*([^|\n]+)`)
+				if m := re.FindStringSubmatch(fullText); len(m) > 1 {
+					return strings.TrimSpace(m[1])
+				}
+				return ""
+			}
+			diff = statValue("Difficulty")
+			if diff == "" {
 				warnMissing("Adversary", name, "Difficulty")
 			}
-
-			if m := regexp.MustCompile(`(?i)[*][*]Thresholds:[*][*]\s*(\d+/(?:\d+|None)|None)`).FindStringSubmatch(fullText); len(m) > 1 {
-				thresh = m[1]
-			}
-
-			if m := regexp.MustCompile(`(?i)[*][*]HP:[*][*]\s*(\d+)`).FindStringSubmatch(fullText); len(m) > 1 {
-				hp = m[1]
-			} else {
+			thresh = statValue("Thresholds")
+			hp = statValue("HP")
+			if hp == "" {
 				warnMissing("Adversary", name, "HP")
 			}
-
-			if m := regexp.MustCompile(`(?i)[*][*]Stress:[*][*]\s*(\d+|-)`).FindStringSubmatch(fullText); len(m) > 1 {
-				stress = m[1]
-			}
+			stress = statValue("Stress")
 
 			// 3. Attack (ATK, Name, Range, Damage)
 			reAtkLine := regexp.MustCompile(`(?i)[*][*]ATK:[*][*]\s*([+\-](?:\d*d\d+|\d+))\s*\|\s*[*][*](.*?):[*][*]\s*(.*?)\s*\|\s*(.*)`)
@@ -793,67 +803,157 @@ func extractAdversaries(content, outputDir string) {
 			}
 
 			// Features
-			var feats []string
+			var feats []advFeature
+			featuresHeading := ""
 			reFeat := regexp.MustCompile(`(?m)^#{4,6}\s+FEATURE(?:S|\(S\))?\s*$`)
 			if idx, header := findHeaderBlockStart(fullText, reFeat); idx != -1 {
+				featuresHeading = headingText(header)
 				if header != "##### FEATURES" {
 					warnFormat("Adversary", name, fmt.Sprintf("features heading '%s'", header))
 				}
-				fLines := strings.Split(fullText[idx:], "\n")
-				currN, currT := "", ""
-				for i, l := range fLines {
-					l = strings.TrimSpace(l)
-					if strings.HasPrefix(l, "#") {
-						if i == 0 {
-							continue
-						}
-						break
-					}
-					if m := reFeatureDotLabel.FindStringSubmatch(l); len(m) > 2 {
-						if currN != "" {
-							feats = append(feats, currN, strings.Trim(currT, "\n"))
-						}
-						currN = titleizeIfAllCaps(m[1])
-						currT = strings.TrimSpace(m[2])
-					} else if strings.HasPrefix(l, "_") && strings.Contains(l, ":_") {
-						if currN != "" {
-							feats = append(feats, currN, strings.Trim(currT, "\n"))
-						}
-						parts := strings.SplitN(l, ":_", 2)
-						currN = strings.TrimPrefix(parts[0], "_")
-						currN = titleizeIfAllCaps(currN)
-						currT = strings.TrimSpace(parts[1])
-					} else if currN != "" && !strings.HasPrefix(l, "#####") {
-						if l == "" {
-							currT += "\n"
-						} else {
-							currT += "\n" + l
-						}
-					}
-				}
-				if currN != "" {
-					feats = append(feats, currN, strings.Trim(currT, "\n"))
-				}
+				feats = parseAdversaryFeatures(fullText[idx:])
 			} else {
 				warnMissing("Adversary", name, "Features")
 			}
 
-			if len(feats) > 18 {
-				warnFormat("Adversary", name, fmt.Sprintf("%d features (only 9 kept)", len(feats)/2))
+			if len(feats) > maxAdversaryFeatures {
+				warnFormat("Adversary", name, fmt.Sprintf("%d features (only %d kept)", len(feats), maxAdversaryFeatures))
 			}
 
-			row := []string{name, tier, typeStr, desc, motives, diff, thresh, hp, stress, atk, attackName, rng, dmg, exp}
-			for i := 0; i < 18; i++ {
+			row := []string{name, tier, typeStr, desc, motives, diff, thresh, hp, stress, atk, attackName, rng, dmg, exp, featuresHeading}
+			for i := 0; i < maxAdversaryFeatures; i++ {
 				if i < len(feats) {
-					row = append(row, feats[i])
+					row = append(row, feats[i].name, feats[i].text, feats[i].parent, feats[i].kind)
 				} else {
-					row = append(row, "")
+					row = append(row, "", "", "", "")
 				}
 			}
 			records = append(records, row)
 		}
 	}
-	writeCSV(outputDir+"/adversaries.csv", []string{"Name", "Tier", "Type", "Description", "Motives and Tactics", "Difficulty", "Thresholds", "HP", "Stress", "ATK", "Attack", "Range", "Damage", "Experience", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Feature 4 Name", "Feature 4 Text", "Feature 5 Name", "Feature 5 Text", "Feature 6 Name", "Feature 6 Text", "Feature 7 Name", "Feature 7 Text", "Feature 8 Name", "Feature 8 Text", "Feature 9 Name", "Feature 9 Text"}, records)
+	header := []string{"Name", "Tier", "Type", "Description", "Motives and Tactics", "Difficulty", "Thresholds", "HP", "Stress", "ATK", "Attack", "Range", "Damage", "Experience", "Features Heading"}
+	for i := 1; i <= maxAdversaryFeatures; i++ {
+		header = append(header,
+			fmt.Sprintf("Feature %d Name", i),
+			fmt.Sprintf("Feature %d Text", i),
+			fmt.Sprintf("Feature %d Parent", i),
+			fmt.Sprintf("Feature %d Kind", i),
+		)
+	}
+	writeCSV(outputDir+"/adversaries.csv", header, records)
+}
+
+// maxAdversaryFeatures is the number of feature slots carried in
+// adversaries.csv. Vampire Lord needs 10 (8 base features, its Evolution, its
+// evolved-form replacement attack line and two evolved-form sub-features), so
+// the historical cap of 9 is no longer enough.
+const maxAdversaryFeatures = 12
+
+// advFeature is one entry in an adversary's FEATURES block.
+//
+//	parent - name of the Evolution feature this entry is nested under in the
+//	         PDF, empty for a top-level feature.
+//	kind   - "evolution" for a feature that unlocks an evolved form,
+//	         "attack"    for a standard-attack stat line that the evolved form
+//	                     replaces the base attack with,
+//	         ""          for an ordinary prose feature.
+type advFeature struct {
+	name   string
+	text   string
+	parent string
+	kind   string
+}
+
+// reEvolutionLabel matches the printed suffix the SRD uses for features that
+// unlock an evolved form, e.g. "Nest Warden - Evolution".
+var reEvolutionLabel = regexp.MustCompile(`(?i)-\s*Evolution$`)
+
+// reReplacementAttack matches a bare standard-attack stat line inside a
+// FEATURES block, e.g. "**Claws:** Close | 3d12+6 phy".
+var reReplacementAttack = regexp.MustCompile(`^[*][*]([^*:]+):[*][*]\s*(.+)$`)
+
+// parseAdversaryFeatures reads a FEATURES block and preserves the PDF's
+// nesting: in the source the sub-features of an evolved form are printed one
+// indent level under their Evolution feature (and the evolved form's
+// replacement standard attack sits between them), but the markdown flattens
+// them into siblings. Everything that follows an Evolution feature belongs to
+// that evolved form, so it is recorded with the Evolution's name as its parent
+// instead of being emitted as an always-on base feature.
+func parseAdversaryFeatures(block string) []advFeature {
+	var feats []advFeature
+	var cur *advFeature
+	evolutionParent := ""
+
+	flush := func() {
+		if cur != nil {
+			cur.text = strings.Trim(cur.text, "\n")
+			feats = append(feats, *cur)
+			cur = nil
+		}
+	}
+	start := func(name, text string) {
+		flush()
+		parent := evolutionParent
+		kind := ""
+		if reEvolutionLabel.MatchString(name) {
+			kind = "evolution"
+			evolutionParent = name
+		}
+		cur = &advFeature{name: name, text: text, parent: parent, kind: kind}
+	}
+
+	for i, raw := range strings.Split(block, "\n") {
+		l := strings.TrimSpace(raw)
+		if strings.HasPrefix(l, "#") {
+			if i == 0 {
+				continue
+			}
+			break
+		}
+		// Tolerate a source that marks the nesting explicitly with a blockquote
+		// marker, but only when what follows still reads as a label line - list
+		// bullets inside feature bodies must stay part of the body.
+		label := l
+		if strings.HasPrefix(label, "> ") {
+			cand := strings.TrimSpace(label[2:])
+			if reFeatureDotLabel.MatchString(cand) ||
+				(strings.HasPrefix(cand, "_") && strings.Contains(cand, ":_")) ||
+				reReplacementAttack.MatchString(cand) {
+				label = cand
+			}
+		}
+
+		if m := reFeatureDotLabel.FindStringSubmatch(label); len(m) > 2 {
+			start(titleizeIfAllCaps(m[1]), strings.TrimSpace(m[2]))
+			continue
+		}
+		if strings.HasPrefix(label, "_") && strings.Contains(label, ":_") {
+			parts := strings.SplitN(label, ":_", 2)
+			start(titleizeIfAllCaps(strings.TrimPrefix(parts[0], "_")), strings.TrimSpace(parts[1]))
+			continue
+		}
+		if evolutionParent != "" {
+			if m := reReplacementAttack.FindStringSubmatch(label); len(m) > 2 {
+				flush()
+				feats = append(feats, advFeature{
+					name:   strings.TrimSpace(m[1]),
+					text:   strings.TrimSpace(m[2]),
+					parent: evolutionParent,
+					kind:   "attack",
+				})
+				continue
+			}
+		}
+		if cur != nil {
+			if l == "" {
+				cur.text += "\n"
+			} else {
+				cur.text += "\n" + l
+			}
+		}
+	}
+	flush()
+	return feats
 }
 
 func extractAncestries(content, outputDir string) {
@@ -885,6 +985,7 @@ func extractAncestries(content, outputDir string) {
 		if header != "##### ANCESTRY FEATURES" && header != "##### ANCESTRY FEATURE" {
 			warnFormat("Ancestry", name, fmt.Sprintf("ancestry feature heading '%s'", header))
 		}
+		featuresHeading := headingText(header)
 		descPart := chunk[len(lines[0]):splitIdx]
 		desc = strings.Trim(descPart, "\n")
 		featPart := chunk[splitIdx:]
@@ -919,7 +1020,7 @@ func extractAncestries(content, outputDir string) {
 		if len(feats) == 0 {
 			warnMissing("Ancestry", name, "Features")
 		}
-		row := []string{name, strings.TrimSpace(desc)}
+		row := []string{name, strings.TrimSpace(desc), featuresHeading}
 		for k := 0; k < 4; k++ {
 			if k < len(feats) {
 				row = append(row, feats[k])
@@ -935,7 +1036,7 @@ func extractAncestries(content, outputDir string) {
 		}
 		processChunk(chunk)
 	}
-	writeCSV(outputDir+"/ancestries.csv", []string{"Name", "Description", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text"}, records)
+	writeCSV(outputDir+"/ancestries.csv", []string{"Name", "Description", "Features Heading", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text"}, records)
 }
 
 func extractArmor(content, outputDir string) {
@@ -1048,9 +1149,10 @@ func extractClasses(content, outputDir string) {
 			d2 = titleizeIfAllCaps(strings.TrimSpace(ds[1]))
 		}
 
-		hopeN, hopeT := "", ""
+		hopeN, hopeT, hopeHeading := "", "", ""
 		reHope := regexp.MustCompile(`(?m)^#{4,6}\s+.*HOPE FEATURE\b.*$`)
 		if hi, header := findHeaderBlockStart(chunk, reHope); hi != -1 {
+			hopeHeading = headingText(header)
 			if !strings.HasPrefix(header, "#####") {
 				warnFormat("Class", name, fmt.Sprintf("hope feature heading '%s'", header))
 			}
@@ -1061,8 +1163,10 @@ func extractClasses(content, outputDir string) {
 		}
 
 		cfFeats := []string{}
+		cfHeading := ""
 		reCF := regexp.MustCompile(`(?m)^#{4,6}\s+CLASS FEATURE(S)?\b.*$`)
 		if ci, header := findHeaderBlockStart(chunk, reCF); ci != -1 {
+			cfHeading = headingText(header)
 			if header != "##### CLASS FEATURE" && header != "##### CLASS FEATURES" {
 				warnFormat("Class", name, fmt.Sprintf("class feature heading '%s'", header))
 			}
@@ -1164,9 +1268,9 @@ func extractClasses(content, outputDir string) {
 			cf3n, cf3t = cfFeats[4], cfFeats[5]
 		}
 
-		records = append(records, []string{name, strings.TrimSpace(desc), d1, d2, evasion, hp, items, sugTraits, sugPrimary, sugSecondary, sugArmor, hopeN, hopeT, cf1n, cf1t, cf2n, cf2t, cf3n, cf3t, bg[0], bg[1], bg[2], cn[0], cn[1], cn[2], sub1, sub2, featuresExtra, extraSections})
+		records = append(records, []string{name, strings.TrimSpace(desc), d1, d2, evasion, hp, items, sugTraits, sugPrimary, sugSecondary, sugArmor, hopeHeading, hopeN, hopeT, cfHeading, cf1n, cf1t, cf2n, cf2t, cf3n, cf3t, bg[0], bg[1], bg[2], cn[0], cn[1], cn[2], sub1, sub2, featuresExtra, extraSections})
 	}
-	writeCSV(outputDir+"/classes.csv", []string{"Name", "Description", "Domain 1", "Domain 2", "Evasion", "HP", "Items", "Suggested Traits", "Suggested Primary", "Suggested Secondary", "Suggested Armor", "Hope Feature Name", "Hope Feature Text", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Background 1 Question", "Background 2 Question", "Background 3 Question", "Connection 1 Question", "Connection 2 Question", "Connection 3 Question", "Subclass 1", "Subclass 2", "Features Extra", "Extra Sections"}, records)
+	writeCSV(outputDir+"/classes.csv", []string{"Name", "Description", "Domain 1", "Domain 2", "Evasion", "HP", "Items", "Suggested Traits", "Suggested Primary", "Suggested Secondary", "Suggested Armor", "Hope Feature Heading", "Hope Feature Name", "Hope Feature Text", "Class Features Heading", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Feature 3 Name", "Feature 3 Text", "Background 1 Question", "Background 2 Question", "Background 3 Question", "Connection 1 Question", "Connection 2 Question", "Connection 3 Question", "Subclass 1", "Subclass 2", "Features Extra", "Extra Sections"}, records)
 }
 
 func extractCommunities(content, outputDir string) {
@@ -1177,11 +1281,17 @@ func extractCommunities(content, outputDir string) {
 		if i == 0 {
 			continue
 		}
-		name := titleizeIfAllCaps(strings.TrimSpace(strings.Split(chunk, "\n")[0]))
-		desc, note, fN, fT := "", "", "", ""
-		fi := strings.Index(chunk, "##### COMMUNITY FEATURE")
+		rawName := strings.TrimSpace(strings.Split(chunk, "\n")[0])
+		name := titleizeIfAllCaps(rawName)
+		desc, note, fN, fT, featuresHeading := "", "", "", "", ""
+		reCFeat := regexp.MustCompile(`(?m)^#{4,6}\s+COMMUNITY FEATURE(S)?\b.*$`)
+		fi, cHeader := findHeaderBlockStart(chunk, reCFeat)
 		if fi != -1 {
-			descRaw := strings.Trim(chunk[len(name):fi], "\n")
+			featuresHeading = headingText(cHeader)
+			if cHeader != "##### COMMUNITY FEATURE" && cHeader != "##### COMMUNITY FEATURES" {
+				warnFormat("Community", name, fmt.Sprintf("community feature heading '%s'", cHeader))
+			}
+			descRaw := strings.Trim(chunk[len(rawName):fi], "\n")
 			parts := regexp.MustCompile(`\n\s*\n`).Split(descRaw, -1)
 			if len(parts) > 0 {
 				last := strings.TrimSpace(parts[len(parts)-1])
@@ -1201,9 +1311,24 @@ func extractCommunities(content, outputDir string) {
 			} else {
 				desc = descRaw
 			}
-			for _, l := range strings.Split(chunk[fi:], "\n") {
-				if strings.Contains(l, ":") && !strings.Contains(l, "FEATURE") {
-					line := strings.TrimSpace(l)
+			// A community feature can run to more than one paragraph (Reborne's
+			// "Found Family", PDF p40). Capture the label line, then keep
+			// accumulating the rest of the block - blank lines included, so the
+			// paragraph breaks survive - instead of stopping at the label.
+			started := false
+			var body []string
+			for idx, raw := range strings.Split(chunk[fi:], "\n") {
+				line := strings.TrimSpace(raw)
+				if strings.HasPrefix(line, "#") {
+					if idx == 0 {
+						continue
+					}
+					break
+				}
+				if !started {
+					if !strings.Contains(line, ":") || strings.Contains(line, "FEATURE") {
+						continue
+					}
 					p := strings.SplitN(line, ":_", 2)
 					if len(p) < 2 {
 						p = strings.SplitN(line, ":", 2)
@@ -1217,13 +1342,21 @@ func extractCommunities(content, outputDir string) {
 					if strings.HasPrefix(fT, "_") {
 						fT = strings.TrimSpace(strings.TrimPrefix(fT, "_"))
 					}
-					break
+					started = true
+					continue
 				}
+				body = append(body, line)
+			}
+			if tail := strings.Trim(strings.Join(body, "\n"), "\n"); tail != "" {
+				fT = fT + "\n\n" + tail
+			}
+			if fN == "" {
+				warnMissing("Community", name, "Community Feature")
 			}
 		}
-		records = append(records, []string{name, strings.TrimSpace(desc), note, fN, fT})
+		records = append(records, []string{name, strings.TrimSpace(desc), note, featuresHeading, fN, fT})
 	}
-	writeCSV(outputDir+"/communities.csv", []string{"Name", "Description", "Note", "Feature 1 Name", "Feature 1 Text"}, records)
+	writeCSV(outputDir+"/communities.csv", []string{"Name", "Description", "Note", "Features Heading", "Feature 1 Name", "Feature 1 Text"}, records)
 }
 
 func extractConsumables(content, outputDir string) {
@@ -1381,8 +1514,10 @@ func extractEnvironments(content, outputDir string) {
 		}
 
 		var feats []string
+		featuresHeading := ""
 		reFeat := regexp.MustCompile(`(?m)^#{4,6}\s+FEATURE(?:S|\(S\))?\s*$`)
 		if idx, header := findHeaderBlockStart(fullText, reFeat); idx != -1 {
+			featuresHeading = headingText(header)
 			if header != "##### FEATURES" {
 				warnFormat("Environment", name, fmt.Sprintf("features heading '%s'", header))
 			}
@@ -1425,7 +1560,7 @@ func extractEnvironments(content, outputDir string) {
 		if len(feats) > 12 {
 			warnFormat("Environment", name, fmt.Sprintf("%d features (only 6 kept)", len(feats)/2))
 		}
-		row := []string{name, tier, typ, desc, imp, diff, adv}
+		row := []string{name, tier, typ, desc, imp, diff, adv, featuresHeading}
 		for k := 0; k < 6; k++ {
 			featName := ""
 			featText := ""
@@ -1446,7 +1581,7 @@ func extractEnvironments(content, outputDir string) {
 		}
 		records = append(records, row)
 	}
-	writeCSV(outputDir+"/environments.csv", []string{"Name", "Tier", "Type", "Description", "Impulses", "Difficulty", "Potential Adversaries", "Feature 1 Name", "Feature 1 Text", "Feature 1 Question", "Feature 2 Name", "Feature 2 Text", "Feature 2 Question", "Feature 3 Name", "Feature 3 Text", "Feature 3 Question", "Feature 4 Name", "Feature 4 Text", "Feature 4 Question", "Feature 5 Name", "Feature 5 Text", "Feature 5 Question", "Feature 6 Name", "Feature 6 Text", "Feature 6 Question"}, records)
+	writeCSV(outputDir+"/environments.csv", []string{"Name", "Tier", "Type", "Description", "Impulses", "Difficulty", "Potential Adversaries", "Features Heading", "Feature 1 Name", "Feature 1 Text", "Feature 1 Question", "Feature 2 Name", "Feature 2 Text", "Feature 2 Question", "Feature 3 Name", "Feature 3 Text", "Feature 3 Question", "Feature 4 Name", "Feature 4 Text", "Feature 4 Question", "Feature 5 Name", "Feature 5 Text", "Feature 5 Question", "Feature 6 Name", "Feature 6 Text", "Feature 6 Question"}, records)
 }
 
 func extractQuestions(text string) []string {
@@ -1580,9 +1715,11 @@ func extractBeastforms(content, outputDir string) {
 			statsLine := ""
 			advantages := ""
 
+			inAdvantages := false
 			for _, raw := range lines[1:] {
 				line := strings.TrimSpace(raw)
 				if line == "" {
+					inAdvantages = false
 					continue
 				}
 				if examples == "" && strings.HasPrefix(line, "(") && strings.HasSuffix(line, ")") {
@@ -1595,6 +1732,13 @@ func extractBeastforms(content, outputDir string) {
 				}
 				if advantages == "" && strings.HasPrefix(line, "**Gain advantage on:**") {
 					advantages = strings.TrimSpace(strings.TrimPrefix(line, "**Gain advantage on:**"))
+					inAdvantages = true
+					continue
+				}
+				// Keep a wrapped advantages list whole instead of dropping
+				// everything after its first line.
+				if inAdvantages {
+					advantages = strings.TrimSpace(advantages + " " + line)
 					continue
 				}
 			}
@@ -1718,20 +1862,30 @@ func extractSubclasses(content, outputDir string) {
 			}
 			lines := strings.Split(strings.TrimSpace(subChunk), "\n")
 			name := titleizeIfAllCaps(lines[0])
-			spellcast := ""
+			spellcast, spellcastHeading := "", ""
 			reSpell := regexp.MustCompile(`(?m)^#{4,6}\s+SPELLCAST TRAIT\b.*$`)
 			if si, header := findHeaderBlockStart(subChunk, reSpell); si != -1 {
+				spellcastHeading = headingText(header)
 				if header != "##### SPELLCAST TRAIT" {
 					warnFormat("Subclass", name, fmt.Sprintf("spellcast heading '%s'", header))
 				}
-				for _, l := range strings.Split(subChunk[si:], "\n") {
+				// Accumulate the whole first paragraph rather than stopping at
+				// its first line, so a wrapped value can't be truncated.
+				var scLines []string
+				for _, l := range strings.Split(subChunk[si:], "\n")[1:] {
 					t := strings.TrimSpace(l)
-					if t == "" || strings.HasPrefix(t, "#") {
+					if strings.HasPrefix(t, "#") {
+						break
+					}
+					if t == "" {
+						if len(scLines) > 0 {
+							break
+						}
 						continue
 					}
-					spellcast = t
-					break
+					scLines = append(scLines, t)
 				}
+				spellcast = strings.Join(scLines, "\n")
 			}
 			descLines := []string{}
 			for _, l := range lines[1:] {
@@ -1743,8 +1897,10 @@ func extractSubclasses(content, outputDir string) {
 			desc := strings.Trim(strings.Join(descLines, "\n"), "\n")
 
 			f1n, f1t, f2n, f2t := "", "", "", ""
+			foundationHeading := ""
 			reFoundation := regexp.MustCompile(`(?m)^#{4,6}\s+FOUNDATION FEATURE(S)?\b.*$`)
 			if fi, header := findHeaderBlockStart(subChunk, reFoundation); fi != -1 {
+				foundationHeading = headingText(header)
 				if header != "##### FOUNDATION FEATURE" && header != "##### FOUNDATION FEATURES" {
 					warnFormat("Subclass", name, fmt.Sprintf("foundation heading '%s'", header))
 				}
@@ -1758,8 +1914,10 @@ func extractSubclasses(content, outputDir string) {
 			}
 
 			s1n, s1t, s2n, s2t := "", "", "", ""
+			specializationHeading := ""
 			reSpec := regexp.MustCompile(`(?m)^#{4,6}\s+SPECIALIZATION FEATURE(S)?\b.*$`)
 			if si, header := findHeaderBlockStart(subChunk, reSpec); si != -1 {
+				specializationHeading = headingText(header)
 				if header != "##### SPECIALIZATION FEATURE" && header != "##### SPECIALIZATION FEATURES" {
 					warnFormat("Subclass", name, fmt.Sprintf("specialization heading '%s'", header))
 				}
@@ -1773,8 +1931,10 @@ func extractSubclasses(content, outputDir string) {
 			}
 
 			m1n, m1t, m2n, m2t := "", "", "", ""
+			masteryHeading := ""
 			reMastery := regexp.MustCompile(`(?m)^#{4,6}\s+MASTERY FEATURE(S)?\b.*$`)
 			if mi, header := findHeaderBlockStart(subChunk, reMastery); mi != -1 {
+				masteryHeading = headingText(header)
 				if header != "##### MASTERY FEATURE" && header != "##### MASTERY FEATURES" {
 					warnFormat("Subclass", name, fmt.Sprintf("mastery heading '%s'", header))
 				}
@@ -1786,11 +1946,11 @@ func extractSubclasses(content, outputDir string) {
 					m2n, m2t = mf[2], mf[3]
 				}
 			}
-			records = append(records, []string{name, strings.TrimSpace(desc), spellcast, f1n, f1t, f2n, f2t, s1n, s1t, s2n, s2t, m1n, m1t, m2n, m2t})
+			records = append(records, []string{name, strings.TrimSpace(desc), spellcastHeading, spellcast, foundationHeading, f1n, f1t, f2n, f2t, specializationHeading, s1n, s1t, s2n, s2t, masteryHeading, m1n, m1t, m2n, m2t})
 		}
 	}
 
-	writeCSV(outputDir+"/subclasses.csv", []string{"Name", "Description", "Spellcast Trait", "Foundation 1 Name", "Foundation 1 Text", "Foundation 2 Name", "Foundation 2 Text", "Specialization 1 Name", "Specialization 1 Text", "Specialization 2 Name", "Specialization 2 Text", "Mastery 1 Name", "Mastery 1 Text", "Mastery 2 Name", "Mastery 2 Text"}, records)
+	writeCSV(outputDir+"/subclasses.csv", []string{"Name", "Description", "Spellcast Heading", "Spellcast Trait", "Foundation Heading", "Foundation 1 Name", "Foundation 1 Text", "Foundation 2 Name", "Foundation 2 Text", "Specialization Heading", "Specialization 1 Name", "Specialization 1 Text", "Specialization 2 Name", "Specialization 2 Text", "Mastery Heading", "Mastery 1 Name", "Mastery 1 Text", "Mastery 2 Name", "Mastery 2 Text"}, records)
 }
 
 func extractTransformations(content, outputDir string) {
@@ -1823,6 +1983,7 @@ func extractTransformations(content, outputDir string) {
 		if header != "##### TRANSFORMATION FEATURES" {
 			warnFormat("Transformation", name, fmt.Sprintf("features heading '%s'", header))
 		}
+		featuresHeading := headingText(header)
 		desc := strings.TrimSpace(strings.Trim(chunk[len(lines[0]):splitIdx], "\n"))
 		feats := extractFeaturePairs(chunk[splitIdx:])
 		if len(feats) == 0 {
@@ -1830,8 +1991,10 @@ func extractTransformations(content, outputDir string) {
 		}
 
 		questions := []string{}
+		questionsHeading := ""
 		reQuestions := regexp.MustCompile(`(?m)^#{4,6}\s+TRANSFORMATION QUESTIONS\b.*$`)
 		if qi, qHeader := findHeaderBlockStart(chunk, reQuestions); qi != -1 {
+			questionsHeading = headingText(qHeader)
 			if qHeader != "##### TRANSFORMATION QUESTIONS" {
 				warnFormat("Transformation", name, fmt.Sprintf("questions heading '%s'", qHeader))
 			}
@@ -1852,7 +2015,7 @@ func extractTransformations(content, outputDir string) {
 			warnFormat("Transformation", name, fmt.Sprintf("%d questions (only %d kept)", len(questions), maxQuestions))
 		}
 
-		row := []string{name, desc}
+		row := []string{name, desc, featuresHeading}
 		for k := 0; k < 4; k++ {
 			if k < len(feats) {
 				row = append(row, feats[k])
@@ -1860,6 +2023,7 @@ func extractTransformations(content, outputDir string) {
 				row = append(row, "")
 			}
 		}
+		row = append(row, questionsHeading)
 		for k := 0; k < maxQuestions; k++ {
 			if k < len(questions) {
 				row = append(row, questions[k])
@@ -1869,7 +2033,7 @@ func extractTransformations(content, outputDir string) {
 		}
 		records = append(records, row)
 	}
-	writeCSV(outputDir+"/transformations.csv", []string{"Name", "Description", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Question 1 Text", "Question 2 Text", "Question 3 Text", "Question 4 Text", "Question 5 Text", "Question 6 Text"}, records)
+	writeCSV(outputDir+"/transformations.csv", []string{"Name", "Description", "Features Heading", "Feature 1 Name", "Feature 1 Text", "Feature 2 Name", "Feature 2 Text", "Questions Heading", "Question 1 Text", "Question 2 Text", "Question 3 Text", "Question 4 Text", "Question 5 Text", "Question 6 Text"}, records)
 }
 
 func extractWeapons(content, outputDir string) {
@@ -1921,22 +2085,29 @@ func extractWeapons(content, outputDir string) {
 		if featT == "—" {
 			featN, featT = "", ""
 		}
-		if damageType == "" {
+		// Damage type is per row, not per table. The primary weapon tables say
+		// "Physical"/"Magic" in their heading and every row in them agrees, but
+		// the secondary weapon tables (PDF pp. 66-69) carry no damage word in
+		// the heading and mix physical and magic rows, so each row's own damage
+		// cell decides. Inferring once per table made all 73 secondaries inherit
+		// "Physical" from the Hatchet row that happens to come first.
+		rowDamageType := damageType
+		if rowDamageType == "" {
 			lower := strings.ToLower(dmg)
 			if strings.Contains(lower, "mag") {
-				damageType = "Magical"
+				rowDamageType = "Magical"
 			} else if strings.Contains(lower, "phy") {
-				damageType = "Physical"
+				rowDamageType = "Physical"
 			}
 		}
-		if tier == "" || damageType == "" {
+		if tier == "" || rowDamageType == "" {
 			warnMissing("Weapon", n, "Tier or Damage Type")
 		}
 		if trait == "" || rng == "" || dmg == "" || burden == "" {
 			warnMissing("Weapon", n, "Trait/Range/Damage/Burden")
 		}
 
-		records = append(records, []string{n, category, tier, damageType, trait, rng, dmg, burden, featN, featT})
+		records = append(records, []string{n, category, tier, rowDamageType, trait, rng, dmg, burden, featN, featT})
 	}
 	writeCSV(outputDir+"/weapons.csv", []string{"Name", "Primary or Secondary", "Tier", "Physical or Magical", "Trait", "Range", "Damage", "Burden", "Feature 1 Name", "Feature 1 Text"}, records)
 }

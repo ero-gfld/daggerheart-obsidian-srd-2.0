@@ -11,7 +11,7 @@ Becoming a druid is more than an occupation; it's a calling for those who wish t
 
 ---
 
-### HOPE FEATURE
+### DRUID'S HOPE FEATURE
 
 **_Evolution:_** **Spend 3 Hope** to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.
 

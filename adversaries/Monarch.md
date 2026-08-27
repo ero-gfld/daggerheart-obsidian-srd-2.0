@@ -13,4 +13,4 @@
 
 **_Crownsguard - Action:_** Once per scene, **mark a Stress** to summon six Tier 3 Minions, who appear at Close range to enforce the Monarch's will.
 
-**_Casus Belli - Reaction: Long-Term Countdown (8)._** **Spend a Fear** to activate after the Monarch's desire for war is first revealed. When it triggers, the Monarch has a reason to rally the nation to war and the support to act on that reason. You gain **1d4** Fear.
+**_Casus Belli - Reaction:_** _Long-Term Countdown (8)._ **Spend a Fear** to activate after the Monarch's desire for war is first revealed. When it triggers, the Monarch has a reason to rally the nation to war and the support to act on that reason. You gain **1d4** Fear.

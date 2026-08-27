@@ -10,7 +10,7 @@
 
 **_Bigger on the Inside - Passive:_** Though the hut's exterior is a rustic single-room cottage, the interior is an ever-shifting estate of haunting splendor replete with numerous bedrooms, libraries, and indoor gardens, among other mysterious installations. _Is there any pattern to the way the hut rearranges itself? What is the most surprising location the PCs could find here?_
 
-**_Creepy Doll Collection - Passive: Countdown (5)._** Throughout the hut, the PCs can see many, many porcelain or wooden dolls with strangely lifelike eyes. When the party first enters a doll's line of sight, activate the countdown. It ticks down when a PC fails a roll or rolls with Fear. When it triggers, the dolls come to life and attack. Summon a number of living dolls (Redcap Biters) equal to twice the number of PCs. _Who were these dolls before? Is there any way to free them from their imprisonment?_
+**_Creepy Doll Collection - Passive:_** _Countdown (5)._ Throughout the hut, the PCs can see many, many porcelain or wooden dolls with strangely lifelike eyes. When the party first enters a doll's line of sight, activate the countdown. It ticks down when a PC fails a roll or rolls with Fear. When it triggers, the dolls come to life and attack. Summon a number of living dolls (Redcap Biters) equal to twice the number of PCs. _Who were these dolls before? Is there any way to free them from their imprisonment?_
 
 **_Witches' Brew - Passive:_** The hut contains a workshop with every tool or component a witch could need, including a large iron cauldron set atop a smoldering fire. A PC who wants to use the workshop can make a Spellcast Roll to craft a magic potion or poison from the Consumables table.
 

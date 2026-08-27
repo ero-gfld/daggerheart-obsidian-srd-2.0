@@ -59,6 +59,16 @@ every content directory, and the root `README.md`. They are idempotent — after
 clean run, `git status` should report no changes. Never hand-edit generated
 files; fix the extractor or the source markdown instead.
 
+## 05_validate
+
+    go run .build/05_validate/validate.go
+
+Validates the whole pipeline output against the source markdown: content
+round-trip, link integrity, entity coverage, stat-block completeness, duplicate
+detection, table integrity and filename portability. Exits non-zero on any
+ERROR-level finding, so it can gate CI. See `.build/05_validate/README.md` for
+what each check does and which real bug it was written to catch.
+
 ## Testing Static Site
 
     pipx install mkdocs

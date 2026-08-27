@@ -8,7 +8,7 @@
 
 ### FEATURES
 
-**_Rally the Locals - Passive: Progress Countdown (5)._** When the pirates first appear, activate the countdown. It ticks down when a PC succeeds on an action roll to stem the chaos and destruction of the pirate raid. When it triggers, the locals become inspired by the party's actions and join the fight against the pirates. Each PC gains a **d6** Morale Die, which they can spend to add to an action, reaction, or damage roll. _How do the pirates threaten or endanger the town besides attacking its inhabitants? What defenses can the PCs take advantage of?_
+**_Rally the Locals - Passive:_** _Progress Countdown (5)._ When the pirates first appear, activate the countdown. It ticks down when a PC succeeds on an action roll to stem the chaos and destruction of the pirate raid. When it triggers, the locals become inspired by the party's actions and join the fight against the pirates. Each PC gains a **d6** Morale Die, which they can spend to add to an action, reaction, or damage roll. _How do the pirates threaten or endanger the town besides attacking its inhabitants? What defenses can the PCs take advantage of?_
 
 **_Parley - Passive:_** On a successful Knowledge Roll, a PC knows enough pirate law to demand a parley with the Pirate Captain. Once the parley is issued, the captain pauses the combat to allow a PC to sue for peace or negotiate the terms of surrender with a Presence Roll. _Why do these pirates respect this captain enough to follow them? What do they care about more than ill-gotten booty?_
 
