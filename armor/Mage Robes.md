@@ -1,8 +1,8 @@
 # Mage Robes
-**_Tier 1_** _Armor_
+**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 
 * *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 4 / 10  
-* *Base Score:* 2
+* *[Base Score](../core_rules/Equipment.md#ARMOR):* 2
 
 ### FEATURE
 

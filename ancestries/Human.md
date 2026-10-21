@@ -6,4 +6,4 @@ Humans are most easily recognized by their dexterous hands, rounded ears, and bo
 
 ***High Stamina:*** Gain an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS) slot at character creation.
 
-***Adaptability:*** When you fail a roll that utilized one of your [Experiences](../core_rules/Character%20Creation.md#STEP%207), you can **mark a Stress** to reroll.
+***Adaptability:*** When you fail a roll that utilized one of your [Experiences](../core_rules/Character%20Creation.md#STEP%207), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to reroll.

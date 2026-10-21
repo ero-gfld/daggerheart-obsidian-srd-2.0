@@ -6,6 +6,6 @@ All aetheris have a “hallowed aura” that can manifest voluntarily, such as w
 
 **[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Hallowed Aura:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range rolls with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can change it into a roll with Hope instead.
+***Hallowed Aura:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range rolls with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can change it into a roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) instead.
 
-***Celestial Wings:*** You have wings that allow you to fly. Once per scene while flying, you can **spend a Hope** instead of marking an [Armor Slot](../core_rules/Equipment.md#ARMOR).
+***Celestial Wings:*** You have wings that allow you to fly. Once per scene while flying, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** instead of marking an [Armor Slot](../core_rules/Equipment.md#ARMOR).

@@ -1,6 +1,6 @@
 # Versatile Fighter
 
-***Level 3*** *[Blade](../domains/Blade.md) Ability.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
 
 You can use a different character trait for an equipped weapon, rather than the trait the weapon calls for.
 

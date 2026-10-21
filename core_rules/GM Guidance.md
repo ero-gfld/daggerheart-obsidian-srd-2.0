@@ -1,6 +1,6 @@
 # GM Guidance
 
-These three sections provide a foundation to help you get the most out of this game. The “GM Principles” are your guiding star—when in doubt, return to these principles.
+These three sections provide a foundation to help you get the most out of this game. The “[GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) Principles” are your guiding star—when in doubt, return to these principles.
 
 #### GM PRINCIPLES
 
@@ -10,11 +10,11 @@ These three sections provide a foundation to help you get the most out of this g
 
 **COLLABORATE AT ALL TIMES, ESPECIALLY DURING CONFLICT**
 
-*The PCs are the protagonists of the campaign; antagonism* *between player and GM should exist only in the fiction.*
+*The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) are the protagonists of the campaign; antagonism* *between player and [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) should exist only in the fiction.*
 
 **FILL THE WORLD WITH LIFE, WONDER, AND DANGER**
 
-*Showcase rich cultures, take the PCs to wondrous places, and* *introduce them to dangerous creatures.*
+*Showcase rich cultures, take the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to wondrous places, and* *introduce them to dangerous creatures.*
 
 **ASK QUESTIONS AND INCORPORATE THE ANSWERS**
 
@@ -36,7 +36,7 @@ These three sections provide a foundation to help you get the most out of this g
 
 **CULTIVATE A CURIOUS TABLE**
 
-*Follow what catches the players’ interest to foster an* *environment of creative inquiry.*
+*Follow what catches the players’ interest to foster an* *[environment](Using%20Environments.md) of creative inquiry.*
 
 **GAIN YOUR PLAYERS’ TRUST**
 
@@ -64,7 +64,7 @@ These three sections provide a foundation to help you get the most out of this g
 
 **GROUND THE WORLD IN MOTIVE**
 
-*An NPC’s actions flow from their goals and desires.*
+*An [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s actions flow from their goals and desires.*
 
 **BRING THE GAME’S MECHANICS TO LIFE**
 
@@ -82,7 +82,7 @@ These three sections provide a foundation to help you get the most out of this g
 
 **UNDERMINING THE HEROES**
 
-If a roll doesn’t go well, show how it was impacted by an adversary’s prowess, environmental factors, or unexpected surprises, rather than the PC’s incompetence.
+If a roll doesn’t go well, show how it was impacted by an [adversary](Using%20Adversaries.md)’s prowess, environmental factors, or unexpected surprises, rather than the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s incompetence.
 
 **ALWAYS TELLING THE PLAYERS WHAT TO ROLL**
 
@@ -104,30 +104,30 @@ Spend your prep time inventing situations instead of scripting scenes. If the pl
 
 Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) when you have the opportunity. The players will always generate more.
 
-*For more in-depth GM guidance, see pg. 140 of the* *Daggerheart Core Rulebook.*
+*For more in-depth [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) guidance, see pg. 140 of the* *Daggerheart Core Rulebook.*
 
 ## CORE GM MECHANICS
 
 #### ROLLING DICE
 
-The GM has no [Duality Dice](Core%20Mechanics.md#OVERVIEW); instead, they roll a single d20 called the GM’s Die.
+The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) has no [Duality Dice](Core%20Mechanics.md#OVERVIEW); instead, they roll a single d20 called the GM’s Die.
 
-**ADVERSARY [ATTACK ROLLS](Core%20Mechanics.md#ATTACKING)**
+**[ADVERSARY](Using%20Adversaries.md) [ATTACK ROLLS](Core%20Mechanics.md#ATTACKING)**
 
-When an adversary attacks a PC, roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s [Evasion](Core%20Mechanics.md#EVASION), the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
+When an [adversary](Using%20Adversaries.md) attacks a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s [Evasion](Core%20Mechanics.md#EVASION), the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
 
-If you roll a natural 20 on an attack, your roll automatically succeeds and you deal extra damage. Roll damage normally, then add the highest number on the damage dice to the total. For example, an attack that deals 3d6+2 deals 18+3d6+2 on a critical success; the critical success does not affect the flat damage modifier.
+If you roll a natural 20 on an attack, your roll automatically succeeds and you deal extra damage. Roll damage normally, then add the highest number on the damage dice to the total. For example, an attack that deals 3d6+2 deals 18+3d6+2 on a [critical success](Core%20Mechanics.md#OVERVIEW); the critical success does not affect the flat damage modifier.
 
-***Note:*** *a critical success on an adversary’s [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS)* *automatically succeeds, but confers no additional benefit.*
+***Note:*** *a [critical success](Core%20Mechanics.md#OVERVIEW) on an [adversary](Using%20Adversaries.md)’s [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS)* *automatically succeeds, but confers no additional benefit.*
 
 **GUIDANCE ON [ACTION ROLLS](Core%20Mechanics.md#ACTION%20ROLLS)**
 
-After a player describes a move they want to make during the game, you might decide an action roll is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
+After a player describes a move they want to make during the game, you might decide an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
 
-- Determine whether the roll is necessary, considering the PC’s [Experiences](Character%20Creation.md#STEP%207) or backstory, the pressure they’re acting under, and the possible outcomes.
+- Determine whether the roll is necessary, considering the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s [Experiences](Character%20Creation.md#STEP%207) or backstory, the pressure they’re acting under, and the possible outcomes.
 
-- Establish the stakes of an action roll before the player makes it.
+- Establish the stakes of an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) before the player makes it.
 
 - Communicate any unavoidable consequences.
 
-- If desired, you can offer the player the opportunity to forgo an action roll in exchange for agreeing to an interesting outcome, cost, or complication.
+- If desired, you can offer the player the opportunity to forgo an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) in exchange for agreeing to an interesting outcome, cost, or complication.

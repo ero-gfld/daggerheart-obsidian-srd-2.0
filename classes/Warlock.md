@@ -12,19 +12,19 @@ Those who’ve traded their lives—or perhaps even their souls—to an otherwor
 
 **WARLOCK’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Patron’s Boon:*** When you fail a roll, you can **spend 3 Hope** to reroll with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Patron’s Boon:*** When you fail a roll, you can **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Patron’s Pact:*** You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your GM to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) that relates to your patron’s sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5.
+***Patron’s Pact:*** You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) that relates to your patron’s sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5.
 
-***Favor:*** You start with 3 Favor. You can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to show tribute to your patron. Describe how and gain Favor equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. Additionally, when you succeed on an action roll with Hope, you can choose to gain a Favor instead of a Hope.
+***Favor:*** You start with 3 Favor. You can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to show tribute to your patron. Describe how and gain Favor equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. Additionally, when you succeed on an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can choose to gain a Favor instead of a Hope.
 
 ***Note:*** *The maximum Favor you can hold at one time is 6.*
 
 **SPHERE OF INFLUENCE EXAMPLES**
 
-When building a warlock, choose their patron’s sphere of influence from the list below or work with the GM to make your own.
+When building a warlock, choose their patron’s sphere of influence from the list below or work with the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to make your own.
 
 |  |  |  |
 | --- | --- | --- |

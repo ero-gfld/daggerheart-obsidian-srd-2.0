@@ -16,7 +16,7 @@ Play the Winged Sentinel if you want to take flight and strike crushing blows fr
 
 **SPECIALIZATION FEATURE**
 
-***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on Presence Rolls. When you succeed with Hope on a Presence Roll, you can remove a Fear from the GM’s Fear pool instead of gaining Hope.
+***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Presence](../core_rules/Character%20Creation.md#STEP%203) Rolls. When you succeed with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on a Presence Roll, you can remove a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) from the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s Fear pool instead of gaining Hope.
 
 **MASTERY FEATURES**
 

@@ -19,7 +19,7 @@ Here are some ways you might describe complications you encounter when your char
 GMs should avoid breaking a character's wheelchair or otherwise removing it from play as a consequence, unless everyone at the table, especially the wheelchair user’s player, gives their approval.
 
 ## Evasion
-Your character is assumed to be skilled in moving their wheelchair and navigating numerous situations in it. As a result, the only wheelchair that gives a penalty to a PC's [Evasion](../core_rules/Core%20Mechanics.md#EVASION) is the Heavy Frame model.
+Your character is assumed to be skilled in moving their wheelchair and navigating numerous situations in it. As a result, the only wheelchair that gives a penalty to a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)'s [Evasion](../core_rules/Core%20Mechanics.md#EVASION) is the Heavy Frame model.
 
 ## Burden
 All wheelchairs can be maneuvered using one or two hands outside of combat. However, when being used as a weapon, the chair is restricted to requiring one or two hands to perform attacks, depending on the model you’ve chosen. If you’re playing a character who has limited to no mobility in their arms, their wheelchair can be attuned to them by magical means. For example, your character might use a psychic link to guide the chair around like a pseudo-electric wheelchair. All the rules presented here can be tailored and adapted to any character's needs.
@@ -34,7 +34,7 @@ Though tough, these wheelchairs have light frames that allow the chair to move w
 
 | Name | Tier | Trait | Range | Damage | [Burden](../core_rules/Equipment.md#WEAPONS) | Feature |
 | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Light-Frame Wheelchair** | 1 | [Agility](../core_rules/Character%20Creation.md#STEP%203) | [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 phy | One-Handed | **Quick:** When you make an attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to target another creature within range. |
+| **Light-Frame Wheelchair** | 1 | [Agility](../core_rules/Character%20Creation.md#STEP%203) | [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 phy | [One-Handed](../core_rules/Equipment.md#WEAPONS) | **Quick:** When you make an attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to target another creature within range. |
 | **Improved Light-Frame Wheelchair** | 2 | Agility | Melee | d8+3 phy | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range. |
 | **Advanced Light-Frame Wheelchair** | 3 | Agility | Melee | d8+6 phy | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range. |
 | **Legendary Light-Frame Wheelchair** | 4 | Agility | Melee | d8+9 phy | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range. |
@@ -46,7 +46,7 @@ These wheelchairs have bulky and heavier frames, allowing the chair to lend its 
 
 | Name | Tier | Trait | Range | Damage | [Burden](../core_rules/Equipment.md#WEAPONS) | Feature |
 | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Heavy-Frame Wheelchair** | 1 | [Strength](../core_rules/Character%20Creation.md#STEP%203) | [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d12+3 phy | Two-Handed | **Heavy:** -1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION) |
+| **Heavy-Frame Wheelchair** | 1 | [Strength](../core_rules/Character%20Creation.md#STEP%203) | [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d12+3 phy | [Two-Handed](../core_rules/Equipment.md#WEAPONS) | **Heavy:** -1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION) |
 | **Improved Heavy-Frame Wheelchair** | 2 | Strength | Melee | d12+6 phy | Two-Handed | **Heavy:** -1 to Evasion |
 | **Advanced Heavy-Frame Wheelchair** | 3 | Strength | Melee | d12+9 phy | Two-Handed | **Heavy:** -1 to Evasion |
 | **Legendary Heavy-Frame Wheelchair** | 4 | Strength | Melee | d12+12 phy | Two-Handed | **Heavy:** -1 to Evasion |
@@ -58,7 +58,7 @@ These wheelchairs have frames that are attuned to your character and their magic
 
 | Name | Tier | Trait | Range | Damage | [Burden](../core_rules/Equipment.md#WEAPONS) | Feature |
 | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Arcane-Frame Wheelchair** | 1 | Spellcast | [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6 mag | One-Handed | **Reliable:** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) |
+| **Arcane-Frame Wheelchair** | 1 | [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) | [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6 mag | [One-Handed](../core_rules/Equipment.md#WEAPONS) | **Reliable:** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) |
 | **Improved Arcane-Frame Wheelchair** | 2 | Spellcast | Far | d6+3 mag | One-Handed | **Reliable:** +1 to attack rolls |
 | **Advanced Arcane-Frame Wheelchair** | 3 | Spellcast | Far | d6+6 mag | One-Handed | **Reliable:** +1 to attack rolls |
 | **Legendary Arcane-Frame Wheelchair** | 4 | Spellcast | Far | d6+9 mag | One-Handed | **Reliable:** +1 to attack rolls |

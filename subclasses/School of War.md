@@ -10,19 +10,19 @@ Play the School of War if you want to utilize trained magic for violence.
 
 ***Battlemage:*** You’ve focused your studies on becoming an unconquerable force on the battlefield. Gain an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) slot.
 
-***Face Your Fear:*** When you succeed with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), you deal an extra **1d10** magic damage.
+***Face Your Fear:*** When you succeed with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), you deal an extra **1d10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 **SPECIALIZATION FEATURES**
 
-***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 Hope, you add your Proficiency to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
+***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you add your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
 
-***Fueled by Fear:*** The extra magic damage from your “Face Your Fear” feature increases to **2d10**.
+***Fueled by Fear:*** The extra [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) from your “Face Your [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)” feature increases to **2d10**.
 
 **MASTERY FEATURES**
 
-***Thrive in Chaos:*** When you succeed on an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** after rolling damage to force the target to mark an additional Hit Point.
+***Thrive in Chaos:*** When you succeed on an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** after rolling damage to force the target to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
-***Have No Fear:*** The extra magic damage from your “Face Your Fear” feature increases to **3d10.**
+***Have No Fear:*** The extra [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) from your “Face Your [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)” feature increases to **3d10.**
 
 **BACKGROUND QUESTIONS**
 

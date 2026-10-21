@@ -12,15 +12,15 @@ Experts in unarmed combat, brawlers hone their bodies into lethal weapons. Wheth
 
 **BRAWLER’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Square Up:*** **Spend 3 Hope** to intimidate a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***Square Up:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to intimidate a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
-***I Am the Weapon:*** Your barehanded attacks are as strong as any blade. You have a [primary weapon](../core_rules/Equipment.md#WEAPONS) called Brawler’s Strike equipped while you have no other Active Weapons. It uses a trait of your choice, has Melee range, and deals **d8+d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your Proficiency (both the d8 and d6 scale off your Proficiency). While this weapon is active, you gain a +1 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
+***I Am the Weapon:*** Your barehanded attacks are as strong as any blade. You have a [primary weapon](../core_rules/Equipment.md#WEAPONS) called Brawler’s Strike equipped while you have no other Active Weapons. It uses a trait of your choice, has [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, and deals **d8+d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) (both the d8 and d6 scale off your Proficiency). While this weapon is active, you gain a +1 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
 
-***Combo Strike:*** After rolling damage on a successful attack with a Melee weapon, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to start a combo strike. When you do, roll your Combo Die and note the result, then continue rolling your Combo Die until the result of your latest roll is lower than the roll that preceded it. You deal extra damage equal to the total of all rolled Combo Die results on this attack. The results can’t be modified by any means.
+***Combo Strike:*** After rolling damage on a successful attack with a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) weapon, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to start a combo strike. When you do, roll your Combo Die and note the result, then continue rolling your Combo Die until the result of your latest roll is lower than the roll that preceded it. You deal extra damage equal to the total of all rolled Combo Die results on this attack. The results can’t be modified by any means.
 
-Your Combo Die starts as a **d4**. Once per tier, you can increase your Combo Die by one step as a level [advancement](../core_rules/Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS) option.
+Your Combo Die starts as a **d4**. Once per [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP), you can increase your Combo Die by one step as a level [advancement](../core_rules/Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS) option.
 
 ### SUBCLASSES
 
@@ -52,9 +52,9 @@ When you choose the [Martial Artist](../subclasses/Martial%20Artist.md) subclass
 
 **STANCES**
 
-Stances are special body positionings that enable Martial Artists to attack, react, or defend in combat. Each stance grants your character a different ability, bonus, or feature while active.
+Stances are special body positionings that enable [Martial Artists](../subclasses/Martial%20Artist.md) to attack, react, or defend in combat. Each stance grants your character a different ability, bonus, or feature while active.
 
-You choose two stances from Tier 1 when you first take the Martial Artist’s subclass foundation card. Mark the circle next to each to indicate that your character knows and has access to them. Mark a new stance from your tier or below each time you gain a level.
+You choose two stances from [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) when you first take the [Martial Artist](../subclasses/Martial%20Artist.md)’s subclass foundation card. Mark the circle next to each to indicate that your character knows and has access to them. Mark a new stance from your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or below each time you gain a level.
 
 **FOCUS**
 
@@ -68,11 +68,11 @@ You can’t shift into or have more than one active stance at a time. Until you 
 
 **DROPPING OUT OF STANCES**
 
-If you are already in a stance when you shift into a different stance, you automatically drop out of the previously active stance. You also drop out of your active stance when you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or mark your last Hit Point. Otherwise, you drop out of your active stance at the end of the scene. When you drop out of a stance, you lose any ongoing benefits it provides.
+If you are already in a stance when you shift into a different stance, you automatically drop out of the previously active stance. You also drop out of your active stance when you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or mark your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). Otherwise, you drop out of your active stance at the end of the scene. When you drop out of a stance, you lose any ongoing benefits it provides.
 
 **STANCE FEATURES**
 
-The following section lists all martial stances by tier.
+The following section lists all martial stances by [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP).
 
 ##### TIER 1
 
@@ -82,7 +82,7 @@ The following section lists all martial stances by tier.
 
 ***Quick:*** When you make an attack, you can **spend a Focus** or **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to target another creature within range with that attack.
 
-***Reliable:*** Gain a +1 bonus to your attack rolls.
+***Reliable:*** Gain a +1 bonus to your [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 ##### TIER 2
 
@@ -92,24 +92,24 @@ The following section lists all martial stances by tier.
 
 ***Defensive:*** [Attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) targeting you from within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) unless the attacker marks a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to negate the disadvantage.
 
-***Otherworldly:*** On a successful attack, you can deal physical or magic damage.
+***Otherworldly:*** On a successful attack, you can deal physical or [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 ##### TIER 3
 
-***Grappling:*** On a successful attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a Focus** or **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *Restrain* the target or throw the target up to Close range.
+***Grappling:*** On a successful attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a Focus** or **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target or throw the target up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
-***Scary:*** On a successful attack, the target must mark a Stress.
+***Scary:*** On a successful attack, the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
 ***Stable:*** You can **spend a Focus** instead of an [Armor Slot](../core_rules/Equipment.md#ARMOR) to reduce damage.
 
-***Vigilant:*** When you are targeted by an attack, you can **mark a Stress** to gain a **d6** bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against the attack.
+***Vigilant:*** When you are targeted by an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain a **d6** bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against the attack.
 
 ##### TIER 4
 
-***Crushing:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force the target to mark an additional Hit Point.
+***Crushing:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force the target to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 ***Exacting:*** When you roll a 1 on a damage die, you can treat it as the highest value on the die instead.
 
-***Honed:*** **Spend a Focus** before you make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) to gain a +1 bonus to your Proficiency for that attack.
+***Honed:*** **Spend a Focus** before you make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for that attack.
 
-***Isolating:*** Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attack rolls when there are no other creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of you or your target.
+***Isolating:*** Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) when there are no other creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of you or your target.

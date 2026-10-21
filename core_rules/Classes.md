@@ -1,10 +1,10 @@
 # Classes
 
-A **class** is a role-based archetype that determines a PC’s:
+A **class** is a role-based archetype that determines a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s:
 
 - **Access to Domains:** Each class grants access to two domains; players choose cards from these domains during character creation and when [leveling up](Core%20Mechanics.md#LEVELING%20UP).
 
-- **Starting [Evasion](Core%20Mechanics.md#EVASION) and [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) (HP)**
+- **Starting [Evasion](Core%20Mechanics.md#EVASION) and [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) ([HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))**
 
 - **Starting Items**
 
@@ -18,7 +18,7 @@ Please note that the Daggerheart Core Set includes only the following nine class
 
 Each class is divided into two **subclasses,** each of which further defines and highlights one aspect of its class archetype. Your chosen subclass can grant the following:
 
-- [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) Trait: This is the trait used on all Spellcast rolls.
+- [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) Trait: This is the trait used on all [Spellcast rolls](Core%20Mechanics.md#SPECIAL%20ROLLS).
 
 - Foundation Feature: This is a unique starting feature that establishes the identity and strengths of the subclass. You gain your chosen subclass's Foundation at character creation.
 

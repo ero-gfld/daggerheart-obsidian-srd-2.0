@@ -12,7 +12,7 @@ The title of guardian represents an array of martial professions, speaking more 
 
 **GUARDIAN’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Frontline Tank:*** **Spend 3 Hope** to clear 2 [Armor Slots](../core_rules/Equipment.md#ARMOR).
+***Frontline Tank:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear 2 [Armor Slots](../core_rules/Equipment.md#ARMOR).
 
 **[CLASS FEATURE](../core_rules/Classes.md)**
 
@@ -20,11 +20,11 @@ The title of guardian represents an array of martial professions, speaking more 
 
 While *Unstoppable*, you gain the following benefits:
 
-- You reduce the severity of physical damage by one threshold (Severe to Major, Major to Minor, Minor to None).
+- You reduce the severity of [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) by one threshold (Severe to Major, Major to Minor, Minor to None).
 
-- You add the current value of the Unstoppable Die to your damage roll.
+- You add the current value of the Unstoppable Die to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-- You can’t be *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* or *Vulnerable*.
+- You can’t be *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* or *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
 
 ***Tip:*** *If your Unstoppable Die is a d4 and the 4 is* *currently facing up, you remove the die the next time* *you would increase it. However, if your Unstoppable Die* *has increased to a d6 and the 4 is currently facing up,* *you’ll turn it to 5 the next time you would increase it. In* *this case, you’ll remove the die after you would need to* *increase it higher than 6.*
 

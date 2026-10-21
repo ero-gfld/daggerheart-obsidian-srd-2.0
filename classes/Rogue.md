@@ -12,27 +12,27 @@ Rogues are scoundrels, often in both attitude and practice. Broadly known as lia
 
 **ROGUE’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Rogue’s Dodge:*** **Spend 3 Hope** to gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
+***Rogue’s Dodge:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Cloaked:*** Any time you would be *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS),* you are instead *Cloaked.* In addition to the benefits of the *Hidden* condition, while *Cloaked* you remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) of an adversary, you are no longer *Cloaked*.
+***Cloaked:*** Any time you would be *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS),* you are instead *Cloaked.* In addition to the benefits of the *Hidden* condition, while *Cloaked* you remain unseen if you are stationary when an [adversary](../core_rules/Using%20Adversaries.md) moves to where they would normally see you. After you make an attack or end a move within [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) of an adversary, you are no longer *Cloaked*.
 
-***Sneak Attack:*** When you succeed on an attack while *Cloaked* or while an ally is within Melee range of your target, add a number of **d6s** equal to your tier to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Sneak Attack:*** When you succeed on an attack while *Cloaked* or while an ally is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of your target, add a number of **d6s** equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-- Level 1 → Tier 1
+- Level 1 → [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
 
-- Levels 2–4 → Tier 2
+- Levels 2–4 → [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
 
-- Levels 5–7 → Tier 3
+- Levels 5–7 → [Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
 
-- Levels 8–10 → Tier 4
+- Levels 8–10 → [Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
 
 ### SUBCLASSES
 
 *Choose either the* ***[Nightwalker](../subclasses/Nightwalker.md)*** *or* ***[Syndicate](../subclasses/Syndicate.md)*** *subclass.*
 
-***Well-Connected:*** When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
+***Well-Connected:*** When you arrive in a prominent town or [environment](../core_rules/Using%20Environments.md), you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
 
 ***Contacts Everywhere:*** Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:
 

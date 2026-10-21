@@ -8,4 +8,4 @@ Infant emberkin resemble small balls of fire or cinders, and because they lack t
 
 ***Fireproof:*** You are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to damage from magical or mundane flame.
 
-***Ignition:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to wreathe your [primary weapon](../core_rules/Equipment.md#WEAPONS) in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to damage rolls with that weapon.
+***Ignition:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to wreathe your [primary weapon](../core_rules/Equipment.md#WEAPONS) in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.

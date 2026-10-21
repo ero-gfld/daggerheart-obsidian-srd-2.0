@@ -6,4 +6,4 @@ Being part of a duneborne community means you’ve made a home among the shiftin
 
 **[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Oasis:*** During a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you or an ally can reroll a die used for a downtime move and take the higher result.
+***Oasis:*** During a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you or an ally can reroll a die used for a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) and take the higher result.

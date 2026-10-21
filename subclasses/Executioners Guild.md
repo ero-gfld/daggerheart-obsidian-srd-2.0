@@ -14,7 +14,7 @@ Play the Executioners Guild if you want to strike down your targets with lethal 
 
 **SPECIALIZATION FEATURES**
 
-***Death Strike:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to a creature, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark an additional Hit Point.
+***Death Strike:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to a creature, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 ***Scorpion’s Poise:*** You gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against attacks made by a creature you’ve *Marked for* *Death*.
 

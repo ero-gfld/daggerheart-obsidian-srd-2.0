@@ -6,4 +6,4 @@ Being part of a ridgeborne community means you’ve called the rocky peaks and s
 
 **[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Steady:*** You have advantage on rolls to traverse dangerous cliffs and ledges, navigate harsh environments, and use your survival knowledge.
+***Steady:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to traverse dangerous cliffs and ledges, navigate harsh [environments](../core_rules/Using%20Environments.md), and use your survival knowledge.

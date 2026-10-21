@@ -6,7 +6,7 @@ At first glance, many vampires are indistinguishable from typical members of the
 
 **TRANSFORMATION FEATURES**
 
-***Fangs:*** Make an attack using a trait of your choice to bite a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your Proficiency.
+***Fangs:*** Make an attack using a trait of your choice to bite a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 ***Feed:*** On a successful “Fangs” attack against a creature that can bleed, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to feed. Place a number of tokens on this card equal to the number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) the target marks. You can hold up to 6 tokens at a time. Before you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can spend a token to make your [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) a **d20**. When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), remove a token. While there are no tokens on this card, you make action and [reaction rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 

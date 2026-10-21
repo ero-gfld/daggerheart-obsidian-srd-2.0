@@ -1,8 +1,8 @@
 # Legendary Mage Robes
-**_Tier 4_** _Armor_
+**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 
 * *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 10 / 31  
-* *Base Score:* 5
+* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
 
 ### FEATURE
 

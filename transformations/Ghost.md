@@ -8,9 +8,9 @@ Some ghosts return for revenge, some to save a loved one, and others to meet a g
 
 **TRANSFORMATION FEATURES**
 
-***Unfinished Business:*** Work with your GM to decide what purpose or desire keeps you bound to the Mortal Realm. When you fulfill it, you cross through the veil of death.
+***Unfinished Business:*** Work with your [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to decide what purpose or desire keeps you bound to the Mortal Realm. When you fulfill it, you cross through the veil of death.
 
-***Ephemeral:*** Your body wavers in and out of being corporeal. You are resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), take double magic damage, and can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to momentarily pass through a solid object.
+***Ephemeral:*** Your body wavers in and out of being corporeal. You are resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), take double [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), and can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to momentarily pass through a solid object.
 
 **TRANSFORMATION QUESTIONS**
 

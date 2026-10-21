@@ -1,11 +1,11 @@
 # Swarm of Rats
 
-***Tier 1 [Horde](../core_rules/Using%20Adversaries.md) (10/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
+***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (10/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
 *A skittering mass of ordinary rodents moving as one like a ravenous wave.*
 
 **Motives & Tactics:** Consume, obscure, swarm
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **Thresholds:** 6/10 | **HP:** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/10 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
 > **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −3 | **Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+2 phy
 
 ## FEATURES

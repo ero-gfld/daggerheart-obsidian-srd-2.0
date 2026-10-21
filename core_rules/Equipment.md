@@ -1,8 +1,8 @@
 # Equipment
 
-Your **equipped** weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can’t equip weapons or armor with a higher tier than you.
+Your **equipped** weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can’t equip weapons or armor with a higher [tier](Core%20Mechanics.md#LEVELING%20UP) than you.
 
-PCs can carry up to two additional weapons in the “Inventory Weapon” areas of the character sheet.
+[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can carry up to two additional weapons in the “Inventory Weapon” areas of the character sheet.
 
 You can swap an Inventory Weapon with an Active Weapon at no cost during a rest or moment of calm; otherwise, you must mark a [Stress](Core%20Mechanics.md#STRESS) to do so.
 
@@ -10,7 +10,7 @@ Your character can only have one Active Armor at a time. They can’t equip armo
 
 ## WEAPONS
 
-All weapons have a tier, trait, range, damage die, damage type, and burden. Some weapons also have a feature.
+All weapons have a [tier](Core%20Mechanics.md#LEVELING%20UP), trait, range, damage die, damage type, and burden. Some weapons also have a feature.
 
 **CATEGORY**
 
@@ -26,11 +26,11 @@ A weapon’s **range** specifies the maximum distance between the attacker and t
 
 **DAMAGE**
 
-A weapon’s **damage** indicates the size of the damage dice you roll on a successful attack with it; you roll a number of dice equal to your Proficiency. If the damage includes a flat modifier, this number is added to the total damage rolled, but is not altered or affected by Proficiency.
+A weapon’s **damage** indicates the size of the damage dice you roll on a successful attack with it; you roll a number of dice equal to your [Proficiency](Core%20Mechanics.md#ATTACKING). If the damage includes a flat modifier, this number is added to the total damage rolled, but is not altered or affected by Proficiency.
 
 **DAMAGE TYPE**
 
-A weapon’s **damage type** indicates whether it deals physical or magic damage. Weapons that deal magic damage can only be wielded by characters with a [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+A weapon’s **damage type** indicates whether it deals physical or [magic damage](Core%20Mechanics.md#ATTACKING). Weapons that deal magic damage can only be wielded by characters with a [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
 
 **BURDEN**
 
@@ -40,27 +40,27 @@ A weapon’s **burden** indicates how many **hands** it occupies when equipped. 
 
 A weapon’s **feature** is a special rule that stays in effect while the weapon is equipped.
 
-You can throw an equipped weapon at a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making the attack roll with [Finesse](Character%20Creation.md#STEP%203). On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can’t attack with it or benefit from its features.
+You can throw an equipped weapon at a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making the [attack roll](Core%20Mechanics.md#ATTACKING) with [Finesse](Character%20Creation.md#STEP%203). On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can’t attack with it or benefit from its features.
 
 ### PRIMARY WEAPON TABLES
 
-*Players can choose one Tier 1 [primary weapon](Equipment.md#WEAPONS) during character creation. The GM can make* *other weapons available throughout the campaign as the PCs [level up](Core%20Mechanics.md#LEVELING%20UP).*
+*Players can choose one [Tier 1](Core%20Mechanics.md#LEVELING%20UP) [primary weapon](Equipment.md#WEAPONS) during character creation. The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can make* *other weapons available throughout the campaign as the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [level up](Core%20Mechanics.md#LEVELING%20UP).*
 
 ### SECONDARY WEAPON TABLES
 
-*Players can choose one Tier 1 [secondary weapon](Equipment.md#WEAPONS) during character creation. The GM can make* *other weapons available throughout the campaign as the PCs [level up](Core%20Mechanics.md#LEVELING%20UP).*
+*Players can choose one [Tier 1](Core%20Mechanics.md#LEVELING%20UP) [secondary weapon](Equipment.md#WEAPONS) during character creation. The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can make* *other weapons available throughout the campaign as the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [level up](Core%20Mechanics.md#LEVELING%20UP).*
 
 ## ARMOR
 
 Every armor has a name, base [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), and a base Armor Score. Some armor also has a feature.
 
-- An armor’s **base armor score** indicates how many Armor Slots it provides its wearer before additional bonuses are added to calculate their total Armor Score. A PC’s Armor Score can’t exceed 12.
+- An armor’s **base armor score** indicates how many Armor Slots it provides its wearer before additional bonuses are added to calculate their total Armor Score. A [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s Armor Score can’t exceed 12.
 
-- An armor’s **base thresholds** determine its wearer’s Major and Severe damage thresholds before adding bonuses to calculate their final damage thresholds. When recording your character’s damage thresholds in the “Damage & Health” section of your character sheet, you always add your character’s level to those values.
+- An armor’s **base thresholds** determine its wearer’s Major and [Severe damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) thresholds before adding bonuses to calculate their final [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). When recording your character’s damage thresholds in the “Damage & Health” section of your character sheet, you always add your character’s level to those values.
 
 - An armor’s **feature** is a special rule that stays in effect while the armor is equipped.
 
-While **unarmored,** your character’s base Armor Score is 0, their Major threshold is equal to their level, and their Severe threshold is equal to twice their level.
+While **unarmored,** your character’s base Armor Score is 0, their [Major threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) is equal to their level, and their [Severe threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) is equal to twice their level.
 
 **REDUCING INCOMING DAMAGE**
 
@@ -80,13 +80,13 @@ You can use the tables below to generate items ahead of a game or during a sessi
 
 - **Uncommon (2d12 or 3d12):** Uncommon items might be found in limited supply in a shop, kept in a protected place in a camp, or offered as part of a reward for a job.
 
-- **Rare (3d12 or 4d12):** Rare items might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered among a powerful NPC’s possessions.
+- **Rare (3d12 or 4d12):** Rare items might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered among a powerful [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s possessions.
 
-- **Legendary (4d12 or 5d12):** Legendary items might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful adversary’s most precious and guarded treasure.
+- **Legendary (4d12 or 5d12):** Legendary items might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful [adversary](Using%20Adversaries.md)’s most precious and guarded treasure.
 
 ### CONSUMABLES
 
-Consumables are pieces of loot that can be used only once. You can hold up to five of each consumable at a time. Using a consumable doesn’t require a roll unless required by the GM or the demands of the fiction.
+Consumables are pieces of loot that can be used only once. You can hold up to five of each consumable at a time. Using a consumable doesn’t require a roll unless required by the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) or the demands of the fiction.
 
 You can use the tables below to generate items ahead of a game or during a session. Choose the desired rarity, roll the associated number of d12s, add their values together (if needed), and then reference the table for the item that matches that value.
 
@@ -94,9 +94,9 @@ You can use the tables below to generate items ahead of a game or during a sessi
 
 - **Uncommon (2d12 or 3d12):** Uncommon consumables might be found in limited supply in a shop, kept in a protected place in a camp, or offered as part of a reward for a job.
 
-- **Rare (3d12 or 4d12):** Rare consumables might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered in a powerful NPC’s possessions.
+- **Rare (3d12 or 4d12):** Rare consumables might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered in a powerful [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s possessions.
 
-- **Legendary (4d12 or 5d12):** Legendary consumables might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful adversary’s most precious and guarded treasure.
+- **Legendary (4d12 or 5d12):** Legendary consumables might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful [adversary](Using%20Adversaries.md)’s most precious and guarded treasure.
 
 ## GOLD
 

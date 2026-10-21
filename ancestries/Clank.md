@@ -8,4 +8,4 @@ Many clanks embrace body modifications for style as well as function, and member
 
 ***Purposeful Design:*** Decide who made you and for what purpose. At character creation, choose one of your [Experiences](../core_rules/Character%20Creation.md#STEP%207) that best aligns with this purpose and gain a permanent +1 bonus to it.
 
-***Efficient:*** When you take a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can choose a long rest move instead of a short rest move.
+***Efficient:*** When you take a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can choose a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) move instead of a short rest move.

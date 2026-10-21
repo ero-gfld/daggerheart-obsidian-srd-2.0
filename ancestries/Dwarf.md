@@ -4,6 +4,6 @@ Dwarves are most easily recognized as short humanoids with square frames, dense 
 
 **[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Thick Skin:*** When you take [Minor damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of marking a Hit Point.
+***Thick Skin:*** When you take [Minor damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of marking a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 ***Increased Fortitude:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to halve incoming [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).

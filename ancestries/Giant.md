@@ -6,4 +6,4 @@ Giants are towering humanoids with broad shoulders, long arms, and one to three 
 
 ***Endurance:*** Gain an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) slot at character creation.
 
-***Reach:*** Treat any weapon, ability, spell, or other feature that has a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range as though it has a Very Close range instead.
+***Reach:*** Treat any weapon, ability, spell, or other feature that has a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range as though it has a [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead.

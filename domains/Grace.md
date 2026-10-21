@@ -1,6 +1,6 @@
 # Grace
 
-Grace is the domain of **charisma.** Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their adversaries, bending perception to their will. Grace offers its wielders raw magnetism and mastery over language. The Grace domain can be accessed by the **[Bard](../classes/Bard.md)**, **[Rogue](../classes/Rogue.md)**, and **[Warlock](../classes/Warlock.md)** classes
+Grace is the domain of **charisma.** Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their [adversaries](../core_rules/Using%20Adversaries.md), bending perception to their will. Grace offers its wielders raw magnetism and mastery over language. The Grace domain can be accessed by the **[Bard](../classes/Bard.md)**, **[Rogue](../classes/Rogue.md)**, and **[Warlock](../classes/Warlock.md)** classes
 
 ### DOMAIN CARDS
 

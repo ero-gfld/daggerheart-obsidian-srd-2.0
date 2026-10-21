@@ -12,7 +12,7 @@ Play the Poisoners Guild if you want to debilitate your targets with punishing a
 
 - ***Ghost Petal:*** The target becomes temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
 
-- ***Grave Spore:*** The target must also mark a Stress.
+- ***Grave Spore:*** The target must also mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
 - ***Leech Weed:*** You deal an extra **1d6** damage on this attack.
 
@@ -22,9 +22,9 @@ When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), clear a
 
 ***Poison Compendium:*** You also know these poisons:
 
-- ***Midnight Vine:*** The target has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until it marks a Stress to clear this condition.
+- ***Midnight Vine:*** The target has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until it marks a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to clear this condition.
 
-- ***Gorgon Root:*** The target becomes temporarily *Restrained*.
+- ***Gorgon Root:*** The target becomes temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
 
 ***Twin Fang:*** When you afflict a target *Marked for Death* with a poison you know, you can spend an additional token to also inflict the effect of a second poison you know.
 
@@ -36,9 +36,9 @@ When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), clear a
 
 - ***Fear Leaf:*** You deal extra damage equal to the result of your [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) on this attack.
 
-- ***Corpse Thorn:*** The target gains disadvantage on reaction rolls until the end of the scene.
+- ***Corpse Thorn:*** The target gains [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [reaction rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) until the end of the scene.
 
-***Adder’s Blessing:*** You are immune to poisons and other toxins.
+***Adder’s Blessing:*** You are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to poisons and other toxins.
 
 **BACKGROUND QUESTIONS**
 

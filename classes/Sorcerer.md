@@ -12,19 +12,19 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 
 **SORCERER’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Volatile Magic:*** **Spend 3 Hope** to reroll any number of your damage dice on an attack that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Volatile Magic:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll any number of your damage dice on an attack that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
 ***Arcane Sense:*** You can sense the presence of magical people and objects within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
-***Minor Illusion:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10).** On a success, you create a minor visual illusion no larger than yourself within Close range. This illusion is convincing to anyone at Close range or farther.
+***Minor Illusion:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10).** On a success, you create a minor visual illusion no larger than yourself within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. This illusion is convincing to anyone at Close range or farther.
 
-***Channel Raw Power:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can place a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) from your loadout into your vault and choose to either:
+***Channel Raw Power:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can place a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) from your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) into your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) and choose to either:
 
-- Gain Hope equal to the level of the card.
+- Gain [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to the level of the card.
 
-- Enhance a spell that deals damage, gaining a bonus to your damage roll equal to twice the level of the card.
+- Enhance a spell that deals damage, gaining a bonus to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to twice the level of the card.
 
 ### SUBCLASSES
 

@@ -1,6 +1,6 @@
 # Force of Nature
 
-***Level 10*** *[Sage](../domains/Sage.md) Spell.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
 
 **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to transform into a hulking nature spirit, gaining the following benefits:
 

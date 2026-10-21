@@ -8,7 +8,7 @@ Many stories of the reanimated describe them as possessing increased durability 
 
 ***Corpse:*** During a rest, you can clear [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) only if you have access to remains from a recently deceased creature. Describe how you use these materials to maintain your corpse.
 
-***Won’t Stay Dead:*** When you choose the [Risk It All](../core_rules/Core%20Mechanics.md#DEATH) death move and fail, you can **permanently mark a Hit Point** to succeed instead. When you do, you still use the [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW)’s value to clear Hit Points and [Stress](../core_rules/Core%20Mechanics.md#STRESS). When you permanently mark your last Hit Point, you pass through the veil of death.
+***Won’t Stay Dead:*** When you choose the [Risk It All](../core_rules/Core%20Mechanics.md#DEATH) [death move](../core_rules/Core%20Mechanics.md#DEATH) and fail, you can **permanently mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)** to succeed instead. When you do, you still use the [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW)’s value to clear Hit Points and [Stress](../core_rules/Core%20Mechanics.md#STRESS). When you permanently mark your last Hit Point, you pass through the veil of death.
 
 **TRANSFORMATION QUESTIONS**
 

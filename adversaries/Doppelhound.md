@@ -1,11 +1,11 @@
 # Doppelhound
 
-***Tier 2 [Skulk](../core_rules/Using%20Adversaries.md)***
+***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
 *A vicious magical canid that has glowing eyes and two barbed, whiplike tails. It confuses enemies by conjuring an illusory duplicate of itself.*
 
 **Motives & Tactics:** Ambush prey, kill for sport, play with food, trick and deceive
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/17 | **HP:** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/17 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
 > **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Barbed Tail Whip:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+2 phy
 
 **[Experience](../core_rules/Character%20Creation.md#STEP%207):** Shadows +3

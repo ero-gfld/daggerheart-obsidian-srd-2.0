@@ -1,6 +1,6 @@
 # Using Environments
 
-*Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and* *natural forces.*
+*Environments represent everything in a scene beyond the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and [adversaries](Using%20Adversaries.md), such as the physical space, background [NPCs](Making%20Moves.md#RUNNING%20GM%20NPCS), and* *natural forces.*
 
 #### ENVIRONMENT STAT BLOCK
 
@@ -12,7 +12,7 @@ The unique name of the environment stat block.
 
 **TIER**
 
-The PC tier the environment is designed to challenge.
+The [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [tier](Core%20Mechanics.md#LEVELING%20UP) the environment is designed to challenge.
 
 **TYPE**
 
@@ -36,11 +36,11 @@ The manner or mode with which the environment pushs and pulls the people within 
 
 **DIFFICULTY**
 
-The standard [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) for action rolls made to overcome, oppose, or resist the environment or its elements.
+The standard [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) for [action rolls](Core%20Mechanics.md#ACTION%20ROLLS) made to overcome, oppose, or resist the environment or its elements.
 
-**POTENTIAL ADVERSARIES**
+**POTENTIAL [ADVERSARIES](Using%20Adversaries.md)**
 
-Suggested adversaries that might appear in scenes within the environment.
+Suggested [adversaries](Using%20Adversaries.md) that might appear in scenes within the environment.
 
 **FEATURES**
 
@@ -52,13 +52,13 @@ Prompts for plot hooks, narrative engines, and connections to other story elemen
 
 #### ADAPTING ENVIRONMENTS
 
-Sometimes you want to use an environment but it’s at the wrong tier for your party. Or you might want to replace a feature or two, then present it as an entirely different environment. Whether planning your session or even improvising an environment mid-session, you can adjust an existing environment’s stat block to fit the needs of your scene or improvise elements as needed. The environments framework is there to help organize ideas, not to stifle creativity.
+Sometimes you want to use an environment but it’s at the wrong [tier](Core%20Mechanics.md#LEVELING%20UP) for your party. Or you might want to replace a feature or two, then present it as an entirely different environment. Whether planning your session or even improvising an environment mid-session, you can adjust an existing environment’s stat block to fit the needs of your scene or improvise elements as needed. The environments framework is there to help organize ideas, not to stifle creativity.
 
-When you need to quickly adjust a stat block to a different tier, you can simply replace its existing statistics with those listed on the Environment Statistics by Tier table, using the column that corresponds to your party’s tier.
+When you need to quickly adjust a stat block to a different [tier](Core%20Mechanics.md#LEVELING%20UP), you can simply replace its existing statistics with those listed on the Environment Statistics by Tier table, using the column that corresponds to your party’s tier.
 
 ##### BENCHMARK STATISTICS FOR ENVIRONMENTS BY TIER
 
-| **Environment Statistic** | **Tier 1** | **Tier 2** | **Tier 3** | **Tier 4** |
+| **Environment Statistic** | **[Tier 1](Core%20Mechanics.md#LEVELING%20UP)** | **[Tier 2](Core%20Mechanics.md#LEVELING%20UP)** | **[Tier 3](Core%20Mechanics.md#LEVELING%20UP)** | **[Tier 4](Core%20Mechanics.md#LEVELING%20UP)** |
 | --- | --- | --- | --- | --- |
 | Damage Dice | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10 |
 | [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) | 11 | 14 | 17 | 20 |

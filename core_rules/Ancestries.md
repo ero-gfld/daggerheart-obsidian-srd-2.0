@@ -10,6 +10,6 @@ The Daggerheart Core Set includes only the following ancestries: [Clank](../ance
 
 #### ANCESTRY FEATURES
 
-Each ancestry grants two **ancestry features.** While some features (such as the ability to fly) are implicitly tied to an ancestry’s anatomy, players determine their characters’ physical form. Work with the GM to re-flavor any implied traits that don’t align with your character concept.
+Each ancestry grants two **ancestry features.** While some features (such as the ability to fly) are implicitly tied to an ancestry’s anatomy, players determine their characters’ physical form. Work with the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to re-flavor any implied traits that don’t align with your character concept.
 
 If you’d like to make a character who combines more than one ancestry, see “[Mixed Ancestry](../ancestry_rules/Mixed%20Ancestry.md).”

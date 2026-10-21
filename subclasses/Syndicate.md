@@ -8,7 +8,7 @@ Play the Syndicate if you want to have a web of contacts everywhere you go.
 
 **FOUNDATION FEATURE**
 
-***Well-Connected:*** When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
+***Well-Connected:*** When you arrive in a prominent town or [environment](../core_rules/Using%20Environments.md), you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
 
 - They owe me a favor, but they’ll be hard to find.
 
@@ -36,7 +36,7 @@ Play the Syndicate if you want to have a web of contacts everywhere you go.
 
 - When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they can rush out to shield you, reducing the Hit Points marked by 1.
 
-- When you make a Presence Roll in conversation, they back you up. You can roll a **d20** as your Hope Die.
+- When you make a [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll in conversation, they back you up. You can roll a **d20** as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
 
 **BACKGROUND QUESTIONS**
 

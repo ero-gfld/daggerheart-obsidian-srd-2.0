@@ -20,11 +20,11 @@ Play the Primal Origin if you want to extend the versatility of your spells in p
 
 **SPECIALIZATION FEATURE**
 
-***Enchanted Aid:*** You can enhance the magic of others with your essence. When you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) with a Spellcast Roll, you can roll a **d8** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), after an ally has made a Spellcast Roll with your help, you can swap the results of their [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Enchanted Aid:*** You can enhance the magic of others with your essence. When you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) with a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), you can roll a **d8** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), after an ally has made a Spellcast Roll with your help, you can swap the results of their [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
 
 **MASTERY FEATURE**
 
-***Arcane Charge:*** You can gather magical energy to enhance your capabilities. When you take magic damage, you become *Charged*. Alternatively, you can **spend 2 Hope** to become *Charged*. When you successfully make an attack that deals magic damage while *Charged*, you can clear your *Charge* to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being *Charged* at your next long rest.
+***Arcane Charge:*** You can gather magical energy to enhance your capabilities. When you take [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you become *Charged*. Alternatively, you can **spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to become *Charged*. When you successfully make an attack that deals magic damage while *Charged*, you can clear your *Charge* to either gain a +10 bonus to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) or gain a +3 bonus to the [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) of a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) the spell causes the target to make. You stop being *Charged* at your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
 
 **BACKGROUND QUESTIONS**
 

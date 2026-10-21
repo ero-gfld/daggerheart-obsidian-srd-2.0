@@ -18,13 +18,13 @@ Play the Wordsmith if you want to use clever wordplay and captivate crowds.
 
 - Allow them to find a mundane object or tool they need.
 
-- Help an Ally without spending Hope.
+- [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) without spending [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
 
-- Give them an additional downtime move during their next rest.
+- Give them an additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) during their next rest.
 
 **MASTERY FEATURE**
 
-***Epic Poetry.*** Your Rally Die increases to a **d10.** Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die.
+***Epic Poetry.*** Your Rally Die increases to a **d10.** Additionally, when you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die.
 
 **BACKGROUND QUESTIONS**
 

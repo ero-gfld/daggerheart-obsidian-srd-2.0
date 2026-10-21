@@ -12,11 +12,11 @@ Seraphs are divine fighters and healers imbued with sacred purpose. A wide array
 
 **SERAPH’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Life Support:*** **Spend 3 Hope** to clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Life Support:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
 **[CLASS FEATURE](../core_rules/Classes.md)**
 
-***Prayer Dice:*** At the beginning of each session, roll a number of **d4s** equal to your subclass’s [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within Far range. You can use a spent die’s value to reduce incoming damage, add to a roll’s result after the roll is made, or gain Hope equal to the result. At the end of each session, clear all unspent Prayer Dice.
+***Prayer Dice:*** At the beginning of each session, roll a number of **d4s** equal to your subclass’s [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. You can use a spent die’s value to reduce incoming damage, add to a roll’s result after the roll is made, or gain [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to the result. At the end of each session, clear all unspent Prayer Dice.
 
 ### SUBCLASSES
 

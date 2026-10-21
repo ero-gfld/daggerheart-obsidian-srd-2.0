@@ -8,4 +8,4 @@ Many freeborne passionately celebrate their unique holidays, art, food, decor, a
 
 **[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Unbound:*** Once per session when you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can change it into a roll with Hope instead.
+***Unbound:*** Once per session when you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can change it into a roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) instead.

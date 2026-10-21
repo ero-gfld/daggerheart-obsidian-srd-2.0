@@ -6,4 +6,4 @@ Ribbets resemble anthropomorphic frogs with protruding eyes and webbed hands and
 
 ***Amphibious:*** You can breathe and move naturally underwater.
 
-***Long Tongue:*** You can use your long tongue to grab onto things within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to use your tongue as a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Close weapon that deals **d12** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your Proficiency.
+***Long Tongue:*** You can use your long tongue to grab onto things within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to use your tongue as a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Close weapon that deals **d12** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).

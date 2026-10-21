@@ -10,11 +10,11 @@ Each stat block has a unique **name.** Abilities that affect adversaries with a 
 
 **TIER**
 
-Each adversary is designed to oppose PCs of a certain **tier.** If you confront the party with an adversary from another tier, adjust their stats.
+Each adversary is designed to oppose [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) of a certain **[tier](Core%20Mechanics.md#LEVELING%20UP).** If you confront the party with an adversary from another tier, adjust their stats.
 
 **TYPE**
 
-The adversary’s type appears alongside their tier. An adversary’s **type** represents the role they play in a conflict. The adversary types are:
+The adversary’s type appears alongside their [tier](Core%20Mechanics.md#LEVELING%20UP). An adversary’s **type** represents the role they play in a conflict. The adversary types are:
 
 - **Bruisers:** tough; deliver powerful attacks.
 
@@ -50,9 +50,9 @@ Suggusted impulses, actions and goals for the adversary.
 
 The [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of any roll made against the adversary, unless otherwise noted.
 
-**DAMAGE THRESHOLDS, HIT POINTS, AND STRESS**
+**[DAMAGE THRESHOLDS](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), HIT POINTS, AND STRESS**
 
-These systems function the same way they do for PCs. The numbers listed after “Threshold” are the adversary’s Major and Severe Thresholds.
+These systems function the same way they do for [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). The numbers listed after “[Threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)” are the adversary’s Major and Severe Thresholds.
 
 **ATTACK MODIFIER**
 
@@ -60,11 +60,11 @@ When you attack with the adversary, apply this bonus or penalty to your [attack 
 
 **STANDARD ATTACK**
 
-A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s **name,** its effective **range,** and the **damage** it deals on a success. Using an adversary’s **standard attack** is a [GM move](Making%20Moves.md).
+A description of the adversary’s primary mode of inflicting harm on the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). It includes the attack’s **name,** its effective **range,** and the **damage** it deals on a success. Using an adversary’s **standard attack** is a [GM move](Making%20Moves.md).
 
 **EXPERIENCE (OPTIONAL)**
 
-The GM can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to add an adversary’s relevant [Experience](Character%20Creation.md#STEP%207) to raise their attack roll or increase the Difficulty of a roll made against them.
+The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to add an adversary’s relevant [Experience](Character%20Creation.md#STEP%207) to raise their [attack roll](Core%20Mechanics.md#ATTACKING) or increase the [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of a roll made against them.
 
 **EXAMPLE EXPERIENCES:**
 
@@ -79,65 +79,65 @@ The GM can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to add an adversa
 
 **FEATURE(S)**
 
-There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend [Stress](Core%20Mechanics.md#STRESS) to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) on the adversary.
+There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversaries stress is tracked individually. If a feature requires the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to spend [Stress](Core%20Mechanics.md#STRESS) to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and put the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) on the adversary.
 
-- **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
+- **Actions:** a special attack or other unique action that the adversary can perform when the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) is on them.
 
-- **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
+- **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) is on the adversary.
 
 - **Passives:** special abilities that remain in effect by default and require no resources or triggers to activate.
 
 **[FEAR FEATURE](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)(S)**
 
-High-impact effects that cost a Fear to activate.
+High-impact effects that cost a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to activate.
 
 **EXAMPLE ADVERSARY FEATURES:**
 
 **ACTIONS**
 
-**Haymaker - Action:** Make an attack against a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal X direct physical damage.
+**Haymaker - Action:** Make an attack against a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal X direct [physical damage](Core%20Mechanics.md#ATTACKING).
 
-**Shredding Strike - Action:** Make an attack against a target within Very Close range. On a success, deal X physical damage and the target must mark an [Armor Slot](Equipment.md#ARMOR) without gaining its benefit (they can still use armor to reduce the damage).
+**Shredding Strike - Action:** Make an attack against a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal X [physical damage](Core%20Mechanics.md#ATTACKING) and the target must mark an [Armor Slot](Equipment.md#ARMOR) without gaining its benefit (they can still use armor to reduce the damage).
 
-**More Where That Came From - Action:** Summon three [Jagged Knife Lackeys](../adversaries/Jagged%20Knife%20Lackey.md), who appear at Far range.
+**More Where That Came From - Action:** Summon three [Jagged Knife Lackeys](../adversaries/Jagged%20Knife%20Lackey.md), who appear at [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
 **REACTIONS**
 
-**Heavy Hitter - Reaction:** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
+**Heavy Hitter - Reaction:** When this adversary deals damage with a standard attack, you can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to gain a +X bonus to the [damage roll](Core%20Mechanics.md#ATTACKING).
 
-**Team-Up - Reaction:** When another adversary within Very Close range of this adversary deals X damage to a creature, you can mark a Stress to make a standard attack against that same creature. On a success, combine the damage.
+**Team-Up - Reaction:** When another adversary within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of this adversary deals X damage to a creature, you can mark a [Stress](Core%20Mechanics.md#STRESS) to make a standard attack against that same creature. On a success, combine the damage.
 
-**Momentum - Reaction:** When this adversary makes a successful attack against a PC, you gain a Fear.
+**Momentum - Reaction:** When this adversary makes a successful attack against a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR).
 
 **PASSIVES**
 
-**Horde (X) - Passive:** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
+**Horde (X) - Passive:** When the Horde has marked half or more of their [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals X damage instead.
 
-**Minion (X) - Passive:** This adversary is defeated when they take any damage. For every X damage a PC deals to this adversary, defeat an additional Minion within range the attack would succeed against.
+**Minion (X) - Passive:** This adversary is defeated when they take any damage. For every X damage a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to this adversary, defeat an additional Minion within range the attack would succeed against.
 
-**Relentless (X) - Passive:** This adversary can be spotlighted up to X times per GM turn. Spend Fear as usual to spotlight them.
+**Relentless (X) - Passive:** This adversary can be [spotlighted](Core%20Mechanics.md#THE%20SPOTLIGHT) up to X times per [GM turn](Making%20Moves.md). Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) them.
 
-**Slow - Passive:** When you spotlight this adversary and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight this adversary and they have a token on their stat block, clear the token and they can act.
+**Slow - Passive:** When you [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) this adversary and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight this adversary and they have a token on their stat block, clear the token and they can act.
 
-**Arcane Form - Passive:** This adversary is resistant to magic damage.
+**Arcane Form - Passive:** This adversary is resistant to [magic damage](Core%20Mechanics.md#ATTACKING).
 
-**Armored Carapace - Passive:** When this adversary takes physical damage, reduce it by X.
+**Armored Carapace - Passive:** When this adversary takes [physical damage](Core%20Mechanics.md#ATTACKING), reduce it by X.
 
-**FEAR FEATURES**
+**[FEAR FEATURES](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)**
 
-**Explosion - Action:** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take X magic damage and are knocked back to Far range.
+**Explosion - Action:** Spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to erupt in a fiery explosion. Make an attack against all targets within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the adversary succeeds against take X [magic damage](Core%20Mechanics.md#ATTACKING) and are knocked back to [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
 **POOL**
 
-A pool is a collection of tokens shared by multiple adversaries. Each pool has a unique name, which is typically the name shared by the adversaries it affects. Unlike standard adversary tokens, pool tokens are not placed on a stat block; instead, the GM collects them in a separate location. Pools are empty when the scene begins and cleared when the scene ends.
+A pool is a collection of tokens shared by multiple adversaries. Each pool has a unique name, which is typically the name shared by the adversaries it affects. Unlike standard adversary tokens, pool tokens are not placed on a stat block; instead, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) collects them in a separate location. Pools are empty when the scene begins and cleared when the scene ends.
 
 **EVOLUTION**
 
-Evolutions are features that alter an adversary when certain trigger conditions are met. When triggered, an evolution feature usually clears HP or Stress, alters the stats of the adversary’s standard attack, and gives the adversary access to new features. An adversary’s evolution can’t be triggered more than once in a scene.
+Evolutions are features that alter an adversary when certain trigger conditions are met. When triggered, an evolution feature usually clears [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](Core%20Mechanics.md#STRESS), alters the stats of the adversary’s standard attack, and gives the adversary access to new features. An adversary’s evolution can’t be triggered more than once in a scene.
 
 ### BUILDING BALANCED ENCOUNTERS
 
-When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Battle Points** and make the following adjustments:
+When planning a battle, start with **[(3 x the number of [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in combat) + 2] Battle Points** and make the following adjustments:
 
 **−1** for an easier or shorter fight
 
@@ -145,7 +145,7 @@ When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Bat
 
 **−2** if you add +1d4 (or a static +2) to all adversaries’ [damage rolls](Core%20Mechanics.md#ATTACKING)
 
-**+1** if you choose an adversary from a lower tier
+**+1** if you choose an adversary from a lower [tier](Core%20Mechanics.md#LEVELING%20UP)
 
 **+1** if you don’t include any Bruisers, Hordes, Leaders, or Solos
 
@@ -171,12 +171,12 @@ When an adversary marks their last [Hit Point](Core%20Mechanics.md#HIT%20POINTS%
 
 **ADVERSARY STAT BLOCK BENCHMARKS**
 
-| Adversary Statistic | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+| Adversary Statistic | [Tier 1](Core%20Mechanics.md#LEVELING%20UP) | [Tier 2](Core%20Mechanics.md#LEVELING%20UP) | [Tier 3](Core%20Mechanics.md#LEVELING%20UP) | [Tier 4](Core%20Mechanics.md#LEVELING%20UP) |
 | --- | --- | --- | --- | --- |
 | Attack Modifier | +1 | +2 | +3 | +4 |
 | Damage Dice | 1d6+2 to 1d12+4 | 2d6+3 to 2d12+4 | 3d8+3 to 3d12+5 | 4d8+10 to 4d12+15 |
 | [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) | 11 | 14 | 17 | 20 |
-| Damage Thresholds | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
+| [Damage Thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
 
 #### ADVERSARIES BY TIER
 

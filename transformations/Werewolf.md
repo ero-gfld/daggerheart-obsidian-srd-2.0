@@ -8,7 +8,7 @@ Werewolves often struggle to control their hunting instinct and violence while i
 
 ***Wolf Form:*** When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to enter your Wolf Form. While in this form, you gain a **1d10** bonus to attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING). When you roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) while in Wolf Form, you must mark a Stress. Your Wolf Form lasts until you go into your “Howling Rampage” or take a rest.
 
-***Howling Rampage:*** When you mark your last Stress while in Wolf Form, you go into a rampage. Roll a number of **d20s** equal to your tier and deal that much physical damage to all creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then drop out of Wolf Form.
+***Howling Rampage:*** When you mark your last [Stress](../core_rules/Core%20Mechanics.md#STRESS) while in Wolf Form, you go into a rampage. Roll a number of **d20s** equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) and deal that much [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to all creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then drop out of Wolf Form.
 
 **TRANSFORMATION QUESTIONS**
 

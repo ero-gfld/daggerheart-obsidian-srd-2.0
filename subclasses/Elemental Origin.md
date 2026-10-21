@@ -24,6 +24,6 @@ You can shape this element into harmless effects. Additionally, **spend a [Hope]
 
 - +1 bonus to a character trait of your choice
 
-- +1 bonus to your Proficiency
+- +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING)
 
-- +2 bonus to your Evasion
+- +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION)

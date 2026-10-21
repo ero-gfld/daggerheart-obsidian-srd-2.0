@@ -26,9 +26,9 @@ In short, it is Daggerheart, the system, boiled down to the bones—a lean and c
 
 Daggerheart is a tabletop roleplaying game for one Game Master (“GM”) and 2–5 players. Each game session lasts about 2–4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.
 
-During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters (“PCs”) encounter. The players, in turn, roleplay their PCs’ reactions to the scenario presented by the GM. If the outcome of a player’s action depends on fate or fortune, the GM calls for an [action roll](Core%20Mechanics.md#ACTION%20ROLLS).
+During a session of Daggerheart the GM describes situations, narrates events, and controls any [adversaries](Using%20Adversaries.md) or obstacles that the Player Characters (“PCs”) encounter. The players, in turn, roleplay their PCs’ reactions to the scenario presented by the GM. If the outcome of a player’s action depends on fate or fortune, the GM calls for an [action roll](Core%20Mechanics.md#ACTION%20ROLLS).
 
-When a player makes an action roll, they utilize [Duality Dice](Core%20Mechanics.md#OVERVIEW)—two differently colored 12-sided dice (“d12s”) representing [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) and Fear. The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a Difficulty set by the GM. If the total meets or beats the Difficulty, the player succeeds. If it’s lower, they fail. In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.
+When a player makes an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), they utilize [Duality Dice](Core%20Mechanics.md#OVERVIEW)—two differently colored 12-sided dice (“d12s”) representing [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) and [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR). The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) set by the GM. If the total meets or beats the Difficulty, the player succeeds. If it’s lower, they fail. In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.
 
 #### THE GOLDEN RULE
 
@@ -36,10 +36,10 @@ The most important rule of Daggerheart is to make the game your own. The rules i
 
 #### RULINGS OVER RULES
 
-While playing Daggerheart, the GM and players should always prioritize rulings over rules. This SRD offers answers for many questions your table may have about the game, but it won’t answer all of them. When you’re in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.
+While playing Daggerheart, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and players should always prioritize rulings over rules. This SRD offers answers for many questions your table may have about the game, but it won’t answer all of them. When you’re in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.
 
-For example, Daggerheart has a weapon called a grappler that lets you pull a target close to you. If you try to use it to pull an entire castle, the weapon text doesn’t forbid you from doing that—but it doesn’t make sense within the narrative. Instead, the GM might rule that you pull a few bricks out, or pull yourself toward the wall instead.
+For example, Daggerheart has a weapon called a grappler that lets you pull a target close to you. If you try to use it to pull an entire castle, the weapon text doesn’t forbid you from doing that—but it doesn’t make sense within the narrative. Instead, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) might rule that you pull a few bricks out, or pull yourself toward the wall instead.
 
 Similarly, if your character does something that would logically result in immediate death—such as diving into an active volcano without protection—you might not get to make one of Daggerheart’s [death moves](Core%20Mechanics.md#DEATH), which normally give you control of your character’s fate in their final moments. This kind of consequence should be made clear before the action is completed, and it should always follow the logic of the world.
 
-As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the GM has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.
+As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.

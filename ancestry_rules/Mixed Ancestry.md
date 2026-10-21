@@ -10,7 +10,7 @@ If you decide that your character is a descendant of multiple ancestries and you
 
 2. **Choose [Ancestry Features](../core_rules/Ancestries.md)**
 
-   Work with your GM to choose two features from the ancestries in your character’s lineage. You must choose the first feature from one ancestry and the second from another. Write both down on a notecard you can keep with your other cards or next to your character sheet.
+   Work with your [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to choose two features from the ancestries in your character’s lineage. You must choose the first feature from one ancestry and the second from another. Write both down on a notecard you can keep with your other cards or next to your character sheet.
 
 *For example, if you are making a goblin-orc, you might take* *the “Surefooted” and “Tusks” features or the “Sturdy” and* *“Danger Sense” features. You can’t take both the “Surefooted”* *and “Sturdy” features, because these are both the first* *features listed on their respective ancestry cards.*
 

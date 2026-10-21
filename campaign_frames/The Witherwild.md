@@ -152,7 +152,7 @@ Druids, rangers, and sorcerers are commonly found throughout Fanewick. If player
 
 **WARRIORS AND WIZARDS**
 
-Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and [School of War](../subclasses/School%20of%20War.md) wizards. If a PC is either of these classes, consider their personal relationship to the Haven Army.
+Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and [School of War](../subclasses/School%20of%20War.md) wizards. If a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) is either of these classes, consider their personal relationship to the Haven Army.
 
 **VENGEANCE GUARDIAN**
 
@@ -180,23 +180,23 @@ Find your character’s humanity and showcase it whenever you can. They should b
 
 #### GM PRINCIPLES
 
-*Keep the following guidance in mind while you GM this* *campaign.*
+*Keep the following guidance in mind while you [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) this* *campaign.*
 
 **PAINT THE WORLD IN CONTRAST**
 
-Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the PCs visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven’s walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the Faint Divinities with the devotion of the Wicklings and Havenites fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
+Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven’s walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the Faint Divinities with the devotion of the Wicklings and Havenites fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
 
 **SHOW THEM TRUE DANGER**
 
-Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what’s truly at stake, use the PCs’ origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past—when your players create and are invested in their character’s backstory, they have something to fight for.
+Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what’s truly at stake, use the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’ origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past—when your players create and are invested in their character’s backstory, they have something to fight for.
 
 **OFFER ALTERNATIVES TO VIOLENCE**
 
-By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. For example, showing compassion—rather than swordpoint— to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn’t only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
+By illuminating nonviolent approaches to problem-solving, the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can help break the brutal cycle that binds this world. For example, showing compassion—rather than swordpoint— to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn’t only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
 
-**CREATE MULTIDIMENSIONAL ALLIES AND ADVERSARIES**
+**CREATE MULTIDIMENSIONAL ALLIES AND [ADVERSARIES](../core_rules/Using%20Adversaries.md)**
 
-No adversary or ally is all good or all bad, and they each have multidimensional lives. Even the most congenial ally should be hiding darkness inside them, hoping their failings will go undiscovered. Those painted as evil should sometimes do the right thing, even if it’s for the wrong reason. Just because a PC or NPC is from Haven doesn’t make them a villain, and, conversely, not all the inhabitants of Fanewick are virtuous. Finding the nuance, complications, and deeper motivations of the people of Haven and Fanewick will lead to richer interactions, more complex moral choices, and a deeper sense of attachment to the world for the players.
+No [adversary](../core_rules/Using%20Adversaries.md) or ally is all good or all bad, and they each have multidimensional lives. Even the most congenial ally should be hiding darkness inside them, hoping their failings will go undiscovered. Those painted as evil should sometimes do the right thing, even if it’s for the wrong reason. Just because a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) or [NPC](../core_rules/Making%20Moves.md#RUNNING%20GM%20NPCS) is from Haven doesn’t make them a villain, and, conversely, not all the inhabitants of Fanewick are virtuous. Finding the nuance, complications, and deeper motivations of the people of Haven and Fanewick will lead to richer interactions, more complex moral choices, and a deeper sense of attachment to the world for the players.
 
 #### DISTINCTIONS
 
@@ -222,7 +222,7 @@ Thus, the Haven Army invaded Fanewick and began cultivating the flowers on massi
 
 **THE WITHERWILD**
 
-This corruption, empowered by the endless spring, is spreading throughout Fanewick. Some believe the overgrowth began in the forest, while others claim it sprang from the bogs. But no matter its origins, this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into Withered beings. Plants spring to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws. Even harmless creatures that were once hunted for food have become dangerous and formidable adversaries.
+This corruption, empowered by the endless spring, is spreading throughout Fanewick. Some believe the overgrowth began in the forest, while others claim it sprang from the bogs. But no matter its origins, this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into Withered beings. Plants spring to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws. Even harmless creatures that were once hunted for food have become dangerous and formidable [adversaries](../core_rules/Using%20Adversaries.md).
 
 When a person is corrupted by the Witherwild, either from a purposeful attack or accidental harm (see the upcoming “Corruption from the Witherwild” section), they are transformed. They become a nightmarish hybrid—their body warped and intertwined with plant or beast. The Witherwild slowly replaces the personality of its victims with the same drive to consume exhibited by the rest of the corrupted Fanewick. Though the Withered may retain a semblance of who they are for a time, they eventually face the final loss of their personhood. Some Wicklings believe the Withered are gifted this power by Nikta’s wrath to drive the forces of Haven from Fanewick and return the Shepherd’s Reaping Eye.
 
@@ -248,7 +248,7 @@ Fanewick’s various divinities each have their own opinion concerning the Withe
 
 These are but a small slice of the hundreds, if not thousands, of Faint Divinities lurking, relaxing, hunting, and playing throughout Fanewick.
 
-*What Faint Divinities do the PCs acknowledge and pay* *tribute to, if any?*
+*What Faint Divinities do the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) acknowledge and pay* *tribute to, if any?*
 
 *How has the Witherwild changed the outlook, personality,* *and dispositions of the Faint Divinities the characters* *encounter?*
 
@@ -274,11 +274,11 @@ Kreil advises the party to start their hunt for the Fanewraith in the treetop vi
 
 **CORRUPTION FROM THE WITHERWILD**
 
-Adversaries and environments in this campaign can gain an additional type called Withered. When an adversary is Withered, describe how the Witherwild changed or impacted how they would normally appear or operate. You also need about 20 Wither tokens (these can be the same as the tokens you use for [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)).
+[Adversaries](../core_rules/Using%20Adversaries.md) and [environments](../core_rules/Using%20Environments.md) in this campaign can gain an additional type called Withered. When an [adversary](../core_rules/Using%20Adversaries.md) is Withered, describe how the Witherwild changed or impacted how they would normally appear or operate. You also need about 20 Wither tokens (these can be the same as the tokens you use for [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)).
 
-Any time a PC takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from a Withered adversary or environment, gain a Wither token and place it on that PC’s character sheet. When you do, the PC must roll their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW). If they roll equal to or below the number of Wither tokens on their sheet, they immediately gain a [scar](../core_rules/Core%20Mechanics.md#DEATH) and clear all tokens, describing how the Witherwild changes them permanently.
+Any time a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from a Withered [adversary](../core_rules/Using%20Adversaries.md) or [environment](../core_rules/Using%20Environments.md), gain a Wither token and place it on that PC’s character sheet. When you do, the PC must roll their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW). If they roll equal to or below the number of Wither tokens on their sheet, they immediately gain a [scar](../core_rules/Core%20Mechanics.md#DEATH) and clear all tokens, describing how the Witherwild changes them permanently.
 
-At the end of each session, clear all Wither tokens from the PCs’ sheets and gain an equal amount of Fear. If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
+At the end of each session, clear all Wither tokens from the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’ sheets and gain an equal amount of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
 
 #### SESSION ZERO QUESTIONS
 

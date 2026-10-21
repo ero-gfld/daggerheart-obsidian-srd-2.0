@@ -6,4 +6,4 @@ Faeries are winged humanoid creatures with insectile features. These characteris
 
 ***Luckbender:*** Once per session, after you or a willing ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range makes an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll the [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
 
-***Wings:*** You can fly. While flying, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** after an adversary makes an attack against you to gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against that attack.
+***Wings:*** You can fly. While flying, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** after an [adversary](../core_rules/Using%20Adversaries.md) makes an attack against you to gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against that attack.

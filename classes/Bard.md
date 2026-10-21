@@ -12,11 +12,11 @@ Bards are the most charismatic people in all the realms. Members of this class a
 
 **BARD’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Make a Scene:*** **Spend 3 Hope** to temporarily *Distract* a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, giving them a -2 penalty to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+***Make a Scene:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to temporarily *Distract* a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, giving them a -2 penalty to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
 
 **[CLASS FEATURE](../core_rules/Classes.md)**
 
-***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a **d6**. A PC can spend their Rally Die to roll it, adding the result to their action roll, [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), or to clear a number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a **d8**.
+***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a **d6**. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can spend their Rally Die to roll it, adding the result to their [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), or to clear a number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a **d8**.
 
 ### SUBCLASSES
 

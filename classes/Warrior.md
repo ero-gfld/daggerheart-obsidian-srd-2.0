@@ -12,11 +12,11 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 **WARRIOR’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***No Mercy:*** **Spend 3 Hope** to gain a +1 bonus to your [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until your next rest.
+***No Mercy:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gain a +1 bonus to your [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until your next rest.
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Attack of Opportunity:*** If an adversary within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range attempts to leave that range, make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) using a trait of your choice against their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). Choose one effect on a success, or two if you critically succeed:
+***Attack of Opportunity:*** If an [adversary](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range attempts to leave that range, make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) using a trait of your choice against their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). Choose one effect on a success, or two if you critically succeed:
 
 - They can’t move from where they are.
 
@@ -24,7 +24,7 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 - You move with them.
 
-***Combat Training:*** You ignore burden when equipping weapons. When you deal physical damage, you gain a bonus to your damage roll equal to your level.
+***Combat Training:*** You ignore [burden](../core_rules/Equipment.md#WEAPONS) when equipping weapons. When you deal [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), you gain a bonus to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to your level.
 
 ### SUBCLASSES
 

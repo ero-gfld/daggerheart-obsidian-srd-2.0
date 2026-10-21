@@ -1,6 +1,6 @@
 # Aquatic Predator
 
-**_Tier 3_** (Dolphin, Orca, Shark, etc.)
+**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Dolphin, Orca, Shark, etc.)
 
 *[Agility](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +4* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d10+6 phy*
 

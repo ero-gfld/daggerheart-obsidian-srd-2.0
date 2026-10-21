@@ -1,25 +1,25 @@
 # Adult Flickerfly
 
-***Tier 3 [Solo](../core_rules/Using%20Adversaries.md)***
+***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
 *A winged insect the size of a large house with iridescent scales and wings that move too fast to track.*
 
 **Motives & Tactics:** Collect shiny things, hunt, nest, swoop
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/35 | **HP:** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
 > **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Wing Slash:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d20 phy
 
 ## FEATURES
 
-***Relentless (4) - Passive:*** The Flickerfly can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to four times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to spotlight them.
+***Relentless (4) - Passive:*** The Flickerfly can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to four times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
 
 ***Never Misses - Passive:*** When the Flickerfly makes an attack, the target’s [Evasion](../core_rules/Core%20Mechanics.md#EVASION) is halved against the attack.
 
-***Deadly Flight - Passive:*** While flying, the Flickerfly can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead of Close range before taking an action.
+***Deadly Flight - Passive:*** While flying, the Flickerfly can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead of [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before taking an action.
 
-***Whirlwind - Action:*** **Spend a Fear** to whirl, making an attack against all targets within Very Close range. Targets the Flickerfly succeeds against take **3d8** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Whirlwind - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to whirl, making an attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Flickerfly succeeds against take **3d8** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Mind Dance - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). For each target who failed, you gain a Fear and the Flickerfly learns one of the target’s fears.
+***Mind Dance - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to create a magically dazzling display that grapples the minds of nearby foes. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). For each target who failed, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and the Flickerfly learns one of the target’s fears.
 
-***Hallucinatory Breath - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 1d6)*. When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must make an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on this roll. Targets who fail lose 2 Hope and take **3d8+3** direct magic damage.
+***Hallucinatory Breath - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 1d6)*. When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on this roll. Targets who fail lose 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and take **3d8+3** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Uncanny Reflexes - Reaction:*** When the Flickerfly takes damage from an attack within Close range, you can **mark a Stress** to take half damage.
+***Uncanny Reflexes - Reaction:*** When the Flickerfly takes damage from an attack within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to take half damage.

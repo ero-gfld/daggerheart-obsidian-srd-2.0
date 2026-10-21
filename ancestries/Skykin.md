@@ -6,6 +6,6 @@ Skykin are born as wisps of air or small clouds, often hard to see and hold. Unt
 
 **[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Gale Force:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to conjure a gust of wind that carries you or a [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) ally up to Very Far range. Additionally, you can always control the speed at which you fall.
+***Gale Force:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to conjure a gust of wind that carries you or a [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) ally up to [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Additionally, you can always control the speed at which you fall.
 
-***Eye of the Storm:*** **Spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to grant you or an ally within Melee range a +1 bonus to [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or you use this feature again.
+***Eye of the Storm:*** **Spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to grant you or an ally within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range a +1 bonus to [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or you use this feature again.

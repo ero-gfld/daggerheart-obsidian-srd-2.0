@@ -12,13 +12,13 @@ Whether through an institution or individual study, those known as wizards acqui
 
 **WIZARD’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Not This Time:*** **Spend 3 Hope** to force an adversary within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to reroll an attack or [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Not This Time:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force an [adversary](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to reroll an attack or [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
 ***Prestidigitation:*** You can perform harmless, subtle magical effects at will. For example, you can change an object’s color, create a smell, light a candle, cause a tiny object to float, illuminate a room, or repair a small object.
 
-***Strange Patterns:*** Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a Hope or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Strange Patterns:*** Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
 You can change this number when you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
 

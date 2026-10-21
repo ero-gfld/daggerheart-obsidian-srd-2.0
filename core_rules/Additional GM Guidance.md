@@ -8,7 +8,7 @@ In storytelling, a beat is a moment that changes the trajectory of the narrative
 
 #### PREPARING COMBAT ENCOUNTERS
 
-Build the hurdles the PCs face around the question of “What helps tell the story?” Enemies, environments, and hazards are the tools for heightening tension and creating drama. Ensure that combat is being used to give players more information about the unfolding story, revealing the world, the plot, or the characters.
+Build the hurdles the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) face around the question of “What helps tell the story?” Enemies, [environments](Using%20Environments.md), and hazards are the tools for heightening tension and creating drama. Ensure that combat is being used to give players more information about the unfolding story, revealing the world, the plot, or the characters.
 
 #### BATTLES AND NARRATIVE
 
@@ -16,11 +16,11 @@ Dynamic battles create suspense by forcing players to choose between their vario
 
 - Consider the narrative function of the battle
 
-- Base adversaries’ moves on their motives
+- Base [adversaries](Using%20Adversaries.md)’ moves on their motives
 
-- Use dynamic environments to bring the battleground to life
+- Use dynamic [environments](Using%20Environments.md) to bring the battleground to life
 
-- Add enemies that can interact with the PCs’ features and special abilities
+- Add enemies that can interact with the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’ features and special abilities
 
 #### SESSION REWARDS
 
@@ -44,7 +44,7 @@ Whenever you start a session, arrive at a new place, or change the situation, te
 
 Keep your players engaged by:
 
-- Rotating the Focus between the PCs
+- Rotating the Focus between the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)
 
 - Tying Together Story Elements
 
@@ -54,7 +54,7 @@ Keep your players engaged by:
 
 - Encouraging Unguided Play
 
-- Confronting the PCs with internal and external conflicts
+- Confronting the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) with internal and external conflicts
 
 - Raise the Stakes by Spending [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)
 
@@ -77,31 +77,31 @@ Keep your players engaged by:
 
 #### PHASED BATTLES
 
-Make battles by shifting the nature of its enemies or environment mid-combat:
+Make battles by shifting the nature of its enemies or [environment](Using%20Environments.md) mid-combat:
 
 - Change the Terms of Engagement
 
-- Alter the Environment
+- Alter the [Environment](Using%20Environments.md)
 
 - Evolve the Opposition
 
 #### USING DOWNTIME
 
-Use [downtime](Core%20Mechanics.md#DOWNTIME) scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
+Use [downtime](Core%20Mechanics.md#DOWNTIME) scenes as a pressure release valve to vary the intensity of the story and give the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) room to breathe.
 
-Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
+Empower your players to frame their own [downtime](Core%20Mechanics.md#DOWNTIME) scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
 
 #### PROJECTS DURING DOWNTIME
 
-The [Work on a Project](Core%20Mechanics.md#DOWNTIME) downtime move requires more GM input than other downtime moves and is best suited for long-term endeavors the PCs wish to undertake.
+The [Work on a Project](Core%20Mechanics.md#DOWNTIME) [downtime move](Core%20Mechanics.md#DOWNTIME) requires more [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) input than other downtime moves and is best suited for long-term endeavors the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) wish to undertake.
 
-These projects are typically tracked using a Progress [Countdown](Making%20Moves.md#COUNTDOWNS). When deciding the starting value of the countdown, consider the complexity of the project, the availability of relevant tools, and the impact of the project on the story.
+These projects are typically tracked using a [Progress Countdown](Making%20Moves.md#COUNTDOWNS). When deciding the starting value of the [countdown](Making%20Moves.md#COUNTDOWNS), consider the complexity of the project, the availability of relevant tools, and the impact of the project on the story.
 
-Simple projects advance their countdown each time a player uses the Work on a Project move, but complex projects require a roll.
+Simple projects advance their [countdown](Making%20Moves.md#COUNTDOWNS) each time a player uses the [Work on a Project](Core%20Mechanics.md#DOWNTIME) move, but complex projects require a roll.
 
 #### EXTENDED DOWNTIME
 
-When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) per PC and advance any long-term [countdowns](Making%20Moves.md#COUNTDOWNS) as appropriate.
+When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) per [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and advance any long-term [countdowns](Making%20Moves.md#COUNTDOWNS) as appropriate.
 
 ### CAMPAIGN FRAMES
 

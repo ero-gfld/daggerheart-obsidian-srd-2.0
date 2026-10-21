@@ -1,11 +1,11 @@
 # Spellbound Armor
 
-***Tier 1 [Bruiser](../core_rules/Using%20Adversaries.md)***
+***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
 *An empty suit of full plate armor that glows with a faint corona of ghostly light.*
 
 **Motives & Tactics:** Clank noisily, move like clockwork, watch silently
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/17 | **HP:** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** None  
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/17 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** None  
 > **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Zweihänder:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d10+1 phy
 
 **[Experience](../core_rules/Character%20Creation.md#STEP%207):** Guardian +2

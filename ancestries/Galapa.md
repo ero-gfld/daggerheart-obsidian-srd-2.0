@@ -6,4 +6,4 @@ Galapa resemble anthropomorphic turtles with large, domed shells into which they
 
 ***Shell:*** Gain a bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Retract:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to retract into your shell. While in your shell, you have resistance to physical damage, you have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), and you can’t move.
+***Retract:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to retract into your shell. While in your shell, you have [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), you have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), and you can’t move.

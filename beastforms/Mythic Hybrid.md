@@ -1,6 +1,6 @@
 # Mythic Hybrid
 
-**_Tier 4_** (Chimera, Cockatrice, Manticore, etc.)
+**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Chimera, Cockatrice, Manticore, etc.)
 
 *[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *Strength [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) d12+10 phy*
 

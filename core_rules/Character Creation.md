@@ -1,20 +1,20 @@
 # Character Creation
 
-Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
+Unless their table chooses to use pre-generated characters, each player creates their own [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
 
 ***Note:*** *You can fill in your character’s name, pronouns, and* *Character Description details at any point of the character* *creation process.*
 
 #### STEP 1
 
-**Choose a Class and Subclass. Classes** are role-based archetypes that determine which [class features](Classes.md) and **[domain cards](Domains.md#DOMAIN%20CARDS)** a PC gains access to throughout the campaign. There are 13 classes in this SRD: [Assassin](../classes/Assassin.md), [Bard](../classes/Bard.md), [Brawler](../classes/Brawler.md), [Druid](../classes/Druid.md), [Guardian](../classes/Guardian.md), [Ranger](../classes/Ranger.md), [Rogue](../classes/Rogue.md), [Seraph](../classes/Seraph.md), [Sorcerer](../classes/Sorcerer.md), [Warlock](../classes/Warlock.md), [Warrior](../classes/Warrior.md), [Witch](../classes/Witch.md), and [Wizard](../classes/Wizard.md).
+**Choose a Class and Subclass. Classes** are role-based archetypes that determine which [class features](Classes.md) and **[domain cards](Domains.md#DOMAIN%20CARDS)** a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains access to throughout the campaign. There are 13 classes in this SRD: [Assassin](../classes/Assassin.md), [Bard](../classes/Bard.md), [Brawler](../classes/Brawler.md), [Druid](../classes/Druid.md), [Guardian](../classes/Guardian.md), [Ranger](../classes/Ranger.md), [Rogue](../classes/Rogue.md), [Seraph](../classes/Seraph.md), [Sorcerer](../classes/Sorcerer.md), [Warlock](../classes/Warlock.md), [Warrior](../classes/Warrior.md), [Witch](../classes/Witch.md), and [Wizard](../classes/Wizard.md).
 
-- Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your PC’s details; you’ll update and reference them throughout the campaign.
+- Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s details; you’ll update and reference them throughout the campaign.
 
-- Every class begins with one or more unique **class feature(s),** described at the bottom left of each class’s character sheet. If your class feature prompts you to make a selection, do so now.
+- Every class begins with one or more unique **[class feature](Classes.md)(s),** described at the bottom left of each class’s character sheet. If your class feature prompts you to make a selection, do so now.
 
 - **Choose a Subclass**
 
-  **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **[subclass features](Classes.md#SUBCLASSES).** Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
+  **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **[subclass features](Classes.md#SUBCLASSES).** Each class comprises two subclasses. Select one of your class’s subclasses and take its **[Foundation](Classes.md#SUBCLASSES)** card.
 
 #### STEP 2
 
@@ -22,7 +22,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 - A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **[ancestry features](Ancestries.md).** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: [Aetheris](../ancestries/Aetheris.md), [Clank](../ancestries/Clank.md), [Drakona](../ancestries/Drakona.md), [Dwarf](../ancestries/Dwarf.md), [Earthkin](../ancestries/Earthkin.md), [Elf](../ancestries/Elf.md), [Emberkin](../ancestries/Emberkin.md), [Faerie](../ancestries/Faerie.md), [Faun](../ancestries/Faun.md), [Firbolg](../ancestries/Firbolg.md), [Fungril](../ancestries/Fungril.md), [Galapa](../ancestries/Galapa.md), [Giant](../ancestries/Giant.md), [Gnome](../ancestries/Gnome.md), [Goblin](../ancestries/Goblin.md), [Halfling](../ancestries/Halfling.md), [Human](../ancestries/Human.md), [Infernis](../ancestries/Infernis.md), [Katari](../ancestries/Katari.md), [Orc](../ancestries/Orc.md), [Ribbet](../ancestries/Ribbet.md), [Simiah](../ancestries/Simiah.md), [Skykin](../ancestries/Skykin.md), [Tidekin](../ancestries/Tidekin.md). To create a [Mixed Ancestry](../ancestry_rules/Mixed%20Ancestry.md), take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 
-- Your character’s **community** represents their culture or environment of origin and grants them a **[community feature](Communities.md).** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: [Duneborne](../communities/Duneborne.md), [Freeborne](../communities/Freeborne.md), [Frostborne](../communities/Frostborne.md), [Hearthborne](../communities/Hearthborne.md), [Highborne](../communities/Highborne.md), [Loreborne](../communities/Loreborne.md), [Orderborne](../communities/Orderborne.md), [Reborne](../communities/Reborne.md), [Ridgeborne](../communities/Ridgeborne.md), [Seaborne](../communities/Seaborne.md), [Slyborne](../communities/Slyborne.md), [Underborne](../communities/Underborne.md), [Warborne](../communities/Warborne.md), [Wanderborne](../communities/Wanderborne.md), [Wildborne](../communities/Wildborne.md).
+- Your character’s **community** represents their culture or [environment](Using%20Environments.md) of origin and grants them a **[community feature](Communities.md).** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: [Duneborne](../communities/Duneborne.md), [Freeborne](../communities/Freeborne.md), [Frostborne](../communities/Frostborne.md), [Hearthborne](../communities/Hearthborne.md), [Highborne](../communities/Highborne.md), [Loreborne](../communities/Loreborne.md), [Orderborne](../communities/Orderborne.md), [Reborne](../communities/Reborne.md), [Ridgeborne](../communities/Ridgeborne.md), [Seaborne](../communities/Seaborne.md), [Slyborne](../communities/Slyborne.md), [Underborne](../communities/Underborne.md), [Warborne](../communities/Warborne.md), [Wanderborne](../communities/Wanderborne.md), [Wildborne](../communities/Wildborne.md).
 
 #### STEP 3
 
@@ -62,11 +62,11 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 
 - **[Evasion](Core%20Mechanics.md#EVASION)** represents your character’s ability to avoid damage. Your character’s starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
 
-- **[Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) (HP)** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
+- **[Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) ([HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
 
-- **[Stress](Core%20Mechanics.md#STRESS)** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
+- **[Stress](Core%20Mechanics.md#STRESS)** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) starts with 6 Stress slots.
 
-- **[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR)** is a metacurrency that fuels special moves and certain abilities or features. Each PC starts with 2 Hope; mark these in the Hope field of your character sheet.
+- **[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR)** is a metacurrency that fuels special moves and certain abilities or features. Each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) starts with 2 Hope; mark these in the Hope field of your character sheet.
 
 #### STEP 5
 
@@ -74,19 +74,19 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 
 Choose your **weapon(s):**
 
-- Select from the Tier 1 Weapon Tables either a **[two-handed](Equipment.md#WEAPONS) primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.** Then equip your selection by recording it in the Active Weapon field of your character sheet.
+- Select from the [Tier 1](Core%20Mechanics.md#LEVELING%20UP) Weapon Tables either a **[two-handed](Equipment.md#WEAPONS) [primary weapon](Equipment.md#WEAPONS)** or a **[one-handed](Equipment.md#WEAPONS) primary weapon and a one-handed [secondary weapon](Equipment.md#WEAPONS).** Then equip your selection by recording it in the Active Weapon field of your character sheet.
 
-- At level 1, your **[Proficiency](Core%20Mechanics.md#ATTACKING)** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
+- At level 1, your **[Proficiency](Core%20Mechanics.md#ATTACKING)** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **[damage roll](Core%20Mechanics.md#ATTACKING)** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
 
-Choose and equip one set of **armor** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
+Choose and equip one set of **armor** from the [Tier 1](Core%20Mechanics.md#LEVELING%20UP) Armor Table, then record its details in the **Active Armor** field of your character sheet.
 
 - Add your character’s level to your equipped armor’s **[Base Thresholds](Equipment.md#ARMOR)** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
 
-- Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
+- Record your **[Armor Score](Equipment.md#ARMOR)** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **[Base Score](Equipment.md#ARMOR)** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
 
 Add the following items to the **Inventory** fields on your character sheet:
 
-- A torch, 50 feet of rope, basic supplies, and a [handful](Equipment.md#GOLD) of gold (mark one box in the left-hand column of your character sheet titled “Gold > Handfuls”)
+- A torch, 50 feet of rope, basic supplies, and a [handful](Equipment.md#GOLD) of gold (mark one box in the left-hand column of your character sheet titled “[Gold](Equipment.md#GOLD) > Handfuls”)
 
 - EITHER a [Minor Health Potion](../consumables/Minor%20Health%20Potion.md) (clear 1d4 [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)) OR a [Minor Stamina Potion](../consumables/Minor%20Stamina%20Potion.md) (clear 1d4 [Stress](Core%20Mechanics.md#STRESS))
 
@@ -100,13 +100,13 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 **Create Your Background.** Develop your character’s **background** by answering the **background questions** in your character guide, modifying or replacing them if they don’t fit the character you want to play.
 
-*Note: Your background has no explicit mechanical effect,* *but it greatly affects the character you’ll play and the prep* *the GM will do. Throughout character creation, you can* *adjust choices you made in earlier steps to better reflect this* *background as your character takes shape. If you wish, you* *can leave your character’s past more ambiguous for the time* *being and discover their backstory through play.*
+*Note: Your background has no explicit mechanical effect,* *but it greatly affects the character you’ll play and the prep* *the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) will do. Throughout character creation, you can* *adjust choices you made in earlier steps to better reflect this* *background as your character takes shape. If you wish, you* *can leave your character’s past more ambiguous for the time* *being and discover their backstory through play.*
 
 #### STEP 7
 
-**Create Your Experiences.** An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to add a relevant Experience’s modifier to an action or [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS).
+**Create Your Experiences.** An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) makes a move, they can spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to add a relevant Experience’s modifier to an action or [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS).
 
-- Your PC gets two Experiences at character creation, each with a +2 modifier.
+- Your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gets two Experiences at character creation, each with a +2 modifier.
 
 - There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and* *“Highly Skilled” are too broad, because they could be applied* *to virtually any roll. Likewise, “Supersonic Flight” and* *“Invulnerable” imply game-breaking special abilities.*
 
@@ -118,9 +118,9 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 **Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical* *Historian, Mapmaker, Master of Disguise, Navigator,* *Sharpshooter, Survivalist, Swashbuckler, Tactician*
 
-**Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast* *Learner, Incredible Strength, Liar, Light Feet, Negotiator,* *Photographic Memory, Quick Hands, Repair, Scavenger,* *Tracker*
+**Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast* *Learner, Incredible [Strength](Character%20Creation.md#STEP%203), Liar, Light Feet, Negotiator,* *Photographic Memory, Quick Hands, Repair, Scavenger,* *Tracker*
 
-**Phrases:** *Catch Me If You Can, Fake It Till You Make It, First* *Time’s the Charm, [Hold the Line](../abilities/Hold%20the%20Line.md), I Won’t Let You Down,* *I’ll Catch You, I’ve Got Your Back, Knowledge Is Power,* *Nature’s Friend, Never Again, No One Left Behind, Pick on* *Someone Your Own Size, The Show Must Go On, This Is Not* *a Negotiation, Wolf in Sheep’s Clothing*
+**Phrases:** *Catch Me If You Can, Fake It Till You Make It, First* *Time’s the Charm, [Hold the Line](../abilities/Hold%20the%20Line.md), I Won’t Let You Down,* *I’ll Catch You, I’ve Got Your Back, [Knowledge](Character%20Creation.md#STEP%203) Is Power,* *Nature’s Friend, Never Again, No One Left Behind, Pick on* *Someone Your Own Size, The Show Must Go On, This Is Not* *a Negotiation, Wolf in Sheep’s Clothing*
 
 #### STEP 8
 
@@ -128,12 +128,12 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 #### STEP 9
 
-**Create Your Connections.** Connections are the relationships between the PCs. To create connections, follow these steps:
+**Create Your Connections.** Connections are the relationships between the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). To create connections, follow these steps:
 
 - Go around the table and have each player describe their characters to one another—at a minimum, their name, pronouns, character description, experiences, and the answers to their background questions.
 
-- Discuss potential connections between the PCs using the questions included in the “Connections” section of your character guide as inspiration.
+- Discuss potential connections between the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) using the questions included in the “Connections” section of your character guide as inspiration.
 
-- Suggest at least one connection between your character and each other player’s PC. Accept any suggested connections you want to explore, reject any you don’t.
+- Suggest at least one connection between your character and each other player’s [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). Accept any suggested connections you want to explore, reject any you don’t.
 
-***Note:*** *A player can reject a suggested connection for any* *reason, and it’s okay if there isn’t an established connection* *between every pair of PCs—you can always discover and* *develop those relationships through play.*
+***Note:*** *A player can reject a suggested connection for any* *reason, and it’s okay if there isn’t an established connection* *between every pair of [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)—you can always discover and* *develop those relationships through play.*

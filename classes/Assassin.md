@@ -12,15 +12,15 @@ Assassins are masters at inflicting deadly injuries with precise strikes. Unlike
 
 **ASSASSIN’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Deadly Determination:*** **Spend 3 Hope** to clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Deadly Determination:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
 **[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Marked for Death:*** On a successful weapon attack, you can **mark a Stress** to make the target *Marked for Death*. When you deal damage to a target you’ve *Marked for Death*, add a number of **d4s** equal to your tier to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Marked for Death:*** On a successful weapon attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the target *Marked for Death*. When you deal damage to a target you’ve *Marked for Death*, add a number of **d4s** equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-You can have only one adversary *Marked for Death* at a time. This condition lasts until you take a rest, the current adversary *Marked for Death* is defeated, or the GM spends a number of Fear equal to your tier to clear it.
+You can have only one [adversary](../core_rules/Using%20Adversaries.md) *Marked for Death* at a time. This condition lasts until you take a rest, the current adversary *Marked for Death* is defeated, or the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) spends a number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to clear it.
 
-***Get In & Get Out:*** **Spend a Hope** to ask the GM for a quick or inconspicuous way into or out of a place you can see. The next roll you make that acts on this information has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Get In & Get Out:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) for a quick or inconspicuous way into or out of a place you can see. The next roll you make that acts on this information has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
 ### SUBCLASSES
 
