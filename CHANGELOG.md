@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.3.0] - 2026-10-21
+
+Linked the rules together and removed duplicate files.
+
+### Added
+
+- **Internal links**: rule terms (Hope, Fear, Stress, ranges, rests, rolls, conditions, tiers...) link to the
+  `core_rules/` section that explains them, and domains, classes, subclasses, ancestries, communities,
+  transformations, cards, adversaries, environments and equipment link to their notes. Each term is linked
+  once per paragraph.
+
+### Fixed
+
+- The domain card tables in `domains/` pointed to the domain folder; they now point to `abilities/`.
+
+### Removed
+
+- `adversaries_statblocks/`, an incomplete earlier set of Fantasy Statblocks notes (130 adversaries, no
+  environments). `fantasy_statblocks/` replaces it.
+- 20 stale copies kept next to their typographic versions (`A Soldiers Bond.md` next to
+  `A Soldier’s Bond.md`, `Arcana-Touched.md` next to `Arcana‑touched.md`...).
+
 ## [1.2.0] - 2026-10-04
 
 Created a folder with every adversary and environment as an Obsidian note for the Fantasy Statblocks plugin.
