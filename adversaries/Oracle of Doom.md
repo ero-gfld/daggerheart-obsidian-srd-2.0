@@ -1,25 +1,25 @@
 # Oracle of Doom
 
-***Tier 4 Solo***
+***Tier 4 [Solo](../core_rules/Using%20Adversaries.md)***
 *A towering immortal and incarnation of fate, cursed to only see bad outcomes.*
 
 **Motives & Tactics:** Change environment, condemn, dishearten, toss aside
 
-> **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10  
-> **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 mag
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 38/68 | **HP:** 11 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 10  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Psychic Attack:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+9 mag
 
-**Experience:** Boundless Knowledge +4
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Boundless [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +4
 
 ## FEATURES
 
-***Terrifying - Passive:*** When the Oracle makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
+***Terrifying - Passive:*** When the Oracle makes a successful attack, all PCs within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and you gain a Fear.
 
-***Walls Closing In - Passive:*** When a creature rolls a failure while within Very Far range of the Oracle, they must mark a Stress.
+***Walls Closing In - Passive:*** When a creature rolls a failure while within Very Far range of the Oracle, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Pronounce Fate - Action:*** **Spend a Fear** to present a target within Far range with a vision of their personal nightmare. The target must make a Knowledge Reaction Roll. On a failure, they lose all Hope and take **2d20+4** direct magic damage. On a success, they take half damage and lose a Hope.
+***Pronounce Fate - Action:*** **Spend a Fear** to present a target within Far range with a vision of their personal nightmare. The target must make a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, they lose all Hope and take **2d20+4** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they take half damage and lose a Hope.
 
 ***Summon Tormentors - Action:*** Once per day, **spend 2 Fear** to summon **2d4** Tier 2 or below Minions relevant to one of the PC’s personal nightmares. They appear at Close range relative to that PC.
 
 ***Ominous Knowledge - Reaction:*** When the Oracle sees a mortal creature, they instantly know one of their personal nightmares.
 
-***Vengeful Fate - Reaction:*** When the Oracle marks HP from an attack within Very Close range, you can **mark a Stress** to knock the attacker back to Far range and deal **2d10+4** physical damage.
+***Vengeful Fate - Reaction:*** When the Oracle marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack within Very Close range, you can **mark a Stress** to knock the attacker back to Far range and deal **2d10+4** physical damage.

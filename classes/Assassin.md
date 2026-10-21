@@ -2,7 +2,7 @@
 
 Assassins are masters at inflicting deadly injuries with precise strikes. Unlike those who wield violence as only a means to an end, assassins approach death as a profession. Many members of this class believe theirs is a worthy, if not sacred, trade, and some join guilds to hone their craft, define their beliefs, and earn money. People from all walks of life hire assassins for their skills: powerful rulers looking to avoid all-out war, business leaders seeking to eliminate the competition, and even average people hoping to settle a grudge. Often, an assassin is the last resort for killing those previously believed to be unkillable. While some of these deadly professionals will destroy anyone in their path for the right reasons or the right price, others hold strict moral codes or personal rules that dictate their targets. Those who end up the target of an assassin should count themselves among the dead
 
-**DOMAINS –** Blade & Midnight
+**DOMAINS –** [Blade](../domains/Blade.md) & [Midnight](../domains/Midnight.md)
 
 **STARTING EVASION –** 12
 
@@ -10,21 +10,21 @@ Assassins are masters at inflicting deadly injuries with precise strikes. Unlike
 
 **CLASS ITEMS –** A list of names with several marked off or a rusted blade inscribed with an insignia
 
-**ASSASSIN’S HOPE FEATURE**
+**ASSASSIN’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Deadly Determination:*** **Spend 3 Hope** to clear 2 Stress.
+***Deadly Determination:*** **Spend 3 Hope** to clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Marked for Death:*** On a successful weapon attack, you can **mark a Stress** to make the target *Marked for Death*. When you deal damage to a target you’ve *Marked for Death*, add a number of **d4s** equal to your tier to the damage roll.
+***Marked for Death:*** On a successful weapon attack, you can **mark a Stress** to make the target *Marked for Death*. When you deal damage to a target you’ve *Marked for Death*, add a number of **d4s** equal to your tier to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 You can have only one adversary *Marked for Death* at a time. This condition lasts until you take a rest, the current adversary *Marked for Death* is defeated, or the GM spends a number of Fear equal to your tier to clear it.
 
-***Get In & Get Out:*** **Spend a Hope** to ask the GM for a quick or inconspicuous way into or out of a place you can see. The next roll you make that acts on this information has advantage.
+***Get In & Get Out:*** **Spend a Hope** to ask the GM for a quick or inconspicuous way into or out of a place you can see. The next roll you make that acts on this information has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
 ### SUBCLASSES
 
-*Choose either the* ***Executioners Guild*** *or* ***Poisoners Guild*** *subclass.*
+*Choose either the* ***[Executioners Guild](../subclasses/Executioners%20Guild.md)*** *or* ***[Poisoners Guild](../subclasses/Poisoners%20Guild.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 

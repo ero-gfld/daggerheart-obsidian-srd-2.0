@@ -2,7 +2,7 @@
 
 Bards are the most charismatic people in all the realms. Members of this class are masters of captivation and specialize in a variety of performance types, including singing, playing musical instruments, weaving tales, or telling jokes. Whether performing for an audience or speaking to an individual, bards thrive in social situations. Members of this profession bond and train at schools or guilds, but a current of egotism runs through those of the bardic persuasion. While they may be the most likely class to bring people together, a bard of ill temper can just as easily tear a party apart.
 
-**DOMAINS –** Grace & Codex
+**DOMAINS –** [Grace](../domains/Grace.md) & [Codex](../domains/Codex.md)
 
 **STARTING EVASION –** 10
 
@@ -10,17 +10,17 @@ Bards are the most charismatic people in all the realms. Members of this class a
 
 **CLASS ITEMS –** A romance novel or a letter never opened
 
-**BARD’S HOPE FEATURE**
+**BARD’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Make a Scene:*** **Spend 3 Hope** to temporarily *Distract* a target within Close range, giving them a -2 penalty to their Difficulty.
+***Make a Scene:*** **Spend 3 Hope** to temporarily *Distract* a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, giving them a -2 penalty to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
 
-**CLASS FEATURE**
+**[CLASS FEATURE](../core_rules/Classes.md)**
 
-***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a **d6**. A PC can spend their Rally Die to roll it, adding the result to their action roll, reaction roll, damage roll, or to clear a number of Stress equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a **d8**.
+***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a **d6**. A PC can spend their Rally Die to roll it, adding the result to their action roll, [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), or to clear a number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a **d8**.
 
 ### SUBCLASSES
 
-*Choose either the* ***Troubadour*** *or* ***Wordsmith*** *subclass.*
+*Choose either the* ***[Troubadour](../subclasses/Troubadour.md)*** *or* ***[Wordsmith](../subclasses/Wordsmith.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 

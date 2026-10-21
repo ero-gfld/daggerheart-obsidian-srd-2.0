@@ -1,17 +1,17 @@
 # Jagged Knife Hexer
 
-***Tier 1 Support***
+***Tier 1 [Support](../core_rules/Using%20Adversaries.md)***
 *A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*
 
 **Motives & Tactics:** Command, hex, profit
 
-> **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4  
-> **ATK:** +2 | **Staff:** Far | 1d6+2 mag
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/9 | **HP:** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Staff:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+2 mag
 
-**Experience:** Magical Knowledge +2
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Magical [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2
 
 ## FEATURES
 
-***Curse - Action:*** Choose a target within Far range and temporarily *Curse* them. While the target is *Cursed*, you can **mark a Stress** when that target rolls with Hope to make the roll be with Fear instead.
+***Curse - Action:*** Choose a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and temporarily *Curse* them. While the target is *Cursed*, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** when that target rolls with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to make the roll be with Fear instead.
 
-***Chaotic Flux - Action:*** Make an attack against up to three targets within Very Close range. **Mark a Stress** to deal **2d6+3** magic damage to targets the Hexer succeeded against.
+***Chaotic Flux - Action:*** Make an attack against up to three targets within Very Close range. **Mark a Stress** to deal **2d6+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to targets the Hexer succeeded against.

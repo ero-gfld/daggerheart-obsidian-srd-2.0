@@ -18,7 +18,7 @@ Adventurous, Dynamic, Epic, Heroic, Thrilling, Uncanny, Whimsical
 
 #### THEMES
 
-Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and Change, Survival
+Cultural Clash, Ends Justify Means, Grief, People vs. Nature, [Transformation](../core_rules/Transformations.md) and Change, Survival
 
 #### TOUCHSTONES
 
@@ -58,7 +58,7 @@ In Fanewick, knowledge is the most valuable commodity, and those who have expert
 
 *You once traded important knowledge for something terrible.* *What did you impart and what did you gain in return?*
 
-In Haven, the wealthiest members are highborne, having inherited riches built in the walled city over generations. While the highborne of Haven were more insulated from the Serpent’s Sickness, none were immune.
+In Haven, the wealthiest members are highborne, having inherited riches built in the walled city over generations. While the highborne of Haven were more insulated from the Serpent’s Sickness, none were [immune](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 *Who have you lost to the Serpent’s Sickness? How did it* *affect you?*
 
@@ -110,7 +110,7 @@ Both Fanewick and Haven have a coastal border. The majority of Fanewick’s seab
 
 **WANDERBORNE**
 
-Wanderborne communities can be found in both Fanewick and Haven, though safe travel has been severely restricted due to the military occupation and the expansion of the Witherwild. Whether a wanderborne character comes from Fanewick, Haven, or elsewhere, the player should determine their character’s personal views on the invasion of Fanewick, and how that aligns or departs from their community’s views.
+[Wanderborne](../communities/Wanderborne.md) communities can be found in both Fanewick and Haven, though safe travel has been severely restricted due to the military occupation and the expansion of the Witherwild. Whether a wanderborne character comes from Fanewick, Haven, or elsewhere, the player should determine their character’s personal views on the invasion of Fanewick, and how that aligns or departs from their community’s views.
 
 *What do you do to keep your small community safe,* *independent, and hidden from Haven’s forces?*
 
@@ -152,15 +152,15 @@ Druids, rangers, and sorcerers are commonly found throughout Fanewick. If player
 
 **WARRIORS AND WIZARDS**
 
-Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and School of War wizards. If a PC is either of these classes, consider their personal relationship to the Haven Army.
+Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and [School of War](../subclasses/School%20of%20War.md) wizards. If a PC is either of these classes, consider their personal relationship to the Haven Army.
 
 **VENGEANCE GUARDIAN**
 
-Many Wicklings who seek revenge on Haven or to expel them from Fanewick become Vengeance guardians. If players choose this subclass, they should consider what ideals or institutions their character protects.
+Many Wicklings who seek revenge on Haven or to expel them from Fanewick become [Vengeance](../subclasses/Vengeance.md) guardians. If players choose this subclass, they should consider what ideals or institutions their character protects.
 
 **SYNDICATE ROGUE**
 
-The Haven Army sends spies into Fanewick communities to gain information on planned attacks and manipulate public perception. When selecting the Syndicate rogue subclass, players should consider how their character might be connected to or impacted by these covert operatives.
+The Haven Army sends spies into Fanewick communities to gain information on planned attacks and manipulate public perception. When selecting the [Syndicate](../subclasses/Syndicate.md) rogue subclass, players should consider how their character might be connected to or impacted by these covert operatives.
 
 #### PLAYER PRINCIPLES
 
@@ -274,9 +274,9 @@ Kreil advises the party to start their hunt for the Fanewraith in the treetop vi
 
 **CORRUPTION FROM THE WITHERWILD**
 
-Adversaries and environments in this campaign can gain an additional type called Withered. When an adversary is Withered, describe how the Witherwild changed or impacted how they would normally appear or operate. You also need about 20 Wither tokens (these can be the same as the tokens you use for Fear).
+Adversaries and environments in this campaign can gain an additional type called Withered. When an adversary is Withered, describe how the Witherwild changed or impacted how they would normally appear or operate. You also need about 20 Wither tokens (these can be the same as the tokens you use for [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)).
 
-Any time a PC takes Severe damage from a Withered adversary or environment, gain a Wither token and place it on that PC’s character sheet. When you do, the PC must roll their Fear Die. If they roll equal to or below the number of Wither tokens on their sheet, they immediately gain a scar and clear all tokens, describing how the Witherwild changes them permanently.
+Any time a PC takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from a Withered adversary or environment, gain a Wither token and place it on that PC’s character sheet. When you do, the PC must roll their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW). If they roll equal to or below the number of Wither tokens on their sheet, they immediately gain a [scar](../core_rules/Core%20Mechanics.md#DEATH) and clear all tokens, describing how the Witherwild changes them permanently.
 
 At the end of each session, clear all Wither tokens from the PCs’ sheets and gain an equal amount of Fear. If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
 

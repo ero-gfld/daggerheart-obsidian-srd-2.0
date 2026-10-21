@@ -1,5 +1,5 @@
 # Swift Step
 
-***Level 10*** *Bone Ability.* ***Recall Cost*** *2.*
+***Level 10*** *[Bone](../domains/Bone.md) Ability.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
 
-When an attack made against you fails, clear a Stress. If you can’t clear a Stress, gain a Hope.
+When an attack made against you fails, clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS). If you can’t clear a Stress, gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).

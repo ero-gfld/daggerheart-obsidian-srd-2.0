@@ -1,25 +1,25 @@
 # Manticore
 
-***Tier 3 Solo***
+***Tier 3 [Solo](../core_rules/Using%20Adversaries.md)***
 *A legendary beast that has a human’s face, lion’s body, scorpion’s tail, and dragon’s wings.*
 
 **Motives & Tactics:** Bite, claw, pounce, riddle, swipe, swoop, trick
 
-> **Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6  
-> **ATK:** +6 | **Teeth & Claws:** Very Close | 3d12+6 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/35 | **HP:** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +6 | **Teeth & Claws:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d12+6 phy
 
-**Experience:** Overgrowth +3, Riddles +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Overgrowth +3, Riddles +3
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Manticore can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Relentless (3) - Passive:*** The Manticore can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to spotlight them.
 
 ***Riddle Me This - Passive:*** The Manticore is obsessed with puzzles and can be distracted by brain teasers, word games, or other semi-intellectual diversions.
 
-***Winged - Passive:*** While airborne, the Manticore gains a +2 bonus to their Difficulty and attack rolls.
+***Winged - Passive:*** While airborne, the Manticore gains a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Pouncing Attack - Action:*** **Spend a Fear** to have the Manticore pounce into Melee range of a target within Far range and make an attack against them. On a success, deal **3d20+6** physical damage, and the target becomes *Shaky* until they spend a Hope. While *Shaky*, the target makes attack rolls with disadvantage.
+***Pouncing Attack - Action:*** **Spend a Fear** to have the Manticore pounce into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target within Far range and make an attack against them. On a success, deal **3d20+6** physical damage, and the target becomes *Shaky* until they spend a Hope. While *Shaky*, the target makes attack rolls with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
-***Paralyzing Tail Spike - Action:*** **Mark a Stress** to make an attack roll against a target within Close range. On a success, the target takes **3d8** physical damage and becomes *Restrained* until they overcome the toxin with a successful Strength Roll.
+***Paralyzing Tail Spike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack roll against a target within Close range. On a success, the target takes **3d8** physical damage and becomes *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they overcome the toxin with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll.
 
 ***Locking Jaws - Reaction:*** When the Manticore succeeds on a standard attack against a target within Melee range, you can **mark a Stress** to lock their jaws onto the target, making the target *Restrained* and *Vulnerable* until they escape with a successful Strength Roll (19).

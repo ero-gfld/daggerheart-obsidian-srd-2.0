@@ -22,7 +22,7 @@ The relationship between two factions is designated by a number between −3 and
 
 - +2: Allied
 
-- +3: Close Allies
+- +3: [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Allies
 
 The more intense their relationship, the more willing one faction is to act on behalf of or against the other, even at risk to itself. A Friendly (+1) faction might render help if it doesn’t require much effort or risk, whereas a faction will go to great effort and expense to see its Nemeses (−3) suffer.
 
@@ -44,7 +44,7 @@ Each Faction Card contains the following information:
 
 #### OBJECTIVE COUNTDOWNS
 
-You can use long-term countdowns to track a faction’s efforts to exploit their assets, address their problems, and pursue their major and minor objectives.
+You can use long-term [countdowns](Making%20Moves.md#COUNTDOWNS) to track a faction’s efforts to exploit their assets, address their problems, and pursue their major and minor objectives.
 
 Each in-game week, pick one countdown for each faction to advance (stepping down the countdown by one tick) as it makes progress toward its goal. These countdowns can also tick up (or down extra steps) according to the fiction.
 
@@ -62,18 +62,18 @@ The party may often be dispatched or mobilized to complete or block these object
 
 **Primary Physical Weapons**
 
-| Name | Trait | Range | Damage | Burden | Feature |
+| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
 | --- | --- | --- | --- | --- | --- |
-| **Cleaver** | Agility | Melee | d8 phy | One-Handed | ***Reliable:*** +1 to attack rolls |
+| **Cleaver** | [Agility](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 phy | One-Handed | ***Reliable:*** +1 to [attack rolls](Core%20Mechanics.md#ATTACKING) |
 | **Sharpened Rake** | Agility | Melee | d8+3 phy | Two-Handed | — |
-| **Butcher’s Axe** | Strength | Melee | d12+3 phy | Two-Handed | ***Heavy:*** −1 to Evasion |
+| **Butcher’s Axe** | Strength | Melee | d12+3 phy | Two-Handed | ***Heavy:*** −1 to [Evasion](Core%20Mechanics.md#EVASION) |
 | **Iron Skillet** | Strength | Melee | d8+1 phy | One-Handed | — |
 | **Pitchfork** | Strength | Melee | d10+3 phy | Two-Handed | — |
 | **Sledgehammer** | Strength | Melee | d10+3 phy | Two-Handed | ***Massive:*** −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result. |
 | **Cooking Knife** | Finesse | Melee | d8+1 phy | One-Handed | — |
 | **Walking Staff** | Instinct | Melee | d10+3 phy | Two-Handed | — |
 | **Rolling Pin** | Presence | Melee | d8+1 phy | One-Handed | — |
-| **Sickle** | Presence | Melee | d8 phy | One-Handed | ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. |
+| **Sickle** | Presence | Melee | d8 phy | One-Handed | ***Quick:*** When you make an attack, you can mark a [Stress](Core%20Mechanics.md#STRESS) to target another creature within range. |
 | **Forge Poker** | Strength | Very Close | d8+2 phy | Two-Handed | — |
 | **Crop Scythe** | Finesse | Very Close | d8+2 phy | Two-Handed | — |
 | **Fishing Rod** | Agility | Far | d6+3 phy | Two-Handed | — |
@@ -82,7 +82,7 @@ The party may often be dispatched or mobilized to complete or block these object
 
 **Primary Magic Weapons**
 
-*All magic weapons require a Spellcast trait*
+*All magic weapons require a [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait*
 
 | Name | Trait | Range | Damage | Burden | Feature |
 | --- | --- | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ The party may often be dispatched or mobilized to complete or block these object
 | Name | Trait | Range | Damage | Burden | Feature |
 | --- | --- | --- | --- | --- | --- |
 | **Large Fork** | Agility | Melee | d8 phy | One-Handed | ***Paired:*** +2 to primary weapon damage to targets within Melee range |
-| **Barrel Lid Shield** | Strength | Melee | d4 phy | One-Handed | ***Protective:*** +1 to Armor Score |
+| **Barrel Lid Shield** | Strength | Melee | d4 phy | One-Handed | ***Protective:*** +1 to [Armor Score](Equipment.md#ARMOR) |
 | **Table Shield** | Strength | Melee | d6 phy | One-Handed | ***Barrier:*** +2 to Armor Score; −1 to Evasion |
 | **Paring Knife** | Finesse | Melee | d8 phy | One-Handed | ***Paired:*** +2 to primary weapon damage to targets within Melee range |
 | **Festival Whip** | Presence | Very Close | d6 phy | One-Handed | ***Startling:*** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range. |
@@ -120,7 +120,7 @@ The party may often be dispatched or mobilized to complete or block these object
 
 ## FEASTS
 
-*You can use the following mechanics for campaigns in which the* *PCs harvest ingredients throughout play and use them to cook* *meals during downtime.*
+*You can use the following mechanics for campaigns in which the* *PCs harvest ingredients throughout play and use them to cook* *meals during [downtime](Core%20Mechanics.md#DOWNTIME).*
 
 #### INGREDIENTS & FLAVORS
 
@@ -152,7 +152,7 @@ When the PCs cook with an ingredient, they roll a number of dice (of the flavor�
 
 Ingredients can be acquired from defeated adversaries or the party’s surroundings.
 
-When an edible animal is defeated, the PCs can harvest ingredients from it. The number of ingredients that can be harvested is determined by the defeated animal’s maximum Hit Points, according to the following table:
+When an edible animal is defeated, the PCs can harvest ingredients from it. The number of ingredients that can be harvested is determined by the defeated animal’s maximum [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), according to the following table:
 
 **Hit Points to Ingredients Guide**
 
@@ -165,7 +165,7 @@ When an edible animal is defeated, the PCs can harvest ingredients from it. The 
 
 The GM determines the ingredients gained based on the details of the narrative. Usually, less powerful adversaries have predominantly Sweet, Salty, and Bitter flavor profiles, whereas more powerful adversaries tend to be more Sour, Savory, and Weird.
 
-The PCs can also obtain ingredients by harvesting edible plants and fungi. Once per rest, each PC can spend a Hope to gather ingredients from their environment. The GM determines what ingredients they acquire based on the fiction or by having them roll their Hope Die, then, based on the result, gain an ingredient with the following flavor profile:
+The PCs can also obtain ingredients by harvesting edible plants and fungi. Once per rest, each PC can spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to gather ingredients from their environment. The GM determines what ingredients they acquire based on the fiction or by having them roll their [Hope Die](Core%20Mechanics.md#OVERVIEW), then, based on the result, gain an ingredient with the following flavor profile:
 
 **Environmental Ingredients Guide**
 
@@ -180,7 +180,7 @@ The PCs can also obtain ingredients by harvesting edible plants and fungi. Once 
 
 #### MAKE A FEAST
 
-In a feast-based campaign, players can’t choose downtime moves to clear Stress, clear Hit Points, or gain Hope. Instead, they have a new downtime move: Make a Feast. Each PC who chooses this move can remove ingredients from their inventory and contribute them to the party’s collective meal to gain the benefits of the resulting feast.
+In a feast-based campaign, players can’t choose [downtime moves](Core%20Mechanics.md#DOWNTIME) to clear [Stress](Core%20Mechanics.md#STRESS), clear [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), or gain [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). Instead, they have a new downtime move: Make a Feast. Each PC who chooses this move can remove ingredients from their inventory and contribute them to the party’s collective meal to gain the benefits of the resulting feast.
 
 **PREPARING THE DISH**
 
@@ -275,14 +275,14 @@ Once your table is comfortable with basic feasting mechanics, you can give the P
 
 | NAME | FLAVOR PROFILE | FEATURE |
 | --- | --- | --- |
-| **Diregazelle Skull Marrow** | Sweet (1), Salty (1), Sour (1) | ***Built for Speed:*** +1 bonus to Agility until your next rest |
+| **Diregazelle Skull Marrow** | Sweet (1), Salty (1), Sour (1) | ***Built for Speed:*** +1 bonus to [Agility](Character%20Creation.md#STEP%203) until your next rest |
 | **Holy Cow’s Milk** | Weird (1) | ***Last Drop:*** When you prepare a dish with this ingredient and there’s only one remaining die in the flavor pool, roll it and add the result to the dish’s Meal Rating. |
-| **Ghost Scorpion Venom** | Sour (1), Savory (1) | ***Spicy:*** If any matching sets from a dish prepared with this ingredient are worth 8 or more points, you can’t clear Stress from consuming the resulting dish. |
-| **Deathflower** | Bitter (2) | ***Risky:*** If you finish preparing a dish with this ingredient and have no matching sets of flavor dice, you clear all Hit Points and Stress and gain 3 Hope. Otherwise, the dish’s Meal Rating is 0 and you must make a death move. |
+| **Ghost Scorpion Venom** | Sour (1), Savory (1) | ***Spicy:*** If any matching sets from a dish prepared with this ingredient are worth 8 or more points, you can’t clear [Stress](Core%20Mechanics.md#STRESS) from consuming the resulting dish. |
+| **Deathflower** | Bitter (2) | ***Risky:*** If you finish preparing a dish with this ingredient and have no matching sets of flavor dice, you clear all [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and Stress and gain 3 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). Otherwise, the dish’s Meal Rating is 0 and you must make a [death move](Core%20Mechanics.md#DEATH). |
 
 #### RESTAURANTS
 
-A PC can spend up to 2 handfuls of gold during downtime to order food from a nearby restaurant and choose one of the following downtime moves for each handful of gold spent: clear Stress, clear Hit Points, or gain Hope.
+A PC can spend up to 2 [handfuls](Equipment.md#GOLD) of gold during [downtime](Core%20Mechanics.md#DOWNTIME) to order food from a nearby restaurant and choose one of the following downtime moves for each handful of gold spent: clear [Stress](Core%20Mechanics.md#STRESS), clear [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), or gain [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR).
 
 ## GRIMDARK CAMPAIGNS
 
@@ -292,15 +292,15 @@ A PC can spend up to 2 handfuls of gold during downtime to order food from a nea
 
 Adversaries in this campaign can have a feature called Shadow-Touched:
 
-***Shadow-Touched – Passive.*** This Adversary critically succeeds on attack rolls of 19–20.
+***Shadow-Touched – Passive.*** This Adversary critically succeeds on [attack rolls](Core%20Mechanics.md#ATTACKING) of 19–20.
 
 When you introduce a Shadow-Touched adversary, describe how magic has warped their essence and form.
 
-PCs can also become *Shadow-Touched* when corrupted by dark magic. A *Shadow-Touched* PC gains a damage bonus equal to the number of scars they have marked. When a *Shadow-Touched* PC marks their last Hope slot with a scar, they succumb to corruption and charge into the darkness instead of making a death move.
+PCs can also become *Shadow-Touched* when corrupted by dark magic. A *Shadow-Touched* PC gains a damage bonus equal to the number of [scars](Core%20Mechanics.md#DEATH) they have marked. When a *Shadow-Touched* PC marks their last [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) slot with a scar, they succumb to corruption and charge into the darkness instead of making a death move.
 
 #### SACRED BONFIRES & TORCHES
 
-Sacred Bonfires are vibrant magical pyres lit by the flames of rare and magical Sacred Torches, each of which carries a fragment of divine power. Sacred Bonfires burn out unless continuously provided with a bit of kindling, and can’t be reignited without a Sacred Torch. When a Sacred Bonfire is relit, each PC present gains 3 Hope. A Sacred Bonfire’s light repels all but the most powerful monsters from its immediate vicinity.
+Sacred Bonfires are vibrant magical pyres lit by the flames of rare and magical Sacred Torches, each of which carries a fragment of divine power. Sacred Bonfires burn out unless continuously provided with a bit of kindling, and can’t be reignited without a Sacred Torch. When a Sacred Bonfire is relit, each PC present gains 3 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). A Sacred Bonfire’s light repels all but the most powerful monsters from its immediate vicinity.
 
 ## TECH-BASED CAMPAIGNS
 
@@ -308,7 +308,7 @@ Sacred Bonfires are vibrant magical pyres lit by the flames of rare and magical 
 
 #### TECH DAMAGE
 
-Tech damage is a replacement for magic damage in campaigns where damage is caused by technomancy. You can reflavor magic attacks as sonic blasts, blinding flashes of light, swarming nanobots, plasma beams, or any other product of advanced technology.
+Tech damage is a replacement for [magic damage](Core%20Mechanics.md#ATTACKING) in campaigns where damage is caused by technomancy. You can reflavor magic attacks as sonic blasts, blinding flashes of light, swarming nanobots, plasma beams, or any other product of advanced technology.
 
 #### ICONIC WEAPONS & OTHER TOOLS
 
@@ -316,7 +316,7 @@ The following sections detail how weapons, armor, and other items might work in 
 
 **ICONIC WEAPONS**
 
-Characters don’t have access to Daggerheart’s normal selection of primary and secondary weapons during a tech-based campaign. Instead, each character receives an Iconic Weapon that begins as a simple rod of metal but can be incrementally modified to suit the wielder’s needs.
+Characters don’t have access to Daggerheart’s normal selection of primary and [secondary weapons](Equipment.md#WEAPONS) during a tech-based campaign. Instead, each character receives an Iconic Weapon that begins as a simple rod of metal but can be incrementally modified to suit the wielder’s needs.
 
 A player designs their character’s Iconic Weapon using an Iconic Weapon Sheet. For inspiration, see the Motherboard Module sheet in *Daggerheart Core* or available online at daggerheart.com/downloads. Each player should take a copy of the module and complete the following steps:
 
@@ -330,11 +330,11 @@ A player designs their character’s Iconic Weapon using an Iconic Weapon Sheet.
 
 Iconic Weapons are considered two-handed weapons and start with the Bonded feature:
 
-**Bonded:** Gain a bonus to your damage rolls equal to your level.
+**Bonded:** Gain a bonus to your [damage rolls](Core%20Mechanics.md#ATTACKING) equal to your level.
 
 **UPGRADES**
 
-A character’s Iconic Weapon starts with two Upgrade slots at Tier 1 to indicate that it has evolved from its most basic form. An Iconic Weapon gains an additional Upgrade slot at each subsequent tier. An Upgrade can be crafted as a downtime move when a PC has the Parts to do so. See the upcoming “Crafting & Trading” section for more information.
+A character’s Iconic Weapon starts with two Upgrade slots at Tier 1 to indicate that it has evolved from its most basic form. An Iconic Weapon gains an additional Upgrade slot at each subsequent tier. An Upgrade can be crafted as a [downtime move](Core%20Mechanics.md#DOWNTIME) when a PC has the Parts to do so. See the upcoming “Crafting & Trading” section for more information.
 
 Each Iconic Weapon begins without any installed Upgrades. A character can build as many Upgrades as they wish but can’t install more Upgrades than the number of Upgrade slots their Iconic Weapon has. An installed Upgrade is treated as a weapon feature. During downtime, a PC can freely swap Upgrades they’ve already crafted or otherwise acquired.
 
@@ -346,7 +346,7 @@ Each tech-based campaign setting includes a worldwide data and energy network th
 
 #### CRAFTING & TRADING
 
-Gold is not used as a currency in tech-based campaign frames. Instead, PCs gather Scrap to trade for a currency known as Credits. The Iconic Weapon Sheet includes areas for tracking both Scrap and Credits. All PCs start with 5 Credits.
+[Gold](Equipment.md#GOLD) is not used as a currency in tech-based campaign frames. Instead, PCs gather Scrap to trade for a currency known as Credits. The Iconic Weapon Sheet includes areas for tracking both Scrap and Credits. All PCs start with 5 Credits.
 
 **CONVERTING GOLD TO CREDITS**
 
@@ -388,7 +388,7 @@ Relics are unique pieces of Scrap only found on specific tech-based adversaries.
 
 **CRAFTING WITH SCRAP**
 
-PCs can use a downtime move and spend the appropriate Scrap or Relics to craft Upgrades for their Iconic Weapons or other items. A PC can’t craft an Upgrade until they satisfy its Prerequisites. An Upgrade can always be broken back into its constituents to reacquire the Scrap used in its creation.
+PCs can use a [downtime move](Core%20Mechanics.md#DOWNTIME) and spend the appropriate Scrap or Relics to craft Upgrades for their Iconic Weapons or other items. A PC can’t craft an Upgrade until they satisfy its Prerequisites. An Upgrade can always be broken back into its constituents to reacquire the Scrap used in its creation.
 
 **BUYING AND SELLING SCRAP**
 
@@ -402,19 +402,19 @@ Merchants have a limited amount and variety of Scrap for sale, usually 1d10 of e
 
 #### WEAPONS & LOOT
 
-**Primary Weapons**
+**[Primary Weapons](Equipment.md#WEAPONS)**
 
 | Name | Trait | Range | Damage | Burden | Feature |
 | --- | --- | --- | --- | --- | --- |
-| **Revolver** | Finesse | Far | Tier 1: d8+1 phy Tier 2: d8+4 phy Tier 3: d8+7 phy Tier 4: d8+10 phy | One-Handed | ***Six Shot:*** Place 6 Ammo tokens on your character sheet. Spend 1 Ammo token to make an attack. You can mark a Stress to regain spent Ammo tokens. |
-| **Rifle** | Agility | Very Far | Tier 1: d8+2 phy Tier 2: d8+5 phy Tier 3: d8+8 phy Tier 4: d8+11 phy | Two-Handed | ***Sightline:*** Spend 2 Hope to gain advantage on an attack roll. |
+| **Revolver** | [Finesse](Character%20Creation.md#STEP%203) | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d8+1 phy Tier 2: d8+4 phy Tier 3: d8+7 phy Tier 4: d8+10 phy | One-Handed | ***Six Shot:*** Place 6 Ammo tokens on your character sheet. Spend 1 Ammo token to make an attack. You can mark a [Stress](Core%20Mechanics.md#STRESS) to regain spent Ammo tokens. |
+| **Rifle** | Agility | Very Far | Tier 1: d8+2 phy Tier 2: d8+5 phy Tier 3: d8+8 phy Tier 4: d8+11 phy | Two-Handed | ***Sightline:*** Spend 2 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to gain [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on an [attack roll](Core%20Mechanics.md#ATTACKING). |
 | **Shotgun** | Strength | Very Close | Tier 1: d6+2 phy Tier 2: d6+5 phy Tier 3: d6+8 phy Tier 4: d6+11 phy | Two-Handed | ***Scattershot:*** When you make an attack, target all creatures in front of you within range. |
 
 **Secondary Weapons**
 
 | Name | Trait | Range | Damage | Burden | Feature |
 | --- | --- | --- | --- | --- | --- |
-| **Lasso** | Agility | Very Close | Tier 1: d4 phy Tier 2: d4+3 phy Tier 3: d4+6 phy Tier 4: d4+9 phy | One-Handed | ***Roped:*** On a successful attack, you can temporarily *Rope* the target instead of dealing damage. While *Roped*, the target is *Restrained* and *Vulnerable*, but you must remain within Very Close range of the target. When the target would clear this condition, you can make a Strength Reaction Roll. On a success, they remain Roped. |
+| **Lasso** | Agility | Very Close | Tier 1: d4 phy Tier 2: d4+3 phy Tier 3: d4+6 phy Tier 4: d4+9 phy | One-Handed | ***Roped:*** On a successful attack, you can temporarily *Rope* the target instead of dealing damage. While *Roped*, the target is *[Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *Vulnerable*, but you must remain within Very Close range of the target. When the target would clear this condition, you can make a Strength [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS). On a success, they remain Roped. |
 | **Small Revolver** | Finesse | Far | Tier 1: d6 phy Tier 2: d6+3 phy Tier 3: d6+6 phy Tier 4: d6+9 phy | One-Handed | ***Quick Shot:*** Spend 2 Hope to gain a +4 bonus to primary weapon damage. |
 
 You can also make the following consumable available in a western-themed campaign:
@@ -437,11 +437,11 @@ You can also make the following consumable available in a western-themed campaig
 
 - Segments
 
-- Damage Thresholds
+- [Damage Thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)
 
-- Stress
+- [Stress](Core%20Mechanics.md#STRESS)
 
-- Experiences
+- [Experiences](Character%20Creation.md#STEP%207)
 
 - Features that apply to all segments
 
@@ -451,7 +451,7 @@ Each segment of a colossus has its own stat block, which lists the following:
 
 - Adjacent segments
 
-- Difficulty
+- [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS)
 
 - HP
 
@@ -465,7 +465,7 @@ For example Colossus adversaries and Colossus features, see the “Colossus of t
 
 #### SEGMENT VS. COLOSSUS EFFECTS
 
-When a feature refers to a segment’s name, such as “the Head,” it refers only to that specific part of the colossus. For example, the Head might be immune to physical attacks or more difficult to climb. When a feature refers to the colossus’s name, it applies to the adversary as a whole. For example, a reaction feature might trigger an attack after the colossus marks 2 or more Hit Points from a single attack. This would mean that when any segment marks 2 or more Hit Points from a single attack, the reaction is triggered.
+When a feature refers to a segment’s name, such as “the Head,” it refers only to that specific part of the colossus. For example, the Head might be [immune](Core%20Mechanics.md#ATTACKING) to physical attacks or more difficult to climb. When a feature refers to the colossus’s name, it applies to the adversary as a whole. For example, a reaction feature might trigger an attack after the colossus marks 2 or more [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from a single attack. This would mean that when any segment marks 2 or more Hit Points from a single attack, the reaction is triggered.
 
 #### ADJACENT SEGMENTS
 
@@ -487,19 +487,19 @@ During an encounter with a colossus, use the following movement mechanics:
 
 - Once on a segment, a PC can usually move around and within it without making additional rolls.
 
-- To move to an adjacent segment, a PC must make an appropriate action roll (usually Agility or Strength) to leap onto it.
+- To move to an adjacent segment, a PC must make an appropriate [action roll](Core%20Mechanics.md#ACTION%20ROLLS) (usually [Agility](Character%20Creation.md#STEP%203) or Strength) to leap onto it.
 
 **TEAMWORK**
 
-While fighting a colossus, a PC can initiate any number of Tag Team Rolls in a single session.
+While fighting a colossus, a PC can initiate any number of [Tag Team Rolls](Core%20Mechanics.md#SPECIAL%20ROLLS) in a single session.
 
 **USING A COLOSSUS IN BATTLE**
 
-Treat each segment of a colossus as a separate adversary when moving the spotlight. You can spotlight a segment as a GM move, then spend a Fear to spotlight an additional segment as you would during a fight with regular adversaries. Some colossi also have actions in their colossus framework; you can spotlight the framework to use this action as you would spotlight a segment, but you should highlight the colossus as a whole in the narrative. You can still spotlight additional segments on your turn.
+Treat each segment of a colossus as a separate adversary when moving the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT). You can spotlight a segment as a [GM move](Making%20Moves.md), then spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to spotlight an additional segment as you would during a fight with regular adversaries. Some colossi also have actions in their colossus framework; you can spotlight the framework to use this action as you would spotlight a segment, but you should highlight the colossus as a whole in the narrative. You can still spotlight additional segments on your turn.
 
 While a PC is on a segment of the colossus:
 
-- They have advantage on attacks targeting that segment.
+- They have [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks targeting that segment.
 
 - The segment’s standard attack cannot be used on that PC.
 
@@ -511,11 +511,11 @@ If your table uses maps and minis for combat encounters, you can use notecards t
 
 #### LEVELING UP
 
-By default, the PCs levels up when they defeat a colossus. After defeating nine colossi, the party will be at level 10 and ready to take on a Final Colossus. The power of the final colossus is partially determined by the number of rests the party takes throughout the campaign.
+By default, the PCs [levels up](Core%20Mechanics.md#LEVELING%20UP) when they defeat a colossus. After defeating nine colossi, the party will be at level 10 and ready to take on a Final Colossus. The power of the final colossus is partially determined by the number of rests the party takes throughout the campaign.
 
-During the campaign, track the increasing power of the final colossus with a d10 Siphoning Die that starts at 1 and a d100 Power Die that starts at 0. Tick the Power Die up by one when the PCs take a short rest and by two when they take a long rest. When the party defeats a colossus, roll a number of d12s equal to the value of the Siphon Die, and tick up the Power Die by the highest rolled result, then reset the Siphon Die to 1.
+During the campaign, track the increasing power of the final colossus with a d10 Siphoning Die that starts at 1 and a d100 Power Die that starts at 0. Tick the Power Die up by one when the PCs take a [short rest](Core%20Mechanics.md#DOWNTIME) and by two when they take a long rest. When the party defeats a colossus, roll a number of d12s equal to the value of the Siphon Die, and tick up the Power Die by the highest rolled result, then reset the Siphon Die to 1.
 
-Once nine colossi have been defeated or the Power Die reaches 100, the final colossus reveals itself. Build it as a Colossus adversary with a Severe threshold equal to the value of Power Die and a Major threshold equal to half that value (rounded up).
+Once nine colossi have been defeated or the Power Die reaches 100, the final colossus reveals itself. Build it as a Colossus adversary with a [Severe threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to the value of Power Die and a Major threshold equal to half that value (rounded up).
 
 ## FLOATING MAGIC SCHOOL CAMPAIGNS
 
@@ -523,11 +523,11 @@ Once nine colossi have been defeated or the Power Die reaches 100, the final col
 
 #### FLIGHT
 
-During character creation, each player creates a magic artifact they can use to fly. Flying PCs use the normal movement rules and can fly within Close range as part of an action roll, but they must make an appropriate trait roll to move beyond Close range or if movement is their primary action. At the GM’s discretion, some threats, such as gaining the *Restrained* or *Vulnerable* conditions, losing their magic artifact, or taking Severe damage, can temporarily interrupt a PC’s ability to fly.
+During character creation, each player creates a magic artifact they can use to fly. Flying PCs use the normal movement rules and can fly within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range as part of an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), but they must make an appropriate [trait roll](Core%20Mechanics.md#SPECIAL%20ROLLS) to move beyond Close range or if movement is their primary action. At the GM’s discretion, some threats, such as gaining the *[Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS)* or *Vulnerable* conditions, losing their magic artifact, or taking [Severe damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), can temporarily interrupt a PC’s ability to fly.
 
 **USING TRAITS FOR FLIGHT**
 
-A PC can use any appropriate trait (not just Agility) to move while flying. The following are some examples of how each trait might be used:
+A PC can use any appropriate trait (not just [Agility](Character%20Creation.md#STEP%203)) to move while flying. The following are some examples of how each trait might be used:
 
 **Agility:** Swift acrobatics, speed-boosting off an adversary’s wake, maintaining an aerodynamic posture, or angling past a winged threat
 
@@ -543,7 +543,7 @@ A PC can use any appropriate trait (not just Agility) to move while flying. The 
 
 **LESS LETHAL CAMPAIGNS**
 
-In a less lethal campaign, any death move that would normally lead to a character’s demise instead puts them in the infirmary for a few weeks or sends them home for an extended period of time. While they recover, the PC is unplayable but not dead.
+In a less lethal campaign, any [death move](Core%20Mechanics.md#DEATH) that would normally lead to a character’s demise instead puts them in the infirmary for a few weeks or sends them home for an extended period of time. While they recover, the PC is unplayable but not dead.
 
 ## FAIRY TALE CAMPAIGNS
 
@@ -555,13 +555,13 @@ A creature afflicted with a magical curse gains the *Cursed* condition. The *Cur
 
 #### TRANSFORMING ADVERSARIES
 
-“Transform” is a special action that enables an adversary to shift between multiple stat blocks. By default, the adversary has a primary stat block that includes stats and features available to the adversary regardless of their active form. While in a particular form, the adversary has access to the stats and features contained in that form’s stat block and their primary stat block. Unless noted otherwise, the adversary tracks HP and Stress on their primary stat block regardless of their active form.
+“Transform” is a special action that enables an adversary to shift between multiple stat blocks. By default, the adversary has a primary stat block that includes stats and features available to the adversary regardless of their active form. While in a particular form, the adversary has access to the stats and features contained in that form’s stat block and their primary stat block. Unless noted otherwise, the adversary tracks [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](Core%20Mechanics.md#STRESS) on their primary stat block regardless of their active form.
 
 #### BUILDING VILLAINS COLLABORATIVELY
 
 *You can build a campaign villain collaboratively using the* *following process.*
 
-Prior to your session zero, write approximately 40 prompts, each in the form of a question about the villain. For example, you might ask about the villain’s background, demeanor, motives, or reputation. Write each prompt on an index card or slip of paper. For inspiration, see the Reign of the Weredragon Villain Builder sheet in *Hope & Fear* or available online at daggerheart.com/downloads.
+Prior to your session zero, write approximately 40 prompts, each in the form of a question about the villain. For example, you might ask about the villain’s background, demeanor, motives, or reputation. Write each prompt on an index card or slip of paper. For inspiration, see the Reign of the Weredragon Villain Builder sheet in *[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) & Fear* or available online at daggerheart.com/downloads.
 
 During session zero (and prior to character creation) randomly select about 15 of your prepared prompts and place them in the center of the table so that everyone can reach them but no one can read them.
 
@@ -583,43 +583,43 @@ When there are no more follow-up questions to a prompt, play passes to the left.
 
 You can make the following weapons and items available to your players.
 
-**Primary Weapons**
+**[Primary Weapons](Equipment.md#WEAPONS)**
 
 | Name | Trait | Range | Damage | Burden | Feature |
 | --- | --- | --- | --- | --- | --- |
-| **Blessed Brass Knuckles** | Strength | Melee | Tier 1: d8+1 mag Tier 2: d8+4 mag Tier 3: d8+7 mag Tier 4: d8+10 mag | One-Handed | — |
+| **Blessed [Brass Knuckles](../weapons/Brass%20Knuckles.md)** | [Strength](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d8+1 mag Tier 2: d8+4 mag Tier 3: d8+7 mag Tier 4: d8+10 mag | One-Handed | — |
 | **Holy Shotgun** | Agility | Very Close | Tier 1: d6+2 mag Tier 2: d6+5 mag Tier 3: d6+8 mag Tier 4: d6+11 mag | Two-Handed | ***Scattershot:*** When you make an attack, target all creatures in front of you within range. |
-| **Repeating Crossbow** | Finesse | Far | Tier 1: d6+2 phy Tier 2: d6+5 phy Tier 3: d6+8 phy Tier 4: d6+11 phy | Two-Handed | ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range. |
+| **Repeating Crossbow** | Finesse | Far | Tier 1: d6+2 phy Tier 2: d6+5 phy Tier 3: d6+8 phy Tier 4: d6+11 phy | Two-Handed | ***Quick:*** When you make an attack, you can mark a [Stress](Core%20Mechanics.md#STRESS) to target another creature within range. |
 
 **Secondary Weapons**
 
 | Name | Trait | Range | Damage | Burden | Feature |
 | --- | --- | --- | --- | --- | --- |
 | **Wooden Stake** | Strength | Melee | Tier 1: d8 phy Tier 2: d8+2 phy Tier 3: d8+4 phy Tier 4: d8+6 phy | One-Handed | ***Paired:*** Gain a bonus equal to 1 + your tier to primary weapon damage to targets within Melee range. |
-| **Hallowed Shield** | Instinct | Melee | Tier 1: d4 mag Tier 2: d4+2 mag Tier 3: d4+4 mag Tier 4: d4+6 mag | One-Handed | ***Resonant:*** When you critically succeed on a primary weapon attack, you gain an additional Hope. |
+| **Hallowed Shield** | Instinct | Melee | Tier 1: d4 mag Tier 2: d4+2 mag Tier 3: d4+4 mag Tier 4: d4+6 mag | One-Handed | ***Resonant:*** When you critically succeed on a primary weapon attack, you gain an additional [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). |
 | **Chain Whip** | Presence | Very Close | Tier 1: d6+1 phy Tier 2: d6+3 phy Tier 3: d6+5 phy Tier 4: d6+7 phy | One-Handed | ***Hooked:*** On a successful attack, you can pull the target into Melee range. |
 
 **Armor**
 
-| Name | Base Thresholds | Base Score | Feature |
+| Name | [Base Thresholds](Equipment.md#ARMOR) | Base Score | Feature |
 | --- | --- | --- | --- |
-| **Coffinwood Armor** | Tier 1: 4/10 Tier 2: 6/15 Tier 3: 8/22 Tier 4: 10/31 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Splintering:*** Gain a bonus to your damage thresholds equal to your unmarked Armor Slots. |
+| **Coffinwood Armor** | Tier 1: 4/10 Tier 2: 6/15 Tier 3: 8/22 Tier 4: 10/31 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Splintering:*** Gain a bonus to your [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your unmarked Armor Slots. |
 | **Leather Longcoat** | Tier 1: 5/12 Tier 2: 8/18 Tier 3: 10/25 Tier 4: 12/34 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Quiet:*** Gain a +2 bonus to rolls you make to move silently. |
-| **Silverweave Armor** | Tier 1: 5/11 Tier 2: 7/16 Tier 3: 9/23 Tier 4: 11/32 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Warded:*** You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds. |
+| **Silverweave Armor** | Tier 1: 5/11 Tier 2: 7/16 Tier 3: 9/23 Tier 4: 11/32 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Warded:*** You reduce incoming [magic damage](Core%20Mechanics.md#ATTACKING) by your Armor Score before applying it to your damage thresholds. |
 
 #### TRANSFORMATIONS
 
-*You can use the following mechanics for introducing the* *Reanimated, Vampire, and Werewolf transformations to your* *campaign.*
+*You can use the following mechanics for introducing the* *[Reanimated](../transformations/Reanimated.md), [Vampire](../transformations/Vampire.md), and [Werewolf](../transformations/Werewolf.md) [transformations](Transformations.md) to your* *campaign.*
 
 **REANIMATED**
 
-When a character gains the Reanimated transformation, their maximum loadout is reduced to one. During a rest, they can use a downtime move to raise their maximum loadout by one until they reach the normal maximum loadout of five.
+When a character gains the Reanimated transformation, their maximum [loadout](Domains.md#DOMAIN%20CARDS) is reduced to one. During a rest, they can use a [downtime move](Core%20Mechanics.md#DOWNTIME) to raise their maximum loadout by one until they reach the normal maximum loadout of five.
 
 **VAMPIRE**
 
 You can add the following feature to a prominent vampire adversary’s stat block:
 
-***Vampire’s Curse – Action.*** Make an attack roll against a target within Melee range. On a success, you can **spend a Fear** to have this adversary sink their teeth into the target’s neck and try to turn them into a vampire. Roll a number of **d8s** equal to this adversary’s tier and deal that much physical damage to the target. Then roll a **d6**. If the rolled result matches any of the damage dice results, the target marks all their Stress and gains the Vampire transformation.
+***Vampire’s Curse – Action.*** Make an [attack roll](Core%20Mechanics.md#ATTACKING) against a target within [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, you can **spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)** to have this adversary sink their teeth into the target’s neck and try to turn them into a vampire. Roll a number of **d8s** equal to this adversary’s tier and deal that much physical damage to the target. Then roll a **d6**. If the rolled result matches any of the damage dice results, the target marks all their [Stress](Core%20Mechanics.md#STRESS) and gains the Vampire transformation.
 
 If the player wishes for their character to become a vampire, the attack roll succeeds automatically. The PC takes the damage, marks all their Stress, and gains the transformation.
 
@@ -627,9 +627,9 @@ If the player wishes for their character to become a vampire, the attack roll su
 
 You can add the following feature to a prominent werewolf adversary’s stat block:
 
-***Wolf’s Curse – Action.*** Make an attack roll against a target within Melee range. On a success, you can **spend a Fear** to have this adversary viciously bite the target. Roll a number of **d20s** equal to this adversary’s tier and deal that much physical damage to the target. If the target takes Major or greater damage from this attack, activate a long-term Lycanthropy Countdown (6). It ticks down each time the PC takes a rest without using a downtime move to halt their lycanthropy’s progression. When it triggers, the PC gains the Werewolf transformation.
+***Wolf’s Curse – Action.*** Make an attack roll against a target within Melee range. On a success, you can **spend a Fear** to have this adversary viciously bite the target. Roll a number of **d20s** equal to this adversary’s tier and deal that much physical damage to the target. If the target takes Major or greater damage from this attack, activate a long-term Lycanthropy [Countdown](Making%20Moves.md#COUNTDOWNS) (6). It ticks down each time the PC takes a rest without using a downtime move to halt their lycanthropy’s progression. When it triggers, the PC gains the Werewolf transformation.
 
-If the player wishes for their character to become a werewolf, the attack roll succeeds automatically. The PC takes the damage and activates a long-term Lycanthropy Countdown (6) regardless of how many HP they marked as a result of the attack. When the countdown triggers, the PC gains the transformation.
+If the player wishes for their character to become a werewolf, the attack roll succeeds automatically. The PC takes the damage and activates a long-term Lycanthropy Countdown (6) regardless of how many [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) they marked as a result of the attack. When the countdown triggers, the PC gains the transformation.
 
 #### THE HUNT
 
@@ -675,7 +675,7 @@ Liminal Clues indicate *what* manifests, not how or where; they are not bound to
 
 Your table can use a map divided into hexagons, or “hex map,” to track the party’s movement across a large area, such as a continent. The party moves one hex at a time in a style of travel called a “hex crawl.” Each hex on the map represents roughly 24 miles of land from one side to another, although narrative always supersedes literal representation in Daggerheart.
 
-By default, the party travels through the wilderness between sanctuaries or settlements and resolves encounters along the way. A party can take up to three short rests while traveling through the wilderness but is restricted from taking long rests outside a sanctuary.
+By default, the party travels through the wilderness between sanctuaries or settlements and resolves encounters along the way. A party can take up to three [short rests](Core%20Mechanics.md#DOWNTIME) while traveling through the wilderness but is restricted from taking long rests outside a sanctuary.
 
 #### HEX MAPS
 
@@ -779,19 +779,19 @@ As needed, various party members scout ahead, forage and hunt, refill waterskins
 
 **RESOURCES & RESTING**
 
-This procedure doesn’t meticulously track rations or other supplies. Travel moves at the pace of the story, and the party’s resources are tracked via rests. Outside a safe place, such as a sanctuary or permanent settlement, the party can only take short rests, each of which represents an entire day spent in one location. Inside a safe place, the party can take a long rest, which represents multiple days recovering from hard travel and rough sleeping.
+This procedure doesn’t meticulously track rations or other supplies. Travel moves at the pace of the story, and the party’s resources are tracked via rests. Outside a safe place, such as a sanctuary or permanent settlement, the party can only take [short rests](Core%20Mechanics.md#DOWNTIME), each of which represents an entire day spent in one location. Inside a safe place, the party can take a long rest, which represents multiple days recovering from hard travel and rough sleeping.
 
 Remember that the term “rest” has a specific mechanical meaning in Daggerheart. Within the fiction, the party still rests (in the colloquial sense) most nights spent in the wilderness, but they don’t gain the mechanical benefits of a short rest every time they go to sleep. When the party takes three short rests in a row, their next rest must be a long rest (see XX).
 
 **ENCOUNTER ROLLS**
 
-When the party enters a hex, roll a number of d6s equal to the hex’s terrain rating. If any of the dice show a result of 1, activate an encounter you designed during region creation. Otherwise, you can spend Fear to activate an encounter. You can also change the size of the dice you roll to reflect more dangerous (d4) or safer (d8) areas.
+When the party enters a hex, roll a number of d6s equal to the hex’s terrain rating. If any of the dice show a result of 1, activate an encounter you designed during region creation. Otherwise, you can spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to activate an encounter. You can also change the size of the dice you roll to reflect more dangerous (d4) or safer (d8) areas.
 
 The party can trigger more than one encounter in a single region. If this happens, either roll on the Encounter table to generate a new encounter in the moment or shift an encounter from a region that the party seems unlikely to pass through, then modify or reflavor it to suit the current situation.
 
-**ENDURANCE COUNTDOWNS (OPTIONAL)**
+**ENDURANCE [COUNTDOWNS](Making%20Moves.md#COUNTDOWNS) (OPTIONAL)**
 
-You can heighten the tension of wilderness travel by giving each PC an Endurance Countdown (6) at the end of a rest. When the party enters a wilderness hex, each player rolls their Hope Die. If the result is equal to or lower than the value of their PC’s Endurance Countdown, they mark a Stress. Otherwise, they tick down their Endurance Countdown. When a PC’s Endurance Countdown triggers, they become *Vulnerable* until their next rest. At the start of a rest, all PCs’ Endurance Countdowns end.
+You can heighten the tension of wilderness travel by giving each PC an Endurance Countdown (6) at the end of a rest. When the party enters a wilderness hex, each player rolls their [Hope Die](Core%20Mechanics.md#OVERVIEW). If the result is equal to or lower than the value of their PC’s Endurance Countdown, they mark a [Stress](Core%20Mechanics.md#STRESS). Otherwise, they tick down their Endurance Countdown. When a PC’s Endurance Countdown triggers, they become *[Vulnerable](Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next rest. At the start of a rest, all PCs’ Endurance Countdowns end.
 
 **TRAVELING OVER WATER**
 
@@ -821,17 +821,17 @@ You can add the following habitat-based features to an adversary:
 
 - ***Blighted – Passive.*** This adversary is corrupted by magic. When encountered within a similarly affected area, this adversary critically succeeds on attacks with a die roll of 18–20.
 
-- ***Enviromancer – Passive.*** This adversary can draw upon the wild magic of their surroundings to fuel magical effects. **Mark a Stress** to activate an effect based on the habitat of their current location (if an effect’s damage roll uses the adversary’s tier, roll the damage die a number of times equal to their tier and total the results):
+- ***Enviromancer – Passive.*** This adversary can draw upon the wild magic of their surroundings to fuel magical effects. **Mark a Stress** to activate an effect based on the habitat of their current location (if an effect’s [damage roll](Core%20Mechanics.md#ATTACKING) uses the adversary’s tier, roll the damage die a number of times equal to their tier and total the results):
 
-  - **Heat Spell (Desert, Salt Flats, Volcano).** The adversary exudes oppressive supernatural heat. Each target within Very Close range must succeed on an Instinct Reaction Roll. Targets who fail must mark a Stress and take **d6** direct magic damage using this adversary’s tier.
+  - **Heat Spell (Desert, Salt Flats, Volcano).** The adversary exudes oppressive supernatural heat. Each target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on an [Instinct](Character%20Creation.md#STEP%203) [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail must mark a Stress and take **d6** direct magic damage using this adversary’s tier.
 
   - **Overgrowth Spell (Forest, Jungle).** This adversary unleashes a burst of branches, brambles, or vines in all directions. Each target within Close range must make an Agility Reaction Roll. Targets who fail take **d8** physical damage using this adversary’s tier and are *Restrained* until they break free with a successful Strength Roll.
 
-  - **Wind Spell (Cliffs, Plains, Steppe).** A tornado surrounds this adversary. Each target within Close range must make a Strength Reaction Roll. Targets who fail take **d8** magic damage using this adversary’s tier and are pushed up to Far range. Until this adversary takes damage, attack rolls against them have disadvantage.
+  - **Wind Spell (Cliffs, Plains, Steppe).** A tornado surrounds this adversary. Each target within Close range must make a Strength Reaction Roll. Targets who fail take **d8** magic damage using this adversary’s tier and are pushed up to Far range. Until this adversary takes damage, attack rolls against them have [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
   - **Ice Spell (Alpine, Glacier, Tundra).** This adversary unleashes daggers of ice. Make an attack against each PC in front of this adversary within Close range. Targets they succeed against take **d10** magic damage using this adversary’s tier and are *Frostbitten* until they spend a Hope to clear the condition. While *Frostbitten*, a PC gains a −1 penalty to their Proficiency.
 
-  - Poison Spell (Moor, Swamp, Wetlands). A cloud of toxic spores explodes from this adversary. Each PC within Close range must succeed on a Strength Reaction Roll or take **d6** direct damage using this adversary’s tier and become *Nauseated* until they clear a HP. While *Nauseated*, a PC can’t gain Hope.
+  - Poison Spell (Moor, Swamp, Wetlands). A cloud of toxic spores explodes from this adversary. Each PC within Close range must succeed on a Strength Reaction Roll or take **d6** direct damage using this adversary’s tier and become *Nauseated* until they clear a [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). While *Nauseated*, a PC can’t gain Hope.
 
   - **Stone Spell (Canyon, Mountain, Badlands).** This adversary gains a bonus to their damage thresholds equal to their tier until they take Severe damage or use this feature again.
 

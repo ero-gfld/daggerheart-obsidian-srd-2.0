@@ -1,5 +1,5 @@
 # Rapid Riposte
 
-***Level 6*** *Bone Ability.* ***Recall Cost*** *0.*
+***Level 6*** *[Bone](../domains/Bone.md) Ability.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
 
-When an attack made against you from within Melee range fails, you can **mark a Stress** and seize the opportunity to deal the weapon damage of one of your active weapons to the attacker.
+When an attack made against you from within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and seize the opportunity to deal the weapon damage of one of your active weapons to the attacker.

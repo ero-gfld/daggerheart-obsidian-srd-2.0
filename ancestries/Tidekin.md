@@ -4,8 +4,8 @@ Tidekin are humanoids whose bodies are made of flesh and water. Descended from w
 
 Tidekin are born as a small amount of water, such as a puddle or liquid orb. As children, they’re often kept in watertight containers such as bowls and bottles, and they tend to have a fluid appearance throughout their childhood until they gain a more solid humanoid form around adolescence. Adult tidekin range from 5 to 6½ feet in height, though their general body shape is influenced by the fluidity of water and might change, with some effort, over their approximately 300-year lifespan. When members of this ancestry die, they dissolve into water and flow away.
 
-**ANCESTRY FEATURES**
+**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
 ***Amphibious:*** You can breathe and move naturally underwater.
 
-***Lifespring:*** Once per rest when you have access to a small amount of water, you can **mark a Stress** to clear a Hit Point on yourself or an ally within Very Close range.
+***Lifespring:*** Once per rest when you have access to a small amount of water, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on yourself or an ally within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.

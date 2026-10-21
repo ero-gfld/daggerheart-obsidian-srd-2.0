@@ -1,22 +1,22 @@
 # Waxwork Creation
 
-***Tier 1 Solo***
+***Tier 1 [Solo](../core_rules/Using%20Adversaries.md)***
 *A ten-foot-tall, semisolid (and semisentient) candle wax construct.*
 
 **Motives & Tactics:** Lumber menacingly, moan with the pain of unlife, smother
 
-> **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3  
-> **ATK:** +2 | **Fists:** Very Close | 1d20 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **HP:** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Fists:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d20 phy
 
-**Experience:** Giant-Sized +2
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Giant-Sized +2
 
 ## FEATURES
 
-***Relentless (2) - Passive:*** The Creation can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight it.
+***Relentless (2) - Passive:*** The Creation can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to spotlight it.
 
 ***No Vital Organs - Passive:*** The Creation doesn’t take extra damage from attacks that critically succeed against it.
 
-***Wax Ball - Action:*** **Mark a Stress** to have the Creation throw a ball of wax at a target within Far range. Make an attack against the target. On a success, the target takes **1d12+2** physical damage and becomes *Restrained* until they succeed on a Strength Roll (15).
+***Wax Ball - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Creation throw a ball of wax at a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Make an attack against the target. On a success, the target takes **1d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and becomes *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (15).
 
 ***Splutch! - Reaction:*** When a PC within Melee range of the Creation makes a weapon attack against it, roll a **d6**. On a 5 or higher, the attacker’s weapon gets stuck in the Creation and can be removed only with a successful Strength Roll (15).
 

@@ -6,7 +6,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 #### STEP 1
 
-**Choose a Class and Subclass. Classes** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are 13 classes in this SRD: Assassin, Bard, Brawler, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warlock, Warrior, Witch, and Wizard.
+**Choose a Class and Subclass. Classes** are role-based archetypes that determine which [class features](Classes.md) and **[domain cards](Domains.md#DOMAIN%20CARDS)** a PC gains access to throughout the campaign. There are 13 classes in this SRD: [Assassin](../classes/Assassin.md), [Bard](../classes/Bard.md), [Brawler](../classes/Brawler.md), [Druid](../classes/Druid.md), [Guardian](../classes/Guardian.md), [Ranger](../classes/Ranger.md), [Rogue](../classes/Rogue.md), [Seraph](../classes/Seraph.md), [Sorcerer](../classes/Sorcerer.md), [Warlock](../classes/Warlock.md), [Warrior](../classes/Warrior.md), [Witch](../classes/Witch.md), and [Wizard](../classes/Wizard.md).
 
 - Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your PC’s details; you’ll update and reference them throughout the campaign.
 
@@ -14,15 +14,15 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 - **Choose a Subclass**
 
-  **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features.** Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
+  **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **[subclass features](Classes.md#SUBCLASSES).** Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
 
 #### STEP 2
 
 **Choose Your Heritage.** Your character’s **heritage** combines two elements: **ancestry** and **community.**
 
-- A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features.** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Aetheris, Clank, Drakona, Dwarf, Earthkin, Elf, Emberkin, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Gnome, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah, Skykin, Tidekin. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
+- A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **[ancestry features](Ancestries.md).** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: [Aetheris](../ancestries/Aetheris.md), [Clank](../ancestries/Clank.md), [Drakona](../ancestries/Drakona.md), [Dwarf](../ancestries/Dwarf.md), [Earthkin](../ancestries/Earthkin.md), [Elf](../ancestries/Elf.md), [Emberkin](../ancestries/Emberkin.md), [Faerie](../ancestries/Faerie.md), [Faun](../ancestries/Faun.md), [Firbolg](../ancestries/Firbolg.md), [Fungril](../ancestries/Fungril.md), [Galapa](../ancestries/Galapa.md), [Giant](../ancestries/Giant.md), [Gnome](../ancestries/Gnome.md), [Goblin](../ancestries/Goblin.md), [Halfling](../ancestries/Halfling.md), [Human](../ancestries/Human.md), [Infernis](../ancestries/Infernis.md), [Katari](../ancestries/Katari.md), [Orc](../ancestries/Orc.md), [Ribbet](../ancestries/Ribbet.md), [Simiah](../ancestries/Simiah.md), [Skykin](../ancestries/Skykin.md), [Tidekin](../ancestries/Tidekin.md). To create a [Mixed Ancestry](../ancestry_rules/Mixed%20Ancestry.md), take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 
-- Your character’s **community** represents their culture or environment of origin and grants them a **community feature.** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Duneborne, Freeborne, Frostborne, Hearthborne, Highborne, Loreborne, Orderborne, Reborne, Ridgeborne, Seaborne, Slyborne, Underborne, Warborne, Wanderborne, Wildborne.
+- Your character’s **community** represents their culture or environment of origin and grants them a **[community feature](Communities.md).** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: [Duneborne](../communities/Duneborne.md), [Freeborne](../communities/Freeborne.md), [Frostborne](../communities/Frostborne.md), [Hearthborne](../communities/Hearthborne.md), [Highborne](../communities/Highborne.md), [Loreborne](../communities/Loreborne.md), [Orderborne](../communities/Orderborne.md), [Reborne](../communities/Reborne.md), [Ridgeborne](../communities/Ridgeborne.md), [Seaborne](../communities/Seaborne.md), [Slyborne](../communities/Slyborne.md), [Underborne](../communities/Underborne.md), [Warborne](../communities/Warborne.md), [Wanderborne](../communities/Wanderborne.md), [Wildborne](../communities/Wildborne.md).
 
 #### STEP 3
 
@@ -60,13 +60,13 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 
 - Characters start a new campaign at **level 1.** Record your level in the designated space at the top of your character sheet.
 
-- **Evasion** represents your character’s ability to avoid damage. Your character’s starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
+- **[Evasion](Core%20Mechanics.md#EVASION)** represents your character’s ability to avoid damage. Your character’s starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
 
-- **Hit Points (HP)** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
+- **[Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) (HP)** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
 
-- **Stress** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
+- **[Stress](Core%20Mechanics.md#STRESS)** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
 
-- **Hope** is a metacurrency that fuels special moves and certain abilities or features. Each PC starts with 2 Hope; mark these in the Hope field of your character sheet.
+- **[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR)** is a metacurrency that fuels special moves and certain abilities or features. Each PC starts with 2 Hope; mark these in the Hope field of your character sheet.
 
 #### STEP 5
 
@@ -74,21 +74,21 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 
 Choose your **weapon(s):**
 
-- Select from the Tier 1 Weapon Tables either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.** Then equip your selection by recording it in the Active Weapon field of your character sheet.
+- Select from the Tier 1 Weapon Tables either a **[two-handed](Equipment.md#WEAPONS) primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon.** Then equip your selection by recording it in the Active Weapon field of your character sheet.
 
-- At level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
+- At level 1, your **[Proficiency](Core%20Mechanics.md#ATTACKING)** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
 
 Choose and equip one set of **armor** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
 
-- Add your character’s level to your equipped armor’s **Base Thresholds** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
+- Add your character’s level to your equipped armor’s **[Base Thresholds](Equipment.md#ARMOR)** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
 
 - Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
 
 Add the following items to the **Inventory** fields on your character sheet:
 
-- A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled “Gold > Handfuls”)
+- A torch, 50 feet of rope, basic supplies, and a [handful](Equipment.md#GOLD) of gold (mark one box in the left-hand column of your character sheet titled “Gold > Handfuls”)
 
-- EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a Minor Stamina Potion (clear 1d4 Stress)
+- EITHER a [Minor Health Potion](../consumables/Minor%20Health%20Potion.md) (clear 1d4 [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)) OR a [Minor Stamina Potion](../consumables/Minor%20Stamina%20Potion.md) (clear 1d4 [Stress](Core%20Mechanics.md#STRESS))
 
 - One of the class-specific items listed on your character guide
 
@@ -104,7 +104,7 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 #### STEP 7
 
-**Create Your Experiences.** An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to an action or reaction roll.
+**Create Your Experiences.** An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to add a relevant Experience’s modifier to an action or [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS).
 
 - Your PC gets two Experiences at character creation, each with a +2 modifier.
 
@@ -112,19 +112,19 @@ Add the following items to the **Inventory** fields on your character sheet:
 
 ##### EXAMPLE EXPERIENCES
 
-**Backgrounds:** *Assassin, Blacksmith, Bodyguard, Bounty* *Hunter, Chef to the Royal Family, Circus Performer,* *Con Artist, Fallen Monarch, Field Medic, High Priestess,* *Merchant, Noble, Pirate, Politician, Runaway, Scholar,* *Sellsword, Soldier, Storyteller, Thief, World Traveler*
+**Backgrounds:** *[Assassin](../classes/Assassin.md), Blacksmith, Bodyguard, Bounty* *Hunter, Chef to the Royal Family, Circus Performer,* *Con Artist, Fallen Monarch, Field Medic, High Priestess,* *Merchant, Noble, Pirate, Politician, Runaway, Scholar,* *Sellsword, Soldier, Storyteller, Thief, World Traveler*
 
-**Characteristics:** *Affable, Battle-Hardened, Bookworm,* *Charming, Cowardly, Friend to All, Helpful, Intimidating* *Presence, Leader, Lone Wolf, Loyal, Observant, Prankster,* *Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor,* *Young and Naive*
+**Characteristics:** *Affable, Battle-Hardened, Bookworm,* *Charming, Cowardly, Friend to All, Helpful, Intimidating* *[Presence](Character%20Creation.md#STEP%203), Leader, Lone Wolf, Loyal, Observant, Prankster,* *Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor,* *Young and Naive*
 
 **Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical* *Historian, Mapmaker, Master of Disguise, Navigator,* *Sharpshooter, Survivalist, Swashbuckler, Tactician*
 
 **Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast* *Learner, Incredible Strength, Liar, Light Feet, Negotiator,* *Photographic Memory, Quick Hands, Repair, Scavenger,* *Tracker*
 
-**Phrases:** *Catch Me If You Can, Fake It Till You Make It, First* *Time’s the Charm, Hold the Line, I Won’t Let You Down,* *I’ll Catch You, I’ve Got Your Back, Knowledge Is Power,* *Nature’s Friend, Never Again, No One Left Behind, Pick on* *Someone Your Own Size, The Show Must Go On, This Is Not* *a Negotiation, Wolf in Sheep’s Clothing*
+**Phrases:** *Catch Me If You Can, Fake It Till You Make It, First* *Time’s the Charm, [Hold the Line](../abilities/Hold%20the%20Line.md), I Won’t Let You Down,* *I’ll Catch You, I’ve Got Your Back, Knowledge Is Power,* *Nature’s Friend, Never Again, No One Left Behind, Pick on* *Someone Your Own Size, The Show Must Go On, This Is Not* *a Negotiation, Wolf in Sheep’s Clothing*
 
 #### STEP 8
 
-**Choose Domain Cards.** Your class has access to two of the ten domains. Choose two level one cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
+**Choose [Domain Cards](Domains.md#DOMAIN%20CARDS).** Your class has access to two of the ten domains. Choose two level one cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
 
 #### STEP 9
 

@@ -4,9 +4,9 @@ Your **equipped** weapons and armor are the ones listed in the “Active Weapons
 
 PCs can carry up to two additional weapons in the “Inventory Weapon” areas of the character sheet.
 
-You can swap an Inventory Weapon with an Active Weapon at no cost during a rest or moment of calm; otherwise, you must mark a Stress to do so.
+You can swap an Inventory Weapon with an Active Weapon at no cost during a rest or moment of calm; otherwise, you must mark a [Stress](Core%20Mechanics.md#STRESS) to do so.
 
-Your character can only have one Active Armor at a time. They can’t equip armor while in danger or under pressure; otherwise, they can equip or unequip armor without cost. Each armor has its own Armor Slots; if your character unequips their armor, track how many of its Armor Slots are marked. You can't carry armor in your inventory. When your character equips or unequips armor, recalculate your damage thresholds.
+Your character can only have one Active Armor at a time. They can’t equip armor while in danger or under pressure; otherwise, they can equip or unequip armor without cost. Each armor has its own [Armor Slots](Equipment.md#ARMOR); if your character unequips their armor, track how many of its Armor Slots are marked. You can't carry armor in your inventory. When your character equips or unequips armor, recalculate your [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 ## WEAPONS
 
@@ -18,7 +18,7 @@ A weapon’s **category** specifies whether it is a Primary or Secondary weapon.
 
 **TRAIT**
 
-A weapon’s **trait** specifies which trait to use when making an attack roll with it.
+A weapon’s **trait** specifies which trait to use when making an [attack roll](Core%20Mechanics.md#ATTACKING) with it.
 
 **RANGE**
 
@@ -30,7 +30,7 @@ A weapon’s **damage** indicates the size of the damage dice you roll on a succ
 
 **DAMAGE TYPE**
 
-A weapon’s **damage type** indicates whether it deals physical or magic damage. Weapons that deal magic damage can only be wielded by characters with a Spellcast trait.
+A weapon’s **damage type** indicates whether it deals physical or magic damage. Weapons that deal magic damage can only be wielded by characters with a [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
 
 **BURDEN**
 
@@ -40,19 +40,19 @@ A weapon’s **burden** indicates how many **hands** it occupies when equipped. 
 
 A weapon’s **feature** is a special rule that stays in effect while the weapon is equipped.
 
-You can throw an equipped weapon at a target within Very Close range, making the attack roll with Finesse. On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can’t attack with it or benefit from its features.
+You can throw an equipped weapon at a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making the attack roll with [Finesse](Character%20Creation.md#STEP%203). On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can’t attack with it or benefit from its features.
 
 ### PRIMARY WEAPON TABLES
 
-*Players can choose one Tier 1 primary weapon during character creation. The GM can make* *other weapons available throughout the campaign as the PCs level up.*
+*Players can choose one Tier 1 [primary weapon](Equipment.md#WEAPONS) during character creation. The GM can make* *other weapons available throughout the campaign as the PCs [level up](Core%20Mechanics.md#LEVELING%20UP).*
 
 ### SECONDARY WEAPON TABLES
 
-*Players can choose one Tier 1 secondary weapon during character creation. The GM can make* *other weapons available throughout the campaign as the PCs level up.*
+*Players can choose one Tier 1 [secondary weapon](Equipment.md#WEAPONS) during character creation. The GM can make* *other weapons available throughout the campaign as the PCs [level up](Core%20Mechanics.md#LEVELING%20UP).*
 
 ## ARMOR
 
-Every armor has a name, base damage thresholds, and a base Armor Score. Some armor also has a feature.
+Every armor has a name, base [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), and a base Armor Score. Some armor also has a feature.
 
 - An armor’s **base armor score** indicates how many Armor Slots it provides its wearer before additional bonuses are added to calculate their total Armor Score. A PC’s Armor Score can’t exceed 12.
 

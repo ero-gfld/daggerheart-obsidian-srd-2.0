@@ -10,7 +10,7 @@ Some ghosts return for revenge, some to save a loved one, and others to meet a g
 
 ***Unfinished Business:*** Work with your GM to decide what purpose or desire keeps you bound to the Mortal Realm. When you fulfill it, you cross through the veil of death.
 
-***Ephemeral:*** Your body wavers in and out of being corporeal. You are resistant to physical damage, take double magic damage, and can **mark 2 Stress** to momentarily pass through a solid object.
+***Ephemeral:*** Your body wavers in and out of being corporeal. You are resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), take double magic damage, and can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to momentarily pass through a solid object.
 
 **TRANSFORMATION QUESTIONS**
 

@@ -2,8 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-*Instinct* · *Very Close* · *d4 phy* · *One-Handed*
+*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
 
 ### FEATURE
 
-***Locked On:*** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.
+***Locked On:*** On a successful attack, your next attack against the same target with your [primary weapon](../core_rules/Equipment.md#WEAPONS) automatically succeeds.

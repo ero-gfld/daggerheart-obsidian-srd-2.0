@@ -2,8 +2,8 @@
 
 **_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-*Knowledge* · *Close* · *d8+6 mag* · *One-Handed*
+*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+6 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
 
 ### FEATURE
 
-***Freezing:*** When an attack from this weapon causes a target to mark 2 or more HP, they become temporarily *Restrained.*
+***Freezing:*** When an attack from this weapon causes a target to mark 2 or more [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they become temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).*

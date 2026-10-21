@@ -2,15 +2,15 @@
 
 Play the Warden of Renewal if you want to use powerful magic to heal your party.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Instinct
+[Instinct](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURES**
 
-***Clarity of Nature:*** Once per long rest, you can create a space of natural serenity within Close range. When you spend a few minutes resting within the space, clear Stress equal to your Instinct, distributed as you choose between you and your allies.
+***Clarity of Nature:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can create a space of natural serenity within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When you spend a few minutes resting within the space, clear [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to your Instinct, distributed as you choose between you and your allies.
 
-***Regeneration:*** Touch a creature and **spend 3 Hope.** That creature clears **1d4** Hit Points.
+***Regeneration:*** Touch a creature and **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).** That creature clears **1d4** [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 **SPECIALIZATION FEATURES**
 
@@ -20,7 +20,7 @@ Instinct
 
 **MASTERY FEATURE**
 
-***Defender:*** Your animal transformation embodies a healing guardian spirit. When you’re in Beastform and an ally within Close range marks 2 or more Hit Points, you can **mark a Stress** to reduce the number of Hit Points they mark by 1.
+***Defender:*** Your animal [transformation](../core_rules/Transformations.md) embodies a healing guardian spirit. When you’re in [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) and an ally within Close range marks 2 or more Hit Points, you can **mark a Stress** to reduce the number of Hit Points they mark by 1.
 
 **BACKGROUND QUESTIONS**
 
@@ -44,19 +44,19 @@ Instinct
 
 #### BEASTFORM OPTIONS
 
-When you use your “Beastform” feature, choose a creature category of your tier or lower. At the GM’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
+When you use your “[Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS)” feature, choose a creature category of your tier or lower. At the GM’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
 
 Beastform categories are divided by tier. Each entry includes the following details:
 
-- **Creature Category:** Each category’s name describes the common role or behavior of creatures in that category (such as Agile Scout). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel).
+- **Creature Category:** Each category’s name describes the common role or behavior of creatures in that category (such as [Agile Scout](../beastforms/Agile%20Scout.md)). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel).
 
-- **Character Trait:** While transformed, you gain a bonus to the listed trait. For example, while transformed into an Agile Scout, you gain a +1 bonus to your Agility. When this form drops, you lose this bonus.
+- **Character Trait:** While transformed, you gain a bonus to the listed trait. For example, while transformed into an Agile Scout, you gain a +1 bonus to your [Agility](../core_rules/Character%20Creation.md#STEP%203). When this form drops, you lose this bonus.
 
-- **Attack Rolls:** When you make an attack while transformed, you use the creature’s listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within Melee range using your Agility. On a success, you deal d4 physical damage using your Proficiency.
+- **[Attack Rolls](../core_rules/Core%20Mechanics.md#ATTACKING):** When you make an attack while transformed, you use the creature’s listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range using your Agility. On a success, you deal d4 physical damage using your Proficiency.
 
-- **Evasion:** While transformed, you add the creature’s Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
+- **[Evasion](../core_rules/Core%20Mechanics.md#EVASION):** While transformed, you add the creature’s Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
 
-- **Advantages:** Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
+- **Advantages:** Your form makes you especially suited to certain actions. When you make an action or [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) related to one of the verbs listed for that creature category, you gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
 
 - **Features:** Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement—but they’re also fragile, making you more likely to drop out of Beastform.
 
@@ -66,13 +66,13 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Fox, Mouse, Weasel, etc.)
 
-*Agility +1 | Evasion +2* *Melee Agility d4 phy*
+*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d4 phy*
 
-**Gain advantage on:** deceive, locate, sneak
+**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** deceive, locate, sneak
 
-***Agile:*** Your movement is silent, and you can **spend a Hope** to move up to Far range without rolling.
+***Agile:*** Your movement is silent, and you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to Far range without rolling.
 
-***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
+***Fragile:*** When you take Major or greater damage, you drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).
 
 **HOUSEHOLD FRIEND**
 
@@ -94,7 +94,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 **Gain advantage on:** leap, sneak, sprint
 
-***Elusive Prey:*** When an attack roll against you would succeed, you can **mark a Stress** and roll a **d4.** Add the result to your Evasion against this attack.
+***Elusive Prey:*** When an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against you would succeed, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and roll a **d4.** Add the result to your Evasion against this attack.
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
@@ -106,7 +106,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 **Gain advantage on:** attack, sprint, track
 
-***Hobbling Strike:*** When you succeed on an attack against a target within Melee range, you can **mark a Stress** to make the target temporarily *Vulnerable*.
+***Hobbling Strike:*** When you succeed on an attack against a target within Melee range, you can **mark a Stress** to make the target temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
 
 ***Pack Hunting:*** When you succeed on an attack against the same target as an ally who acts immediately before you, add a **d8** to your damage roll.
 
@@ -140,13 +140,13 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Armadillo, Pangolin, Turtle, etc.)
 
-*Strength +1 | Evasion +1* *Melee Strength d8+2 phy*
+*[Strength](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d8+2 phy*
 
-**Gain advantage on:** dig, locate, protect
+**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** dig, locate, protect
 
-***Armored Shell:*** Your hardened exterior gives you resistance to physical damage. Additionally, **mark an Armor Slot** to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can’t perform other actions without leaving this form.
+***Armored Shell:*** Your hardened exterior gives you [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to physical damage. Additionally, **mark an [Armor Slot](../core_rules/Equipment.md#ARMOR)** to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can’t perform other actions without leaving this form.
 
-***Cannonball:*** **Mark a Stress** to allow an ally to throw or launch you at an adversary. To do so, the ally makes an attack roll using Agility or Strength (their choice) against a target within Close range. On a success, the adversary takes **d12+2** physical damage using the thrower’s Proficiency. You can **spend a Hope** to target an additional adversary within Very Close range of the first. The second target takes half the damage dealt to the first target.
+***Cannonball:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to allow an ally to throw or launch you at an adversary. To do so, the ally makes an attack roll using Agility or Strength (their choice) against a target within Close range. On a success, the adversary takes **d12+2** physical damage using the thrower’s Proficiency. You can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to target an additional adversary within Very Close range of the first. The second target takes half the damage dealt to the first target.
 
 **POWERFUL BEAST**
 
@@ -158,7 +158,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Rampage:*** When you roll a 1 on a damage die, you can roll a **d10** and add the result to the damage roll. Additionally, before you make an attack roll, you can **mark a Stress** to gain a +1 bonus to your Proficiency for that attack.
 
-***Thick Hide:*** You gain a +2 bonus to your damage thresholds.
+***Thick Hide:*** You gain a +2 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 **MIGHTY STRIDER**
 
@@ -170,7 +170,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
 
-***Trample:*** **Mark a Stress** to move up to Close range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+1** physical damage using your Proficiency and are temporarily *Vulnerable*.
+***Trample:*** **Mark a Stress** to move up to Close range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+1** physical damage using your Proficiency and are temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
 
 **STRIKING SERPENT**
 
@@ -212,15 +212,15 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 **GREAT PREDATOR**
 
-(Dire Wolf, Velociraptor, Sabertooth Tiger, etc.)
+([Dire Wolf](../adversaries/Dire%20Wolf.md), Velociraptor, Sabertooth Tiger, etc.)
 
-*Strength +2 | Evasion +2* *Melee Strength d12+8 phy*
+*[Strength](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+8 phy*
 
-**Gain advantage on:** attack, sneak, sprint
+**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, sneak, sprint
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a Hope** to make them temporarily *Vulnerable* and gain a +1 bonus to your Proficiency for this attack.
+***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack.
 
 **MIGHTY LIZARD**
 
@@ -230,13 +230,13 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 **Gain advantage on:** attack, sneak, track
 
-***Physical Defense:*** You gain a +3 bonus to your damage thresholds.
+***Physical Defense:*** You gain a +3 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 ***Snapping Strike:*** When you succeed on an attack against a target within Melee range, you can **spend a Hope** to clamp that opponent in your jaws, making them temporarily *Restrained* and *Vulnerable.*
 
 **GREAT WINGED BEAST**
 
-(Giant Eagle, Falcon, etc.)
+([Giant Eagle](../adversaries/Giant%20Eagle.md), Falcon, etc.)
 
 *Finesse +2 | Evasion +3* *Melee Finesse d8+6 phy*
 
@@ -262,7 +262,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Upgraded Tier 1 Options)
 
-***Evolved:*** Pick a Tier 1 Beastform option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+***Evolved:*** Pick a Tier 1 [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
 
 - A +6 bonus to damage rolls
 
@@ -276,7 +276,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 *Strength +2 | Evasion +3* *Melee Strength d10+8 phy*
 
-***Hybrid Features:*** To transform into this creature, **mark an additional Stress.** Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.
+***Hybrid Features:*** To transform into this creature, **mark an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS).** Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.
 
 ##### TIER 4
 
@@ -284,15 +284,15 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Elephant, Mammoth, Rhinoceros, etc.)
 
-*Strength +3 | Evasion +1* *Melee Strength d12+12 phy*
+*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+12 phy*
 
-**Gain advantage on:** locate, protect, scare, sprint
+**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** locate, protect, scare, sprint
 
 ***Carrier:*** You can carry up to four willing allies with you when you move.
 
-***Demolish:*** **Spend a Hope** to move up to Far range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+10** physical damage using your Proficiency and are temporarily *Vulnerable.*
+***Demolish:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to Far range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your Proficiency and are temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).*
 
-***Undaunted:*** You gain a +2 bonus to all your damage thresholds.
+***Undaunted:*** You gain a +2 bonus to all your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 **TERRIBLE LIZARD**
 
@@ -302,7 +302,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 **Gain advantage on:** attack, deceive, scare, track
 
-***Devastating Strikes:*** When you deal Severe damage to a target within Melee range, you can **mark a Stress** to force them to mark an additional Hit Point.
+***Devastating Strikes:*** When you deal Severe damage to a target within Melee range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark an additional Hit Point.
 
 ***Massive Stride:*** You can move up to Far range without rolling. You ignore rough terain (at the GM’s discretion) due to your size.
 
@@ -328,13 +328,13 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily *Restrain* them.
 
-***Unyielding:*** When you would mark an Armor Slot, roll a **d6.** On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
+***Unyielding:*** When you would mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), roll a **d6.** On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
 
 **MYTHIC BEAST**
 
 (Upgraded Tier 1 or Tier 2 Options)
 
-***Evolved:*** Pick a Tier 1 or Tier 2 Beastform option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+***Evolved:*** Pick a Tier 1 or Tier 2 [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
 
 - A +9 bonus to damage rolls
 

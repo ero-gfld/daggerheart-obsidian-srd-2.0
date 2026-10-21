@@ -2,9 +2,9 @@
 
 Play the Syndicate if you want to have a web of contacts everywhere you go.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Finesse
+[Finesse](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURE**
 
@@ -24,17 +24,17 @@ Finesse
 
 ***Contacts Everywhere:*** Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:
 
-- They provide 1 handful of gold, a unique tool, or a mundane object that the situation requires.
+- They provide 1 [handful](../core_rules/Equipment.md#GOLD) of gold, a unique tool, or a mundane object that the situation requires.
 
-- On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die.
+- On your next [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), their help provides a +3 bonus to the result of your [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
 
-- The next time you deal damage, they snipe from the shadows, adding **2d8** to your damage roll.
+- The next time you deal damage, they snipe from the shadows, adding **2d8** to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 **MASTERY FEATURE**
 
 ***Reliable Backup:*** You can use your “Contacts Everywhere” feature three times per session. The following options are added to the list of benefits you can choose from when you use that feature:
 
-- When you mark 1 or more Hit Points, they can rush out to shield you, reducing the Hit Points marked by 1.
+- When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they can rush out to shield you, reducing the Hit Points marked by 1.
 
 - When you make a Presence Roll in conversation, they back you up. You can roll a **d20** as your Hope Die.
 

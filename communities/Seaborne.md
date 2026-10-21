@@ -4,6 +4,6 @@ Being part of a seaborne community means you lived on or near a large body of wa
 
 *Seaborne are often candid, cooperative, exuberant, fierce,* *resolute, and weathered.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Know the Tide:*** You can sense the ebb and flow of life. When you roll with Fear, place a token on your community card. You can hold a number of tokens equal to your level. Before you make an action roll, you can spend any number of these tokens to gain a +1 bonus to the roll for each token spent. At the end of each session, clear all unspent tokens.
+***Know the Tide:*** You can sense the ebb and flow of life. When you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), place a token on your community card. You can hold a number of tokens equal to your level. Before you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can spend any number of these tokens to gain a +1 bonus to the roll for each token spent. At the end of each session, clear all unspent tokens.

@@ -2,7 +2,7 @@
 
 Whether through an institution or individual study, those known as wizards acquire and hone immense magical power over years of learning using a variety of tools, including books, stones, potions, and herbs. Some wizards dedicate their lives to mastering a particular school of magic, while others learn from a wide variety of disciplines. Many wizards become wise and powerful figures in their communities, advising rulers, providing medicines and healing, and even leading war councils. While these mages all work toward the common goal of collecting magical knowledge, wizards often have the most conflict within their own ranks, as the acquisition, keeping, and sharing of powerful secrets is a topic of intense debate that has resulted in innumerable deaths.
 
-**DOMAINS –** Codex & Splendor
+**DOMAINS –** [Codex](../domains/Codex.md) & [Splendor](../domains/Splendor.md)
 
 **STARTING EVASION –** 11
 
@@ -10,21 +10,21 @@ Whether through an institution or individual study, those known as wizards acqui
 
 **CLASS ITEMS –** A book you’re trying to translate or a tiny, harmless elemental pet
 
-**WIZARD’S HOPE FEATURE**
+**WIZARD’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Not This Time:*** **Spend 3 Hope** to force an adversary within Far range to reroll an attack or damage roll.
+***Not This Time:*** **Spend 3 Hope** to force an adversary within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to reroll an attack or [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
 ***Prestidigitation:*** You can perform harmless, subtle magical effects at will. For example, you can change an object’s color, create a smell, light a candle, cause a tiny object to float, illuminate a room, or repair a small object.
 
-***Strange Patterns:*** Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a Hope or clear a Stress.
+***Strange Patterns:*** Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a Hope or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-You can change this number when you take a long rest.
+You can change this number when you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
 
 ### SUBCLASSES
 
-*Choose either the* ***School of Knowledge*** *or* ***School of War*** *subclass.*
+*Choose either the* ***[School of Knowledge](../subclasses/School%20of%20Knowledge.md)*** *or* ***[School of War](../subclasses/School%20of%20War.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 

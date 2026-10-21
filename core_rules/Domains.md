@@ -1,42 +1,42 @@
 # Domains
 
-There are ten Domains, each comprising a collection of cards granting features or special abilities expressing a particular theme. Please note the Daggerheart Core Set includes only the following nine domains: Arcana, Blade, Bone, Codex, Grace, Midnight, Sage, Splendor, and Valor.
+There are ten Domains, each comprising a collection of cards granting features or special abilities expressing a particular theme. Please note the Daggerheart Core Set includes only the following nine domains: [Arcana](../domains/Arcana.md), [Blade](../domains/Blade.md), [Bone](../domains/Bone.md), [Codex](../domains/Codex.md), [Grace](../domains/Grace.md), [Midnight](../domains/Midnight.md), [Sage](../domains/Sage.md), [Splendor](../domains/Splendor.md), and [Valor](../domains/Valor.md).
 
 ## CLASS DOMAINS
 
 Each class grants access to two domains:
 
-- **Assassin:** Blade & Midnight
+- **[Assassin](../classes/Assassin.md):** [Blade](../domains/Blade.md) & [Midnight](../domains/Midnight.md)
 
-- **Bard:** Codex & Grace
+- **[Bard](../classes/Bard.md):** [Codex](../domains/Codex.md) & [Grace](../domains/Grace.md)
 
-- **Brawler:** Valor & Bone
+- **[Brawler](../classes/Brawler.md):** [Valor](../domains/Valor.md) & [Bone](../domains/Bone.md)
 
-- **Druid:** Arcana & Sage
+- **[Druid](../classes/Druid.md):** [Arcana](../domains/Arcana.md) & [Sage](../domains/Sage.md)
 
-- **Guardian:** Blade & Valor
+- **[Guardian](../classes/Guardian.md):** Blade & Valor
 
-- **Ranger:** Bone & Sage
+- **[Ranger](../classes/Ranger.md):** Bone & Sage
 
-- **Rogue:** Grace & Midnight
+- **[Rogue](../classes/Rogue.md):** Grace & Midnight
 
-- **Seraph:** Splendor & Valor
+- **[Seraph](../classes/Seraph.md):** [Splendor](../domains/Splendor.md) & Valor
 
-- **Sorcerer:** Arcana & Midnight
+- **[Sorcerer](../classes/Sorcerer.md):** Arcana & Midnight
 
-- **Warlock:** Dread & Grace
+- **[Warlock](../classes/Warlock.md):** [Dread](../domains/Dread.md) & Grace
 
-- **Warrior:** Blade & Bone
+- **[Warrior](../classes/Warrior.md):** Blade & Bone
 
-- **Witch:** Dread & Sage
+- **[Witch](../classes/Witch.md):** Dread & Sage
 
-- **Wizard:** Codex & Splendor
+- **[Wizard](../classes/Wizard.md):** Codex & Splendor
 
-PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
+PCs acquire two 1st-level [domain cards](Domains.md#DOMAIN%20CARDS) at character creation and an additional domain card at or below their level each time they [level up](Core%20Mechanics.md#LEVELING%20UP).
 
 ### DOMAIN CARDS
 
-Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
+Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new [downtime](Core%20Mechanics.md#DOWNTIME) or social encounter abilities, or one-time benefits.
 
 **DOMAIN CARD ANATOMY**
 
@@ -49,7 +49,7 @@ The number in the top left of the card indicates the card’s level. You cannot 
 Beneath the card’s level there is a symbol indicating its domain. You can only choose cards from your class’s two domains.
 
 **Recall Cost**  
-The number and lightning bolt in the top right of the card shows its Recall Cost. This is the amount of Stress a player must mark to swap this card from their **vault** with a card from their **loadout.**
+The number and lightning bolt in the top right of the card shows its Recall Cost. This is the amount of [Stress](Core%20Mechanics.md#STRESS) a player must mark to swap this card from their **vault** with a card from their **loadout.**
 
 ***Note:*** *A player can swap domain cards during downtime* *without paying the domain card’s Recall Cost.*
 
@@ -57,7 +57,7 @@ The number and lightning bolt in the top right of the card shows its Recall Cost
 The name of the card.
 
 **Type**  
-The card’s **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells,** and **grimoires.** Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the Codex domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
+The card’s **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells,** and **grimoires.** Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the [Codex](../domains/Codex.md) domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
 
 **Feature**  
 The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.

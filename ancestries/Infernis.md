@@ -4,8 +4,8 @@ Infernis are humanoids who possess sharp canine teeth, pointed ears, and horns. 
 
 Infernis possess a “dread visage” that manifests both involuntarily, such as when they experience fear or other strong emotions, or purposefully, such as when they wish to intimidate an adversary. This visage can briefly modify their appearance in a variety of ways, including lengthening their teeth and nails, changing the colors of their eyes, twisting their horns, or enhancing their height. On average, infernis live up to 350 years, with some attributing this lifespan to their demonic lineage.
 
-**ANCESTRY FEATURES**
+**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Fearless:*** When you roll with Fear, you can **mark 2 Stress** to change it into a roll with Hope instead.
+***Fearless:*** When you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to change it into a roll with Hope instead.
 
-***Dread Visage:*** You have advantage on rolls to intimidate hostile creatures.
+***Dread Visage:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to intimidate hostile creatures.

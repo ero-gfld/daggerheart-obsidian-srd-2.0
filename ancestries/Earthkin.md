@@ -4,8 +4,8 @@ Earthkin are humanoids whose bodies are made of flesh and earth. Descended from 
 
 These kin begin their lives as small lumps of earth, such as a boulder, a ball of clay, or a crystal cluster. Though they’ll develop their more humanoid features fairly quickly, earthkin age slowly for most of their approximately 300-year lifespan. Their average height at adulthood ranges from 5 to 6½ feet tall, and the shape of their body is strongly influenced by the primary material it’s composed of. Many earthkin’s injuries appear like fissures in stone; even long after the initial damage has healed, these cracks continue to slowly repair. When they die, earthkin eventually crumble into piles of earth.
 
-**ANCESTRY FEATURES**
+**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Stoneskin:*** Gain a permanent +1 bonus to your Armor Score and damage thresholds at character creation.
+***Stoneskin:*** Gain a permanent +1 bonus to your [Armor Score](../core_rules/Equipment.md#ARMOR) and [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) at character creation.
 
 ***Immovable:*** While you’re touching the ground, you can’t be lifted or moved against your will.

@@ -1,3 +1,3 @@
 # Premium Bedroll
 
-During downtime, you automatically clear a Stress.
+During [downtime](../core_rules/Core%20Mechanics.md#DOWNTIME), you automatically clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).

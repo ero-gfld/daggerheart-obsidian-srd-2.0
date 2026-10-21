@@ -1,21 +1,21 @@
 # Dullahan
 
-***Tier 3 Bruiser***
+***Tier 3 [Bruiser](../core_rules/Using%20Adversaries.md)***
 *A horse-mounted specter holding their own severed head in one hand and wielding a whip fashioned from a human spine in the other.*
 
 **Motives & Tactics:** Doom with a glance, gallop across water, kick with heavy hooves
 
-> **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +3 | **Spine Whip:** Very Close | 3d10+1 mag
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 22/40 | **HP:** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Spine Whip:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+1 mag
 
-**Experience:** Nocturnal +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Nocturnal +3
 
 ## FEATURES
 
-***Specter - Passive:*** The Dullahan has resistance to physical damage. **Mark a Stress** to move up to Close range through solid objects.
+***Specter - Passive:*** The Dullahan has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to physical damage. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range through solid objects.
 
-***Spectral Mount - Passive:*** While atop their steed, the Dullahan can move up to Far range instead of Close range before taking an action. If the Dullahan is unhorsed, their mount disappears until you **mark a Stress** to summon it again. The Dullahan is *Vulnerable* while not on their horse.
+***Spectral Mount - Passive:*** While atop their steed, the Dullahan can move up to Far range instead of Close range before taking an action. If the Dullahan is unhorsed, their mount disappears until you **mark a Stress** to summon it again. The Dullahan is *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* while not on their horse.
 
-***Bone Whip Strike - Action:*** **Mark a Stress** to make an attack against a target within Melee range. On a success, the target takes **4d4+10** direct physical damage and is *Vulnerable* until they clear a HP.
+***Bone Whip Strike - Action:*** **Mark a Stress** to make an attack against a target within Melee range. On a success, the target takes **4d4+10** direct physical damage and is *Vulnerable* until they clear a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
-***Death Glare - Action:*** **Spend a Fear** to choose a PC within Far range. The target must make an Presence Reaction Roll (19). On a success, they mark a Stress. On a failure, they mark a HP and activate a Doom Countdown (4). It ticks down when the Dullahan is spotlighted. When it triggers, the target makes a death move. If the Dullahan is defeated or the PCs take a rest, all Doom Countdowns end.
+***Death Glare - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a PC within Far range. The target must make an [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (19). On a success, they mark a Stress. On a failure, they mark a HP and activate a Doom [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (4). It ticks down when the Dullahan is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). When it triggers, the target makes a [death move](../core_rules/Core%20Mechanics.md#DEATH). If the Dullahan is defeated or the PCs take a rest, all Doom Countdowns end.

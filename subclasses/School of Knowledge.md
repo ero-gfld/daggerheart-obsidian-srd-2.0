@@ -2,15 +2,15 @@
 
 Play the School of Knowledge if you want a keen understanding of the world around you.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Knowledge
+[Knowledge](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURES**
 
-***Prepared:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Prepared:*** Take an additional [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) of your level or lower from a domain you have access to.
 
-***Adept:*** When you Utilize an Experience, you can **mark a Stress** instead of spending a Hope. If you do, double your Experience modifier for that roll.
+***Adept:*** When you [Utilize an Experience](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of spending a Hope. If you do, double your [Experience](../core_rules/Character%20Creation.md#STEP%207) modifier for that roll.
 
 **SPECIALIZATION FEATURES**
 

@@ -2,7 +2,7 @@
 
 Becoming a warrior requires years, often a lifetime, of training and dedication to the mastery of weapons and violence. While many who seek to fight hone only their strength, warriors understand the importance of an agile body and mind, making them some of the most sought-after fighters across the realms. Frequently, warriors find employment within an army, a band of mercenaries, or even a royal guard, but their potential is wasted in any position where they cannot continue to improve and expand their skills. Warriors are known to have a favored weapon; to come between them and their blade would be a grievous mistake.
 
-**DOMAINS –** Blade & Bone
+**DOMAINS –** [Blade](../domains/Blade.md) & [Bone](../domains/Bone.md)
 
 **STARTING EVASION –** 11
 
@@ -10,17 +10,17 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 **CLASS ITEMS –** The drawing of a lover or a sharpening stone
 
-**WARRIOR’S HOPE FEATURE**
+**WARRIOR’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***No Mercy:*** **Spend 3 Hope** to gain a +1 bonus to your attack rolls until your next rest.
+***No Mercy:*** **Spend 3 Hope** to gain a +1 bonus to your [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until your next rest.
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Attack of Opportunity:*** If an adversary within Melee range attempts to leave that range, make a reaction roll using a trait of your choice against their Difficulty. Choose one effect on a success, or two if you critically succeed:
+***Attack of Opportunity:*** If an adversary within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range attempts to leave that range, make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) using a trait of your choice against their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). Choose one effect on a success, or two if you critically succeed:
 
 - They can’t move from where they are.
 
-- You deal damage to them equal to your primary weapon’s damage.
+- You deal damage to them equal to your [primary weapon](../core_rules/Equipment.md#WEAPONS)’s damage.
 
 - You move with them.
 
@@ -28,7 +28,7 @@ Becoming a warrior requires years, often a lifetime, of training and dedication 
 
 ### SUBCLASSES
 
-*Choose either the* ***Call of the Brave*** *or* ***Call of the Slayer*** ***subclass.***
+*Choose either the* ***[Call of the Brave](../subclasses/Call%20of%20the%20Brave.md)*** *or* ***[Call of the Slayer](../subclasses/Call%20of%20the%20Slayer.md)*** ***subclass.***
 
 **BACKGROUND QUESTIONS**
 

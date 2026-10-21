@@ -1,9 +1,9 @@
 # Trollhide Cuirass
 **_Tier 2_** _Armor_
 
-* *Base Thresholds:* 11 / 23  
+* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 23  
 * *Base Score:* 5
 
 ### FEATURE
 
-***Self-Healing:*** When you take a rest, clear an Armor Slot.
+***Self-Healing:*** When you take a rest, clear an [Armor Slot](../core_rules/Equipment.md#ARMOR).

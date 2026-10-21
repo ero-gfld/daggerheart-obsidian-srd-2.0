@@ -4,6 +4,6 @@ Being part of a duneborne community means you’ve made a home among the shiftin
 
 *Duneborne are often adaptable, centered, collaborative, devoted,* *cheerful, and observant.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Oasis:*** During a short rest, you or an ally can reroll a die used for a downtime move and take the higher result.
+***Oasis:*** During a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you or an ally can reroll a die used for a downtime move and take the higher result.

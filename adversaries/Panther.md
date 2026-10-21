@@ -1,17 +1,17 @@
 # Panther
 
-***Tier 1 Skulk***
+***Tier 1 [Skulk](../core_rules/Using%20Adversaries.md)***
 *A large feline predator that stalks its prey from the shadows.*
 
 **Motives & Tactics:** Climb trees, pounce, stalk
 
-> **Difficulty:** 14 | **Thresholds:** 5/10 | **HP:** 4 | **Stress:** 3  
-> **ATK:** +2 | **Teeth and Claws:** Melee | 1d8+1 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/10 | **HP:** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Teeth and Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+1 phy
 
-**Experience:** Keen Senses +3, Slink +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Keen Senses +3, Slink +3
 
 ## FEATURES
 
-***Shadow Stalker - Passive:*** While *Hidden*, the Panther gains a +2 bonus to its attack rolls.
+***Shadow Stalker - Passive:*** While *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*, the Panther gains a +2 bonus to its [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Pouncing Strike - Action:*** **Mark a Stress** to have the Panther leap into Melee range of a target within Far range and make an attack against them. On a success, deal **1d12+2** physical damage.
+***Pouncing Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Panther leap into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target within Far range and make an attack against them. On a success, deal **1d12+2** physical damage.

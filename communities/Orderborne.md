@@ -4,6 +4,6 @@ Being part of an orderborne community means you’re from a collective that focu
 
 *Orderborne are often ambitious, benevolent, pensive, prudent,* *sardonic, and stoic.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Dedicated:*** Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you’re embodying one of these principles through your current action, you can roll a **d20** as your Hope Die.
+***Dedicated:*** Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you’re embodying one of these principles through your current action, you can roll a **d20** as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW).

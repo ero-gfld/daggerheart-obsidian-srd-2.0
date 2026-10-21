@@ -1,20 +1,20 @@
 # Cloud Titan
 
-***Tier 4 Social***
+***Tier 4 [Social](../core_rules/Using%20Adversaries.md)***
 *A devastatingly attractive, blue-skinned goliath dressed in the finest silks and dripping with jewelry. They luxuriate in the finer things and dwell in a sky palace filled with treasure.*
 
 **Motives & Tactics:** Acquire rare and valuable things, celebrate beauty, never pass up an interesting wager
 
-> **Difficulty:** 18 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +3 | **Bejeweled Blade:** Very Close | 4d6+8 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 26/42 | **HP:** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Bejeweled Blade:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d6+8 phy
 
-**Experience:** Luxury +3, Nobility +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Luxury +3, Nobility +3
 
 ## FEATURES
 
-***Lightning Strike - Action:*** **Mark a Stress** to make an attack against a target within Far range. On a success, deal **4d10+14** magic damage and roll a **d6**. On a result of 4 or higher, the lightning bounces, and the Titan makes this attack against a different target within Very Close range of the previous target. Each time the lightning bounces, decrease the damage it deals by **1d10**.
+***Lightning Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **4d10+14** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and roll a **d6**. On a result of 4 or higher, the lightning bounces, and the Titan makes this attack against a different target within Very Close range of the previous target. Each time the lightning bounces, decrease the damage it deals by **1d10**.
 
-***Mist Weaver - Action:*** **Spend a Fear** and choose a point within Far range. The Titan conjures a thick fog over the area within Close range of that point. The Titan is *Hidden* to enemies within and on the other side of the fog and has advantage on attacks against creatures inside it. The fog lasts until the Titan marks HP.
+***Mist Weaver - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose a point within Far range. The Titan conjures a thick fog over the area within Close range of that point. The Titan is *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* to enemies within and on the other side of the fog and has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks against creatures inside it. The fog lasts until the Titan marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
 
 ***Nebulous Transformation - Action:*** **Mark a Stress** to have the Titan transform into a misty cloud that fills a Very Close area. While in this form, the Titan takes double magic damage and has immunity to physical damage. This form lasts until the Titan chooses to drop out of it or takes Severe damage.
 

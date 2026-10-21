@@ -4,8 +4,8 @@ Aetheris are humanoids most easily recognized by their wings and sacred markings
 
 All aetheris have a “hallowed aura” that can manifest voluntarily, such as when they invoke their power, or involuntarily, such as when they feel elation or other strong emotions. When they call forth this radiance, their eyes and bodies might glow, their markings might become more prominent or shift across their skin, or they might have a halo appear atop or around their head. These halos are as unique as a fingerprint and may share similarities with other family members. Perhaps due to their angelic lineage, aetheris usually live for 350 years, and they retain a youthful glow even as they age.
 
-**ANCESTRY FEATURES**
+**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Hallowed Aura:*** Once per long rest when an ally within Close range rolls with Fear, you can change it into a roll with Hope instead.
+***Hallowed Aura:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range rolls with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can change it into a roll with Hope instead.
 
-***Celestial Wings:*** You have wings that allow you to fly. Once per scene while flying, you can **spend a Hope** instead of marking an Armor Slot.
+***Celestial Wings:*** You have wings that allow you to fly. Once per scene while flying, you can **spend a Hope** instead of marking an [Armor Slot](../core_rules/Equipment.md#ARMOR).

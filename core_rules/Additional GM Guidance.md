@@ -32,7 +32,7 @@ Reward players at the end of a session with:
 
 - Loot
 
-- Gold
+- [Gold](Equipment.md#GOLD)
 
 - Access to new equipment or enhancements
 
@@ -56,7 +56,7 @@ Keep your players engaged by:
 
 - Confronting the PCs with internal and external conflicts
 
-- Raise the Stakes by Spending Fear
+- Raise the Stakes by Spending [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)
 
 - Layering Goals Other than Attrition into Combat (see Table of Random Objectives on the next page)
 
@@ -87,21 +87,21 @@ Make battles by shifting the nature of its enemies or environment mid-combat:
 
 #### USING DOWNTIME
 
-Use downtime scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
+Use [downtime](Core%20Mechanics.md#DOWNTIME) scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
 
 Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
 
 #### PROJECTS DURING DOWNTIME
 
-The Work on a Project downtime move requires more GM input than other downtime moves and is best suited for long-term endeavors the PCs wish to undertake.
+The [Work on a Project](Core%20Mechanics.md#DOWNTIME) downtime move requires more GM input than other downtime moves and is best suited for long-term endeavors the PCs wish to undertake.
 
-These projects are typically tracked using a Progress Countdown. When deciding the starting value of the countdown, consider the complexity of the project, the availability of relevant tools, and the impact of the project on the story.
+These projects are typically tracked using a Progress [Countdown](Making%20Moves.md#COUNTDOWNS). When deciding the starting value of the countdown, consider the complexity of the project, the availability of relevant tools, and the impact of the project on the story.
 
 Simple projects advance their countdown each time a player uses the Work on a Project move, but complex projects require a roll.
 
 #### EXTENDED DOWNTIME
 
-When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 Fear per PC and advance any long-term countdowns as appropriate.
+When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) per PC and advance any long-term [countdowns](Making%20Moves.md#COUNTDOWNS) as appropriate.
 
 ### CAMPAIGN FRAMES
 

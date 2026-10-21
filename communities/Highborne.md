@@ -4,6 +4,6 @@ Being part of a highborne community means you're accustomed to a life of eleganc
 
 *Highborne are often amiable, candid, conniving, enterprising,* *ostentatious, and unflappable.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Privilege:*** You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want.
+***Privilege:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want.

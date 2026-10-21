@@ -4,6 +4,6 @@ Being part of a hearthborne community means you come from humble origins, having
 
 *Hearthborne are often careful, generous, insular, loquacious,* *smiley, and traditional.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Close-Knit:*** Once per long rest, you can **spend any number of Hope** to grant an ally within Far range an equal number of Hope.
+***Close-Knit:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can **spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to grant an ally within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range an equal number of Hope.

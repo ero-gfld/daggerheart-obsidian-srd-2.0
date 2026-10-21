@@ -1,5 +1,5 @@
 # Signature Move
 
-***Level 5*** *Bone Ability.* ***Recall Cost*** *1.*
+***Level 5*** *[Bone](../domains/Bone.md) Ability.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
 
-Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you’re taking, you can roll a **d20** as your Hope Die. On a success, clear a Stress.
+Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you’re taking, you can roll a **d20** as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW). On a success, clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).

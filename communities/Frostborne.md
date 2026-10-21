@@ -4,6 +4,6 @@ Being part of a frostborne community means you come from a place of snow and ice
 
 *Frostborne are often cunning, gregarious, intrepid, purposeful,* *quiet, and warm.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Hardy:*** When you take a rest, you clear a Hit Point.
+***Hardy:*** When you take a rest, you clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).

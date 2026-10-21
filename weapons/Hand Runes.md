@@ -2,7 +2,7 @@
 
 **_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-*Instinct* · *Very Close* · *d10 mag* · *One-Handed*
+*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
 
 ### FEATURE
 

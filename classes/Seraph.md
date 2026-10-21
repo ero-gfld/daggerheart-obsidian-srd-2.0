@@ -2,7 +2,7 @@
 
 Seraphs are divine fighters and healers imbued with sacred purpose. A wide array of deities exist within the realms, and thus numerous kinds of seraphs are appointed by these gods. Their ethos traditionally aligns with the domain or goals of their god, such as defending the weak, exacting vengeance, protecting a land or artifact, or upholding a particular faith. Some seraphs ally themselves with an army or locale, much to the satisfaction of their rulers, but other crusaders fight in opposition to the follies of the Mortal Realm. It is better to be a seraph’s ally than their enemy, as they are terrifying foes to those who defy their purpose.
 
-**DOMAINS –** Splendor & Valor
+**DOMAINS –** [Splendor](../domains/Splendor.md) & [Valor](../domains/Valor.md)
 
 **STARTING EVASION –** 9
 
@@ -10,17 +10,17 @@ Seraphs are divine fighters and healers imbued with sacred purpose. A wide array
 
 **CLASS ITEMS –** A bundle of offerings or a sigil of your god
 
-**SERAPH’S HOPE FEATURE**
+**SERAPH’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Life Support:*** **Spend 3 Hope** to clear a Hit Point on an ally within Close range.
+***Life Support:*** **Spend 3 Hope** to clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
-**CLASS FEATURE**
+**[CLASS FEATURE](../core_rules/Classes.md)**
 
-***Prayer Dice:*** At the beginning of each session, roll a number of **d4s** equal to your subclass’s Spellcast trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within Far range. You can use a spent die’s value to reduce incoming damage, add to a roll’s result after the roll is made, or gain Hope equal to the result. At the end of each session, clear all unspent Prayer Dice.
+***Prayer Dice:*** At the beginning of each session, roll a number of **d4s** equal to your subclass’s [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within Far range. You can use a spent die’s value to reduce incoming damage, add to a roll’s result after the roll is made, or gain Hope equal to the result. At the end of each session, clear all unspent Prayer Dice.
 
 ### SUBCLASSES
 
-*Choose either the* ***Divine Wielder*** *or* ***Winged Sentinel*** *subclass.*
+*Choose either the* ***[Divine Wielder](../subclasses/Divine%20Wielder.md)*** *or* ***[Winged Sentinel](../subclasses/Winged%20Sentinel.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 

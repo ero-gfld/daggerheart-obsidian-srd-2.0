@@ -1,17 +1,17 @@
 # Deeproot Defender
 
-***Tier 1 Bruiser***
+***Tier 1 [Bruiser](../core_rules/Using%20Adversaries.md)***
 *A burly vegetable-person with grasping vines.*
 
 **Motives & Tactics:** Ambush, grab, protect, pummel
 
-> **Difficulty:** 10 | **Thresholds:** 8/14 | **HP:** 7 | **Stress:** 3  
-> **ATK:** +2 | **Vines:** Close | 1d8+3 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/14 | **HP:** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Vines:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+3 phy
 
-**Experience:** Huge +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Huge +3
 
 ## FEATURES
 
-***Ground Slam - Action:*** Slam the ground, knocking all targets within Very Close range back to Far range. Each target knocked back this way must mark a Stress.
+***Ground Slam - Action:*** Slam the ground, knocking all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range back to Far range. Each target knocked back this way must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Grab and Drag - Action:*** Make an attack against a target within Close range. On a success, **spend a Fear** to pull them into Melee range, deal **1d6+2** physical damage, and *Restrain* them until the Defender takes Severe damage.
+***Grab and Drag - Action:*** Make an attack against a target within Close range. On a success, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to pull them into Melee range, deal **1d6+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), and *Restrain* them until the Defender takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).

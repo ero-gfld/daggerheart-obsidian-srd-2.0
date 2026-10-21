@@ -2,7 +2,7 @@
 
 Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there’s honor among thieves for those who know where to look.
 
-**DOMAINS –** Midnight & Grace
+**DOMAINS –** [Midnight](../domains/Midnight.md) & [Grace](../domains/Grace.md)
 
 **STARTING EVASION –** 12
 
@@ -10,15 +10,15 @@ Rogues are scoundrels, often in both attitude and practice. Broadly known as lia
 
 **CLASS ITEMS –** A set of forgery tools or a grappling hook
 
-**ROGUE’S HOPE FEATURE**
+**ROGUE’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Rogue’s Dodge:*** **Spend 3 Hope** to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
+***Rogue’s Dodge:*** **Spend 3 Hope** to gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Cloaked:*** Any time you would be *Hidden,* you are instead *Cloaked.* In addition to the benefits of the *Hidden* condition, while *Cloaked* you remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within line of sight of an adversary, you are no longer *Cloaked*.
+***Cloaked:*** Any time you would be *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS),* you are instead *Cloaked.* In addition to the benefits of the *Hidden* condition, while *Cloaked* you remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) of an adversary, you are no longer *Cloaked*.
 
-***Sneak Attack:*** When you succeed on an attack while *Cloaked* or while an ally is within Melee range of your target, add a number of **d6s** equal to your tier to your damage roll.
+***Sneak Attack:*** When you succeed on an attack while *Cloaked* or while an ally is within Melee range of your target, add a number of **d6s** equal to your tier to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 - Level 1 → Tier 1
 
@@ -30,7 +30,7 @@ Rogues are scoundrels, often in both attitude and practice. Broadly known as lia
 
 ### SUBCLASSES
 
-*Choose either the* ***Nightwalker*** *or* ***Syndicate*** *subclass.*
+*Choose either the* ***[Nightwalker](../subclasses/Nightwalker.md)*** *or* ***[Syndicate](../subclasses/Syndicate.md)*** *subclass.*
 
 ***Well-Connected:*** When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
 

@@ -2,7 +2,7 @@
 
 As the GM, you have **GM moves** that change the story in response to the players’ actions. GM moves aren’t bound by specific spells or effects—when you make a GM move, you can describe the action in whatever way the fiction demands.
 
-GM moves happen during **GM turns.** A GM turn begins when the spotlight passes to them and ends when the spotlight passes back to the players.
+GM moves happen during **GM turns.** A GM turn begins when the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) passes to them and ends when the spotlight passes back to the players.
 
 **WHEN TO MAKE A MOVE**
 
@@ -10,9 +10,9 @@ The GM can make a GM move whenever you want, but the frequency and severity depe
 
 Make a GM move when the players:
 
-- Roll with Fear
+- Roll with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)
 
-- Fail an action roll
+- Fail an [action roll](Core%20Mechanics.md#ACTION%20ROLLS)
 
 - Do something that has unavoidable consequences
 
@@ -24,7 +24,7 @@ Make a GM move when the players:
 
 The result of a player’s action roll determines your response:
 
-On a **Critical Success,** you let the player describe their success, then give them an additional opportunity or advantage.
+On a **[Critical Success](Core%20Mechanics.md#OVERVIEW),** you let the player describe their success, then give them an additional opportunity or [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
 On a **Success with Hope,** you let the player describe their success, then you show how the world reacts to it.
 
@@ -32,7 +32,7 @@ On a **Success with Fear,** you work with the player to describe their success, 
 
 - An adversary attacks
 
-- The PC marks a Stress
+- The PC marks a [Stress](Core%20Mechanics.md#STRESS)
 
 - You introduce a new threat
 
@@ -122,9 +122,9 @@ Use softer moves on rolls with Hope and harder moves on rolls with Fear.
 
 #### USING FEAR
 
-You start a campaign with 1 Fear per PC in the party.
+You start a campaign with 1 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) per PC in the party.
 
-You gain Fear whenever a PC rolls with Fear, the PCs take a rest (see: Downtime), or when an ability or effect tells you to.
+You gain Fear whenever a PC rolls with Fear, the PCs take a rest (see: [Downtime](Core%20Mechanics.md#DOWNTIME)), or when an ability or effect tells you to.
 
 You can never have more than 12 Fear at one time.
 
@@ -132,15 +132,15 @@ Fear carries over between sessions.
 
 Spend a Fear to:
 
-- Interrupt the players to steal the spotlight and make a move
+- Interrupt the players to steal the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) and make a move
 
 - Make an additional GM move
 
-- Use an adversary’s Fear Feature
+- Use an adversary’s [Fear Feature](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)
 
 - Use an environment’s Fear Feature
 
-- Add an adversary’s Experience to a roll
+- Add an adversary’s [Experience](Character%20Creation.md#STEP%207) to a roll
 
 The dramatic tension of a scene correlates with the amount of Fear you spend during it. For guidance on how much Fear you should spend in a scene, consult the following table:
 
@@ -164,13 +164,13 @@ Spending Fear to make a move communicates the increased impact of your action. F
 
 - Introducing new adversaries to a scene when their appearance hasn’t been foreshadowed or lacks context.
 
-- An adversary activating a powerful spell or transformation to deal massive damage or boost their capabilities.
+- An adversary activating a powerful spell or [transformation](Transformations.md) to deal [massive damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or boost their capabilities.
 
 - An environment exerting a strong negative effect on the party.
 
 #### DIFFICULTY BENCHMARKS
 
-The Difficulty of an attack roll against an adversary is equal to the adversary’s Difficulty score. The Difficulty of any other action rolls against an adversary is equal to the adversary’s Difficulty score, plus (if applicable) the value of one of the adversary relevant Experience modifiers.
+The [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of an [attack roll](Core%20Mechanics.md#ATTACKING) against an adversary is equal to the adversary’s Difficulty score. The Difficulty of any other action rolls against an adversary is equal to the adversary’s Difficulty score, plus (if applicable) the value of one of the adversary relevant [Experience](Character%20Creation.md#STEP%207) modifiers.
 
 When a player makes an action roll without a specified Difficulty, the GM sets the Difficulty according to the totality of the circumstances. Refer to the following benchmark table for more guidance:
 
@@ -178,7 +178,7 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 
 | roll | sprint | leap | Maneuver |
 | --- | --- | --- | --- |
-| **5** | Sprint within Close range across an open field with an enemy present. | Make a running jump of half your height (about 3 feet for a human). | Walk slowly across a narrow beam. |
+| **5** | Sprint within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range across an open field with an enemy present. | Make a running jump of half your height (about 3 feet for a human). | Walk slowly across a narrow beam. |
 | **10** | Sprint within Far range across an open field with an enemy present. | Make a running jump of your height (about 6 feet for a human). | Walk quickly across a narrow beam. |
 | **15** | Sprint within Close range across rough terrain with an enemy present. | Make a running jump of double your height (about 12 feet for a human). | Run across a narrow beam. |
 | **20** | Sprint within Close range through an active battle of multiple enemies. | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind. |
@@ -242,13 +242,13 @@ When a player makes an action roll without a specified Difficulty, the GM sets t
 
 #### GIVING ADVANTAGE AND DISADVANTAGE
 
-To viscerally convey how a PC’s actions or circumstances affect their ability to act, grant them advantage (or impose disadvantage) instead of adjusting the Difficulty of an action roll.
+To viscerally convey how a PC’s actions or circumstances affect their ability to act, grant them [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) (or impose disadvantage) instead of adjusting the [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of an action roll.
 
 **ADVERSARY ACTION ROLLS**
 
-By default, adversaries don’t normally make action rolls except for attack rolls and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary’s action to have a chance of failure, have any relevant PCs make reaction rolls instead.
+By default, adversaries don’t normally make action rolls except for [attack rolls](Core%20Mechanics.md#ATTACKING) and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary’s action to have a chance of failure, have any relevant PCs make [reaction rolls](Core%20Mechanics.md#SPECIAL%20ROLLS) instead.
 
-However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an **action roll** anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary’s stat block to the total. Use the same procedure when an adversary makes a **reaction roll.**
+However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an **action roll** anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds—otherwise it fails. You can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) before rolling to add a relevant [Experience](Character%20Creation.md#STEP%207) from the adversary’s stat block to the total. Use the same procedure when an adversary makes a **reaction roll.**
 
 **ADVERSARY ADVANTAGE & DISADVANTAGE**
 
@@ -256,7 +256,7 @@ If an adversary has advantage on an action roll, the GM rolls an extra d20 and c
 
 **ADVERSARY ATTACKS**
 
-When an adversary attacks a PC, the GM rolls a d20 and adds the adversary’s Attack Modifier to the result. If the total meets or beats the target’s Evasion, the attack succeeds; otherwise, it fails. Before rolling, the GM can grant the attacking adversary advantage, impose disadvantage, or spend a Fear to add a relevant Experience from the adversary’s stat block to the total.
+When an adversary attacks a PC, the GM rolls a d20 and adds the adversary’s Attack Modifier to the result. If the total meets or beats the target’s [Evasion](Core%20Mechanics.md#EVASION), the attack succeeds; otherwise, it fails. Before rolling, the GM can grant the attacking adversary advantage, impose disadvantage, or spend a Fear to add a relevant Experience from the adversary’s stat block to the total.
 
 On a success, the adversary deals the damage listed in their stat block to the target.
 
@@ -268,15 +268,15 @@ When an adversary’s action lets the GM make an **attack against multiple targe
 
 ***Note:*** *You can track countdowns by “spinning down” dice or* *ticking off boxes.*
 
-**Standard countdowns** advance every time a player makes an action roll. If an adversary or environment ability refers to a “Countdown [n],” then it means a standard countdown with a starting value of n.
+**Standard countdowns** advance every time a player makes an [action roll](Core%20Mechanics.md#ACTION%20ROLLS). If an adversary or environment ability refers to a “Countdown [n],” then it means a standard countdown with a starting value of n.
 
 **Dynamic countdowns** advance by up to 3 depending on the outcomes of action rolls. **Consequence countdowns** are dynamic countdowns to negative effects. **Progress countdowns** are dynamic countdowns to positive effects. Dynamic countdowns advance according to this chart:
 
 ### DYNAMIC COUNTDOWN ADVANCEMENT
 
-| **Roll Result** | **Progress Advancement** | **Consequence Advancement** |
+| **Roll Result** | **Progress [Advancement](Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS)** | **Consequence Advancement** |
 | --- | --- | --- |
-| Failure with Fear | No advancement | Tick down 3 |
+| [Failure with Fear](Core%20Mechanics.md#OVERVIEW) | No advancement | Tick down 3 |
 | Failure with Hope | No advancement | Tick down 2 |
 | Success with Fear | Tick down 1 | Tick down 1 |
 | Success with Hope | Tick down 2 | No advancement |
@@ -284,7 +284,7 @@ When an adversary’s action lets the GM make an **attack against multiple targe
 
 #### ADVANCED COUNTDOWN FEATURES
 
-- Countdowns with **randomized starting values**
+- [Countdowns](Making%20Moves.md#COUNTDOWNS) with **randomized starting values**
 
 - **Loop** countdowns that reset to their starting value after their countdown effect is triggered.
 
@@ -292,7 +292,7 @@ When an adversary’s action lets the GM make an **attack against multiple targe
 
 - **Decreasing** countdowns that decrease their starting value by 1 every time they loop.
 
-- **Linked** progress and consequence countdowns that simultaneously advance according to the same action roll outcomes.
+- **Linked** progress and consequence countdowns that simultaneously advance according to the same [action roll](Core%20Mechanics.md#ACTION%20ROLLS) outcomes.
 
 - **Long-term countdowns** that advance after **rests** instead of action rolls.
 
@@ -325,9 +325,9 @@ Otherwise, set the prices of goods and services by adjusting the entries in the 
 
 When you run NPCs as the GM, you should always strive to follow your GM principles and use them to bring the world to life. Differentiate NPCs with unique manners of speech and action; let their individual goals and desires motivate their actions.
 
-The only essential elements for a NPC are their **name, description,** and **motive.** If it’s likely that the PCs will roll actions against them, give them a **Difficulty.** Adversaries can be invented or improvised by modifying the stat block of another adversary.
+The only essential elements for a NPC are their **name, description,** and **motive.** If it’s likely that the PCs will roll actions against them, give them a **[Difficulty](Core%20Mechanics.md#ACTION%20ROLLS).** Adversaries can be invented or improvised by modifying the stat block of another adversary.
 
-If an NPC becomes an ally in combat, they don’t need a stat block—just put the spotlight on what they do and show how their involvement alters the fiction. If a PC capitalizes on their help during the scene, give the PC advantage. NPCs that don’t have Hit Points or Stress can still be injured or killed if the fiction demands it.
+If an NPC becomes an ally in combat, they don’t need a stat block—just put the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) on what they do and show how their involvement alters the fiction. If a PC capitalizes on their help during the scene, give the PC [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). NPCs that don’t have [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](Core%20Mechanics.md#STRESS) can still be injured or killed if the fiction demands it.
 
 If you want an important NPC to mechanically interact with the system, you can give them one or more features with specific **triggers** and **effects.** An NPC might also have a choice that adjusts the parameters of their feature. For example:
 
@@ -335,9 +335,9 @@ If you want an important NPC to mechanically interact with the system, you can g
 
 ***Choice:*** When the battle begins, choose a favored PC.
 
-***Trigger:*** The first time during a battle the favored PC is within Close range and hit with an attack.
+***Trigger:*** The first time during a battle the favored PC is within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and hit with an attack.
 
-***Effect:*** Make an attack roll with a +6 modifier against the adversary. On a success, the target is temporarily Restrained by tendrils of powerful magic.
+***Effect:*** Make an [attack roll](Core%20Mechanics.md#ATTACKING) with a +6 modifier against the adversary. On a success, the target is temporarily [Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS) by tendrils of powerful magic.
 
 #### NPC FEATURE EXAMPLES
 
@@ -345,51 +345,51 @@ If you want an important NPC to mechanically interact with the system, you can g
 
 ***Trigger:*** A battle begins and this NPC is involved.
 
-***Effect:*** Activate a countdown (Loop 3). It ticks down when a PC misses an attack. When it triggers, this NPC releases a volley of arrows at a target of the PCs’ choice, dealing **2d8+3** physical damage.
+***Effect:*** Activate a [countdown](Making%20Moves.md#COUNTDOWNS) (Loop 3). It ticks down when a PC misses an attack. When it triggers, this NPC releases a volley of arrows at a target of the PCs’ choice, dealing **2d8+3** [physical damage](Core%20Mechanics.md#ATTACKING).
 
 ##### MENTOR
 
 ​***Choice:*** When the battle begins, choose a protégé PC.
 
-***Trigger:*** Your protégé is within Close range and fails an attack roll.
+***Trigger:*** Your protégé is within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and fails an [attack roll](Core%20Mechanics.md#ATTACKING).
 
-***Effect:*** Move into Melee range with the PC and give them advice or guidance. The next attack roll they make has advantage.
+***Effect:*** Move into Melee range with the PC and give them advice or guidance. The next attack roll they make has [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
 ##### REGROUP
 
-***​Choice:*** When a battle begins, choose a point within Far range.
+***​Choice:*** When a battle begins, choose a point within [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
-***Trigger:*** All PCs have marked all of their Armor Slots.
+***Trigger:*** All PCs have marked all of their [Armor Slots](Equipment.md#ARMOR).
 
 ***Effect:*** Teleport all PCs and this NPC to the chosen spot and clear an Armor Slot on each target.
 
 ##### INTO THE NIGHT
 
-***Trigger:*** The PCs start a long rest with this NPC.
+***Trigger:*** The PCs start a [long rest](Core%20Mechanics.md#DOWNTIME) with this NPC.
 
-***Effect:*** Roll 1d4. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
+***Effect:*** Roll 1d4. On a 2 or less, this NPC steals 1 [handful](Equipment.md#GOLD) of gold from the party while they are sleeping, then disappears into the night.
 
 ### OPTIONAL GM MECHANICS
 
 **FATE ROLLS**
 
-When the GM wants to leave an outcome entirely up to chance, they call for a fate roll. The GM establishes what’s at stake and how the roll will be interpreted. Then a player rolls one of their Duality Dice and interprets the result.
+When the GM wants to leave an outcome entirely up to chance, they call for a fate roll. The GM establishes what’s at stake and how the roll will be interpreted. Then a player rolls one of their [Duality Dice](Core%20Mechanics.md#OVERVIEW) and interprets the result.
 
 ***Examples:***
 
 *“Roll your Fear Die. On a 4 or lower, the fire spreads beyond* *this house.”*
 
-*“I think it’s really up to chance whether reinforcements will* *make it to you in time. Go ahead and roll your Fear Die—* *that’ll determine the starting size of the countdown. When* *that triggers, reinforcements will arrive in your Far range.”*
+*“I think it’s really up to chance whether reinforcements will* *make it to you in time. Go ahead and roll your Fear Die—* *that’ll determine the starting size of the [countdown](Making%20Moves.md#COUNTDOWNS). When* *that triggers, reinforcements will arrive in your [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.”*
 
 *“Go ahead and roll your Hope Die to see how big the crowd* *at the inn is tonight. The higher the roll, the bigger the* *crowd.”*
 
-*“Make a roll using your Hope Die to determine the number* *of Stamina Potions the shop has in stock.”*
+*“Make a roll using your Hope Die to determine the number* *of [Stamina Potions](../consumables/Stamina%20Potion.md) the shop has in stock.”*
 
 **FALLING AND COLLISION DAMAGE**
 
 If a character falls to the ground, you can use the following as a guide to determine the damage they take:
 
-- A fall from Very Close range deals 1d10+3 physical damage.
+- A fall from Very Close range deals 1d10+3 [physical damage](Core%20Mechanics.md#ATTACKING).
 
 - A fall from Close range deals 1d20+5 physical damage.
 
@@ -399,14 +399,14 @@ If a character collides with an object or another character at a dangerous speed
 
 **MOVING AND FIGHTING UNDERWATER**
 
-By default, attack rolls made while the attacker is underwater have disadvantage.
+By default, attack rolls made while the attacker is underwater have [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
-For creatures that can’t breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
+For creatures that can’t breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition if they fail a roll or roll with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
 
-Once the countdown ends, the underwater PC must mark a Stress whenever they take an action.
+Once the countdown ends, the underwater PC must mark a [Stress](Core%20Mechanics.md#STRESS) whenever they take an action.
 
 **CONFLICT BETWEEN PCS**
 
 Sometimes a player might want their character to act against another PC in the scene. Before jumping to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome—but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
 
-On an attack roll against a PC, the attacker rolls against the defender’s Evasion, just like an adversary. On any other kind of action roll, the instigator makes an action roll and the target makes a reaction roll. To succeed, the instigator must beat a Difficulty equal to the total value of the reaction roll.
+On an attack roll against a PC, the attacker rolls against the defender’s [Evasion](Core%20Mechanics.md#EVASION), just like an adversary. On any other kind of [action roll](Core%20Mechanics.md#ACTION%20ROLLS), the instigator makes an action roll and the target makes a [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS). To succeed, the instigator must beat a Difficulty equal to the total value of the reaction roll.

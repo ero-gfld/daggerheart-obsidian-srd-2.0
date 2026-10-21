@@ -2,15 +2,15 @@
 
 Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Strength
+[Strength](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURES**
 
-***Spirit Weapon:*** When you have an equipped weapon with a range of Melee or Very Close, it can fly from your hand to attack an adversary within Close range and then return to you. You can **mark a Stress** to target an additional adversary within range with the same attack roll.
+***Spirit Weapon:*** When you have an equipped weapon with a range of [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) or Very Close, it can fly from your hand to attack an adversary within Close range and then return to you. You can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to target an additional adversary within range with the same [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Sparing Touch:*** Once per long rest, touch a creature and clear 2 Hit Points or 2 Stress from them.
+***Sparing Touch:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), touch a creature and clear 2 [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or 2 Stress from them.
 
 **SPECIALIZATION FEATURE**
 

@@ -2,7 +2,7 @@
 
 Those who’ve traded their lives—or perhaps even their souls—to an otherworldly patron in exchange for incredible power are known as warlocks. Often, these mortals have reached a point of desperation that leads them to make this sacrifice: they hope to protect themselves or a loved one, aid their community, seek vengeance, increase their status, or otherwise further their ambitions. The powerful entities they entreat are as varied as the warlocks themselves: gods, spirits, demons, or other beings unknown to even the mortal who makes the pact. The entities each have their own sphere of influence that defines their otherworldly power, and those that collect souls are rarely known for their benevolence. Thus, a warlock’s power is defined by the relationship they maintain with their benefactor. Despite their terrifying magic, warlocks might find that someone or something else is pulling their strings.
 
-**DOMAINS –** Dread & Grace
+**DOMAINS –** [Dread](../domains/Dread.md) & [Grace](../domains/Grace.md)
 
 **STARTING EVASION –** 11
 
@@ -10,15 +10,15 @@ Those who’ve traded their lives—or perhaps even their souls—to an otherwor
 
 **CLASS ITEMS –** A carving that symbolizes your patron or a ring you can’t remove
 
-**WARLOCK’S HOPE FEATURE**
+**WARLOCK’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Patron’s Boon:*** When you fail a roll, you can **spend 3 Hope** to reroll with advantage.
+***Patron’s Boon:*** When you fail a roll, you can **spend 3 Hope** to reroll with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Patron’s Pact:*** You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your GM to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an action roll that relates to your patron’s sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5.
+***Patron’s Pact:*** You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your GM to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) that relates to your patron’s sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5.
 
-***Favor:*** You start with 3 Favor. You can use a downtime move to show tribute to your patron. Describe how and gain Favor equal to your Spellcast trait. Additionally, when you succeed on an action roll with Hope, you can choose to gain a Favor instead of a Hope.
+***Favor:*** You start with 3 Favor. You can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to show tribute to your patron. Describe how and gain Favor equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. Additionally, when you succeed on an action roll with Hope, you can choose to gain a Favor instead of a Hope.
 
 ***Note:*** *The maximum Favor you can hold at one time is 6.*
 
@@ -30,7 +30,7 @@ When building a warlock, choose their patron’s sphere of influence from the li
 | --- | --- | --- |
 | *Ambition* | *Leaders* | *Secrets* |
 | *Artists* | *Love* | *Soldiers* |
-| *Chaos* | *Mercy* | *Strength* |
+| *Chaos* | *Mercy* | *[Strength](../core_rules/Character%20Creation.md#STEP%203)* |
 | *Darkness* | *Mischief* | *Travelers* |
 | *Death* | *Nature* | *Tricksters* |
 | *Gamblers* | *Protectors* | *Truth* |
@@ -39,7 +39,7 @@ When building a warlock, choose their patron’s sphere of influence from the li
 
 ### SUBCLASSES
 
-*Choose either the* ***Pact of the Endless*** *or* ***Pact of the Wrathful*** *subclass.*
+*Choose either the* ***[Pact of the Endless](../subclasses/Pact%20of%20the%20Endless.md)*** *or* ***[Pact of the Wrathful](../subclasses/Pact%20of%20the%20Wrathful.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 

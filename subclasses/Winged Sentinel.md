@@ -2,25 +2,25 @@
 
 Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Strength
+[Strength](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURE**
 
 ***Wings of Light:*** You can fly. While flying, you can do the following:
 
-- **Mark a Stress** to pick up and carry another willing creature approximately your size or smaller.
+- **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to pick up and carry another willing creature approximately your size or smaller.
 
-- **Spend a Hope** to deal an extra **1d8** damage on a successful attack.
+- **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to deal an extra **1d8** damage on a successful attack.
 
 **SPECIALIZATION FEATURE**
 
-***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have advantage on Presence Rolls. When you succeed with Hope on a Presence Roll, you can remove a Fear from the GM’s Fear pool instead of gaining Hope.
+***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on Presence Rolls. When you succeed with Hope on a Presence Roll, you can remove a Fear from the GM’s Fear pool instead of gaining Hope.
 
 **MASTERY FEATURES**
 
-***Ascendant:*** Gain a permanent +4 bonus to your Severe damage threshold.
+***Ascendant:*** Gain a permanent +4 bonus to your [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) threshold.
 
 ***Power of the Gods:*** While flying, you deal an extra **1d12** damage instead of 1d8 from your “Wings of Light” feature.
 

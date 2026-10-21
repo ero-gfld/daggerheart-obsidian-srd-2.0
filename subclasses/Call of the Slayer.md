@@ -4,11 +4,11 @@ Play the Call of the Slayer if you want to strike down adversaries with immense 
 
 **FOUNDATION FEATURE**
 
-***Slayer:*** You gain a pool of dice called Slayer Dice. On a roll with Hope, you can place a **d6** on this card instead of gaining a Hope, adding the die to the pool. You can store a number of Slayer Dice equal to your Proficiency. When you make an attack roll or damage roll, you can spend any number of these Slayer Dice, rolling them and adding their result to the roll. At the end of each session, clear any unspent Slayer Dice on this card and gain a Hope per die cleared.
+***Slayer:*** You gain a pool of dice called Slayer Dice. On a roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can place a **d6** on this card instead of gaining a Hope, adding the die to the pool. You can store a number of Slayer Dice equal to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). When you make an attack roll or damage roll, you can spend any number of these Slayer Dice, rolling them and adding their result to the roll. At the end of each session, clear any unspent Slayer Dice on this card and gain a Hope per die cleared.
 
 **SPECIALIZATION FEATURE**
 
-***Weapon Specialist:*** You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can **spend a Hope** to add one of the damage dice from your secondary weapon to the damage roll. Additionally, once per long rest when you roll your Slayer Dice, reroll any 1s.
+***Weapon Specialist:*** You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can **spend a Hope** to add one of the damage dice from your [secondary weapon](../core_rules/Equipment.md#WEAPONS) to the damage roll. Additionally, once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when you roll your Slayer Dice, reroll any 1s.
 
 **MASTERY FEATURE**
 

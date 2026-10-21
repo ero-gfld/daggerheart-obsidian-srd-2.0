@@ -2,15 +2,15 @@
 
 Play the Wordsmith if you want to use clever wordplay and captivate crowds.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Presence
+[Presence](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURES**
 
-***Rousing Speech:*** Once per long rest, you can give a heartfelt, inspiring speech. All allies within Far range clear 2 Stress.
+***Rousing Speech:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can give a heartfelt, inspiring speech. All allies within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Heart of a Poet:*** After you make an action roll to impress, persuade, or offend someone, you can **spend a Hope** to add a **d4** to the roll.
+***Heart of a Poet:*** After you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to impress, persuade, or offend someone, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to add a **d4** to the roll.
 
 **SPECIALIZATION FEATURE**
 
@@ -24,7 +24,7 @@ Presence
 
 **MASTERY FEATURE**
 
-***Epic Poetry.*** Your Rally Die increases to a **d10.** Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your advantage die.
+***Epic Poetry.*** Your Rally Die increases to a **d10.** Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die.
 
 **BACKGROUND QUESTIONS**
 

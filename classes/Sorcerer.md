@@ -2,7 +2,7 @@
 
 Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer’s abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.
 
-**DOMAINS –**  Arcana & Midnight
+**DOMAINS –**  [Arcana](../domains/Arcana.md) & [Midnight](../domains/Midnight.md)
 
 **STARTING EVASION –** 10
 
@@ -10,17 +10,17 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 
 **CLASS ITEMS –**  A whispering orb or a family heirloom
 
-**SORCERER’S HOPE FEATURE**
+**SORCERER’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Volatile Magic:*** **Spend 3 Hope** to reroll any number of your damage dice on an attack that deals magic damage.
+***Volatile Magic:*** **Spend 3 Hope** to reroll any number of your damage dice on an attack that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Arcane Sense:*** You can sense the presence of magical people and objects within Close range.
+***Arcane Sense:*** You can sense the presence of magical people and objects within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
 
-***Minor Illusion:*** Make a **Spellcast Roll (10).** On a success, you create a minor visual illusion no larger than yourself within Close range. This illusion is convincing to anyone at Close range or farther.
+***Minor Illusion:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10).** On a success, you create a minor visual illusion no larger than yourself within Close range. This illusion is convincing to anyone at Close range or farther.
 
-***Channel Raw Power:*** Once per long rest, you can place a domain card from your loadout into your vault and choose to either:
+***Channel Raw Power:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can place a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) from your loadout into your vault and choose to either:
 
 - Gain Hope equal to the level of the card.
 
@@ -28,7 +28,7 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 
 ### SUBCLASSES
 
-*Choose either the* ***Elemental Origin*** *or* ***Primal Origin*** *subclass.*
+*Choose either the* ***[Elemental Origin](../subclasses/Elemental%20Origin.md)*** *or* ***[Primal Origin](../subclasses/Primal%20Origin.md)*** *subclass.*
 
 ***Elementalist:*** Choose one of the following elements at character creation: air, earth, fire, lightning, water.
 

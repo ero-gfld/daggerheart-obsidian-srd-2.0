@@ -1,20 +1,20 @@
 # Minor Chaos Elemental
 
-***Tier 1 Solo***
+***Tier 1 [Solo](../core_rules/Using%20Adversaries.md)***
 *A coruscating mass of uncontrollable magic.*
 
 **Motives & Tactics:** Confound, destabilize, transmogrify
 
-> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3  
-> **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/14 | **HP:** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Warp Blast:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+6 mag
 
 ## FEATURES
 
-***Arcane Form - Passive:*** The Elemental is resistant to magic damage.
+***Arcane Form - Passive:*** The Elemental is resistant to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Sickening Flux - Action:*** **Mark a HP** to force all targets within Close range to mark a Stress and become *Vulnerable* until their next rest or they clear a HP.
+***Sickening Flux - Action:*** **Mark a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)** to force all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next rest or they clear a HP.
 
-***Remake Reality - Action:*** **Spend a Fear** to transform the area within Very Close range into a different biome. All targets within this area take **2d6+3** direct magic damage.
+***Remake Reality - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to transform the area within Very Close range into a different biome. All targets within this area take **2d6+3** direct magic damage.
 
 ***Magical Reflection - Reaction:*** When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half the damage they dealt.
 

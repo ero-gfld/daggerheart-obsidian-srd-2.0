@@ -36,7 +36,7 @@ The manner or mode with which the environment pushs and pulls the people within 
 
 **DIFFICULTY**
 
-The standard Difficulty for action rolls made to overcome, oppose, or resist the environment or its elements.
+The standard [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) for action rolls made to overcome, oppose, or resist the environment or its elements.
 
 **POTENTIAL ADVERSARIES**
 
@@ -44,7 +44,7 @@ Suggested adversaries that might appear in scenes within the environment.
 
 **FEATURES**
 
-Features provide inspiration for GM moves you can use that represent the dynamic landscape or situation.
+Features provide inspiration for [GM moves](Making%20Moves.md) you can use that represent the dynamic landscape or situation.
 
 **FEATURE QUESTIONS**
 
@@ -61,7 +61,7 @@ When you need to quickly adjust a stat block to a different tier, you can simply
 | **Environment Statistic** | **Tier 1** | **Tier 2** | **Tier 3** | **Tier 4** |
 | --- | --- | --- | --- | --- |
 | Damage Dice | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10 |
-| Difficulty | 11 | 14 | 17 | 20 |
+| [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) | 11 | 14 | 17 | 20 |
 
 #### ENVIRONMENT STAT BLOCKS BY TIER
 
@@ -69,102 +69,102 @@ This section contains the following stat blocks.
 
 **TIER 1 (LEVEL 1)**
 
-- Abandoned Grove (Exploration)
+- [Abandoned Grove](../environments/Abandoned%20Grove.md) (Exploration)
 
-- Abandoned Mine (Traversal)
+- [Abandoned Mine](../environments/Abandoned%20Mine.md) (Traversal)
 
-- Alchemist’s Abandoned Workshop (Exploration)
+- [Alchemist’s Abandoned Workshop](../environments/Alchemist’s%20Abandoned%20Workshop.md) (Exploration)
 
-- Ambushed (Event)
+- [Ambushed](../environments/Ambushed.md) (Event)
 
-- Ambushers (Event)
+- [Ambushers](../environments/Ambushers.md) (Event)
 
-- Bustling Marketplace (Social)
+- [Bustling Marketplace](../environments/Bustling%20Marketplace.md) (Social)
 
-- Cliffside Ascent (Traversal)
+- [Cliffside Ascent](../environments/Cliffside%20Ascent.md) (Traversal)
 
-- Corrupted Swamp (Traversal)
+- [Corrupted Swamp](../environments/Corrupted%20Swamp.md) (Traversal)
 
-- Cursed Graveyard (Exploration)
+- [Cursed Graveyard](../environments/Cursed%20Graveyard.md) (Exploration)
 
-- Grand Feast (Social)
+- [Grand Feast](../environments/Grand%20Feast.md) (Social)
 
-- Hold the Line (Event)
+- [Hold the Line](../abilities/Hold%20the%20Line.md) (Event)
 
-- Local Festival (Social)
+- [Local Festival](../environments/Local%20Festival.md) (Social)
 
-- Local Tavern (Social)
+- [Local Tavern](../environments/Local%20Tavern.md) (Social)
 
-- Outpost Town (Social)
+- [Outpost Town](../environments/Outpost%20Town.md) (Social)
 
-- Raging River (Traversal)
+- [Raging River](../environments/Raging%20River.md) (Traversal)
 
-- Raiding Party (Event)
+- [Raiding Party](../environments/Raiding%20Party.md) (Event)
 
 **TIER 2 (LEVELS 2–4)**
 
-- Beach Day (Social)
+- [Beach Day](../environments/Beach%20Day.md) (Social)
 
-- Cult Ritual (Event)
+- [Cult Ritual](../environments/Cult%20Ritual.md) (Event)
 
-- Deadly Dungeon (Exploration)
+- [Deadly Dungeon](../environments/Deadly%20Dungeon.md) (Exploration)
 
-- Duel (Event)
+- [Duel](../environments/Duel.md) (Event)
 
-- Hallowed Temple (Social)
+- [Hallowed Temple](../environments/Hallowed%20Temple.md) (Social)
 
-- Haunted City (Exploration)
+- [Haunted City](../environments/Haunted%20City.md) (Exploration)
 
-- Heist (Event)
+- [Heist](../environments/Heist.md) (Event)
 
-- Masquerade Ball (Social)
+- [Masquerade Ball](../environments/Masquerade%20Ball.md) (Social)
 
-- Mountain Pass (Traversal)
+- [Mountain Pass](../environments/Mountain%20Pass.md) (Traversal)
 
-- Ocean Voyage (Traversal)
+- [Ocean Voyage](../environments/Ocean%20Voyage.md) (Traversal)
 
-- Vast Desert (Traversal)
+- [Vast Desert](../environments/Vast%20Desert.md) (Traversal)
 
-- Witch’s Hut (Exploration)
+- [Witch’s Hut](../environments/Witch’s%20Hut.md) (Exploration)
 
 **TIER 3 (LEVELS 5–7)**
 
-- Archmage’s Tower (Exploration)
+- [Archmage’s Tower](../environments/Archmage’s%20Tower.md) (Exploration)
 
-- Astral Realm (Traversal)
+- [Astral Realm](../environments/Astral%20Realm.md) (Traversal)
 
-- Burning Heart of the Woods (Exploration)
+- [Burning Heart of the Woods](../environments/Burning%20Heart%20of%20the%20Woods.md) (Exploration)
 
-- Castle Siege (Event)
+- [Castle Siege](../environments/Castle%20Siege.md) (Event)
 
-- Crystal Wasteland (Traversal)
+- [Crystal Wasteland](../environments/Crystal%20Wasteland.md) (Traversal)
 
-- Dragon’s Lair (Exploration)
+- [Dragon’s Lair](../environments/Dragon’s%20Lair.md) (Exploration)
 
-- Megastorm (Event)
+- [Megastorm](../environments/Megastorm.md) (Event)
 
-- Pitched Battle (Event)
+- [Pitched Battle](../environments/Pitched%20Battle.md) (Event)
 
-- Sunken Citadel (Exploration)
+- [Sunken Citadel](../environments/Sunken%20Citadel.md) (Exploration)
 
-- Upscale Casino (Social)
+- [Upscale Casino](../environments/Upscale%20Casino.md) (Social)
 
-- Volcanic Eruption (Event)
+- [Volcanic Eruption](../environments/Volcanic%20Eruption.md) (Event)
 
 **TIER 4 (LEVELS 8–10)**
 
-- Chaos Realm (Traversal)
+- [Chaos Realm](../environments/Chaos%20Realm.md) (Traversal)
 
 - Convergence, City of Portals (Social)
 
-- Divine Usurpation (Event)
+- [Divine Usurpation](../environments/Divine%20Usurpation.md) (Event)
 
-- Imperial Court (Social)
+- [Imperial Court](../environments/Imperial%20Court.md) (Social)
 
-- Moon Kingdom (Exploration)
+- [Moon Kingdom](../environments/Moon%20Kingdom.md) (Exploration)
 
-- Necromancer’s Ossuary (Exploration)
+- [Necromancer’s Ossuary](../environments/Necromancer’s%20Ossuary.md) (Exploration)
 
-- Realm of the Dead (Traversal)
+- [Realm of the Dead](../environments/Realm%20of%20the%20Dead.md) (Traversal)
 
-- Time Court (Event)
+- [Time Court](../environments/Time%20Court.md) (Event)

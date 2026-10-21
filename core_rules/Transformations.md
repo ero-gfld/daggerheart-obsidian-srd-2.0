@@ -2,9 +2,9 @@
 
 Transformations represent a fundamental shift in your character and how they interact with the world. These are optional aspects of a character’s identity that the GM can give out during a campaign as part of the narrative or, at their discretion, present as an option during character creation.
 
-Transformations provide both a mechanical benefit and a drawback. Taking a transformation card requires you to buy into the concept of the exchange, taking on the burden to reap the benefit. Because of this, we recommend that players remind GMs of their transformations' negative effects whenever they’re relevant to help fulfill and reinforce the fiction of the transformation.
+Transformations provide both a mechanical benefit and a drawback. Taking a transformation card requires you to buy into the concept of the exchange, taking on the [burden](Equipment.md#WEAPONS) to reap the benefit. Because of this, we recommend that players remind GMs of their transformations' negative effects whenever they’re relevant to help fulfill and reinforce the fiction of the transformation.
 
-Transformation cards do not count toward your loadout maximum. When your character gains a transformation, add the card to your loadout as if it were part of your character’s heritage. Consider how this transformation changes your character physically and psychologically—if you need inspiration, each transformation includes questions to help you.
+Transformation cards do not count toward your [loadout](Domains.md#DOMAIN%20CARDS) maximum. When your character gains a transformation, add the card to your loadout as if it were part of your character’s heritage. Consider how this transformation changes your character physically and psychologically—if you need inspiration, each transformation includes questions to help you.
 
 If there are details you’d like to incorporate into your character that go beyond the features on a transformation card, work with your GM to explore how they might manifest in your campaign’s narrative.
 

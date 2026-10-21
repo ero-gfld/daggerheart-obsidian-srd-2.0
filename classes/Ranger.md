@@ -2,7 +2,7 @@
 
 Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.
 
-**DOMAINS –** Bone & Sage
+**DOMAINS –** [Bone](../domains/Bone.md) & [Sage](../domains/Sage.md)
 
 **STARTING EVASION –** 12
 
@@ -10,23 +10,23 @@ Rangers are highly skilled hunters who, despite their martial abilities, rarely 
 
 **CLASS ITEMS –** A trophy from your first kill or a seemingly broken compass
 
-**RANGER’S HOPE FEATURE**
+**RANGER’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
 ***Hold Them Off:*** **Spend 3 Hope** when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.
 
-**CLASS FEATURE**
+**[CLASS FEATURE](../core_rules/Classes.md)**
 
 ***Ranger’s Focus:*** **Spend a Hope** and make an attack against a target. On a success, deal your attack’s normal damage and temporarily make the attack’s target your *Focus*. Until this feature ends or you make a different creature your *Focus*, you gain the following benefits against your *Focus:*
 
 - You know precisely what direction they are in.
 
-- When you deal damage to them, they must mark a Stress.
+- When you deal damage to them, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-- When you fail an attack against them, you can end your Ranger’s Focus feature to reroll your Duality Dice.
+- When you fail an attack against them, you can end your Ranger’s Focus feature to reroll your [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
 
 ### SUBCLASSES
 
-*Choose either the* ***Beastbound*** *or* ***Wayfinder*** *subclass.*
+*Choose either the* ***[Beastbound](../subclasses/Beastbound.md)*** *or* ***[Wayfinder](../subclasses/Wayfinder.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 
@@ -58,21 +58,21 @@ Work with the GM to decide what kind of animal you have as your companion. Give 
 
 ##### STEP 2: WRITE THEIR EVASION
 
-Fill in their Evasion, which starts at 10.
+Fill in their [Evasion](../core_rules/Core%20Mechanics.md#EVASION), which starts at 10.
 
 ##### STEP 3: CHOOSE THEIR COMPANION EXPERIENCE
 
-Create two Experiences for your companion based on their training and the history you have together.
+Create two [Experiences](../core_rules/Character%20Creation.md#STEP%207) for your companion based on their training and the history you have together.
 
 Start with +2 in both Experiences. Whenever you gain a new Experience, your companion also gains one. All new Experiences start at +2.
 
 **Example Companion Experiences**
 
-*Bold Distraction, Expert Climber, Fetch, Friendly, Guardian* *of the Forest, Horrifying, Intimidating, Loyal Until the* *End, Navigation, Nimble, Nobody Left Behind, On High* *Alert, Protective, Royal Companion, Scout, Service Animal,* *Trusted Mount, Vigilant, We Always Find Them, You Can’t* *Hit What You Can’t Find*
+*Bold Distraction, Expert Climber, Fetch, Friendly, [Guardian](Guardian.md)* *of the Forest, Horrifying, Intimidating, Loyal Until the* *End, Navigation, Nimble, Nobody Left Behind, On High* *Alert, Protective, Royal Companion, Scout, Service Animal,* *Trusted Mount, Vigilant, We Always Find Them, You Can’t* *Hit What You Can’t Find*
 
 ##### STEP 4: CHOOSE THEIR ATTACK AND RECORD DAMAGE DIE
 
-Finally, describe your companion’s method of dealing damage (their standard attack) and record it in the “Attack & Damage” section. At level 1, your companion’s damage die is a d6 and their range is Melee. Choose whether they deal physical or magic damage.
+Finally, describe your companion’s method of dealing damage (their standard attack) and record it in the “Attack & Damage” section. At level 1, your companion’s damage die is a d6 and their range is [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT). Choose whether they deal physical or [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
 
 #### WORKING WITH YOUR COMPANION
 
@@ -80,34 +80,34 @@ The following sections will run you through the basics of working with your comp
 
 ##### USING SPELLCAST ROLLS, HOPE, AND EXPERIENCES
 
-Make a Spellcast Roll to connect with your companion and command them to take action. Spend a Hope to add an applicable Companion Experience to the roll. On a success with Hope, if your next action builds on their success, you gain advantage on the roll.
+Make a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) to connect with your companion and command them to take action. Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to add an applicable Companion [Experience](../core_rules/Character%20Creation.md#STEP%207) to the roll. On a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW), if your next action builds on their success, you gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the roll.
 
 ##### ATTACKING WITH YOUR COMPANION
 
-When you command your companion to attack, they gain any benefits that would normally only apply to you (such as the effects of “Ranger’s Focus”). On a success, their damage roll uses your Proficiency and their damage die.
+When you command your companion to attack, they gain any benefits that would normally only apply to you (such as the effects of “Ranger’s Focus”). On a success, their [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) uses your Proficiency and their damage die.
 
 ##### TAKING DAMAGE AS STRESS
 
-- When your companion would take any amount of damage, they mark a Stress. When they mark their last Stress, they drop out of the scene (by hiding, fleeing, or a similar action). They remain unavailable until the start of your next long rest, where they return with 1 Stress cleared.
+- When your companion would take any amount of damage, they mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). When they mark their last Stress, they drop out of the scene (by hiding, fleeing, or a similar action). They remain unavailable until the start of your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), where they return with 1 Stress cleared.
 
 - When you choose a downtime move that clears Stress on yourself, your companion clears an equal number of Stress.
 
 #### LEVELING UP YOUR COMPANION
 
-When your character levels up, choose one available option for your companion from the following list and mark it on your sheet:
+When your character [levels up](../core_rules/Core%20Mechanics.md#LEVELING%20UP), choose one available option for your companion from the following list and mark it on your sheet:
 
-- ***Intelligent:*** Your companion gains a permanent +1 bonus to a Companion Experience of your choice.
+- ***Intelligent:*** Your companion gains a permanent +1 bonus to a Companion [Experience](../core_rules/Character%20Creation.md#STEP%207) of your choice.
 
-- ***Light in the Dark:*** Use this as an additional Hope slot your character can mark.
+- ***Light in the Dark:*** Use this as an additional [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) slot your character can mark.
 
-- ***Creature Comfort:*** Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a Stress.
+- ***Creature Comfort:*** Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a Hope or you can both clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-- ***Armored:*** When your companion takes damage, you can **mark one of your Armor Slots** instead of marking one of their Stress.
+- ***Armored:*** When your companion takes damage, you can **mark one of your [Armor Slots](../core_rules/Equipment.md#ARMOR)** instead of marking one of their Stress.
 
-- ***Vicious:*** Increase your companion’s damage dice or range by one step (d6 to d8, Close to Far, etc.).
+- ***Vicious:*** Increase your companion’s damage dice or range by one step (d6 to d8, [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) to Far, etc.).
 
 - ***Resilient:*** Your companion gains an additional Stress slot.
 
-- ***Bonded:*** When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
+- ***Bonded:*** When you mark your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
 
-- ***Aware:*** Your companion gains a permanent +2 bonus to their Evasion.
+- ***Aware:*** Your companion gains a permanent +2 bonus to their [Evasion](../core_rules/Core%20Mechanics.md#EVASION).

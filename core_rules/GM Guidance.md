@@ -44,7 +44,7 @@ These three sections provide a foundation to help you get the most out of this g
 
 **KEEP THE STORY MOVING FORWARD**
 
-*Advance the story through escalating action, new information,* *or changing circumstances after every action roll, whether it* *succeeds or fails.*
+*Advance the story through escalating action, new information,* *or changing circumstances after every [action roll](Core%20Mechanics.md#ACTION%20ROLLS), whether it* *succeeds or fails.*
 
 **CUT TO THE ACTION**
 
@@ -102,7 +102,7 @@ Spend your prep time inventing situations instead of scripting scenes. If the pl
 
 **HOARDING FEAR**
 
-Spend Fear when you have the opportunity. The players will always generate more.
+Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) when you have the opportunity. The players will always generate more.
 
 *For more in-depth GM guidance, see pg. 140 of the* *Daggerheart Core Rulebook.*
 
@@ -110,21 +110,21 @@ Spend Fear when you have the opportunity. The players will always generate more.
 
 #### ROLLING DICE
 
-The GM has no Duality Dice; instead, they roll a single d20 called the GM’s Die.
+The GM has no [Duality Dice](Core%20Mechanics.md#OVERVIEW); instead, they roll a single d20 called the GM’s Die.
 
-**ADVERSARY ATTACK ROLLS**
+**ADVERSARY [ATTACK ROLLS](Core%20Mechanics.md#ATTACKING)**
 
-When an adversary attacks a PC, roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s Evasion, the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
+When an adversary attacks a PC, roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s [Evasion](Core%20Mechanics.md#EVASION), the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
 
 If you roll a natural 20 on an attack, your roll automatically succeeds and you deal extra damage. Roll damage normally, then add the highest number on the damage dice to the total. For example, an attack that deals 3d6+2 deals 18+3d6+2 on a critical success; the critical success does not affect the flat damage modifier.
 
-***Note:*** *a critical success on an adversary’s reaction roll* *automatically succeeds, but confers no additional benefit.*
+***Note:*** *a critical success on an adversary’s [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS)* *automatically succeeds, but confers no additional benefit.*
 
-**GUIDANCE ON ACTION ROLLS**
+**GUIDANCE ON [ACTION ROLLS](Core%20Mechanics.md#ACTION%20ROLLS)**
 
 After a player describes a move they want to make during the game, you might decide an action roll is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
 
-- Determine whether the roll is necessary, considering the PC’s Experiences or backstory, the pressure they’re acting under, and the possible outcomes.
+- Determine whether the roll is necessary, considering the PC’s [Experiences](Character%20Creation.md#STEP%207) or backstory, the pressure they’re acting under, and the possible outcomes.
 
 - Establish the stakes of an action roll before the player makes it.
 

@@ -4,6 +4,6 @@ Being part of a wanderborne community means you’ve lived as a nomad, forgoing 
 
 *Wanderborne are often inscrutable, magnanimous, mirthful,* *reliable, savvy, and unorthodox.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Nomadic Pack:*** Add a Nomadic Pack to your inventory. Once per session, you can **spend a Hope** to reach into this pack and pull out a mundane item that’s useful to your situation. Work with the GM to figure out what item you take out.
+***Nomadic Pack:*** Add a Nomadic Pack to your inventory. Once per session, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reach into this pack and pull out a mundane item that’s useful to your situation. Work with the GM to figure out what item you take out.

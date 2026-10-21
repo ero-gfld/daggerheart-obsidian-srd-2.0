@@ -2,8 +2,8 @@
 
 **_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-*Instinct* · *Very Close* · *d10+9 mag* · *Two-Handed*
+*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+9 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
 
 ### FEATURE
 
-***Ethereal:*** You must mark a Stress to conjure this weapon. It lasts until the end of the scene.
+***Ethereal:*** You must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to conjure this weapon. It lasts until the end of the scene.

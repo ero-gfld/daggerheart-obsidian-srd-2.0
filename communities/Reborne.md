@@ -8,8 +8,8 @@ Often, reborne individuals tirelessly search for their past or feel that they’
 
 *Reborne are often curious, hopeful, innocent, isolated, mournful,* *and uncanny.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Found Family:*** Once per rest, you can **spend a Hope** to use an ally’s Experience as if it were your own. When you do so, describe how your time with that ally prepared you for this moment.
+***Found Family:*** Once per rest, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to use an ally’s [Experience](../core_rules/Character%20Creation.md#STEP%207) as if it were your own. When you do so, describe how your time with that ally prepared you for this moment.
 
 When you join a new community or rediscover your old one, you can permanently trade this card for that one instead.

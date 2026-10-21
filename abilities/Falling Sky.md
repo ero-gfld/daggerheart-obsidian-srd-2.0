@@ -1,5 +1,5 @@
 # Falling Sky
 
-***Level 10*** *Arcana Spell.* ***Recall Cost*** *1.*
+***Level 10*** *[Arcana](../domains/Arcana.md) Spell.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
 
-Make a **Spellcast Roll** against all adversaries within Far range. **Mark any number of Stress** to make shards of arcana rain down from above. Targets you succeed against take **1d20+2** magic damage for each Stress marked.
+Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against all adversaries within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make shards of arcana rain down from above. Targets you succeed against take **1d20+2** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) for each Stress marked.

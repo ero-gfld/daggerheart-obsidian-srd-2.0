@@ -1,22 +1,22 @@
 # Vampire Lord
 
-***Tier 3 Solo***
+***Tier 3 [Solo](../core_rules/Using%20Adversaries.md)***
 *A cruel vampire lord from a long-lost age, cursed with immortality.*
 
 **Motives & Tactics:** Corrupt, destroy, overwhelm with evil power
 
-> **Difficulty:** 18 | **Thresholds:** 24/45 | **HP:** 7 | **Stress:** 7  
-> **ATK:** +5 | **Claws:** Melee | 3d10+2 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 24/45 | **HP:** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 7  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+2 phy
 
-**Experience:** Evil +3, Noble +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Evil +3, Noble +3
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Vampire Lord can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Relentless (3) - Passive:*** The Vampire Lord can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to spotlight them.
 
-***Midnight Heart - Passive:*** *Long-Term Countdown (6).* The Vampire Lord keeps their heart hidden in a safe place. If it’s destroyed, the Vampire Lord dies. Otherwise, when the Vampire Lord is defeated, activate the countdown. It ticks down each time the PCs finish a long rest. When it triggers, the Vampire Lord revives within Close range of the heart with all HP and Stress cleared.
+***Midnight Heart - Passive:*** *Long-Term [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (6).* The Vampire Lord keeps their heart hidden in a safe place. If it’s destroyed, the Vampire Lord dies. Otherwise, when the Vampire Lord is defeated, activate the countdown. It ticks down each time the PCs finish a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME). When it triggers, the Vampire Lord revives within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the heart with all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS) cleared.
 
-***Terrifying - Passive:*** When the Vampire Lord makes a successful attack roll, all PCs within Close range lose a Hope, and you gain a Fear.
+***Terrifying - Passive:*** When the Vampire Lord makes a successful [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), all PCs within Close range lose a Hope, and you gain a Fear.
 
 ***Unleash Hellfire - Action:*** **Mark a Stress** to have the Vampire Lord momentarily conjure **1d4** bursts of hellfire within Far range. Each burst deals **3d6** magic damage to each target within Very Close range. If a target takes damage from multiple bursts, combine the damage.
 
@@ -26,6 +26,6 @@
 
 ***Hellwing - Evolution:*** When the Vampire Lord marks half their HP, they transform into the Hellwing: a towering, demonic bat creature. They gain the “On Crimson Wings” and “Bloodbath” features and replace their standard attack with the following standard attack: **Claws:** Close | 3d12+6 phy
 
-***On Crimson Wings - Passive:*** While flying, the Hellwing gains a +1 bonus to their Difficulty.
+***On Crimson Wings - Passive:*** While flying, the Hellwing gains a +1 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
 
 ***Bloodbath - Reaction:*** When the Hellwing takes Major or greater damage, the ground within Very Close range is covered with blood, dealing **3d10** magic damage to all other creatures in the area. When the Hellwing takes the spotlight on subsequent GM turns, all other creatures in that area take **3d6** magic damage.

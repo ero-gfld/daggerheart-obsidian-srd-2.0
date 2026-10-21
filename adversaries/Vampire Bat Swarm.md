@@ -1,19 +1,19 @@
 # Vampire Bat Swarm
 
-***Tier 3 Horde (5/HP)***
+***Tier 3 [Horde](../core_rules/Using%20Adversaries.md) (5/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
 *A cloud of blood-sucking bats.*
 
 **Motives & Tactics:** Blot out the moon, murmur, spread disease
 
-> **Difficulty:** 15 | **Thresholds:** 16/30 | **HP:** 8 | **Stress:** 3  
-> **ATK:** +1 | **Fangs:** Melee | 3d6+6 phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **Thresholds:** 16/30 | **HP:** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Fangs:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d6+6 phy
 
-**Experience:** Blood +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Blood +3
 
 ## FEATURES
 
-***Horde (2d6) - Passive:*** When the Swarm has marked half or more of its HP, its standard attack deals **2d6** physical damage instead.
+***Horde (2d6) - Passive:*** When the Swarm has marked half or more of its [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), its standard attack deals **2d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
 
-***Blinding Multitude - Passive:*** The Swarm is so thick it blocks the vision of anyone it interacts with. Creatures within Melee range have disadvantage on attacks made against adversaries other than the Swarm.
+***Blinding Multitude - Passive:*** The Swarm is so thick it blocks the vision of anyone it interacts with. Creatures within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks made against adversaries other than the Swarm.
 
-***Bloodsuckers - Reaction:*** When the Swarm deals damage to a target, you can **mark a Stress** to have the Swarm feed. The target marks an additional HP, and the Swarm clears a HP.
+***Bloodsuckers - Reaction:*** When the Swarm deals damage to a target, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Swarm feed. The target marks an additional HP, and the Swarm clears a HP.

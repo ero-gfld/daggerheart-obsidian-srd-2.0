@@ -2,10 +2,10 @@
 
 **_Tier 1_** (Deer, Gazelle, Goat, etc.)
 
-*Agility +1 | Evasion +3* *Melee Agility d6 phy*
+*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d6 phy*
 
-**Gain advantage on:** leap, sneak, sprint
+**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** leap, sneak, sprint
 
-***Elusive Prey:*** When an attack roll against you would succeed, you can **mark a Stress** and roll a **d4.** Add the result to your Evasion against this attack.
+***Elusive Prey:*** When an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against you would succeed, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and roll a **d4.** Add the result to your Evasion against this attack.
 
-***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
+***Fragile:*** When you take Major or greater damage, you drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).

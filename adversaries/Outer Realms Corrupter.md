@@ -1,15 +1,15 @@
 # Outer Realms Corrupter
 
-***Tier 4 Support***
+***Tier 4 [Support](../core_rules/Using%20Adversaries.md)***
 *A shifting, formless mass seemingly made of chromatic light.*
 
 **Motives & Tactics:** Confuse, distract, overwhelm
 
-> **Difficulty:** 19 | **Thresholds:** 27/47 | **HP:** 4 | **Stress:** 3  
-> **ATK:** +7 | **Corroding Pseudopod:** Very Close | 4d8+5 mag
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 19 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 27/47 | **HP:** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Corroding Pseudopod:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+5 mag
 
 ## FEATURES
 
-***Will-Shattering Touch - Passive:*** When a PC takes damage from the Corrupter, they lose a Hope.
+***Will-Shattering Touch - Passive:*** When a PC takes damage from the Corrupter, they lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
 
-***Disgorge Reality Flotsam - Action:*** **Mark a Stress** to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress.
+***Disgorge Reality Flotsam - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to spew partially digested portions of consumed realities at all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets must succeed on a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or mark 2 Stress.

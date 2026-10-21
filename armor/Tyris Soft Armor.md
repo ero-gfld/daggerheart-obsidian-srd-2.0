@@ -1,7 +1,7 @@
 # Tyris Soft Armor
 **_Tier 2_** _Armor_
 
-* *Base Thresholds:* 8 / 18  
+* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 8 / 18  
 * *Base Score:* 5
 
 ### FEATURE

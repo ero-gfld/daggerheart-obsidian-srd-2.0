@@ -2,17 +2,17 @@
 
 Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Instinct
+[Instinct](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURE**
 
-***Manipulate Magic:*** Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals magic damage, you can **mark a Stress** to do one of the following:
+***Manipulate Magic:*** Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to do one of the following:
 
 - Extend the spell or attack’s reach by one range
 
-- Gain a +2 bonus to the action roll’s result
+- Gain a +2 bonus to the [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS)’s result
 
 - Double a damage die of your choice
 
@@ -20,7 +20,7 @@ Instinct
 
 **SPECIALIZATION FEATURE**
 
-***Enchanted Aid:*** You can enhance the magic of others with your essence. When you Help an Ally with a Spellcast Roll, you can roll a **d8** as your advantage die. Once per long rest, after an ally has made a Spellcast Roll with your help, you can swap the results of their Duality Dice.
+***Enchanted Aid:*** You can enhance the magic of others with your essence. When you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) with a Spellcast Roll, you can roll a **d8** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), after an ally has made a Spellcast Roll with your help, you can swap the results of their [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
 
 **MASTERY FEATURE**
 

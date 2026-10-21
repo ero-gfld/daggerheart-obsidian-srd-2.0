@@ -2,10 +2,10 @@
 
 **_Tier 2_** (Cobra, Rattlesnake, Viper, etc.)
 
-*Finesse +1 | Evasion +2* *Very Close Finesse d8+4 phy*
+*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d8+4 phy*
 
-**Gain advantage on:** climb, deceive, sprint
+**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** climb, deceive, sprint
 
-***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct physical damage each time they act.
+***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each time they act.
 
-***Warning Hiss:*** **Mark a Stress** to force any number of targets within Melee range to move back to Very Close range.
+***Warning Hiss:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force any number of targets within Melee range to move back to Very Close range.

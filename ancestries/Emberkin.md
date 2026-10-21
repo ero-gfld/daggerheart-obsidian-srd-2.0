@@ -4,8 +4,8 @@ Emberkin are humanoids whose bodies are made of flesh and fire. Descended from f
 
 Infant emberkin resemble small balls of fire or cinders, and because they lack the skill to control their temperature, they often need to be placed in fireproof containment such as dragon eggs, hearths, and cookware. Their humanoid characteristics develop throughout adolescence until they solidify into their adult form. Emberkin range from 5 to 7 feet tall and live about 250 years, their light and heat dimming as they age. When they pass, they blaze brightly for a moment, then burn to ash.
 
-**ANCESTRY FEATURES**
+**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
 
-***Fireproof:*** You are immune to damage from magical or mundane flame.
+***Fireproof:*** You are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to damage from magical or mundane flame.
 
-***Ignition:*** **Mark a Stress** to wreathe your primary weapon in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to damage rolls with that weapon.
+***Ignition:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to wreathe your [primary weapon](../core_rules/Equipment.md#WEAPONS) in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to damage rolls with that weapon.

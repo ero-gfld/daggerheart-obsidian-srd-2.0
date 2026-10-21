@@ -6,9 +6,9 @@ Demigods are bestowed with a fragment of deific power, but not everything a demi
 
 **TRANSFORMATION FEATURES**
 
-***Gifted:*** You gain a +1 bonus to action, reaction, and damage rolls.
+***Gifted:*** You gain a +1 bonus to action, reaction, and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
 
-***Weight of Divinity:*** When you fail a roll, you must mark a Stress or the GM gains a Fear.
+***Weight of Divinity:*** When you fail a roll, you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) or the GM gains a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
 
 **TRANSFORMATION QUESTIONS**
 

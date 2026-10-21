@@ -12,7 +12,7 @@ To get the most out of Daggerheart, we recommend players keep the following prin
 
 - Be a fan of your character and their journey.
 
-- Spotlight your friends.
+- [Spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) your friends.
 
 - Address the characters and address the players.
 
@@ -48,7 +48,7 @@ The players ask clarifying questions to explore the scene more deeply and gather
 
 ### STEP 3 BUILD ON THE FICTION
 
-As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an action roll. Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC’s actions have changed things.
+As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an [action roll](Core%20Mechanics.md#ACTION%20ROLLS). Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC’s actions have changed things.
 
 ### STEP 4 GO BACK TO STEP 1
 
@@ -58,11 +58,11 @@ The process repeats from the beginning, with the GM relaying any updated details
 
 The **spotlight** is a symbol that represents the table’s attention—and therefore the immediate focus of both the narrative and the game mechanics. Any time a character or player becomes the focus of a scene, they “are in the spotlight” or “have the spotlight.”
 
-The spotlight moves around the table organically as scenes unfold unless a mechanical trigger determines where the spotlight goes next. For example, when a player fails an action roll or rolls with Fear, the mechanics prompt the GM to seize the spotlight and make a GM move.
+The spotlight moves around the table organically as scenes unfold unless a mechanical trigger determines where the spotlight goes next. For example, when a player fails an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) or rolls with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR), the mechanics prompt the GM to seize the spotlight and make a [GM move](Making%20Moves.md).
 
 ## TURN ORDER & ACTION ECONOMY
 
-Daggerheart’s turns don’t follow a traditional, rigid format: there is no explicit initiative mechanic and characters don’t have a set number of actions they can take or things they can do before the spotlight passes to someone else. A player with the spotlight describes what their character does, and the spotlight swings to one of the following:
+Daggerheart’s turns don’t follow a traditional, rigid format: there is no explicit initiative mechanic and characters don’t have a set number of actions they can take or things they can do before the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) passes to someone else. A player with the spotlight describes what their character does, and the spotlight swings to one of the following:
 
 - Whomever or whatever a triggered mechanic puts it on
 
@@ -76,7 +76,7 @@ If your group prefers a more traditional action economy, you can use tokens to t
 
 ## MAKING MOVES & TAKING ACTION
 
-Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
+Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a [class feature](Classes.md), they are making a move.
 
 #### ACTION ROLLS
 
@@ -84,11 +84,11 @@ Any move where success would be trivial or failure would be boring automatically
 
 #### OVERVIEW
 
-All action rolls require a pair of d12s called **Duality Dice.** These are two visually distinct twelve-sided dice, with one die representing Hope and the other representing Fear.
+All [action rolls](Core%20Mechanics.md#ACTION%20ROLLS) require a pair of d12s called **Duality Dice.** These are two visually distinct twelve-sided dice, with one die representing [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) and the other representing Fear.
 
 To make an action roll, you roll the Duality Dice, sum the results, apply any relevant modifiers, and compare the total to a Difficulty number to determine the outcome:
 
-- **Success with Hope:** If your total meets or beats the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Success with Hope.” You succeed and gain a Hope, and the spotlight stays with the players.
+- **Success with Hope:** If your total meets or beats the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Success with Hope.” You succeed and gain a Hope, and the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) stays with the players.
 
 - **Success with Fear:** If your total meets or beats the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Success with Fear.” You succeed with a cost or complication, but the GM gains a Fear, then takes the spotlight.
 
@@ -96,7 +96,7 @@ To make an action roll, you roll the Duality Dice, sum the results, apply any re
 
 - **Failure with Fear:** If your total is less than the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Failure with Fear.” You fail with a major consequence and the GM gains a Fear, then the spotlight swings to the GM.
 
-- **Critical Success:** If the Duality Dice show matching results, you rolled a “Critical Success” (“Crit”). You automatically succeed with a bonus, gain a Hope, and clear a Stress. If this was an attack roll, you deal critical damage.
+- **Critical Success:** If the Duality Dice show matching results, you rolled a “Critical Success” (“Crit”). You automatically succeed with a bonus, gain a Hope, and clear a [Stress](Core%20Mechanics.md#STRESS). If this was an [attack roll](Core%20Mechanics.md#ATTACKING), you deal critical damage.
 
 ***Note:*** *A Critical Success counts as a roll “with Hope.”*
 
@@ -108,7 +108,7 @@ In Daggerheart, every time you roll the dice, the scene changes in some way. The
 
 #### PROCEDURE
 
-The following steps describe in more detail the procedure that all action rolls utilize:
+The following steps describe in more detail the procedure that all [action rolls](Core%20Mechanics.md#ACTION%20ROLLS) utilize:
 
 **STEP 1:** PICK AN APPROPRIATE TRAIT
 
@@ -120,13 +120,13 @@ Some actions and features say in their description what the Difficulty is. Other
 
 **STEP 3:** APPLY EXTRA DICE AND MODIFIERS
 
-The acting player decides whether to Utilize an Experience or activate other effects, then, if applicable, adds the appropriate tokens and dice (such as advantage or Rally dice) to their dice pool.
+The acting player decides whether to [Utilize an Experience](Core%20Mechanics.md#HOPE%20&%20FEAR) or activate other effects, then, if applicable, adds the appropriate tokens and dice (such as [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) or Rally dice) to their dice pool.
 
-***Note:*** *Unless an action, ability, or feature specifically allows* *for it, a player must declare the use of any Experiences, extra* *dice, or other modifiers before they roll.*
+***Note:*** *Unless an action, ability, or feature specifically allows* *for it, a player must declare the use of any [Experiences](Character%20Creation.md#STEP%207), extra* *dice, or other modifiers before they roll.*
 
 **STEP 4:** ROLL THE DICE
 
-The acting player rolls their entire dice pool and announces the results in the format of “[total result] with [Hope/Fear]”—or “Critical Success!” in the case of matching Duality Dice.
+The acting player rolls their entire dice pool and announces the results in the format of “[total result] with [Hope/Fear]”—or “[Critical Success](Core%20Mechanics.md#OVERVIEW)!” in the case of matching Duality Dice.
 
 *Example: A player is making an action roll with a +1 in the* *relevant trait and no other modifiers; they roll the Duality* *Dice and get a result of 5 on their Hope Die and 7 on their* *Fear Die, then announce “I rolled a 13 with Fear!”*
 
@@ -138,7 +138,7 @@ The active player and the GM work together, along with the suggestions and suppo
 
 GMs also make moves. They should consider making a move when a player does one of the following things:
 
-- Rolls with Fear on an action roll.
+- Rolls with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) on an [action roll](Core%20Mechanics.md#ACTION%20ROLLS).
 
 - Fails an action roll.
 
@@ -148,7 +148,7 @@ GMs also make moves. They should consider making a move when a player does one o
 
 - Looks to them for what happens next.
 
-After the GM turn is done, the spotlight goes back to the PCs.
+After the [GM turn](Making%20Moves.md) is done, the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) goes back to the PCs.
 
 Many adversaries and environments have **Fear Features**, especially powerful or consequential moves that the GM must spend Fear to activate.
 
@@ -156,9 +156,9 @@ Many adversaries and environments have **Fear Features**, especially powerful or
 
 ### ADVERSARY ACTIONS
 
-When play passes to the GM, the GM can make a GM move to spotlight an adversary. When an adversary takes the spotlight, they do one of the following:
+When play passes to the GM, the GM can make a [GM move](Making%20Moves.md) to [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) an adversary. When an adversary takes the spotlight, they do one of the following:
 
-- Move within Close range and make a standard attack
+- Move within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make a standard attack
 
 - Move within Close range and use an adversary action
 
@@ -168,19 +168,19 @@ When play passes to the GM, the GM can make a GM move to spotlight an adversary.
 
 - Anything else the fiction demands or the GM deems appropriate
 
-The GM can spend additional Fear to spotlight additional adversaries. Once the GM has finished, the spotlight swings back to the PCs.
+The GM can spend additional [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to spotlight additional adversaries. Once the GM has finished, the spotlight swings back to the PCs.
 
 ### SPECIAL ROLLS
 
-Some rolls have unique specifications or otherwise modify the action roll procedure: trait rolls, Spellcast Rolls, attack rolls, and damage rolls. Unless otherwise noted, you can apply any bonus, modifier, or effect to a special roll as if it were a standard action roll.
+Some rolls have unique specifications or otherwise modify the [action roll](Core%20Mechanics.md#ACTION%20ROLLS) procedure: trait rolls, Spellcast Rolls, [attack rolls](Core%20Mechanics.md#ATTACKING), and damage rolls. Unless otherwise noted, you can apply any bonus, modifier, or effect to a special roll as if it were a standard action roll.
 
 **TRAIT ROLLS**
 
-An action roll that specifies which character trait applies to it is called a **trait roll.** In the text of a feature or effect, a trait roll is referenced with the format “[Trait] Roll (Difficulty)” (e.g., “Agility Roll (12)”). If the text of an effect doesn’t specify a trait roll’s Difficulty, the GM sets the Difficulty based on the circumstances.
+An action roll that specifies which character trait applies to it is called a **trait roll.** In the text of a feature or effect, a trait roll is referenced with the format “[Trait] Roll (Difficulty)” (e.g., “[Agility](Character%20Creation.md#STEP%203) Roll (12)”). If the text of an effect doesn’t specify a trait roll’s Difficulty, the GM sets the Difficulty based on the circumstances.
 
 Features and effects that affect a trait roll also affect any action roll that uses the same trait, including attack rolls, Spellcast Rolls, and standard action rolls.
 
-**Example:** The katari’s ancestry feature “Feline Instincts,” which allows the katari to reroll an Agility Roll, can be used on a standard action roll using Agility to traverse dangerous terrain or on an attack roll made with a weapon that uses Agility.
+**Example:** The katari’s [ancestry feature](Ancestries.md) “Feline Instincts,” which allows the katari to reroll an Agility Roll, can be used on a standard action roll using Agility to traverse dangerous terrain or on an attack roll made with a weapon that uses Agility.
 
 **SPELLCAST ROLLS**
 
@@ -192,7 +192,7 @@ Spellcast Rolls are only made when a character uses a feature that requires one.
 
 *A Spellcast Roll that can damage a target is also considered* *an attack roll.*
 
-*When you cast a spell, the text tells you when the effect ends.* *The GM can spend a Fear to end a temporary effect. If your* *spell doesn’t specify when it ends, it ends when you choose or* *at a natural moment of the story. You can choose to end your* *spell early.*
+*When you cast a spell, the text tells you when the effect ends.* *The GM can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to end a temporary effect. If your* *spell doesn’t specify when it ends, it ends when you choose or* *at a natural moment of the story. You can choose to end your* *spell early.*
 
 *You can cast and maintain the effects of more than one spell* *at the same time.*
 
@@ -200,9 +200,9 @@ Spellcast Rolls are only made when a character uses a feature that requires one.
 
 A **reaction roll** is made in response to an attack or a hazard, representing a character’s attempt to avoid or withstand an imminent effect.
 
-Reaction rolls work like action rolls, except they don’t generate Hope or Fear, don’t trigger additional GM moves, and other characters can’t aid you with Help an Ally.
+Reaction rolls work like action rolls, except they don’t generate Hope or Fear, don’t trigger additional [GM moves](Making%20Moves.md), and other characters can’t aid you with Help an Ally.
 
-If you critically succeed on a reaction roll, you don’t clear a Stress or gain a Hope, but you do ignore any effects that would have impacted you on a success, such as taking damage or marking Stress.
+If you critically succeed on a reaction roll, you don’t clear a [Stress](Core%20Mechanics.md#STRESS) or gain a Hope, but you do ignore any effects that would have impacted you on a success, such as taking damage or marking Stress.
 
 **GROUP ACTION ROLLS**
 
@@ -218,13 +218,13 @@ On a successful Tag Team attack roll, both players roll damage and add the total
 
 ***Notes:***
 
-*A Tag Team Roll counts as a single action roll for the* *purposes of any countdowns or features that track action* *rolls.*
+*A Tag Team Roll counts as a single action roll for the* *purposes of any [countdowns](Making%20Moves.md#COUNTDOWNS) or features that track action* *rolls.*
 
 *Though each player may only initiate one Tag Team Roll per* *session, one PC can be involved in multiple Tag Team Rolls.*
 
 ### ADVANTAGE & DISADVANTAGE
 
-Some features and effects let you roll with advantage or disadvantage on an action or reaction roll:
+Some features and effects let you roll with advantage or disadvantage on an action or [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS):
 
 - **Advantage** represents an opportunity that you seize to increase your chances of success. When you roll with advantage, you roll a d6 advantage die and add its result to your total.
 
@@ -238,9 +238,9 @@ Likewise, advantages and disadvantages cancel one another, one for one, when the
 
 ***For example:*** *If a player would gain advantage on an action* *from three different sources and disadvantage from one, they* *would still only gain one advantage die on the roll.*
 
-There is one exception to this general rule. When a player uses Help an Ally, they roll their own advantage die and apply it to an ally’s action roll. Any number of players can Help an Ally on the same action roll. If multiple advantage dice apply to the same action roll due to one or more players using Help an Ally, the player making the action roll adds only the highest result of all advantage dice rolled (including their own) and ignores the rest.
+There is one exception to this general rule. When a player uses [Help an Ally](Core%20Mechanics.md#HOPE%20&%20FEAR), they roll their own advantage die and apply it to an ally’s [action roll](Core%20Mechanics.md#ACTION%20ROLLS). Any number of players can Help an Ally on the same action roll. If multiple advantage dice apply to the same action roll due to one or more players using Help an Ally, the player making the action roll adds only the highest result of all advantage dice rolled (including their own) and ignores the rest.
 
-***For example:*** *Anne makes an Agility Roll with advantage,* *and her allies Bo and Cameron both spend a Hope to Help* *an Ally. All three players roll their own d6 advantage die, but* *Anne only adds the highest result to her total. So if Anne has* *+1 in Agility and rolls a 13 with Hope on her Duality Dice,* *plus a 2 on her advantage die, but Bo and Cameron rolled a 3* *and 4 on their advantage dice, then Anne’s total result would* *be an 18 with Hope (13 + 1 + 4).*
+***For example:*** *Anne makes an [Agility](Character%20Creation.md#STEP%203) Roll with advantage,* *and her allies Bo and Cameron both spend a Hope to Help* *an Ally. All three players roll their own d6 advantage die, but* *Anne only adds the highest result to her total. So if Anne has* *+1 in Agility and rolls a 13 with Hope on her [Duality Dice](Core%20Mechanics.md#OVERVIEW),* *plus a 2 on her advantage die, but Bo and Cameron rolled a 3* *and 4 on their advantage dice, then Anne’s total result would* *be an 18 with Hope (13 + 1 + 4).*
 
 ### HOPE & FEAR
 
@@ -254,13 +254,13 @@ Players can spend Hope to:
 
 - **Help an Ally**
 
-  When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
+  When you Help an Ally who is making an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), describe how you do so and roll an [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
 
 - **Utilize an Experience**
 
-  When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
+  When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple [Experiences](Character%20Creation.md#STEP%207).
 
-- **Initiate a Tag Team Roll**
+- **Initiate a [Tag Team Roll](Core%20Mechanics.md#SPECIAL%20ROLLS)**
 
   Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their action rolls and then choose which set of results to apply to the outcome.
 
@@ -272,7 +272,7 @@ Players can spend Hope to:
 
 **FEAR**
 
-The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.
+The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a [GM move](Making%20Moves.md) or to use a [Fear Feature](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS). The GM can have up to 12 Fear at one time. Fear carries over between sessions.
 
 ## COMBAT
 
@@ -280,7 +280,7 @@ Though Daggerheart relies on the same flow of collaborative storytelling in and 
 
 ### EVASION
 
-**Evasion** represents a character’s ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target’s Evasion. A PC’s base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
+**Evasion** represents a character’s ability to avoid attacks and other unwanted effects. Any roll made against a PC has a [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) equal to the target’s Evasion. A PC’s base Evasion is determined by their class, but can be modified by [domain cards](Domains.md#DOMAIN%20CARDS), equipment, conditions, and other effects.
 
 ***Note:*** *attacks rolled against adversaries use the target’s* *Difficulty instead of Evasion.*
 
@@ -296,15 +296,15 @@ Though Daggerheart relies on the same flow of collaborative storytelling in and 
 
 - If incoming damage is ever reduced to 0 or less, no HP is marked.
 
-You can increase the number of Hit Point slots you have available as you level up, to a maximum of 12.
+You can increase the number of Hit Point slots you have available as you [level up](Core%20Mechanics.md#LEVELING%20UP), to a maximum of 12.
 
-A PC’s damage thresholds are calculated by adding their level to the listed damage thresholds of their equipped armor. A PC’s starting HP is based on their class, but they can gain additional Hit Points through advancements, features, and other effects.
+A PC’s damage thresholds are calculated by adding their level to the listed damage thresholds of their equipped armor. A PC’s starting HP is based on their class, but they can gain additional Hit Points through [advancements](Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS), features, and other effects.
 
 An adversary’s Damage Thresholds and HP are listed in their stat blocks.
 
-When a character marks their last Hit Point, they fall. If a PC falls, they make a death move.
+When a character marks their last Hit Point, they fall. If a PC falls, they make a [death move](Core%20Mechanics.md#DEATH).
 
-Characters can clear Hit Points by taking downtime moves (see: Downtime) or by activating relevant special abilities or effects.
+Characters can clear Hit Points by taking [downtime moves](Core%20Mechanics.md#DOWNTIME) (see: Downtime) or by activating relevant special abilities or effects.
 
 ***Optional Rule: Massive Damage***
 
@@ -312,25 +312,25 @@ If a character ever takes damage equal to twice their Severe threshold, they mar
 
 ## STRESS
 
-**Stress** represents how much mental, physical, and emotional strain a character can endure. All classes start with 6 Stress slots. You can increase the number of Stress slots you have available as you level up, to a maximum of 12. Some special abilities or effects require the character activating them to mark Stress, and the GM can require a PC to mark Stress as a GM move or to represent the cost, complication, or consequence of an action roll.
+**Stress** represents how much mental, physical, and emotional strain a character can endure. All classes start with 6 Stress slots. You can increase the number of Stress slots you have available as you [level up](Core%20Mechanics.md#LEVELING%20UP), to a maximum of 12. Some special abilities or effects require the character activating them to mark Stress, and the GM can require a PC to mark Stress as a [GM move](Making%20Moves.md) or to represent the cost, complication, or consequence of an [action roll](Core%20Mechanics.md#ACTION%20ROLLS).
 
-When a character marks their last Stress, they become *Vulnerable* (see: Conditions) until they clear at least 1 Stress.
+When a character marks their last Stress, they become *[Vulnerable](Core%20Mechanics.md#STANDARD%20CONDITIONS)* (see: Conditions) until they clear at least 1 Stress.
 
-When a character must mark 1 or more Stress but can’t, they mark 1 HP instead. A character can’t use a move that requires them to mark Stress if all of their Stress is marked.
+When a character must mark 1 or more Stress but can’t, they mark 1 [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) instead. A character can’t use a move that requires them to mark Stress if all of their Stress is marked.
 
-PCs can clear Stress by making downtime moves (see: Downtime). A PC’s maximum Stress is determined by their class, but they can increase it through advancements, abilities, and other effects.
+PCs can clear Stress by making [downtime moves](Core%20Mechanics.md#DOWNTIME) (see: Downtime). A PC’s maximum Stress is determined by their class, but they can increase it through [advancements](Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS), abilities, and other effects.
 
 ## ATTACKING
 
 **ATTACK ROLLS**
 
-An **attack roll** is an action roll intended to inflict harm. The trait that applies to an attack roll is specified by the weapon or spell being used. Unarmed attack rolls use either Strength or Finesse (GM’s choice). An attack roll’s Difficulty, unless otherwise noted, is equal to the Difficulty score of its target.
+An **attack roll** is an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) intended to inflict harm. The trait that applies to an attack roll is specified by the weapon or spell being used. Unarmed attack rolls use either [Strength](Character%20Creation.md#STEP%203) or Finesse (GM’s choice). An attack roll’s Difficulty, unless otherwise noted, is equal to the Difficulty score of its target.
 
 **DAMAGE ROLLS**
 
 On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack’s description with the format “xdy+[modifier]” *(e.g., for a spell that inflicts “1d8+2”* *damage, you roll an eight-sided and add 2 to the result; the* *damage dealt is equal to the total).*
 
-Any time an effect says to deal damage using your Spellcast trait, you roll a number of dice equal to your Spellcast trait.
+Any time an effect says to deal damage using your [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait, you roll a number of dice equal to your Spellcast trait.
 
 ***Note:*** *If your Spellcast trait is +0 or lower, you don’t roll* *anything.*
 
@@ -340,7 +340,7 @@ Successful unarmed attacks inflict [Proficiency]d4 damage.
 
 **CRITICAL DAMAGE**
 
-When you get a critical success (i.e., you roll matching values on your Duality Dice) on an attack roll, you deal extra damage. Make the damage roll as usual, but add the maximum possible result of the damage dice to the final total. For instance, if an attack would normally deal 2d8+1 damage, a critical success would deal 2d8+1+16.
+When you get a [critical success](Core%20Mechanics.md#OVERVIEW) (i.e., you roll matching values on your Duality Dice) on an attack roll, you deal extra damage. Make the damage roll as usual, but add the maximum possible result of the damage dice to the final total. For instance, if an attack would normally deal 2d8+1 damage, a critical success would deal 2d8+1+16.
 
 **DAMAGE TYPES**
 
@@ -348,7 +348,7 @@ There are two damage types: **physical damage (phy)** and **magic damage (mag)**
 
 **RESISTANCE, IMMUNITY, AND DIRECT DAMAGE**
 
-If a target has **resistance** to a damage type, then they reduce incoming damage of that type by half before comparing it to their Hit Point Thresholds. If the target has additional ways of reducing incoming damage, such as marking Armor Slots, they apply the resistance effect first. The effects of multiple resistances to the same damage type do not stack.
+If a target has **resistance** to a damage type, then they reduce incoming damage of that type by half before comparing it to their [Hit Point](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) Thresholds. If the target has additional ways of reducing incoming damage, such as marking [Armor Slots](Equipment.md#ARMOR), they apply the resistance effect first. The effects of multiple resistances to the same damage type do not stack.
 
 If a target has **immunity** to a damage type, they ignore incoming damage of that type.
 
@@ -364,7 +364,7 @@ If a spell or ability allows you to target multiple adversaries, make one attack
 
 Damage dealt simultaneously from multiple sources is always totaled before it’s compared to its target’s damage thresholds.
 
-For example, if a PC with orc ancestry makes a successful attack against a target in Melee range and decides to spend a Hope to use their “Tusks” feature (which gives them an extra 1d6 damage on a damage roll), they would roll their normal weapon damage and add a d6 to the result, then deal that total damage to the adversary.
+For example, if a PC with orc ancestry makes a successful attack against a target in [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and decides to spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to use their “Tusks” feature (which gives them an extra 1d6 damage on a damage roll), they would roll their normal weapon damage and add a d6 to the result, then deal that total damage to the adversary.
 
 ## MAPS, RANGE, AND MOVEMENT
 
@@ -378,7 +378,7 @@ Daggerheart uses the following **ranges** to translate fictional positioning int
 
 **Close:** Close enough to see prominent details, about 10–30 feet away. While in danger, a character can move, as part of their action, from Close range into Melee range. *On a* *map: anything within the length of a pencil (5-6 inches).*
 
-**Far:** Close enough to see very little detail, about 30–100 feet away. While in danger, a character must make an Agility Roll to safely move from Far range into Melee range. *On a map: anything within the length of the long edge of a* *piece of copy paper (11–12 inches).*
+**Far:** Close enough to see very little detail, about 30–100 feet away. While in danger, a character must make an [Agility](Character%20Creation.md#STEP%203) Roll to safely move from Far range into Melee range. *On a map: anything within the length of the long edge of a* *piece of copy paper (11–12 inches).*
 
 **Very Far:** Too far to make out any details, about 100–300 feet away. While in danger, a character must make an Agility Roll to safely move from Very Far range into Melee range. *On a map: anything beyond Far range, but still within* *the bounds of the conflict or scene.*
 
@@ -406,7 +406,7 @@ A weapon, spell, ability, item, or other effect’s stated range is a maximum ra
 
 **MOVEMENT UNDER PRESSURE**
 
-When you’re under pressure or in danger and make an action roll, you can move to a location within Close range as part of that action. If you’re not already making an action roll, or if you want to move farther than your Close range, you need to succeed on an Agility Roll to safely reposition yourself.
+When you’re under pressure or in danger and make an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), you can move to a location within Close range as part of that action. If you’re not already making an action roll, or if you want to move farther than your Close range, you need to succeed on an Agility Roll to safely reposition yourself.
 
 An adversary can move within Close range for free as part of an action, or within Very Far range as a separate action.
 
@@ -416,7 +416,7 @@ Unless stated otherwise, all the targets of a group effect must be within Very C
 
 **LINE OF SIGHT & COVER**
 
-Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an attack roll. If a partial obstruction lies between the attacker and target, the target has **cover.** Attacks made through cover are rolled with disadvantage. If the obstruction is total, there is no line of sight.
+Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an [attack roll](Core%20Mechanics.md#ATTACKING). If a partial obstruction lies between the attacker and target, the target has **cover.** Attacks made through cover are rolled with [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). If the obstruction is total, there is no line of sight.
 
 ## CONDITIONS
 
@@ -428,7 +428,7 @@ Daggerheart has three standard conditions:
 
 **HIDDEN**
 
-While you’re out of sight from all enemies and they don’t otherwise know your location, you gain the *Hidden* condition. Any rolls against a *Hidden* creature have disadvantage. After an adversary moves to where they would see you, you move into their line of sight, or you make an attack, you are no longer *Hidden*.
+While you’re out of sight from all enemies and they don’t otherwise know your location, you gain the *Hidden* condition. Any rolls against a *Hidden* creature have [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). After an adversary moves to where they would see you, you move into their [line of sight](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), or you make an attack, you are no longer *Hidden*.
 
 **RESTRAINED**
 
@@ -444,7 +444,7 @@ Unless otherwise noted, the same condition can’t be applied more than once to 
 
 #### TEMPORARY TAGS & SPECIAL CONDITIONS
 
-The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.
+The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful [action roll](Core%20Mechanics.md#ACTION%20ROLLS) using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.
 
 **Special conditions** are only cleared when specific requirements are met, such as completing a certain action or using a particular item. The requirements for clearing these conditions are stated in the text of the effect that applies the condition.
 
@@ -456,15 +456,15 @@ When the party rests, they must choose between a short rest and a long rest. If 
 
 If a **short rest** is interrupted, such as by an adversary's attack, the characters don’t gain its benefits. If a long rest is interrupted, the characters only gain the benefits of a short rest.
 
-A **short rest** lasts enough time for the party to catch its breath, about an hour in-world. Each player can move domain cards between their loadout and vault for free, then choose twice from the following list of downtime moves (players can choose the same move twice):
+A **short rest** lasts enough time for the party to catch its breath, about an hour in-world. Each player can move [domain cards](Domains.md#DOMAIN%20CARDS) between their loadout and vault for free, then choose twice from the following list of downtime moves (players can choose the same move twice):
 
-- **Tend to Wounds:** Clear 1d4+Tier Hit Points for yourself or an ally.
+- **Tend to Wounds:** Clear 1d4+Tier [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) for yourself or an ally.
 
-- **Clear Stress:** Clear 1d4+Tier Stress.
+- **Clear [Stress](Core%20Mechanics.md#STRESS):** Clear 1d4+Tier Stress.
 
-- **Repair Armor:** Clear 1d4+Tier Armor Slots from your or an ally’s armor.
+- **Repair Armor:** Clear 1d4+Tier [Armor Slots](Equipment.md#ARMOR) from your or an ally’s armor.
 
-- **Prepare:** Describe how you prepare yourself for the path ahead, then gain a Hope. If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
+- **Prepare:** Describe how you prepare yourself for the path ahead, then gain a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
 
 **At the end of a short rest,** any features or effects with a limited number of uses per rest refresh and any features or effects that last until your next rest expire.
 
@@ -478,7 +478,7 @@ A **long rest** is when the characters make camp and relax or sleep for several 
 
 - **Prepare:** Describe how you prepare for the next day’s adventure, then gain a Hope. If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
 
-- **Work on a Project:** With GM approval, a PC may pursue a long-term project, such as deciphering an ancient text or crafting a new weapon. The first time they start a new project, assign it a countdown. Each time a PC makes the Work on a Project move, they either advance their project’s countdown automatically or make an action roll to advance it (GM’s choice).
+- **Work on a Project:** With GM approval, a PC may pursue a long-term project, such as deciphering an ancient text or crafting a new weapon. The first time they start a new project, assign it a [countdown](Making%20Moves.md#COUNTDOWNS). Each time a PC makes the Work on a Project move, they either advance their project’s countdown automatically or make an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) to advance it (GM’s choice).
 
 At the end of a long rest, any features or effects with a limited number of uses per rest or per long rest refresh and any features or effects that last until your next rest or until your next long rest expire.
 
@@ -488,13 +488,13 @@ On a short rest, the GM gains 1d4 Fear. On a long rest, they gain Fear equal to 
 
 ## DEATH
 
-When a PC marks their last Hit Point, they must make a **death move** by choosing one of the following options:
+When a PC marks their last [Hit Point](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they must make a **death move** by choosing one of the following options:
 
 - **Blaze of Glory:** Your character embraces death and goes out in a blaze of glory. Take one final action. It automatically critically succeeds (with GM approval), and then you cross through the veil of death.
 
-- **Avoid Death:** Your character avoids death and faces the consequences. They temporarily drop unconscious, and then you work with the GM to describe how the situation worsens. While unconscious, your character can’t move or act, and they can’t be targeted by an attack. They return to consciousness when an ally clears 1 or more of their marked Hit Points or when the party finishes a long rest. After your character falls unconscious, roll your Hope Die. If its value is equal to or less than your character’s level, they gain a scar: permanently cross out a Hope slot and work with the GM to determine its lasting narrative impact and how, if possible, it can be restored. If you ever cross out your last Hope slot, your character’s journey ends.
+- **Avoid Death:** Your character avoids death and faces the consequences. They temporarily drop unconscious, and then you work with the GM to describe how the situation worsens. While unconscious, your character can’t move or act, and they can’t be targeted by an attack. They return to consciousness when an ally clears 1 or more of their marked Hit Points or when the party finishes a [long rest](Core%20Mechanics.md#DOWNTIME). After your character falls unconscious, roll your [Hope Die](Core%20Mechanics.md#OVERVIEW). If its value is equal to or less than your character’s level, they gain a scar: permanently cross out a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) slot and work with the GM to determine its lasting narrative impact and how, if possible, it can be restored. If you ever cross out your last Hope slot, your character’s journey ends.
 
-- **Risk It All:** Roll your Duality Dice. If the Hope Die is higher, your character stays on their feet and clears a number of Hit Points or Stress equal to the value of the Hope Die (you can divide the Hope Die value between Hit Points and Stress however you’d prefer). If the Fear Die is higher, your character crosses through the veil of death. If the Duality Dice show matching results, your character stays up and clears all Hit Points and Stress.
+- **Risk It All:** Roll your Duality Dice. If the Hope Die is higher, your character stays on their feet and clears a number of Hit Points or [Stress](Core%20Mechanics.md#STRESS) equal to the value of the Hope Die (you can divide the Hope Die value between Hit Points and Stress however you’d prefer). If the Fear Die is higher, your character crosses through the veil of death. If the Duality Dice show matching results, your character stays up and clears all Hit Points and Stress.
 
 If your character dies, work with the GM before the next session to create a new character at the current level of the rest of the party.
 
@@ -512,7 +512,7 @@ When a feature allows you to reroll a die, you always take the new result unless
 
 **INCOMING DAMAGE**
 
-Incoming damage means the total damage from a single attack or source, before Armor Slots are marked.
+Incoming damage means the total damage from a single attack or source, before [Armor Slots](Equipment.md#ARMOR) are marked.
 
 **SIMULTANEOUS EFFECTS**
 
@@ -520,7 +520,7 @@ If the resolution order of multiple effects is unclear, the person in control of
 
 **STACKING EFFECTS**
 
-Unless stated otherwise, all effects beside conditions and advantage/disadvantage can stack.
+Unless stated otherwise, all effects beside conditions and [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE)/disadvantage can stack.
 
 **ONGOING SPELL EFFECTS**
 
@@ -528,7 +528,7 @@ If an effect doesn’t have a listed mechanical expiration, it only ends when de
 
 **SPENDING RESOURCES**
 
-Unless an effect states otherwise, you can’t spend Hope or mark Stress multiple times on the same feature to increase or repeat its effects on the same roll.
+Unless an effect states otherwise, you can’t spend [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) or mark [Stress](Core%20Mechanics.md#STRESS) multiple times on the same feature to increase or repeat its effects on the same roll.
 
 **USING FEATURES AFTER A ROLL**
 
@@ -548,13 +548,13 @@ Daggerheart has 10 PC levels divided into 4 tiers:
 
 →Tier 4 encompasses levels 8–10.
 
-Your tier affects your damage thresholds, tier achievements, and access to advancements.
+Your tier affects your [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), tier achievements, and access to [advancements](Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS).
 
 ### STEP ONE TIER ACHIEVEMENTS
 
 Take any applicable tier **achievements**
 
-- At level 2, you gain a new Experience at +2 and permanently increase your Proficiency by 1.
+- At level 2, you gain a new [Experience](Character%20Creation.md#STEP%207) at +2 and permanently increase your [Proficiency](Core%20Mechanics.md#ATTACKING) by 1.
 
 - At level 5, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
 
@@ -566,32 +566,32 @@ Choose any two **advancements** with at least one unmarked slot from your tier o
 
 - *When you choose to* ***increase two unmarked character*** ***traits*** *and mark them:* Choose two unmarked character traits and gain a permanent +1 bonus to them. You can’t increase these stats again until the next tier (when your tier achievement allows you to clear those marks).
 
-- *When you choose to* ***permanently add 1 or more Hit Point*** ***slots***: Darken the outline of the next rectangle in the Hit Point section of your character sheet in pen or permanent marker.
+- *When you choose to* ***permanently add 1 or more [Hit Point](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)*** ***slots***: Darken the outline of the next rectangle in the Hit Point section of your character sheet in pen or permanent marker.
 
-- *When you choose to* ***permanently add 1 or more Stress*** ***slots***: Darken the outline of the next rectangle in the Stress section of your character sheet in pen or permanent marker.
+- *When you choose to* ***permanently add 1 or more [Stress](Core%20Mechanics.md#STRESS)*** ***slots***: Darken the outline of the next rectangle in the Stress section of your character sheet in pen or permanent marker.
 
-- *When you choose to* ***increase your Experience***: Choose two Experiences on your character sheet and gain a permanent +1 bonus to both.
+- *When you choose to* ***increase your [Experience](Character%20Creation.md#STEP%207)***: Choose two Experiences on your character sheet and gain a permanent +1 bonus to both.
 
-- *When you* ***take an additional domain card***: You can choose an additional domain card at or below your level or from your class’s domains. If you’ve multiclassed, you can instead select a card at or below half your level from your chosen multiclass domain.
+- *When you* ***take an additional [domain card](Domains.md#DOMAIN%20CARDS)***: You can choose an additional domain card at or below your level or from your class’s domains. If you’ve multiclassed, you can instead select a card at or below half your level from your chosen [multiclass](Core%20Mechanics.md#MULTICLASSING) domain.
 
-- *When you choose to* ***increase your Evasion***: Gain a permanent +1 bonus to your Evasion.
+- *When you choose to* ***increase your [Evasion](Core%20Mechanics.md#EVASION)***: Gain a permanent +1 bonus to your Evasion.
 
-- *When you choose to* ***take an upgraded subclass card***: Take the next card for your subclass. If you have only the foundation card, take a specialization; if you have a specialization already, take a mastery. Then cross out this tier’s multiclass option.
+- *When you choose to* ***take an upgraded [subclass card](Classes.md#SUBCLASSES)***: Take the next card for your subclass. If you have only the foundation card, take a specialization; if you have a specialization already, take a mastery. Then cross out this tier’s multiclass option.
 
-- *When you choose to* ***increase your Proficiency***: Fill in one of the open circles in the “Proficiency” section of your character sheet, then increase your weapon’s number of damage dice by 1. *The black box around this advancement’s* *slots indicates you must spend two advancements and mark* *both level-up slots in order to take it as an option.*
+- *When you choose to* ***increase your [Proficiency](Core%20Mechanics.md#ATTACKING)***: Fill in one of the open circles in the “Proficiency” section of your character sheet, then increase your weapon’s number of damage dice by 1. *The black box around this advancement’s* *slots indicates you must spend two advancements and mark* *both level-up slots in order to take it as an option.*
 
-- *When you choose to* ***multiclass***: Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around* *this advancement’s slots indicates you must spend two* *advancements and mark both level-up slots in order to take* *it as an option.*
+- *When you choose to* ***multiclass***: Choose an additional class, select one of its domains, and gain its [class feature](Classes.md). Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around* *this advancement’s slots indicates you must spend two* *advancements and mark both level-up slots in order to take* *it as an option.*
 
 ### STEP THREE DAMAGE THRESHOLDS
 
-Increase all damage thresholds by 1.
+Increase all [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) by 1.
 
 ### STEP FOUR DOMAIN CARDS
 
-Acquire a new domain card at your level or lower from one of your class’s domains and add it to your loadout or vault. If your loadout is already full, you can’t add the new card to it until you move another into your vault. You can also exchange one domain card you’ve previously acquired for a different domain card of the same level or lower.
+Acquire a new [domain card](Domains.md#DOMAIN%20CARDS) at your level or lower from one of your class’s domains and add it to your loadout or vault. If your loadout is already full, you can’t add the new card to it until you move another into your vault. You can also exchange one domain card you’ve previously acquired for a different domain card of the same level or lower.
 
 ## MULTICLASSING
 
-Starting at level 5, you can choose multiclassing as an option when leveling up. When you multiclass, you choose an additional class, gain access to one of its domains, and acquire its class feature. Take the appropriate multiclass module and add it to the right side of your character sheet, then choose a foundation card from one of its subclasses. If your foundation cards specify different Spellcast traits, you can choose which one to apply when making a Spellcast roll.
+Starting at level 5, you can choose multiclassing as an option when [leveling up](Core%20Mechanics.md#LEVELING%20UP). When you multiclass, you choose an additional class, gain access to one of its domains, and acquire its [class feature](Classes.md). Take the appropriate multiclass module and add it to the right side of your character sheet, then choose a foundation card from one of its subclasses. If your foundation cards specify different [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) traits, you can choose which one to apply when making a Spellcast roll.
 
-Whenever you have the option to acquire a new domain card, you can choose from cards at or below half your current level (rounded up) from the domain you chose when you selected the multiclass advancement.
+Whenever you have the option to acquire a new [domain card](Domains.md#DOMAIN%20CARDS), you can choose from cards at or below half your current level (rounded up) from the domain you chose when you selected the multiclass [advancement](Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS).

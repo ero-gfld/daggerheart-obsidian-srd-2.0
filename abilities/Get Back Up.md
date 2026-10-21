@@ -1,5 +1,5 @@
 # Get Back Up
 
-***Level 1*** *Blade Ability.* ***Recall Cost*** *1.*
+***Level 1*** *[Blade](../domains/Blade.md) Ability.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
 
-When you take Severe damage, you can **mark a Stress** to reduce the severity by one threshold.
+When you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to reduce the severity by one threshold.

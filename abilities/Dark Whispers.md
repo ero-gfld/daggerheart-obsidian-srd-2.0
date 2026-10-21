@@ -1,8 +1,8 @@
 # Dark Whispers
 
-***Level 6*** *Midnight Spell.* ***Recall Cost*** *0.*
+***Level 6*** *[Midnight](../domains/Midnight.md) Spell.* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
 
-You can speak into the mind of any person with whom you’ve made physical contact. Once you’ve opened a channel with them, they can speak back into your mind. Additionally, you can **mark a Stress** to make a **Spellcast Roll** against them. On a success, you can ask the GM one of the following questions and receive an answer:
+You can speak into the mind of any person with whom you’ve made physical contact. Once you’ve opened a channel with them, they can speak back into your mind. Additionally, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against them. On a success, you can ask the GM one of the following questions and receive an answer:
 
 - Where are they?
 - What are they doing?

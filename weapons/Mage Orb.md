@@ -2,10 +2,10 @@
 
 **_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Knowledge
-- **Range:** Far
+- **Trait:** [Knowledge](../core_rules/Character%20Creation.md#STEP%203)
+- **Range:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)
 - **Damage:** d6+7 mag
-- **Burden:** One-Handed
+- **[Burden](../core_rules/Equipment.md#WEAPONS):** One-Handed
 
 ### FEATURE
 

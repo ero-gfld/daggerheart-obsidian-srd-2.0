@@ -2,25 +2,25 @@
 
 Play the School of War if you want to utilize trained magic for violence.
 
-**SPELLCAST TRAIT**
+**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
 
-Knowledge
+[Knowledge](../core_rules/Character%20Creation.md#STEP%203)
 
 **FOUNDATION FEATURES**
 
-***Battlemage:*** You’ve focused your studies on becoming an unconquerable force on the battlefield. Gain an additional Hit Point slot.
+***Battlemage:*** You’ve focused your studies on becoming an unconquerable force on the battlefield. Gain an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) slot.
 
-***Face Your Fear:*** When you succeed with Fear on an attack roll, you deal an extra **1d10** magic damage.
+***Face Your Fear:*** When you succeed with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), you deal an extra **1d10** magic damage.
 
 **SPECIALIZATION FEATURES**
 
-***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 Hope, you add your Proficiency to your Evasion.
+***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 Hope, you add your Proficiency to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
 
 ***Fueled by Fear:*** The extra magic damage from your “Face Your Fear” feature increases to **2d10**.
 
 **MASTERY FEATURES**
 
-***Thrive in Chaos:*** When you succeed on an attack, you can **mark a Stress** after rolling damage to force the target to mark an additional Hit Point.
+***Thrive in Chaos:*** When you succeed on an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** after rolling damage to force the target to mark an additional Hit Point.
 
 ***Have No Fear:*** The extra magic damage from your “Face Your Fear” feature increases to **3d10.**
 

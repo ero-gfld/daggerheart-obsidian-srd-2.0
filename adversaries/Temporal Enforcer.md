@@ -1,23 +1,23 @@
 # Temporal Enforcer
 
-***Tier 4 Bruiser***
+***Tier 4 [Bruiser](../core_rules/Using%20Adversaries.md)***
 *A giant mechanical being from a dimension outside time, built by the Time Keepers to preserve the Holy Continuum.*
 
 **Motives & Tactics:** Repair the timeline, seek out temporal heretics, serve the Lords of Continuity
 
-> **Difficulty:** 20 | **Thresholds:** 42/68 | **HP:** 8 | **Stress:** 5  
-> **ATK:** +4 | **Adamantine Hammer:** Very Close | 40 direct phy
+> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 42/68 | **HP:** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
+> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Adamantine Hammer:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 40 direct phy
 
-**Experience:** Temporal Anomalies +3
+**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Temporal Anomalies +3
 
 ## FEATURES
 
-***Relentless (2) - Passive:*** The Enforcer can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Relentless (2) - Passive:*** The Enforcer can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to spotlight them.
 
-***Time Looper - Passive:*** *Countdown (Loop 2d6).* When the Enforcer first appears, activate the countdown. It ticks down when the Enforcer is spotlighted. When it triggers, the Enforcer clears all HP, Stress, and conditions. Reroll the countdown when the Enforcer takes Severe damage.
+***Time Looper - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 2d6).* When the Enforcer first appears, activate the countdown. It ticks down when the Enforcer is spotlighted. When it triggers, the Enforcer clears all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), [Stress](../core_rules/Core%20Mechanics.md#STRESS), and conditions. Reroll the countdown when the Enforcer takes Severe damage.
 
-***Move Between Moments - Action:*** **Mark a Stress** to have the Enforcer teleport to a point within Very Far range, then spotlight them again.
+***Move Between Moments - Action:*** **Mark a Stress** to have the Enforcer teleport to a point within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then spotlight them again.
 
 ***Instant Rewind - Reaction:*** When the Enforcer fails an attack, you can **spend a Fear** to reroll the die.
 
-***Invert Polarity - Reaction:*** Up to three times per scene, you can **spend a Fear** to flip any die rolled onto its obverse result. This effect can’t be used to alter a critical success.
+***Invert Polarity - Reaction:*** Up to three times per scene, you can **spend a Fear** to flip any die rolled onto its obverse result. This effect can’t be used to alter a [critical success](../core_rules/Core%20Mechanics.md#OVERVIEW).

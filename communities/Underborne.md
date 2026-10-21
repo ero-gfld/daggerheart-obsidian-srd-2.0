@@ -4,6 +4,6 @@ Being part of an underborne community means you’re from a subterranean society
 
 *Underborne are often composed, elusive, indomitable,* *innovative, resourceful, and unpretentious.*
 
-**COMMUNITY FEATURE**
+**[COMMUNITY FEATURE](../core_rules/Communities.md)**
 
-***Low-Light Living:*** When you’re in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area.
+***Low-Light Living:*** When you’re in an area with low light or heavy shadow, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to hide, investigate, or perceive details within that area.

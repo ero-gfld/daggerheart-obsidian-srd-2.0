@@ -8,7 +8,7 @@ Taking on a new form also doesn’t allow them to immediately have or use all th
 
 **TRANSFORMATION FEATURES**
 
-***Change Shape:*** During a rest, you can use a downtime move to swap your current ancestry with another. When you do, describe how your appearance changes.
+***Change Shape:*** During a rest, you can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to swap your current ancestry with another. When you do, describe how your appearance changes.
 
 ***Only Skin Deep:*** You gain the benefit of only one of your chosen ancestry’s features, which you select when you choose the ancestry. You can use a downtime move to choose a different feature from that ancestry.
 

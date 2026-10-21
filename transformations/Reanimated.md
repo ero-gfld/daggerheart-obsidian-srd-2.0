@@ -2,13 +2,13 @@
 
 Reanimated are corpses who have been brought back to life. Whether through a spell, a holy ritual, arcane experimentation, or other unnatural methods, these mortals have returned from beyond the veil of death as undead and are bound to their decaying bodies. Newly reanimated are more likely to look like a typical member of their ancestry, but as they go on, they must patch and repair their bodies with bones, flesh, and other materials harvested from the recently deceased. While some repair their wounds and decay with needle, thread, and herbs, others use magic to incorporate these materials into themselves.
 
-Many stories of the reanimated describe them as possessing increased durability or, in some cases, immunity to pain. This may be true for some reanimated, but many experience prolonged agony—whether from the physical echoes of their own demise, the discomfort of moving a decomposing body, the trouble controlling their amalgamated parts, or the mental anguish of being forcibly pulled back from death into a second life.
+Many stories of the reanimated describe them as possessing increased durability or, in some cases, [immunity](../core_rules/Core%20Mechanics.md#ATTACKING) to pain. This may be true for some reanimated, but many experience prolonged agony—whether from the physical echoes of their own demise, the discomfort of moving a decomposing body, the trouble controlling their amalgamated parts, or the mental anguish of being forcibly pulled back from death into a second life.
 
 **TRANSFORMATION FEATURES**
 
-***Corpse:*** During a rest, you can clear Hit Points only if you have access to remains from a recently deceased creature. Describe how you use these materials to maintain your corpse.
+***Corpse:*** During a rest, you can clear [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) only if you have access to remains from a recently deceased creature. Describe how you use these materials to maintain your corpse.
 
-***Won’t Stay Dead:*** When you choose the Risk It All death move and fail, you can **permanently mark a Hit Point** to succeed instead. When you do, you still use the Hope Die’s value to clear Hit Points and Stress. When you permanently mark your last Hit Point, you pass through the veil of death.
+***Won’t Stay Dead:*** When you choose the [Risk It All](../core_rules/Core%20Mechanics.md#DEATH) death move and fail, you can **permanently mark a Hit Point** to succeed instead. When you do, you still use the [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW)’s value to clear Hit Points and [Stress](../core_rules/Core%20Mechanics.md#STRESS). When you permanently mark your last Hit Point, you pass through the veil of death.
 
 **TRANSFORMATION QUESTIONS**
 

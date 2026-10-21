@@ -2,7 +2,7 @@
 
 Witches are magical practitioners who commune with the forces of nature and entities from realms beyond. These spellcasters call forth power through craft, combining the tangible and ephemeral by casting spells, murmuring incantations, creating talismans, weaving illusions, and maintaining other personalized practices. They can protect their allies and harm their enemies by invoking powerful forces beyond themselves—supernatural beings such as ancestors, deities, or aspects of nature. Often, their magical knowledge is passed down from these entities or through many generations of practitioners who gather in small groups known as covens. Witches are frequently feared and misunderstood, as their methods can appear mysterious, strange, and even macabre to the uninitiated. Whichever path they walk, a witch treads the boundary between light and shadow without fear.
 
-**DOMAINS –** Sage & Dread
+**DOMAINS –** [Sage](../domains/Sage.md) & [Dread](../domains/Dread.md)
 
 **STARTING EVASION –** 10
 
@@ -10,15 +10,15 @@ Witches are magical practitioners who commune with the forces of nature and enti
 
 **CLASS ITEMS –** A small, harmless pet or a scrying stone
 
-**WITCH’S HOPE FEATURE**
+**WITCH’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
 
-***Witch’s Charm:*** When you or an ally within Far range fails an action roll, you can **spend 3 Hope** to change it into a success with Fear instead.
+***Witch’s Charm:*** When you or an ally within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can **spend 3 Hope** to change it into a [success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW) instead.
 
-**CLASS FEATURES**
+**[CLASS FEATURES](../core_rules/Classes.md)**
 
-***Hex:*** **Mark a Stress** to temporarily *Hex* a target within Far range. While *Hexed*, the target gains a penalty to their damage rolls and Difficulty equal to your tier. The maximum number of creatures you can *Hex* at one time is equal to your Spellcast trait.
+***Hex:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *Hex* a target within Far range. While *Hexed*, the target gains a penalty to their [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) and Difficulty equal to your tier. The maximum number of creatures you can *Hex* at one time is equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
 
-***Commune:*** Once per long rest during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a number of **d6s** equal to your Spellcast trait. Choose one of the results and reference the chart below for the effect.
+***Commune:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a number of **d6s** equal to your Spellcast trait. Choose one of the results and reference the chart below for the effect.
 
 | Roll | Effect |
 | --- | --- |
@@ -28,7 +28,7 @@ Witches are magical practitioners who commune with the forces of nature and enti
 
 ### SUBCLASSES
 
-*Choose either the* ***Hedge Witch*** *or* ***Moon Witch*** *subclass.*
+*Choose either the* ***[Hedge Witch](../subclasses/Hedge%20Witch.md)*** *or* ***[Moon Witch](../subclasses/Moon%20Witch.md)*** *subclass.*
 
 **BACKGROUND QUESTIONS**
 
