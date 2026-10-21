@@ -2,7 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Close
-- **Damage:** d6+7 phy
-- **Burden:** Two-Handed
+*Instinct* · *Close* · *d6+7 phy* · *Two-Handed*
+
+### FEATURE
+
+—

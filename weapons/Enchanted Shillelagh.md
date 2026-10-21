@@ -2,11 +2,8 @@
 
 **_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d8+3 mag
-- **Burden:** One-Handed
+*Strength* · *Melee* · *d8+3 mag* · *One-Handed*
 
 ### FEATURE
 
-**_Protective:_** +1 to your Armor Score
+***Protective:*** +1 to your Armor Score

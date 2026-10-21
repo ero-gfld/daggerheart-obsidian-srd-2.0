@@ -2,7 +2,8 @@
 
 **_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Agility
-- **Range:** Very Close
-- **Damage:** d10+2 mag
-- **Burden:** Two-Handed
+*Agility* · *Very Close* · *d10+2 mag* · *Two-Handed*
+
+### FEATURE
+
+—

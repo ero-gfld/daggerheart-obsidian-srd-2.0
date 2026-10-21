@@ -1,19 +1,21 @@
 # Hydra
 
-**_Tier 3 Solo._** _A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs._
+***Tier 3 Solo***
+*A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*
 
-- **Motives & Tactics:** Devour, regenerate, terrify
-- **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5
-- **ATK:** +3 | **Bite:** Close | 2d12+2 phy
+**Motives & Tactics:** Devour, regenerate, terrify
 
-### FEATURES
+> **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5  
+> **ATK:** +3 | **Bite:** Close | 2d12+2 phy
 
-**_Many-Headed Menace - Passive:_** The Hydra begins with three heads and can have up to five. When the Hydra takes Major or greater damage, they lose a head.
+## FEATURES
 
-**_Relentless (X) - Passive:_** The Hydra can be spotlighted X times per GM turn, where X is the Hydra's number of heads. Spend Fear as usual to spotlight them.
+***Many-Headed Menace - Passive:*** The Hydra begins with three heads and can have up to five. When the Hydra takes Major or greater damage, they lose a head.
 
-**_Regeneration - Action:_** If the Hydra has any marked HP, **spend a Fear** to clear a HP and grow two heads.
+***Relentless (X) - Passive:*** The Hydra can be spotlighted X times per GM turn, where X is the Hydra’s number of heads. Spend Fear as usual to spotlight them.
 
-**_Terrifying Chorus - Action:_** All PCs within Far range lose 2 Hope.
+***Regeneration - Action:*** If the Hydra has any marked HP, **spend a Fear** to clear a HP and grow two heads.
 
-**_Magical Weakness - Reaction:_** When the Hydra takes magic damage, they become _Dazed_ until the next roll with Fear. While _Dazed_, they can't use their Regeneration action but are immune to magic damage.
+***Terrifying Chorus - Action:*** All PCs within Far range lose 2 Hope.
+
+***Magical Weakness - Reaction:*** When the Hydra takes magic damage, they become *Dazed* until the next roll with Fear. While *Dazed*, they can’t use their Regeneration action but are immune to magic damage.

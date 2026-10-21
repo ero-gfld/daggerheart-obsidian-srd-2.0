@@ -1,16 +1,19 @@
 # Triceratops
 
-**_Tier 2 Bruiser._** _A large dinosaur that has an armored frill and three horns._
+***Tier 2 Bruiser***
+*A large dinosaur that has an armored frill and three horns.*
 
-- **Motives & Tactics:** Eat ferns, move in herds for protection, patrol the watering hole
-- **Difficulty:** 15 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 5
-- **ATK:** +2 | **Horns:** Very Close | 2d10+4 phy
-- **Experience:** Defender +3
+**Motives & Tactics:** Eat ferns, move in herds for protection, patrol the watering hole
 
-### FEATURES
+> **Difficulty:** 15 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 5  
+> **ATK:** +2 | **Horns:** Very Close | 2d10+4 phy
 
-**_Leathery Hide - Passive:_** When the Triceratops would be forced to mark HP, you can **mark any number of Stress** instead of an equal number of HP.
+**Experience:** Defender +3
 
-**_Tail Swipe - Action:_** **Mark a Stress** to choose up to three targets within Very Close range. Each target must make an Agility Reaction Roll. Targets who fail take **5d6** physical damage. Targets who succeed take half damage.
+## FEATURES
 
-**_Bull Rush - Action:_** **Mark a Stress** to choose a target within Close range. The Triceratops moves into Melee range with the target and makes an attack. On a success, deal **3d10** direct physical damage.
+***Leathery Hide - Passive:*** When the Triceratops would be forced to mark HP, you can **mark any number of Stress** instead of an equal number of HP.
+
+***Tail Swipe - Action:*** **Mark a Stress** to choose up to three targets within Very Close range. Each target must make an Agility Reaction Roll. Targets who fail take **5d6** physical damage. Targets who succeed take half damage.
+
+***Bull Rush - Action:*** **Mark a Stress** to choose a target within Close range. The Triceratops moves into Melee range with the target and makes an attack. On a success, deal **3d10** direct physical damage.

@@ -1,6 +1,6 @@
 # Towering Stalk
 
-**_Level 3_** _Sage Spell._ **_Recall Cost_** _1._
+***Level 3*** *Sage Spell.* ***Recall Cost*** *1.*
 
 Once per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range.
 

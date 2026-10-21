@@ -1,14 +1,17 @@
 # Entombed Elite Guard
 
-**_Tier 2 Standard._** _An elite undead soldier buried with their empress to defend the tomb from theft and desecration._
+***Tier 2 Standard***
+*An elite undead soldier buried with their empress to defend the tomb from theft and desecration.*
 
-- **Motives & Tactics:** Form up, protect the empress, strike as one
-- **Difficulty:** 15 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 3
-- **ATK:** +2 | **Curved Blade:** Melee | 2d10+2 phy
-- **Experience:** Soldier +3
+**Motives & Tactics:** Form up, protect the empress, strike as one
 
-### FEATURES
+> **Difficulty:** 15 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 3  
+> **ATK:** +2 | **Curved Blade:** Melee | 2d10+2 phy
 
-**_Battle Formation - Passive:_** The Guard gains a +1 bonus to their Difficulty for each ally within Very Close range.
+**Experience:** Soldier +3
 
-**_Javelin - Action:_** Make an attack against a target within Very Far range. On a success, deal **2d6+2** physical damage.
+## FEATURES
+
+***Battle Formation - Passive:*** The Guard gains a +1 bonus to their Difficulty for each ally within Very Close range.
+
+***Javelin - Action:*** Make an attack against a target within Very Far range. On a success, deal **2d6+2** physical damage.

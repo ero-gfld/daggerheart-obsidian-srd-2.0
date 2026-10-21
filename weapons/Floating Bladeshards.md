@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Close
-- **Damage:** d8+9 mag
-- **Burden:** One-Handed
+*Instinct* · *Close* · *d8+9 mag* · *One-Handed*
 
 ### FEATURE
 
-**_Powerful:_** On a successful attack, roll an additional damage die and discard the lowest result.
+***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.

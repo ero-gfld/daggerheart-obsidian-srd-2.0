@@ -1,14 +1,11 @@
 # Household Friend
 
-**_Tier 1_** _(Cat, Dog, Rabbit, etc.)_
+**_Tier 1_** (Cat, Dog, Rabbit, etc.)
 
-- **Trait Bonus:** Instinct +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Instinct d6 phy
-- **Advantages:** climb, locate, protect
+*Instinct +1 | Evasion +2* *Melee Instinct d6 phy*
 
-### FEATURES
+**Gain advantage on:** climb, locate, protect
 
-**_Companion:_** When you Help an Ally, you can roll a **d8** as your advantage die.
+***Companion:*** When you Help an Ally, you can roll a **d8** as your advantage die.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+***Fragile:*** When you take Major or greater damage, you drop out of Beastform.

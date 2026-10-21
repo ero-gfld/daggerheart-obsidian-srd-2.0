@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Presence
-- **Range:** Very Close
-- **Damage:** d8+5 phy
-- **Burden:** One-Handed
+*Presence* · *Very Close* · *d8+5 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Bolstering:_** When you critically succeed on an attack, all PCs within Close range gain a Hope.
+***Bolstering:*** When you critically succeed on an attack, all PCs within Close range gain a Hope.

@@ -2,7 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Finesse
-- **Range:** Very Close
-- **Damage:** d8+9 phy
-- **Burden:** Two-Handed
+*Finesse* · *Very Close* · *d8+9 phy* · *Two-Handed*
+
+### FEATURE
+
+—

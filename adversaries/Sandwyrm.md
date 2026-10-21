@@ -1,16 +1,19 @@
 # Sandwyrm
 
-**_Tier 3 Bruiser._** _A gargantuan burrowing worm that has armor plating and gnashing jaws. This intelligent and opportunistic hunter can swim through sand as quickly as a cheetah runs on land._
+***Tier 3 Bruiser***
+*A gargantuan burrowing worm that has armor plating and gnashing jaws. This intelligent and opportunistic hunter can swim through sand as quickly as a cheetah runs on land.*
 
-- **Motives & Tactics:** Ambush from below, eat and leave, tunnel and erupt, use both ends
-- **Difficulty:** 17 | **Thresholds:** 21/40 | **HP:** 6 | **Stress:** 3
-- **ATK:** +1 | **Bite:** Very Close | 3d8+4 phy
-- **Experience:** Tremor Sense +4
+**Motives & Tactics:** Ambush from below, eat and leave, tunnel and erupt, use both ends
 
-### FEATURES
+> **Difficulty:** 17 | **Thresholds:** 21/40 | **HP:** 6 | **Stress:** 3  
+> **ATK:** +1 | **Bite:** Very Close | 3d8+4 phy
 
-**_Venomous Tail Stinger - Action:_** **Mark a Stress** to attack a target within Close range. On a success, the target takes **3d10+2** physical damage and must succeed on a Strength Reaction Roll or become _Restrained_ and _Vulnerable_ until they roll with Hope.
+**Experience:** Tremor Sense +4
 
-**_Devour - Action:_** Make an attack against a target within Melee range. On a success, the Sandwyrm _Swallows_ the target. While _Swallowed_, the target is _Restrained_ and marks a HP when the Sandwyrm is spotlighted. The Sandwyrm disgorges all _Swallowed_ creatures when it takes Major or greater damage.
+## FEATURES
 
-**_Hungry, Not Stupid - Reaction:_** When the Sandwyrm marks half its HP or _Swallows_ a creature, roll a **d6**. On a result of 3 or lower, the Sandwyrm retreats to safety.
+***Venomous Tail Stinger - Action:*** **Mark a Stress** to attack a target within Close range. On a success, the target takes **3d10+2** physical damage and must succeed on a Strength Reaction Roll or become *Restrained* and *Vulnerable* until they roll with Hope.
+
+***Devour - Action:*** Make an attack against a target within Melee range. On a success, the Sandwyrm *Swallows* the target. While *Swallowed*, the target is *Restrained* and marks a HP when the Sandwyrm is spotlighted. The Sandwyrm disgorges all *Swallowed* creatures when it takes Major or greater damage.
+
+***Hungry, Not Stupid - Reaction:*** When the Sandwyrm marks half its HP or *Swallows* a creature, roll a **d6**. On a result of 3 or lower, the Sandwyrm retreats to safety.

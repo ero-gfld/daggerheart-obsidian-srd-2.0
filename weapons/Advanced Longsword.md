@@ -2,7 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Agility
-- **Range:** Melee
-- **Damage:** d10+9 phy
-- **Burden:** Two-Handed
+*Agility* · *Melee* · *d10+9 phy* · *Two-Handed*
+
+### FEATURE
+
+—

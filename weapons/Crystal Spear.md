@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Finesse
-- **Range:** Very Close
-- **Damage:** d10+6 mag
-- **Burden:** One-Handed
+*Finesse* · *Very Close* · *d10+6 mag* · *One-Handed*
 
 ### FEATURE
 
-**_Piercing:_** Damage dealt with this weapon treats the target's Major threshold as having a -2 penalty.
+***Piercing:*** Damage dealt with this weapon treats the target’s Major threshold as having a −2 penalty.

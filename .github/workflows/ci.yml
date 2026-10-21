@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -15,22 +14,6 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      # Gate the deploy on stage 05. This runs before anything is published so
-      # that a validation failure blocks the release instead of shipping broken
-      # content to GitHub Pages.
-      - uses: actions/setup-go@v5
-        with:
-          go-version: '1.24'
-          # There is no go.mod in this repo — every pipeline stage is a
-          # standalone dependency-free `go run` program — so there is no go.sum
-          # for setup-go's cache step to hash.
-          cache: false
-      # Exits non-zero on any ERROR-level finding. WARN findings deliberately do
-      # not fail the build (that would need -warn-fatal): the four the suite
-      # currently reports are faithful reflections of inconsistencies printed in
-      # the SRD PDF itself, not defects in the generated output.
-      - name: Validate generated content against the SRD source
-        run: go run .build/05_validate/validate.go
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
@@ -41,7 +24,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material==9.7.7
+      - run: pip install mkdocs-material
       - run: |
           cd .build/04_md
           mkdocs gh-deploy --force

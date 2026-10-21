@@ -1,6 +1,6 @@
 # Forest Sprites
 
-**_Level 8_** _Sage Spell._ **_Recall Cost_** _2._
+***Level 8*** *Sage Spell.* ***Recall Cost*** *2.*
 
 Make a **Spellcast Roll (13)**. On a success, **spend any number of Hope** to create an equal number of small forest sprites who appear at points you choose within Far range, providing the following benefits:
 

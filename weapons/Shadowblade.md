@@ -2,11 +2,8 @@
 
 **_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Presence
-- **Range:** Melee
-- **Damage:** d8 phy/mag
-- **Burden:** One-Handed
+*Presence* · *Melee* · *d8 phy/mag* · *One-Handed*
 
 ### FEATURE
 
-**_Otherworldly:_** On a successful attack, you can deal physical or magic damage.
+***Otherworldly:*** On a successful attack, you can deal physical or magic damage.

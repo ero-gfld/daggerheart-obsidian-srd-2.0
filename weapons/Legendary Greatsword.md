@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d10+12 phy
-- **Burden:** Two-Handed
+*Strength* · *Melee* · *d10+12 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Massive:_** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.
+***Massive:*** −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.

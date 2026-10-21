@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d10+7 phy
-- **Burden:** Two-Handed
+*Strength* · *Melee* · *d10+7 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Accelerator:_** Once per scene, mark a Stress to move to Far range then make an attack. Gain a +1 bonus to your Proficiency on this attack.
+***Accelerator:*** Once per scene, mark a Stress to move to Far range then make an attack. Gain a +1 bonus to your Proficiency on this attack.

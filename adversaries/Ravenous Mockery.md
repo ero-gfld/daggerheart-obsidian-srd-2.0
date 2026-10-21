@@ -1,16 +1,19 @@
 # Ravenous Mockery
 
-**_Tier 2 Standard._** _A shapeshifting predator that assumes the appearance of inanimate objects to lure unwary prey into its threat range._
+***Tier 2 Standard***
+*A shapeshifting predator that assumes the appearance of inanimate objects to lure unwary prey into its threat range.*
 
-- **Motives & Tactics:** Ambush, lie in wait, swallow without chewing, take on an unassuming shape
-- **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4
-- **ATK:** +1 | **Gnashing Teeth:** Melee | 2d6+4 phy
-- **Experience:** Mimicry +5, Hungry +3
+**Motives & Tactics:** Ambush, lie in wait, swallow without chewing, take on an unassuming shape
 
-### FEATURES
+> **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4  
+> **ATK:** +1 | **Gnashing Teeth:** Melee | 2d6+4 phy
 
-**_Tongue Attack - Action:_** **Mark a Stress** to attack a creature within Close range. On a success, the target is pulled into Melee range with the Mockery and _Restrained_ until they escape with a successful Strength Roll, and you can **spend a Fear** to activate the Mockery's Devour feature against the target.
+**Experience:** Mimicry +5, Hungry +3
 
-**_Devour - Action:_** Attack a target within Melee range. On a success, the Mockery _Swallows_ the target. While _Swallowed_, the target is _Restrained_ and marks a HP when the Mockery is spotlighted. The Mockery disgorges all _Swallowed_ creatures when it takes Major or Severe damage.
+## FEATURES
 
-**_Never Just One - Action:_** **Spend a Fear** to reveal that another object on the battlefield has been a Ravenous Mockery the whole time, then immediately spotlight it.
+***Tongue Attack - Action:*** **Mark a Stress** to attack a creature within Close range. On a success, the target is pulled into Melee range with the Mockery and *Restrained* until they escape with a successful Strength Roll, and you can **spend a Fear** to activate the Mockery’s Devour feature against the target.
+
+***Devour - Action:*** Attack a target within Melee range. On a success, the Mockery *Swallows* the target. While *Swallowed*, the target is *Restrained* and marks a HP when the Mockery is spotlighted. The Mockery disgorges all *Swallowed* creatures when it takes Major or Severe damage.
+
+***Never Just One - Action:*** **Spend a Fear** to reveal that another object on the battlefield has been a Ravenous Mockery the whole time, then immediately spotlight it.

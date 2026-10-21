@@ -2,11 +2,8 @@
 
 **_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d10+4 mag
-- **Burden:** Two-Handed
+*Strength* · *Melee* · *d10+4 mag* · *Two-Handed*
 
 ### FEATURE
 
-**_Versatile:_** This weapon can also be used with these statistics—Knowledge, Far, d6+3.
+***Versatile:*** This weapon can also be used with these statistics—Knowledge, Far, d6+3.

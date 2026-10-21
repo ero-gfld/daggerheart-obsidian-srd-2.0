@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Presence
-- **Range:** Melee
-- **Damage:** d4+6 phy
-- **Burden:** One-Handed
+*Presence* · *Melee* · *d4+6 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Padded:_** +5 to damage thresholds
+***Padded:*** +5 to damage thresholds

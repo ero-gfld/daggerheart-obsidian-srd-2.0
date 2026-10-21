@@ -1,7 +1,7 @@
 # Book of Ronin
 
-**_Level 9_** _Codex Grimoire._ **_Recall Cost_** _4._
+***Level 9*** *Codex Grimoire.* ***Recall Cost*** *4.*
 
-**_Transform:_** Make a **Spellcast Roll (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.
+***Transform:*** Make a **Spellcast Roll (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.
 
-**_Eternal Enervation:_** Once per long rest, make a **Spellcast Roll** against a target within Close range. On a success, they become permanently _Vulnerable_. They can't clear this condition by any means.
+***Eternal Enervation:*** Once per long rest, make a **Spellcast Roll** against a target within Close range. On a success, they become permanently *Vulnerable*. They can’t clear this condition by any means.

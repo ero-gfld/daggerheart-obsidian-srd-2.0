@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Presence
-- **Range:** Very Close
-- **Damage:** d6+6 phy
-- **Burden:** One-Handed
+*Presence* · *Very Close* · *d6+6 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Startling:_** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+***Startling:*** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.

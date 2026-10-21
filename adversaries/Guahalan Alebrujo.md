@@ -1,20 +1,23 @@
 # Guahalan Alebrujo
 
-**_Tier 2 Solo._** _A huge, colorful, chimeric beast formed from many animals._
+***Tier 2 Solo***
+*A huge, colorful, chimeric beast formed from many animals.*
 
-- **Motives & Tactics:** Destroy, give no quarter, ravage
-- **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 5
-- **ATK:** +3 | **Tooth & Claw:** Very Close | 2d10+4 mag
-- **Experience:** Brutal +2, Quick +2
+**Motives & Tactics:** Destroy, give no quarter, ravage
 
-### FEATURES
+> **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 5  
+> **ATK:** +3 | **Tooth & Claw:** Very Close | 2d10+4 mag
 
-**_The Beast Unleashed - Passive:_** The Alebrujo gains a bonus to damage rolls equal to the number of Fear you have.
+**Experience:** Brutal +2, Quick +2
 
-**_Guahalan Sacrifice - Action:_** **Spend a Fear** to have the Alebrujo devour a Minion within Very Close range, then clear a HP or a Stress.
+## FEATURES
 
-**_Howl of the Guahala - Action:_** **Mark a Stress** to have the Alebrujo emit a howl. Each PC within Far range must succeed on a Presence Reaction Roll or become temporarily _Panicked_. While _Panicked_, a PC must mark a Stress when they take the spotlight.
+***The Beast Unleashed - Passive:*** The Alebrujo gains a bonus to damage rolls equal to the number of Fear you have.
 
-**_Rip & Tear - Action:_** **Spend a Fear** to make a standard attack with advantage. On a success, you can **mark a Stress** to make another standard attack against an additional target within range. You can continue marking Stress to make additional attacks until the Alebrujo fails an attack roll.
+***Guahalan Sacrifice - Action:*** **Spend a Fear** to have the Alebrujo devour a Minion within Very Close range, then clear a HP or a Stress.
 
-**_Brutal Spectacle - Reaction:_** When the Alebrujo deals Severe damage, you can **spend a Fear** to force all targets within Close range to mark a Stress.
+***Howl of the Guahala - Action:*** **Mark a Stress** to have the Alebrujo emit a howl. Each PC within Far range must succeed on a Presence Reaction Roll or become temporarily *Panicked*. While *Panicked*, a PC must mark a Stress when they take the spotlight.
+
+***Rip & Tear - Action:*** **Spend a Fear** to make a standard attack with advantage. On a success, you can **mark a Stress** to make another standard attack against an additional target within range. You can continue marking Stress to make additional attacks until the Alebrujo fails an attack roll.
+
+***Brutal Spectacle - Reaction:*** When the Alebrujo deals Severe damage, you can **spend a Fear** to force all targets within Close range to mark a Stress.

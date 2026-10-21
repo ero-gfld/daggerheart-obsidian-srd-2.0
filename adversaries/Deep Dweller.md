@@ -1,18 +1,21 @@
 # Deep Dweller
 
-**_Tier 3 Leader._** _A huge psychic lamprey that has pitch-black eyes and toxic tentacles._
+***Tier 3 Leader***
+*A huge psychic lamprey that has pitch-black eyes and toxic tentacles.*
 
-- **Motives & Tactics:** Abuse power, seek worship, stalk sunken ruins
-- **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6
-- **ATK:** +5 | **Teeth & Tentacles:** Close | 3d10+4 phy
-- **Experience:** Ancient Mysteries +2, Dark Water +2
+**Motives & Tactics:** Abuse power, seek worship, stalk sunken ruins
 
-### FEATURES
+> **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6  
+> **ATK:** +5 | **Teeth & Tentacles:** Close | 3d10+4 phy
 
-**_Psychic Blast - Action:_** **Spend a Fear** to choose up to three targets within Close range and force them to make an Instinct or Knowledge Reaction Roll. Targets who succeed mark a Stress. Targets who fail take **3d10+4** direct magic damage and are _Vulnerable_ until spotlighted.
+**Experience:** Ancient Mysteries +2, Dark Water +2
 
-**_Brain Drain - Action:_** **Mark a Stress** to choose a _Vulnerable_ PC within Very Close range. The target marks **1d4** Stress, and the Deep Dweller clears an equal number of HP.
+## FEATURES
 
-**_Call of the Deep - Action:_** **Spend 2 Fear** to summon **1d4** Cursed Merfolk, who appear at Far range and immediately take the spotlight.
+***Psychic Blast - Action:*** **Spend a Fear** to choose up to three targets within Close range and force them to make an Instinct or Knowledge Reaction Roll. Targets who succeed mark a Stress. Targets who fail take **3d10+4** direct magic damage and are *Vulnerable* until spotlighted.
 
-**_Mucosal Contamination - Action:_** Make an attack roll against a PC within Very Close range. On a success, the Deep Dweller uses its tentacles to immobilize the target, sliming them with toxic sludge. The target is _Restrained_ until they break free or slip out with a successful Strength or Finesse Roll. Each time the Deep Dweller is spotlighted, all PCs _Restrained_ in this way take **3d8** direct physical damage. The Deep Dweller releases all creatures _Restrained_ by it when it's defeated or takes Severe damage.
+***Brain Drain - Action:*** **Mark a Stress** to choose a *Vulnerable* PC within Very Close range. The target marks **1d4** Stress, and the Deep Dweller clears an equal number of HP.
+
+***Call of the Deep - Action:*** **Spend 2 Fear** to summon **1d4** Cursed Merfolk, who appear at Far range and immediately take the spotlight.
+
+***Mucosal Contamination - Action:*** Make an attack roll against a PC within Very Close range. On a success, the Deep Dweller uses its tentacles to immobilize the target, sliming them with toxic sludge. The target is *Restrained* until they break free or slip out with a successful Strength or Finesse Roll. Each time the Deep Dweller is spotlighted, all PCs *Restrained* in this way take **3d8** direct physical damage. The Deep Dweller releases all creatures *Restrained* by it when it’s defeated or takes Severe damage.

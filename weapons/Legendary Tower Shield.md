@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d6+6 phy
-- **Burden:** One-Handed
+*Strength* · *Melee* · *d6+6 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Barrier:_** +5 to Armor Score; -1 to Evasion.
+***Barrier:*** +5 to Armor Score; −1 to Evasion.

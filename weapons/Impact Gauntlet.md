@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d10+11 phy
-- **Burden:** One-Handed
+*Strength* · *Melee* · *d10+11 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Concussive:_** On a successful attack, you can spend a Hope to knock the target back to Far range.
+***Concussive:*** On a successful attack, you can spend a Hope to knock the target back to Far range.

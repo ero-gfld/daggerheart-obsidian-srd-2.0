@@ -17,7 +17,7 @@
 
 **_Endless Legions - Action:_** **Spend a Fear** to summon a number of Fallen Shock Troops equal to twice the number of PCs. The Shock Troops appear at Far range.
 
-**_Circle of Defilement - Reaction:_** _Countdown (1d8)._ When the Undefeated Champion is in the spotlight for the first time, activate the countdown. When it triggers, activate a magical circle covering an area within Far range of the Champion. A target within that area is _Vulnerable_ until they leave the circle. The circle can be removed by dealing Severe damage to the Undefeated Champion.
+**_Circle of Defilement - Reaction: Countdown (1d8):_** When the Undefeated Champion is in the spotlight for the first time, activate the countdown. When it triggers, activate a magical circle covering an area within Far range of the Champion. A target within that area is _Vulnerable_ until they leave the circle. The circle can be removed by dealing Severe damage to the Undefeated Champion.
 
 **_Momentum - Reaction:_** When the Undefeated Champion makes a successful attack against a PC, you gain a Fear.
 

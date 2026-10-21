@@ -1,15 +1,17 @@
 # Fallen Shock Troop
 
-**_Tier 4 Minion._** _A cursed soul bound to the Fallen's will._
+***Tier 4 Minion***
+*A cursed soul bound to the Fallen’s will.*
 
-- **Motives & Tactics:** Crush, dominate, earn relief, punish
-- **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-- **ATK:** +2 | **Cursed Axe:** Very Close | 12 phy
+**Motives & Tactics:** Crush, dominate, earn relief, punish
 
-### FEATURES
+> **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
+> **ATK:** +2 | **Cursed Axe:** Very Close | 12 phy
 
-**_Minion (12) - Passive:_** The Shock Troop is defeated when they take any damage. For every 12 damage a PC deals to the Shock Troop, defeat an additional Minion within range the attack would succeed against.
+## FEATURES
 
-**_Aura of Doom - Passive:_** When a PC marks HP from an attack by the Shock Troop, they lose a Hope.
+***Minion (12) - Passive:*** The Shock Troop is defeated when they take any damage. For every 12 damage a PC deals to the Shock Troop, defeat an additional Minion within range the attack would succeed against.
 
-**_Group Attack - Action:_** **Spend a Fear** to choose a target and spotlight all Fallen Shock Troops within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 12 physical damage each. Combine this damage.
+***Aura of Doom - Passive:*** When a PC marks HP from an attack by the Shock Troop, they lose a Hope.
+
+***Group Attack - Action:*** **Spend a Fear** to choose a target and spotlight all Fallen Shock Troops within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 12 physical damage each. Combine this damage.

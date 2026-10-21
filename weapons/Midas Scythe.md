@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Knowledge
-- **Range:** Melee
-- **Damage:** d10+9 mag
-- **Burden:** Two-Handed
+*Knowledge* · *Melee* · *d10+9 mag* · *Two-Handed*
 
 ### FEATURE
 
-**_Greedy:_** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.
+***Greedy:*** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.

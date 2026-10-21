@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Agility
-- **Range:** Melee
-- **Damage:** d8+10 mag
-- **Burden:** One-Handed
+*Agility* · *Melee* · *d8+10 mag* · *One-Handed*
 
 ### FEATURE
 
-**_Serrated:_** When you roll a 1 on a damage die, it deals 8 damage instead.
+***Serrated:*** When you roll a 1 on a damage die, it deals 8 damage instead.

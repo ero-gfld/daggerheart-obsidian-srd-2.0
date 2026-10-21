@@ -1,6 +1,6 @@
 # Eldritch Flesh
 
-**_Level 8_** _Dread Spell._ **_Recall Cost_** _1._
+***Level 8*** *Dread Spell.* ***Recall Cost*** *1.*
 
 Gain a +1 bonus to your damage thresholds for each Stress you have marked.
 

@@ -1,13 +1,15 @@
 # Cult Fang
 
-**_Tier 2 Skulk._** _A professional killer-turned-cultist._
+***Tier 2 Skulk***
+*A professional killer-turned-cultist.*
 
-- **Motives & Tactics:** Capture sacrifices, isolate prey, rise in the ranks
-- **Difficulty:** 15 | **Thresholds:** 9/17 | **HP:** 4 | **Stress:** 4
-- **ATK:** +2 | **Long Knife:** Melee | 2d8+4 phy
+**Motives & Tactics:** Capture sacrifices, isolate prey, rise in the ranks
 
-### FEATURES
+> **Difficulty:** 15 | **Thresholds:** 9/17 | **HP:** 4 | **Stress:** 4  
+> **ATK:** +2 | **Long Knife:** Melee | 2d8+4 phy
 
-**_Shadow's Embrace - Passive:_** The Fang can climb and walk on vertical surfaces. **Mark a Stress** to move from one shadow to another within Far range.
+## FEATURES
 
-**_Pick Off the Straggler - Action:_** **Mark a Stress** to cause a target within Melee range to make an Instinct Reaction Roll. On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within Far range, making them temporarily _Vulnerable_. On a success, the target must mark a Stress.
+***Shadow’s Embrace - Passive:*** The Fang can climb and walk on vertical surfaces. **Mark a Stress** to move from one shadow to another within Far range.
+
+***Pick Off the Straggler - Action:*** **Mark a Stress** to cause a target within Melee range to make an Instinct Reaction Roll. On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within Far range, making them temporarily *Vulnerable*. On a success, the target must mark a Stress.

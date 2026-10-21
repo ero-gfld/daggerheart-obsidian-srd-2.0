@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Finesse
-- **Range:** Melee
-- **Damage:** d4+6 phy
-- **Burden:** One-Handed
+*Finesse* · *Melee* · *d4+6 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Inverted:_** When you roll a weapon attack with Fear, you gain a Hope.
+***Inverted:*** When you roll a weapon attack with Fear, you gain a Hope.

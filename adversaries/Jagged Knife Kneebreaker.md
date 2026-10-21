@@ -1,14 +1,17 @@
 # Jagged Knife Kneebreaker
 
-**_Tier 1 Bruiser._** _An imposing brawler carrying a large club._
+***Tier 1 Bruiser***
+*An imposing brawler carrying a large club.*
 
-- **Motives & Tactics:** Grapple, intimidate, profit, steal
-- **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4
-- **ATK:** -3 | **Club:** Melee | 1d4+6 phy
-- **Experience:** Thief +2, Unveiled Threats +3
+**Motives & Tactics:** Grapple, intimidate, profit, steal
 
-### FEATURES
+> **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4  
+> **ATK:** −3 | **Club:** Melee | 1d4+6 phy
 
-**_I've Got 'Em - Passive:_** Creatures _Restrained_ by the Kneebreaker take double damage from attacks by other adversaries.
+**Experience:** Thief +2, Unveiled Threats +3
 
-**_Hold Them Down - Action:_** Make an attack against a target within Melee range. On a success, the target takes no damage but is _Restrained_ and _Vulnerable_. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if the Kneebreaker takes Major or greater damage.
+## FEATURES
+
+***I’ve Got ’Em - Passive:*** Creatures *Restrained* by the Kneebreaker take double damage from attacks by other adversaries.
+
+***Hold Them Down - Action:*** Make an attack against a target within Melee range. On a success, the target takes no damage but is *Restrained* and *Vulnerable*. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if the Kneebreaker takes Major or greater damage.

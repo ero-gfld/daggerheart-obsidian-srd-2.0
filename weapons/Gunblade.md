@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Agility
-- **Range:** Far
-- **Damage:** d6+6 mag
-- **Burden:** One-Handed
+*Agility* · *Far* · *d6+6 mag* · *One-Handed*
 
 ### FEATURE
 
-**_Versatile:_** This weapon can also be used with these statistics—Agility, Melee, d8+6 phy.
+***Versatile:*** This weapon can also be used with these statistics—Agility, Melee, d8+6 phy.

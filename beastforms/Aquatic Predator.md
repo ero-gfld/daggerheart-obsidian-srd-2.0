@@ -1,14 +1,11 @@
 # Aquatic Predator
 
-**_Tier 3_** _(Dolphin, Orca, Shark, etc.)_
+**_Tier 3_** (Dolphin, Orca, Shark, etc.)
 
-- **Trait Bonus:** Agility +2
-- **Evasion Bonus:** Evasion +4
-- **Attack:** Melee Agility d10+6 phy
-- **Advantages:** attack, swim, track
+*Agility +2 | Evasion +4* *Melee Agility d10+6 phy*
 
-### FEATURES
+**Gain advantage on:** attack, swim, track
 
-**_Aquatic:_** You can breathe and move naturally underwater.
+***Aquatic:*** You can breathe and move naturally underwater.
 
-**_Vicious Maul:_** When you succeed on an attack against a target, you can **spend a Hope** to make them _Vulnerable_ and gain a +1 bonus to your Proficiency for this attack.
+***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a Hope** to make them *Vulnerable* and gain a +1 bonus to your Proficiency for this attack.

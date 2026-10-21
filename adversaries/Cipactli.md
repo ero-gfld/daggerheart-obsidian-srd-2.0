@@ -1,22 +1,25 @@
 # Cipactli
 
-**_Tier 4 Solo._** _A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths._
+***Tier 4 Solo***
+*A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths.*
 
-- **Motives & Tactics:** Consume, reshape the land, trample
-- **Difficulty:** 20 | **Thresholds:** 35/60 | **HP:** 8 | **Stress:** 5
-- **ATK:** +8 | **Bite:** Close | 4d8+12 phy
-- **Experience:** Hungry +3, Primordial +3
+**Motives & Tactics:** Consume, reshape the land, trample
 
-### FEATURES
+> **Difficulty:** 20 | **Thresholds:** 35/60 | **HP:** 8 | **Stress:** 5  
+> **ATK:** +8 | **Bite:** Close | 4d8+12 phy
 
-**_Relentless (3) - Passive:_** The Cipactli can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
+**Experience:** Hungry +3, Primordial +3
 
-**_Many Mouths - Action:_** **Mark a Stress** to make a standard attack against all targets within Very Close range. Targets the Cipactli succeeds against must also mark a Stress.
+## FEATURES
 
-**_Frenzied Feeding - Action:_** **Spend a Fear** to force all PCs within Close range to succeed on an Instinct Reaction Roll or take **4d6** direct physical damage. The Cipactli clears a HP for each creature who took Severe damage from this attack.
+***Relentless (3) - Passive:*** The Cipactli can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
 
-**_Quaking Footfalls - Action:_** **Mark a Stress** to force each PC within Far range to make an Agility Reaction Roll. Targets who fail must mark 2 Stress and are _Vulnerable_ until they take damage. Targets who succeed must mark a Stress.
+***Many Mouths - Action:*** **Mark a Stress** to make a standard attack against all targets within Very Close range. Targets the Cipactli succeeds against must also mark a Stress.
 
-**_Lifeblooded - Reaction:_** When the Cipactli takes Severe damage, its blood splashes to the ground and instantly erupts into a jungle. All creatures within Close range are temporarily _Restrained_.
+***Frenzied Feeding - Action:*** **Spend a Fear** to force all PCs within Close range to succeed on an Instinct Reaction Roll or take **4d6** direct physical damage. The Cipactli clears a HP for each creature who took Severe damage from this attack.
 
-**_Verdant Explosion - Reaction:_** When the Cipactli marks its last HP, its body erupts into dense vegetation that overtakes the landscape.
+***Quaking Footfalls - Action:*** **Mark a Stress** to force each PC within Far range to make an Agility Reaction Roll. Targets who fail must mark 2 Stress and are *Vulnerable* until they take damage. Targets who succeed must mark a Stress.
+
+***Lifeblooded - Reaction:*** When the Cipactli takes Severe damage, its blood splashes to the ground and instantly erupts into a jungle. All creatures within Close range are temporarily *Restrained.*
+
+***Verdant Explosion - Reaction:*** When the Cipactli marks its last HP, its body erupts into dense vegetation that overtakes the landscape.

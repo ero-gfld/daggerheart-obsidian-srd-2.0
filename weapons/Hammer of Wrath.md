@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d10+7 phy
-- **Burden:** Two-Handed
+*Strength* · *Melee* · *d10+7 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Devastating:_** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.
+***Devastating:*** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.

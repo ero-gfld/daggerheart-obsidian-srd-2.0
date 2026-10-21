@@ -2,11 +2,8 @@
 
 **_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Very Close
-- **Damage:** d10+5 phy
-- **Burden:** Two-Handed
+*Strength* · *Very Close* · *d10+5 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Cumbersome:_** -1 to Finesse
+***Cumbersome:*** −1 to Finesse

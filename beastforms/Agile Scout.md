@@ -1,14 +1,11 @@
 # Agile Scout
 
-**_Tier 1_** _(Fox, Mouse, Weasel, etc.)_
+**_Tier 1_** (Fox, Mouse, Weasel, etc.)
 
-- **Trait Bonus:** Agility +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Agility d4 phy
-- **Advantages:** deceive, locate, sneak
+*Agility +1 | Evasion +2* *Melee Agility d4 phy*
 
-### FEATURES
+**Gain advantage on:** deceive, locate, sneak
 
-**_Agile:_** Your movement is silent, and you can **spend a Hope** to move up to Far range without rolling.
+***Agile:*** Your movement is silent, and you can **spend a Hope** to move up to Far range without rolling.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+***Fragile:*** When you take Major or greater damage, you drop out of Beastform.

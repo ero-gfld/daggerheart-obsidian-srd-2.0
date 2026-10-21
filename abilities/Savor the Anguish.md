@@ -1,5 +1,5 @@
 # Savor the Anguish
 
-**_Level 9_** _Dread Ability._ **_Recall Cost_** _1._
+***Level 9*** *Dread Ability.* ***Recall Cost*** *1.*
 
 When an adversary within Close range takes Severe damage, you can clear a Stress.

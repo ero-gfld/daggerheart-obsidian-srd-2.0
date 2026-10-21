@@ -2,11 +2,8 @@
 
 **_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Presence
-- **Range:** Far
-- **Damage:** d6+3 mag
-- **Burden:** Two-Handed
+*Presence* · *Far* · *d6+3 mag* · *Two-Handed*
 
 ### FEATURE
 
-**_Versatile:_** This weapon can also be used with these statistics—Presence, Melee, d8+3.
+***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8+3.

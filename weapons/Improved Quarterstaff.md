@@ -2,7 +2,8 @@
 
 **_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Melee
-- **Damage:** d10+6 phy
-- **Burden:** Two-Handed
+*Instinct* · *Melee* · *d10+6 phy* · *Two-Handed*
+
+### FEATURE
+
+—

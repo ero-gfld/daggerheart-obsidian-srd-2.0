@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Far
-- **Damage:** d6+13 mag
-- **Burden:** Two-Handed
+*Instinct* · *Far* · *d6+13 mag* · *Two-Handed*
 
 ### FEATURE
 
-**_Reliable:_** +1 to attack rolls
+***Reliable:*** +1 to attack rolls

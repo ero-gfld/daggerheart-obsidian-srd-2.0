@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Agility
-- **Range:** Melee
-- **Damage:** d8+6 phy
-- **Burden:** One-Handed
+*Agility* · *Melee* · *d8+6 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Reliable:_** +1 to attack rolls
+***Reliable:*** +1 to attack rolls

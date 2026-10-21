@@ -2,53 +2,6 @@
   {
     "background": [
       {
-        "question": "You once killed someone you were close to. What happened, and how did it change you?"
-      },
-      {
-        "question": "What organization trained you in the art of killing, and how did you become a member?"
-      },
-      {
-        "question": "Throughout your career, one target has eluded you. Who are they, and how have they slipped through your fingers?"
-      }
-    ],
-    "class_features_heading": "CLASS FEATURES",
-    "connection": [
-      {
-        "question": "I've killed someone for you. Who were they?"
-      },
-      {
-        "question": "How did you save me when I was on the brink of death? What have I promised you as repayment?"
-      },
-      {
-        "question": "What secret about myself did I tell you, and how did it change your view of me?"
-      }
-    ],
-    "description": "Assassins are masters at inflicting deadly injuries with precise strikes. Unlike those who wield violence as only a means to an end, assassins approach death as a profession. Many members of this class believe theirs is a worthy, if not sacred, trade, and some join guilds to hone their craft, define their beliefs, and earn money. People from all walks of life hire assassins for their skills: powerful rulers looking to avoid all-out war, business leaders seeking to eliminate the competition, and even average people hoping to settle a grudge. Often, an assassin is the last resort for killing those previously believed to be unkillable. While some of these deadly professionals will destroy anyone in their path for the right reasons or the right price, others hold strict moral codes or personal rules that dictate their targets. Those who end up the target of an assassin should count themselves among the dead",
-    "domain_1": "Blade",
-    "domain_2": "Midnight",
-    "evasion": "12",
-    "feature": [
-      {
-        "name": "Marked for Death",
-        "text": "On a successful weapon attack, you can **mark a Stress** to make the target _Marked for Death_. When you deal damage to a target you've _Marked for Death_, add a number of **d4s** equal to your tier to the damage roll.\n\nYou can have only one adversary _Marked for Death_ at a time. This condition lasts until you take a rest, the current adversary _Marked for Death_ is defeated, or the GM spends a number of Fear equal to your tier to clear it."
-      },
-      {
-        "name": "Get In \u0026 Get Out",
-        "text": "**Spend a Hope** to ask the GM for a quick or inconspicuous way into or out of a place you can see. The next roll you make that acts on this information has advantage."
-      }
-    ],
-    "hope_feature_heading": "ASSASSIN'S HOPE FEATURE",
-    "hope_feature_name": "Deadly Determination",
-    "hope_feature_text": "**Spend 3 Hope** to clear 2 Stress.",
-    "hp": "5",
-    "items": "A list of names with several marked off or a rusted blade inscribed with an insignia",
-    "name": "Assassin",
-    "subclass_1": "Executioners Guild",
-    "subclass_2": "Poisoners Guild"
-  },
-  {
-    "background": [
-      {
         "question": "Who from your community taught you to have such confidence in yourself?"
       },
       {
@@ -58,7 +11,6 @@
         "question": "You've always looked up to another bard. Who are they, and why do you idolize them?"
       }
     ],
-    "class_features_heading": "CLASS FEATURE",
     "connection": [
       {
         "question": "What made you realize we were going to be such good friends?"
@@ -80,62 +32,17 @@
         "text": "Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a **d6**. A PC can spend their Rally Die to roll it, adding the result to their action roll, reaction roll, damage roll, or to clear a number of Stress equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a **d8**."
       }
     ],
-    "hope_feature_heading": "BARD'S HOPE FEATURE",
     "hope_feature_name": "Make a Scene",
     "hope_feature_text": "**Spend 3 Hope** to temporarily _Distract_ a target within Close range, giving them a -2 penalty to their Difficulty.",
     "hp": "5",
     "items": "A romance novel or a letter never opened",
     "name": "Bard",
     "subclass_1": "Troubadour",
-    "subclass_2": "Wordsmith"
-  },
-  {
-    "background": [
-      {
-        "question": "Where did you spend time during your formative years that taught you, directly or indirectly, how to fight in the style you use?"
-      },
-      {
-        "question": "What organization has vowed to kill you on sight, and what did you do to invoke their ire?"
-      },
-      {
-        "question": "Who did you recently lose a fight to that you're desperate for a rematch against?"
-      }
-    ],
-    "class_features_heading": "CLASS FEATURES",
-    "connection": [
-      {
-        "question": "What is one thing we're both afraid of?"
-      },
-      {
-        "question": "What do I rely on you for during our travels? How do you feel about it?"
-      },
-      {
-        "question": "I still haven't forgiven you for something you said to me. What was it, and why did you say it?"
-      }
-    ],
-    "description": "Experts in unarmed combat, brawlers hone their bodies into lethal weapons. Whether they learned from formal training, studied with a mentor, or picked up their skills one fight at a time, the process is always rigorous as brawlers develop their body and mind to work as one. Brawlers are valued for their power and versatility and typically join a party or a cause when the need or desire arises. Because a brawler's body is their strongest weapon, they typically seek out new challenges or consistent sparring partners so they can maintain their skills and add new techniques to their repertoire. Though they might appear unassuming to those accustomed to foes who are armed to the teeth, brawlers often accomplish more with bare knuckles than an average soldier with a sword.",
-    "domain_1": "Valor",
-    "domain_2": "Bone",
-    "evasion": "10",
-    "extra_sections": "### MARTIAL STANCES\n\nWhen you choose the Martial Artist subclass, take the Martial Stances sheet to track which stances your character knows. You can also track which stance you have active and your current Focus.\n\n#### STANCES\n\nStances are special body positionings that enable Martial Artists to attack, react, or defend in combat. Each stance grants your character a different ability, bonus, or feature while active.\n\nYou choose two stances from Tier 1 when you first take the Martial Artist's subclass foundation card. Mark the circle next to each to indicate that your character knows and has access to them. Mark a new stance from your tier or below each time you gain a level.\n\n#### FOCUS\n\nFocus represents your character's poise, clarity, and control. Once per rest during a moment of calm, you can clear your mind and refocus your martial instincts. Clear your Focus track, then roll a number of **d6s** equal to your Instinct and gain Focus equal to the highest result rolled. You can hold a maximum of 6 Focus.\n\n#### SHIFTING INTO STANCES\n\nYou can **spend a Focus** to shift into a martial stance and gain its effects. You can shift only into stances you've marked as known. When you shift into a stance, it's considered your active stance until you drop out of it.\n\nYou can't shift into or have more than one active stance at a time. Until you shift into a stance, you are not considered to be in a stance or to have an active stance.\n\n#### DROPPING OUT OF STANCES\n\nIf you are already in a stance when you shift into a different stance, you automatically drop out of the previously active stance. You also drop out of your active stance when you take Severe damage or mark your last Hit Point. Otherwise, you drop out of your active stance at the end of the scene. When you drop out of a stance, you lose any ongoing benefits it provides.\n\n#### STANCE FEATURES\n\nThe following section lists all martial stances by tier.\n\n##### TIER 1\n\n_Favored:_ Gain a bonus to damage rolls equal to a trait of your choice.\n\n_Invigorating:_ On a successful attack, roll a **d4**. On a result of 4, gain a Focus.\n\n_Quick:_ When you make an attack, you can **spend a Focus** or **mark a Stress** to target another creature within range with that attack.\n\n_Reliable:_ Gain a +1 bonus to your attack rolls.\n\n##### TIER 2\n\n_Aggressive:_ Gain a -1 penalty to your Evasion. On a successful attack, roll an additional damage die and discard the lowest result.\n\n_Anchored:_ Gain a +2 bonus to your damage thresholds. While in this stance, you can't be moved against your will.\n\n_Defensive:_ Attack rolls targeting you from within Melee range have disadvantage unless the attacker marks a Stress to negate the disadvantage.\n\n_Otherworldly:_ On a successful attack, you can deal physical or magic damage.\n\n##### TIER 3\n\n_Grappling:_ On a successful attack within Melee range, you can **spend a Focus** or **mark a Stress** to temporarily _Restrain_ the target or throw the target up to Close range.\n\n_Scary:_ On a successful attack, the target must mark a Stress.\n\n_Stable:_ You can **spend a Focus** instead of an Armor Slot to reduce damage.\n\n_Vigilant:_ When you are targeted by an attack, you can **mark a Stress** to gain a **d6** bonus to your Evasion against the attack.\n\n##### TIER 4\n\n_Crushing:_ When you deal Severe damage, you can **spend a Hope** to force the target to mark an additional Hit Point.\n\n_Exacting:_ When you roll a 1 on a damage die, you can treat it as the highest value on the die instead.\n\n_Honed:_ **Spend a Focus** before you make an attack roll to gain a +1 bonus to your Proficiency for that attack.\n\n_Isolating:_ Gain advantage on attack rolls when there are no other creatures within Very Close range of you or your target.",
-    "feature": [
-      {
-        "name": "I Am the Weapon",
-        "text": "Your barehanded attacks are as strong as any blade. You have a primary weapon called Brawler's Strike equipped while you have no other Active Weapons. It uses a trait of your choice, has Melee range, and deals **d8+d6** physical damage using your Proficiency (both the d8 and d6 scale off your Proficiency). While this weapon is active, you gain a +1 bonus to your Evasion."
-      },
-      {
-        "name": "Combo Strike",
-        "text": "After rolling damage on a successful attack with a Melee weapon, you can **mark a Stress** to start a combo strike. When you do, roll your Combo Die and note the result, then continue rolling your Combo Die until the result of your latest roll is lower than the roll that preceded it. You deal extra damage equal to the total of all rolled Combo Die results on this attack. The results can't be modified by any means.\n\nYour Combo Die starts as a **d4**. Once per tier, you can increase your Combo Die by one step as a level advancement option."
-      }
-    ],
-    "hope_feature_heading": "BRAWLER'S HOPE FEATURE",
-    "hope_feature_name": "Square Up",
-    "hope_feature_text": "**Spend 3 Hope** to intimidate a target within Close range, making them temporarily _Vulnerable_.",
-    "hp": "6",
-    "items": "Hand wraps from a mentor or a book about your secret hobby",
-    "name": "Brawler",
-    "subclass_1": "Juggernaut",
-    "subclass_2": "Martial Artist"
+    "subclass_2": "Wordsmith",
+    "suggested_armor": "Gambeson Armor",
+    "suggested_primary": "Rapier",
+    "suggested_secondary": "Small Dagger",
+    "suggested_traits": "0, -1, +1, 0, +2, +1"
   },
   {
     "background": [
@@ -149,7 +56,6 @@
         "question": "Who has been trying to hunt you down? What do they want from you?"
       }
     ],
-    "class_features_heading": "CLASS FEATURES",
     "connection": [
       {
         "question": "What did you confide in me that makes me leap into danger for you every time?"
@@ -161,7 +67,7 @@
         "question": "What affectionate nickname have you given me?"
       }
     ],
-    "description": "Becoming a druid is more than an occupation; it's a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.",
+    "description": "Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.",
     "domain_1": "Sage",
     "domain_2": "Arcana",
     "evasion": "10",
@@ -172,17 +78,20 @@
       },
       {
         "name": "Wildtouch",
-        "text": "You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire—at will."
+        "text": "You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire at will."
       }
     ],
-    "hope_feature_heading": "DRUID'S HOPE FEATURE",
     "hope_feature_name": "Evolution",
     "hope_feature_text": "**Spend 3 Hope** to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.",
     "hp": "6",
     "items": "A small bag of rocks and bones or a strange pendant found in the dirt",
     "name": "Druid",
     "subclass_1": "Warden of the Elements",
-    "subclass_2": "Warden of Renewal"
+    "subclass_2": "Warden of Renewal",
+    "suggested_armor": "Leather Armor",
+    "suggested_primary": "Shortstaff",
+    "suggested_secondary": "Round Shield",
+    "suggested_traits": "+1, 0, +1, +2, -1, 0"
   },
   {
     "background": [
@@ -196,7 +105,6 @@
         "question": "You consider an aspect of yourself to be a weakness. What is it, and how has it affected you?"
       }
     ],
-    "class_features_heading": "CLASS FEATURE",
     "connection": [
       {
         "question": "How did I save your life the first time we met?"
@@ -208,7 +116,7 @@
         "question": "What lie have you told me about yourself that I absolutely believe?"
       }
     ],
-    "description": "The title of guardian represents an array of martial professions, speaking more to their moral compass and unshakeable fortitude than the means by which they fight. While many guardians join groups of militants for either a country or cause, they're more likely to follow those few they truly care for, majority be damned. Guardians are known for fighting with remarkable ferocity even against overwhelming odds, defending their cohort above all else. Woe betide those who harm the ally of a guardian, as the guardian will answer this injury in kind.",
+    "description": "The title of guardian represents an array of martial professions, speaking more to their moral compass and unshakeable fortitude than the means by which they fight. While many guardians join groups of militants for either a country or cause, they’re more likely to follow those few they truly care for, majority be damned. Guardians are known for fighting with remarkable ferocity even against overwhelming odds, defending their cohort above all else. Woe betide those who harm the ally of a guardian, as the guardian will answer this injury in kind.",
     "domain_1": "Valor",
     "domain_2": "Blade",
     "evasion": "9",
@@ -218,14 +126,16 @@
         "text": "Once per long rest, you can become _Unstoppable._ You gain an Unstoppable Die. At level 1, your Unstoppable Die is a **d4.** Place it on your character sheet in the space provided, starting with the 1 value facing up. After you make a damage roll that deals 1 or more Hit Points to a target, increase the Unstoppable Die value by one. When the die's value would exceed its maximum value or when the scene ends, remove the die and drop out of _Unstoppable_. At level 5, your Unstoppable Die increases to a **d6.**\n\nWhile _Unstoppable_, you gain the following benefits:\n\n- You reduce the severity of physical damage by one threshold (Severe to Major, Major to Minor, Minor to None).\n- You add the current value of the Unstoppable Die to your damage roll.\n- You can't be _Restrained_ or _Vulnerable_.\n\n\u003e _**Tip:** If your Unstoppable Die is a d4 and the 4 is currently facing up, you remove the die the next time you would increase it. However, if your Unstoppable Die has increased to a d6 and the 4 is currently facing up, you'll turn it to 5 the next time you would increase it. In this case, you'll remove the die after you would need to increase it higher than 6._"
       }
     ],
-    "hope_feature_heading": "GUARDIAN'S HOPE FEATURE",
     "hope_feature_name": "Frontline Tank",
     "hope_feature_text": "**Spend 3 Hope** to clear 2 Armor Slots.",
     "hp": "7",
     "items": "A totem from your mentor or a secret key",
     "name": "Guardian",
     "subclass_1": "Stalwart",
-    "subclass_2": "Vengeance"
+    "subclass_2": "Vengeance",
+    "suggested_armor": "Chainmail Armor",
+    "suggested_primary": "Battleaxe",
+    "suggested_traits": "+1, +2, -1, 0, +1, 0"
   },
   {
     "background": [
@@ -239,7 +149,6 @@
         "question": "You've traveled many dangerous lands, but what is the one place you refuse to go?"
       }
     ],
-    "class_features_heading": "CLASS FEATURE",
     "connection": [
       {
         "question": "What friendly competition do we have?"
@@ -251,7 +160,7 @@
         "question": "What threat have you asked me to watch for, and why are you worried about it?"
       }
     ],
-    "description": "Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they've forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.",
+    "description": "Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.",
     "domain_1": "Bone",
     "domain_2": "Sage",
     "evasion": "12",
@@ -261,14 +170,16 @@
         "text": "**Spend a Hope** and make an attack against a target. On a success, deal your attack's normal damage and temporarily make the attack's target your _Focus_. Until this feature ends or you make a different creature your _Focus_, you gain the following benefits against your _Focus:_\n\n- You know precisely what direction they are in.\n- When you deal damage to them, they must mark a Stress.\n- When you fail an attack against them, you can end your Ranger's Focus feature to reroll your Duality Dice."
       }
     ],
-    "hope_feature_heading": "RANGER'S HOPE FEATURE",
     "hope_feature_name": "Hold Them Off",
     "hope_feature_text": "**Spend 3 Hope** when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.",
     "hp": "6",
     "items": "A trophy from your first kill or a seemingly broken compass",
     "name": "Ranger",
     "subclass_1": "Beastbound",
-    "subclass_2": "Wayfinder"
+    "subclass_2": "Wayfinder",
+    "suggested_armor": "Leather Armor",
+    "suggested_primary": "Shortbow",
+    "suggested_traits": "+2, 0, +1, +1, -1, 0"
   },
   {
     "background": [
@@ -282,7 +193,6 @@
         "question": "Who from your past were you most sad to say goodbye to?"
       }
     ],
-    "class_features_heading": "CLASS FEATURES",
     "connection": [
       {
         "question": "What did I recently convince you to do that got us both in trouble?"
@@ -294,7 +204,7 @@
         "question": "Who do you know from my past, and how have they influenced your feelings about me?"
       }
     ],
-    "description": "Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there's honor among thieves for those who know where to look.",
+    "description": "Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there’s honor among thieves for those who know where to look.",
     "domain_1": "Midnight",
     "domain_2": "Grace",
     "evasion": "12",
@@ -308,14 +218,17 @@
         "text": "When you succeed on an attack while _Cloaked_ or while an ally is within Melee range of your target, add a number of **d6s** equal to your tier to your damage roll.\n\n- Level 1 → Tier 1\n- Levels 2-4 → Tier 2\n- Levels 5-7 → Tier 3\n- Levels 8-10 → Tier 4"
       }
     ],
-    "hope_feature_heading": "ROGUE'S HOPE FEATURE",
     "hope_feature_name": "Rogue's Dodge",
     "hope_feature_text": "**Spend 3 Hope** to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.",
     "hp": "6",
     "items": "A set of forgery tools or a grappling hook",
     "name": "Rogue",
     "subclass_1": "Nightwalker",
-    "subclass_2": "Syndicate"
+    "subclass_2": "Syndicate",
+    "suggested_armor": "Gambeson Armor",
+    "suggested_primary": "Dagger",
+    "suggested_secondary": "Small Dagger",
+    "suggested_traits": "+1, -1, +2, 0, +1, 0"
   },
   {
     "background": [
@@ -329,7 +242,6 @@
         "question": "In what strange or unique way do you communicate with your god?"
       }
     ],
-    "class_features_heading": "CLASS FEATURE",
     "connection": [
       {
         "question": "What promise did you make me agree to, should you die on the battlefield?"
@@ -341,7 +253,7 @@
         "question": "You've told me to protect one member of our party above all others, even yourself. Who are they and why?"
       }
     ],
-    "description": "Seraphs are divine fighters and healers imbued with sacred purpose. A wide array of deities exist within the realms, and thus numerous kinds of seraphs are appointed by these gods. Their ethos traditionally aligns with the domain or goals of their god, such as defending the weak, exacting vengeance, protecting a land or artifact, or upholding a particular faith. Some seraphs ally themselves with an army or locale, much to the satisfaction of their rulers, but other crusaders fight in opposition to the follies of the Mortal Realm. It is better to be a seraph's ally than their enemy, as they are terrifying foes to those who defy their purpose.",
+    "description": "Seraphs are divine fighters and healers imbued with sacred purpose. A wide array of deities exist within the realms, and thus numerous kinds of seraphs are appointed by these gods. Their ethos traditionally aligns with the domain or goals of their god, such as defending the weak, exacting vengeance, protecting a land or artifact, or upholding a particular faith. Some seraphs ally themselves with an army or locale, much to the satisfaction of their rulers, but other crusaders fight in opposition to the follies of the Mortal Realm. It is better to be a seraph’s ally than their enemy, as they are terrifying foes to those who defy their purpose.",
     "domain_1": "Splendor",
     "domain_2": "Valor",
     "evasion": "9",
@@ -351,14 +263,17 @@
         "text": "At the beginning of each session, roll a number of **d4s** equal to your subclass's Spellcast trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within Far range. You can use a spent die's value to reduce incoming damage, add to a roll's result after the roll is made, or gain Hope equal to the result. At the end of each session, clear all unspent Prayer Dice."
       }
     ],
-    "hope_feature_heading": "SERAPH'S HOPE FEATURE",
     "hope_feature_name": "Life Support",
     "hope_feature_text": "**Spend 3 Hope** to clear a Hit Point on an ally within Close range.",
     "hp": "7",
     "items": "A bundle of offerings or a sigil of your god",
     "name": "Seraph",
     "subclass_1": "Divine Wielder",
-    "subclass_2": "Winged Sentinel"
+    "subclass_2": "Winged Sentinel",
+    "suggested_armor": "Chainmail Armor",
+    "suggested_primary": "Hallowed Axe",
+    "suggested_secondary": "Round Shield",
+    "suggested_traits": "0, +2, 0, +1, +1, -1"
   },
   {
     "background": [
@@ -372,7 +287,6 @@
         "question": "You have a deep fear you hide from everyone. What is it, and why does it scare you?"
       }
     ],
-    "class_features_heading": "CLASS FEATURES",
     "connection": [
       {
         "question": "Why do you trust me so deeply?"
@@ -384,7 +298,7 @@
         "question": "Why do we keep our shared past a secret?"
       }
     ],
-    "description": "Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer's abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.",
+    "description": "Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer’s abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.",
     "domain_1": "Arcana",
     "domain_2": "Midnight",
     "evasion": "10",
@@ -402,62 +316,16 @@
         "text": "Once per long rest, you can place a domain card from your loadout into your vault and choose to either:\n\n- Gain Hope equal to the level of the card.\n- Enhance a spell that deals damage, gaining a bonus to your damage roll equal to twice the level of the card."
       }
     ],
-    "hope_feature_heading": "SORCERER'S HOPE FEATURE",
     "hope_feature_name": "Volatile Magic",
     "hope_feature_text": "**Spend 3 Hope** to reroll any number of your damage dice on an attack that deals magic damage.",
     "hp": "6",
     "items": "A whispering orb or a family heirloom",
     "name": "Sorcerer",
     "subclass_1": "Elemental Origin",
-    "subclass_2": "Primal Origin"
-  },
-  {
-    "background": [
-      {
-        "question": "Who from your community shunned you after you made a pact with your patron?"
-      },
-      {
-        "question": "What desperate situation led you to pledge your life to your patron?"
-      },
-      {
-        "question": "Your patron has given you one task you must accomplish above all else. What is it, and why does it worry you?"
-      }
-    ],
-    "class_features_heading": "CLASS FEATURES",
-    "connection": [
-      {
-        "question": "Why do you think I confide in you about what my patron says and does?"
-      },
-      {
-        "question": "Our relationship has changed since you saw me show tribute to my patron. What did you see, and how has it affected you?"
-      },
-      {
-        "question": "I once did something very foolish, and you've never let me live it down. What was it?"
-      }
-    ],
-    "description": "Those who've traded their lives—or perhaps even their souls—to an otherworldly patron in exchange for incredible power are known as warlocks. Often, these mortals have reached a point of desperation that leads them to make this sacrifice: they hope to protect themselves or a loved one, aid their community, seek vengeance, increase their status, or otherwise further their ambitions. The powerful entities they entreat are as varied as the warlocks themselves: gods, spirits, demons, or other beings unknown to even the mortal who makes the pact. The entities each have their own sphere of influence that defines their otherworldly power, and those that collect souls are rarely known for their benevolence. Thus, a warlock's power is defined by the relationship they maintain with their benefactor. Despite their terrifying magic, warlocks might find that someone or something else is pulling their strings.",
-    "domain_1": "Dread",
-    "domain_2": "Grace",
-    "evasion": "11",
-    "feature": [
-      {
-        "name": "Patron's Pact",
-        "text": "You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your GM to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an action roll that relates to your patron's sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5."
-      },
-      {
-        "name": "Favor",
-        "text": "You start with 3 Favor. You can use a downtime move to show tribute to your patron. Describe how and gain Favor equal to your Spellcast trait. Additionally, when you succeed on an action roll with Hope, you can choose to gain a Favor instead of a Hope.\n\n\u003e _**Note:** The maximum Favor you can hold at one time is 6._"
-      }
-    ],
-    "features_extra": "### SPHERE OF INFLUENCE EXAMPLES\n\nWhen building a warlock, choose their patron's sphere of influence from the list below or work with the GM to make your own.\n\n- _Ambition_\n- _Artists_\n- _Chaos_\n- _Darkness_\n- _Death_\n- _Gamblers_\n- _Honor_\n- _Justice_\n- _Leaders_\n- _Love_\n- _Mercy_\n- _Mischief_\n- _Nature_\n- _Protectors_\n- _Revenge_\n- _Scholars_\n- _Secrets_\n- _Soldiers_\n- _Strength_\n- _Travelers_\n- _Tricksters_\n- _Truth_\n- _War_\n- _Wisdom_",
-    "hope_feature_heading": "WARLOCK'S HOPE FEATURE",
-    "hope_feature_name": "Patron's Boon",
-    "hope_feature_text": "When you fail a roll, you can **spend 3 Hope** to reroll with advantage.",
-    "hp": "5",
-    "items": "A carving that symbolizes your patron or a ring you can't remove",
-    "name": "Warlock",
-    "subclass_1": "Pact of the Endless",
-    "subclass_2": "Pact of the Wrathful"
+    "subclass_2": "Primal Origin",
+    "suggested_armor": "Gambeson Armor",
+    "suggested_primary": "Dualstaff",
+    "suggested_traits": "0, -1, +1, +2, +1, 0"
   },
   {
     "background": [
@@ -471,7 +339,6 @@
         "question": "What legendary place have you always wanted to visit, and why is it so special?"
       }
     ],
-    "class_features_heading": "CLASS FEATURES",
     "connection": [
       {
         "question": "We knew each other long before this party came together. How?"
@@ -497,61 +364,16 @@
         "text": "You ignore burden when equipping weapons. When you deal physical damage, you gain a bonus to your damage roll equal to your level."
       }
     ],
-    "hope_feature_heading": "WARRIOR'S HOPE FEATURE",
     "hope_feature_name": "No Mercy",
     "hope_feature_text": "**Spend 3 Hope** to gain a +1 bonus to your attack rolls until your next rest.",
     "hp": "6",
     "items": "The drawing of a lover or a sharpening stone",
     "name": "Warrior",
     "subclass_1": "Call of the Brave",
-    "subclass_2": "Call of the Slayer"
-  },
-  {
-    "background": [
-      {
-        "question": "Who from your community feared your magical craft? What rumor did they spread about you, and what truth did it contain?"
-      },
-      {
-        "question": "You once used your power to help someone in a dire situation. Who were they, and why did they come to you?"
-      },
-      {
-        "question": "Your magic once opened a door best left closed. Who or what was on the other side?"
-      }
-    ],
-    "class_features_heading": "CLASS FEATURES",
-    "connection": [
-      {
-        "question": "What unique ritual or practice have I taught you that we now perform together?"
-      },
-      {
-        "question": "I once appeared to you in a dream and shared a vision of the future. What did I tell you?"
-      },
-      {
-        "question": "What do you typically come to me for advice about?"
-      }
-    ],
-    "description": "Witches are magical practitioners who commune with the forces of nature and entities from realms beyond. These spellcasters call forth power through craft, combining the tangible and ephemeral by casting spells, murmuring incantations, creating talismans, weaving illusions, and maintaining other personalized practices. They can protect their allies and harm their enemies by invoking powerful forces beyond themselves—supernatural beings such as ancestors, deities, or aspects of nature. Often, their magical knowledge is passed down from these entities or through many generations of practitioners who gather in small groups known as covens. Witches are frequently feared and misunderstood, as their methods can appear mysterious, strange, and even macabre to the uninitiated. Whichever path they walk, a witch treads the boundary between light and shadow without fear.",
-    "domain_1": "Sage",
-    "domain_2": "Dread",
-    "evasion": "10",
-    "feature": [
-      {
-        "name": "Hex",
-        "text": "**Mark a Stress** to temporarily _Hex_ a target within Far range. While _Hexed_, the target gains a penalty to their damage rolls and Difficulty equal to your tier. The maximum number of creatures you can _Hex_ at one time is equal to your Spellcast trait."
-      },
-      {
-        "name": "Commune",
-        "text": "Once per long rest during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a number of **d6s** equal to your Spellcast trait. Choose one of the results and reference the chart below for the effect.\n\n| Roll | Effect                                                                          |\n|------|---------------------------------------------------------------------------------|\n| 1-3  | You taste a flavor, smell a scent, or feel a sensation relevant to the answer.  |\n| 4-5  | You hear sounds or see a vision relevant to the answer.                         |\n| 6    | You psychically experience a scene relevant to the answer as if you were there. |"
-      }
-    ],
-    "hope_feature_heading": "WITCH'S HOPE FEATURE",
-    "hope_feature_name": "Witch's Charm",
-    "hope_feature_text": "When you or an ally within Far range fails an action roll, you can **spend 3 Hope** to change it into a success with Fear instead.",
-    "hp": "6",
-    "items": "A small, harmless pet or a scrying stone",
-    "name": "Witch",
-    "subclass_1": "Hedge",
-    "subclass_2": "Moon"
+    "subclass_2": "Call of the Slayer",
+    "suggested_armor": "Chainmail Armor",
+    "suggested_primary": "Longsword",
+    "suggested_traits": "+2, +1, 0, +1, -1, 0"
   },
   {
     "background": [
@@ -565,7 +387,6 @@
         "question": "You have a powerful rival. Who are they, and why are you so determined to defeat them?"
       }
     ],
-    "class_features_heading": "CLASS FEATURES",
     "connection": [
       {
         "question": "What favor have I asked of you that you're not sure you can fulfill?"
@@ -591,13 +412,15 @@
         "text": "Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a Hope or clear a Stress.\n\nYou can change this number when you take a long rest."
       }
     ],
-    "hope_feature_heading": "WIZARD'S HOPE FEATURE",
     "hope_feature_name": "Not This Time",
     "hope_feature_text": "**Spend 3 Hope** to force an adversary within Far range to reroll an attack or damage roll.",
     "hp": "5",
-    "items": "A book you're trying to translate or a tiny, harmless elemental pet",
+    "items": "A book you’re trying to translate or a tiny, harmless elemental pet",
     "name": "Wizard",
     "subclass_1": "School of Knowledge",
-    "subclass_2": "School of War"
+    "subclass_2": "School of War",
+    "suggested_armor": "Leather Armor",
+    "suggested_primary": "Greatstaff",
+    "suggested_traits": "-1, 0, 0, +1, +1, +2"
   }
 ]

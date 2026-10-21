@@ -1,22 +1,25 @@
 # Crimson Lepus
 
-**_Tier 3 Solo._** _A red-eyed rabbit that thinks only of murder._
+***Tier 3 Solo***
+*A red-eyed rabbit that thinks only of murder.*
 
-- **Motives & Tactics:** Be cute, go for the throat, hop around
-- **Difficulty:** 18 | **Thresholds:** 20/35 | **HP:** 10 | **Stress:** 6
-- **ATK:** +3 | **Leaping Bite:** Very Close | 3d20 phy
-- **Experience:** Vicious +4
+**Motives & Tactics:** Be cute, go for the throat, hop around
 
-### FEATURES
+> **Difficulty:** 18 | **Thresholds:** 20/35 | **HP:** 10 | **Stress:** 6  
+> **ATK:** +3 | **Leaping Bite:** Very Close | 3d20 phy
 
-**_Relentless (3) - Passive:_** The Lepus can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
+**Experience:** Vicious +4
 
-**_"Awww..." - Passive:_** When the Lepus first appears, it is _Too Cute_. To attack a _Too Cute_ creature, a PC must succeed on an Instinct Reaction Roll (20). Clear the _Too Cute_ condition if a PC deals damage to the Lepus or if the Lepus attacks a PC.
+## FEATURES
 
-**_Terrifying - Passive:_** When the Lepus makes a successful attack, all PCs within Close range lose a Hope, and you gain a Fear.
+***Relentless (3) - Passive:*** The Lepus can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
 
-**_Leaping Jugular Strike - Action:_** **Spend a Fear** to have the Lepus leap into Melee range of a target within Far range and make an attack against them. On a success, deal **3d20** direct physical damage. If the target marks HP from this attack, they become _Vulnerable_ until they clear a HP.
+***“Awww...” - Passive:*** When the Lepus first appears, it is *Too Cute*. To attack a *Too Cute* creature, a PC must succeed on an Instinct Reaction Roll (20). Clear the *Too Cute* condition if a PC deals damage to the Lepus or if the Lepus attacks a PC.
 
-**_Evasive - Reaction:_** When the Lepus would take damage, roll a **d6**. On a 4 or higher, halve the damage. If the damage was already halved, the Lepus takes no damage.
+***Terrifying - Passive:*** When the Lepus makes a successful attack, all PCs within Close range lose a Hope, and you gain a Fear.
 
-**_"Run Away!" - Reaction:_** When a PC with no Hope takes the spotlight within Very Far range of the Lepus, the PC must succeed on a Presence Reaction Roll or use their action to flee the battlefield until they spend a Hope to return.
+***Leaping Jugular Strike - Action:*** **Spend a Fear** to have the Lepus leap into Melee range of a target within Far range and make an attack against them. On a success, deal **3d20** direct physical damage. If the target marks HP from this attack, they become *Vulnerable* until they clear a HP.
+
+***Evasive - Reaction:*** When the Lepus would take damage, roll a **d6**. On a 4 or higher, halve the damage. If the damage was already halved, the Lepus takes no damage.
+
+***“Run Away!” - Reaction:*** When a PC with no Hope takes the spotlight within Very Far range of the Lepus, the PC must succeed on a Presence Reaction Roll or use their action to flee the battlefield until they spend a Hope to return.

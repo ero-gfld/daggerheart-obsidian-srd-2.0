@@ -1,14 +1,17 @@
 # Guahalan Shifter
 
-**_Tier 2 Standard._** _A shapeshifting masked warrior who has animalistic features._
+***Tier 2 Standard***
+*A shapeshifting masked warrior who has animalistic features.*
 
-- **Motives & Tactics:** Escape, profit, throw smoke
-- **Difficulty:** 15 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 3
-- **ATK:** +1 | **Warclub:** Melee | 2d8+4 phy
-- **Experience:** Hunter +2, Trapper +2
+**Motives & Tactics:** Escape, profit, throw smoke
 
-### FEATURES
+> **Difficulty:** 15 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 3  
+> **ATK:** +1 | **Warclub:** Melee | 2d8+4 phy
 
-**_Unleash the Beast - Action:_** **Spend a Fear** to have the Shifter adopt a more bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action.
+**Experience:** Hunter +2, Trapper +2
 
-**_Pack Attack - Action:_** **Mark a Stress** to make a standard attack. On a success, the attack gains a bonus to damage equal to the number of other Shifters within Very Close range of the target.
+## FEATURES
+
+***Unleash the Beast - Action:*** **Spend a Fear** to have the Shifter adopt a more bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action.
+
+***Pack Attack - Action:*** **Mark a Stress** to make a standard attack. On a success, the attack gains a bonus to damage equal to the number of other Shifters within Very Close range of the target.

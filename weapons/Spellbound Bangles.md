@@ -2,7 +2,8 @@
 
 **_Tier 2_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Knowledge
-- **Range:** Melee
-- **Damage:** d10+6 mag
-- **Burden:** Two-Handed
+*Knowledge* · *Melee* · *d10+6 mag* · *Two-Handed*
+
+### FEATURE
+
+—

@@ -4,15 +4,15 @@ Blade is the domain of **weapon mastery.** Whether by steel, bow, or perhaps a m
 
 ### DOMAIN CARDS
 
-| **Level** | **Option 1** | **Option 2** | **Option 3** |
-| :-------: | ------------ | ------------ | ------------ |
-| **1** | [Get Back Up](../abilities/Get%20Back%20Up.md) | [Not Good Enough](../abilities/Not%20Good%20Enough.md) | [Whirlwind](../abilities/Whirlwind.md) |
-| **2** | [A Soldier's Bond](../abilities/A%20Soldiers%20Bond.md) | [Reckless](../abilities/Reckless.md) | — |
-| **3** | [Scramble](../abilities/Scramble.md) | [Versatile Fighter](../abilities/Versatile%20Fighter.md) | — |
-| **4** | [Deadly Focus](../abilities/Deadly%20Focus.md) | [Fortified Armor](../abilities/Fortified%20Armor.md) | — |
-| **5** | [Champion's Edge](../abilities/Champions%20Edge.md) | [Vitality](../abilities/Vitality.md) | — |
-| **6** | [Battle-Hardened](../abilities/Battle-Hardened.md) | [Rage Up](../abilities/Rage%20Up.md) | — |
-| **7** | [Blade-Touched](../abilities/Blade-Touched.md) | [Glancing Blow](../abilities/Glancing%20Blow.md) | — |
-| **8** | [Battle Cry](../abilities/Battle%20Cry.md) | [Frenzy](../abilities/Frenzy.md) | — |
-| **9** | [Gore and Glory](../abilities/Gore%20and%20Glory.md) | [Reaper's Strike](../abilities/Reapers%20Strike.md) | — |
-| **10** | [Battle Monster](../abilities/Battle%20Monster.md) | [Onslaught](../abilities/Onslaught.md) | — |
+| **Level** | **Option 1**                                                     | **Option 2**                                                 | **Option 3**                           |
+| --------- | ---------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
+| **1**     | [Get Back Up](Get%20Back%20Up.md)                   | [Not Good Enough](Not%20Good%20Enough.md)       | [Whirlwind](Whirlwind.md) |
+| **2**     | [A Soldier’s Bond](A%20Soldier’s%20Bond.md) | [Reckless](Reckless.md)                         | —                                      |
+| **3**     | [Scramble](Scramble.md)                             | [Versatile Fighter](Versatile%20Fighter.md)     | —                                      |
+| **4**     | [Deadly Focus](Deadly%20Focus.md)                   | [Fortified Armor](Fortified%20Armor.md)         | —                                      |
+| **5**     | [Champion’s Edge](Champion’s%20Edge.md)     | [Vitality](Vitality.md)                         | —                                      |
+| **6**     | [Battle‑hardened](Battle‑hardened.md)       | [Rage Up](Rage%20Up.md)                         | —                                      |
+| **7**     | [Blade‑touched](Blade‑touched.md)           | [Glancing Blow](Glancing%20Blow.md)             | —                                      |
+| **8**     | [Battle Cry](Battle%20Cry.md)                       | [Frenzy](Frenzy.md)                             | —                                      |
+| **9**     | [Gore and Glory](Gore%20and%20Glory.md)             | [Reaper’s Strike](Reaper’s%20Strike.md) | —                                      |
+| **10**    | [Battle Monster](Battle%20Monster.md)               | [Onslaught](Onslaught.md)                       | —                                      |

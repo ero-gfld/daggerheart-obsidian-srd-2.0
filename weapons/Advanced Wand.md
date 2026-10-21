@@ -2,7 +2,8 @@
 
 **_Tier 3_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Knowledge
-- **Range:** Far
-- **Damage:** d6+7 mag
-- **Burden:** One-Handed
+*Knowledge* · *Far* · *d6+7 mag* · *One-Handed*
+
+### FEATURE
+
+—

@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d10+7 phy
-- **Burden:** Two-Handed
+*Strength* · *Melee* · *d10+7 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Protective:_** +1 to Armor Score
+***Protective:*** +1 to Armor Score

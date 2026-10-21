@@ -1,9 +1,9 @@
 # Book of Grynn
 
-**_Level 4_** _Codex Grimoire._ **_Recall Cost_** _2._
+***Level 4*** *Codex Grimoire.* ***Recall Cost*** *2.*
 
-**_Arcane Deflection:_** Once per long rest, **spend a Hope** to negate the damage of an attack targeting you or an ally within Very Close range.
+***Arcane Deflection:*** Once per long rest, **spend a Hope** to negate the damage of an attack targeting you or an ally within Very Close range.
 
-**_Time Lock:_** Target an object within Far range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a **Spellcast Roll** against them to maintain this spell.
+***Time Lock:*** Target an object within Far range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a **Spellcast Roll** against them to maintain this spell.
 
-**_Wall of Flame:_** Make a **Spellcast Roll (15)**. On a success, create a temporary wall of magical flame between two points within Far range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes **4d10+3** magic damage.
+***Wall of Flame:*** Make a **Spellcast Roll (15)**. On a success, create a temporary wall of magical flame between two points within Far range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes **4d10+3** magic damage.

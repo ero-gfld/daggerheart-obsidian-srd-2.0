@@ -2,11 +2,8 @@
 
 **_Tier 3_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Finesse
-- **Range:** Close
-- **Damage:** d10+7 phy
-- **Burden:** Two-Handed
+*Finesse* · *Close* · *d10+7 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Brutal:_** When you roll the maximum value on a damage die, roll an additional damage die.
+***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.

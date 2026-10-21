@@ -1,6 +1,6 @@
 # Vitality
 
-**_Level 5_** _Blade Ability._ **_Recall Cost_** _0._
+***Level 5*** *Blade Ability.* ***Recall Cost*** *0.*
 
 When you choose this card, permanently gain two of the following benefits:
 

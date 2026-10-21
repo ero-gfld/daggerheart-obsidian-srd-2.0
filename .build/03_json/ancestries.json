@@ -1,20 +1,5 @@
 ﻿[
   {
-    "description": "Aetheris are humanoids most easily recognized by their wings and sacred markings. They are the descendants of angels from the Hallows Above. Aetheris are typically 5 to 7 feet tall, and some may have elongated limbs. They often have vibrantly colored eyes, hair, and skin, though their coloring can include earth tones and pastels. Many members of this ancestry are born with sacred markings—such as glowing sigils or intricate patterns of lines and symbols—but all aetheris develop them as they mature. These symbols change as they age, often because of prophecies, revelations, and divine guidance from the Hallows Above.\n\nAll aetheris have a \"hallowed aura\" that can manifest voluntarily, such as when they invoke their power, or involuntarily, such as when they feel elation or other strong emotions. When they call forth this radiance, their eyes and bodies might glow, their markings might become more prominent or shift across their skin, or they might have a halo appear atop or around their head. These halos are as unique as a fingerprint and may share similarities with other family members. Perhaps due to their angelic lineage, aetheris usually live for 350 years, and they retain a youthful glow even as they age.",
-    "feature": [
-      {
-        "name": "Hallowed Aura",
-        "text": "Once per long rest when an ally within Close range rolls with Fear, you can change it into a roll with Hope instead."
-      },
-      {
-        "name": "Celestial Wings",
-        "text": "You have wings that allow you to fly. Once per scene while flying, you can **spend a Hope** instead of marking an Armor Slot."
-      }
-    ],
-    "features_heading": "ANCESTRY FEATURES",
-    "name": "Aetheris"
-  },
-  {
     "description": "Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone. They can resemble humanoids, animals, or even inanimate objects. Like organic beings, their bodies come in a wide array of sizes. Because of their bespoke construction, many clanks have highly specialized physical configurations. Examples include clawed hands for grasping, wheels for movement, or built-in weaponry.\n\nMany clanks embrace body modifications for style as well as function, and members of other ancestries often turn to clank artisans to construct customized mobility aids and physical adornments. Other ancestries can create clanks, even using their own physical characteristics as inspiration, but it's also common for clanks to build one another. A clank's lifespan extends as long as they're able to acquire or craft new parts, making their physical form effectively immortal. That said, their minds are subject to the effects of time, and deteriorate as the magic that powers them loses potency.",
     "feature": [
       {
@@ -26,7 +11,6 @@
         "text": "When you take a short rest, you can choose a long rest move instead of a short rest move."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Clank"
   },
   {
@@ -41,7 +25,6 @@
         "text": "Choose an element for your breath (such as electricity, fire, or ice). You can use this breath against a target or group of targets within Very Close range, treating it as an Instinct weapon that deals **d8** magic damage using your Proficiency."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Drakona"
   },
   {
@@ -56,68 +39,7 @@
         "text": "**Spend 3 Hope** to halve incoming physical damage."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Dwarf"
-  },
-  {
-    "description": "Earthkin are humanoids whose bodies are made of flesh and earth. Descended from earth elementals, members of this ancestry are formed of flesh and rock, crystal, clay, soil, sand, or a mixture of these materials. Some are primarily flesh and blood with just one earthen feature, such as skin the color or texture of stone or crystal formations that adorn their heads like hair. Others are a combination, often asymmetrical unions of muscle and natural minerals. Still others are almost entirely soil and stone. Earthkin might choose to mold and decorate the mineral portions of their form by carving designs, embedding gems or metals, or even planting seeds that bloom into adorning foliage. Their coloring comes from their elemental lineage, as even those who are more flesh than earth come in hues reminiscent of marble, gemstones, sand, soil, and more.\n\nThese kin begin their lives as small lumps of earth, such as a boulder, a ball of clay, or a crystal cluster. Though they'll develop their more humanoid features fairly quickly, earthkin age slowly for most of their approximately 300-year lifespan. Their average height at adulthood ranges from 5 to 6½ feet tall, and the shape of their body is strongly influenced by the primary material it's composed of. Many earthkin's injuries appear like fissures in stone; even long after the initial damage has healed, these cracks continue to slowly repair. When they die, earthkin eventually crumble into piles of earth.",
-    "feature": [
-      {
-        "name": "Stoneskin",
-        "text": "Gain a permanent +1 bonus to your Armor Score and damage thresholds at character creation."
-      },
-      {
-        "name": "Immovable",
-        "text": "While you're touching the ground, you can't be lifted or moved against your will."
-      }
-    ],
-    "features_heading": "ANCESTRY FEATURES",
-    "name": "Earthkin"
-  },
-  {
-    "description": "Emberkin are humanoids whose bodies are made of flesh and fire. Descended from fire elementals, emberkin might manifest their fiery heritage through flaming hair, eyes like embers, luminous streams that dance across their skin, a smoking exterior, or a glow flickering through their muscles, veins, organs, or fingertips. All these features are known to shift or flare with their emotions, and some individuals' characteristics might be more changeable than another's. The coloring of their skin and hair resembles the hues of fire: bright red, orange, yellow, charcoal, or even hints of blue. Their ears curve and point like a tongue of fire, and they tend to be warmer in temperature, either purposefully or innately, with some even being hot to the touch.\n\nInfant emberkin resemble small balls of fire or cinders, and because they lack the skill to control their temperature, they often need to be placed in fireproof containment such as dragon eggs, hearths, and cookware. Their humanoid characteristics develop throughout adolescence until they solidify into their adult form. Emberkin range from 5 to 7 feet tall and live about 250 years, their light and heat dimming as they age. When they pass, they blaze brightly for a moment, then burn to ash.",
-    "feature": [
-      {
-        "name": "Fireproof",
-        "text": "You are immune to damage from magical or mundane flame."
-      },
-      {
-        "name": "Ignition",
-        "text": "**Mark a Stress** to wreathe your primary weapon in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to damage rolls with that weapon."
-      }
-    ],
-    "features_heading": "ANCESTRY FEATURES",
-    "name": "Emberkin"
-  },
-  {
-    "description": "Skykin are humanoids whose bodies are made of flesh and air. Descended from air elementals, skykin have color-shifting skin that reflects the pale grays and blues of a clear morning sky, the smoldering oranges and fuchsias of the setting sun, or the deep sables and purples of a star-dappled night. These kin often have semitranslucent skin, floating hair of wispy smoke or clouds, or small breezes constantly fluttering their clothing. The intensity of these characteristics heightens or lessens based on the strength of their emotions. Skykin grow to be 5½ to 7 feet on average, and some have elongated features, including their pointed ears, necks, hands, feet, or limbs.\n\nSkykin are born as wisps of air or small clouds, often hard to see and hold. Until they mature and become more solid, they're contained in jars and other such vessels. Though skykin become more humanoid throughout adolescence, their bodies remain flexible, and some adults can adjust their shape throughout their lives, though it takes time and effort. Skykin live for approximately 300 years, and when they breathe their last, they disappear into the air.",
-    "feature": [
-      {
-        "name": "Gale Force",
-        "text": "**Mark a Stress** to conjure a gust of wind that carries you or a Very Close ally up to Very Far range. Additionally, you can always control the speed at which you fall."
-      },
-      {
-        "name": "Eye of the Storm",
-        "text": "**Spend 2 Hope** to grant you or an ally within Melee range a +1 bonus to Evasion until you take Severe damage or you use this feature again."
-      }
-    ],
-    "features_heading": "ANCESTRY FEATURES",
-    "name": "Skykin"
-  },
-  {
-    "description": "Tidekin are humanoids whose bodies are made of flesh and water. Descended from water elementals, tidekin possess finlike ears and webbing between their digits. The color of their skin, hair, and eyes reflects that of water's many forms, with some exhibiting bright shades of aquas, greens, and seafoams like shallow rivers or tropical oceans, while others display dark blues and purples from the deepest oceans. For some, these colors shift beneath semitranslucent skin like waves. Tidekin might have water formations that adorn their heads like hair or waves that shift and move across their body. Instead of expressing emotions through tears, their water formations change with their emotional state, and they can purposefully or accidentally use their shifting colors or water formations as a method of nonverbal communication.\n\nTidekin are born as a small amount of water, such as a puddle or liquid orb. As children, they're often kept in watertight containers such as bowls and bottles, and they tend to have a fluid appearance throughout their childhood until they gain a more solid humanoid form around adolescence. Adult tidekin range from 5 to 6½ feet in height, though their general body shape is influenced by the fluidity of water and might change, with some effort, over their approximately 300-year lifespan. When members of this ancestry die, they dissolve into water and flow away.",
-    "feature": [
-      {
-        "name": "Amphibious",
-        "text": "You can breathe and move naturally underwater."
-      },
-      {
-        "name": "Lifespring",
-        "text": "Once per rest when you have access to a small amount of water, you can **mark a Stress** to clear a Hit Point on yourself or an ally within Very Close range."
-      }
-    ],
-    "features_heading": "ANCESTRY FEATURES",
-    "name": "Tidekin"
   },
   {
     "description": "Elves are typically tall humanoids with pointed ears and acutely attuned senses. Their ears vary in size and pointed shape, and as they age, the tips begin to droop. While elves come in a wide range of body types, they are all fairly tall, with heights ranging from about 6 to 6 ½ feet. All elves have the ability to drop into a celestial trance, rather than sleep. This allows them to rest effectively in a short amount of time.\n\nSome elves possess what is known as a \"mystic form,\" which occurs when an elf has dedicated themself to the study or protection of the natural world so deeply that their physical form changes. These characteristics can include celestial freckles, the presence of leaves, vines, or flowers in their hair, eyes that flicker like fire, and more. Sometimes these traits are inherited from parents, but if an elf changes their environment or magical focus, their appearance changes over time. Because elves live for about 350 years, these traits can shift more than once throughout their lifespan.",
@@ -131,7 +53,6 @@
         "text": "During a rest, you can drop into a trance to choose an additional downtime move."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Elf"
   },
   {
@@ -146,7 +67,6 @@
         "text": "You can fly. While flying, you can **mark a Stress** after an adversary makes an attack against you to gain a +2 bonus to your Evasion against that attack."
       }
     ],
-    "features_heading": "ANCESTRY FEATURE",
     "name": "Faerie"
   },
   {
@@ -161,7 +81,6 @@
         "text": "When you succeed on an attack against a target within Melee range, you can **mark a Stress** to kick yourself off them, dealing an extra **2d6** damage and knocking back either yourself or the target to Very Close range."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Faun"
   },
   {
@@ -176,7 +95,6 @@
         "text": "When you would mark a Stress, roll a **d6.** On a result of 6, don't mark it."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Firbolg"
   },
   {
@@ -191,7 +109,6 @@
         "text": "While touching a corpse that died recently, you can **mark a Stress** to extract one memory from the corpse related to a specific emotion or sensation of your choice."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Fungril"
   },
   {
@@ -206,7 +123,6 @@
         "text": "**Mark a Stress** to retract into your shell. While in your shell, you have resistance to physical damage, you have disadvantage on action rolls, and you can't move."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Galapa"
   },
   {
@@ -221,23 +137,7 @@
         "text": "Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Giant"
-  },
-  {
-    "description": "Gnomes are typically small humanoids with conical heads and the ability to teleport short distances. While the average gnome is about 3 feet in height, their proportionately long arms and large hands give them an extended reach for their size. In contrast, their square frames have shorter torsos and legs. Alongside these characteristics, gnomes are easily identified by their softly pointed ears and wide eyes. Their heads are large, and the conical shape varies by family. Gnomes also inherit their minor teleportation ability from their parents, with families exhibiting their own manifestations when disappearing and reappearing. These effects can include small clouds of smoke, motes of light, or simply appearing to evaporate into thin air. Gnomes are known to begin grasping and holding objects from a very young age, and their hands remain dextrous over their 200-year lifespan even when their bodies have slowed from age.",
-    "feature": [
-      {
-        "name": "Nimble Fingers",
-        "text": "When you make a Finesse Roll, you can **spend 2 Hope** to reroll your Hope Die."
-      },
-      {
-        "name": "Flicker Step",
-        "text": "Once per scene, you can teleport to another point you can see within Far range."
-      }
-    ],
-    "features_heading": "ANCESTRY FEATURES",
-    "name": "Gnome"
   },
   {
     "description": "Goblins are small humanoids easily recognizable by their large eyes and massive membranous ears. With keen hearing and sharp eyesight, they perceive details both at great distances and in darkness, allowing them to move through less-optimal environments with ease. Their skin and eye colors are incredibly varied, with no one hue, either vibrant or subdued, more dominant than another. A typical goblin stands between 3 feet and 4 feet tall, and each of their ears is about the size of their head. Goblins are known to use ear positions to very specific effect when communicating nonverbally. A goblin's lifespan is roughly 100 years, and many maintain their keen hearing and sight well into advanced age.",
@@ -251,7 +151,6 @@
         "text": "Once per rest, **mark a Stress** to force an adversary to reroll an attack against you or an ally within Very Close range."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Goblin"
   },
   {
@@ -266,7 +165,6 @@
         "text": "When you roll a 1 on your Hope Die, you can reroll it."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Halfling"
   },
   {
@@ -281,7 +179,6 @@
         "text": "When you fail a roll that utilized one of your Experiences, you can **mark a Stress** to reroll."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Human"
   },
   {
@@ -296,7 +193,6 @@
         "text": "You have advantage on rolls to intimidate hostile creatures."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Infernis"
   },
   {
@@ -311,7 +207,6 @@
         "text": "Make an **Agility Roll** to scratch a target within Melee range. On a success, they become temporarily _Vulnerable._"
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Katari"
   },
   {
@@ -326,7 +221,6 @@
         "text": "When you succeed on an attack against a target within Melee range, you can **spend a Hope** to gore the target with your tusks, dealing an extra **1d6** damage."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Orc"
   },
   {
@@ -341,11 +235,10 @@
         "text": "You can use your long tongue to grab onto things within Close range. **Mark a Stress** to use your tongue as a Finesse Close weapon that deals **d12** physical damage using your Proficiency."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Ribbet"
   },
   {
-    "description": "Simiah resemble anthropomorphic monkeys and apes with long limbs and prehensile feet. While their appearance reflects all simian creatures, from the largest gorilla to the smallest marmoset, their size does not align with their animal counterparts, and they can be anywhere from 2 to 6 feet tall. All simiah can use their dexterous feet for nonverbal communication, work, and combat. Additionally, some also have prehensile tails that can grasp objects or help with balance during difficult maneuvers. These traits grant members of this ancestry unique agility that aids them in a variety of physical tasks. In particular, simiah are skilled climbers and can easily transition from bipedal movement to knuckle-walking and climbing, and back again. On average, simiah live for about 100 years.",
+    "description": "Simiah resemble anthropomorphic monkeys and apes with long limbs and prehensile feet. While their appearance reflects all simian creatures, from the largest gorilla to the smallest marmoset, their size does not align with their animal counterparts, and they can be anywhere from 2 to 6 feet tall. All simiah can use their dexterous feet for nonverbal communication, work, and combat. Additionally, some also have prehensile tails that can grasp objects or help with balance during dicult maneuvers. These traits grant members of this ancestry unique agility that aids them in a variety of physical tasks. In particular, simiah are skilled climbers and can easily transition from bipedal movement to knuckle-walking and climbing, and back again. On average, simiah live for about 100 years.",
     "feature": [
       {
         "name": "Natural Climber",
@@ -356,7 +249,6 @@
         "text": "Gain a permanent +1 bonus to your Evasion at character creation."
       }
     ],
-    "features_heading": "ANCESTRY FEATURES",
     "name": "Simiah"
   }
 ]

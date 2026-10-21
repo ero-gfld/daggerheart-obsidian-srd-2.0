@@ -2,7 +2,8 @@
 
 **_Tier 1_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Close
-- **Damage:** d8+1 mag
-- **Burden:** One-Handed
+*Instinct* · *Close* · *d8+1 mag* · *One-Handed*
+
+### FEATURE
+
+—

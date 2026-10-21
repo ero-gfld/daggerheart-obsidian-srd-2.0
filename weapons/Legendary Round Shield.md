@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d4+6 phy
-- **Burden:** One-Handed
+*Strength* · *Melee* · *d4+6 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Protective:_** +4 to Armor Score
+***Protective:*** +4 to Armor Score

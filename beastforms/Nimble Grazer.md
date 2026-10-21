@@ -1,14 +1,11 @@
 # Nimble Grazer
 
-**_Tier 1_** _(Deer, Gazelle, Goat, etc.)_
+**_Tier 1_** (Deer, Gazelle, Goat, etc.)
 
-- **Trait Bonus:** Agility +1
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Agility d6 phy
-- **Advantages:** leap, sneak, sprint
+*Agility +1 | Evasion +3* *Melee Agility d6 phy*
 
-### FEATURES
+**Gain advantage on:** leap, sneak, sprint
 
-**_Elusive Prey:_** When an attack roll against you would succeed, you can **mark a Stress** and roll a **d4.** Add the result to your Evasion against this attack.
+***Elusive Prey:*** When an attack roll against you would succeed, you can **mark a Stress** and roll a **d4.** Add the result to your Evasion against this attack.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+***Fragile:*** When you take Major or greater damage, you drop out of Beastform.

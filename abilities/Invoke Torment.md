@@ -1,6 +1,6 @@
 # Invoke Torment
 
-**_Level 10_** _Dread Ability._ **_Recall Cost_** _2._
+***Level 10*** *Dread Ability.* ***Recall Cost*** *2.*
 
 You deal double damage to targets that have all their Stress marked.
 

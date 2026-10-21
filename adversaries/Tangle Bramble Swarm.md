@@ -1,16 +1,19 @@
 # Tangle Bramble Swarm
 
-**_Tier 1 Horde (3/HP)._** _A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd._
+***Tier 1 Horde (3/HP)***
+*A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd.*
 
-- **Motives & Tactics:** Digest, entangle, immobilize
-- **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3
-- **ATK:** +0 | **Thorns:** Melee | 1d6+3 phy
-- **Experience:** Camouflage +2
+**Motives & Tactics:** Digest, entangle, immobilize
 
-### FEATURES
+> **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3  
+> **ATK:** +0 | **Thorns:** Melee | 1d6+3 phy
 
-**_Horde (1d4+2) - Passive:_** When the Swarm has marked half or more of their HP, their standard attack deals **1d4+2** physical damage instead.
+**Experience:** Camouflage +2
 
-**_Crush - Action:_** **Mark a Stress** to deal **2d6+8** direct physical damage to a target with 3 or more bramble tokens.
+## FEATURES
 
-**_Encumber - Reaction:_** When the Swarm succeeds on an attack, give the target a bramble token. If a target has any bramble tokens, they are _Restrained_. If a target has 3 or more bramble tokens, they are also _Vulnerable_. All bramble tokens can be removed by succeeding on a Finesse Roll (12 + the number of bramble tokens) or dealing Major or greater damage to the Swarm. If bramble tokens are removed from a target using a Finesse Roll, a number of Tangle Bramble Minions spawn within Melee range equal to the number of tokens removed.
+***Horde (1d4+2) - Passive:*** When the Swarm has marked half or more of their HP, their standard attack deals **1d4+2** physical damage instead.
+
+***Crush - Action:*** **Mark a Stress** to deal **2d6+8** direct physical damage to a target with 3 or more bramble tokens.
+
+***Encumber - Reaction:*** When the Swarm succeeds on an attack, give the target a bramble token. If a target has any bramble tokens, they are *Restrained*. If a target has 3 or more bramble tokens, they are also *Vulnerable*. All bramble tokens can be removed by succeeding on a Finesse Roll (12 + the number of bramble tokens) or dealing Major or greater damage to the Swarm. If bramble tokens are removed from a target using a Finesse Roll, a number of Tangle Bramble Minions spawn within Melee range equal to the number of tokens removed.

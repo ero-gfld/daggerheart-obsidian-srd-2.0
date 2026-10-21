@@ -1,14 +1,11 @@
 # Terrible Lizard
 
-**_Tier 4_** _(Brachiosaurus, Tyrannosaurus, etc.)_
+**_Tier 4_** (Brachiosaurus, Tyrannosaurus, etc.)
 
-- **Trait Bonus:** Strength +3
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Strength d12+10 phy
-- **Advantages:** attack, deceive, scare, track
+*Strength +3 | Evasion +2* *Melee Strength d12+10 phy*
 
-### FEATURES
+**Gain advantage on:** attack, deceive, scare, track
 
-**_Devastating Strikes:_** When you deal Severe damage to a target within Melee range, you can **mark a Stress** to force them to mark an additional Hit Point.
+***Devastating Strikes:*** When you deal Severe damage to a target within Melee range, you can **mark a Stress** to force them to mark an additional Hit Point.
 
-**_Massive Stride:_** You can move up to Far range without rolling. You ignore rough terain (at the GM's discretion) due to your size.
+***Massive Stride:*** You can move up to Far range without rolling. You ignore rough terrain (at the GM’s discretion) due to your size.

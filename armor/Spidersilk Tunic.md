@@ -1,10 +1,9 @@
 # Spidersilk Tunic
-
 **_Tier 2_** _Armor_
 
-- **Base Thresholds:** 9 / 20
-- **Base Score:** 4
+* *Base Thresholds:* 9 / 20  
+* *Base Score:* 4
 
 ### FEATURE
 
-**_Wall-Crawling:_** +1 Evasion; you can walk on walls as easily as on the ground.
+***Wall-Crawling:*** +1 Evasion; you can walk on walls as easily as on the ground.

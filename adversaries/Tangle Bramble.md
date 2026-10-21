@@ -1,15 +1,17 @@
 # Tangle Bramble
 
-**_Tier 1 Minion._** _An animate, blood-drinking tumbleweed._
+***Tier 1 Minion***
+*An animate, blood-drinking tumbleweed.*
 
-- **Motives & Tactics:** Combine, drain, entangle
-- **Difficulty:** 11 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-- **ATK:** -1 | **Thorns:** Melee | 2 phy
+**Motives & Tactics:** Combine, drain, entangle
 
-### FEATURES
+> **Difficulty:** 11 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
+> **ATK:** −1 | **Thorns:** Melee | 2 phy
 
-**_Minion (4) - Passive:_** The Bramble is defeated when they take any damage. For every 4 damage a PC deals to the Tangle Bramble, defeat an additional Minion within range the attack would succeed against.
+## FEATURES
 
-**_Group Attack - Action:_** **Spend a Fear** to choose a target and spotlight all Tangle Brambles within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
+***Minion (4) - Passive:*** The Bramble is defeated when they take any damage. For every 4 damage a PC deals to the Tangle Bramble, defeat an additional Minion within range the attack would succeed against.
 
-**_Drain and Multiply - Reaction:_** When an attack from the Bramble causes a target to mark HP and there are three or more Tangle Bramble Minions within Close range, you can combine the Minions into a Tangle Bramble Swarm Horde. The Horde's HP is equal to the number of Minions combined.
+***Group Attack - Action:*** **Spend a Fear** to choose a target and spotlight all Tangle Brambles within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
+
+***Drain and Multiply - Reaction:*** When an attack from the Bramble causes a target to mark HP and there are three or more Tangle Bramble Minions within Close range, you can combine the Minions into a Tangle Bramble Swarm Horde. The Horde’s HP is equal to the number of Minions combined.

@@ -1,10 +1,9 @@
 # Improved Banded Armor
-
 **_Tier 2_** _Armor_
 
-- **Base Thresholds:** 13 / 27
-- **Base Score:** 5
+* *Base Thresholds:* 13 / 27  
+* *Base Score:* 5
 
 ### FEATURE
 
-**_Bulky:_** -1 to Evasion; when you take Severe damage, you must mark a Stress.
+***Bulky:*** −1 to Evasion; when you take Severe damage, you must mark a Stress.

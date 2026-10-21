@@ -2,11 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Very Close
-- **Damage:** d4 phy
-- **Burden:** One-Handed
+*Instinct* · *Very Close* · *d4 phy* · *One-Handed*
 
 ### FEATURE
 
-**_Locked On:_** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.
+***Locked On:*** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.

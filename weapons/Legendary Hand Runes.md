@@ -2,7 +2,8 @@
 
 **_Tier 4_** _Primary_ _Magical_ _Weapon_
 
-- **Trait:** Instinct
-- **Range:** Very Close
-- **Damage:** d10+9 mag
-- **Burden:** One-Handed
+*Instinct* · *Very Close* · *d10+9 mag* · *One-Handed*
+
+### FEATURE
+
+—

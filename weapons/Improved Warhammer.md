@@ -2,11 +2,8 @@
 
 **_Tier 2_** _Primary_ _Physical_ _Weapon_
 
-- **Trait:** Strength
-- **Range:** Melee
-- **Damage:** d12+6 phy
-- **Burden:** Two-Handed
+*Strength* · *Melee* · *d12+6 phy* · *Two-Handed*
 
 ### FEATURE
 
-**_Heavy:_** -1 to Evasion
+***Heavy:*** −1 to Evasion

@@ -2,7 +2,8 @@
 
 **_Tier 4_** _Secondary_ _Physical_ _Weapon_
 
-- **Trait:** Finesse
-- **Range:** Far
-- **Damage:** d6+7 phy
-- **Burden:** One-Handed
+*Finesse* · *Far* · *d6+7 phy* · *One-Handed*
+
+### FEATURE
+
+—

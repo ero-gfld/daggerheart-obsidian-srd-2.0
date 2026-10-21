@@ -1,5 +1,5 @@
 # Not Good Enough
 
-**_Level 1_** _Blade Ability._ **_Recall Cost_** _1._
+***Level 1*** *Blade Ability.* ***Recall Cost*** *1.*
 
 When you roll your damage dice, you can reroll any 1s or 2s.

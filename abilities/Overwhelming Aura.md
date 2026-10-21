@@ -1,6 +1,6 @@
 # Overwhelming Aura
 
-**_Level 9_** _Splendor Spell._ **_Recall Cost_** _2._
+***Level 9*** *Splendor Spell.* ***Recall Cost*** *2.*
 
 Make a **Spellcast Roll (15)** to magically empower your aura. On a success, **spend 2 Hope** to make your Presence equal to your Spellcast trait until your next long rest.
 

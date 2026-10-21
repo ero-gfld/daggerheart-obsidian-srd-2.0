@@ -1,6 +1,6 @@
 # Bold Presence
 
-**_Level 2_** _Valor Ability._ **_Recall Cost_** _0._
+***Level 2*** *Valor Ability.* ***Recall Cost*** *0.*
 
 When you make a Presence Roll, you can **spend a Hope** to add your Strength to the roll.
 
