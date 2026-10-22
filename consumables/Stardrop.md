@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Stardrop"
-effect: "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range."
+aliases:
+  - "Stardrop"
 ---
 
-# Stardrop
+# Goutte d’étoile
 
-You can use this stardrop to summon a hailstorm of comets that deals 8d20 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to all targets within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+*(VO : Stardrop)*
+
+Vous pouvez utiliser cette goutte d’étoile pour invoquer une grêle de comètes qui inflige 8d20 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à toutes les cibles à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Blackwing Quill"
-effect: "This writing quill never runs out of ink or needs to be sharpened."
+aliases:
+  - "Blackwing Quill"
 ---
 
-# Blackwing Quill
+# Plume d’aile noire
 
-This writing quill never runs out of ink or needs to be sharpened.
+*(VO : Blackwing Quill)*
+
+Cette plume à écrire ne manque jamais d’encre et n’a jamais besoin d’être taillée.

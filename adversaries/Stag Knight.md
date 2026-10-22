@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Stag Knight"
-tier: 3
-type: "Standard"
-description: "A knight with huge, majestic antlers wearing armor made of dangerous thorns."
-difficulty: 17
-thresholds: "19/36"
-hp: 7
-stress: 5
-atk: "+3"
-attack: "Bramble Sword"
-range: "Melee"
-damage: "3d8+3 phy"
-motives_and_tactics: "Isolate, maneuver, protect the forest, weed the unwelcome"
-experience: "Forest Knowledge +3"
-features:
-  - "From Above - Passive"
-  - "Blade of the Forest - Action"
-  - "Thorny Armor - Reaction"
+aliases:
+  - "Stag Knight"
 ---
 
-# Stag Knight
+# Chevalier-cerf
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A knight with huge, majestic antlers wearing armor made of dangerous thorns.*
+*(VO : Stag Knight)*
 
-**Motives & Tactics:** Isolate, maneuver, protect the forest, weed the unwelcome
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un chevalier aux ramures immenses et majestueuses, vêtu d’une armure faite d’épines dangereuses.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 19/36 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Bramble Sword:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+3 phy
+**Motivations et tactiques :** Isoler, manœuvrer, protéger la forêt, éliminer les intrus
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Forest [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 19/36 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Épée de ronces :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+3 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) de la forêt +3
 
-***From Above - Passive:*** When the Knight succeeds on a standard attack from above a target, they deal **3d12+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead of their standard damage.
+## APTITUDES
 
-***Blade of the Forest - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make an attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Knight succeeds against take [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) equal to **3d4** + the target’s [Major threshold](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Depuis les hauteurs - Passif :*** Quand le Chevalier réussit une attaque standard depuis les hauteurs au-dessus d’une cible, il inflige **3d12+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) au lieu de ses dégâts standard.
 
-***Thorny Armor - Reaction:*** When the Knight takes damage from an attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to deal **1d10+5** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to the attacker.
+***Lame de la forêt - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour attaquer toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Chevalier réussit subissent des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) égaux à **3d4** + le [seuil majeur](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) de la cible.
+
+***Armure épineuse - Réaction :*** Quand le Chevalier subit des dégâts d’une attaque à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour infliger **1d10+5** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à l’attaquant.

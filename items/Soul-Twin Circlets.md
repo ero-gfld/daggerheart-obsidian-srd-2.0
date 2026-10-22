@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Soul-Twin Circlets"
-effect: "Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet."
+aliases:
+  - "Soul-Twin Circlets"
 ---
 
-# Soul-Twin Circlets
+# Diadèmes d’âmes jumelles
 
-Two creatures can wear this pair of circlets. You can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to switch places with whoever is wearing the other circlet.
+*(VO : Soul-Twin Circlets)*
+
+Deux créatures peuvent porter cette paire de diadèmes. Vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour échanger votre place avec celui ou celle qui porte l’autre diadème.

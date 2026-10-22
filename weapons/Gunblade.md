@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Gunblade"
-tier: 3
-category: "Primary"
-type: "Magical"
-trait: "Agility"
-range: "Far"
-damage: "d6+6 mag"
-burden: "One-Handed"
-feature: "Versatile: This weapon can also be used with these statistics—Agility, Melee, d8+6 phy."
+aliases:
+  - "Gunblade"
 ---
 
-# Gunblade
+# Épée-fusil
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Gunblade)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+6 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+6 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Versatile:*** This weapon can also be used with these statistics—[Agility](../core_rules/Character%20Creation.md#STEP%203), [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), d8+6 phy.
+### APTITUDE
+
+***Polyvalent :*** Cette arme peut aussi être utilisée avec ces caractéristiques : [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203), [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), d8+6 phy.

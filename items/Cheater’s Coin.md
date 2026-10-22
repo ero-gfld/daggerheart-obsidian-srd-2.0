@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Cheater’s Coin"
-effect: "When you flip this coin, you can spend a Hope to determine which side it lands on."
+aliases:
+  - "Cheater’s Coin"
 ---
 
-# Cheater’s Coin
+# Pièce truquée
 
-When you flip this coin, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to determine which side it lands on.
+*(VO : Cheater’s Coin)*
+
+Lorsque vous lancez cette pièce, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour choisir la face sur laquelle elle tombe.

@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Stormthread Habit"
-tier: 2
-thresholds: "9/20"
-score: 4
-feature: "Absorbing: Once per scene when you take magic damage, you can clear an Armor Slot."
+aliases:
+  - "Stormthread Habit"
 ---
 
-# Stormthread Habit
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Habit de fil de tempête
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 20  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+*(VO : Stormthread Habit)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 20  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
 
-***Absorbing:*** Once per scene when you take [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can clear an [Armor Slot](../core_rules/Equipment.md#ARMOR).
+### APTITUDE
+
+***Absorbant :*** Une fois par scène, lorsque vous subissez des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez évacuer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE).

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Iron Veil"
-effect: "This chain-link head covering renders the wearer invisible to fey creatures."
+aliases:
+  - "Iron Veil"
 ---
 
-# Iron Veil
+# Voile de fer
 
-This chain-link head covering renders the wearer invisible to fey creatures.
+*(VO : Iron Veil)*
+
+Cette coiffe de mailles rend son porteur invisible aux créatures féeriques.

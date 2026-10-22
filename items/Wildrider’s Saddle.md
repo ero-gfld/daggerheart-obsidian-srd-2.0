@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Wildrider’s Saddle"
-effect: "This saddle grants any animal it’s strapped onto the ability to understand their rider’s commands."
+aliases:
+  - "Wildrider’s Saddle"
 ---
 
-# Wildrider’s Saddle
+# Selle du chevaucheur sauvage
 
-This saddle grants any animal it’s strapped onto the ability to understand their rider’s commands.
+*(VO : Wildrider’s Saddle)*
+
+Cette selle permet à tout animal qui la porte de comprendre les ordres de son cavalier.

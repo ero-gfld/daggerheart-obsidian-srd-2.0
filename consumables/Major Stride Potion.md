@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Stride Potion"
-effect: "You gain a +1 bonus to your Agility until your next rest."
+aliases:
+  - "Major Stride Potion"
 ---
 
-# Major Stride Potion
+# Potion de foulée majeure
 
-You gain a +1 bonus to your [Agility](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+*(VO : Major Stride Potion)*
+
+Vous gagnez un bonus de +1 à votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

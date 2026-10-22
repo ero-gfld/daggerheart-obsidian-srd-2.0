@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Titan’s Girdle"
-effect: "Once per scene, you can activate this girdle to gain a +1 bonus to your Proficiency for your next attack."
+aliases:
+  - "Titan’s Girdle"
 ---
 
-# Titan’s Girdle
+# Ceinture de titan
 
-Once per scene, you can activate this girdle to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for your next attack.
+*(VO : Titan’s Girdle)*
+
+Une fois par scène, vous pouvez activer cette ceinture pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour votre prochaine attaque.

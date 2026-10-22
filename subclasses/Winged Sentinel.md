@@ -1,59 +1,52 @@
 ---
-tags:
-  - "daggerheart/subclass"
-name: "Winged Sentinel"
-class: "Seraph"
-spellcast_trait: "Strength"
-description: "Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky."
-features:
-  - "Wings of Light"
-  - "Ethereal Visage"
-  - "Ascendant"
-  - "Power of the Gods"
+aliases:
+  - "Winged Sentinel"
 ---
 
-# Winged Sentinel
+# Sentinelle ailée
 
-Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.
+*(VO : Winged Sentinel)*
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+Jouez la Sentinelle ailée si vous voulez prendre votre envol et frapper des coups écrasants depuis le ciel.
 
-[Strength](../core_rules/Character%20Creation.md#STEP%203)
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-**FOUNDATION FEATURE**
+[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Wings of Light:*** You can fly. While flying, you can do the following:
+**APTITUDE DE FONDATION**
 
-- **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to pick up and carry another willing creature approximately your size or smaller.
+***Ailes de lumière :*** Vous pouvez voler. En vol, vous pouvez faire ce qui suit :
 
-- **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to deal an extra **1d8** damage on a successful attack.
+- **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour soulever et transporter une autre créature consentante, à peu près de votre taille ou plus petite.
 
-**SPECIALIZATION FEATURE**
+- **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour infliger **1d8** dégâts supplémentaires lors d’une attaque réussie.
 
-***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Presence](../core_rules/Character%20Creation.md#STEP%203) Rolls. When you succeed with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on a Presence Roll, you can remove a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) from the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s Fear pool instead of gaining Hope.
+**APTITUDE DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Visage éthéré :*** Votre visage surnaturel inspire crainte et émerveillement. En vol, vous avez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Lorsque vous réussissez avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) un jet de Présence, vous pouvez retirer une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) de la réserve de Peur du [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) au lieu de gagner de l’Espoir.
 
-***Ascendant:*** Gain a permanent +4 bonus to your [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) threshold.
+**APTITUDES D’EXCELLENCE**
 
-***Power of the Gods:*** While flying, you deal an extra **1d12** damage instead of 1d8 from your “Wings of Light” feature.
+***Ascendant :*** Gagnez un bonus permanent de +4 à votre seuil de [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-**BACKGROUND QUESTIONS**
+***Puissance des dieux :*** En vol, vous infligez **1d12** dégâts supplémentaires au lieu de 1d8 avec votre aptitude « Ailes de lumière ».
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+**QUESTIONS D’HISTORIQUE**
 
-- Which god did you devote yourself to? What incredible feat did they perform for you in a moment of desperation?
+*Répondez à l’une des questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- How did your appearance change after taking your oath?
+- À quel dieu vous êtes-vous voué ? Quel exploit incroyable a-t-il accompli pour vous dans un moment de désespoir ?
 
-- In what strange or unique way do you communicate with your god?
+- Comment votre apparence a-t-elle changé après votre serment ?
 
-**CONNECTIONS**
+- De quelle manière étrange ou singulière communiquez-vous avec votre dieu ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+**LIENS**
 
-- What promise did you make me agree to, should you die on the battlefield?
+*Posez à vos compagnons de jeu l’une des questions suivantes pour que* *leur personnage y réponde, ou inventez vos propres questions.*
 
-- Why do you ask me so many questions about my god?
+- Quelle promesse m’avez-vous fait accepter, au cas où vous mourriez sur le champ de bataille ?
 
-- You’ve told me to protect one member of our party above all others, even yourself. Who are they and why?
+- Pourquoi me posez-vous tant de questions sur mon dieu ?
+
+- Vous m’avez demandé de protéger un membre du groupe avant tous les autres, vous-même compris. Qui est-ce, et pourquoi ?

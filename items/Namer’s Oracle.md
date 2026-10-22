@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Namer’s Oracle"
-effect: "Once per session, you can roll this set of runic dice to reveal the full name of the last person you touched."
+aliases:
+  - "Namer’s Oracle"
 ---
 
-# Namer’s Oracle
+# Oracle du Nommeur
 
-Once per session, you can roll this set of runic dice to reveal the full name of the last person you touched.
+*(VO : Namer’s Oracle)*
+
+Une fois par session, vous pouvez lancer ce jeu de dés runiques pour révéler le nom complet de la dernière personne que vous avez touchée.

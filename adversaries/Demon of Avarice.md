@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Demon of Avarice"
-tier: 3
-type: "Support"
-description: "A regal cloaked monstrosity with circular horns adorned with treasure."
-difficulty: 17
-thresholds: "15/29"
-hp: 6
-stress: 5
-atk: "+2"
-attack: "Hungry Maw"
-range: "Melee"
-damage: "3d6+5 mag"
-motives_and_tactics: "Consume, fuel greed, sow dissent"
-experience: "Manipulation +3"
-features:
-  - "Money Talks - Passive"
-  - "Numbers Must Go Up - Passive"
-  - "Money Is Time - Action"
+aliases:
+  - "Demon of Avarice"
 ---
 
-# Demon of Avarice
+# Démon de l’Avarice
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A regal cloaked monstrosity with circular horns adorned with treasure.*
+*(VO : Demon of Avarice)*
 
-**Motives & Tactics:** Consume, fuel greed, sow dissent
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Monstruosité royale drapée d’une cape, aux cornes circulaires ornées de trésors.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 15/29 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Hungry Maw:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d6+5 mag
+**Motivations et tactiques :** Consumer, attiser la cupidité, semer la discorde
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Manipulation +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 15/29 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Gueule vorace :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d6+5 mag
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Manipulation +3
 
-***Money Talks - Passive:*** Attacks against the Demon are made with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) unless the attacker spends a [handful](../core_rules/Equipment.md#GOLD) of gold. This Demon starts with a number of handfuls equal to the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F). When a target marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from the Demon’s standard attack, they can spend a handful of gold instead of marking HP (1 handful per HP). Add a handful of gold to the Demon for each handful of gold spent by PCs on this feature.
+## APTITUDES
 
-***Numbers Must Go Up - Passive:*** Add a bonus to the Demon’s [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [handfuls](../core_rules/Equipment.md#GOLD) of gold they have.
+***L’argent parle - Passif :*** Les attaques contre le démon se font avec [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE), sauf si l’attaquant dépense une [poignée](../core_rules/Equipment.md#OR) d’or. Ce démon commence avec un nombre de poignées égal au nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Quand une cible marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de l’attaque standard du démon, elle peut dépenser une poignée d’or au lieu de marquer des PV (1 poignée par PV). Ajoutez une poignée d’or au démon pour chaque poignée d’or dépensée par les PJ grâce à cette aptitude.
 
-***Money Is Time - Action:*** **Spend 3 [handfuls](../core_rules/Equipment.md#GOLD) of gold (or a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR))** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) **1d4+1** allies.
+***Les chiffres doivent monter - Passif :*** Ajoutez aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) du démon un bonus égal au nombre de [poignées](../core_rules/Equipment.md#OR) d’or que possède la cible.
+
+***L’argent, c’est du temps - Action :*** **Dépensez 3 [poignées](../core_rules/Equipment.md#OR) d’or (ou une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR))** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) **1d4+1** alliés.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Snakeskin Spirit"
-effect: "You can drink this potion to slough off your outer layer of skin and heal a scar."
+aliases:
+  - "Snakeskin Spirit"
 ---
 
-# Snakeskin Spirit
+# Esprit de peau de serpent
 
-You can drink this potion to slough off your outer layer of skin and heal a [scar](../core_rules/Core%20Mechanics.md#DEATH).
+*(VO : Snakeskin Spirit)*
+
+Vous pouvez boire cette potion pour muer et soigner une [cicatrice](../core_rules/Core%20Mechanics.md#MORT).

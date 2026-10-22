@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Astral Raiment"
-tier: 3
-thresholds: "11/27"
-score: 5
-feature: "Stellar: Mark a Stress to gain advantage on a Spellcast roll."
+aliases:
+  - "Astral Raiment"
 ---
 
-# Astral Raiment
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Atour astral
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Astral Raiment)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Stellar:*** Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on a [Spellcast roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS).
+### APTITUDE
+
+***Stellaire :*** Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour obtenir un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).

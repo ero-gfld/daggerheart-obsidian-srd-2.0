@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Storm God’s Greataxe"
-tier: 4
-category: "Primary"
-type: "Magical"
-trait: "Strength"
-range: "Very Close"
-damage: "d10+9 mag"
-burden: "Two-Handed"
-feature: "Bouncing: Mark any number of Stress to target that many additional creatures in range of the attack."
+aliases:
+  - "Storm God’s Greataxe"
 ---
 
-# Storm God’s Greataxe
+# Grande hache du dieu de la tempête
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Storm God’s Greataxe)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+9 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+9 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Bouncing:*** Mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) to target that many additional creatures in range of the attack.
+### APTITUDE
+
+***Rebond :*** Marquez autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que vous voulez pour cibler autant de créatures supplémentaires à portée de l’attaque.

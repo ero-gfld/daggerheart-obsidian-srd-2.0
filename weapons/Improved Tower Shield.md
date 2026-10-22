@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Improved Tower Shield"
-tier: 2
-category: "Secondary"
-type: "Physical"
-trait: "Strength"
-range: "Melee"
-damage: "d6+2 phy"
-burden: "One-Handed"
-feature: "Barrier: +3 to Armor Score; −1 to Evasion"
+aliases:
+  - "Improved Tower Shield"
 ---
 
-# Improved Tower Shield
+# Pavois amélioré
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Improved Tower Shield)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+2 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+2 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Barrier:*** +3 to [Armor Score](../core_rules/Equipment.md#ARMOR); −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Barrière :*** +3 au [Score d’armure](../core_rules/Equipment.md#ARMURE) ; −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

@@ -1,43 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Ghastly Legion"
-tier: 4
-type: "Horde"
-horde: 10
-description: "A teeming army of ghosts roused from dreamless slumber to fulfill their ancient oath."
-difficulty: 17
-thresholds: "25/45"
-hp: 8
-stress: 5
-atk: "+2"
-attack: "Spectral Armaments"
-range: "Close"
-damage: "4d6+10 mag"
-motives_and_tactics: "Overwhelm, serve, swarm"
-experience: "Tactics +2"
-features:
-  - "Horde (2d6+5) - Passive"
-  - "Necroplasmic - Passive"
-  - "Final Act - Reaction"
+aliases:
+  - "Ghastly Legion"
 ---
 
-# Ghastly Legion
+# Légion macabre
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (10/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*A teeming army of ghosts roused from dreamless slumber to fulfill their ancient oath.*
+*(VO : Ghastly Legion)*
 
-**Motives & Tactics:** Overwhelm, serve, swarm
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (10/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Une armée grouillante de fantômes, arrachés à un sommeil sans rêves pour accomplir leur serment ancien.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 25/45 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Spectral Armaments:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d6+10 mag
+**Motivations et tactiques :** Submerger, servir, assaillir en nuée
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Tactics +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 25/45 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Armes spectrales :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d6+10 mag
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Tactique +2
 
-***Horde (2d6+5) - Passive:*** When the Legion has marked half or more of its [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), its standard attack deals **2d6+5** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+## APTITUDES
 
-***Necroplasmic - Passive:*** The Legion is [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and takes double [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Horde (2d6+5) - Passif :*** Lorsque la Légion a marqué la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, son attaque standard inflige **2d6+5** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
 
-***Final Act - Reaction:*** When the Legion is defeated, it makes a standard attack against all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before being dispelled.
+***Nécroplasmique - Passif :*** La Légion est [immunisée](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et subit le double de [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Dernier acte - Réaction :*** Lorsque la Légion est vaincue, elle effectue une attaque standard contre toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avant d’être dissipée.

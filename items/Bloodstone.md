@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Bloodstone"
-effect: "You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+aliases:
+  - "Bloodstone"
 ---
 
-# Bloodstone
+# Pierre de sang
 
-You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+*(VO : Bloodstone)*
+
+Vous pouvez fixer cette pierre à une arme qui n’a pas encore d’aptitude. L’arme gagne l’aptitude suivante. ***Brutal :*** lorsque vous obtenez la valeur maximale sur un dé de dégâts, lancez un dé de dégâts supplémentaire.

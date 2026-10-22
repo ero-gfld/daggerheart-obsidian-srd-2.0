@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Bolster Potion"
-effect: "You gain a +1 bonus to your Strength until your next rest."
+aliases:
+  - "Major Bolster Potion"
 ---
 
-# Major Bolster Potion
+# Potion de renfort majeure
 
-You gain a +1 bonus to your [Strength](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+*(VO : Major Bolster Potion)*
+
+Vous gagnez un bonus de +1 à votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

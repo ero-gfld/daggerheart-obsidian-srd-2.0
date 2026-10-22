@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Returning Ring"
-effect: "When you throw your primary weapon while wearing this ring, the weapon appears in your hand immediately after the attack."
+aliases:
+  - "Returning Ring"
 ---
 
-# Returning Ring
+# Anneau de retour
 
-When you throw your [primary weapon](../core_rules/Equipment.md#WEAPONS) while wearing this ring, the weapon appears in your hand immediately after the attack.
+*(VO : Returning Ring)*
+
+Quand vous lancez votre [arme principale](../core_rules/Equipment.md#ARMES) en portant cet anneau, l’arme apparaît immédiatement dans votre main après l’attaque.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Timekeeper’s Pendant"
-effect: "You can choose an additional downtime move each rest."
+aliases:
+  - "Timekeeper’s Pendant"
 ---
 
-# Timekeeper’s Pendant
+# Pendentif du gardien du temps
 
-You can choose an additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) each rest.
+*(VO : Timekeeper’s Pendant)*
+
+Vous pouvez choisir une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) supplémentaire à chaque repos.

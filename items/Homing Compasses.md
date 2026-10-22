@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Homing Compasses"
-effect: "These two compasses point toward each other no matter how far apart they are."
+aliases:
+  - "Homing Compasses"
 ---
 
-# Homing Compasses
+# Boussoles de ralliement
 
-These two compasses point toward each other no matter how far apart they are.
+*(VO : Homing Compasses)*
+
+Ces deux boussoles se pointent l’une vers l’autre, quelle que soit la distance qui les sépare.

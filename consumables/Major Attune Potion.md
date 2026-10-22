@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Attune Potion"
-effect: "You gain a +1 bonus to your Instinct until your next rest."
+aliases:
+  - "Major Attune Potion"
 ---
 
-# Major Attune Potion
+# Potion d’accord majeure
 
-You gain a +1 bonus to your [Instinct](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+*(VO : Major Attune Potion)*
+
+Vous gagnez un bonus de +1 à votre [Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

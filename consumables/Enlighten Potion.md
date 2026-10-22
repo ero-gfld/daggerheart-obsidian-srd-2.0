@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Enlighten Potion"
-effect: "You gain a +1 bonus to your next Knowledge Roll."
+aliases:
+  - "Enlighten Potion"
 ---
 
-# Enlighten Potion
+# Potion d’illumination
 
-You gain a +1 bonus to your next [Knowledge](../core_rules/Character%20Creation.md#STEP%203) Roll.
+*(VO : Enlighten Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Glider"
-effect: "While falling, you can mark a Stress to deploy this small parachute and glide safely to the ground."
+aliases:
+  - "Glider"
 ---
 
-# Glider
+# Planeur
 
-While falling, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to deploy this small parachute and glide safely to the ground.
+*(VO : Glider)*
+
+En chute libre, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour déployer ce petit parachute et atterrir en sécurité.

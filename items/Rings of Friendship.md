@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Rings of Friendship"
-effect: "Two creatures can wear this pair of rings shaped like coiled snakes. You can spend the Hope of whoever is wearing the other ring (with their permission) as if it were your own."
+aliases:
+  - "Rings of Friendship"
 ---
 
-# Rings of Friendship
+# Anneaux d’amitié
 
-Two creatures can wear this pair of rings shaped like coiled snakes. You can spend the [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) of whoever is wearing the other ring (with their permission) as if it were your own.
+*(VO : Rings of Friendship)*
+
+Deux créatures peuvent porter cette paire d’anneaux en forme de serpents enroulés. Vous pouvez dépenser l’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) de celui ou celle qui porte l’autre anneau (avec son accord), comme si c’était le vôtre.

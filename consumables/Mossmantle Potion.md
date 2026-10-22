@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Mossmantle Potion"
-effect: "You can drink this tea to perfectly blend into natural environments until your next rest."
+aliases:
+  - "Mossmantle Potion"
 ---
 
-# Mossmantle Potion
+# Potion de manteau de mousse
 
-You can drink this tea to perfectly blend into natural [environments](../core_rules/Using%20Environments.md) until your next rest.
+*(VO : Mossmantle Potion)*
+
+Vous pouvez boire cette tisane pour vous fondre parfaitement dans les [environnements](../core_rules/Using%20Environments.md) naturels jusqu’à votre prochain repos.

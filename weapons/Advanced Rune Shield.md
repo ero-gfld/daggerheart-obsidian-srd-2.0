@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Advanced Rune Shield"
-tier: 3
-category: "Secondary"
-type: "Magical"
-trait: "Knowledge"
-range: "Melee"
-damage: "d4+4 mag"
-burden: "One-Handed"
-feature: "Protective: +3 to Armor Score"
+aliases:
+  - "Advanced Rune Shield"
 ---
 
-# Advanced Rune Shield
+# Bouclier runique avancé
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Advanced Rune Shield)*
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4+4 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4+4 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Protective:*** +3 to [Armor Score](../core_rules/Equipment.md#ARMOR)
+### APTITUDE
+
+***Protecteur :*** +3 au [Score d’armure](../core_rules/Equipment.md#ARMURE)

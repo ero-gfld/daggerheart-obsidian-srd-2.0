@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Night Hag’s Dust"
-effect: "You can blow this dust in an adversary’s face to prevent them from clearing Stress until your next long rest."
+aliases:
+  - "Night Hag’s Dust"
 ---
 
-# Night Hag’s Dust
+# Poussière de guenaude nocturne
 
-You can blow this dust in an [adversary](../core_rules/Using%20Adversaries.md)’s face to prevent them from clearing [Stress](../core_rules/Core%20Mechanics.md#STRESS) until your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+*(VO : Night Hag’s Dust)*
+
+Vous pouvez souffler cette poussière au visage d’un [adversaire](../core_rules/Using%20Adversaries.md) pour l’empêcher d’évacuer du [Stress](../core_rules/Core%20Mechanics.md#STRESS) jusqu’à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

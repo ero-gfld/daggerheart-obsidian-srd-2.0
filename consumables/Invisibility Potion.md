@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Invisibility Potion"
-effect: "You are Hidden until you deal damage to another creature or until your next rest."
+aliases:
+  - "Invisibility Potion"
 ---
 
-# Invisibility Potion
+# Potion d’invisibilité
 
-You are *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until you deal damage to another creature or until your next rest.
+*(VO : Invisibility Potion)*
+
+Vous êtes *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce que vous infligiez des dégâts à une autre créature ou jusqu’à votre prochain repos.

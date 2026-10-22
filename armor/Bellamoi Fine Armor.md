@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Bellamoi Fine Armor"
-tier: 3
-thresholds: "11/27"
-score: 5
-feature: "Gilded: +1 to Presence"
+aliases:
+  - "Bellamoi Fine Armor"
 ---
 
-# Bellamoi Fine Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure fine de Bellamoi
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Bellamoi Fine Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Gilded:*** +1 to [Presence](../core_rules/Character%20Creation.md#STEP%203)
+### APTITUDE
+
+***Doré :*** +1 à la [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

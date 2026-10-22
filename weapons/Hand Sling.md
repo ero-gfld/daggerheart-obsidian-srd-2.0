@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Hand Sling"
-tier: 3
-category: "Secondary"
-type: "Physical"
-trait: "Finesse"
-range: "Very Far"
-damage: "d6+4 phy"
-burden: "One-Handed"
-feature: "Versatile: This weapon can also be used with these statistics—Finesse, Close, d8+4."
+aliases:
+  - "Hand Sling"
 ---
 
-# Hand Sling
+# Fronde de poing
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Hand Sling)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+4 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+4 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Versatile:*** This weapon can also be used with these statistics—[Finesse](../core_rules/Character%20Creation.md#STEP%203), [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), d8+4.
+### APTITUDE
+
+***Polyvalent :*** Cette arme peut aussi être utilisée avec ces caractéristiques : [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203), [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), d8+4.

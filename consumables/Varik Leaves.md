@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Varik Leaves"
-effect: "You can eat these paired leaves to immediately gain 2 Hope."
+aliases:
+  - "Varik Leaves"
 ---
 
-# Varik Leaves
+# Feuilles de Varik
 
-You can eat these paired leaves to immediately gain 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+*(VO : Varik Leaves)*
+
+Mangez ces feuilles jumelles pour gagner immédiatement 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

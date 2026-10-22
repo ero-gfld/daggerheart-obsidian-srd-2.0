@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Phial of Deep Ink"
-effect: "You can drink this bottle of ink to transform into a cephalopod of roughly your size for the next hour. You gain rubbery skin, soft bones, the ability to breathe underwater, and new limbs until you have eight total."
+aliases:
+  - "Phial of Deep Ink"
 ---
 
-# Phial of Deep Ink
+# Fiole d’encre profonde
 
-You can drink this bottle of ink to transform into a cephalopod of roughly your size for the next hour. You gain rubbery skin, soft bones, the ability to breathe underwater, and new limbs until you have eight total.
+*(VO : Phial of Deep Ink)*
+
+Vous pouvez boire ce flacon d’encre pour vous transformer en céphalopode de votre taille pendant la prochaine heure. Vous gagnez une peau caoutchouteuse, des os mous, la capacité de respirer sous l’eau et de nouveaux membres, jusqu’à en avoir huit au total.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Escher’s Mirrorball"
-effect: "Once per long rest, you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest."
+aliases:
+  - "Escher’s Mirrorball"
 ---
 
-# Escher’s Mirrorball
+# Boule à facettes d’Escher
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest.
+*(VO : Escher’s Mirrorball)*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez ordonner à cette sphère d’argent de la taille d’un poing de capturer à sa surface une image panoramique de ses alentours. Cette image persiste jusqu’à votre prochain repos long.

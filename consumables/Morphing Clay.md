@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Morphing Clay"
-effect: "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest."
+aliases:
+  - "Morphing Clay"
 ---
 
-# Morphing Clay
+# Argile changeante
 
-You can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to use this clay, altering your face enough to make you unrecognizable until your next rest.
+*(VO : Morphing Clay)*
+
+Vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour utiliser cette argile, qui modifie votre visage au point de vous rendre méconnaissable jusqu’à votre prochain repos.

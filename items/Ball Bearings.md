@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Ball Bearings"
-effect: "This pouch contains perfectly smooth metal spheres."
+aliases:
+  - "Ball Bearings"
 ---
 
-# Ball Bearings
+# Billes d’acier
 
-This pouch contains perfectly smooth metal spheres.
+*(VO : Ball Bearings)*
+
+Cette bourse contient des sphères de métal parfaitement lisses.

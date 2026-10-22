@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Rune-Forged Exosuit"
-tier: 4
-thresholds: "12/39"
-score: 7
-feature: "Attuned: The maximum number of domain cards in your loadout is reduced by one, but you gain a bonus to your damage thresholds equal to your tier."
+aliases:
+  - "Rune-Forged Exosuit"
 ---
 
-# Rune-Forged Exosuit
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Exosquelette forgé aux runes
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 12 / 39  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 7
+*(VO : Rune-Forged Exosuit)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 12 / 39  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 7
 
-***Attuned:*** The maximum number of [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) is reduced by one, but you gain a bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP).
+### APTITUDE
+
+***Accordé :*** Le nombre maximum de [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) dans votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) est réduit d’une unité, mais vous gagnez un bonus à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU).

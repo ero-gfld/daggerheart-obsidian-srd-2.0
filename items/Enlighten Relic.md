@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Enlighten Relic"
-effect: "You gain a +1 bonus to your Knowledge. You can only carry one relic."
+aliases:
+  - "Enlighten Relic"
 ---
 
-# Enlighten Relic
+# Relique d’illumination
 
-You gain a +1 bonus to your [Knowledge](../core_rules/Character%20Creation.md#STEP%203). You can only carry one relic.
+*(VO : Enlighten Relic)*
+
+Vous gagnez un bonus de +1 à votre [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Vous ne pouvez porter qu’une seule relique.

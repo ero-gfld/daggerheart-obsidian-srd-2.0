@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Clockwork Crossbow"
-tier: 4
-category: "Primary"
-type: "Physical"
-trait: "Finesse"
-range: "Far"
-damage: "d6+11 phy"
-burden: "One-Handed"
-feature: "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+aliases:
+  - "Clockwork Crossbow"
 ---
 
-# Clockwork Crossbow
+# Arbalète mécanique
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Clockwork Crossbow)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+11 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+11 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Quick:*** When you make an attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to target another creature within range.
+### APTITUDE
+
+***Rapide :*** lorsque vous attaquez, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour viser une autre créature à portée.

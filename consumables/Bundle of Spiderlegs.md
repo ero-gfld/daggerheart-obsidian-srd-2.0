@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Bundle of Spiderlegs"
-effect: "You can eat these spiderlegs to walk on walls until your next rest."
+aliases:
+  - "Bundle of Spiderlegs"
 ---
 
-# Bundle of Spiderlegs
+# Fagot de pattes d’araignée
 
-You can eat these spiderlegs to walk on walls until your next rest.
+*(VO : Bundle of Spiderlegs)*
+
+Vous pouvez manger ces pattes d’araignée pour marcher sur les murs jusqu’à votre prochain repos.

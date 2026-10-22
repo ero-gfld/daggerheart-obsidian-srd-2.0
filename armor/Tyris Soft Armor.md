@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Tyris Soft Armor"
-tier: 2
-thresholds: "8/18"
-score: 5
-feature: "Quiet: You gain a +2 bonus to rolls you make to move silently."
+aliases:
+  - "Tyris Soft Armor"
 ---
 
-# Tyris Soft Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure souple de Tyris
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 8 / 18  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Tyris Soft Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 8 / 18  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Quiet:*** You gain a +2 bonus to rolls you make to move silently.
+### APTITUDE
+
+***Silencieux :*** Vous gagnez un bonus de +2 aux jets pour vous déplacer en silence.

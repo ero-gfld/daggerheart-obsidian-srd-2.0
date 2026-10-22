@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Hero’s Helm"
-effect: "When you critically succeed on an attack, all allies within Close range gain a Hope."
+aliases:
+  - "Hero’s Helm"
 ---
 
-# Hero’s Helm
+# Heaume du héros
 
-When you critically succeed on an attack, all allies within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+*(VO : Hero’s Helm)*
+
+Lorsque vous réussissez une attaque de façon critique, tous les alliés à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) gagnent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

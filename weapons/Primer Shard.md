@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Primer Shard"
-tier: 4
-category: "Secondary"
-type: "Physical"
-trait: "Instinct"
-range: "Very Close"
-damage: "d4 phy"
-burden: "One-Handed"
-feature: "Locked On: On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
+aliases:
+  - "Primer Shard"
 ---
 
-# Primer Shard
+# Éclat d’amorce
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Primer Shard)*
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Locked On:*** On a successful attack, your next attack against the same target with your [primary weapon](../core_rules/Equipment.md#WEAPONS) automatically succeeds.
+### APTITUDE
+
+***Verrouillage :*** Après une attaque réussie, votre attaque suivante contre la même cible avec votre [arme principale](../core_rules/Equipment.md#ARMES) réussit automatiquement.

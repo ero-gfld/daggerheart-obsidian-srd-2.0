@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Box of Dragon Dust"
-effect: "This snuffbox is filled with combustible powder."
+aliases:
+  - "Box of Dragon Dust"
 ---
 
-# Box of Dragon Dust
+# Coffret de poussière de dragon
 
-This snuffbox is filled with combustible powder.
+*(VO : Box of Dragon Dust)*
+
+Cette tabatière contient une poudre inflammable.

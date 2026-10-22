@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Advanced Brigandine Armor"
-tier: 3
-thresholds: "11/26"
-score: 5
-feature: "Lined: Mark a Stress to negate Minor damage."
+aliases:
+  - "Advanced Brigandine Armor"
 ---
 
-# Advanced Brigandine Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Brigandine avancée
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 26  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Advanced Brigandine Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 26  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Lined:*** Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to negate [Minor damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+### APTITUDE
+
+***Doublé :*** Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour annuler des [dégâts mineurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

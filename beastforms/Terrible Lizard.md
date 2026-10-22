@@ -1,26 +1,18 @@
 ---
-tags:
-  - "daggerheart/beastform"
-name: "Terrible Lizard"
-tier: 4
-examples: "Brachiosaurus, Tyrannosaurus, etc."
-trait_bonus: "Strength +3"
-evasion: "+2"
-attack: "Melee Strength d12+10 phy"
-advantages: "attack, deceive, scare, track"
-features:
-  - "Devastating Strikes"
-  - "Massive Stride"
+aliases:
+  - "Terrible Lizard"
 ---
 
-# Terrible Lizard
+# Lézard redoutable
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Brachiosaurus, Tyrannosaurus, etc.)
+*(VO : Terrible Lizard)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+10 phy*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Brachiosaure, tyrannosaure, etc.)
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, deceive, scare, track
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d12+10 phy*
 
-***Devastating Strikes:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, tromper, effrayer, pister
 
-***Massive Stride:*** You can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range without rolling. You ignore rough terrain (at the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s discretion) due to your size.
+***Frappes dévastatrices :*** Quand vous infligez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la forcer à marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
+
+***Foulée colossale :*** Vous pouvez vous déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sans lancer de dés. Votre taille vous permet d’ignorer le terrain accidenté (à la discrétion du [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)).

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Displacement Token"
-effect: "You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest."
+aliases:
+  - "Displacement Token"
 ---
 
-# Displacement Token
+# Jeton de déplacement
 
-You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.
+*(VO : Displacement Token)*
+
+Vous pouvez avaler ce jeton pour faire apparaître deux illusions de vous-même que vous pouvez contrôler. Chaque illusion dure jusqu’à ce qu’elle subisse des dégâts ou jusqu’à votre prochain repos.

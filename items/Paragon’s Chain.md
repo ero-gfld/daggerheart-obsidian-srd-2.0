@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Paragon’s Chain"
-effect: "As a downtime move, you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per long rest, you can spend a Hope to roll a d20 as your Hope Die for rolls that directly align with that principle."
+aliases:
+  - "Paragon’s Chain"
 ---
 
-# Paragon’s Chain
+# Chaîne du parangon
 
-As a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME), you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to roll a d20 as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW) for rolls that directly align with that principle.
+*(VO : Paragon’s Chain)*
+
+Comme [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez méditer sur un idéal ou un principe qui vous est cher et concentrer votre volonté dans cette chaîne. Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour lancer un d20 comme [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) pour les jets qui se rattachent directement à ce principe.

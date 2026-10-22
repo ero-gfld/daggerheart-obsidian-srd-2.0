@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Boots of Supple Mystique"
-effect: "While wearing these boots, you don’t leave tracks or footprints."
+aliases:
+  - "Boots of Supple Mystique"
 ---
 
-# Boots of Supple Mystique
+# Bottes de mystique souple
 
-While wearing these boots, you don’t leave tracks or footprints.
+*(VO : Boots of Supple Mystique)*
+
+Tant que vous portez ces bottes, vous ne laissez ni traces ni empreintes.

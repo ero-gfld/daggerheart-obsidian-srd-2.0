@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Wingsprout"
-effect: "You gain magic wings that allow you to fly for a number of minutes equal to your level."
+aliases:
+  - "Wingsprout"
 ---
 
-# Wingsprout
+# Pousse-d’ailes
 
-You gain magic wings that allow you to fly for a number of minutes equal to your level.
+*(VO : Wingsprout)*
+
+Vous obtenez des ailes magiques qui vous permettent de voler pendant un nombre de minutes égal à votre niveau.

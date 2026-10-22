@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Hammer of Exota"
-tier: 2
-category: "Primary"
-type: "Magical"
-trait: "Instinct"
-range: "Melee"
-damage: "d8+6 mag"
-burden: "Two-Handed"
-feature: "Eruptive: On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage."
+aliases:
+  - "Hammer of Exota"
 ---
 
-# Hammer of Exota
+# Marteau d’Exota
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Hammer of Exota)*
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+6 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+6 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Eruptive:*** On a successful attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, all other [adversaries](../core_rules/Using%20Adversaries.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (14) or take half damage.
+### APTITUDE
+
+***Éruptif :*** Sur une attaque réussie contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), tous les autres [adversaires](../core_rules/Using%20Adversaries.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (14) ou subir la moitié des dégâts.

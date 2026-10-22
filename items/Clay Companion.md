@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Clay Companion"
-effect: "When you sculpt this ball of clay into a clay animal companion, it behaves as that animal. For example, a clay spider can spin clay webs, while a clay bird can fly. The clay companion retains memory and identity across different shapes, but they can adopt new mannerisms with each form."
+aliases:
+  - "Clay Companion"
 ---
 
-# Clay Companion
+# Compagnon d’argile
 
-When you sculpt this ball of clay into a clay animal companion, it behaves as that animal. For example, a clay spider can spin clay webs, while a clay bird can fly. The clay companion retains memory and identity across different shapes, but they can adopt new mannerisms with each form.
+*(VO : Clay Companion)*
+
+Lorsque vous modelez cette boule d’argile en animal compagnon, celui-ci se comporte comme cet animal. Par exemple, une araignée d’argile peut tisser des toiles d’argile, tandis qu’un oiseau d’argile peut voler. Le compagnon d’argile conserve sa mémoire et son identité d’une forme à l’autre, mais il peut adopter de nouvelles manies à chaque forme.

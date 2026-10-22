@@ -1,17 +1,14 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Invoke Torment"
-domain: "Dread"
-level: 10
-type: "Ability"
-recall: 2
+aliases:
+  - "Invoke Torment"
 ---
 
-# Invoke Torment
+# Invoquer le tourment
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Dread](../domains/Dread.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+*(VO : Invoke Torment)*
 
-You deal double damage to targets that have all their [Stress](../core_rules/Core%20Mechanics.md#STRESS) marked.
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Effroi](../domains/Dread.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-Additionally, when an [adversary](../core_rules/Using%20Adversaries.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range is defeated with all its [Stress](../core_rules/Core%20Mechanics.md#STRESS) marked, you gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)..
+Vous infligez des dégâts doublés aux cibles dont tout le [Stress](../core_rules/Core%20Mechanics.md#STRESS) est marqué.
+
+De plus, lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) est vaincu alors que tout son [Stress](../core_rules/Core%20Mechanics.md#STRESS) est marqué, vous gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

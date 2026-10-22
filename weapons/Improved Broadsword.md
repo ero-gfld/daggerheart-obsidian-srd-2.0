@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Improved Broadsword"
-tier: 2
-category: "Primary"
-type: "Physical"
-trait: "Agility"
-range: "Melee"
-damage: "d8+3 phy"
-burden: "One-Handed"
-feature: "Reliable: +1 to attack rolls"
+aliases:
+  - "Improved Broadsword"
 ---
 
-# Improved Broadsword
+# Épée large améliorée
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Improved Broadsword)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+3 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+3 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Reliable:*** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+### APTITUDE
+
+***Fiable :*** +1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER)

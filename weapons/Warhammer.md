@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Warhammer"
-tier: 1
-category: "Primary"
-type: "Physical"
-trait: "Strength"
-range: "Melee"
-damage: "d12+3 phy"
-burden: "Two-Handed"
-feature: "Heavy: −1 to Evasion"
+aliases:
+  - "Warhammer"
 ---
 
-# Warhammer
+# Marteau de guerre
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Warhammer)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d12+3 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d12+3 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Heavy:*** −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Lourd :*** −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Improved Mage Robes"
-tier: 2
-thresholds: "6/15"
-score: 3
-feature: "Enchanted: Gain a bonus to your damage thresholds equal to your Spellcast trait."
+aliases:
+  - "Improved Mage Robes"
 ---
 
-# Improved Mage Robes
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Robes de mage améliorées
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 6 / 15  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 3
+*(VO : Improved Mage Robes)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 6 / 15  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 3
 
-***Enchanted:*** Gain a bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+### APTITUDE
+
+***Enchanté :*** Gagnez un bonus à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).

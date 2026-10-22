@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Chicken-Foot Hut"
-tier: 2
-type: "Bruiser"
-description: "A tall wooden shack that moves around on giant chicken legs."
-difficulty: 16
-thresholds: "14/27"
-hp: 8
-stress: 2
-atk: "+2"
-attack: "Clawed Feet"
-range: "Very Close"
-damage: "2d10+3 phy"
-motives_and_tactics: "Claw, protect master, run and jump, trample"
-experience: "Forests +2"
-features:
-  - "Fast - Passive"
-  - "Double Strike - Action"
-  - "Pin - Reaction"
+aliases:
+  - "Chicken-Foot Hut"
 ---
 
-# Chicken-Foot Hut
+# Hutte aux pattes de poule
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A tall wooden shack that moves around on giant chicken legs.*
+*(VO : Chicken-Foot Hut)*
 
-**Motives & Tactics:** Claw, protect master, run and jump, trample
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Une haute cabane de bois qui se déplace sur d’énormes pattes de poule.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 14/27 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Clawed Feet:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+3 phy
+**Motivations et tactiques :** Griffer, protéger son maître, courir et bondir, piétiner
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Forests +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 14/27 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Pattes griffues :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+3 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Forêts +2
 
-***Fast - Passive:*** The Hut can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range when [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+## APTITUDES
 
-***Double Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make two standard attacks. If both attacks succeed against the same target, combine the damage.
+***Rapide - Passif :*** La Hutte peut se déplacer jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) quand elle est mise sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Pin - Reaction:*** When the Hut makes a successful standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target. The Hut drags the *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target when it moves.
+***Double frappe - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour faire deux attaques standard. Si les deux attaques réussissent contre la même cible, additionnez les dégâts.
+
+***Plaquage - Réaction :*** Quand la Hutte réussit une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour [Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) temporairement la cible. La Hutte traîne la cible [Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) lorsqu’elle se déplace.

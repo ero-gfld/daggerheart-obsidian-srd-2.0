@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Traveler’s Bell"
-effect: "Once per long rest, you can ring this bell to magically open the shortest safe path through rough terrain for 1 hour."
+aliases:
+  - "Traveler’s Bell"
 ---
 
-# Traveler’s Bell
+# Clochette du voyageur
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can ring this bell to magically open the shortest safe path through rough terrain for 1 hour.
+*(VO : Traveler’s Bell)*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez agiter cette clochette pour ouvrir magiquement le chemin sûr le plus court à travers un terrain accidenté, pendant 1 heure.

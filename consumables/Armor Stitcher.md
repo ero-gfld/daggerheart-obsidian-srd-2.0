@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Armor Stitcher"
-effect: "You can use this stitcher to spend any number of Hope and clear that many Armor Slots."
+aliases:
+  - "Armor Stitcher"
 ---
 
-# Armor Stitcher
+# Raccommodeur d’armure
 
-You can use this stitcher to spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and clear that many [Armor Slots](../core_rules/Equipment.md#ARMOR).
+*(VO : Armor Stitcher)*
+
+Vous pouvez utiliser ce raccommodeur pour dépenser n’importe quel nombre d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et libérer autant d’[emplacements d’armure](../core_rules/Equipment.md#ARMURE).

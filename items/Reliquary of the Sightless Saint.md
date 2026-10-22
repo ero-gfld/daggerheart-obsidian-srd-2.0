@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Reliquary of the Sightless Saint"
-effect: "You gain a +1 bonus to your Hope Die when you make the Risk It All death move."
+aliases:
+  - "Reliquary of the Sightless Saint"
 ---
 
-# Reliquary of the Sightless Saint
+# Reliquaire du saint aveugle
 
-You gain a +1 bonus to your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW) when you make the [Risk It All](../core_rules/Core%20Mechanics.md#DEATH) [death move](../core_rules/Core%20Mechanics.md#DEATH).
+*(VO : Reliquary of the Sightless Saint)*
+
+Vous gagnez un bonus de +1 à votre [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) lorsque vous effectuez le [choix de mort](../core_rules/Core%20Mechanics.md#MORT) [Tout risquer](../core_rules/Core%20Mechanics.md#MORT).

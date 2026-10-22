@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Vial of Featherfall"
-effect: "You can drink this potion to ignore damage from falling for the next 10 minutes."
+aliases:
+  - "Vial of Featherfall"
 ---
 
-# Vial of Featherfall
+# Fiole de chute plume
 
-You can drink this potion to ignore damage from falling for the next 10 minutes.
+*(VO : Vial of Featherfall)*
+
+Vous pouvez boire cette potion pour ignorer les dégâts de chute pendant les 10 prochaines minutes.

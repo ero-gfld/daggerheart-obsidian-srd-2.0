@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/rules"
-name: "Appendix"
-description: "This section contains additional information and reference material."
+aliases:
+  - "Appendix"
 ---
 
-# Appendix
+# Annexe
 
-*This section contains additional information and reference material. For additional reference* *sheets, visit daggerheart.com/downloads.*
+*(VO : Appendix)*
+
+*Cette section contient des informations complémentaires et des documents de référence. Pour d’autres* *fiches de référence, rendez-vous sur daggerheart.com/downloads.*

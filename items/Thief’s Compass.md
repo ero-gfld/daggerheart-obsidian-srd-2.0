@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Thief’s Compass"
-effect: "This compass points the way toward the nearest exit while indoors and the closest entrance while outdoors."
+aliases:
+  - "Thief’s Compass"
 ---
 
-# Thief’s Compass
+# Boussole du voleur
 
-This compass points the way toward the nearest exit while indoors and the closest entrance while outdoors.
+*(VO : Thief’s Compass)*
+
+Cette boussole indique la direction de la sortie la plus proche lorsque vous êtes à l’intérieur, et celle de l’entrée la plus proche lorsque vous êtes à l’extérieur.

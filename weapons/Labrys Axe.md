@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Labrys Axe"
-tier: 3
-category: "Primary"
-type: "Physical"
-trait: "Strength"
-range: "Melee"
-damage: "d10+7 phy"
-burden: "Two-Handed"
-feature: "Protective: +1 to Armor Score"
+aliases:
+  - "Labrys Axe"
 ---
 
-# Labrys Axe
+# Hache labrys
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Labrys Axe)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+7 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+7 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Protective:*** +1 to [Armor Score](../core_rules/Equipment.md#ARMOR)
+### APTITUDE
+
+***Protecteur :*** +1 au [Score d’armure](../core_rules/Equipment.md#ARMURE)

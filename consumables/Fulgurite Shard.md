@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Fulgurite Shard"
-effect: "Choose a point within Far range. All targets within Close range of that point must succeed on a Reaction Roll (16) or take 3d6 magic damage and mark 1d4 Stress as lightning crackles through the area."
+aliases:
+  - "Fulgurite Shard"
 ---
 
-# Fulgurite Shard
+# Éclat de fulgurite
 
-Choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point must succeed on a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16) or take 3d6 [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and mark 1d4 [Stress](../core_rules/Core%20Mechanics.md#STRESS) as lightning crackles through the area.
+*(VO : Fulgurite Shard)*
+
+Choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16), sans quoi elles subissent 3d6 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et marquent 1d4 [Stress](../core_rules/Core%20Mechanics.md#STRESS), tandis que la foudre crépite dans la zone.

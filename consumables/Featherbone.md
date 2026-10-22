@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Featherbone"
-effect: "You can use this bone to control your falling speed for a number of minutes equal to your level."
+aliases:
+  - "Featherbone"
 ---
 
-# Featherbone
+# Os-plume
 
-You can use this bone to control your falling speed for a number of minutes equal to your level.
+*(VO : Featherbone)*
+
+Vous pouvez utiliser cet os pour contrôler votre vitesse de chute pendant un nombre de minutes égal à votre niveau.

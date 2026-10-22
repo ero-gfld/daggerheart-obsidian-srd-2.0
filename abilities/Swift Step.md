@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Swift Step"
-domain: "Bone"
-level: 10
-type: "Ability"
-recall: 2
+aliases:
+  - "Swift Step"
 ---
 
-# Swift Step
+# Pas vif
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+*(VO : Swift Step)*
 
-When an attack made against you fails, clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS). If you can’t clear a Stress, gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsqu’une attaque dirigée contre vous échoue, effacez un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Si vous ne pouvez pas effacer de Stress, gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

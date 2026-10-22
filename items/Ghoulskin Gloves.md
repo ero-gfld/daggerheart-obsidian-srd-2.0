@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Ghoulskin Gloves"
-effect: "When you attack with a physical weapon while wearing these gloves, the damage is considered both physical and magic."
+aliases:
+  - "Ghoulskin Gloves"
 ---
 
-# Ghoulskin Gloves
+# Gants de peau de goule
 
-When you attack with a physical weapon while wearing these gloves, the damage is considered both physical and magic.
+*(VO : Ghoulskin Gloves)*
+
+Lorsque vous attaquez avec une arme physique en portant ces gants, les dégâts sont considérés à la fois comme physiques et magiques.

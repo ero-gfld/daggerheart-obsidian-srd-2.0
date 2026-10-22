@@ -1,33 +1,20 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Tiny Red Ooze"
-tier: 1
-type: "Skulk"
-description: "A small moving mound of translucent flaming red slime"
-difficulty: 11
-thresholds: "5/None"
-hp: 2
-stress: 1
-atk: "-1"
-attack: "Ooze Appendage"
-range: "Melee"
-damage: "1d4+2 mag"
-motives_and_tactics: "Blaze, camouflage"
-features:
-  - "Burning - Reaction"
+aliases:
+  - "Tiny Red Ooze"
 ---
 
-# Tiny Red Ooze
+# Minuscule gelée rouge
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A small moving mound of translucent flaming red slime*
+*(VO : Tiny Red Ooze)*
 
-**Motives & Tactics:** Blaze, camouflage
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un petit monticule mouvant de glu rouge flamboyante et translucide*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Ooze Appendage:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d4+2 mag
+**Motivations et tactiques :** Embraser, se camoufler
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Pseudopode :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d4+2 mag
 
-***Burning - Reaction:*** When a creature within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range deals damage to the Ooze, they take **1d6** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
+
+***Brûlure - Réaction :*** Quand une créature à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) inflige des dégâts à la Gelée, elle subit **1d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

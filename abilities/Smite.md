@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Smite"
-domain: "Splendor"
-level: 5
-type: "Spell"
-recall: 2
+aliases:
+  - "Smite"
 ---
 
-# Smite
+# Châtier
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+*(VO : Smite)*
 
-Once per rest, **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to charge your powerful smite. When you next successfully attack with a weapon, double the result of your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING). This attack deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) regardless of the weapon’s damage type.
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Une fois par repos, **dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour charger votre châtiment puissant. Lors de votre prochaine attaque réussie avec une arme, doublez le résultat de votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER). Cette attaque inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), quel que soit le type de dégâts de l’arme.

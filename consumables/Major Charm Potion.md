@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Charm Potion"
-effect: "You gain a +1 bonus to your Presence until your next rest."
+aliases:
+  - "Major Charm Potion"
 ---
 
-# Major Charm Potion
+# Potion de charme majeure
 
-You gain a +1 bonus to your [Presence](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+*(VO : Major Charm Potion)*
+
+Vous gagnez un bonus de +1 à votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

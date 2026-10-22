@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Spidersilk Tunic"
-tier: 2
-thresholds: "9/20"
-score: 4
-feature: "Wall-Crawling: +1 Evasion; you can walk on walls as easily as on the ground."
+aliases:
+  - "Spidersilk Tunic"
 ---
 
-# Spidersilk Tunic
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Tunique de soie d’araignée
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 20  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+*(VO : Spidersilk Tunic)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 20  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
 
-***Wall-Crawling:*** +1 [Evasion](../core_rules/Core%20Mechanics.md#EVASION); you can walk on walls as easily as on the ground.
+### APTITUDE
+
+***Escalade murale :*** +1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) ; vous pouvez marcher sur les murs aussi facilement que sur le sol.

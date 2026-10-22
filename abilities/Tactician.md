@@ -1,17 +1,14 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Tactician"
-domain: "Bone"
-level: 3
-type: "Ability"
-recall: 1
+aliases:
+  - "Tactician"
 ---
 
-# Tactician
+# Tacticien
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : Tactician)*
 
-When you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), they can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to add one of your [Experiences](../core_rules/Character%20Creation.md#STEP%207) to their roll alongside your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die.
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-When making a [Tag Team Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), you can roll a **d20** as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
+Lorsque vous [Aidez un allié](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), il peut dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour ajouter l’une de vos [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207) à son jet, en plus de votre [dé d’avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
+
+Lorsque vous effectuez un [jet en tandem](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX), vous pouvez lancer un **d20** comme votre [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U).

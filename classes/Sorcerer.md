@@ -1,69 +1,60 @@
 ---
-tags:
-  - "daggerheart/class"
-name: "Sorcerer"
-domains:
-  - "Arcana"
-  - "Midnight"
-evasion: 10
-hp: 6
-subclasses:
-  - "Elemental Origin"
-  - "Primal Origin"
-items: "A whispering orb or a family heirloom"
-description: "Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers."
+aliases:
+  - "Sorcerer"
 ---
 
-# Sorcerer
+# Ensorceleur
 
-Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer’s abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.
+*(VO : Sorcerer)*
 
-**DOMAINS –**  [Arcana](../domains/Arcana.md) & [Midnight](../domains/Midnight.md)
+Tous les utilisateurs de magie innée ne choisissent pas de perfectionner leur art, mais ceux qui le font peuvent devenir de puissants ensorceleurs. Les dons de ces êtres se transmettent de génération en génération dans les familles, même quand celles-ci ignorent leur existence ou répugnent à les exercer. Les capacités d’un ensorceleur peuvent aller de l’élémentaire à l’illusoire, et bien au-delà, et nombre de praticiens se regroupent en collectifs selon leurs talents. Devenir un redoutable ensorceleur ne consiste pas à acquérir du pouvoir, mais à apprendre à cultiver et à maîtriser celui que l’on possède déjà. La magie d’un ensorceleur égaré ou indiscipliné est une force bien dangereuse.
 
-**STARTING EVASION –** 10
+**DOMAINES –**  [Arcanes](../domains/Arcana.md) & [Minuit](../domains/Midnight.md)
 
-**STARTING HIT POINTS –** 6
+**ÉVASION DE DÉPART –** 10
 
-**CLASS ITEMS –**  A whispering orb or a family heirloom
+**POINTS DE VIE DE DÉPART –** 6
 
-**SORCERER’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**OBJETS DE CLASSE –**  Une orbe chuchotante ou un héritage de famille
 
-***Volatile Magic:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll any number of your damage dice on an attack that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DE L’ENSORCELEUR**
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+***Magie volatile :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour relancer autant de vos dés de dégâts que vous voulez lors d’une attaque qui inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Arcane Sense:*** You can sense the presence of magical people and objects within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-***Minor Illusion:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10).** On a success, you create a minor visual illusion no larger than yourself within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. This illusion is convincing to anyone at Close range or farther.
+***Sens arcanique :*** Vous pouvez percevoir la présence de personnes et d’objets magiques à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Channel Raw Power:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can place a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) from your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) into your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) and choose to either:
+***Illusion mineure :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (10).** En cas de réussite, vous créez une illusion visuelle mineure, pas plus grande que vous, à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Cette illusion est convaincante pour quiconque se trouve à portée Proche ou plus loin.
 
-- Gain [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to the level of the card.
+***Canaliser la puissance brute :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez placer une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) et choisir de :
 
-- Enhance a spell that deals damage, gaining a bonus to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to twice the level of the card.
+- Gagner de l’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) égal au niveau de la carte.
 
-### SUBCLASSES
+- Renforcer un sort qui inflige des dégâts, en gagnant à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) un bonus égal au double du niveau de la carte.
 
-*Choose either the* ***[Elemental Origin](../subclasses/Elemental%20Origin.md)*** *or* ***[Primal Origin](../subclasses/Primal%20Origin.md)*** *subclass.*
+### SOUS-CLASSES
 
-***Elementalist:*** Choose one of the following elements at character creation: air, earth, fire, lightning, water.
+*Choisissez la sous-classe* ***[Origine élémentaire](../subclasses/Elemental%20Origin.md)*** *ou* ***[Origine primordiale](../subclasses/Primal%20Origin.md)***.
 
-**BACKGROUND QUESTIONS**
+***Élémentaliste :*** Choisissez l’un des éléments suivants à la création du personnage : air, terre, feu, foudre, eau.
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+**QUESTIONS D’HISTORIQUE**
 
-- What did you do that made the people in your community wary of you?
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- What mentor taught you to control your untamed magic, and why are they no longer able to guide you?
+- Qu’avez-vous fait pour que les gens de votre communauté se méfient de vous ?
 
-- You have a deep fear you hide from everyone. What is it, and why does it scare you?
+- Quel mentor vous a appris à maîtriser votre magie sauvage, et pourquoi ne peut-il plus vous guider ?
 
-**CONNECTIONS**
+- Vous avez une peur profonde que vous cachez à tout le monde. Quelle est-elle, et pourquoi vous effraie-t-elle ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+**LIENS**
 
-- Why do you trust me so deeply?
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- What did I do that makes you cautious around me?
+- Pourquoi me faites-vous une confiance aussi profonde ?
 
-- Why do we keep our shared past a secret?
+- Qu’ai-je fait qui vous rend prudent en ma présence ?
+
+- Pourquoi gardons-nous notre passé commun secret ?

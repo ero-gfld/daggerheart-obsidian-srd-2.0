@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Manacles"
-effect: "This pair of locking cuffs comes with a key."
+aliases:
+  - "Manacles"
 ---
 
-# Manacles
+# Menottes
 
-This pair of locking cuffs comes with a key.
+*(VO : Manacles)*
+
+Cette paire de bracelets verrouillables est livrée avec sa clé.

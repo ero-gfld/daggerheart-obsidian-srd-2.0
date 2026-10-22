@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Fortified Armor"
-domain: "Blade"
-level: 4
-type: "Ability"
-recall: 0
+aliases:
+  - "Fortified Armor"
 ---
 
-# Fortified Armor
+# Armure renforcée
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+*(VO : Fortified Armor)*
 
-While you are wearing armor, gain a +2 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Tant que vous portez une armure, gagnez un bonus de +2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

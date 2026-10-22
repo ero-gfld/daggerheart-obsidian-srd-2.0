@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Attune Relic"
-effect: "You gain a +1 bonus to your Instinct. You can only carry one relic."
+aliases:
+  - "Attune Relic"
 ---
 
-# Attune Relic
+# Relique d’accord
 
-You gain a +1 bonus to your [Instinct](../core_rules/Character%20Creation.md#STEP%203). You can only carry one relic.
+*(VO : Attune Relic)*
+
+Vous gagnez un bonus de +1 à votre [Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Vous ne pouvez porter qu’une seule relique.

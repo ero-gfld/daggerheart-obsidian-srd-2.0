@@ -1,37 +1,22 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Swarm of Rats"
-tier: 1
-type: "Horde"
-horde: 10
-description: "A skittering mass of ordinary rodents moving as one like a ravenous wave."
-difficulty: 10
-thresholds: "6/10"
-hp: 6
-stress: 2
-atk: "-3"
-attack: "Claws"
-range: "Melee"
-damage: "1d8+2 phy"
-motives_and_tactics: "Consume, obscure, swarm"
-features:
-  - "Horde (1d4+1) - Passive"
-  - "In Your Face - Passive"
+aliases:
+  - "Swarm of Rats"
 ---
 
-# Swarm of Rats
+# Nuée de rats
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (10/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*A skittering mass of ordinary rodents moving as one like a ravenous wave.*
+*(VO : Swarm of Rats)*
 
-**Motives & Tactics:** Consume, obscure, swarm
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (10/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Une masse crépitante de rongeurs ordinaires, qui avance d’un seul bloc comme une vague affamée.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/10 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −3 | **Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+2 phy
+**Motivations et tactiques :** Consumer, obscurcir, déferler
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/10 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −3 | **Griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+2 phy
 
-***Horde (1d4+1) - Passive:*** When the Swarm has marked half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals **1d4+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+## APTITUDES
 
-***In Your Face - Passive:*** All targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks against targets other than the Swarm.
+***Horde (1d4+1) - Passif :*** Quand la Nuée a marqué la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, son attaque standard inflige **1d4+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***En pleine figure - Passif :*** Toutes les cibles à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ont un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les attaques contre des cibles autres que la Nuée.

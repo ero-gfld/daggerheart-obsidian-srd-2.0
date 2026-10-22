@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Mandragorian Torch"
-effect: "This torch gives off light only the bearer can see."
+aliases:
+  - "Mandragorian Torch"
 ---
 
-# Mandragorian Torch
+# Torche mandragorienne
 
-This torch gives off light only the bearer can see.
+*(VO : Mandragorian Torch)*
+
+Cette torche dégage une lumière que seul son porteur peut voir.

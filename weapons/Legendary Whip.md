@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Legendary Whip"
-tier: 4
-category: "Secondary"
-type: "Physical"
-trait: "Presence"
-range: "Very Close"
-damage: "d6+6 phy"
-burden: "One-Handed"
-feature: "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+aliases:
+  - "Legendary Whip"
 ---
 
-# Legendary Whip
+# Fouet légendaire
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Legendary Whip)*
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+6 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+6 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Startling:*** Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to crack the whip and force all [adversaries](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range back to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+### APTITUDE
+
+***Stupéfiant :*** Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour faire claquer le fouet et forcer tous les [adversaires](../core_rules/Using%20Adversaries.md) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à reculer jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

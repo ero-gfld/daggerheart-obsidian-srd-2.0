@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Legendary Chainmail Armor"
-tier: 4
-thresholds: "15/40"
-score: 7
-feature: "Heavy: −1 to Evasion"
+aliases:
+  - "Legendary Chainmail Armor"
 ---
 
-# Legendary Chainmail Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cotte de mailles légendaire
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 15 / 40  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 7
+*(VO : Legendary Chainmail Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 15 / 40  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 7
 
-***Heavy:*** −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Lourd :*** −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

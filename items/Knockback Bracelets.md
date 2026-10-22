@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Knockback Bracelets"
-effect: "On a successful weapon attack, you can knock your target back up to Close range from their location."
+aliases:
+  - "Knockback Bracelets"
 ---
 
-# Knockback Bracelets
+# Bracelets de recul
 
-On a successful weapon attack, you can knock your target back up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range from their location.
+*(VO : Knockback Bracelets)*
+
+En cas de réussite d’une attaque avec une arme, vous pouvez repousser votre cible jusqu’à une distance [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de sa position.

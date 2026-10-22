@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Infinite Staff"
-tier: 4
-category: "Primary"
-type: "Physical"
-trait: "Presence"
-range: "Melee"
-damage: "d10+9 phy"
-burden: "Two-Handed"
-feature: "Extending: You can increase the range of this weapon up to Very Far. You gain a −1 penalty to attack rolls for each step you increase the range by (such as Melee to Very Close, Very Close to Close, or Close to Far)."
+aliases:
+  - "Infinite Staff"
 ---
 
-# Infinite Staff
+# Bâton infini
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Infinite Staff)*
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+9 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+9 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Extending:*** You can increase the range of this weapon up to [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT). You gain a −1 penalty to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) for each step you increase the range by (such as [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) to [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), Very Close to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), or Close to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)).
+### APTITUDE
+
+***Allonge :*** Vous pouvez augmenter la portée de cette arme jusqu’à [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Vous subissez un malus de −1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) pour chaque cran dont vous augmentez la portée (par exemple de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), de Très proche à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), ou de Proche à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)).

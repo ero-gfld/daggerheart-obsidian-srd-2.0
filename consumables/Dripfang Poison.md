@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Dripfang Poison"
-effect: "A creature who consumes this poison takes 8d10 direct magic damage."
+aliases:
+  - "Dripfang Poison"
 ---
 
-# Dripfang Poison
+# Poison de Gouttecroc
 
-A creature who consumes this poison takes 8d10 direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Dripfang Poison)*
+
+Une créature qui ingère ce poison subit 8d10 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

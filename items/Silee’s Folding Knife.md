@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Silee’s Folding Knife"
-effect: "This 3-inch blade has an edge that easily cuts through anything except the handle it’s stored in."
+aliases:
+  - "Silee’s Folding Knife"
 ---
 
-# Silee’s Folding Knife
+# Couteau pliant de Silee
 
-This 3-inch blade has an edge that easily cuts through anything except the handle it’s stored in.
+*(VO : Silee’s Folding Knife)*
+
+Cette lame de 3 pouces a un tranchant qui coupe sans peine tout ce qu’il touche, sauf le manche dans lequel elle est rangée.

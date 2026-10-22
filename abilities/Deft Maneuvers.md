@@ -1,17 +1,14 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Deft Maneuvers"
-domain: "Bone"
-level: 1
-type: "Ability"
-recall: 0
+aliases:
+  - "Deft Maneuvers"
 ---
 
-# Deft Maneuvers
+# Manœuvres habiles
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+*(VO : Deft Maneuvers)*
 
-Once per rest, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to sprint anywhere within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range without making an [Agility](../core_rules/Character%20Creation.md#STEP%203) Roll to get there.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
 
-If you end this movement within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of an [adversary](../core_rules/Using%20Adversaries.md) and immediately make an attack against them, gain a +1 bonus to the [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+Une fois par repos, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous précipiter n’importe où à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sans faire de [jet d’Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour y parvenir.
+
+Si vous terminez ce déplacement à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [adversaire](../core_rules/Using%20Adversaries.md) et que vous attaquez immédiatement celui-ci, gagnez un bonus de +1 au [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).

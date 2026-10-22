@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Vial of Darksmoke"
-effect: "When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack."
+aliases:
+  - "Vial of Darksmoke"
 ---
 
-# Vial of Darksmoke
+# Fiole de fumée noire
 
-When an [adversary](../core_rules/Using%20Adversaries.md) attacks you, use this vial and roll a number of d6s equal to your [Agility](../core_rules/Character%20Creation.md#STEP%203). Add the highest result to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against the attack.
+*(VO : Vial of Darksmoke)*
+
+Lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) vous attaque, utilisez cette fiole et lancez un nombre de d6 égal à votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Ajoutez le résultat le plus élevé à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre cette attaque.

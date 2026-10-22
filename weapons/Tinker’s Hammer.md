@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Tinker’s Hammer"
-tier: 3
-category: "Secondary"
-type: "Physical"
-trait: "Strength"
-range: "Melee"
-damage: "d8+4 phy"
-burden: "One-Handed"
-feature: "Trusty: +1 to attack rolls made with your primary weapon"
+aliases:
+  - "Tinker’s Hammer"
 ---
 
-# Tinker’s Hammer
+# Marteau du rétameur
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Tinker’s Hammer)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+4 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+4 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Trusty:*** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) made with your [primary weapon](../core_rules/Equipment.md#WEAPONS)
+### APTITUDE
+
+***Fidèle :*** +1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) faits avec votre [arme principale](../core_rules/Equipment.md#ARMES)

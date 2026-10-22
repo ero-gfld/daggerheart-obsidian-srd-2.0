@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Featherstep Potion"
-effect: "You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest."
+aliases:
+  - "Featherstep Potion"
 ---
 
-# Featherstep Potion
+# Potion de pas de plume
 
-You can drink this potion to sprout small wings from your ankles that give you a bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) until your next rest.
+*(VO : Featherstep Potion)*
+
+Vous pouvez boire cette potion pour faire pousser de petites ailes à vos chevilles, ce qui vous donne un bonus à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) jusqu’à votre prochain repos.

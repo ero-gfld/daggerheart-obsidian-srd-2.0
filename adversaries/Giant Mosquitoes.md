@@ -1,43 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Giant Mosquitoes"
-tier: 1
-type: "Horde"
-horde: 5
-description: "Dozens of fist-sized mosquitoes, flying together for protection."
-difficulty: 10
-thresholds: "5/9"
-hp: 6
-stress: 3
-atk: "-2"
-attack: "Proboscis"
-range: "Melee"
-damage: "1d8+3 phy"
-motives_and_tactics: "Fly away, harass, steal blood"
-experience: "Camouflage +2"
-features:
-  - "Horde (1d4+1) - Passive"
-  - "Flying - Passive"
-  - "Bloodsucker - Reaction"
+aliases:
+  - "Giant Mosquitoes"
 ---
 
-# Giant Mosquitoes
+# Moustiques géants
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (5/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*Dozens of fist-sized mosquitoes, flying together for protection.*
+*(VO : Giant Mosquitoes)*
 
-**Motives & Tactics:** Fly away, harass, steal blood
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (5/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Des dizaines de moustiques gros comme le poing, qui volent ensemble pour se protéger.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/9 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −2 | **Proboscis:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+3 phy
+**Motivations et tactiques :** S’envoler, harceler, voler du sang
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Camouflage +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/9 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −2 | **Trompe :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+3 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Camouflage +2
 
-***Horde (1d4+1) - Passive:*** When the Mosquitoes have marked half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals **1d4+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+## APTITUDES
 
-***Flying - Passive:*** While flying, the Mosquitoes have a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+***Horde (1d4+1) - Passif :*** Lorsque les Moustiques ont marqué la moitié de leurs [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, leur attaque standard inflige **1d4+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
 
-***Bloodsucker - Reaction:*** When the Mosquitoes’ attack causes a target to mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force the target to mark an additional HP.
+***Vol - Passif :*** En vol, les Moustiques ont un bonus de +2 à leur [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
+
+***Suceurs de sang - Réaction :*** Lorsque l’attaque des Moustiques oblige une cible à marquer des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour forcer la cible à marquer un PV supplémentaire.

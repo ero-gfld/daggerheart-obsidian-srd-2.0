@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Skywarden’s Lamellar"
-tier: 3
-thresholds: "11/27"
-score: 5
-feature: "Vigilant: +2 to Evasion"
+aliases:
+  - "Skywarden’s Lamellar"
 ---
 
-# Skywarden’s Lamellar
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Lamellaire du gardien du ciel
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Skywarden’s Lamellar)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Vigilant:*** +2 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Vigilant :*** +2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

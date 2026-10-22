@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Vial of Moondrip"
-effect: "When you drink the contents of this vial, you can see in total darkness until your next rest."
+aliases:
+  - "Vial of Moondrip"
 ---
 
-# Vial of Moondrip
+# Fiole de goutte-lune
 
-When you drink the contents of this vial, you can see in total darkness until your next rest.
+*(VO : Vial of Moondrip)*
+
+Lorsque vous buvez le contenu de cette fiole, vous voyez dans l’obscurité totale jusqu’à votre prochain repos.

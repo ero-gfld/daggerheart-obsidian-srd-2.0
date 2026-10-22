@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Legendary Focus Runes"
-tier: 4
-category: "Secondary"
-type: "Magical"
-trait: "Instinct"
-range: "Very Close"
-damage: "d6+6 mag"
-burden: "One-Handed"
-feature: "Focused: +1 to primary weapon damage to targets within Very Close range"
+aliases:
+  - "Legendary Focus Runes"
 ---
 
-# Legendary Focus Runes
+# Runes de focalisation légendaires
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Legendary Focus Runes)*
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+6 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+6 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Focused:*** +1 to [primary weapon](../core_rules/Equipment.md#WEAPONS) damage to targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range
+### APTITUDE
+
+***Concentré :*** +1 aux dégâts de l’[arme principale](../core_rules/Equipment.md#ARMES) contre les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)

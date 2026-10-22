@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Young Dryad"
-tier: 1
-type: "Leader"
-description: "An imperious tree-person leading their forest’s defenses."
-difficulty: 11
-thresholds: "6/11"
-hp: 6
-stress: 2
-atk: "+0"
-attack: "Scythe"
-range: "Melee"
-damage: "1d8+5 phy"
-motives_and_tactics: "Command, nurture, prune the unwelcome"
-experience: "Leadership +3"
-features:
-  - "Voice of the Forest - Action"
-  - "Thorny Cage - Action"
-  - "Momentum - Reaction"
+aliases:
+  - "Young Dryad"
 ---
 
-# Young Dryad
+# Jeune dryade
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*An imperious tree-person leading their forest’s defenses.*
+*(VO : Young Dryad)*
 
-**Motives & Tactics:** Command, nurture, prune the unwelcome
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Une personne-arbre impérieuse qui dirige les défenses de sa forêt.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/11 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Scythe:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+5 phy
+**Motivations et tactiques :** Commander, nourrir, élaguer les indésirables
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Leadership +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/11 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Faux :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+5 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Commandement +3
 
-***Voice of the Forest - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) **1d4** allies within range of a target they can attack without moving. On a success, their attacks deal half damage.
+## APTITUDES
 
-***Thorny Cage - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to form a cage around a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* them until they’re freed with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll. When a creature makes an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) against the cage, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Voix de la forêt - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) **1d4** alliés à portée d’une cible qu’ils peuvent attaquer sans se déplacer. En cas de réussite, leurs attaques infligent la moitié des dégâts.
 
-***Momentum - Reaction:*** When the Dryad makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Cage d’épines - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour former une cage autour d’une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et l’*[entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle soit libérée avec un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi. Lorsqu’une créature fait un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) contre la cage, elle doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Élan - Réaction :*** Lorsque la Dryade réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

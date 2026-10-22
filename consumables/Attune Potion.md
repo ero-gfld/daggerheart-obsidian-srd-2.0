@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Attune Potion"
-effect: "You gain a +1 bonus to your next Instinct Roll."
+aliases:
+  - "Attune Potion"
 ---
 
-# Attune Potion
+# Potion d’accord
 
-You gain a +1 bonus to your next [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll.
+*(VO : Attune Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

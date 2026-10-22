@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Self-Sewing Thread"
-effect: "You can use this thread to clear either a Hit Point or 2 Armor Slots."
+aliases:
+  - "Self-Sewing Thread"
 ---
 
-# Self-Sewing Thread
+# Fil auto-cousant
 
-You can use this thread to clear either a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or 2 [Armor Slots](../core_rules/Equipment.md#ARMOR).
+*(VO : Self-Sewing Thread)*
+
+Vous pouvez utiliser ce fil pour libérer soit un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), soit 2 [emplacements d’armure](../core_rules/Equipment.md#ARMURE).

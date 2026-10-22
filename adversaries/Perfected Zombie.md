@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Perfected Zombie"
-tier: 4
-type: "Bruiser"
-description: "A towering, muscular zombie with magically infused strength and skill."
-difficulty: 20
-thresholds: "40/70"
-hp: 9
-stress: 4
-atk: "+4"
-attack: "Greataxe"
-range: "Very Close"
-damage: "4d12+15 phy"
-motives_and_tactics: "Consume, hound, maim, terrify"
-features:
-  - "Terrifying - Passive"
-  - "Fearsome Presence - Passive"
-  - "Perfect Strike - Action"
-  - "Skilled Opportunist - Reaction"
+aliases:
+  - "Perfected Zombie"
 ---
 
-# Perfected Zombie
+# Zombie parfait
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A towering, muscular zombie with magically infused strength and skill.*
+*(VO : Perfected Zombie)*
 
-**Motives & Tactics:** Consume, hound, maim, terrify
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un zombie colossal et musclé, dont la force et l'habileté sont imprégnées de magie.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 40/70 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Greataxe:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d12+15 phy
+**Motivations et tactiques :** Consommer, traquer, mutiler, terroriser
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 40/70 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Grande hache :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d12+15 phy
 
-***Terrifying - Passive:*** When the Zombie makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Fearsome Presence - Passive:*** [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can’t spend [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to use features against the Zombie.
+***Terrifiant - Passif :*** Lorsque le Zombie réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Perfect Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Zombie succeeds against are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next rest.
+***Présence redoutable - Passif :*** Les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne peuvent pas dépenser d'[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour utiliser des aptitudes contre le Zombie.
 
-***Skilled Opportunist - Reaction:*** When another [adversary](../core_rules/Using%20Adversaries.md) deals damage to a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Zombie, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to add the Zombie’s standard attack damage to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Frappe parfaite - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard contre toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Zombie réussit sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu'à leur prochain repos.
+
+***Opportuniste aguerri - Réaction :*** Lorsqu'un autre [adversaire](../core_rules/Using%20Adversaries.md) inflige des dégâts à une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Zombie, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ajouter les dégâts de l'attaque standard du Zombie au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

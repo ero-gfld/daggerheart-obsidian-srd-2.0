@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Portal Frames"
-effect: "This pair of small ornate frames, one red and one blue, are connected. Anything that passes into one exits from the other."
+aliases:
+  - "Portal Frames"
 ---
 
-# Portal Frames
+# Cadres de portail
 
-This pair of small ornate frames, one red and one blue, are connected. Anything that passes into one exits from the other.
+*(VO : Portal Frames)*
+
+Cette paire de petits cadres ouvragés, l’un rouge et l’autre bleu, sont reliés entre eux. Tout ce qui passe dans l’un ressort par l’autre.

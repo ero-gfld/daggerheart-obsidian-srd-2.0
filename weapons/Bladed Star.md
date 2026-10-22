@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Bladed Star"
-tier: 3
-category: "Primary"
-type: "Physical"
-trait: "Knowledge"
-range: "Close"
-damage: "d8+7 phy"
-burden: "One-Handed"
-feature: "Rebounding: When you throw this weapon, it returns to your hand. On a failed attack, you can reroll your attack with disadvantage."
+aliases:
+  - "Bladed Star"
 ---
 
-# Bladed Star
+# Étoile à lames
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Bladed Star)*
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+7 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+7 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Rebounding:*** When you throw this weapon, it returns to your hand. On a failed attack, you can reroll your attack with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+### APTITUDE
+
+***Rebondissant :*** lorsque vous lancez cette arme, elle revient dans votre main. Après une attaque ratée, vous pouvez relancer votre attaque avec [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).

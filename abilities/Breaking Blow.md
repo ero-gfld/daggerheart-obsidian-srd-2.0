@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Breaking Blow"
-domain: "Bone"
-level: 8
-type: "Ability"
-recall: 3
+aliases:
+  - "Breaking Blow"
 ---
 
-# Breaking Blow
+# Coup fracassant
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+*(VO : Breaking Blow)*
 
-When you make a successful attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the next successful attack against that same target deal an extra **2d12** damage.
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+Lorsque vous réussissez une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la prochaine attaque réussie contre cette même cible inflige **2d12** dégâts supplémentaires.

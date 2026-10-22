@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Legendary Scale Mail Armor"
-tier: 4
-thresholds: "15/39"
-score: 6
-feature: "Cumbersome: −1 to Finesse"
+aliases:
+  - "Legendary Scale Mail Armor"
 ---
 
-# Legendary Scale Mail Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cotte d’écailles légendaire
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 15 / 39  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Legendary Scale Mail Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 15 / 39  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Cumbersome:*** −1 to [Finesse](../core_rules/Character%20Creation.md#STEP%203)
+### APTITUDE
+
+***Encombrant :*** −1 à la [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

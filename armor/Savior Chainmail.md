@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Savior Chainmail"
-tier: 4
-thresholds: "18/48"
-score: 8
-feature: "Difficult: −1 to all character traits and Evasion"
+aliases:
+  - "Savior Chainmail"
 ---
 
-# Savior Chainmail
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cotte de mailles du sauveur
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 18 / 48  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 8
+*(VO : Savior Chainmail)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 18 / 48  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 8
 
-***Difficult:*** −1 to all character traits and [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Difficile :*** −1 à toutes les caractéristiques et à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

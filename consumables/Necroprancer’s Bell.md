@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Necroprancer’s Bell"
-effect: "You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise."
+aliases:
+  - "Necroprancer’s Bell"
 ---
 
-# Necroprancer’s Bell
+# Clochette du nécropranceur
 
-You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.
+*(VO : Necroprancer’s Bell)*
+
+Vous pouvez briser contre le sol cette cloche rouillée, sans battant, pour invoquer une monture squelettique qui sort de la terre et vous sert jusqu’au prochain lever du soleil.

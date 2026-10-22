@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Minor Stamina Potion"
-effect: "Clear 1d4 Stress."
+aliases:
+  - "Minor Stamina Potion"
 ---
 
-# Minor Stamina Potion
+# Potion d’endurance mineure
 
-Clear 1d4 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*(VO : Minor Stamina Potion)*
+
+Évacuez 1d4 [Stress](../core_rules/Core%20Mechanics.md#STRESS).

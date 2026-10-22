@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Homet’s Secret Potion"
-effect: "After drinking this potion, the next successful attack you make critically succeeds."
+aliases:
+  - "Homet’s Secret Potion"
 ---
 
-# Homet’s Secret Potion
+# Potion secrète de Homet
 
-After drinking this potion, the next successful attack you make critically succeeds.
+*(VO : Homet’s Secret Potion)*
+
+Après avoir bu cette potion, votre prochaine attaque réussie devient une réussite critique.

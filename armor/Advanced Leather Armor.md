@@ -1,18 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Advanced Leather Armor"
-tier: 3
-thresholds: "11/27"
-score: 5
+aliases:
+  - "Advanced Leather Armor"
 ---
 
-# Advanced Leather Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure de cuir avancée
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Advanced Leather Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
 
 —

@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Godbound Laminar"
-tier: 4
-thresholds: "13/36"
-score: 6
-feature: "Divine: When you mark an Armor Slot, gain a Hope."
+aliases:
+  - "Godbound Laminar"
 ---
 
-# Godbound Laminar
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure lamellaire de l’élu divin
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Godbound Laminar)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Divine:*** When you mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+### APTITUDE
+
+***Divin :*** Lorsque vous marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

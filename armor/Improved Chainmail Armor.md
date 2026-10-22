@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Improved Chainmail Armor"
-tier: 2
-thresholds: "11/24"
-score: 5
-feature: "Heavy: −1 to Evasion"
+aliases:
+  - "Improved Chainmail Armor"
 ---
 
-# Improved Chainmail Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cotte de mailles améliorée
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 24  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Improved Chainmail Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 24  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Heavy:*** −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Lourd :*** −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

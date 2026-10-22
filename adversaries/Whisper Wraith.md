@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Whisper Wraith"
-tier: 3
-type: "Skulk"
-description: "The echoes of broken promises and dreams unfulfilled, manifesting as a floating, translucent shroud of tattered black velvet in a vaguely humanoid shape."
-difficulty: 16
-thresholds: "20/32"
-hp: 6
-stress: 6
-atk: "+4"
-attack: "Shadow Touch"
-range: "Melee"
-damage: "3d8+4 mag"
-motives_and_tactics: "Bind limbs, drop from a great height, lift off the ground, swirl through the air, wrap around heads"
-experience: "Dreams +4"
-features:
-  - "Greater Specter - Passive"
-  - "Spooky - Passive"
-  - "Nightmare Shroud - Action"
+aliases:
+  - "Whisper Wraith"
 ---
 
-# Whisper Wraith
+# Spectre murmurant
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*The echoes of broken promises and dreams unfulfilled, manifesting as a floating, translucent shroud of tattered black velvet in a vaguely humanoid shape.*
+*(VO : Whisper Wraith)*
 
-**Motives & Tactics:** Bind limbs, drop from a great height, lift off the ground, swirl through the air, wrap around heads
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Les échos de promesses brisées et de rêves inaccomplis, qui prennent la forme d’un linceul translucide et flottant, en velours noir déchiré, à la silhouette vaguement humanoïde.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/32 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Shadow Touch:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+4 mag
+**Motivations et tactiques :** Lier les membres, tomber de très haut, s’élever au-dessus du sol, tournoyer dans les airs, s’enrouler autour des têtes
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Dreams +4
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 20/32 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Toucher d’ombre :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+4 mag
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Rêves +4
 
-***Greater Specter - Passive:*** The Wraith has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and can move through solid objects.
+## APTITUDES
 
-***Spooky - Passive:*** When the Wraith makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS), and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Grand spectre - Passif :*** Le Spectre a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et peut traverser les objets solides.
 
-***Nightmare Shroud - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Wraith wrap itself around a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, *Shrouding* the target until they succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll to dislodge the Wraith or the Wraith takes [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage. While *Shrouded,* the target has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) and marks a [Stress](../core_rules/Core%20Mechanics.md#STRESS) when they roll with Fear. Additionally, damage that would be dealt to the Wraith is split evenly between the Wraith and the *Shrouded* target.
+***Sinistre - Passif :*** Quand le Spectre réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Linceul cauchemardesque - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Spectre s’enroule autour d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), *enveloppant* la cible jusqu’à ce qu’elle réussisse un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour déloger le Spectre, ou jusqu’à ce que le Spectre subisse des [dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus. Tant qu’elle est *enveloppée*, la cible a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) et marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS) lorsqu’elle effectue un jet avec la Peur. De plus, les dégâts qui seraient infligés au Spectre sont répartis à parts égales entre le Spectre et la cible *enveloppée*.

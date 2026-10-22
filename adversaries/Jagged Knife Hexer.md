@@ -1,39 +1,24 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Jagged Knife Hexer"
-tier: 1
-type: "Support"
-description: "A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes."
-difficulty: 13
-thresholds: "5/9"
-hp: 4
-stress: 4
-atk: "+2"
-attack: "Staff"
-range: "Far"
-damage: "1d6+2 mag"
-motives_and_tactics: "Command, hex, profit"
-experience: "Magical Knowledge +2"
-features:
-  - "Curse - Action"
-  - "Chaotic Flux - Action"
+aliases:
+  - "Jagged Knife Hexer"
 ---
 
-# Jagged Knife Hexer
+# Envoûteur des Lames dentelées
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*
+*(VO : Jagged Knife Hexer)*
 
-**Motives & Tactics:** Command, hex, profit
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Un bandit au bâton, vêtu d’une cape ornée d’objets magiques, qui use de malédictions pour tourmenter ses ennemis.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/9 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Staff:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+2 mag
+**Motivations et tactiques :** Commander, maudire, faire du profit
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Magical [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/9 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Bâton :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+2 mag
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) magique +2
 
 ## FEATURES
 
-***Curse - Action:*** Choose a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and temporarily *Curse* them. While the target is *Cursed*, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** when that target rolls with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to make the roll be with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) instead.
+***Malédiction - Action :*** Choisissez une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et *maudissez*-la temporairement. Tant qu’elle est *Maudite*, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** lorsque cette cible lance les dés avec l’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour que le jet soit effectué avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) à la place.
 
-***Chaotic Flux - Action:*** Make an attack against up to three targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to deal **2d6+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to targets the Hexer succeeded against.
+***Flux chaotique - Action :*** Effectuez une attaque contre jusqu’à trois cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour infliger **2d6+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) aux cibles contre lesquelles l’envoûteur a réussi.

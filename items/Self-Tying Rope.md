@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Self-Tying Rope"
-effect: "You can command this rope to tie or untie itself."
+aliases:
+  - "Self-Tying Rope"
 ---
 
-# Self-Tying Rope
+# Corde auto-nouée
 
-You can command this rope to tie or untie itself.
+*(VO : Self-Tying Rope)*
+
+Vous pouvez ordonner à cette corde de se nouer ou de se dénouer toute seule.

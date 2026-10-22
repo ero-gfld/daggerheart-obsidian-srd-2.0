@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Belt of Unity"
-effect: "Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two."
+aliases:
+  - "Belt of Unity"
 ---
 
-# Belt of Unity
+# Ceinture de l’union
 
-Once per session, you can spend 5 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to lead a [Tag Team Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) with three [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) instead of two.
+*(VO : Belt of Unity)*
+
+Une fois par session, vous pouvez dépenser 5 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour diriger un [jet en tandem](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) à trois [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) au lieu de deux.

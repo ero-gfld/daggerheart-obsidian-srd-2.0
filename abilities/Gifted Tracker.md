@@ -1,22 +1,19 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Gifted Tracker"
-domain: "Sage"
-level: 1
-type: "Ability"
-recall: 0
+aliases:
+  - "Gifted Tracker"
 ---
 
-# Gifted Tracker
+# Pisteur doué
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+*(VO : Gifted Tracker)*
 
-When you’re tracking a specific creature or group of creatures based on signs of their passage, you can **spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) that many questions from the following list.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
 
-- What direction did they go?
-- How long ago did they pass through?
-- What were they doing in this location?
-- How many of them were here?
+Lorsque vous suivez une créature ou un groupe de créatures précis à partir des signes de leur passage, vous pouvez **dépenser autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** que vous voulez et poser au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) autant de questions de la liste suivante :
 
-When you encounter creatures you’ve tracked in this way, gain a +1 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against them.
+- Dans quelle direction sont-elles allées ?
+- Il y a combien de temps sont-elles passées par là ?
+- Que faisaient-elles à cet endroit ?
+- Combien étaient-elles ici ?
+
+Lorsque vous rencontrez des créatures que vous avez suivies de cette manière, gagnez un bonus de +1 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) face à elles.

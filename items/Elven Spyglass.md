@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Elven Spyglass"
-effect: "You can use this spyglass to magnify your vision a hundredfold."
+aliases:
+  - "Elven Spyglass"
 ---
 
-# Elven Spyglass
+# Lunette elfique
 
-You can use this spyglass to magnify your vision a hundredfold.
+*(VO : Elven Spyglass)*
+
+Vous pouvez utiliser cette lunette pour grossir votre vision cent fois.

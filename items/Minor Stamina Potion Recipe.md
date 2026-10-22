@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Minor Stamina Potion Recipe"
-effect: "As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion."
+aliases:
+  - "Minor Stamina Potion Recipe"
 ---
 
-# Minor Stamina Potion Recipe
+# Recette de potion d’endurance mineure
 
-As a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME), you can use the bone of a creature to craft a [Minor Stamina Potion](../consumables/Minor%20Stamina%20Potion.md).
+*(VO : Minor Stamina Potion Recipe)*
+
+Comme [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez utiliser l’os d’une créature pour fabriquer une [potion d’endurance mineure](../consumables/Minor%20Stamina%20Potion.md).

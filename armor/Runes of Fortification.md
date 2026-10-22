@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Runes of Fortification"
-tier: 3
-thresholds: "17/43"
-score: 6
-feature: "Painful: Each time you mark an Armor Slot, you must mark a Stress."
+aliases:
+  - "Runes of Fortification"
 ---
 
-# Runes of Fortification
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Runes de fortification
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 17 / 43  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Runes of Fortification)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 17 / 43  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Painful:*** Each time you mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+### APTITUDE
+
+***Douloureux :*** Chaque fois que vous marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), vous devez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

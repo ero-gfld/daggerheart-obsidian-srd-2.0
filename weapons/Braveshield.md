@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Braveshield"
-tier: 4
-category: "Secondary"
-type: "Physical"
-trait: "Agility"
-range: "Melee"
-damage: "d4+6 phy"
-burden: "One-Handed"
-feature: "Sheltering: When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage."
+aliases:
+  - "Braveshield"
 ---
 
-# Braveshield
+# Bouclier du brave
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Braveshield)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4+6 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4+6 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Sheltering:*** When you mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), it reduces damage for you and all allies within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of you who took the same damage.
+### APTITUDE
+
+***Abri :*** lorsque vous marquez un [emplacement d’armure](../core_rules/Equipment.md#ARMURE), cela réduit les dégâts pour vous et pour tous les alliés à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de vous qui ont subi les mêmes dégâts.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Gravity Bomb"
-effect: "You can throw this peach-sized mechanical orb at a point within Far range. It implodes and pulls all creatures and objects within Close range of that point into Melee range with it."
+aliases:
+  - "Gravity Bomb"
 ---
 
-# Gravity Bomb
+# Bombe de gravité
 
-You can throw this peach-sized mechanical orb at a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. It implodes and pulls all creatures and objects within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with it.
+*(VO : Gravity Bomb)*
+
+Vous pouvez lancer cette orbe mécanique de la taille d’une pêche sur un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Elle implose et attire toutes les créatures et tous les objets situés à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point jusqu’à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’elle.

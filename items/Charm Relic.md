@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Charm Relic"
-effect: "You gain a +1 bonus to your Presence. You can only carry one relic."
+aliases:
+  - "Charm Relic"
 ---
 
-# Charm Relic
+# Relique de charme
 
-You gain a +1 bonus to your [Presence](../core_rules/Character%20Creation.md#STEP%203). You can only carry one relic.
+*(VO : Charm Relic)*
+
+Vous gagnez un bonus de +1 à votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Vous ne pouvez porter qu’une seule relique.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Mythic Dust"
-effect: "You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon."
+aliases:
+  - "Mythic Dust"
 ---
 
-# Mythic Dust
+# Poussière mythique
 
-You can apply this dust to a weapon that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to add a d12 to your next [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.
+*(VO : Mythic Dust)*
+
+Vous pouvez appliquer cette poussière sur une arme qui inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour ajouter un d12 à votre prochain [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) avec cette arme.

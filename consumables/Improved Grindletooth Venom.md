@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Improved Grindletooth Venom"
-effect: "You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon."
+aliases:
+  - "Improved Grindletooth Venom"
 ---
 
-# Improved Grindletooth Venom
+# Venin de Broyedent amélioré
 
-You can apply this venom to a weapon that deals [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to add a d8 to your next [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.
+*(VO : Improved Grindletooth Venom)*
+
+Vous pouvez appliquer ce venin sur une arme qui inflige des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour ajouter un d8 à votre prochain [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) avec cette arme.

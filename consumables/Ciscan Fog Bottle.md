@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Ciscan Fog Bottle"
-effect: "You can break this jar to fill the area within Close range with magical mist. A creature who enters the mist clears a Stress and becomes Hidden."
+aliases:
+  - "Ciscan Fog Bottle"
 ---
 
-# Ciscan Fog Bottle
+# Fiole de brume ciscane
 
-You can break this jar to fill the area within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with magical mist. A creature who enters the mist clears a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and becomes *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+*(VO : Ciscan Fog Bottle)*
+
+Vous pouvez briser ce pot pour remplir la zone à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une brume magique. Une créature qui entre dans la brume évacue un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et devient *[Cachée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Potion of Stability"
-effect: "You can drink this potion to choose one additional downtime move."
+aliases:
+  - "Potion of Stability"
 ---
 
-# Potion of Stability
+# Potion de stabilité
 
-You can drink this potion to choose one additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME).
+*(VO : Potion of Stability)*
+
+Vous pouvez boire cette potion pour choisir une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) supplémentaire.

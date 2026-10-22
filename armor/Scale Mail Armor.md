@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Scale Mail Armor"
-tier: 1
-thresholds: "7/14"
-score: 3
-feature: "Cumbersome: −1 to Finesse"
+aliases:
+  - "Scale Mail Armor"
 ---
 
-# Scale Mail Armor
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cotte d’écailles
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 7 / 14  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 3
+*(VO : Scale Mail Armor)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 7 / 14  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 3
 
-***Cumbersome:*** −1 to [Finesse](../core_rules/Character%20Creation.md#STEP%203)
+### APTITUDE
+
+***Encombrant :*** −1 à la [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

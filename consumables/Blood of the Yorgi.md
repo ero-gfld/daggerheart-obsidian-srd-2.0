@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Blood of the Yorgi"
-effect: "You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range."
+aliases:
+  - "Blood of the Yorgi"
 ---
 
-# Blood of the Yorgi
+# Sang du Yorgi
 
-You can drink this blood to disappear from where you are and immediately reappear at a point you can see within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+*(VO : Blood of the Yorgi)*
+
+Vous pouvez boire ce sang pour disparaître de l’endroit où vous vous trouvez et réapparaître aussitôt en un point que vous voyez à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

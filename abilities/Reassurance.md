@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Reassurance"
-domain: "Splendor"
-level: 1
-type: "Ability"
-recall: 0
+aliases:
+  - "Reassurance"
 ---
 
-# Reassurance
+# Réconfort
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+*(VO : Reassurance)*
 
-Once per rest, after an ally attempts an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) but before the consequences take place, you can offer assistance or words of support. When you do, your ally can reroll their dice.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Une fois par repos, après qu’un allié a tenté un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) mais avant que les conséquences ne se produisent, vous pouvez lui offrir votre aide ou des mots de soutien. Si vous le faites, votre allié peut relancer ses dés.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Formoid Serum"
-effect: "You can drink this potion to become a swarm of 16 million ants until the end of the scene. You keep and have access to all equipment, loot, and features."
+aliases:
+  - "Formoid Serum"
 ---
 
-# Formoid Serum
+# Sérum formoïde
 
-You can drink this potion to become a swarm of 16 million ants until the end of the scene. You keep and have access to all equipment, loot, and features.
+*(VO : Formoid Serum)*
+
+Vous pouvez boire ce sérum pour devenir un essaim de 16 millions de fourmis jusqu’à la fin de la scène. Vous conservez et pouvez utiliser tout votre équipement, votre butin et vos aptitudes.

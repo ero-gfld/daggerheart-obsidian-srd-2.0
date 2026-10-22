@@ -1,40 +1,24 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Rabble Mawb"
-tier: 1
-type: "Horde"
-horde: 3
-description: "These cat-sized balls of hair, limbs, and teeth travel in a “mawb” of a dozen."
-difficulty: 8
-thresholds: "4/8"
-hp: 4
-stress: 2
-atk: "-2"
-attack: "Chomp"
-range: "Melee"
-damage: "1d6+3 phy"
-motives_and_tactics: "Chitter and chew, clump together, roll around"
-experience: "Underground +2"
-features:
-  - "Horde (1d4+1) - Passive"
-  - "Come Back Worse - Reaction"
+aliases:
+  - "Rabble Mawb"
 ---
 
-# Rabble Mawb
+# Populace mawb
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*These cat-sized balls of hair, limbs, and teeth travel in a “mawb” of a dozen.*
+*(VO : Rabble Mawb)*
 
-**Motives & Tactics:** Chitter and chew, clump together, roll around
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (3/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Ces boules de poils, de membres et de dents, grosses comme des chats, voyagent en « mawb » d'une douzaine.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 8 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −2 | **Chomp:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+3 phy
+**Motivations et tactiques :** Glapir et mastiquer, se regrouper, rouler sur soi-même
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Underground +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 8 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −2 | **Mastication :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+3 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Souterrain +2
 
-***Horde (1d4+1) - Passive:*** When the Rabble Mawb has marked half or more of its [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), its standard attack deals **1d4+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+## APTITUDES
 
-***Come Back Worse - Reaction:*** When the Rabble Mawb is defeated, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to bring it back to life, clearing all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS). The Rabble Mawb gains a bonus to all rolls equal to the number of times this feature has been used by this Rabble Mawb.
+***Horde (1d4+1) - Passif :*** Lorsque la Populace mawb a marqué la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, son attaque standard inflige **1d4+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***Revenir pire - Réaction :*** Lorsque la Populace mawb est vaincue, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la ramener à la vie, en effaçant tous ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et son [Stress](../core_rules/Core%20Mechanics.md#STRESS). La Populace mawb gagne un bonus à tous ses jets égal au nombre de fois où cette aptitude a déjà été utilisée par cette Populace mawb.

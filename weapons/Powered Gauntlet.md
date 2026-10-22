@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Powered Gauntlet"
-tier: 3
-category: "Secondary"
-type: "Physical"
-trait: "Knowledge"
-range: "Close"
-damage: "d6+4 phy"
-burden: "One-Handed"
-feature: "Charged: Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
+aliases:
+  - "Powered Gauntlet"
 ---
 
-# Powered Gauntlet
+# Gantelet motorisé
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Powered Gauntlet)*
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+4 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+4 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Charged:*** Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) on a [primary weapon](../core_rules/Equipment.md#WEAPONS) attack.
+### APTITUDE
+
+***Chargé :*** Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) lors d’une attaque avec une [arme principale](../core_rules/Equipment.md#ARMES).

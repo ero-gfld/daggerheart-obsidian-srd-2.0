@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Reckless"
-domain: "Blade"
-level: 2
-type: "Ability"
-recall: 1
+aliases:
+  - "Reckless"
 ---
 
-# Reckless
+# Téméraire
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : Reckless)*
 
-**Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on an attack.
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+**Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour gagner un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur une attaque.

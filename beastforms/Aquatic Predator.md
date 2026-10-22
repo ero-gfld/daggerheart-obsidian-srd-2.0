@@ -1,26 +1,18 @@
 ---
-tags:
-  - "daggerheart/beastform"
-name: "Aquatic Predator"
-tier: 3
-examples: "Dolphin, Orca, Shark, etc."
-trait_bonus: "Agility +2"
-evasion: "+4"
-attack: "Melee Agility d10+6 phy"
-advantages: "attack, swim, track"
-features:
-  - "Aquatic"
-  - "Vicious Maul"
+aliases:
+  - "Aquatic Predator"
 ---
 
-# Aquatic Predator
+# Prédateur aquatique
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Dolphin, Orca, Shark, etc.)
+*(VO : Aquatic Predator)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +4* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d10+6 phy*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Dauphin, orque, requin, etc.)
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, swim, track
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +4* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d10+6 phy*
 
-***Aquatic:*** You can breathe and move naturally underwater.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, nager, pister
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack.
+***Aquatique :*** Vous pouvez respirer et vous déplacer naturellement sous l’eau.
+
+***Déchiquetage vicieux :*** Quand vous réussissez une attaque contre une cible, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la rendre *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.

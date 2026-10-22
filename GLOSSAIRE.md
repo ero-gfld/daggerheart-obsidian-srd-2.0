@@ -312,3 +312,94 @@ Noms génériques du SRD (les noms propres à Chénaos, « les Hautes Maisons »
 | Shapeshifter | Métamorphe |
 | Vampire | Vampire |
 | Werewolf | Loup-garou |
+
+## Termes fixés pendant la traduction
+
+Tous *proposition*. Choisis par les traducteurs, puis harmonisés sur tout le SRD.
+
+### Verbes de jeu
+
+| Anglais | Français |
+|---|---|
+| mark (Stress, Hit Point, Armor Slot) | marquer |
+| clear (Stress) | évacuer |
+| clear (Hit Point, Armor Slot) | effacer |
+| clear (a condition) | retirer |
+| Restrain | entraver |
+
+### Cosmologie du SRD
+
+| Anglais | Français |
+|---|---|
+| Mortal Realm | Royaume mortel |
+| Hallows Above | Cieux sacrés |
+| Circles Below | Cercles inférieurs |
+| Faint Divinities | Divinités ténues |
+| Fallen Gods | Dieux déchus |
+
+### États propres aux cartes
+
+| Anglais | Français |
+|---|---|
+| Poisoned | Empoisonné |
+| Cloaked | Dissimulé (≠ Caché) |
+| Dazed / Stunned | Étourdi |
+| Grappled | Agrippé |
+| Enraptured | Ravi |
+| Horrified / Terrified | Horrifié / Terrifié |
+| Silenced | Réduit au silence |
+| Marked for Death | Marqué pour la mort |
+| Hexed | Maudit |
+| Asleep | Endormi |
+| Chained | Enchaîné |
+| On Fire / Ablaze | En feu / Embrasé |
+| Corroded | Corrodé |
+
+### Dés et ressources
+
+| Anglais | Français |
+|---|---|
+| Rally Die | dé de Ralliement |
+| Prayer Dice | dés de Prière |
+| Patron Die | dé de Patron |
+| Slayer Dice | dés de Tueur |
+| Combo Die | dé de Combo |
+| Aegis Die | dé d’Égide |
+| Favor | Faveur |
+| Focus (Bagarreur) | Concentration |
+| Ranger’s Focus / Focus (cible) | Focalisation du Rôdeur / *Proie* |
+| Martial Stances | Postures martiales |
+| token | jeton |
+| Fear pool | réserve de Peur |
+
+### Titres et étiquettes
+
+| Anglais | Français |
+|---|---|
+| FEATURES (adversaires, classes) | APTITUDES |
+| FEATURE (armes, armures) | APTITUDE |
+| Trait / Range / Damage (profil d’arme) | Caractéristique / Portée / Dégâts |
+| None (seuils) | Aucun |
+| Foundation / Specialization / Mastery feature | aptitude de Fondation / de Spécialisation / d’Excellence |
+| Spellcast trait | caractéristique d’Incantation |
+| Background questions / Connections | Questions d’historique / Liens |
+| Experience (exemple) | Expérience |
+| campaign frame | cadre de campagne |
+| session zero | séance zéro |
+
+### Aptitudes d’armes et d’armures
+
+Un nom par aptitude, choisi par vote sur toutes les fiches (`z_Outils/srd_fr/finaliser.py`). Les plus courants :
+
+| Anglais | Français |
+|---|---|
+| Reliable / Quick / Heavy / Paired | Fiable / Rapide / Lourd / Jumelé |
+| Massive / Powerful / Versatile | Massif / Puissant / Polyvalent |
+| Cumbersome / Bulky | Encombrant / Volumineux |
+| Bouncing / Rebounding | Rebond / Rebondissant |
+| Focused / Targeted | Concentré / Ciblé |
+| Follow-Up / Hooked / Aimed | Enchaînement / Accroché / Visée |
+| Startling / Otherworldly | Stupéfiant / D’outre-monde |
+| Timebending | Distorsion temporelle |
+| Reloading / Piercing / Returning / Stockpiled | Rechargement / Perforant / Revenant / Approvisionné |
+| Flexible / Very Heavy / Resilient / Reinforced | Souple / Très lourd / Résistant / Renforcé |

@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Adder’s Fang"
-tier: 4
-category: "Primary"
-type: "Magical"
-trait: "Finesse"
-range: "Melee"
-damage: "d8+9 mag"
-burden: "One-Handed"
-feature: "Venomous: When you deal Major or greater damage with this weapon, the target becomes temporarily Vulnerable."
+aliases:
+  - "Adder’s Fang"
 ---
 
-# Adder’s Fang
+# Croc de vipère
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Adder’s Fang)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+9 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+9 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Venomous:*** When you deal [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage with this weapon, the target becomes temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+### APTITUDE
+
+***Venimeux :*** Quand vous infligez des [dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus avec cette arme, la cible devient temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Windup Toy"
-effect: "This small mechanical device is shaped like a strixwolf pup and can be programmed to perform simple tricks."
+aliases:
+  - "Windup Toy"
 ---
 
-# Windup Toy
+# Jouet à remonter
 
-This small mechanical device is shaped like a strixwolf pup and can be programmed to perform simple tricks.
+*(VO : Windup Toy)*
+
+Ce petit appareil mécanique a la forme d’un louveteau strix et peut être programmé pour exécuter de simples tours.

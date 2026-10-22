@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Yutari Bloodbow"
-tier: 2
-category: "Primary"
-type: "Magical"
-trait: "Finesse"
-range: "Far"
-damage: "d6+4 mag"
-burden: "Two-Handed"
-feature: "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+aliases:
+  - "Yutari Bloodbow"
 ---
 
-# Yutari Bloodbow
+# Arc sanguin yutari
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Yutari Bloodbow)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+4 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+4 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+### APTITUDE
+
+***Brutal :*** Quand vous obtenez la valeur maximale sur un dé de dégâts, lancez un dé de dégâts supplémentaire.

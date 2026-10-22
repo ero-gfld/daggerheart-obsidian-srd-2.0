@@ -1,22 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Shortstaff"
-tier: 1
-category: "Primary"
-type: "Magical"
-trait: "Instinct"
-range: "Close"
-damage: "d8+1 mag"
-burden: "One-Handed"
+aliases:
+  - "Shortstaff"
 ---
 
-# Shortstaff
+# Bâton court
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Shortstaff)*
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+1 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+1 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
 
 —

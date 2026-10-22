@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Cockerel Claw Tea"
-effect: "You can drink this tea to refresh your features as if you had taken a long rest."
+aliases:
+  - "Cockerel Claw Tea"
 ---
 
-# Cockerel Claw Tea
+# Thé de griffe de coq
 
-You can drink this tea to refresh your features as if you had taken a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+*(VO : Cockerel Claw Tea)*
+
+Vous pouvez boire ce thé pour rafraîchir vos aptitudes comme si vous aviez pris un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

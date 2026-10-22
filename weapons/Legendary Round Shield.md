@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Legendary Round Shield"
-tier: 4
-category: "Secondary"
-type: "Physical"
-trait: "Strength"
-range: "Melee"
-damage: "d4+6 phy"
-burden: "One-Handed"
-feature: "Protective: +4 to Armor Score"
+aliases:
+  - "Legendary Round Shield"
 ---
 
-# Legendary Round Shield
+# Bouclier rond légendaire
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Legendary Round Shield)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4+6 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4+6 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Protective:*** +4 to [Armor Score](../core_rules/Equipment.md#ARMOR)
+### APTITUDE
+
+***Protecteur :*** +4 au [Score d’armure](../core_rules/Equipment.md#ARMURE)

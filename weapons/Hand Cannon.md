@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Hand Cannon"
-tier: 4
-category: "Primary"
-type: "Physical"
-trait: "Finesse"
-range: "Very Far"
-damage: "d6+12 phy"
-burden: "One-Handed"
-feature: "Reloading: After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again."
+aliases:
+  - "Hand Cannon"
 ---
 
-# Hand Cannon
+# Canon de main
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Hand Cannon)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+12 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+12 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Reloading:*** After you make an attack, roll a d6. On a 1, you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to reload this weapon before you can fire it again.
+### APTITUDE
+
+***Rechargement :*** Après une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour recharger cette arme avant de pouvoir tirer à nouveau.

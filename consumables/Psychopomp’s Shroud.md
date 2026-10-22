@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Psychopomp’s Shroud"
-effect: "You can place this shroud over the corpse of a recently deceased creature. The creature’s spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them."
+aliases:
+  - "Psychopomp’s Shroud"
 ---
 
-# Psychopomp’s Shroud
+# Linceul du psychopompe
 
-You can place this shroud over the corpse of a recently deceased creature. The creature’s spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them.
+*(VO : Psychopomp’s Shroud)*
+
+Vous pouvez placer ce linceul sur le cadavre d’une créature récemment décédée. L’esprit de la créature entre dans le linceul et devient votre assistant spectral jusqu’au prochain lever du soleil, moment où il franchit le voile de la mort et emporte le linceul avec lui.

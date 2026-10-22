@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Void Needle"
-tier: 4
-category: "Secondary"
-type: "Physical"
-trait: "Finesse"
-range: "Melee"
-damage: "d4+6 phy"
-burden: "One-Handed"
-feature: "Inverted: When you roll a weapon attack with Fear, you gain a Hope."
+aliases:
+  - "Void Needle"
 ---
 
-# Void Needle
+# Aiguille du vide
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Void Needle)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4+6 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4+6 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Inverted:*** When you roll a weapon attack with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+### APTITUDE
+
+***Inversé :*** Quand vous faites un jet d’attaque avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

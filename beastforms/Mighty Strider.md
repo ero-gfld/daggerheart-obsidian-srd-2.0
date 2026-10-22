@@ -1,26 +1,18 @@
 ---
-tags:
-  - "daggerheart/beastform"
-name: "Mighty Strider"
-tier: 2
-examples: "Camel, Horse, Zebra, etc."
-trait_bonus: "Agility +1"
-evasion: "+2"
-attack: "Melee Agility d8+1 phy"
-advantages: "leap, navigate, sprint"
-features:
-  - "Carrier"
-  - "Trample"
+aliases:
+  - "Mighty Strider"
 ---
 
-# Mighty Strider
+# Arpenteur puissant
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Camel, Horse, Zebra, etc.)
+*(VO : Mighty Strider)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d8+1 phy*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Chameau, cheval, zèbre, etc.)
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** leap, navigate, sprint
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d8+1 phy*
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** bondir, s’orienter, piquer un sprint
 
-***Trample:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a straight line and make an attack against all targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the line. Targets you succeed against take **d8+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) and are temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***Porteur :*** Vous pouvez emporter jusqu’à deux alliés consentants avec vous quand vous vous déplacez.
+
+***Piétinement :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous déplacer en ligne droite jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et attaquer toutes les cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de cette ligne. Les cibles contre lesquelles vous réussissez subissent **d8+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

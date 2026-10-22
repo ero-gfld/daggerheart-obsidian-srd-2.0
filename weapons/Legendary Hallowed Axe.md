@@ -1,22 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Legendary Hallowed Axe"
-tier: 4
-category: "Primary"
-type: "Magical"
-trait: "Strength"
-range: "Melee"
-damage: "d8+10 mag"
-burden: "One-Handed"
+aliases:
+  - "Legendary Hallowed Axe"
 ---
 
-# Legendary Hallowed Axe
+# Hache sacrée légendaire
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Legendary Hallowed Axe)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+10 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+10 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
 
 —

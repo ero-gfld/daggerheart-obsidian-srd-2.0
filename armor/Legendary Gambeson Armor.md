@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Legendary Gambeson Armor"
-tier: 4
-thresholds: "11/32"
-score: 6
-feature: "Flexible: +1 to Evasion"
+aliases:
+  - "Legendary Gambeson Armor"
 ---
 
-# Legendary Gambeson Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Gambison légendaire
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 32  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Legendary Gambeson Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 32  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Flexible:*** +1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Souple :*** +1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

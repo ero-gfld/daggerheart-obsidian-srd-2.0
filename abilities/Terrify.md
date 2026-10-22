@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Terrify"
-domain: "Dread"
-level: 3
-type: "Spell"
-recall: 1
+aliases:
+  - "Terrify"
 ---
 
-# Terrify
+# Terrifier
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Dread](../domains/Dread.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : Terrify)*
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target marks **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS), and you can make the target flee one range away from you (such as [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) to Close or Close to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)). On a [success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW), the target also becomes temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Effroi](../domains/Dread.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible située à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de succès, la cible marque **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS), et vous pouvez la forcer à fuir d’un palier de portée en vous éloignant (par exemple de [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à Proche, ou de Proche à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)). En cas de [succès avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U), la cible devient également temporairement [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).

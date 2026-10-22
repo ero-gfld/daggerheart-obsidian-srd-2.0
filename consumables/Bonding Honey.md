@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Bonding Honey"
-effect: "This honey can be used to glue two objects together permanently."
+aliases:
+  - "Bonding Honey"
 ---
 
-# Bonding Honey
+# Miel liant
 
-This honey can be used to glue two objects together permanently.
+*(VO : Bonding Honey)*
+
+Ce miel permet de coller deux objets ensemble de façon permanente.

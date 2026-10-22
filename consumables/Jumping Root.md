@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Jumping Root"
-effect: "Eat this root to leap up to Far range once without needing to roll."
+aliases:
+  - "Jumping Root"
 ---
 
-# Jumping Root
+# Racine bondissante
 
-Eat this root to leap up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range once without needing to roll.
+*(VO : Jumping Root)*
+
+Mangez cette racine pour bondir une fois jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), sans avoir à faire de jet.

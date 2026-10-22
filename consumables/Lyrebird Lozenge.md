@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Lyrebird Lozenge"
-effect: "You can dissolve this lozenge in your mouth to perfectly mimic any voice you’ve heard until the end of the scene."
+aliases:
+  - "Lyrebird Lozenge"
 ---
 
-# Lyrebird Lozenge
+# Pastille d’oiseau-lyre
 
-You can dissolve this lozenge in your mouth to perfectly mimic any voice you’ve heard until the end of the scene.
+*(VO : Lyrebird Lozenge)*
+
+Vous pouvez faire fondre cette pastille dans votre bouche pour imiter parfaitement n’importe quelle voix que vous avez entendue jusqu’à la fin de la scène.

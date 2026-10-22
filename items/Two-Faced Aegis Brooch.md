@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Two-Faced Aegis Brooch"
-effect: "Once per rest, flip a coin. On heads, you become immune to the next physical damage you take. On tails, you become immune to the next magic damage you take."
+aliases:
+  - "Two-Faced Aegis Brooch"
 ---
 
-# Two-Faced Aegis Brooch
+# Broche à double égide
 
-Once per rest, flip a coin. On heads, you become [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to the next [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) you take. On tails, you become immune to the next [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) you take.
+*(VO : Two-Faced Aegis Brooch)*
+
+Une fois par repos, lancez une pièce. Sur face, vous devenez [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les prochains [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) que vous subissez. Sur pile, vous devenez immunisé contre les prochains [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) que vous subissez.

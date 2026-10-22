@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Gecko Gloves"
-effect: "You can climb up vertical surfaces and across ceilings."
+aliases:
+  - "Gecko Gloves"
 ---
 
-# Gecko Gloves
+# Gants gecko
 
-You can climb up vertical surfaces and across ceilings.
+*(VO : Gecko Gloves)*
+
+Vous pouvez grimper le long des surfaces verticales et vous déplacer sur les plafonds.

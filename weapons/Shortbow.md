@@ -1,22 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Shortbow"
-tier: 1
-category: "Primary"
-type: "Physical"
-trait: "Agility"
-range: "Far"
-damage: "d6+3 phy"
-burden: "Two-Handed"
+aliases:
+  - "Shortbow"
 ---
 
-# Shortbow
+# Arc court
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Shortbow)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+3 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+3 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
 
 —

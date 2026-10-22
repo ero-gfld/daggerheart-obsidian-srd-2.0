@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Godling’s Pomelo"
-effect: "You can eat this citrus fruit to clear all Hit Points and Stress."
+aliases:
+  - "Godling’s Pomelo"
 ---
 
-# Godling’s Pomelo
+# Pomelo du dieu mineur
 
-You can eat this citrus fruit to clear all [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*(VO : Godling’s Pomelo)*
+
+Vous pouvez manger cet agrume pour libérer tous vos [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et évacuer tout le [Stress](../core_rules/Core%20Mechanics.md#STRESS).

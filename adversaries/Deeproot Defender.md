@@ -1,39 +1,24 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Deeproot Defender"
-tier: 1
-type: "Bruiser"
-description: "A burly vegetable-person with grasping vines."
-difficulty: 10
-thresholds: "8/14"
-hp: 7
-stress: 3
-atk: "+2"
-attack: "Vines"
-range: "Close"
-damage: "1d8+3 phy"
-motives_and_tactics: "Ambush, grab, protect, pummel"
-experience: "Huge +3"
-features:
-  - "Ground Slam - Action"
-  - "Grab and Drag - Action"
+aliases:
+  - "Deeproot Defender"
 ---
 
-# Deeproot Defender
+# Défenseur des racines profondes
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A burly vegetable-person with grasping vines.*
+*(VO : Deeproot Defender)*
 
-**Motives & Tactics:** Ambush, grab, protect, pummel
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Colosse à l’apparence de légume, aux vrilles préhensiles.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/14 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Vines:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+3 phy
+**Motivations et tactiques :** Embusquer, saisir, protéger, rouer de coups
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Huge +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/14 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Vrilles :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+3 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Imposant +3
 
-***Ground Slam - Action:*** Slam the ground, knocking all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target knocked back this way must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Grab and Drag - Action:*** Make an attack against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to pull them into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, deal **1d6+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), and *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* them until the Defender takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Frappe au sol - Action :*** Frappez le sol, ce qui repousse toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible repoussée de cette façon marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Saisir et traîner - Action :*** Faites une attaque contre une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour l’attirer à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), lui infliger **1d6+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), et l’[Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu’à ce que le Défenseur subisse des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Dagginae’s Obsidian Slate"
-effect: "This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set."
+aliases:
+  - "Dagginae’s Obsidian Slate"
 ---
 
-# Dagginae’s Obsidian Slate
+# Ardoise d’obsidienne de Dagginae
 
-This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set.
+*(VO : Dagginae’s Obsidian Slate)*
+
+Cette plaque de verre volcanique, fine comme une feuille, sert aux archivistes pour prendre des notes. Toute information gravée à sa surface disparaît, mais peut être rappelée par une commande que vous définissez.

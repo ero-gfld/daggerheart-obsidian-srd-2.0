@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Deadly Focus"
-domain: "Blade"
-level: 4
-type: "Ability"
-recall: 2
+aliases:
+  - "Deadly Focus"
 ---
 
-# Deadly Focus
+# Concentration mortelle
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+*(VO : Deadly Focus)*
 
-Once per rest, you can apply all your focus toward a target of your choice. Until you attack another creature, you defeat the target, or the battle ends, gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Une fois par repos, vous pouvez concentrer toute votre attention sur une cible de votre choix. Jusqu’à ce que vous attaquiez une autre créature, que vous vainquiez la cible ou que le combat prenne fin, gagnez un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).

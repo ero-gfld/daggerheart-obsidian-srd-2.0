@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Deathseer’s Powder"
-effect: "You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life."
+aliases:
+  - "Deathseer’s Powder"
 ---
 
-# Deathseer’s Powder
+# Poudre du devin funèbre
 
-You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.
+*(VO : Deathseer’s Powder)*
+
+Vous pouvez saupoudrer cette poudre sur le cadavre d’une créature récemment décédée pour faire apparaître une reprise spectrale de sa dernière minute de vie.

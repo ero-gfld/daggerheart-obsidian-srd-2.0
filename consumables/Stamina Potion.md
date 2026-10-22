@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Stamina Potion"
-effect: "Clear 1d4+1 Stress."
+aliases:
+  - "Stamina Potion"
 ---
 
-# Stamina Potion
+# Potion d’endurance
 
-Clear 1d4+1 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*(VO : Stamina Potion)*
+
+Évacuez 1d4+1 [Stress](../core_rules/Core%20Mechanics.md#STRESS).

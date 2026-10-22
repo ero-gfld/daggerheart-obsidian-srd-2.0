@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Control Potion"
-effect: "You gain a +1 bonus to your Finesse until your next rest."
+aliases:
+  - "Major Control Potion"
 ---
 
-# Major Control Potion
+# Potion de contrôle majeure
 
-You gain a +1 bonus to your [Finesse](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+*(VO : Major Control Potion)*
+
+Vous gagnez un bonus de +1 à votre [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

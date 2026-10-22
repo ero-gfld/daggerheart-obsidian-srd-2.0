@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Demiurge’s Draught"
-effect: "You can drink this draught to gain a +1 bonus to your Proficiency for your next successful attack roll."
+aliases:
+  - "Demiurge’s Draught"
 ---
 
-# Demiurge’s Draught
+# Philtre du démiurge
 
-You can drink this draught to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for your next successful [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Demiurge’s Draught)*
+
+Vous pouvez boire ce philtre pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour votre prochain [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) réussi.

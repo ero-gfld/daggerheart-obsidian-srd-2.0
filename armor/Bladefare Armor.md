@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Bladefare Armor"
-tier: 3
-thresholds: "16/39"
-score: 6
-feature: "Physical: You can’t mark an Armor Slot to reduce magic damage."
+aliases:
+  - "Bladefare Armor"
 ---
 
-# Bladefare Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure Bladefare
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 16 / 39  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Bladefare Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 16 / 39  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Physical:*** You can’t mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) to reduce [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+### APTITUDE
+
+***Physique :*** Vous ne pouvez pas marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour réduire des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

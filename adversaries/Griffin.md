@@ -1,39 +1,24 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Griffin"
-tier: 4
-type: "Standard"
-description: "A large leonine creature that has the head, talons, and wings of an eagle."
-difficulty: 18
-thresholds: "30/45"
-hp: 6
-stress: 4
-atk: "+4"
-attack: "Beak & Talons"
-range: "Very Close"
-damage: "4d8+4 phy"
-motives_and_tactics: "Hunt, look for an opening, swoop"
-experience: "Riches +5, Keen Senses +3"
-features:
-  - "Treasure Hoarder - Passive"
-  - "Swooping Slash - Action"
+aliases:
+  - "Griffin"
 ---
 
-# Griffin
+# Griffon
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A large leonine creature that has the head, talons, and wings of an eagle.*
+*(VO : Griffin)*
 
-**Motives & Tactics:** Hunt, look for an opening, swoop
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Une grande créature léonine, à la tête, aux serres et aux ailes d’aigle.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 30/45 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Beak & Talons:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+4 phy
+**Motivations et tactiques :** Chasser, guetter une ouverture, piquer en piqué
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Riches +5, Keen Senses +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 30/45 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Bec et serres :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d8+4 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Richesse +5, Sens aiguisés +3
 
-***Treasure Hoarder - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) would mark any number of [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from the Griffin’s attack, the PC can choose instead to give the Griffin an equal number of bags of gold.
+## APTITUDES
 
-***Swooping Slash - Action:*** Move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make a standard attack against a target along the way.
+***Accapareur de trésors - Passif :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) devrait marquer des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de l’attaque du Griffon, il peut choisir de donner au Griffon, à la place, un nombre égal de bourses d’or.
+
+***Piqué en fauchant - Action :*** Déplacez-vous jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectuez une attaque standard contre une cible sur le chemin.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Map of Revelation"
-effect: "You can attune this map to one creature at a time. The map always shows the attuned creature’s location."
+aliases:
+  - "Map of Revelation"
 ---
 
-# Map of Revelation
+# Carte de révélation
 
-You can attune this map to one creature at a time. The map always shows the attuned creature’s location.
+*(VO : Map of Revelation)*
+
+Vous pouvez accorder cette carte à une seule créature à la fois. La carte montre toujours la position de la créature accordée.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Nightmare Mead"
-effect: "You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear."
+aliases:
+  - "Nightmare Mead"
 ---
 
-# Nightmare Mead
+# Hydromel cauchemardesque
 
-You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+*(VO : Nightmare Mead)*
+
+Vous pouvez boire cette potion pour découvrir la plus grande peur de la prochaine personne que vous croisez du regard. Lorsque vous le faites, le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) gagne une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

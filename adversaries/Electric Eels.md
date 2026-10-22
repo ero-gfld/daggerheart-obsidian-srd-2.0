@@ -1,37 +1,22 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Electric Eels"
-tier: 2
-type: "Horde"
-horde: 2
-description: "A swarm of eels that encircle and electrocute."
-difficulty: 14
-thresholds: "10/20"
-hp: 5
-stress: 3
-atk: "+0"
-attack: "Shocking Bite"
-range: "Melee"
-damage: "2d6+4 phy"
-motives_and_tactics: "Avoid larger predators, shock prey, tear apart"
-features:
-  - "Horde (2d4+1) - Passive"
-  - "Paralyzing Shock - Action"
+aliases:
+  - "Electric Eels"
 ---
 
-# Electric Eels
+# Anguilles électriques
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (2/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*A swarm of eels that encircle and electrocute.*
+*(VO : Electric Eels)*
 
-**Motives & Tactics:** Avoid larger predators, shock prey, tear apart
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (2/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Un essaim d’anguilles qui encerclent et électrocutent.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10/20 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Shocking Bite:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+4 phy
+**Motivations et tactiques :** Éviter les grands prédateurs, électrocuter les proies, déchiqueter
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10/20 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Morsure électrique :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+4 phy
 
-***Horde (2d4+1) - Passive:*** When the Eels have marked half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals **2d4+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+## APTITUDES
 
-***Paralyzing Shock - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. You gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each target that marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Horde (2d4+1) - Passif :*** Quand les anguilles ont marqué la moitié de leurs [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, leur attaque standard inflige **2d4+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***Décharge paralysante - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour faire une attaque standard contre toutes les cibles à [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour chaque cible qui marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

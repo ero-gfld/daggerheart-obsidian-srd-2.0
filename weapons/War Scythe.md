@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "War Scythe"
-tier: 2
-category: "Primary"
-type: "Physical"
-trait: "Finesse"
-range: "Very Close"
-damage: "d8+5 phy"
-burden: "Two-Handed"
-feature: "Reliable: +1 to attack rolls"
+aliases:
+  - "War Scythe"
 ---
 
-# War Scythe
+# Faux de guerre
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : War Scythe)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+5 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+5 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Reliable:*** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+### APTITUDE
+
+***Fiable :*** +1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER)

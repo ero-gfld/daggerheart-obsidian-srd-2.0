@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Collapsible Pole"
-effect: "You can break down this 18-foot pole into six interlinked 3-foot segments."
+aliases:
+  - "Collapsible Pole"
 ---
 
-# Collapsible Pole
+# Perche pliante
 
-You can break down this 18-foot pole into six interlinked 3-foot segments.
+*(VO : Collapsible Pole)*
+
+Vous pouvez démonter cette perche de 18 pieds en six segments de 3 pieds reliés entre eux.

@@ -1,29 +1,21 @@
 ---
-tags:
-  - "daggerheart/environment"
-name: "Ambushed"
-tier: 1
-type: "Event"
-description: "An ambush is set to catch an unsuspecting party off-guard."
-difficulty: "Special (see “Relative Strength”)"
-impulses: "Overwhelm, scatter, surround"
-potential_adversaries: "Any"
-features:
-  - "Relative Strength - Passive"
-  - "Surprise! - Action"
+aliases:
+  - "Ambushed"
 ---
 
-# Ambushed
+# Pris en embuscade
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***
-*An ambush is set to catch an unsuspecting party off-guard.*
+*(VO : Ambushed)*
 
-**Impulses:** Overwhelm, scatter, surround
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Événement](../core_rules/Using%20Environments.md)***
+*Une embuscade est tendue pour surprendre un groupe qui ne se méfie pas.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** Special (see “Relative [Strength](../core_rules/Character%20Creation.md#STEP%203)”) | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Any
+**Pulsions :** Submerger, disperser, encercler
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** Spéciale (voir « [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) relative ») | **[Adversaires](../core_rules/Using%20Adversaries.md) possibles :** Tous
 
-***Relative Strength - Passive:*** The [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) of this [environment](../core_rules/Using%20Environments.md) equals that of the [adversary](../core_rules/Using%20Adversaries.md) with the highest Difficulty. *Who cues the ambush? What makes it clear they’re in charge?*
+## Aptitudes
 
-***Surprise! - Action:*** The ambushers reveal themselves to the party, you gain 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), and the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) immediately shifts to one of the ambushing [adversaries](../core_rules/Using%20Adversaries.md). *What do the ambushers want from the party? How do their tactics in* *the ambush reflect that?*
+***Force relative - Passif :*** La [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de cet [environnement](../core_rules/Using%20Environments.md) est égale à celle de l’[adversaire](../core_rules/Using%20Adversaries.md) ayant la Difficulté la plus élevée. *Qui donne le signal de l’embuscade ? Qu’est-ce qui montre clairement qu’il est aux commandes ?*
+
+***Surprise ! - Action :*** Les embusqueurs se révèlent au groupe, vous gagnez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), et [les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) passent immédiatement à l’un des [adversaires](../core_rules/Using%20Adversaries.md) embusqués. *Que veulent les embusqueurs au groupe ? Comment leurs tactiques dans l’embuscade reflètent-elles cela ?*

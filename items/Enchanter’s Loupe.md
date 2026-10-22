@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Enchanter’s Loupe"
-effect: "You can use this loupe to see through illusions and enchantments."
+aliases:
+  - "Enchanter’s Loupe"
 ---
 
-# Enchanter’s Loupe
+# Loupe de l’enchanteur
 
-You can use this loupe to see through illusions and enchantments.
+*(VO : Enchanter’s Loupe)*
+
+Vous pouvez utiliser cette loupe pour voir au travers des illusions et des enchantements.

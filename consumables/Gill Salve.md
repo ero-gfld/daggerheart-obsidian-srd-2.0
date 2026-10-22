@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Gill Salve"
-effect: "You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level."
+aliases:
+  - "Gill Salve"
 ---
 
-# Gill Salve
+# Baume branchial
 
-You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level.
+*(VO : Gill Salve)*
+
+Vous pouvez appliquer cet onguent sur votre cou pour respirer sous l’eau pendant un nombre de minutes égal à votre niveau.

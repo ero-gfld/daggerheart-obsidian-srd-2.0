@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Collar of Ascendancy"
-effect: "An animal who wears this collar gains the ability to speak and understand common speech."
+aliases:
+  - "Collar of Ascendancy"
 ---
 
-# Collar of Ascendancy
+# Collier de prédominance
 
-An animal who wears this collar gains the ability to speak and understand common speech.
+*(VO : Collar of Ascendancy)*
+
+Un animal qui porte ce collier acquiert la capacité de parler et de comprendre la langue courante.

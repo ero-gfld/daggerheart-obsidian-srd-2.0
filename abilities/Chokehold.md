@@ -1,17 +1,14 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Chokehold"
-domain: "Midnight"
-level: 3
-type: "Ability"
-recall: 1
+aliases:
+  - "Chokehold"
 ---
 
-# Chokehold
+# Étranglement
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : Chokehold)*
 
-When you position yourself behind a creature who’s about your size, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to pull them into a chokehold, making them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-When a creature attacks a target who is *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* in this way, they deal an extra **2d6** damage.
+Lorsque vous vous placez derrière une créature à peu près de votre taille, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour l’entraîner dans une prise d’étranglement, la rendant temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
+
+Lorsqu’une créature attaque une cible *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* de cette façon, elle inflige **2d6** dégâts supplémentaires.

@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Legendary Greatstaff"
-tier: 4
-category: "Primary"
-type: "Magical"
-trait: "Knowledge"
-range: "Very Far"
-damage: "d6+9 mag"
-burden: "Two-Handed"
-feature: "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+aliases:
+  - "Legendary Greatstaff"
 ---
 
-# Legendary Greatstaff
+# Grand bâton légendaire
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Legendary Greatstaff)*
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+9 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+9 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+### APTITUDE
+
+***Puissant :*** En cas d’attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Flickerfly Pendant"
-effect: "While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range."
+aliases:
+  - "Flickerfly Pendant"
 ---
 
-# Flickerfly Pendant
+# Pendentif de papillon scintillant
 
-While you carry this pendant, your weapons with a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range that deal [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) have a gossamer sheen and can attack targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+*(VO : Flickerfly Pendant)*
+
+Tant que vous portez ce pendentif, vos armes à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) qui infligent des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) ont un reflet diaphane et peuvent attaquer des cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

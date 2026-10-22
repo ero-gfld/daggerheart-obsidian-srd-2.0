@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Packet of Space Dust"
-effect: "This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour."
+aliases:
+  - "Packet of Space Dust"
 ---
 
-# Packet of Space Dust
+# Sachet de poussière d’espace
 
-This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour.
+*(VO : Packet of Space Dust)*
+
+Cette poussière rend plus léger que l’air tout ce qu’elle recouvre. Un sachet suffit à couvrir le contenu d’un panier de pique-nique, et ses effets durent une heure.

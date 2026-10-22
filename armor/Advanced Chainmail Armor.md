@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Advanced Chainmail Armor"
-tier: 3
-thresholds: "13/31"
-score: 6
-feature: "Heavy: −1 to Evasion"
+aliases:
+  - "Advanced Chainmail Armor"
 ---
 
-# Advanced Chainmail Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cotte de mailles avancée
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 31  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Advanced Chainmail Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 31  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Heavy:*** −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+### APTITUDE
+
+***Lourd :*** −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Glamour Stone"
-effect: "Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a Hope to magically recreate this guise on yourself as an illusion."
+aliases:
+  - "Glamour Stone"
 ---
 
-# Glamour Stone
+# Pierre d’enchantement
 
-Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to magically recreate this guise on yourself as an illusion.
+*(VO : Glamour Stone)*
+
+Activez cette pierre de la taille d’un caillou pour mémoriser l’apparence de quelqu’un que vous voyez. Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour vous recréer magiquement cette apparence sous forme d’illusion.

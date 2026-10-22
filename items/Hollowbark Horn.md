@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Hollowbark Horn"
-effect: "You can blow this horn to summon a small woodland creature to perform a simple task."
+aliases:
+  - "Hollowbark Horn"
 ---
 
-# Hollowbark Horn
+# Cor d’écorce creuse
 
-You can blow this horn to summon a small woodland creature to perform a simple task.
+*(VO : Hollowbark Horn)*
+
+Vous pouvez souffler dans ce cor pour appeler une petite créature des bois qui accomplira une tâche simple.

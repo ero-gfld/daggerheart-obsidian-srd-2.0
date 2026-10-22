@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Empty Chest"
-effect: "This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it."
+aliases:
+  - "Empty Chest"
 ---
 
-# Empty Chest
+# Coffre vide
 
-This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it.
+*(VO : Empty Chest)*
+
+Ce coffre magique semble vide. Lorsque vous prononcez un mot ou accomplissez une action déclencheurs précis puis ouvrez le coffre, vous pouvez voir les objets qu’il renferme.

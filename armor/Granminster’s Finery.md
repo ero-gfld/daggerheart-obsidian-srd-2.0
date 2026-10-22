@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Granminster’s Finery"
-tier: 3
-thresholds: "11/27"
-score: 2
-feature: "Magnificent: Gain a bonus to your Armor Score equal to your Presence."
+aliases:
+  - "Granminster’s Finery"
 ---
 
-# Granminster’s Finery
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Atours de Granminster
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 2
+*(VO : Granminster’s Finery)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 2
 
-***Magnificent:*** Gain a bonus to your [Armor Score](../core_rules/Equipment.md#ARMOR) equal to your [Presence](../core_rules/Character%20Creation.md#STEP%203).
+### APTITUDE
+
+***Magnifique :*** Gagnez un bonus à votre [Score d’armure](../core_rules/Equipment.md#ARMURE) égal à votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

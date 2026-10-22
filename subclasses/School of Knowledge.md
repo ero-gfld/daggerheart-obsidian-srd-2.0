@@ -1,41 +1,32 @@
 ---
-tags:
-  - "daggerheart/subclass"
-name: "School of Knowledge"
-class: "Wizard"
-spellcast_trait: "Knowledge"
-description: "Play the School of Knowledge if you want a keen understanding of the world around you."
-features:
-  - "Prepared"
-  - "Adept"
-  - "Accomplished"
-  - "Perfect Recall"
-  - "Brilliant"
-  - "Honed Expertise"
+aliases:
+  - "School of Knowledge"
 ---
 
-# School of Knowledge
+# École du Savoir
 
-Play the School of Knowledge if you want a keen understanding of the world around you.
+*(VO : School of Knowledge)*
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+Jouez l’École du Savoir si vous voulez comprendre finement le monde qui vous entoure.
 
-[Knowledge](../core_rules/Character%20Creation.md#STEP%203)
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-**FOUNDATION FEATURES**
+[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Prepared:*** Take an additional [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) of your level or lower from a domain you have access to.
+**APTITUDES DE FONDATION**
 
-***Adept:*** When you [Utilize an Experience](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of spending a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). If you do, double your [Experience](../core_rules/Character%20Creation.md#STEP%207) modifier for that roll.
+***Préparé :*** Prenez une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) supplémentaire de votre niveau ou inférieur, dans un domaine auquel vous avez accès.
 
-**SPECIALIZATION FEATURES**
+***Adepte :*** Quand vous [utilisez une Expérience](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** au lieu de dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Dans ce cas, doublez votre modificateur d’[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) pour ce jet.
 
-***Accomplished:*** Take an additional [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) of your level or lower from a domain you have access to.
+**APTITUDES DE SPÉCIALISATION**
 
-***Perfect Recall:*** Once per rest, when you recall a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS), you can reduce its [Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS) by 1.
+***Accompli :*** Prenez une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) supplémentaire de votre niveau ou inférieur, dans un domaine auquel vous avez accès.
 
-**MASTERY FEATURES**
+***Rappel parfait :*** Une fois par repos, quand vous rappelez une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE), vous pouvez réduire son [Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de 1.
 
-***Brilliant:*** Take an additional [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) of your level or lower from a domain you have access to.
+**APTITUDES D’EXCELLENCE**
 
-***Honed Expertise:*** When you use an [Experience](../core_rules/Character%20Creation.md#STEP%207), roll a **d6.** On a result of 5 or higher, you can use it without spending [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Brillant :*** Prenez une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) supplémentaire de votre niveau ou inférieur, dans un domaine auquel vous avez accès.
+
+***Expertise affûtée :*** Quand vous utilisez une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207), lancez un **d6.** Sur un résultat de 5 ou plus, vous pouvez l’utiliser sans dépenser d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

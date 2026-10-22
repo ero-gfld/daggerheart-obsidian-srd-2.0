@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Force Disc"
-effect: "This shimmering two-dimensional disc of magical force has a 4-foot diameter and is magically tethered to a pebble. The disc always floats 3 feet north of, and at the same elevation as, the pebble. The pebble has a mass equal to one-hundredth of the total mass carried by the disc."
+aliases:
+  - "Force Disc"
 ---
 
-# Force Disc
+# Disque de force
 
-This shimmering two-dimensional disc of magical force has a 4-foot diameter and is magically tethered to a pebble. The disc always floats 3 feet north of, and at the same elevation as, the pebble. The pebble has a mass equal to one-hundredth of the total mass carried by the disc.
+*(VO : Force Disc)*
+
+Ce disque chatoyant de force magique, bidimensionnel, mesure 4 pieds de diamètre et est magiquement relié à un caillou. Le disque flotte toujours à 3 pieds au nord du caillou, à la même altitude que lui. Le caillou a une masse égale à un centième de la masse totale transportée par le disque.

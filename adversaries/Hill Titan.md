@@ -1,48 +1,30 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Hill Titan"
-tier: 2
-type: "Solo"
-description: "A goliath clad in animal skins and surrounded by a swarm of insects."
-difficulty: 14
-thresholds: "13/26"
-hp: 10
-stress: 5
-atk: "+3"
-attack: "Tree Stump"
-range: "Very Close"
-damage: "2d10+4 phy"
-motives_and_tactics: "Eat, make a mess, patrol stomping grounds"
-experience: "Survival +3, Vengeful +3"
-features:
-  - "Relentless (3) - Passive"
-  - "Momentum - Passive"
-  - "Gullible - Passive"
-  - "Bug Swarm - Passive"
-  - "Mighty Swing - Action"
+aliases:
+  - "Hill Titan"
 ---
 
-# Hill Titan
+# Titan des collines
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A goliath clad in animal skins and surrounded by a swarm of insects.*
+*(VO : Hill Titan)*
 
-**Motives & Tactics:** Eat, make a mess, patrol stomping grounds
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un goliath vêtu de peaux de bêtes et entouré d’un essaim d’insectes.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 13/26 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Tree Stump:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+4 phy
+**Motivations et tactiques :** Manger, faire du désordre, patrouiller sur son territoire
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Survival +3, Vengeful +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 13/26 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Souche d’arbre :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+4 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Survie +3, Revanche +3
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Titan can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Implacable (3) - Passif :*** Le titan peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Momentum - Passive:*** When the Titan makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Élan - Passif :*** Lorsque le titan réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Gullible - Passive:*** [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to trick or emotionally manipulate the Titan.
+***Crédule - Passif :*** Les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ont un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux [jets d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour tromper le titan ou le manipuler émotionnellement.
 
-***Bug Swarm - Passive:*** [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* while within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Nuée d’insectes - Passif :*** Les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* lorsqu’ils se trouvent à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Mighty Swing - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make a standard attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Balayage puissant - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effectuer une attaque standard contre toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

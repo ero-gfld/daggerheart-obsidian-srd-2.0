@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Rocket Maul"
-tier: 3
-category: "Primary"
-type: "Magical"
-trait: "Strength"
-range: "Melee"
-damage: "d10+7 mag"
-burden: "Two-Handed"
-feature: "Concussive: On a successful attack, you can spend a Hope to knock the target back to Far range."
+aliases:
+  - "Rocket Maul"
 ---
 
-# Rocket Maul
+# Maillet-fusée
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Rocket Maul)*
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+7 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+7 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Concussive:*** On a successful attack, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to knock the target back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+### APTITUDE
+
+***Commotion :*** Après une attaque réussie, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour repousser la cible jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

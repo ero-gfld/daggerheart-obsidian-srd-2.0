@@ -1,22 +1,19 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Teleport"
-domain: "Codex"
-level: 5
-type: "Spell"
-recall: 2
+aliases:
+  - "Teleport"
 ---
 
-# Teleport
+# Téléportation
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+*(VO : Teleport)*
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can instantly teleport yourself and any number of willing targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to a place you’ve been before. Choose one of the following options, then make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16)**:
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-- If you know the place very well, gain a +3 bonus.
-- If you’ve visited the place frequently, gain a +1 bonus.
-- If you’ve visited the place infrequently, gain no modifier.
-- If you’ve only been there once, gain a −2 penalty.
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez vous téléporter instantanément, ainsi qu’un nombre quelconque de cibles consentantes situées à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vers un lieu où vous êtes déjà allé. Choisissez l’une des options suivantes, puis faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16)** :
 
-On a success, you appear where you were intending to go. On a failure, you appear off course, with the range of failure determining how far off course.
+- Si vous connaissez très bien le lieu, gagnez un bonus de +3.
+- Si vous y êtes allé souvent, gagnez un bonus de +1.
+- Si vous y êtes allé rarement, ne gagnez aucun modificateur.
+- Si vous n’y êtes allé qu’une seule fois, subissez une pénalité de −2.
+
+En cas de succès, vous apparaissez là où vous aviez l’intention d’aller. En cas d’échec, vous apparaissez à côté de la destination, la portée de l’échec déterminant à quelle distance vous vous en écartez.

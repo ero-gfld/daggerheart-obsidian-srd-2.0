@@ -1,40 +1,24 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Grimmling Warband"
-tier: 1
-type: "Horde"
-horde: 4
-description: "A cluster of small, strange creatures wearing armor fashioned from trash and stolen housewares."
-difficulty: 12
-thresholds: "5/11"
-hp: 3
-stress: 2
-atk: "+1"
-attack: "Tailor’s Shears"
-range: "Melee"
-damage: "1d8+2 phy"
-motives_and_tactics: "Ambush, celebrate a little too early, hit and run, infight, sabotage, sow chaos"
-experience: "Traps +3"
-features:
-  - "Horde (1d4+1) - Passive"
-  - "Cowardly - Reaction"
+aliases:
+  - "Grimmling Warband"
 ---
 
-# Grimmling Warband
+# Bande de grimmlings
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (4/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*A cluster of small, strange creatures wearing armor fashioned from trash and stolen housewares.*
+*(VO : Grimmling Warband)*
 
-**Motives & Tactics:** Ambush, celebrate a little too early, hit and run, infight, sabotage, sow chaos
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (4/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Un amas de petites créatures étranges, vêtues d’armures faites de déchets et d’ustensiles de ménage volés.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/11 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Tailor’s Shears:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+2 phy
+**Motivations et tactiques :** Tendre des embuscades, fêter sa victoire trop tôt, frapper puis fuir, se battre entre elles, saboter, semer le chaos
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Traps +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/11 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Cisailles de tailleur :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+2 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Pièges +3
 
-***Horde (1d4+1) - Passive:*** When the Warband has marked half or more of its [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), its standard attack deals **1d4+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+## APTITUDES
 
-***Cowardly - Reaction:*** When the Warband marks its last [Stress](../core_rules/Core%20Mechanics.md#STRESS) or an allied Leader is defeated, roll a **d6**. On a result of 2 or lower, the Warband flees the scene.
+***Horde (1d4+1) - Passif :*** Quand la Bande a marqué la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, son attaque standard inflige **1d4+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***Lâche - Réaction :*** Quand la Bande marque son dernier [Stress](../core_rules/Core%20Mechanics.md#STRESS), ou qu’un Meneur allié est vaincu, lancez un **d6**. Sur un résultat de 2 ou moins, la Bande fuit la scène.

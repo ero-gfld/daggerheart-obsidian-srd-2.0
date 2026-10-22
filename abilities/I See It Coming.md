@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "I See It Coming"
-domain: "Bone"
-level: 1
-type: "Ability"
-recall: 1
+aliases:
+  - "I See It Coming"
 ---
 
-# I See It Coming
+# Je le vois venir
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : I See It Coming)*
 
-When you’re targeted by an attack made from beyond [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to roll a **d4** and gain a bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) equal to the result against the attack.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsqu’une attaque vous visant est lancée depuis au-delà de la [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour lancer un **d4** et ajouter le résultat à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre cette attaque.

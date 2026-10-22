@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Communion Relic"
-effect: "Once per rest, you can spend a Hope to use an ally’s Experience as if it were your own. You can carry only one relic."
+aliases:
+  - "Communion Relic"
 ---
 
-# Communion Relic
+# Relique de communion
 
-Once per rest, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to use an ally’s [Experience](../core_rules/Character%20Creation.md#STEP%207) as if it were your own. You can carry only one relic.
+*(VO : Communion Relic)*
+
+Une fois par repos, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour utiliser une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) d’un allié comme si elle était la vôtre. Vous ne pouvez porter qu’une seule relique.

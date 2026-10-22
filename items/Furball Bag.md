@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Furball Bag"
-effect: "Once per rest, you can produce 2d20 harmless, cat-sized fur creatures of indeterminate origin and species from this bag."
+aliases:
+  - "Furball Bag"
 ---
 
-# Furball Bag
+# Sac à poils
 
-Once per rest, you can produce 2d20 harmless, cat-sized fur creatures of indeterminate origin and species from this bag.
+*(VO : Furball Bag)*
+
+Une fois par repos, vous pouvez faire sortir de ce sac 2d20 créatures poilues inoffensives, de la taille d’un chat, d’origine et d’espèce indéterminées.

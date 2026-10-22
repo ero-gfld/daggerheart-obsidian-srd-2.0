@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Warp Pendant"
-effect: "Once per rest, mark a Stress to teleport to a location you can clearly see."
+aliases:
+  - "Warp Pendant"
 ---
 
-# Warp Pendant
+# Pendentif de distorsion
 
-Once per rest, mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to teleport to a location you can clearly see.
+*(VO : Warp Pendant)*
+
+Une fois par repos, marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour vous téléporter vers un lieu que vous voyez clairement.

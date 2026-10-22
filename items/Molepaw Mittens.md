@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Molepaw Mittens"
-effect: "Spend a Hope to swim through earth as if it were water for the next 10 minutes."
+aliases:
+  - "Molepaw Mittens"
 ---
 
-# Molepaw Mittens
+# Mitaines pattes-de-taupe
 
-Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to swim through earth as if it were water for the next 10 minutes.
+*(VO : Molepaw Mittens)*
+
+Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour nager à travers la terre comme si c’était de l’eau, pendant 10 minutes.

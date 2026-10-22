@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Stamina Potion"
-effect: "Clear 1d4+2 Stress."
+aliases:
+  - "Major Stamina Potion"
 ---
 
-# Major Stamina Potion
+# Potion d’endurance majeure
 
-Clear 1d4+2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*(VO : Major Stamina Potion)*
+
+Évacuez 1d4+2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).

@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Veritas Opal Armor"
-tier: 4
-thresholds: "13/36"
-score: 6
-feature: "Truthseeking: This armor glows when another creature within Close range tells a lie."
+aliases:
+  - "Veritas Opal Armor"
 ---
 
-# Veritas Opal Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure d’opale de Veritas
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Veritas Opal Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Truthseeking:*** This armor glows when another creature within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range tells a lie.
+### APTITUDE
+
+***Quête de vérité :*** Cette armure luit lorsqu’une autre créature à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) dit un mensonge.

@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Soldier’s Pike"
-tier: 3
-category: "Primary"
-type: "Physical"
-trait: "Agility"
-range: "Very Close"
-damage: "d10+5 phy"
-burden: "Two-Handed"
-feature: "Braced: When an adversary within this weapon’s range deals damage to you, you can mark 2 Stress to force them to mark a Hit Point."
+aliases:
+  - "Soldier’s Pike"
 ---
 
-# Soldier’s Pike
+# Pique du soldat
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Soldier’s Pike)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+5 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+5 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Braced:*** When an [adversary](../core_rules/Using%20Adversaries.md) within this weapon’s range deals damage to you, you can mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) to force them to mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+### APTITUDE
+
+***Arc-bouté :*** Quand un [adversaire](../core_rules/Using%20Adversaries.md) à portée de cette arme vous inflige des dégâts, vous pouvez marquer 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour le forcer à marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

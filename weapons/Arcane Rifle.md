@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Arcane Rifle"
-tier: 1
-category: "Primary"
-type: "Magical"
-trait: "Agility"
-range: "Very Far"
-damage: "d10+3 mag"
-burden: "Two-Handed"
-feature: "Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
+aliases:
+  - "Arcane Rifle"
 ---
 
-# Arcane Rifle
+# Fusil arcanique
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Arcane Rifle)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+3 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+3 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Aimed:*** Your attack has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) if the target is within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of you or within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of one of your allies. You can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to ignore this penalty.
+### APTITUDE
+
+***Visée :*** Votre attaque a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) si la cible se trouve à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de vous ou à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l’un de vos alliés. Vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour ignorer cette pénalité.

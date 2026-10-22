@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Redcap Skinner"
-tier: 1
-type: "Minion"
-description: "A cat-sized fey creature wielding a straight razor and wearing a conical red cap sealed on their head with candle wax."
-difficulty: 9
-thresholds: "None"
-hp: 1
-stress: 1
-atk: "-1"
-attack: "Razor"
-range: "Melee"
-damage: "2 phy"
-motives_and_tactics: "Flense, giggle, scrape, slice"
-experience: "Leatherwork +3"
-features:
-  - "Minion (4) - Passive"
-  - "Shallow Cuts - Passive"
-  - "Group Attack - Action"
+aliases:
+  - "Redcap Skinner"
 ---
 
-# Redcap Skinner
+# Écorcheur bonnet-rouge
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***
-*A cat-sized fey creature wielding a straight razor and wearing a conical red cap sealed on their head with candle wax.*
+*(VO : Redcap Skinner)*
 
-**Motives & Tactics:** Flense, giggle, scrape, slice
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Sbire](../core_rules/Using%20Adversaries.md)***
+*Une créature féerique de la taille d'un chat, qui brandit un rasoir droit et porte un bonnet rouge conique scellé à la cire de bougie.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 9 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Razor:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2 phy
+**Motivations et tactiques :** Écorcher, glousser, racler, taillader
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Leatherwork +3
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 9 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Rasoir :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Travail du cuir +3
 
-***Minion (4) - Passive:*** The Skinner is defeated when they take any damage. For every 4 damage a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to the Skinner, the PC defeats an additional [Minion](../core_rules/Using%20Adversaries.md) within range the attack would succeed against.
+## APTITUDES
 
-***Shallow Cuts - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails a roll, they take 1 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) for each Skinner within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Combine this damage.
+***Sbire (4) - Passif :*** L'Écorcheur est vaincu dès qu'il subit des dégâts. Pour chaque tranche de 4 dégâts qu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lui inflige, le PJ vainc un [Sbire](../core_rules/Using%20Adversaries.md) supplémentaire à portée que l'attaque aurait touché.
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Redcap Skinners within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Those [Minions](../core_rules/Using%20Adversaries.md) move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal 2 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+***Entailles superficielles - Passif :*** Lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) rate un jet, il subit 1 [dégât physique](../core_rules/Core%20Mechanics.md#ATTAQUER) pour chaque Écorcheur à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de lui. Regroupez ces dégâts.
+
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir une cible et [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les Écorcheurs bonnet-rouge à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d'elle. Ces [Sbires](../core_rules/Using%20Adversaries.md) se déplacent à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible et effectuent un seul [jet d'attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de réussite, ils infligent chacun 2 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Regroupez ces dégâts.

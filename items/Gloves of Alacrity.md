@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Gloves of Alacrity"
-effect: "When you would mark a Stress to reload a weapon, you don’t mark it."
+aliases:
+  - "Gloves of Alacrity"
 ---
 
-# Gloves of Alacrity
+# Gants de célérité
 
-When you would mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to reload a weapon, you don’t mark it.
+*(VO : Gloves of Alacrity)*
+
+Lorsque vous devriez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour recharger une arme, vous ne le marquez pas.

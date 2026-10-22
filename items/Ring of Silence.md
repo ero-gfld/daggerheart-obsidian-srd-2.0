@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Ring of Silence"
-effect: "Spend a Hope to activate this ring. Your footsteps are silent until your next rest."
+aliases:
+  - "Ring of Silence"
 ---
 
-# Ring of Silence
+# Anneau du silence
 
-Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to activate this ring. Your footsteps are silent until your next rest.
+*(VO : Ring of Silence)*
+
+Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour activer cet anneau. Vos pas sont silencieux jusqu’à votre prochain repos.

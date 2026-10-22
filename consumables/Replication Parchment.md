@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Replication Parchment"
-effect: "By touching this piece of parchment to another, you can perfectly copy the second parchment’s contents. Once used, this parchment becomes mundane paper."
+aliases:
+  - "Replication Parchment"
 ---
 
-# Replication Parchment
+# Parchemin de réplication
 
-By touching this piece of parchment to another, you can perfectly copy the second parchment’s contents. Once used, this parchment becomes mundane paper.
+*(VO : Replication Parchment)*
+
+En touchant ce parchemin à un autre, vous pouvez copier parfaitement le contenu du second. Une fois utilisé, ce parchemin devient du papier ordinaire.

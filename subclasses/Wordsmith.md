@@ -1,59 +1,54 @@
 ---
-tags:
-  - "daggerheart/subclass"
-name: "Wordsmith"
-class: "Bard"
-spellcast_trait: "Presence"
-description: "Play the Wordsmith if you want to use clever wordplay and captivate crowds."
-features:
-  - "Rousing Speech"
-  - "Heart of a Poet"
+aliases:
+  - "Wordsmith"
 ---
 
-# Wordsmith
+# Orfèvre des mots
 
-Play the Wordsmith if you want to use clever wordplay and captivate crowds.
+*(VO : Wordsmith)*
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+Jouez l’Orfèvre des mots si vous voulez manier le jeu de mots avec brio et captiver les foules.
 
-[Presence](../core_rules/Character%20Creation.md#STEP%203)
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-**FOUNDATION FEATURES**
+[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Rousing Speech:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can give a heartfelt, inspiring speech. All allies within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**APTITUDES DE FONDATION**
 
-***Heart of a Poet:*** After you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to impress, persuade, or offend someone, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to add a **d4** to the roll.
+***Discours enflammé :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez prononcer un discours sincère et inspirant. Tous les alliés à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) évacuent 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-**SPECIALIZATION FEATURE**
+***Cœur de poète :*** Après un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour impressionner, convaincre ou offenser quelqu’un, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ajouter un **d4** au jet.
 
-***Eloquent.*** Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:
+**APTITUDE DE SPÉCIALISATION**
 
-- Allow them to find a mundane object or tool they need.
+***Éloquent.*** Vos paroles émouvantes remontent le moral. Une fois par session, lorsque vous encouragez un allié, vous pouvez faire l’une des choses suivantes :
 
-- [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) without spending [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+- Lui permettre de trouver un objet ou un outil ordinaire dont il a besoin.
 
-- Give them an additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) during their next rest.
+- [Aider un allié](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) sans dépenser d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-**MASTERY FEATURE**
+- Lui accorder une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) supplémentaire lors de son prochain repos.
 
-***Epic Poetry.*** Your Rally Die increases to a **d10.** Additionally, when you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die.
+**APTITUDE D’EXCELLENCE**
 
-**BACKGROUND QUESTIONS**
+***Poésie épique.*** Votre dé de Ralliement passe à un **d10.** De plus, lorsque vous [Aidez un allié](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez raconter l’instant comme si vous écriviez, dans des mémoires, le récit de son héroïsme. Dans ce cas, lancez un **d10** comme [dé d’avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+**QUESTIONS D’HISTORIQUE**
 
-- Who from your community taught you to have such confidence in yourself?
+*Répondez à l’une des questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- You were in love once. Who did you adore, and how did they hurt you?
+- Qui, dans votre communauté, vous a appris à avoir une telle confiance en vous ?
 
-- You’ve always looked up to another bard. Who are they, and why do you idolize them?
+- Vous avez déjà été amoureux. Qui avez-vous adoré, et comment cette personne vous a-t-elle blessé ?
 
-**CONNECTIONS**
+- Vous avez toujours admiré un autre barde. Qui est-ce, et pourquoi l’idolâtrez-vous ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+**LIENS**
 
-- What made you realize we were going to be such good friends?
+*Posez à vos compagnons de jeu l’une des questions suivantes pour que* *leur personnage y réponde, ou inventez vos propres questions.*
 
-- What do I do that annoys you?
+- Qu’est-ce qui vous a fait comprendre que nous allions devenir de si bons amis ?
 
-- Why do you grab my hand at night?
+- Que fais-je qui vous agace ?
+
+- Pourquoi me prenez-vous la main la nuit ?

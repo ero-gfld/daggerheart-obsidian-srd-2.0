@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Major Enlighten Potion"
-effect: "You gain a +1 bonus to your Knowledge until your next rest."
+aliases:
+  - "Major Enlighten Potion"
 ---
 
-# Major Enlighten Potion
+# Potion d’illumination majeure
 
-You gain a +1 bonus to your [Knowledge](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+*(VO : Major Enlighten Potion)*
+
+Vous gagnez un bonus de +1 à votre [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

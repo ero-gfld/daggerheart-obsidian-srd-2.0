@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Zephyr’s Jar"
-effect: "You can open this empty jar during inclement weather to capture the storm and leave behind clear skies. The storm remains inside until unleashed by reopening the jar."
+aliases:
+  - "Zephyr’s Jar"
 ---
 
-# Zephyr’s Jar
+# Jarre de zéphyr
 
-You can open this empty jar during inclement weather to capture the storm and leave behind clear skies. The storm remains inside until unleashed by reopening the jar.
+*(VO : Zephyr’s Jar)*
+
+Vous pouvez ouvrir cette jarre vide pendant un mauvais temps pour capturer la tempête et laisser derrière vous un ciel dégagé. La tempête reste enfermée jusqu’à ce qu’on la libère en rouvrant la jarre.

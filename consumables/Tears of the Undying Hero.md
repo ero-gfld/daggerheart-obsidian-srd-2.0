@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Tears of the Undying Hero"
-effect: "When you drink this potion, death can’t touch you until your next long rest. When you would mark your last Hit Point, instead of making a death move, you make one final action roll before falling into a dreamless slumber until an ally chooses the Tend to Wounds downtime move to clear your Hit Points."
+aliases:
+  - "Tears of the Undying Hero"
 ---
 
-# Tears of the Undying Hero
+# Larmes du héros immortel
 
-When you drink this potion, death can’t touch you until your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME). When you would mark your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), instead of making a [death move](../core_rules/Core%20Mechanics.md#DEATH), you make one final [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) before falling into a dreamless slumber until an ally chooses the [Tend to Wounds](../core_rules/Core%20Mechanics.md#DOWNTIME) [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to clear your Hit Points.
+*(VO : Tears of the Undying Hero)*
+
+Lorsque vous buvez cette potion, la mort ne peut plus vous atteindre jusqu’à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS). Lorsque vous devriez marquer votre dernier [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), au lieu de faire un [choix de mort](../core_rules/Core%20Mechanics.md#MORT), vous effectuez un dernier [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) avant de tomber dans un sommeil sans rêves, jusqu’à ce qu’un allié choisisse l’[action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) [Soigner les blessures](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour libérer vos PV.

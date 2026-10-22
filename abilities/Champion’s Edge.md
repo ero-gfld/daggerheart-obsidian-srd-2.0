@@ -1,21 +1,18 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Champion’s Edge"
-domain: "Blade"
-level: 5
-type: "Ability"
-recall: 1
+aliases:
+  - "Champion’s Edge"
 ---
 
-# Champion’s Edge
+# Avantage du champion
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : Champion’s Edge)*
 
-When you critically succeed on an attack, you can **spend up to 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose one of the following options for each Hope spent:
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-- You clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
-- You clear an [Armor Slot](../core_rules/Equipment.md#ARMOR).
-- The target must mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+Lorsque vous obtenez une réussite critique sur une attaque, vous pouvez **dépenser jusqu’à 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et choisir l’une des options suivantes pour chaque Espoir dépensé :
 
-You can’t choose the same option more than once.
+- Vous effacez un [point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+- Vous effacez un [emplacement d’armure](../core_rules/Equipment.md#ARMURE).
+- La cible doit marquer un [point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
+
+Vous ne pouvez pas choisir plus d’une fois la même option.

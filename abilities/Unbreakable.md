@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Unbreakable"
-domain: "Valor"
-level: 10
-type: "Ability"
-recall: 4
+aliases:
+  - "Unbreakable"
 ---
 
-# Unbreakable
+# Incassable
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *4.*
+*(VO : Unbreakable)*
 
-When you mark your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), instead of making a [death move](../core_rules/Core%20Mechanics.md#DEATH), you can roll a **d6** and clear a number of Hit Points equal to the result. Then place this card in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS).
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *4.*
+
+Lorsque vous marquez votre dernier [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), au lieu de faire un [choix de mort](../core_rules/Core%20Mechanics.md#MORT), vous pouvez lancer un **d6** et effacer un nombre de Points de vie marqués égal au résultat. Placez ensuite cette carte dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

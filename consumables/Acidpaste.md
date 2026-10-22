@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Acidpaste"
-effect: "This paste eats away walls and other surfaces in bright flashes."
+aliases:
+  - "Acidpaste"
 ---
 
-# Acidpaste
+# Pâte acide
 
-This paste eats away walls and other surfaces in bright flashes.
+*(VO : Acidpaste)*
+
+Cette pâte ronge les murs et les autres surfaces dans de vifs éclairs.

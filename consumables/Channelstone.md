@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Channelstone"
-effect: "You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault."
+aliases:
+  - "Channelstone"
 ---
 
-# Channelstone
+# Pierre conductrice
 
-You can use this stone to take a spell or grimoire from your [vault](../core_rules/Domains.md#DOMAIN%20CARDS), use it once, and return it to your vault.
+*(VO : Channelstone)*
+
+Vous pouvez utiliser cette pierre pour prendre un sort ou un grimoire dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE), l’utiliser une fois, puis le remettre dans votre réserve.

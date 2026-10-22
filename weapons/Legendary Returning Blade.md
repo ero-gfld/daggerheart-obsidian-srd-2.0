@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Legendary Returning Blade"
-tier: 4
-category: "Primary"
-type: "Magical"
-trait: "Finesse"
-range: "Close"
-damage: "d8+9 mag"
-burden: "One-Handed"
-feature: "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+aliases:
+  - "Legendary Returning Blade"
 ---
 
-# Legendary Returning Blade
+# Lame revenante légendaire
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Legendary Returning Blade)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+9 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+9 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Returning:*** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+### APTITUDE
+
+***Revenant :*** Quand cette arme est lancée à portée, elle apparaît immédiatement dans votre main après l’attaque.

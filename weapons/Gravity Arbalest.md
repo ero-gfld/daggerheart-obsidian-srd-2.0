@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Gravity Arbalest"
-tier: 4
-category: "Primary"
-type: "Magical"
-trait: "Knowledge"
-range: "Far"
-damage: "d8+6 mag"
-burden: "Two-Handed"
-feature: "Magnetic: When you make an attack with this weapon, you can spend a Hope to force all adversaries within Very Close range of the target to make a Reaction Roll (16). Creatures who fail must mark a Stress and are pulled into Melee range of the target."
+aliases:
+  - "Gravity Arbalest"
 ---
 
-# Gravity Arbalest
+# Arbalète gravitique
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Gravity Arbalest)*
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+6 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+6 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Magnetic:*** When you make an attack with this weapon, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to force all [adversaries](../core_rules/Using%20Adversaries.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target to make a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16). Creatures who fail must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and are pulled into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target.
+### APTITUDE
+
+***Magnétique :*** Quand vous effectuez une attaque avec cette arme, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour forcer tous les [adversaires](../core_rules/Using%20Adversaries.md) situés à portée de [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible à effectuer un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16). Les créatures qui échouent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et sont attirées à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible.

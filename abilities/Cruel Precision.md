@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Cruel Precision"
-domain: "Bone"
-level: 7
-type: "Ability"
-recall: 1
+aliases:
+  - "Cruel Precision"
 ---
 
-# Cruel Precision
+# Précision cruelle
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+*(VO : Cruel Precision)*
 
-When you make a successful attack with a weapon, gain a bonus to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to either your [Finesse](../core_rules/Character%20Creation.md#STEP%203) or [Agility](../core_rules/Character%20Creation.md#STEP%203).
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque vous réussissez une attaque avec une arme, gagnez un bonus à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal à votre [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou à votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

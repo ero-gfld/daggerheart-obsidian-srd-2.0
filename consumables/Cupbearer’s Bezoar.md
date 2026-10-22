@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Cupbearer’s Bezoar"
-effect: "You can swallow this bezoar to become immune to poisons until your next long rest."
+aliases:
+  - "Cupbearer’s Bezoar"
 ---
 
-# Cupbearer’s Bezoar
+# Bézoard de l’échanson
 
-You can swallow this bezoar to become [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to poisons until your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+*(VO : Cupbearer’s Bezoar)*
+
+Vous pouvez avaler ce bézoard pour obtenir l’[immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les poisons jusqu’à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

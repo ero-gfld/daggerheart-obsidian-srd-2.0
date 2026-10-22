@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Emberwoven Armor"
-tier: 4
-thresholds: "13/36"
-score: 6
-feature: "Burning: When an adversary attacks you within Melee range, they mark a Stress."
+aliases:
+  - "Emberwoven Armor"
 ---
 
-# Emberwoven Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure tissée de braise
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Emberwoven Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Burning:*** When an [adversary](../core_rules/Using%20Adversaries.md) attacks you within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, they mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+### APTITUDE
+
+***Embrasement :*** Lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) vous attaque à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), il marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

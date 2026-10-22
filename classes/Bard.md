@@ -1,59 +1,50 @@
 ---
-tags:
-  - "daggerheart/class"
-name: "Bard"
-domains:
-  - "Grace"
-  - "Codex"
-evasion: 10
-hp: 5
-subclasses:
-  - "Troubadour"
-  - "Wordsmith"
-items: "A romance novel or a letter never opened"
-description: "Bards are the most charismatic people in all the realms."
+aliases:
+  - "Bard"
 ---
 
-# Bard
+# Barde
 
-Bards are the most charismatic people in all the realms. Members of this class are masters of captivation and specialize in a variety of performance types, including singing, playing musical instruments, weaving tales, or telling jokes. Whether performing for an audience or speaking to an individual, bards thrive in social situations. Members of this profession bond and train at schools or guilds, but a current of egotism runs through those of the bardic persuasion. While they may be the most likely class to bring people together, a bard of ill temper can just as easily tear a party apart.
+*(VO : Bard)*
 
-**DOMAINS –** [Grace](../domains/Grace.md) & [Codex](../domains/Codex.md)
+Les bardes sont les gens les plus charismatiques de tous les royaumes. Les membres de cette classe sont des maîtres de la fascination et se spécialisent dans toutes sortes de performances : chanter, jouer d’un instrument, tisser des récits ou raconter des plaisanteries. Qu’ils se produisent devant un public ou s’adressent à une seule personne, les bardes s’épanouissent en société. Les membres de cette profession nouent des liens et s’entraînent dans des écoles ou des guildes, mais un courant d’égocentrisme traverse ceux qui suivent la voie bardique. S’ils sont la classe la plus apte à rassembler les gens, un barde de mauvaise humeur peut tout aussi bien déchirer un groupe.
 
-**STARTING EVASION –** 10
+**DOMAINES –** [Grâce](../domains/Grace.md) et [Codex](../domains/Codex.md)
 
-**STARTING HIT POINTS –** 5
+**ÉVASION DE DÉPART –** 10
 
-**CLASS ITEMS –** A romance novel or a letter never opened
+**POINTS DE VIE DE DÉPART –** 5
 
-**BARD’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**OBJETS DE CLASSE –** Un roman d’amour ou une lettre jamais ouverte
 
-***Make a Scene:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to temporarily *Distract* a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, giving them a -2 penalty to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU BARDE**
 
-**[CLASS FEATURE](../core_rules/Classes.md)**
+***Faire une scène :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour *Distraire* temporairement une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), ce qui lui inflige un malus de −2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a **d6**. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can spend their Rally Die to roll it, adding the result to their [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), or to clear a number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a **d8**.
+**[APTITUDE DE CLASSE](../core_rules/Classes.md)**
 
-### SUBCLASSES
+***Ralliement :*** Une fois par session, décrivez comment vous ralliez le groupe et donnez à vous-même et à chacun de vos alliés un dé de Ralliement. Au niveau 1, votre dé de Ralliement est un **d6**. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut dépenser son dé de Ralliement pour le lancer et ajouter le résultat à son [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), à son [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) ou à son [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER), ou pour évacuer un nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) égal au résultat. À la fin de chaque session, tous les dés de Ralliement non dépensés sont effacés. Au niveau 5, votre dé de Ralliement passe à un **d8**.
 
-*Choose either the* ***[Troubadour](../subclasses/Troubadour.md)*** *or* ***[Wordsmith](../subclasses/Wordsmith.md)*** *subclass.*
+### SOUS-CLASSES
 
-**BACKGROUND QUESTIONS**
+*Choisissez la sous-classe* ***[Troubadour](../subclasses/Troubadour.md)*** *ou* ***[Orfèvre des mots](../subclasses/Wordsmith.md)***
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+**QUESTIONS D’HISTORIQUE**
 
-- Who from your community taught you to have such confidence in yourself?
+*Répondez à l’une ou plusieurs des questions d’historique suivantes. Vous pouvez aussi créer vos propres questions.*
 
-- You were in love once. Who did you adore, and how did they hurt you?
+- Qui, dans votre communauté, vous a appris à avoir autant confiance en vous ?
 
-- You’ve always looked up to another bard. Who are they, and why do you idolize them?
+- Vous avez été amoureux une fois. Qui avez-vous adoré, et comment cette personne vous a-t-elle blessé ?
 
-**CONNECTIONS**
+- Vous avez toujours admiré un autre barde. Qui est-ce, et pourquoi en faites-vous votre idole ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+**LIENS**
 
-- What made you realize we were going to be such good friends?
+*Posez à vos camarades joueurs l’une des questions suivantes pour que leur personnage y réponde, ou inventez vos propres questions.*
 
-- What do I do that annoys you?
+- Qu’est-ce qui t’a fait comprendre que nous allions être de si bons amis ?
 
-- Why do you grab my hand at night?
+- Qu’est-ce que je fais qui t’agace ?
+
+- Pourquoi me prends-tu la main la nuit ?

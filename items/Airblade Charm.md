@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Airblade Charm"
-effect: "You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range."
+aliases:
+  - "Airblade Charm"
 ---
 
-# Airblade Charm
+# Charme de lame d’air
 
-You can attach this charm to a weapon with a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Three times per rest, you can activate the charm and attack a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+*(VO : Airblade Charm)*
+
+Vous pouvez attacher ce charme à une arme de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Trois fois par repos, vous pouvez activer le charme et attaquer une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Cloverweave Cloak"
-tier: 3
-thresholds: "11/27"
-score: 5
-feature: "Fortune-Favored: Once per scene, you can change a failure with Hope into a success with Fear."
+aliases:
+  - "Cloverweave Cloak"
 ---
 
-# Cloverweave Cloak
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Cape tissée de trèfle
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Cloverweave Cloak)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Fortune-Favored:*** Once per scene, you can change a [failure with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW) into a [success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW).
+### APTITUDE
+
+***Favorisé par la chance :*** Une fois par scène, vous pouvez transformer un [échec avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) en [succès avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U).

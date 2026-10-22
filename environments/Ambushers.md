@@ -1,29 +1,21 @@
 ---
-tags:
-  - "daggerheart/environment"
-name: "Ambushers"
-tier: 1
-type: "Event"
-description: "An ambush is set by the PCs to catch unsuspecting adversaries off-guard."
-difficulty: "Special (see “Relative Strength”)"
-impulses: "Escape, group up, protect the most vulnerable"
-potential_adversaries: "Any"
-features:
-  - "Relative Strength - Passive"
-  - "Where Did They Come From? - Reaction"
+aliases:
+  - "Ambushers"
 ---
 
-# Ambushers
+# Les embusqueurs
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***
-*An ambush is set by the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to catch unsuspecting [adversaries](../core_rules/Using%20Adversaries.md) off-guard.*
+*(VO : Ambushers)*
 
-**Impulses:** Escape, group up, protect the most vulnerable
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Événement](../core_rules/Using%20Environments.md)***
+*Une embuscade est tendue par les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) pour surprendre des [adversaires](../core_rules/Using%20Adversaries.md) qui ne se méfient pas.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** Special (see “Relative [Strength](../core_rules/Character%20Creation.md#STEP%203)”) | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Any
+**Pulsions :** Fuir, se regrouper, protéger les plus vulnérables
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** Spéciale (voir « [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) relative ») | **[Adversaires](../core_rules/Using%20Adversaries.md) possibles :** Tous
 
-***Relative Strength - Passive:*** The [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) of this [environment](../core_rules/Using%20Environments.md) equals that of the [adversary](../core_rules/Using%20Adversaries.md) with the highest Difficulty. *Which adversary is the least prepared? Which one is the most?*
+## Aptitudes
 
-***Where Did They Come From? - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) starts the ambush on unsuspecting [adversaries](../core_rules/Using%20Adversaries.md), you lose 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and the first [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) a PC makes has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). *What are the adversaries in the middle of doing when the ambush* *starts? How does this impact their approach to the fight?*
+***Force relative - Passif :*** La [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de cet [environnement](../core_rules/Using%20Environments.md) est égale à celle de l’[adversaire](../core_rules/Using%20Adversaries.md) ayant la Difficulté la plus élevée. *Quel adversaire est le moins préparé ? Lequel l’est le plus ?*
+
+***D’où viennent-ils ? - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) déclenche l’embuscade contre des [adversaires](../core_rules/Using%20Adversaries.md) qui ne se méfient pas, vous perdez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et le premier [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) d’un PJ bénéficie d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). *Que font les adversaires au moment où l’embuscade commence ? Comment cela change-t-il leur façon d’aborder le combat ?*

@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Advanced Full Plate Armor"
-tier: 3
-thresholds: "15/35"
-score: 6
-feature: "Very Heavy: −2 to Evasion; −1 to Agility"
+aliases:
+  - "Advanced Full Plate Armor"
 ---
 
-# Advanced Full Plate Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure de plates complète avancée
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 15 / 35  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Advanced Full Plate Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 15 / 35  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Very Heavy:*** −2 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION); −1 to [Agility](../core_rules/Character%20Creation.md#STEP%203)
+### APTITUDE
+
+***Très lourd :*** −2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) ; −1 à l’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Spiked Bow"
-tier: 3
-category: "Primary"
-type: "Physical"
-trait: "Agility"
-range: "Very Far"
-damage: "d6+7 phy"
-burden: "Two-Handed"
-feature: "Versatile: This weapon can also be used with these statistics—Agility, Melee, d10+5."
+aliases:
+  - "Spiked Bow"
 ---
 
-# Spiked Bow
+# Arc à pointes
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Spiked Bow)*
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+7 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+7 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
 
-***Versatile:*** This weapon can also be used with these statistics—[Agility](../core_rules/Character%20Creation.md#STEP%203), [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), d10+5.
+### APTITUDE
+
+***Polyvalent :*** Cette arme peut aussi être utilisée avec les statistiques suivantes : [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203), [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), d10+5.

@@ -1,26 +1,18 @@
 ---
-tags:
-  - "daggerheart/beastform"
-name: "Stalking Arachnid"
-tier: 1
-examples: "Tarantula, Wolf Spider, etc."
-trait_bonus: "Finesse +1"
-evasion: "+2"
-attack: "Melee Finesse d6+1 phy"
-advantages: "attack, climb, sneak"
-features:
-  - "Venomous Bite"
-  - "Webslinger"
+aliases:
+  - "Stalking Arachnid"
 ---
 
-# Stalking Arachnid
+# Arachnide traqueur
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Tarantula, Wolf Spider, etc.)
+*(VO : Stalking Arachnid)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d6+1 phy*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Tarentule, lycose, etc.)
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, climb, sneak
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d6+1 phy*
 
-***Venomous Bite:*** When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, the target becomes temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each time they act.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, grimper, se faufiler
 
-***Webslinger:*** You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range by succeeding on a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll against them.
+***Morsure venimeuse :*** Quand vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), la cible est temporairement *Empoisonnée*. Une créature *Empoisonnée* subit **1d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs chaque fois qu’elle agit.
+
+***Tisseur de toile :*** Vous pouvez créer une toile solide, utile aussi bien pour l’aventure que pour le combat. Elle est assez résistante pour soutenir une créature. Vous pouvez *[Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* temporairement une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) en réussissant un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) contre elle.

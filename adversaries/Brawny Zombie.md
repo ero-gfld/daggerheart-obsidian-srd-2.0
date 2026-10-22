@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Brawny Zombie"
-tier: 1
-type: "Bruiser"
-description: "A large corpse, decay-bloated and angry."
-difficulty: 10
-thresholds: "8/15"
-hp: 7
-stress: 4
-atk: "+2"
-attack: "Slam"
-range: "Very Close"
-damage: "1d12+3 phy"
-motives_and_tactics: "Crush, destroy, hail debris, slam"
-experience: "Collateral Damage +2, Throw +4"
-features:
-  - "Slow - Passive"
-  - "Rend Asunder - Action"
-  - "Rip and Tear - Reaction"
+aliases:
+  - "Brawny Zombie"
 ---
 
-# Brawny Zombie
+# Zombie balèze
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A large corpse, decay-bloated and angry.*
+*(VO : Brawny Zombie)*
 
-**Motives & Tactics:** Crush, destroy, hail debris, slam
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un grand cadavre gonflé par la décomposition, et furieux.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Slam:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+3 phy
+**Motivations et tactiques :** Écraser, détruire, faire pleuvoir des débris, fracasser
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Collateral Damage +2, Throw +4
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Écrasement :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+3 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Dommages collatéraux +2, Lancer +4
 
-***Slow - Passive:*** When you [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Zombie and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Zombie and they have a token on their stat block, clear the token and they can act.
+## APTITUDES
 
-***Rend Asunder - Action:*** Make a standard attack with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) against a target the Zombie has *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. On a success, the attack deals [direct damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Lent - Passif :*** Quand vous [mettez le Zombie sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) et qu’il n’a pas de jeton sur son bloc de statistiques, il ne peut pas encore agir. Placez un jeton sur son bloc et décrivez ce qu’il se prépare à faire. Quand vous mettez le Zombie sous les projecteurs et qu’il a un jeton sur son bloc, retirez le jeton : il peut alors agir.
 
-***Rip and Tear - Reaction:*** When the Zombies makes a successful standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target and force them to mark 2 Stress.
+***Déchirer en deux - Action :*** Effectuez une attaque standard avec un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) contre une cible que le Zombie a *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. En cas de réussite, l’attaque inflige des [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Arracher et déchirer - Réaction :*** Quand le Zombie réussit une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour *[entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* temporairement la cible et la forcer à marquer 2 Stress.

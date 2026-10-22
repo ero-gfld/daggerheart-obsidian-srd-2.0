@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Companion Case"
-effect: "This case can fit a small animal companion. While the companion is inside, the animal and case are immune to all damage and harmful effects."
+aliases:
+  - "Companion Case"
 ---
 
-# Companion Case
+# Étui du compagnon
 
-This case can fit a small animal companion. While the companion is inside, the animal and case are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to all damage and harmful effects.
+*(VO : Companion Case)*
+
+Cet étui peut contenir un petit animal compagnon. Tant que le compagnon s’y trouve, l’animal et l’étui sont [immunisés](../core_rules/Core%20Mechanics.md#ATTAQUER) contre tous les dégâts et tous les effets nuisibles.

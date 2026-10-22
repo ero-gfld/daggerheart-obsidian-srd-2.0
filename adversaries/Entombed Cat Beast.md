@@ -1,48 +1,30 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Entombed Cat Beast"
-tier: 2
-type: "Solo"
-description: "A large undead humanoid skeleton with a panther’s skull for a head."
-difficulty: 15
-thresholds: "12/23"
-hp: 7
-stress: 3
-atk: "+2"
-attack: "Razor Claws"
-range: "Very Close"
-damage: "2d12+2 phy"
-motives_and_tactics: "Rush attack, shred, terrify"
-experience: "Feral +2"
-features:
-  - "Relentless (3) - Passive"
-  - "Bloody Strike - Passive"
-  - "Screeching Caterwaul - Action"
-  - "I Alone - Reaction"
-  - "Vicious Reprisal - Reaction"
+aliases:
+  - "Entombed Cat Beast"
 ---
 
-# Entombed Cat Beast
+# Bête-chat des tombes
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A large undead humanoid skeleton with a panther’s skull for a head.*
+*(VO : Entombed Cat Beast)*
 
-**Motives & Tactics:** Rush attack, shred, terrify
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Grand squelette humanoïde animé, à la tête de crâne de panthère.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/23 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Razor Claws:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d12+2 phy
+**Motivations et tactiques :** Charger, lacérer, terrifier
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Feral +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/23 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Griffes acérées :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d12+2 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Féroce +2
 
-***Relentless (3) - Passive:*** The Cat Beast can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+## APTITUDES
 
-***Bloody Strike - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who marks 3 or more [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack made by the Cat Beast must mark an additional HP.
+***Implacable (3) - Passif :*** La bête-chat peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour la [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Screeching Caterwaul - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Cat Beast to make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail become *Rattled* until they roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). When the Cat Beast makes a successful attack against a *Rattled* PC, roll damage twice and take the better result, then clear the *Rattled* condition from the target.
+***Frappe sanglante - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui marque 3 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus à cause d’une attaque de la bête-chat doit marquer un PV supplémentaire.
 
-***I Alone - Reaction:*** When the Cat Beast first appears, you can choose to have them absorb the essence of their allies. Immediately defeat any number of allies on the battlefield, and gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each ally defeated this way.
+***Miaulement strident - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour obliger chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la bête-chat à faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent deviennent *Ébranlées* jusqu’à ce qu’elles lancent un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Quand la bête-chat réussit une attaque contre un PJ *Ébranlé*, lancez les dégâts deux fois et gardez le meilleur résultat, puis levez l’état *Ébranlé* sur la cible.
 
-***Vicious Reprisal - Reaction:*** When the Cat Beast takes damage from an attack made by a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against that PC.
+***Je suis seul - Réaction :*** À l’apparition de la bête-chat, vous pouvez choisir qu’elle absorbe l’essence de ses alliés. Vainquez immédiatement autant d’alliés que vous le souhaitez sur le champ de bataille, et gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour chaque allié vaincu de cette façon.
+
+***Représailles féroces - Réaction :*** Quand la bête-chat subit des dégâts d’une attaque d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour porter une attaque standard contre ce PJ.

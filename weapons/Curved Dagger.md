@@ -1,23 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Curved Dagger"
-tier: 4
-category: "Primary"
-type: "Physical"
-trait: "Finesse"
-range: "Melee"
-damage: "d8+9 phy"
-burden: "One-Handed"
-feature: "Serrated: When you roll a 1 on a damage die, it deals 8 damage instead."
+aliases:
+  - "Curved Dagger"
 ---
 
-# Curved Dagger
+# Dague courbe
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Curved Dagger)*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+9 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+9 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
 
-***Serrated:*** When you roll a 1 on a damage die, it deals 8 damage instead.
+### APTITUDE
+
+***Dentelée :*** lorsque vous obtenez un 1 sur un dé de dégâts, celui-ci inflige 8 dégâts à la place.

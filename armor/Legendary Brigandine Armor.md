@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Legendary Brigandine Armor"
-tier: 4
-thresholds: "13/35"
-score: 6
-feature: "Lined: Mark a Stress to negate Minor damage."
+aliases:
+  - "Legendary Brigandine Armor"
 ---
 
-# Legendary Brigandine Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Brigandine légendaire
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 35  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Legendary Brigandine Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 35  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
 
-***Lined:*** Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to negate [Minor damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+### APTITUDE
+
+***Doublé :*** Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour annuler des [dégâts mineurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

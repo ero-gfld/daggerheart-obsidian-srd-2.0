@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Iridian Dust"
-effect: "This multicolored powder sticks to everything and prevents creatures covered in it from becoming Hidden."
+aliases:
+  - "Iridian Dust"
 ---
 
-# Iridian Dust
+# Poussière iridienne
 
-This multicolored powder sticks to everything and prevents creatures covered in it from becoming *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+*(VO : Iridian Dust)*
+
+Cette poudre multicolore adhère à tout et empêche les créatures qui en sont couvertes de devenir *[Cachées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Speaking Orbs"
-effect: "This pair of orbs allows any creatures holding them to communicate with each other across any distance."
+aliases:
+  - "Speaking Orbs"
 ---
 
-# Speaking Orbs
+# Orbes parlantes
 
-This pair of orbs allows any creatures holding them to communicate with each other across any distance.
+*(VO : Speaking Orbs)*
+
+Cette paire d’orbes permet aux créatures qui les tiennent de communiquer entre elles, quelle que soit la distance.

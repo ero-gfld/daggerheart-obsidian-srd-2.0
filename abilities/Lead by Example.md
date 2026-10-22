@@ -1,15 +1,12 @@
 ---
-tags:
-  - "daggerheart/domain-card"
-name: "Lead by Example"
-domain: "Valor"
-level: 9
-type: "Ability"
-recall: 3
+aliases:
+  - "Lead by Example"
 ---
 
-# Lead by Example
+# Montrer l’exemple
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+*(VO : Lead by Example)*
 
-When you deal damage to an [adversary](../core_rules/Using%20Adversaries.md), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and describe how you encourage your allies. The next [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to make an attack against that adversary can clear a Stress or gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+Lorsque vous infligez des dégâts à un [adversaire](../core_rules/Using%20Adversaries.md), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** et décrire comment vous encouragez vos alliés. Le prochain [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui attaque cet adversaire peut évacuer un Stress ou gagner un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

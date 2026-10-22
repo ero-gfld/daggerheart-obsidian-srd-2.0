@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Dual Flask"
-effect: "This flask can hold two different liquids. You can swap between them by flipping a small switch on the flask’s side."
+aliases:
+  - "Dual Flask"
 ---
 
-# Dual Flask
+# Flacon double
 
-This flask can hold two different liquids. You can swap between them by flipping a small switch on the flask’s side.
+*(VO : Dual Flask)*
+
+Ce flacon peut contenir deux liquides différents. Vous passez de l’un à l’autre en actionnant un petit interrupteur sur le côté du flacon.

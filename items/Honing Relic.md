@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/item"
-name: "Honing Relic"
-effect: "You gain a +1 bonus to an Experience of your choice. You can only carry one relic."
+aliases:
+  - "Honing Relic"
 ---
 
-# Honing Relic
+# Relique d’affûtage
 
-You gain a +1 bonus to an [Experience](../core_rules/Character%20Creation.md#STEP%207) of your choice. You can only carry one relic.
+*(VO : Honing Relic)*
+
+Vous gagnez un bonus de +1 à une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) de votre choix. Vous ne pouvez porter qu’une seule relique.

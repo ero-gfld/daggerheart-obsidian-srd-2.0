@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Channeling Armor"
-tier: 4
-thresholds: "13/36"
-score: 5
-feature: "Channeling: +1 to Spellcast Rolls"
+aliases:
+  - "Channeling Armor"
 ---
 
-# Channeling Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure de canalisation
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+*(VO : Channeling Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
 
-***Channeling:*** +1 to [Spellcast Rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)
+### APTITUDE
+
+***Canalisation :*** +1 aux [jets d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)

@@ -1,39 +1,24 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Elephant"
-tier: 2
-type: "Bruiser"
-description: "A huge pachyderm that has large ears and a prehensile trunk."
-difficulty: 15
-thresholds: "14/28"
-hp: 6
-stress: 3
-atk: "+3"
-attack: "Feet & Tusks"
-range: "Very Close"
-damage: "2d12 phy"
-motives_and_tactics: "Eat vegetation, protect the herd, socialize"
-experience: "Huge +2, Never Forgets +2"
-features:
-  - "Trample - Action"
-  - "Toss - Reaction"
+aliases:
+  - "Elephant"
 ---
 
-# Elephant
+# Éléphant
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A huge pachyderm that has large ears and a prehensile trunk.*
+*(VO : Elephant)*
 
-**Motives & Tactics:** Eat vegetation, protect the herd, socialize
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Énorme pachyderme aux grandes oreilles et à la trompe préhensile.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 14/28 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Feet & Tusks:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d12 phy
+**Motivations et tactiques :** Brouter, protéger le troupeau, socialiser
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Huge +2, Never Forgets +2
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 14/28 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Pieds et défenses :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d12 phy
 
-## FEATURES
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Immense +2, Mémoire infaillible +2
 
-***Trample - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Elephant charge up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a straight line. Each target in its path must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **2d10+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Toss - Reaction:*** When the Elephant makes a successful standard attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have it toss the target to another location within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and deal an extra **1d12** damage.
+***Piétinement - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que l’éléphant charge en ligne droite jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible sur sa trajectoire doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **2d10+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Projection - Réaction :*** Quand l’éléphant réussit une attaque standard, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour qu’il projette la cible vers un autre emplacement à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et lui inflige **1d12** dégâts supplémentaires.

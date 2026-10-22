@@ -1,22 +1,16 @@
 ---
-tags:
-  - "daggerheart/weapon"
-name: "Improved Cutlass"
-tier: 2
-category: "Primary"
-type: "Physical"
-trait: "Presence"
-range: "Melee"
-damage: "d8+4 phy"
-burden: "One-Handed"
+aliases:
+  - "Improved Cutlass"
 ---
 
-# Improved Cutlass
+# Coutelas amélioré
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+*(VO : Improved Cutlass)*
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+4 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-### FEATURE
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+4 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
 
 —

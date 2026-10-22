@@ -1,41 +1,32 @@
 ---
-tags:
-  - "daggerheart/subclass"
-name: "Executioners Guild"
-class: "Assassin"
-spellcast_trait: "Agility"
-description: "Play the Executioners Guild if you want to strike down your targets with lethal precision."
-features:
-  - "First Strike"
-  - "Ambush"
-  - "Death Strike"
-  - "Scorpion’s Poise"
-  - "True Strike"
-  - "Backstab"
+aliases:
+  - "Executioners Guild"
 ---
 
-# Executioners Guild
+# Guilde des bourreaux
 
-Play the Executioners Guild if you want to strike down your targets with lethal precision.
+*(VO : Executioners Guild)*
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+Jouez la Guilde des bourreaux si vous voulez abattre vos cibles avec une précision mortelle.
 
-[Agility](../core_rules/Character%20Creation.md#STEP%203)
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-**FOUNDATION FEATURES**
+[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***First Strike:*** The first time in a scene you succeed on an attack, you deal double damage.
+**APTITUDES DE FONDATION**
 
-***Ambush:*** Your “Marked for Death” feature uses **d6s** instead of d4s.
+***Première frappe :*** La première fois dans une scène que vous réussissez une attaque, vous infligez des dégâts doublés.
 
-**SPECIALIZATION FEATURES**
+***Embuscade :*** Votre aptitude « Marqué pour la mort » utilise des **d6** au lieu de d4.
 
-***Death Strike:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to a creature, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**APTITUDES DE SPÉCIALISATION**
 
-***Scorpion’s Poise:*** You gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against attacks made by a creature you’ve *Marked for* *Death*.
+***Coup mortel :*** Quand vous infligez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à une créature, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la forcer à marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
 
-**MASTERY FEATURES**
+***Aplomb du scorpion :*** Vous gagnez un bonus de +2 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre les attaques d’une créature que vous avez *Marquée pour* *la mort*.
 
-***True Strike:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when you fail an attack, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make it a success instead.
+**APTITUDES D’EXCELLENCE**
 
-***Backstab:*** Your “Marked for Death” feature uses **d8s** instead of d6s.
+***Frappe infaillible :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), quand vous ratez une attaque, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la transformer en réussite.
+
+***Coup dans le dos :*** Votre aptitude « Marqué pour la mort » utilise des **d8** au lieu de d6.

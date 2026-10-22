@@ -1,42 +1,26 @@
 ---
-tags:
-  - "daggerheart/adversary"
-name: "Outer Realms Abomination"
-tier: 4
-type: "Bruiser"
-description: "A chaotic mockery of life, constantly in flux."
-difficulty: 19
-thresholds: "35/71"
-hp: 7
-stress: 5
-atk: "+2d4"
-attack: "Massive Pseudopod"
-range: "Very Close"
-damage: "4d6+13 mag"
-motives_and_tactics: "Demolish, devour, undermine"
-features:
-  - "Chaotic Form - Passive"
-  - "Disorienting Presence - Passive"
-  - "Reality Quake - Action"
-  - "Unreal Form - Reaction"
+aliases:
+  - "Outer Realms Abomination"
 ---
 
-# Outer Realms Abomination
+# Abomination des royaumes extérieurs
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A chaotic mockery of life, constantly in flux.*
+*(VO : Outer Realms Abomination)*
 
-**Motives & Tactics:** Demolish, devour, undermine
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Une parodie chaotique de la vie, en perpétuelle mutation.*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 19 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 35/71 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2d4 | **Massive Pseudopod:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d6+13 mag
+**Motivations et tactiques :** Démolir, dévorer, saper
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 19 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 35/71 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2d4 | **Pseudopode massif :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d6+13 mag
 
-***Chaotic Form - Passive:*** When the Abomination attacks, roll **2d4** and use the result as their attack modifier.
+## APTITUDES
 
-***Disorienting Presence - Passive:*** When a target takes damage from the Abomination, they must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, they gain [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on their next [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Forme chaotique - Passif :*** Lorsque l'Abomination attaque, lancez **2d4** et utilisez le résultat comme modificateur d'attaque.
 
-***Reality Quake - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to rattle the edges of reality within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Abomination. All targets within that area must succeed on a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become *Unstuck* from reality until the end of the scene. When an *Unstuck* target spends [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or marks [Armor Slots](../core_rules/Equipment.md#ARMOR), [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), or [Stress](../core_rules/Core%20Mechanics.md#STRESS), they must double the amount spent or marked.
+***Présence désorientante - Passif :*** Lorsqu'une cible subit des dégâts de l'Abomination, elle doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas d'échec, elle subit un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à son prochain [jet d'action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Unreal Form - Reaction:*** When the Abomination takes damage, reduce it by **1d20**. If the Abomination marks 1 or fewer [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from a successful attack against them, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Secousse du réel - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire trembler les limites de la réalité à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l'Abomination. Toutes les cibles de cette zone doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sans quoi elles deviennent *Décalées* jusqu'à la fin de la scène. Lorsqu'une cible *Décalée* dépense un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou marque des [emplacements d'armure](../core_rules/Equipment.md#ARMURE), des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou du [Stress](../core_rules/Core%20Mechanics.md#STRESS), elle doit doubler la quantité dépensée ou marquée.
+
+***Forme irréelle - Réaction :*** Lorsque l'Abomination subit des dégâts, réduisez-les de **1d20**. Si l'Abomination marque 1 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou moins à la suite d'une attaque réussie contre elle, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

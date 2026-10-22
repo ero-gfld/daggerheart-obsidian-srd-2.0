@@ -1,19 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Full Plate Armor"
-tier: 1
-thresholds: "8/17"
-score: 4
-feature: "Very Heavy: −2 to Evasion; −1 to Agility"
+aliases:
+  - "Full Plate Armor"
 ---
 
-# Full Plate Armor
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure de plates complète
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 8 / 17  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+*(VO : Full Plate Armor)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 8 / 17  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
 
-***Very Heavy:*** −2 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION); −1 to [Agility](../core_rules/Character%20Creation.md#STEP%203)
+### APTITUDE
+
+***Très lourd :*** −2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) ; −1 à l’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

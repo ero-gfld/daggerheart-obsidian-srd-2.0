@@ -1,18 +1,16 @@
 ---
-tags:
-  - "daggerheart/armor"
-name: "Legendary Leather Armor"
-tier: 4
-thresholds: "13/36"
-score: 6
+aliases:
+  - "Legendary Leather Armor"
 ---
 
-# Legendary Leather Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+# Armure de cuir légendaire
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+*(VO : Legendary Leather Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-### FEATURE
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
 
 —

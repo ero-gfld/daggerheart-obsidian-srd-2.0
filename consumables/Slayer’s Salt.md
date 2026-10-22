@@ -1,10 +1,10 @@
 ---
-tags:
-  - "daggerheart/consumable"
-name: "Slayer’s Salt"
-effect: "You can spread this salt in a line along windowsills or thresholds to create a magical barrier that undead creatures can’t cross until the line is broken."
+aliases:
+  - "Slayer’s Salt"
 ---
 
-# Slayer’s Salt
+# Sel du tueur
 
-You can spread this salt in a line along windowsills or thresholds to create a magical barrier that undead creatures can’t cross until the line is broken.
+*(VO : Slayer’s Salt)*
+
+Vous pouvez répandre ce sel en ligne le long des rebords de fenêtre ou des seuils pour créer une barrière magique que les créatures mortes-vivantes ne peuvent pas franchir tant que la ligne n’est pas rompue.
