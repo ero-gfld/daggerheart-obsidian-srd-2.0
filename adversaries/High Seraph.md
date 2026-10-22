@@ -1,23 +1,30 @@
-# High Seraph
+---
+aliases:
+  - "High Seraph"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A divine champion, head of a hallowed host of warriors who enforce their god’s will.*
+# Haut séraphin
 
-**Motives & Tactics:** Enforce dogma, fly, pronounce judgment, smite
+*(VO : High Seraph)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 37/70 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Holy Sword:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d10+10 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un champion divin, à la tête d’une troupe sacrée de guerriers qui font respecter la volonté de leur dieu.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Divine [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3
+**Motivations et tactiques :** Faire respecter le dogme, voler, rendre son jugement, châtier
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 37/70 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +8 | **Épée sacrée :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d10+10 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) divin +3
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Seraph can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Implacable (3) - Passif :*** Le séraphin peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Divine Flight - Passive:*** While the Seraph is flying, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead of [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before taking an action.
+***Vol divin - Passif :*** Tant que le séraphin vole, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour se déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) au lieu de portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avant d’effectuer une action.
 
-***Judgment - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make a target *Guilty* in the eyes of the Seraph’s god until the Seraph is defeated. While *Guilty*, the target doesn’t gain [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on a result with Hope. When the Seraph succeeds on a standard attack against a *Guilty* target, they deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) instead of their standard damage. The Seraph can only mark one target at a time.
+***Jugement - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour rendre une cible *Coupable* aux yeux du dieu du séraphin, jusqu’à ce que le séraphin soit vaincu. Tant qu’elle est *Coupable*, la cible ne gagne pas d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) sur un résultat avec Espoir. Lorsque le séraphin réussit une attaque standard contre une cible *Coupable*, il inflige des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) au lieu de ses dégâts standard. Le séraphin ne peut marquer qu’une cible à la fois.
 
-***God Rays - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to reflect a sliver of divinity as a searing beam of light that hits up to twenty targets within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets must make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) if they are marked *Guilty*. Targets who fail take **4d6+12** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage.
+***Rayons divins - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour faire passer un fragment de divinité dans un rayon de lumière brûlant qui frappe jusqu’à vingt cibles à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203), avec [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) si elles sont *Coupables*. Les cibles qui échouent subissent **4d6+12** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent ne subissent que la moitié des dégâts.
 
-***We Are One - Action:*** Once per scene, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all other [adversaries](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Attacks they make while [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) in this way deal half damage.
+***Nous ne faisons qu’un - Action :*** Une fois par scène, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les autres [adversaires](../core_rules/Using%20Adversaries.md) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les attaques qu’ils effectuent lorsqu’ils sont mis sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) de cette manière infligent la moitié des dégâts.

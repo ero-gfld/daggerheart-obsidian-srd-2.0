@@ -1,3 +1,10 @@
-# Enchanter’s Loupe
+---
+aliases:
+  - "Enchanter’s Loupe"
+---
 
-You can use this loupe to see through illusions and enchantments.
+# Loupe de l’enchanteur
+
+*(VO : Enchanter’s Loupe)*
+
+Vous pouvez utiliser cette loupe pour voir au travers des illusions et des enchantements.

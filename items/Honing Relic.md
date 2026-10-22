@@ -1,3 +1,10 @@
-# Honing Relic
+---
+aliases:
+  - "Honing Relic"
+---
 
-You gain a +1 bonus to an [Experience](../core_rules/Character%20Creation.md#STEP%207) of your choice. You can only carry one relic.
+# Relique d’affûtage
+
+*(VO : Honing Relic)*
+
+Vous gagnez un bonus de +1 à une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) de votre choix. Vous ne pouvez porter qu’une seule relique.

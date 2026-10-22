@@ -1,9 +1,16 @@
-# Runetan Floating Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Runetan Floating Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 20  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Armure flottante runetane
 
-### FEATURE
+*(VO : Runetan Floating Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Shifting:*** When you are targeted for an attack, you can mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) to give the [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against you [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 20  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Mouvant :*** Lorsqu’une attaque vous vise, vous pouvez marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour imposer un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) au [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre vous.

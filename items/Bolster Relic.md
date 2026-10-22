@@ -1,3 +1,10 @@
-# Bolster Relic
+---
+aliases:
+  - "Bolster Relic"
+---
 
-You gain a +1 bonus to your [Strength](../core_rules/Character%20Creation.md#STEP%203). You can only carry one relic.
+# Relique de renfort
+
+*(VO : Bolster Relic)*
+
+Vous gagnez un bonus de +1 à votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Vous ne pouvez porter qu’une seule relique.

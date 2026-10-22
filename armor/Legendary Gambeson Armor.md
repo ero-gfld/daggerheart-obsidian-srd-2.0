@@ -1,9 +1,16 @@
-# Legendary Gambeson Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Legendary Gambeson Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 32  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+# Gambison légendaire
 
-### FEATURE
+*(VO : Legendary Gambeson Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Flexible:*** +1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 32  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
+
+***Souple :*** +1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

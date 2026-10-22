@@ -1,25 +1,32 @@
-# Werewolf
+---
+aliases:
+  - "Werewolf"
+---
 
-Werewolves are creatures who transform into large supernatural wolves. While some are born werewolves, others undergo this [transformation](../core_rules/Transformations.md) because of a curse, an infection through another werewolf’s bite, or another unnatural cause. Werewolves look like typical members of their ancestry until they shift, whereupon they transform into a massive otherworldly wolf. Some might even take on a shape that is an amalgamation of their ancestry and their wolf form. Stories describe werewolves shifting with the phases of the moon, though an individual’s experience with this change varies based on the cause of their transformation.
+# Loup-garou
 
-Werewolves often struggle to control their hunting instinct and violence while in their wolf form, and they must have immense self-discipline, use significant energy, or resort to fleeing or locking themselves away to avoid harming their loved ones. The longer a werewolf has experience with their condition, the more likely they are to have developed methods of controlling themselves.
+*(VO : Werewolf)*
 
-**TRANSFORMATION FEATURES**
+Les loups-garous sont des créatures qui se transforment en grands loups surnaturels. Certains naissent loups-garous, tandis que d’autres subissent cette [transformation](../core_rules/Transformations.md) à cause d’une malédiction, de la morsure infectieuse d’un autre loup-garou ou d’une autre cause contre nature. Les loups-garous ressemblent à des membres ordinaires de leur ascendance jusqu’à ce qu’ils changent de forme et deviennent un loup massif venu d’un autre monde. Certains adoptent même une forme qui est un amalgame de leur ascendance et de leur forme de loup. Les récits les décrivent changeant de forme au gré des phases de la lune, même si l’expérience de chacun varie selon la cause de sa transformation.
 
-***Wolf Form:*** When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to enter your Wolf Form. While in this form, you gain a **1d10** bonus to attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING). When you roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) while in Wolf Form, you must mark a Stress. Your Wolf Form lasts until you go into your “Howling Rampage” or take a rest.
+Les loups-garous peinent souvent à maîtriser leur instinct de chasse et leur violence sous leur forme de loup. Il leur faut une immense discipline, une énergie considérable, ou bien fuir ou s’enfermer pour ne pas blesser leurs proches. Plus un loup-garou a d’expérience de son état, plus il est probable qu’il ait mis au point des méthodes pour se maîtriser.
 
-***Howling Rampage:*** When you mark your last [Stress](../core_rules/Core%20Mechanics.md#STRESS) while in Wolf Form, you go into a rampage. Roll a number of **d20s** equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) and deal that much [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to all creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then drop out of Wolf Form.
+**APTITUDES DE TRANSFORMATION**
 
-**TRANSFORMATION QUESTIONS**
+***Forme de loup :*** Lorsque vous marquez 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour prendre votre Forme de loup. Sous cette forme, vous gagnez un bonus de **1d10** aux jets d’attaque et de [dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER). Lorsque vous faites un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) sous Forme de loup, vous devez marquer un Stress. Votre Forme de loup dure jusqu’à ce que vous entriez dans votre « Déchaînement hurlant » ou que vous preniez un repos.
 
-- Someone is hunting you. Who is it, and why do they want you dead?
+***Déchaînement hurlant :*** Lorsque vous marquez votre dernier [Stress](../core_rules/Core%20Mechanics.md#STRESS) sous Forme de loup, vous entrez dans un déchaînement. Lancez un nombre de **d20** égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et infligez ce total en [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à toutes les créatures à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), puis quittez la Forme de loup.
 
-- What were you afraid of before you became a werewolf, and how has your new power changed that fear?
+**QUESTIONS DE TRANSFORMATION**
 
-- You hear your wolf form in your head as if it were another entity. What lie does it tell you about yourself, and why are you beginning to believe it?
+- Quelqu’un vous traque. Qui est-ce, et pourquoi veut-il votre mort ?
 
-- What led you to kill someone you love during your rampage?
+- De quoi aviez-vous peur avant de devenir loup-garou, et en quoi votre nouveau pouvoir a-t-il changé cette peur ?
 
-- Who cursed you to become a werewolf?
+- Vous entendez votre forme de loup dans votre tête comme s’il s’agissait d’une autre entité. Quel mensonge vous dit-elle sur vous-même, et pourquoi commencez-vous à y croire ?
 
-- You were once entreated to join a pack of other werewolves. How did you respond?
+- Qu’est-ce qui vous a poussé à tuer un être cher pendant votre déchaînement ?
+
+- Qui vous a maudit pour que vous deveniez loup-garou ?
+
+- On vous a un jour supplié de rejoindre une meute d’autres loups-garous. Comment avez-vous répondu ?

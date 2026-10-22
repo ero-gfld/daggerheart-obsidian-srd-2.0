@@ -1,5 +1,12 @@
-# Share the Burden
+---
+aliases:
+  - "Share the Burden"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Partager le fardeau
 
-Once per rest, take on the [Stress](../core_rules/Core%20Mechanics.md#STRESS) from a willing creature within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The target describes what intimate knowledge or emotions telepathically leak from their mind in this moment between you. Transfer any number of their marked Stress to you, then gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each Stress transferred.
+*(VO : Share the Burden)*
+
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Une fois par repos, prenez à votre charge le [Stress](../core_rules/Core%20Mechanics.md#STRESS) d’une créature consentante à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible décrit la connaissance intime ou les émotions qui filtrent télépathiquement de son esprit à cet instant, entre vous. Transférez à vous autant de Stress marqué de la cible que vous le souhaitez, puis gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) par Stress transféré.

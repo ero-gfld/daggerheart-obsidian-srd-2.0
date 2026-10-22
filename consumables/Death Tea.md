@@ -1,3 +1,10 @@
-# Death Tea
+---
+aliases:
+  - "Death Tea"
+---
 
-After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don’t critically succeed on an attack before your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you die.
+# Thé de la mort
+
+*(VO : Death Tea)*
+
+Après avoir bu ce thé, vous tuez instantanément votre cible lorsque vous réussissez une attaque de façon critique. Si vous ne réussissez pas une attaque de façon critique avant votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous mourez.

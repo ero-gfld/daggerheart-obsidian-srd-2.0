@@ -1,3 +1,10 @@
-# Mossmantle Potion
+---
+aliases:
+  - "Mossmantle Potion"
+---
 
-You can drink this tea to perfectly blend into natural [environments](../core_rules/Using%20Environments.md) until your next rest.
+# Potion de manteau de mousse
+
+*(VO : Mossmantle Potion)*
+
+Vous pouvez boire cette tisane pour vous fondre parfaitement dans les [environnements](../core_rules/Using%20Environments.md) naturels jusqu’à votre prochain repos.

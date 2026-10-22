@@ -1,7 +1,14 @@
-# Spellcharge
+---
+aliases:
+  - "Spellcharge"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Charge de sortilège
 
-When you take [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), place tokens equal to the number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) you marked on this card. You can store a number of tokens equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+*(VO : Spellcharge)*
 
-When you make a successful attack against a target, you can spend any number of tokens to add a **d6** for each token spent to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque vous subissez des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), placez des jetons en nombre égal aux [points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) que vous avez marqués sur cette carte. Vous pouvez stocker un nombre de jetons égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
+
+Lorsque vous réussissez une attaque contre une cible, vous pouvez dépenser autant de jetons que vous voulez pour ajouter un **d6** par jeton dépensé à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

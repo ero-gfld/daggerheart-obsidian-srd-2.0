@@ -1,9 +1,16 @@
-# Elemental Kin
+---
+aliases:
+  - "Elemental Kin"
+---
 
-Elemental kin are humanoid mortals descended from powerful supernatural entities known as elementals—embodiments of the fundamental forces that shape the Mortal Realm (such as earth, air, fire, and water). These “kin” manifest forces differently, with some appearing more or less humanoid than others, but they all have a lineage that grants them unique ways to harness and influence their elemental heritage.
+# Enfant des éléments
 
-At birth, elemental kin closely resemble the element they embody, then become increasingly humanoid as they mature through early childhood. As they grow, their appearance manifests unique characteristics that identify them as elemental kin, such as crystal formations across a stonekin’s shoulders or a skykin’s ever-present breeze tousling their hair. While adult elemental kin are predominantly flesh and blood, small portions of their bodies momentarily shift into an elemental state in times of great emotion. Elemental kin with limb differences, or who lost a limb at some point in their life, can also manipulate a small amount of their element to help them accomplish a variety of tasks.
+*(VO : Elemental Kin)*
 
-Some elemental kins’ physical characteristics are passed down through families, such as one family of earthkin bearing shifting skin with the texture of sand, while another bears marble patterns. Additionally, families often develop their own unique communication styles that use their elemental influence. For example, emberkin might express excitement with flares of fire from their eyes, while tidekin might use currents of color over their bodies to communicate subtle messages.
+Les enfants des éléments sont des mortels humanoïdes descendant de puissantes entités surnaturelles appelées élémentaires, incarnations des forces fondamentales qui façonnent le Royaume mortel (comme la terre, l’air, le feu et l’eau). Ces « enfants » manifestent ces forces de manières différentes, certains paraissant plus ou moins humanoïdes que d’autres, mais tous ont une lignée qui leur donne des moyens uniques d’exploiter et d’influencer leur héritage élémentaire.
 
-Though their lifespans vary, all elemental kin return to their element upon their death.
+À la naissance, les enfants des éléments ressemblent beaucoup à l’élément qu’ils incarnent, puis deviennent de plus en plus humanoïdes au fil de la petite enfance. En grandissant, leur apparence prend des traits propres qui les désignent comme enfants des éléments, comme les formations cristallines sur les épaules d’un enfant de la pierre ou la brise perpétuelle qui ébouriffe les cheveux d’un enfant du ciel. Si les enfants des éléments adultes sont surtout de chair et de sang, de petites parties de leur corps passent brièvement à l’état élémentaire dans les moments d’intense émotion. Ceux qui ont une différence de membre, ou qui ont perdu un membre à un moment de leur vie, peuvent aussi manipuler un peu de leur élément pour accomplir toutes sortes de tâches.
+
+Certains traits physiques des enfants des éléments se transmettent dans les familles : une famille d’enfants de la terre peut avoir la peau changeante et granuleuse comme du sable, tandis qu’une autre arbore des veinures de marbre. De plus, les familles développent souvent leurs propres modes de communication, qui font appel à leur influence élémentaire. Par exemple, les enfants du feu peuvent exprimer leur excitation par des gerbes de flammes qui jaillissent de leurs yeux, tandis que les enfants des eaux peuvent faire courir des courants de couleur sur leur corps pour transmettre des messages subtils.
+
+Bien que leur durée de vie varie, tous les enfants des éléments retournent à leur élément à leur mort.

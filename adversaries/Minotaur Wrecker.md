@@ -1,19 +1,26 @@
-# Minotaur Wrecker
+---
+aliases:
+  - "Minotaur Wrecker"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A massive bull-headed firbolg with a quick temper.*
+# Minotaure destructeur
 
-**Motives & Tactics:** Consume, gore, navigate, overpower, pursue
+*(VO : Minotaur Wrecker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 14/27 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Battleaxe:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+5 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un firbolg massif à tête de taureau, au tempérament vif.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Navigation +2
+**Motivations et tactiques :** Consommer, éventrer, se frayer un chemin, écraser, poursuivre
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 14/27 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Hache de bataille :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+5 phy
 
-***Ramp Up - Passive:*** You must **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Minotaur. While [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), they can make their standard attack against all targets within range.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Navigation +2
 
-***Charging Bull - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to charge through a group within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an attack against all targets in the Minotaur’s path. Targets the Minotaur succeeds against take **2d6+8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are knocked back to [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. If a target is knocked into a solid object or another creature, they take an extra **1d6** damage (combine the damage).
+## APTITUDES
 
-***Gore - Action:*** Make an attack against a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, moving the Minotaur into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. On a success, deal **2d8** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Montée en puissance - Passif :*** Vous devez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour [mettre le Minotaure sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Lorsqu'il est [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), il peut porter son attaque standard contre toutes les cibles à portée.
+
+***Charge du taureau - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour charger à travers un groupe à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et attaquer toutes les cibles sur le chemin du Minotaure. Les cibles contre lesquelles le Minotaure réussit subissent **2d6+8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et sont repoussées jusqu'à [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Si une cible est projetée contre un objet solide ou une autre créature, elle subit **1d6** dégâts supplémentaires (additionnez les dégâts).
+
+***Éventration - Action :*** Effectuez une attaque contre une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), en amenant le Minotaure à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de celle-ci. En cas de réussite, infligez **2d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

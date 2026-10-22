@@ -1,25 +1,32 @@
-# Beastbound
+---
+aliases:
+  - "Beastbound"
+---
 
-Play the Beastbound if you want to form a deep bond with an animal ally.
+# Lié aux bêtes
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Beastbound)*
 
-[Agility](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Lié aux bêtes si vous voulez nouer un lien profond avec un allié animal.
 
-**FOUNDATION FEATURE**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Companion:*** You have an animal companion of your choice (at the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s discretion). They stay by your side unless you tell them otherwise.
+[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-Take the Ranger Companion sheet. When you [level up](../core_rules/Core%20Mechanics.md#LEVELING%20UP) your character, choose a level-up option for your companion from this sheet as well.
+**APTITUDE DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Compagnon :*** Vous avez un compagnon animal de votre choix (avec l’accord du [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)). Il reste à vos côtés, sauf si vous lui dites le contraire.
 
-***Expert Training:*** Choose an additional level-up option for your companion.
+Prenez la fiche de compagnon du Rôdeur. Quand vous [montez de niveau](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU), choisissez aussi une option de montée de niveau pour votre compagnon sur cette fiche.
 
-***Battle-Bonded:*** When an [adversary](../core_rules/Using%20Adversaries.md) attacks you while they’re within your companion’s [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against the attack.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Dressage expert :*** Choisissez une option de montée de niveau supplémentaire pour votre compagnon.
 
-***Advanced Training:*** Choose two additional level-up options for your companion.
+***Lien du champ de bataille :*** Quand un [adversaire](../core_rules/Using%20Adversaries.md) vous attaque alors qu’il se trouve à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de votre compagnon, vous gagnez un bonus de +2 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre cette attaque.
 
-***Loyal Friend:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), when the damage from an attack would mark your companion’s last [Stress](../core_rules/Core%20Mechanics.md#STRESS) or your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and you’re within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of each other, you or your companion can rush to the other’s side and take that damage instead.
+**APTITUDES D’EXCELLENCE**
+
+***Dressage avancé :*** Choisissez deux options de montée de niveau supplémentaires pour votre compagnon.
+
+***Ami fidèle :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), quand les dégâts d’une attaque feraient marquer le dernier [Stress](../core_rules/Core%20Mechanics.md#STRESS) de votre compagnon ou votre dernier [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), et que vous êtes à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) l’un de l’autre, vous ou votre compagnon pouvez vous précipiter auprès de l’autre et subir ces dégâts à sa place.

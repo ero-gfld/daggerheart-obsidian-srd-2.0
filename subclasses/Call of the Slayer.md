@@ -1,35 +1,42 @@
-# Call of the Slayer
+---
+aliases:
+  - "Call of the Slayer"
+---
 
-Play the Call of the Slayer if you want to strike down [adversaries](../core_rules/Using%20Adversaries.md) with immense force.
+# Appel du tueur
 
-**FOUNDATION FEATURE**
+*(VO : Call of the Slayer)*
 
-***Slayer:*** You gain a pool of dice called Slayer Dice. On a roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can place a **d6** on this card instead of gaining a Hope, adding the die to the pool. You can store a number of Slayer Dice equal to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). When you make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) or [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), you can spend any number of these Slayer Dice, rolling them and adding their result to the roll. At the end of each session, clear any unspent Slayer Dice on this card and gain a Hope per die cleared.
+Jouez l’Appel du tueur si vous voulez abattre des [adversaires](../core_rules/Using%20Adversaries.md) avec une force colossale.
 
-**SPECIALIZATION FEATURE**
+**APTITUDE DE FONDATION**
 
-***Weapon Specialist:*** You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to add one of the damage dice from your [secondary weapon](../core_rules/Equipment.md#WEAPONS) to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when you roll your Slayer Dice, reroll any 1s.
+***Tueur :*** Vous gagnez une réserve de dés appelés dés de Tueur. Sur un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez placer un **d6** sur cette carte au lieu de gagner un Espoir, et l’ajouter à la réserve. Vous pouvez stocker un nombre de dés de Tueur égal à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). Quand vous faites un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) ou un [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez dépenser autant de ces dés de Tueur que vous voulez, les lancer et ajouter leur résultat au jet. À la fin de chaque session, évacuez les dés de Tueur non dépensés sur cette carte et gagnez un Espoir par dé évacué.
 
-**MASTERY FEATURE**
+**APTITUDE DE SPÉCIALISATION**
 
-***Martial Preparation:*** You’re an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME). To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a **d6** Slayer Die. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) with a Slayer Die can spend it to roll the die and add the result to an attack or [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) of their choice.
+***Spécialiste des armes :*** Vous maniez plusieurs armes avec une aisance dangereuse. Quand vous réussissez une attaque, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ajouter un des dés de dégâts de votre [arme secondaire](../core_rules/Equipment.md#ARMES) au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), quand vous lancez vos dés de Tueur, relancez tous les 1.
 
-**BACKGROUND QUESTIONS**
+**APTITUDE D’EXCELLENCE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***Préparation martiale :*** Vous êtes un guerrier inspirant pour tous ceux qui voyagent avec vous. Votre groupe accède à l’[action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) Préparation martiale. Pour utiliser cette action pendant un repos, décrivez comment vous instruisez votre groupe et vous entraînez avec lui. Vous et chaque allié qui choisit cette action de repos gagnez un dé de Tueur **d6**. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui possède un dé de Tueur peut le dépenser pour le lancer et ajouter le résultat à un jet d’attaque ou de [dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) de son choix.
 
-- Who taught you to fight, and why did they stay behind when you left home?
+**QUESTIONS D’HISTORIQUE**
 
-- Somebody defeated you in battle years ago and left you to die. Who was it, and how did they betray you?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- What legendary place have you always wanted to visit, and why is it so special?
+- Qui vous a appris à vous battre, et pourquoi est-il resté en arrière quand vous avez quitté votre foyer ?
 
-**CONNECTIONS**
+- Quelqu’un vous a vaincu au combat il y a des années et vous a laissé pour mort. Qui était-ce, et comment vous a-t-il trahi ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Quel lieu légendaire avez-vous toujours rêvé de visiter, et pourquoi est-il si particulier ?
 
-- We knew each other long before this party came together. How?
+**LIENS**
 
-- What mundane task do you usually help me with off the battlefield?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- What fear am I helping you overcome?
+- Nous nous connaissions bien avant la formation de ce groupe. Comment ?
+
+- Quelle tâche banale m’aidez-vous habituellement à accomplir en dehors du champ de bataille ?
+
+- Quelle peur est-ce que je vous aide à surmonter ?

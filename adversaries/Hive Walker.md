@@ -1,17 +1,24 @@
-# Hive Walker
+---
+aliases:
+  - "Hive Walker"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A corpse filled with and puppeted by a colony of carrion-eating bees.*
+# Marcheur de la ruche
 
-**Motives & Tactics:** Encase prey in honey, protect the hive
+*(VO : Hive Walker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 11/24 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Rotting Fist:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+3 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un cadavre rempli et animé par une colonie d’abeilles nécrophages.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Meat Eater +2
+**Motivations et tactiques :** Enfermer les proies dans le miel, protéger la ruche
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 11/24 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Poing pourrissant :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+3 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Mangeur de chair +2
 
 ## FEATURES
 
-***Blood Honey - Action:*** The Walker disgorges thick crimson honey at all targets between it and a point within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target in that line must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **2d8** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and become temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* as the honey hardens on them.
+***Miel sanglant - Action :*** Le marcheur vomit un miel cramoisi et épais sur toutes les cibles situées entre lui et un point à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible de cette ligne doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **2d8** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et être temporairement *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, le miel durcissant sur elle.
 
-***Bee-Ruption - Reaction:*** When the Walker marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), vengeful bees erupt from its body to protect it. Each target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **1d8** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) for each HP the Hive Walker has marked. *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* targets automatically fail the reaction roll.
+***Éruption d’abeilles - Réaction :*** Lorsque le marcheur marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), des abeilles vengeresses jaillissent de son corps pour le protéger. Chaque cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **1d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs pour chaque PV que le marcheur a marqué. Les cibles *[Entravées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* échouent automatiquement au jet de réaction.

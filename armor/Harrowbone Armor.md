@@ -1,9 +1,16 @@
-# Harrowbone Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Harrowbone Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 21  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Armure d’os tourmentés
 
-### FEATURE
+*(VO : Harrowbone Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Resilient:*** Before you mark your last [Armor Slot](../core_rules/Equipment.md#ARMOR), roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 21  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Résistant :*** Avant de marquer votre dernier [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), lancez un d6. Sur un résultat de 6, réduisez la gravité d’un seuil sans marquer d’Emplacement d’armure.

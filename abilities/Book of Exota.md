@@ -1,7 +1,14 @@
-# Book of Exota
+---
+aliases:
+  - "Book of Exota"
+---
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+# Livre d’Exota
 
-***Repudiate:*** You can interrupt a magical effect taking place. Make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) using your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. Once per rest on a success, the effect stops and any consequences are avoided.
+*(VO : Book of Exota)*
 
-***Create Construct:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a group of objects around you and create an animated construct from them that obeys basic commands. Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** to command them to take action. When necessary, they share your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) and traits and their attacks deal **2d10+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). You can only maintain one construct at a time, and they fall apart when they take any amount of damage.
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+***Répudiation :*** Vous pouvez interrompre un effet magique en cours. Faites un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) en utilisant votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). Une fois par repos, en cas de réussite, l’effet cesse et toutes ses conséquences sont évitées.
+
+***Créer une créature artificielle :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir un groupe d’objets autour de vous et en faire une créature artificielle animée, qui obéit à des ordres simples. Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** pour lui ordonner d’agir. Si nécessaire, elle partage votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) et vos caractéristiques, et ses attaques infligent **2d10+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Vous ne pouvez maintenir qu’une seule créature artificielle à la fois, et elle se désagrège dès qu’elle subit des dégâts, quelle qu’en soit la quantité.

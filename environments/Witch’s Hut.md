@@ -1,21 +1,28 @@
-# Witch’s Hut
+---
+aliases:
+  - "Witch’s Hut"
+---
 
-***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***
-*A rustic, windowless hut sitting atop two huge chicken legs.*
+# Cabane de sorcière
 
-**Impulses:** Creep them out, delay them until the witch’s return, lock them inside, move to a different location, tempt them with magical oddities
+*(VO : Witch’s Hut)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** [Chicken-Foot Hut](../adversaries/Chicken-Foot%20Hut.md), Enchanted Defenses (*Gargoyle, [Ravenous Mockery](../adversaries/Ravenous%20Mockery.md), Scarecrow*), *Valdenhax*, The Witch’s Victims (*Jack-o’-Lanterns, [Redcap Biters](../adversaries/Redcap%20Biters.md)*)
+***[Rang 2](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Exploration](../core_rules/Using%20Environments.md)***
+*Une cabane rustique sans fenêtre, perchée sur deux énormes pattes de poule.*
 
-## FEATURES
+**Pulsions :** Les effrayer, les retarder jusqu’au retour de la sorcière, les enfermer, changer de lieu, les tenter avec des curiosités magiques
 
-***Bigger on the Inside - Passive:*** Though the hut’s exterior is a rustic single-room cottage, the interior is an ever-shifting estate of haunting splendor replete with numerous bedrooms, libraries, and indoor gardens, among other mysterious installations. *Is there any pattern to the way the hut rearranges itself? What is the* *most surprising location the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) could find here?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** [Hutte aux pattes de poule](../adversaries/Chicken-Foot%20Hut.md), Défenses enchantées (*Gargouille, [Moquerie vorace](../adversaries/Ravenous%20Mockery.md), Épouvantail*), *Valdenhax*, Les victimes de la sorcière (*Jack-o’-lanterns, [Mordeurs bonnet-rouge](../adversaries/Redcap%20Biters.md)*)
 
-***Creepy Doll Collection - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (5).* Throughout the hut, the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can see many, many porcelain or wooden dolls with strangely lifelike eyes. When the party first enters a doll’s [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), activate the countdown. It ticks down when a PC fails a roll or rolls with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). When it triggers, the dolls come to life and attack. Summon a number of living dolls ([Redcap Biters](../adversaries/Redcap%20Biters.md)) equal to twice the number of PCs. *Who were these dolls before? Is there any way to free them from their* *imprisonment?*
+## APTITUDES
 
-***Witches’ Brew - Passive:*** The hut contains a workshop with every tool or component a witch could need, including a large iron cauldron set atop a smoldering fire. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who wants to use the workshop can make a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) to craft a magic potion or poison from the Consumables table.
+***Plus grande à l’intérieur - Passif :*** Si l’extérieur de la cabane est celui d’un cottage rustique d’une seule pièce, son intérieur est un domaine en perpétuelle mutation, d’une splendeur hantée, avec de nombreuses chambres, des bibliothèques, des jardins intérieurs et bien d’autres installations mystérieuses. *Existe-t-il une logique dans la façon dont la cabane se réarrange ? Quel est l’endroit le plus surprenant que les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) puissent y trouver ?*
 
-- **Any Failure:** The experiment blows up in their face—literally. The [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes **2d10+2** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
-- **Any Success:** The [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls a number of d12s equal to 1 + their tier, adds the results together, and gains the consumable that matches that value on the Consumables table. If they critically succeeded, they can reroll any d12s showing a result of 1. *What sorts of concoctions does the witch who owns this hut* *specialize in? What would the witch do if they found the PCs using* *their things?*
+***Collection de poupées effrayantes - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (5).* Partout dans la cabane, les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) voient une multitude de poupées de porcelaine ou de bois aux yeux étrangement vivants. Lorsque le groupe entre pour la première fois dans la [ligne de vue](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une poupée, activez le compte à rebours. Il diminue lorsqu’un PJ rate un jet ou fait un jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Quand il se déclenche, les poupées prennent vie et attaquent. Invoquez un nombre de poupées vivantes ([Mordeurs bonnet-rouge](../adversaries/Redcap%20Biters.md)) égal au double du nombre de PJ. *Qui étaient ces poupées autrefois ? Existe-t-il un moyen de les libérer de leur emprisonnement ?*
 
-***Dislocated - Reaction:*** Time moves differently inside the Witch’s Hut. When the door to the hut is closed, roll a **d6**. On a result of 4 or higher, the hut moves to a different—often impossibly far–location that’s only revealed to the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) when they open the hut’s door again. *Why does the hut move so often? Where does it wish to bring the* *PCs? Is there any way to aim it at a specific location?*
+***Breuvages de sorcière - Passif :*** La cabane abrite un atelier pourvu de tous les outils et composants qu’une sorcière peut désirer, dont un grand chaudron de fer posé sur un feu qui couve. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui veut utiliser l’atelier peut faire un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) pour fabriquer une potion ou un poison magique à partir de la table des consommables.
+
+- **Tout échec :** l’expérience explose à la figure du [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), au sens propre. Il subit **2d10+2** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+- **Tout succès :** le [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lance un nombre de d12 égal à 1 + son rang, additionne les résultats et obtient le consommable correspondant à ce total dans la table des consommables. S’il a réussi de manière critique, il peut relancer les d12 qui affichent un 1. *Quels genres de mixtures la sorcière propriétaire de cette cabane sait-elle préparer ? Que ferait-elle si elle découvrait les PJ en train d’utiliser ses affaires ?*
+
+***Déplacée - Réaction :*** Le temps ne s’écoule pas de la même façon à l’intérieur de la cabane de sorcière. Lorsque la porte de la cabane est fermée, lancez un **d6**. Sur un résultat de 4 ou plus, la cabane se déplace vers un autre endroit, souvent incroyablement éloigné, qui ne se révèle aux [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) que lorsqu’ils rouvrent sa porte. *Pourquoi la cabane se déplace-t-elle si souvent ? Où veut-elle emmener les PJ ? Peut-on la diriger vers un endroit précis ?*

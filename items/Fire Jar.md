@@ -1,3 +1,10 @@
-# Fire Jar
+---
+aliases:
+  - "Fire Jar"
+---
 
-You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+# Jarre de feu
+
+*(VO : Fire Jar)*
+
+Vous pouvez verser le liquide étrange contenu dans cette jarre pour produire instantanément du feu. Le contenu se régénère lorsque vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

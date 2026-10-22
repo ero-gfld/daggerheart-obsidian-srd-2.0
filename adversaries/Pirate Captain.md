@@ -1,21 +1,28 @@
-# Pirate Captain
+---
+aliases:
+  - "Pirate Captain"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A charismatic sea dog with an impressive hat, eager to raid and plunder.*
+# Capitaine corsaire
 
-**Motives & Tactics:** Command, make ’em walk the plank, plunder, raid
+*(VO : Pirate Captain)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/14 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Cutlass:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un loup de mer charismatique au chapeau impressionnant, impatient de razzier et de piller.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Commander +2, Sailor +3
+**Motivations et tactiques :** Commander, faire passer les prisonniers par la planche, piller, razzier
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7/14 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Sabre d'abordage :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+2 phy
 
-***Swashbuckler - Passive:*** When the Captain marks 2 or fewer [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, the attacker must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Commandant +2, Marin +3
 
-***Reinforcements - Action:*** Once per scene, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to summon a [Pirate Raiders](Pirate%20Raiders.md) [Horde](../core_rules/Using%20Adversaries.md), which appears at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+## APTITUDES
 
-***No Quarter - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target who has three or more Pirates within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. The Captain leads the Pirates in hurling threats and promises of a watery grave. The target must make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, the target marks **1d4+1** [Stress](../core_rules/Core%20Mechanics.md#STRESS). On a success, they must mark a Stress.
+***Bretteur - Passif :*** Lorsque le Capitaine marque 2 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou moins à la suite d'une attaque à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), l'attaquant doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Momentum - Reaction:*** When the Captain makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Renforts - Action :*** Une fois par scène, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour invoquer une [Horde](../core_rules/Using%20Adversaries.md) de [Maraudeurs corsaires](Pirate%20Raiders.md), qui apparaît à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Pas de quartier - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour désigner une cible ayant trois corsaires ou plus à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d'elle. Le Capitaine mène les corsaires à lancer des menaces et des promesses de sépulture au fond des eaux. La cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas d'échec, elle marque **1d4+1** [Stress](../core_rules/Core%20Mechanics.md#STRESS). En cas de réussite, elle doit marquer un Stress.
+
+***Élan - Réaction :*** Lorsque le Capitaine réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

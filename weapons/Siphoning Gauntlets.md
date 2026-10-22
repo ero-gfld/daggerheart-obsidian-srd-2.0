@@ -1,9 +1,16 @@
-# Siphoning Gauntlets
+---
+aliases:
+  - "Siphoning Gauntlets"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Gantelets siphonneurs
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d10+9 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Siphoning Gauntlets)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Lifestealing:*** On a successful attack, roll a d6. On a result of 6, clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d10+9 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Vol de vie :*** Après une attaque réussie, lancez un d6. Sur un résultat de 6, effacez un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) marqué ou évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

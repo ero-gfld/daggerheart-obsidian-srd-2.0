@@ -1,3 +1,10 @@
-# Manacles
+---
+aliases:
+  - "Manacles"
+---
 
-This pair of locking cuffs comes with a key.
+# Menottes
+
+*(VO : Manacles)*
+
+Cette paire de bracelets verrouillables est livrée avec sa clé.

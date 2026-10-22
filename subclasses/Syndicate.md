@@ -1,59 +1,66 @@
-# Syndicate
+---
+aliases:
+  - "Syndicate"
+---
 
-Play the Syndicate if you want to have a web of contacts everywhere you go.
+# Syndicat
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Syndicate)*
 
-[Finesse](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Syndicat si vous voulez avoir un réseau de contacts partout où vous allez.
 
-**FOUNDATION FEATURE**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Well-Connected:*** When you arrive in a prominent town or [environment](../core_rules/Using%20Environments.md), you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
+[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-- They owe me a favor, but they’ll be hard to find.
+**APTITUDE DE FONDATION**
 
-- They’re going to ask for something in exchange.
+***Bien connecté :*** Quand vous arrivez dans une ville importante ou un [environnement](../core_rules/Using%20Environments.md) notable, vous connaissez quelqu’un qui y vit. Donnez-lui un nom, notez en quoi vous pensez qu’il pourrait vous être utile, et choisissez un fait dans la liste suivante :
 
-- They’re always in a great deal of trouble.
+- Il me doit une faveur, mais il sera difficile à trouver.
 
-- We used to be together. It’s a long story.
+- Il va me demander quelque chose en échange.
 
-- We didn’t part on great terms.
+- Il a toujours de gros ennuis.
 
-**SPECIALIZATION FEATURE**
+- Nous étions ensemble autrefois. C’est une longue histoire.
 
-***Contacts Everywhere:*** Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:
+- Nous ne nous sommes pas quittés en bons termes.
 
-- They provide 1 [handful](../core_rules/Equipment.md#GOLD) of gold, a unique tool, or a mundane object that the situation requires.
+**APTITUDE DE SPÉCIALISATION**
 
-- On your next [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), their help provides a +3 bonus to the result of your [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Contacts partout :*** Une fois par session, vous pouvez faire brièvement appel à un contact louche. Choisissez l’un des avantages suivants et décrivez ce qui l’a amené ici pour vous aider en cet instant :
 
-- The next time you deal damage, they snipe from the shadows, adding **2d8** to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+- Il vous fournit 1 [poignée](../core_rules/Equipment.md#OR) d’Or, un outil unique ou un objet ordinaire dont la situation a besoin.
 
-**MASTERY FEATURE**
+- Sur votre prochain [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), son aide vous apporte un bonus de +3 au résultat de votre dé d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou de [Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-***Reliable Backup:*** You can use your “Contacts Everywhere” feature three times per session. The following options are added to the list of benefits you can choose from when you use that feature:
+- La prochaine fois que vous infligez des dégâts, il tire depuis l’ombre et ajoute **2d8** à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-- When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they can rush out to shield you, reducing the Hit Points marked by 1.
+**APTITUDE D’EXCELLENCE**
 
-- When you make a [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll in conversation, they back you up. You can roll a **d20** as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Renfort fiable :*** Vous pouvez utiliser votre aptitude « Contacts partout » trois fois par session. Les options suivantes s’ajoutent à la liste des avantages que vous pouvez choisir quand vous utilisez cette aptitude :
 
-**BACKGROUND QUESTIONS**
+- Quand vous marquez 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, il peut se précipiter pour vous protéger et réduire de 1 le nombre de Points de vie marqués.
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+- Quand vous faites un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) dans une conversation, il vous soutient. Vous pouvez lancer un **d20** comme [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-- What did you get caught doing that got you exiled from your home community?
+**QUESTIONS D’HISTORIQUE**
 
-- You used to have a different life, but you’ve tried to leave it behind. Who from your past is still chasing you?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who from your past were you most sad to say goodbye to?
+- Pour quel méfait avez-vous été pris sur le fait, au point d’être exilé de votre communauté d’origine ?
 
-**CONNECTIONS**
+- Vous aviez une autre vie, mais vous avez essayé de la laisser derrière vous. Qui, de votre passé, vous poursuit encore ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- De qui, dans votre passé, vous a-t-il été le plus douloureux de vous séparer ?
 
-- What did I recently convince you to do that got us both in trouble?
+**LIENS**
 
-- What have I discovered about your past that I hold secret from the others?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- Who do you know from my past, and how have they influenced your feelings about me?
+- Que vous ai-je récemment convaincu de faire, au point de nous attirer des ennuis à tous les deux ?
+
+- Qu’ai-je découvert sur votre passé que je cache aux autres ?
+
+- Qui connaissez-vous de mon passé, et comment cette personne a-t-elle influencé votre opinion sur moi ?

@@ -1,5 +1,12 @@
-# Vanishing Dodge
+---
+aliases:
+  - "Vanishing Dodge"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Esquive évanescente
 
-When an attack made against you that would deal [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) fails, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to envelop yourself in shadow, becoming *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and teleporting to a point within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the attacker. You remain *Hidden* until the next time you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+*(VO : Vanishing Dodge)*
+
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsqu’une attaque dirigée contre vous, qui infligerait des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), échoue, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour vous envelopper d’ombre, devenir *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et vous téléporter en un point à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l’attaquant. Vous restez *Caché* jusqu’à la prochaine fois que vous faites un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).

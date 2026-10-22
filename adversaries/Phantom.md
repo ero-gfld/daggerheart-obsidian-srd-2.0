@@ -1,19 +1,26 @@
-# Phantom
+---
+aliases:
+  - "Phantom"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*The echo of a lost soul in the form of an ectoplasmic shadow.*
+# Phantasme
 
-**Motives & Tactics:** Create cold spots, swoop through the air, whisper dark tidings
+*(VO : Phantom)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Chill Touch:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+2 mag
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*L'écho d'une âme perdue, sous la forme d'une ombre ectoplasmique.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Spooky +3
+**Motivations et tactiques :** Créer des points froids, fondre dans les airs, murmurer de sombres nouvelles
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Toucher glacial :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+2 mag
 
-***Incorporeal - Passive:*** The Phantom has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and can move through solid objects.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Spectral +3
 
-***Fear Aura - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Phantom must succeed on a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10) or mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Lingering Haunt - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (1d6).* When the Phantom is defeated, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to activate the countdown. It ticks down when a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls with Fear. When it triggers, clear the Phantom’s [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Incorporel - Passif :*** Le Phantasme a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et peut traverser les objets solides.
+
+***Aura de peur - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui se retrouve [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Phantasme doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (10), sans quoi il marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Hantise persistante - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (1d6).* Lorsque le Phantasme est vaincu, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour activer le compte à rebours. Il avance lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) effectue un jet avec la Peur. Lorsqu'il se déclenche, évacuez les [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) du Phantasme et [mettez-le immédiatement sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

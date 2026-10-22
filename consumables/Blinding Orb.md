@@ -1,3 +1,10 @@
-# Blinding Orb
+---
+aliases:
+  - "Blinding Orb"
+---
 
-You can activate this orb to create a flash of bright light. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+# Orbe aveuglante
+
+*(VO : Blinding Orb)*
+
+Vous pouvez activer cette orbe pour créer un éclair de lumière vive. Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) deviennent *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elles marquent un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

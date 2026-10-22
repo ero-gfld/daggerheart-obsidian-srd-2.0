@@ -1,23 +1,23 @@
 # Rugaru
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A wolf-headed humanoid cursed by the gods to prowl the swamps in search of blood.*
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un humanoïde à tête de loup, maudit par les dieux pour rôder dans les marais en quête de sang.*
 
-**Motives & Tactics:** Blaspheme, go for the throat, stalk, terrorize
+**Motivations et tactiques :** Blasphémer, viser la gorge, traquer, terroriser
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/14 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Snapping Jaws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7/14 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Mâchoires claquantes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Swamps +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Marais +3
 
-## FEATURES
+## APTITUDES
 
-***Relentless (3) - Passive:*** The Rugaru can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Implacable (3) - Passif :*** Le Rugaru peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu'à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d'habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Child of Night - Passive:*** While in moonlight, the Rugaru gains a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+***Enfant de la nuit - Passif :*** Sous la lumière de la lune, le Rugaru gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-***Bloodthirsty - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from the Rugaru’s standard attack, add a token to this stat block. The Rugaru gains a bonus to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of tokens on this stat block. Clear all tokens when the Rugaru takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Assoiffé de sang - Passif :*** Lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de l'attaque standard du Rugaru, ajoutez un jeton à ce profil. Le Rugaru gagne un bonus aux [jets d'attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de jetons présents sur ce profil. Retirez tous les jetons lorsque le Rugaru subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Howl at the Moon - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15). Targets who fail lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). Gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each Hope lost. If a PC has no Hope, they must mark a Stress and become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they roll with Hope.
+***Hurlement à la lune - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour forcer chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à effectuer un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (15). Les cibles qui échouent perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour chaque Espoir perdu. Si un PJ n'a plus d'Espoir, il doit marquer un Stress et devient [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu'à ce qu'il lance les dés avec de l'Espoir.
 
-***Flesh Ripper - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **1d12+2** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Lacérateur de chair - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **1d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

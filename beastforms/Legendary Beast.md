@@ -1,11 +1,18 @@
-# Legendary Beast
+---
+aliases:
+  - "Legendary Beast"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Upgraded [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) Options)
+# Bête légendaire
 
-***Evolved:*** Pick a [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+*(VO : Legendary Beast)*
 
-- A +6 bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Options de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) améliorées)
 
-- A +1 bonus to the trait used by this form
+***Évolué :*** Choisissez une option de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et devenez une version plus grande et plus puissante de cette créature. Sous cette forme, vous conservez toutes les caractéristiques et aptitudes de la forme d’origine et gagnez les bonus suivants :
 
-- A +2 bonus to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+- Un bonus de +6 aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER)
+
+- Un bonus de +1 à la caractéristique utilisée par cette forme
+
+- Un bonus de +2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

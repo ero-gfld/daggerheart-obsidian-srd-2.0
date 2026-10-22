@@ -1,19 +1,26 @@
-# Oak Treant
+---
+aliases:
+  - "Oak Treant"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A sturdy animate old-growth tree.*
+# Ent-chêne
 
-**Motives & Tactics:** Hide in plain sight, preserve the forest, root down, swing branches
+*(VO : Oak Treant)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 22/40 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Branch:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+2 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un vieil arbre ancestral animé, robuste et solide.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Forest [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3
+**Motivations et tactiques :** Se cacher au vu de tous, préserver la forêt, prendre racine, balancer ses branches
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 22/40 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Branche :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+2 phy
 
-***Just a Tree - Passive:*** Before they make their first attack in a fight or after they become *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*, the Treant is indistinguishable from other trees until they next act or a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) succeeds on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll to identify them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) de la forêt +3
 
-***Seed Barrage - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and make an attack against up to three targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, pummeling them with giant acorns. Targets the Treant succeeds against take **2d10+5** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Take Root - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to *Root* the Treant in place. The Treant is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* while *Rooted*, and can end this effect instead of moving while they are [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). While Rooted, the Treant has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Juste un arbre - Passif :*** Avant d'effectuer sa première attaque d'un combat, ou après avoir été *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, l'Ent est impossible à distinguer des autres arbres jusqu'à ce qu'il agisse à nouveau ou qu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) réussisse un jet d'[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour l'identifier.
+
+***Volée de graines - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** et effectuez une attaque contre jusqu'à trois cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), en les bombardant de glands géants. Les cibles contre lesquelles l'Ent réussit subissent **2d10+5** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Prendre racine - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour *enraciner* l'Ent sur place. L'Ent est *[Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* tant qu'il est *enraciné*, et peut mettre fin à cet effet au lieu de se déplacer lorsqu'il est [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Tant qu'il est enraciné, l'Ent a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

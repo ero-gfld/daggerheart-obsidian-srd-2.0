@@ -1,9 +1,16 @@
-# Improved Full Plate Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Improved Full Plate Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 28  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Armure de plates complète améliorée
 
-### FEATURE
+*(VO : Improved Full Plate Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Very Heavy:*** −2 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION); −1 to [Agility](../core_rules/Character%20Creation.md#STEP%203)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 28  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Très lourd :*** −2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) ; −1 à l’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

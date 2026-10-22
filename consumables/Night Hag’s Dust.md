@@ -1,3 +1,10 @@
-# Night Hag’s Dust
+---
+aliases:
+  - "Night Hag’s Dust"
+---
 
-You can blow this dust in an [adversary](../core_rules/Using%20Adversaries.md)’s face to prevent them from clearing [Stress](../core_rules/Core%20Mechanics.md#STRESS) until your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+# Poussière de guenaude nocturne
+
+*(VO : Night Hag’s Dust)*
+
+Vous pouvez souffler cette poussière au visage d’un [adversaire](../core_rules/Using%20Adversaries.md) pour l’empêcher d’évacuer du [Stress](../core_rules/Core%20Mechanics.md#STRESS) jusqu’à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

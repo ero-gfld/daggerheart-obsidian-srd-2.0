@@ -1,3 +1,10 @@
-# Stonemason’s Fortune
+---
+aliases:
+  - "Stonemason’s Fortune"
+---
 
-When you throw this gray brick on the ground, it immediately grows into a 6-foot-tall, 10-foot-wide, and 2-foot-deep wall of solid stone.
+# Fortune du tailleur de pierre
+
+*(VO : Stonemason’s Fortune)*
+
+Lorsque vous jetez cette brique grise au sol, elle se transforme aussitôt en un mur de pierre massive de 6 pieds de haut, 10 pieds de large et 2 pieds d’épaisseur.

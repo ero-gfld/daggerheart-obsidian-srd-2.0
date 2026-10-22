@@ -1,19 +1,26 @@
-# Cephilith Novitiate
+---
+aliases:
+  - "Cephilith Novitiate"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***
-*A luminary of the Mortal Realm who has given their mind to extradimensional entities in exchange for eldritch abilities.*
+# Novice cephilith
 
-**Motives & Tactics:** Help others see the Truth, make way for It, seek forbidden knowledge
+*(VO : Cephilith Novitiate)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Eldritch Might:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 12 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Sbire](../core_rules/Using%20Adversaries.md)***
+*Personnage éminent du Royaume mortel, qui a offert son esprit à des entités extradimensionnelles en échange de capacités occultes.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Visions +2
+**Motivations et tactiques :** Faire voir la Vérité aux autres, préparer Sa venue, chercher un savoir interdit
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Puissance occulte :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 12 phy
 
-***Minion (12) - Passive:*** The Novitiate is defeated when they take any damage. For every 12 damage a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to the Novitiate, the PC defeats an additional [Minion](../core_rules/Using%20Adversaries.md) within range the attack would succeed against.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Visions +2
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Cephilith Novitiates within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Those [Minions](../core_rules/Using%20Adversaries.md) move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal 12 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+## APTITUDES
 
-***Sacrifice Self - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Novitiate charge at a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and melt into them. Deal 12 direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to the target and defeat the Novitiate.
+***Sbire (12) - Passif :*** Le Novice est vaincu dès qu’il subit des dégâts. Pour chaque tranche de 12 dégâts qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) inflige au Novice, le PJ vainc un [Sbire](../core_rules/Using%20Adversaries.md) supplémentaire à portée de l’attaque, contre lequel elle aurait réussi.
+
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour désigner une cible et [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les Novices à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible. Ces [Sbires](../core_rules/Using%20Adversaries.md) se déplacent à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible et font un seul [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de réussite, chacun inflige 12 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Additionnez ces dégâts.
+
+***Sacrifice de soi - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Novice charge une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et se fonde en elle. Infligez 12 [dégâts magiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER) à la cible, et le Novice est vaincu.

@@ -1,25 +1,32 @@
-# Oracle of Doom
+---
+aliases:
+  - "Oracle of Doom"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A towering immortal and incarnation of fate, cursed to only see bad outcomes.*
+# Oracle de la perdition
 
-**Motives & Tactics:** Change [environment](../core_rules/Using%20Environments.md), condemn, dishearten, toss aside
+*(VO : Oracle of Doom)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 38/68 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 11 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 10  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Psychic Attack:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+9 mag
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un immortel colossal, incarnation du destin, condamné à ne voir que des issues funestes.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Boundless [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +4
+**Motivations et tactiques :** Modifier l'[environnement](../core_rules/Using%20Environments.md), condamner, décourager, rejeter
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 38/68 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 11 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 10  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +8 | **Attaque psychique :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d8+9 mag
 
-***Terrifying - Passive:*** When the Oracle makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) sans limite +4
 
-***Walls Closing In - Passive:*** When a creature rolls a failure while within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Oracle, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Pronounce Fate - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to present a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with a vision of their personal nightmare. The target must make a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, they lose all [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and take **2d20+4** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they take half damage and lose a Hope.
+***Terrifiant - Passif :*** Lorsque l'Oracle réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Summon Tormentors - Action:*** Once per day, **spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon **2d4** [Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) or below [Minions](../core_rules/Using%20Adversaries.md) relevant to one of the [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s personal nightmares. They appear at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range relative to that PC.
+***Murs qui se referment - Passif :*** Lorsqu'une créature obtient un échec à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l'Oracle, elle doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Ominous Knowledge - Reaction:*** When the Oracle sees a mortal creature, they instantly know one of their personal nightmares.
+***Proclamer le destin - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour présenter à une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) la vision de son cauchemar personnel. La cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas d'échec, elle perd tous ses [Espoirs](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et subit **2d20+4** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs. En cas de réussite, elle subit la moitié des dégâts et perd un Espoir.
 
-***Vengeful Fate - Reaction:*** When the Oracle marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to knock the attacker back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and deal **2d10+4** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Convoquer les tourmenteurs - Action :*** Une fois par jour, **dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer **2d4** [Sbires](../core_rules/Using%20Adversaries.md) de [rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) ou inférieur, liés à l'un des cauchemars personnels d'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Ils apparaissent à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce PJ.
+
+***Savoir funeste - Réaction :*** Lorsque l'Oracle voit une créature mortelle, il connaît instantanément l'un de ses cauchemars personnels.
+
+***Destin vengeur - Réaction :*** Lorsque l'Oracle marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à la suite d'une attaque à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour repousser l'attaquant jusqu'à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et lui infliger **2d10+4** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

@@ -1,3 +1,10 @@
-# Demiurge’s Draught
+---
+aliases:
+  - "Demiurge’s Draught"
+---
 
-You can drink this draught to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for your next successful [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Philtre du démiurge
+
+*(VO : Demiurge’s Draught)*
+
+Vous pouvez boire ce philtre pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour votre prochain [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) réussi.

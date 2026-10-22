@@ -1,21 +1,28 @@
-# Fallen Sorcerer
+---
+aliases:
+  - "Fallen Sorcerer"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A powerful mage bound by the bargains they made in life.*
+# Sorcier déchu
 
-**Motives & Tactics:** Acquire, dishearten, dominate, torment
+*(VO : Fallen Sorcerer)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 19 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 26/42 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Corrupted Staff:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d6+10 mag
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Un puissant mage lié par les marchés conclus de son vivant.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ancient [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2
+**Motivations et tactiques :** Acquérir, décourager, dominer, tourmenter
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 19 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 26/42 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Bâton corrompu :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d6+10 mag
 
-***Conflagration - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to unleash an all-consuming firestorm and make an attack against all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Sorcerer succeeds against take **2d10+6** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ancien +2
 
-***Nightmare Tableau - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to trap a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a powerful illusion of their worst fears. While trapped, the target is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they break free, ending both conditions, with a successful [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll.
+## APTITUDES
 
-***Slippery - Reaction:*** When the Sorcerer takes damage from an attack, they can teleport up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Embrasement - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour déchaîner une tempête de feu dévorante et attaquer toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Sorcier réussit subissent **2d10+6** [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER) magiques.
 
-***Shackles of Guilt - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 2d6)*. When the Sorcerer is in the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) for the first time, activate the countdown. When it triggers, all targets within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) as they relive their greatest regrets. A target can break free from their regret with a successful [Presence](../core_rules/Character%20Creation.md#STEP%203) or [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll. When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails to break free, they lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Tableau cauchemardesque - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour piéger une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) dans une illusion puissante de ses pires peurs. Tant qu’elle est piégée, la cible est *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle se libère, ce qui met fin aux deux états, grâce à un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi.
+
+***Insaisissable - Réaction :*** Lorsque le Sorcier subit des dégâts d’une attaque, il peut se téléporter jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Chaînes de culpabilité - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (boucle 2d6)*. Lorsque le Sorcier est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) pour la première fois, activez le compte à rebours. Quand il se déclenche, toutes les cibles à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) deviennent *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et marquent un [Stress](../core_rules/Core%20Mechanics.md#STRESS) en revivant leurs plus grands regrets. Une cible peut se libérer de son regret par un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi. Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) échoue à se libérer, il perd un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

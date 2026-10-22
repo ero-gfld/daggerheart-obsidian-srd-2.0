@@ -1,7 +1,14 @@
-# Rage Up
+---
+aliases:
+  - "Rage Up"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Monter en rage
 
-Before you make an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain a bonus to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to twice your [Strength](../core_rules/Character%20Creation.md#STEP%203).
+*(VO : Rage Up)*
 
-You can Rage Up twice per attack.
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Avant de faire une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour gagner un bonus à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au double de votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203).
+
+Vous pouvez utiliser Monter en rage deux fois par attaque.

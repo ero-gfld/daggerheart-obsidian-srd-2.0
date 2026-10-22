@@ -1,21 +1,28 @@
-# Jagged Knife Lieutenant
+---
+aliases:
+  - "Jagged Knife Lieutenant"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A seasoned bandit in quality leathers with a strong voice and cunning eyes.*
+# Lieutenant des Lames dentelées
 
-**Motives & Tactics:** Bully, command, profit, reinforce
+*(VO : Jagged Knife Lieutenant)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/14 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Javelin:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+3 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un bandit aguerri, vêtu de cuir de qualité, à la voix forte et au regard malin.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Local [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2
+**Motivations et tactiques :** Brutaliser, commander, faire du profit, renforcer ses rangs
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7/14 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Javeline :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+3 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) local +2
 
 ## FEATURES
 
-***Tactician - Action:*** When you [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Lieutenant, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to also spotlight two allies within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Tacticien - Action :*** Lorsque vous mettez le lieutenant sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour mettre aussi sous les projecteurs deux alliés à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***More Where That Came From - Action:*** Summon three [Jagged Knife Lackeys](Jagged%20Knife%20Lackey.md), who appear at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Il y en a d’autres - Action :*** Invoquez trois [Laquais des Lames dentelées](Jagged%20Knife%20Lackey.md), qui apparaissent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Coup de Grace - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make an attack against a *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **2d6+12** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Coup de grâce - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour attaquer une cible *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **2d6+12** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et la cible doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Momentum - Reaction:*** When the Lieutenant makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Élan - Réaction :*** Lorsque le lieutenant réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

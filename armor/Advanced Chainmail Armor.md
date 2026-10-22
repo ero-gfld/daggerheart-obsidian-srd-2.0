@@ -1,9 +1,16 @@
-# Advanced Chainmail Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Advanced Chainmail Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 31  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+# Cotte de mailles avancée
 
-### FEATURE
+*(VO : Advanced Chainmail Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Heavy:*** −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 31  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
+
+***Lourd :*** −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

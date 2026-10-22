@@ -1,7 +1,14 @@
-# Armorer
+---
+aliases:
+  - "Armorer"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Armurier
 
-While you’re wearing armor, gain a +1 bonus to your [Armor Score](../core_rules/Equipment.md#ARMOR).
+*(VO : Armorer)*
 
-During a rest, when you choose to repair your armor as a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME), your allies also clear an [Armor Slot](../core_rules/Equipment.md#ARMOR).
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque vous portez une armure, gagnez un bonus de +1 à votre [Score d’armure](../core_rules/Equipment.md#ARMURE).
+
+Pendant un repos, lorsque vous choisissez de réparer votre armure comme une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vos alliés effacent également un [emplacement d’armure](../core_rules/Equipment.md#ARMURE).

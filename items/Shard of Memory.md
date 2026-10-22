@@ -1,3 +1,10 @@
-# Shard of Memory
+---
+aliases:
+  - "Shard of Memory"
+---
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to recall a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) from your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) instead of paying its [Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS).
+# Éclat de mémoire
+
+*(VO : Shard of Memory)*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez dépenser 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour rappeler une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) au lieu de payer son [Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

@@ -1,5 +1,12 @@
-# Cloaking Blast
+---
+aliases:
+  - "Cloaking Blast"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Déflagration occultante
 
-When you make a successful **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** to cast a different spell, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to become *Cloaked*. While *Cloaked*, you remain unseen if you are stationary when an [adversary](../core_rules/Using%20Adversaries.md) moves to where they would normally see you. When you move into or within an adversary’s [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) or make an attack, you are no longer *Cloaked*.
+*(VO : Cloaking Blast)*
+
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque vous réussissez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** pour lancer un autre sort, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour devenir *dissimulé*. Tant que vous êtes *dissimulé*, vous restez invisible si vous êtes immobile lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) se déplace jusqu’à un endroit d’où il vous verrait normalement. Lorsque vous entrez ou vous déplacez dans la [ligne de vue](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un adversaire, ou lorsque vous faites une attaque, vous n’êtes plus *dissimulé*.

@@ -1,16 +1,23 @@
-# Archmage’s Tower
+---
+aliases:
+  - "Archmage’s Tower"
+---
 
-***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***
-*An impossibly tall spire that pierces the heavens and resonates with immense power.*
+# Tour de l’archimage
 
-**Impulses:** Collect magical energy, exhaust intruders, reveal the unknown, unleash bursts of magical power
+*(VO : Archmage’s Tower)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Alchemical Creations (Chimera, Lamia, *Manticore*), *Archmage*
+***[Rang 3](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Exploration](../core_rules/Using%20Environments.md)***
+*Une flèche démesurément haute perce le ciel et vibre d’une puissance immense.*
 
-## FEATURES
+**Pulsions :** Collecter l’énergie magique, épuiser les intrus, révéler l’inconnu, libérer des décharges de magie
 
-***Mystical Defenses - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (12)*. To climb the tower, the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must complete the countdown. On a failure or a roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), they trigger one of the archmage’s many arcane traps and hazards, taking **3d10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). On a [failure with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW), the damage dealt gains a bonus equal to the PC’s level. *What do the designs of the archmage’s defenses tell you about their* *specific area of expertise? What signature style or flourish do the* *traps and hazards all share?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Adversaires](../core_rules/Using%20Adversaries.md) possibles :** Créations alchimiques (Chimère, Lamia, *Manticore*), *Archimage*
 
-***Archmage’s Aerie - Passive:*** The top floor of the tower is a many-chambered laboratory, library, and workshop containing everything needed to study magic in its highest forms. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) with a [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) Trait can make a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) Roll to partake in the archmage’s research. On a success, they gain a +1 bonus to their [Spellcast Rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) until their next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME). On a failure, their investigation goes wrong, and they take **3d8+4** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). *What part of the aerie calls to you? What do the archmage’s notes* *reveal to you?*
+## Aptitudes
 
-***Amalgamated Adversaries - Reaction:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon two [adversaries](../core_rules/Using%20Adversaries.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F). Each [adversary](../core_rules/Using%20Adversaries.md) can use the other’s features as if they were their own. *Which creatures has the archmage chosen to combine? What do they* *hope to learn in doing so?*
+***Défenses mystiques - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (12)*. Pour gravir la tour, les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doivent compléter le compte à rebours. En cas d’échec ou de résultat avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), ils déclenchent l’un des nombreux pièges et dangers arcaniques de l’archimage et subissent **3d10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Sur un [échec avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U), les dégâts infligés gagnent un bonus égal au niveau du PJ. *Que révèlent les défenses de l’archimage sur sa spécialité ? Quelle signature ou quelle touche personnelle partagent tous ses pièges et dangers ?*
+
+***Aire de l’archimage - Passif :*** Le dernier étage de la tour est un laboratoire, une bibliothèque et un atelier à plusieurs salles, qui contiennent tout le nécessaire pour étudier la magie sous ses formes les plus élevées. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doté de l’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) peut faire un jet de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour participer aux recherches de l’archimage. En cas de réussite, il gagne un bonus de +1 à ses [jets d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) jusqu’à son prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS). En cas d’échec, son enquête tourne mal et il subit **3d8+4** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). *Quelle partie de l’aire vous attire ? Que révèlent les notes de l’archimage ?*
+
+***Adversaires fusionnés - Réaction :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer deux [adversaires](../core_rules/Using%20Adversaries.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Chaque [adversaire](../core_rules/Using%20Adversaries.md) peut utiliser les aptitudes de l’autre comme si elles étaient les siennes. *Quelles créatures l’archimage a-t-il choisi de combiner ? Qu’espère-t-il apprendre en le faisant ?*

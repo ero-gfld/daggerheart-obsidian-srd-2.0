@@ -1,15 +1,22 @@
-# Shambling Zombie
+---
+aliases:
+  - "Shambling Zombie"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*An animated corpse that moves shakily, driven only by hunger.*
+# Zombie traînant
 
-**Motives & Tactics:** Devour, hungry, mob enemy, shred flesh
+*(VO : Shambling Zombie)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/6 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Bite:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un cadavre animé qui avance d'un pas chancelant, mû par la seule faim.*
 
-## FEATURES
+**Motivations et tactiques :** Dévorer, avoir faim, assaillir l'ennemi en meute, déchiqueter la chair
 
-***Too Many to Handle - Passive:*** When the Zombie is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a creature and at least one other Zombie is within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, all attacks against that creature have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/6 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Morsure :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+1 phy
 
-***Horrifying - Passive:*** Targets who mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from the Zombie’s attacks must also mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
+
+***Trop nombreux pour être gérés - Passif :*** Lorsque le Zombie se trouve à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d'une créature et qu'au moins un autre Zombie se trouve à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), toutes les attaques contre cette créature bénéficient d'un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
+
+***Effroyable - Passif :*** Les cibles qui marquent des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause des attaques du Zombie doivent aussi marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

@@ -1,7 +1,14 @@
-# Astral Projection
+---
+aliases:
+  - "Astral Projection"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Projection astrale
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to create a projected copy of yourself that can appear anywhere you’ve been before.
+*(VO : Astral Projection)*
 
-You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it’s of magical origin. This effect lasts until your next rest or your projection takes any damage.
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour créer une copie projetée de vous-même, qui peut apparaître à tout endroit où vous avez été auparavant.
+
+Vous pouvez voir et entendre à travers la projection comme si c’était vous, et agir sur le monde comme si vous étiez là. Une créature qui examine la projection peut voir qu’elle a une origine magique. Cet effet dure jusqu’à votre prochain repos ou jusqu’à ce que votre projection subisse des dégâts.

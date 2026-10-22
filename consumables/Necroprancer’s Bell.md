@@ -1,3 +1,10 @@
-# Necroprancer’s Bell
+---
+aliases:
+  - "Necroprancer’s Bell"
+---
 
-You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.
+# Clochette du nécropranceur
+
+*(VO : Necroprancer’s Bell)*
+
+Vous pouvez briser contre le sol cette cloche rouillée, sans battant, pour invoquer une monture squelettique qui sort de la terre et vous sert jusqu’au prochain lever du soleil.

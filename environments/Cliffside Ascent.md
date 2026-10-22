@@ -1,22 +1,28 @@
-# Cliffside Ascent
+---
+aliases:
+  - "Cliffside Ascent"
+---
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***
-*A steep, rocky cliffside tall enough to make traversal dangerous.*
+# Ascension de la falaise
 
-**Impulses:** Cast the unready down to a rocky doom, draw people in with promise of what lies at the top
+*(VO : Cliffside Ascent)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Construct, [Deeproot Defender](../adversaries/Deeproot%20Defender.md), [Giant Scorpion](../adversaries/Giant%20Scorpion.md), [Glass Snake](../adversaries/Glass%20Snake.md)
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Traversée](../core_rules/Using%20Environments.md)***
+*Une paroi rocheuse abrupte, assez haute pour rendre la traversée dangereuse.*
 
-## FEATURES
+**Pulsions :** précipiter les imprudents vers une fin rocheuse, attirer les gens avec la promesse de ce qui attend au sommet
 
-***The Climb - Passive:*** Climbing up the cliffside uses a [Progress Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (12). It ticks down according to the following criteria when the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to climb:
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Automate, [Défenseur des racines profondes](../adversaries/Deeproot%20Defender.md), [Scorpion géant](../adversaries/Giant%20Scorpion.md), [Serpent de verre](../adversaries/Glass%20Snake.md)
 
-- **[Critical Success](../core_rules/Core%20Mechanics.md#OVERVIEW):** Tick down 3
-- **[Success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW):** Tick down 2
-- **[Success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW):** Tick down 1
-- **[Failure with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW):** No [advancement](../core_rules/Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS)
-- **[Failure with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW):** Tick up 1 When the [countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) triggers, the party has made it to the top of the cliff. *What strange formations are the stones arranged in? What ominous* *warnings did previous adventurers leave?*
+## APTITUDES
 
-***Pitons Left Behind - Passive:*** Previous climbers left behind large metal rods that climbers can use to aid their ascent. If a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) using the pitons fails an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to climb, they can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) instead of ticking the [countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) up. *What do the shape and material of these pitons tell you about the* *previous climbers? How far apart are they from one another?*
+***L’escalade - Passif :*** Grimper la falaise utilise un [compte à rebours de progression](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (12). Il décroît selon les critères suivants lorsque les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) font un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour grimper :
+- **[Réussite critique](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** décroît de 3
+- **[Réussite avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** décroît de 2
+- **[Réussite avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** décroît de 1
+- **[Échec avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** aucune [progression](../core_rules/Core%20Mechanics.md#%C3%89TAPE%20DEUX%20PROGRESSIONS)
+- **[Échec avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** augmente de 1 Quand le [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) se déclenche, le groupe a atteint le sommet de la falaise. *Quelles formes étranges dessinent ces pierres ? Quels sinistres avertissements les aventuriers précédents ont-ils laissés ?*
 
-***Fall - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they hit the ground and tick up the [countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) by 2. The PC takes **1d12** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) if the countdown is between 8 and 12, **2d12** between 4 and 7, and **3d12** at 3 or lower. *How can you tell many others have fallen here before? What lives* *in these walls that might try to scare adventurers into falling for* *an easy meal?*
+***Pitons laissés sur place - Passif :*** Les grimpeurs précédents ont laissé de gros pitons de métal que d’autres peuvent utiliser pour faciliter leur ascension. Si un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui utilise les pitons rate un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour grimper, il peut marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) au lieu de faire augmenter le [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS). *Que vous apprennent la forme et le matériau de ces pitons sur les grimpeurs précédents ? À quelle distance se trouvent-ils les uns des autres ?*
+
+***Chute - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la prise d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) cède et le précipite vers le sol. S’il n’est pas sauvé à l’action suivante, il touche le sol et fait augmenter de 2 le [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS). Le PJ subit **1d12** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) si le compte à rebours se situe entre 8 et 12, **2d12** entre 4 et 7, et **3d12** à 3 ou moins. *Comment reconnaissez-vous que beaucoup d’autres sont déjà tombés ici ? Qu’est-ce qui vit dans ces parois et pourrait tenter de faire tomber les aventuriers pour un repas facile ?*

@@ -1,9 +1,16 @@
-# Vorpal Shard
+---
+aliases:
+  - "Vorpal Shard"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Éclat vorpal
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Vorpal Shard)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Targeted:*** When you fail a weapon attack, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to succeed on your next weapon attack.
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Ciblé :*** Quand vous ratez une attaque avec une arme, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour réussir votre prochaine attaque avec une arme.

@@ -1,21 +1,28 @@
-# Minor Chaos Elemental
+---
+aliases:
+  - "Minor Chaos Elemental"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A coruscating mass of uncontrollable magic.*
+# Petit élémentaire du chaos
 
-**Motives & Tactics:** Confound, destabilize, transmogrify
+*(VO : Minor Chaos Elemental)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/14 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Warp Blast:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+6 mag
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une masse scintillante de magie incontrôlable.*
+
+**Motivations et tactiques :** Confondre, déstabiliser, transmuter
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7/14 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Déflagration distordue :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+6 mag
 
 ## FEATURES
 
-***Arcane Form - Passive:*** The Elemental is resistant to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Forme arcanique - Passif :*** L’élémentaire est résistant aux [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Sickening Flux - Action:*** **Mark a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)** to force all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next rest or they clear a HP.
+***Flux écœurant - Action :*** **Marquez un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)** pour forcer toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et à devenir *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à leur prochain repos ou jusqu’à ce qu’elles effacent un PV.
 
-***Remake Reality - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to transform the area within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range into a different biome. All targets within this area take **2d6+3** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Réécriture du réel - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour transformer la zone à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) en un biome différent. Toutes les cibles présentes dans cette zone subissent **2d6+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.
 
-***Magical Reflection - Reaction:*** When the Elemental takes damage from an attack within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, deal an amount of damage to the attacker equal to half the damage they dealt.
+***Réflexion magique - Réaction :*** Lorsque l’élémentaire subit des dégâts d’une attaque à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), il inflige à l’attaquant des dégâts égaux à la moitié de ceux que celui-ci lui a infligés.
 
-***Momentum - Reaction:*** When the Elemental makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Élan - Réaction :*** Lorsque l’élémentaire réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

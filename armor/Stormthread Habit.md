@@ -1,9 +1,16 @@
-# Stormthread Habit
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Stormthread Habit"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 20  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Habit de fil de tempête
 
-### FEATURE
+*(VO : Stormthread Habit)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Absorbing:*** Once per scene when you take [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can clear an [Armor Slot](../core_rules/Equipment.md#ARMOR).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 20  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Absorbant :*** Une fois par scène, lorsque vous subissez des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez évacuer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE).

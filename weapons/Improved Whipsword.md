@@ -1,9 +1,16 @@
-# Improved Whipsword
+---
+aliases:
+  - "Improved Whipsword"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Épée-fouet améliorée
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+3 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Improved Whipsword)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Versatile:*** This weapon can also be used with these statistics—[Finesse](../core_rules/Character%20Creation.md#STEP%203), [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), d10+3.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+3 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Polyvalent :*** Cette arme peut aussi être utilisée avec ces statistiques : [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203), [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), d10+3.

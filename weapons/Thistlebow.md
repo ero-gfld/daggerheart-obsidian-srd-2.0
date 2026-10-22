@@ -1,9 +1,16 @@
-# Thistlebow
+---
+aliases:
+  - "Thistlebow"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Arc-chardon
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+13 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Thistlebow)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Reliable:*** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+13 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Fiable :*** +1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER)

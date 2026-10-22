@@ -1,7 +1,14 @@
-# Gore and Glory
+---
+aliases:
+  - "Gore and Glory"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Carnage et gloire
 
-When you critically succeed on a weapon attack, gain an additional [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or clear an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*(VO : Gore and Glory)*
 
-Additionally, when you deal enough damage to defeat an enemy, gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque vous réussissez de manière critique une attaque avec une arme, gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) supplémentaire ou effacez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaire.
+
+Par ailleurs, lorsque vos dégâts suffisent à vaincre un ennemi, gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou effacez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

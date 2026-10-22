@@ -1,23 +1,30 @@
-# Mountain Troll
+---
+aliases:
+  - "Mountain Troll"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A hideous giant born out of a massive rock. They wear purloined armor and a belt of severed heads or skulls.*
+# Troll des montagnes
 
-**Motives & Tactics:** Ambush, bellow, hurl large boulders, smash, stomp
+*(VO : Mountain Troll)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Skull Flail:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un géant hideux né d'un immense rocher. Il porte une armure volée et une ceinture faite de têtes et de crânes tranchés.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Mountains +4
+**Motivations et tactiques :** Tendre une embuscade, rugir, lancer de gros rochers, fracasser, piétiner
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Fléau à crânes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+1 phy
 
-***Relentless (3) - Passive:*** The Troll can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Montagnes +4
 
-***Stolen Armor - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS).* When combat begins, activate a countdown with a value equal to the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F). When the Troll takes damage, reduce the severity by one threshold, then tick down the countdown. When it triggers, the Troll evolves (see “Enraged Mountain Troll”).
+## APTITUDES
 
-***Flail Swipe - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against all targets in front of the Troll within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Troll succeeds against take **2d8+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Implacable (3) - Passif :*** Le Troll peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu'à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d'habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Enraged Mountain Troll - Evolution:*** The Troll loses their “Stolen Armor” and “Flail Swipe” features, then gains a +1 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). Additionally, they gain the “Double Swipe” feature and replace “Skull Flail” with the following standard attack: **Claw Swipe:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d10+3 phy
+***Armure volée - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS).* Au début du combat, activez un compte à rebours dont la valeur est égale au nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Lorsque le Troll subit des dégâts, réduisez leur gravité d'un seuil, puis faites avancer le compte à rebours d'un cran. Lorsqu'il se déclenche, le Troll évolue (voir « Troll des montagnes enragé »).
 
-***Double Swipe - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make two standard attacks against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. If both attacks succeed, combine the damage, and the target loses a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Fauchage du fléau - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque contre toutes les cibles devant le Troll, à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Troll réussit subissent **2d8+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Troll des montagnes enragé - Évolution :*** Le Troll perd ses aptitudes « Armure volée » et « Fauchage du fléau », puis gagne un bonus de +1 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). De plus, il gagne l'aptitude « Double fauchage » et remplace « Fléau à crânes » par l'attaque standard suivante : **Fauchage de griffes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d10+3 phy
+
+***Double fauchage - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Troll se déplace jusqu'à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectue deux attaques standard contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Si les deux attaques réussissent, additionnez les dégâts, et la cible perd un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

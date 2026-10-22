@@ -1,9 +1,16 @@
-# Faun
+---
+aliases:
+  - "Faun"
+---
 
-Fauns resemble humanoid goats with curving horns, square pupils, and cloven hooves. Though their appearances may vary, most fauns have a humanoid torso and a goatlike lower body covered in dense fur. Faun faces can be more caprine or more humanlike, and they have a wide variety of ear and horn shapes. Faun horns range from short with minimal curvature to much larger with a distinct curl. The average faun ranges from 4 feet to 6 ½ feet tall, but their height can change dramatically from one moment to the next based on their stance. The majority of fauns have proportionately long limbs, no matter their size or shape, and are known for their ability to deliver powerful blows with their split hooves. Fauns live for roughly 225 years, and as they age, their appearance can become increasingly goatlike.
+# Faune
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+*(VO : Faun)*
 
-***Caprine Leap:*** You can leap anywhere within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range as though you were using normal movement, allowing you to vault obstacles, jump across gaps, or scale barriers with ease.
+Les faunes ressemblent à des humanoïdes-chèvres, avec des cornes recourbées, des pupilles rectangulaires et des sabots fendus. Leur apparence peut varier, mais la plupart ont un torse humanoïde et un bas du corps de chèvre couvert d’une fourrure dense. Leur visage peut être plus caprin ou plus humain, et la forme de leurs oreilles et de leurs cornes est très variée. Leurs cornes vont de courtes et à peine courbes à beaucoup plus grandes, avec une nette spirale. Le faune moyen mesure de 4 à 6 ½ pieds, mais sa taille peut changer radicalement d’un instant à l’autre selon sa posture. La plupart des faunes ont les membres proportionnellement longs, quelles que soient leur taille et leur forme, et sont réputés pour la puissance des coups qu’ils assènent de leurs sabots fendus. Les faunes vivent environ 225 ans, et en vieillissant, leur apparence peut devenir de plus en plus caprine.
 
-***Kick:*** When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to kick yourself off them, dealing an extra **2d6** damage and knocking back either yourself or the target to [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Bond caprin :*** Vous pouvez bondir n’importe où à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) comme si vous utilisiez un déplacement normal, ce qui vous permet de franchir des obstacles, de sauter par-dessus des vides ou d’escalader des barrières avec aisance.
+
+***Ruade :*** Quand vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous propulser d’un coup de sabot contre elle, ce qui inflige **2d6** dégâts supplémentaires et repousse soit vous-même, soit la cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

@@ -1,9 +1,16 @@
-# Gambeson Armor
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Gambeson Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 5 / 11  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 3
+# Gambison
 
-### FEATURE
+*(VO : Gambeson Armor)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Flexible:*** +1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 5 / 11  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 3
+
+### APTITUDE
+
+***Souple :*** +1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

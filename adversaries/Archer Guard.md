@@ -1,15 +1,22 @@
-# Archer Guard
+---
+aliases:
+  - "Archer Guard"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors.*
+# Garde archer
 
-**Motives & Tactics:** Arrest, close gates, make it through the day, pin down
+*(VO : Archer Guard)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Longbow:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+3 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Un grand garde armé d’un arc long et d’un carquois aux flèches empennées aux couleurs de la localité.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Local [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3
+**Motivations et tactiques :** Arrêter, fermer les portes, tenir jusqu’au soir, clouer sur place
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Arc long :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+3 phy
 
-***Hobbling Shot - Action:*** Make an attack against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to deal **1d12+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). If the target marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from this attack, they have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Agility](../core_rules/Character%20Creation.md#STEP%203) Rolls until they clear at least 1 HP.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) local +3
+
+## APTITUDES
+
+***Tir qui fait boiter - Action :*** Effectuez une attaque contre une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour infliger **1d12+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Si la cible marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de cette attaque, elle a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à ce qu’elle efface au moins 1 PV.

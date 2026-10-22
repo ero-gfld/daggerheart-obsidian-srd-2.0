@@ -1,3 +1,10 @@
-# Acidpaste
+---
+aliases:
+  - "Acidpaste"
+---
 
-This paste eats away walls and other surfaces in bright flashes.
+# Pâte acide
+
+*(VO : Acidpaste)*
+
+Cette pâte ronge les murs et les autres surfaces dans de vifs éclairs.

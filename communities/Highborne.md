@@ -1,9 +1,16 @@
-# Highborne
+---
+aliases:
+  - "Highborne"
+---
 
-Being part of a highborne community means you're accustomed to a life of elegance, opulence, and prestige within the upper echelons of society. Traditionally, members of a highborne community possess incredible material wealth. While this can take a variety of forms depending on the community—including gold and other minerals, land, or controlling the means of production—this status always comes with power and influence. Highborne place great value on titles and possessions, and there is little social mobility within their ranks. Members of a highborne community often control the political and economic status of the areas in which they live due to their ability to influence people and the economy with their substantial wealth. The health and safety of the less affluent people who live in these locations often hinges on the ability of this highborne ruling class to prioritize the well-being of their subjects over profit.
+# Bien-né
 
-*Highborne are often amiable, candid, conniving, enterprising,* *ostentatious, and unflappable.*
+*(VO : Highborne)*
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Faire partie d’une communauté de Bien-nés, c’est avoir l’habitude d’une vie d’élégance, d’opulence et de prestige au sommet de la société. Traditionnellement, les membres de ces communautés possèdent d’immenses richesses matérielles. Celles-ci prennent des formes variées selon la communauté : or et autres minerais, terres, contrôle des moyens de production. Mais ce statut s’accompagne toujours de pouvoir et d’influence. Les Bien-nés accordent une grande valeur aux titres et aux possessions, et la mobilité sociale est quasi inexistante dans leurs rangs. Ils contrôlent souvent la situation politique et économique des régions où ils vivent, car leur fortune leur permet d’influencer les gens comme l’économie. La santé et la sécurité des habitants moins aisés de ces lieux dépendent alors de la capacité de cette classe dirigeante à placer le bien-être de ses sujets avant le profit.
 
-***Privilege:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want.
+*Les Bien-nés sont souvent aimables, francs, intrigants, entreprenants,* *ostentatoires et imperturbables.*
+
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Privilège :*** Vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets pour fréquenter les nobles, négocier les prix ou jouer de votre réputation pour obtenir ce que vous voulez.

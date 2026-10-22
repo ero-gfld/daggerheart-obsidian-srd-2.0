@@ -1,19 +1,26 @@
-# Vault Guardian Turret
+---
+aliases:
+  - "Vault Guardian Turret"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A massive living turret with reinforced armor and twelve piston-driven mechanical legs.*
+# Tourelle de la Voûte
 
-**Motives & Tactics:** Concentrate fire, lock down, mark, protect
+*(VO : Vault Guardian Turret)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/32 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Magitech Cannon:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+3 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Une tourelle vivante et massive, à l’armure renforcée et douze pattes mécaniques actionnées par des pistons.*
 
-## FEATURES
+**Motivations et tactiques :** Concentrer le feu, verrouiller, marquer, protéger
 
-***Slow Firing - Passive:*** When you [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Turret and they don’t have a token on their stat block, they can’t make a standard attack. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Turret and they have a token on their stat block, clear the token and they can attack.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 20/32 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Canon magitech :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10+3 mag
 
-***Mark Target - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to *Mark* a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range until the Turret is destroyed or the *Marked* target becomes *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. While the target is *Marked*, their [Evasion](../core_rules/Core%20Mechanics.md#EVASION) is halved.
+## APTITUDES
 
-***Concentrate Fire - Reaction:*** When another [adversary](../core_rules/Using%20Adversaries.md) deals damage to a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Turret, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to add the Turret’s standard attack damage to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Tir lent - Passif :*** Lorsque vous [mettez la tourelle sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) et qu’elle n’a pas de jeton sur son profil, elle ne peut pas effectuer d’attaque standard. Placez un jeton sur son profil et décrivez ce qu’elle se prépare à faire. Lorsque vous mettez la tourelle sous les projecteurs et qu’elle a un jeton sur son profil, retirez le jeton : elle peut alors attaquer.
 
-***Detonation - Reaction:*** When the Turret is destroyed, they explode. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **3d20** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage.
+***Marquer une cible - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour *Marquer* une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) jusqu’à ce que la tourelle soit détruite ou que la cible *Marquée* devienne *[Cachée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. Tant que la cible est *Marquée*, son [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) est divisée par deux.
+
+***Concentrer le feu - Réaction :*** Lorsqu’un autre [adversaire](../core_rules/Using%20Adversaries.md) inflige des dégâts à une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la tourelle, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour ajouter les dégâts de l’attaque standard de la tourelle au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Détonation - Réaction :*** Lorsque la tourelle est détruite, elle explose. Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent effectuer un jet de [réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **3d20** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent subissent la moitié des dégâts.

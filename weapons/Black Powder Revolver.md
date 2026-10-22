@@ -1,9 +1,16 @@
-# Black Powder Revolver
+---
+aliases:
+  - "Black Powder Revolver"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Revolver à poudre noire
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+8 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Black Powder Revolver)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to reload this weapon before you can fire it again.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+8 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Rechargement :*** Après avoir fait une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour recharger cette arme avant de pouvoir tirer à nouveau.

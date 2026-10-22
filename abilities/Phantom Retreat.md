@@ -1,5 +1,12 @@
-# Phantom Retreat
+---
+aliases:
+  - "Phantom Retreat"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Retraite fantôme
 
-**Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to activate Phantom Retreat where you’re currently standing. **Spend another Hope** at any time before your next rest to disappear from where you are and reappear where you were standing when you activated Phantom Retreat. This spell ends after you reappear.
+*(VO : Phantom Retreat)*
+
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+**Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour activer Retraite fantôme à l’endroit où vous vous trouvez. **Dépensez un autre Espoir** à tout moment avant votre prochain repos pour disparaître de l’endroit où vous êtes et réapparaître à l’endroit où vous vous teniez quand vous avez activé Retraite fantôme. Ce sort prend fin une fois que vous êtes réapparu.

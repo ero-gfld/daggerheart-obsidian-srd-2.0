@@ -1,3 +1,10 @@
-# Instant Camp
+---
+aliases:
+  - "Instant Camp"
+---
 
-You can unfold this small mechanical box into a camping tent large enough to safely house six people. The tent collapses at the end of your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+# Camp instantané
+
+*(VO : Instant Camp)*
+
+Vous pouvez déplier cette petite boîte mécanique en une tente de camp assez grande pour abriter six personnes en sécurité. La tente s’effondre à la fin de votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

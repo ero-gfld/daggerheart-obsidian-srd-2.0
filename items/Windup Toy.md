@@ -1,3 +1,10 @@
-# Windup Toy
+---
+aliases:
+  - "Windup Toy"
+---
 
-This small mechanical device is shaped like a strixwolf pup and can be programmed to perform simple tricks.
+# Jouet à remonter
+
+*(VO : Windup Toy)*
+
+Ce petit appareil mécanique a la forme d’un louveteau strix et peut être programmé pour exécuter de simples tours.

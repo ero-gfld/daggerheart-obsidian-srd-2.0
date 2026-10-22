@@ -1,13 +1,20 @@
-# Tiny Red Ooze
+---
+aliases:
+  - "Tiny Red Ooze"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A small moving mound of translucent flaming red slime*
+# Minuscule gelée rouge
 
-**Motives & Tactics:** Blaze, camouflage
+*(VO : Tiny Red Ooze)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Ooze Appendage:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d4+2 mag
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un petit monticule mouvant de glu rouge flamboyante et translucide*
 
-## FEATURES
+**Motivations et tactiques :** Embraser, se camoufler
 
-***Burning - Reaction:*** When a creature within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range deals damage to the Ooze, they take **1d6** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Pseudopode :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d4+2 mag
+
+## APTITUDES
+
+***Brûlure - Réaction :*** Quand une créature à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) inflige des dégâts à la Gelée, elle subit **1d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

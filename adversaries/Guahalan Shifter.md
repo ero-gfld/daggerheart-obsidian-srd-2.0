@@ -1,17 +1,24 @@
-# Guahalan Shifter
+---
+aliases:
+  - "Guahalan Shifter"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A shapeshifting masked warrior who has animalistic features.*
+# Métamorphe guahalan
 
-**Motives & Tactics:** Escape, profit, throw smoke
+*(VO : Guahalan Shifter)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Warclub:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un guerrier masqué et métamorphe, aux traits animaux.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Hunter +2, Trapper +2
+**Motivations et tactiques :** S’échapper, profiter, lancer des fumigènes
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Massue de guerre :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 phy
 
-***Unleash the Beast - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Shifter adopt a more bestial form. While in this form, they gain a bonus to attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) they have marked. Additionally, they can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead of [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before taking an action.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Chasseur +2, Piégeur +2
 
-***Pack Attack - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack. On a success, the attack gains a bonus to damage equal to the number of other Shifters within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target.
+## APTITUDES
+
+***Libérer la bête - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Métamorphe adopte une forme plus bestiale. Sous cette forme, il gagne un bonus aux jets d’attaque et aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) qu’il a marqués. De plus, il peut se déplacer jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) au lieu de [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avant d’agir.
+
+***Attaque de meute - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard. En cas de réussite, l’attaque gagne un bonus aux dégâts égal au nombre d’autres Métamorphes à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible.

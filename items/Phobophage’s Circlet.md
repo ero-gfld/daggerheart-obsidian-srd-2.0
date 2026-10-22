@@ -1,3 +1,10 @@
-# Phobophage’s Circlet
+---
+aliases:
+  - "Phobophage’s Circlet"
+---
 
-When the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) spends a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), roll a d4. Once per scene on a result of 4, you clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+# Diadème du phobophage
+
+*(VO : Phobophage’s Circlet)*
+
+Lorsque le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dépense une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), lancez un d4. Une fois par scène, sur un résultat de 4, vous évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

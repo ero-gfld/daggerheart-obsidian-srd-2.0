@@ -1,17 +1,24 @@
-# Rust Eater
+---
+aliases:
+  - "Rust Eater"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A pony-sized cockroach coated in a corrosive chitin that turns metal into rust.*
+# Mangeur de rouille
 
-**Motives & Tactics:** Avoid detection, eat rust, sniff out metal
+*(VO : Rust Eater)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Bite:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un cafard de la taille d'un poney, recouvert d'une chitine corrosive qui transforme le métal en rouille.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Snuffle +3
+**Motivations et tactiques :** Éviter la détection, manger la rouille, flairer le métal
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Morsure :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+4 phy
 
-***Stifling Pheromones - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who makes an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Rust Eater must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Reniflement +3
 
-***Rust Touch - Passive:*** The Rust Eater’s carapace is coated in a corrosive acid that pits and rusts metal. When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Rust Easter succeeds on an attack against it with a metal weapon, reduce the weapon’s damage die by one step (for example, d8 to d6 or d6 to d4). If a weapon’s damage die is reduced below a d4, the weapon crumbles into rust. The Rust Eater then devours the rust pile and clears a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
+
+***Phéromones étouffantes - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui effectue un [jet d'action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Mangeur de rouille doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sinon il marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Toucher rouillé - Passif :*** La carapace du Mangeur de rouille est couverte d'un acide corrosif qui creuse et rouille le métal. Lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Mangeur de rouille réussit une attaque contre lui avec une arme en métal, réduisez le dé de dégâts de l'arme d'un cran (par exemple, du d8 au d6, ou du d6 au d4). Si le dé de dégâts d'une arme descend sous le d4, l'arme s'effrite en rouille. Le Mangeur de rouille dévore ensuite le tas de rouille et efface un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

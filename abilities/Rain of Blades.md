@@ -1,7 +1,14 @@
-# Rain of Blades
+---
+aliases:
+  - "Rain of Blades"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Pluie de lames
 
-**Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** and conjure throwing blades that strike out at all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets you succeed against take **d8+2** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Rain of Blades)*
 
-If a target you hit is *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*, they take an extra **1d8** damage.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+**Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** et faire apparaître des lames de jet qui frappent toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles vous réussissez subissent **d8+2** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+Si une cible que vous touchez est *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, elle subit **1d8** dégâts supplémentaires.

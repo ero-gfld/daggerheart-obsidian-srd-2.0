@@ -1,12 +1,19 @@
-# Sword of Light & Flame
+---
+aliases:
+  - "Sword of Light & Flame"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Épée de lumière et de flamme
 
-- **Trait:** [Strength](../core_rules/Character%20Creation.md#STEP%203)
-- **Range:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)
-- **Damage:** d10+11 mag
-- **[Burden](../core_rules/Equipment.md#WEAPONS):** [Two-Handed](../core_rules/Equipment.md#WEAPONS)
+*(VO : Sword of Light & Flame)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-**_Hot:_** This weapon cuts through solid material.
+- **Caractéristique :** [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
+- **Portée :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)
+- **Dégâts :** d10+11 mag
+- **[Prise](../core_rules/Equipment.md#ARMES) :** [À deux mains](../core_rules/Equipment.md#ARMES)
+
+### APTITUDE
+
+**_Brûlant :_** Cette arme traverse les matériaux solides.

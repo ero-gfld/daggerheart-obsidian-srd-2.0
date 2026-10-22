@@ -1,8 +1,15 @@
-# Valor‑touched
+---
+aliases:
+  - "Valor‑touched"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Valor [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Touché par la Vaillance
 
-When 4 or more of the [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) are from the Valor domain, gain the following benefits:
+*(VO : Valor‑touched)*
 
-- +1 bonus to your [Armor Score](../core_rules/Equipment.md#ARMOR)
-- When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) without marking an [Armor Slot](../core_rules/Equipment.md#ARMOR), clear an Armor Slot.
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *Vaillance [Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque 4 [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) ou plus de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) proviennent du domaine Vaillance, vous gagnez les bénéfices suivants :
+
+- Bonus de +1 à votre [Score d’armure](../core_rules/Equipment.md#ARMURE)
+- Lorsque vous marquez 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus sans marquer d’[emplacement d’armure](../core_rules/Equipment.md#ARMURE), effacez un emplacement d’armure.

@@ -1,7 +1,14 @@
-# Overwhelming Aura
+---
+aliases:
+  - "Overwhelming Aura"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Aura écrasante
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15)** to magically empower your aura. On a success, **spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make your [Presence](../core_rules/Character%20Creation.md#STEP%203) equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait until your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+*(VO : Overwhelming Aura)*
 
-While this spell is active, an [adversary](../core_rules/Using%20Adversaries.md) must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) when they target you with an attack.
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15)** pour renforcer magiquement votre aura. En cas de succès, **dépensez 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) soit égale à votre [Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) jusqu’à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).
+
+Tant que ce sort est actif, un [adversaire](../core_rules/Using%20Adversaries.md) doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) quand il vous cible avec une attaque.

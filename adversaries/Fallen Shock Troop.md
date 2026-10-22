@@ -1,17 +1,24 @@
-# Fallen Shock Troop
+---
+aliases:
+  - "Fallen Shock Troop"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***
-*A cursed soul bound to the Fallen’s will.*
+# Troupe de choc déchue
 
-**Motives & Tactics:** Crush, dominate, earn relief, punish
+*(VO : Fallen Shock Troop)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Cursed Axe:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 12 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Sbire](../core_rules/Using%20Adversaries.md)***
+*Une âme maudite liée à la volonté des Déchus.*
 
-## FEATURES
+**Motivations et tactiques :** Écraser, dominer, gagner du répit, punir
 
-***Minion (12) - Passive:*** The Shock Troop is defeated when they take any damage. For every 12 damage a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to the Shock Troop, defeat an additional [Minion](../core_rules/Using%20Adversaries.md) within range the attack would succeed against.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Hache maudite :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 12 phy
 
-***Aura of Doom - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack by the Shock Troop, they lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Fallen Shock Troops within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Those [Minions](../core_rules/Using%20Adversaries.md) move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal 12 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+***Sbire (12) - Passif :*** La Troupe de choc est vaincue dès qu’elle subit des dégâts. Pour chaque tranche de 12 dégâts qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lui inflige, il vainc un [Sbire](../core_rules/Using%20Adversaries.md) supplémentaire à portée où l’attaque aurait réussi.
+
+***Aura funeste - Passif :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause d’une attaque de la Troupe de choc, il perd un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir une cible et [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) toutes les Troupes de choc déchues à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’elles. Ces [Sbires](../core_rules/Using%20Adversaries.md) se rapprochent de la cible jusqu’à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectuent un seul [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de réussite, chacun inflige 12 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Additionnez ces dégâts.

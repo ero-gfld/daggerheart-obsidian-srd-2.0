@@ -1,21 +1,28 @@
-# Huge Green Ooze
+---
+aliases:
+  - "Huge Green Ooze"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A translucent green mound of acid taller than most humans.*
+# Gelée verte géante
 
-**Motives & Tactics:** Camouflage, creep up, envelop, multiply
+*(VO : Huge Green Ooze)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 15/30 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Ooze Appendage:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+1 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un monticule translucide et vert d’acide, plus haut que la plupart des humains.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Blend In +3
+**Motivations et tactiques :** Se camoufler, s’approcher à pas de loup, envelopper, se multiplier
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 15/30 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Appendice gluant :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+1 mag
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Se fondre dans le décor +3
 
 ## FEATURES
 
-***Slow - Passive:*** When you [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Ooze and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Ooze and they have a token on their stat block, clear the token and they can act.
+***Lenteur - Passif :*** Lorsque vous mettez la gelée sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) et qu’elle n’a pas de jeton sur sa fiche de stats, elle ne peut pas encore agir. Placez un jeton sur sa fiche et décrivez ce qu’elle se prépare à faire. Lorsque vous mettez la gelée sous les projecteurs et qu’elle a un jeton sur sa fiche, retirez le jeton : elle peut agir.
 
-***Acidic Form - Passive:*** When the Ooze makes a successful attack, the target must mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Forme acide - Passif :*** Lorsque la gelée réussit une attaque, la cible doit marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir les bénéfices (elle peut quand même utiliser son armure pour réduire les dégâts). Si elle ne peut pas marquer d’Emplacement d’armure, elle doit marquer un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
 
-***Envelop - Action:*** Make an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the Ooze *Envelops* them and the target must mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS). While *Enveloped*, the target must mark an additional Stress every time they make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). When the Ooze takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), all *Enveloped* targets are freed and the condition is cleared.
+***Enveloppement - Action :*** Effectuez une attaque contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la gelée *Enveloppe* la cible, qui doit marquer 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS). Tant qu’elle est *Enveloppée*, la cible doit marquer un Stress supplémentaire chaque fois qu’elle effectue un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Lorsque la gelée subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), toutes les cibles *Enveloppées* sont libérées et l’état disparaît.
 
-***Split - Reaction:*** When the Ooze has 4 or more [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) marked, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to split them into two [Green Oozes](Green%20Ooze.md) (with no marked HP or [Stress](../core_rules/Core%20Mechanics.md#STRESS)). Immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) both of them.
+***Division - Réaction :*** Lorsque la gelée a 4 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) marqués ou plus, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la diviser en deux [Gelées vertes](Green%20Ooze.md) (sans PV ni [Stress](../core_rules/Core%20Mechanics.md#STRESS) marqués). Mettez immédiatement les deux sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

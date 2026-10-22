@@ -1,12 +1,19 @@
-# Know Thy Enemy
+---
+aliases:
+  - "Know Thy Enemy"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Connais ton ennemi
 
-When observing a creature, you can make an **[Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll** against them. On a success, **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) for one set of information about the target from the following options:
+*(VO : Know Thy Enemy)*
 
-- Their unmarked [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS).
-- Their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
-- Their tactics and standard attack damage dice.
-- Their features and [Experiences](../core_rules/Character%20Creation.md#STEP%207).
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-Additionally on a success, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to remove a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) from the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s Fear Pool.
+Lorsque vous observez une créature, vous pouvez effectuer un **jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)** contre elle. En cas de réussite, **dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et demandez au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) une série d’informations sur la cible parmi les suivantes :
+
+- Ses [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et son [Stress](../core_rules/Core%20Mechanics.md#STRESS) non marqués.
+- Sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) et ses [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+- Ses tactiques et les dés de dégâts de son attaque standard.
+- Ses aptitudes et ses [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207).
+
+En cas de réussite, vous pouvez également **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour retirer une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) de la réserve de Peur du [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).

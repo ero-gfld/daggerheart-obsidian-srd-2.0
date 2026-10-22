@@ -1,23 +1,30 @@
-# Archmage
+---
+aliases:
+  - "Archmage"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A seeker of secret knowledge hidden away in a tome-filled tower.*
+# Archimage
 
-**Motives & Tactics:** Corrupt, destroy, overwhelm with evil power
+*(VO : Archmage)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 24/45 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 8  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Archmage’s Greatstaff:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un chercheur de savoirs secrets, caché dans une tour remplie de grimoires.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Esoterica +4
+**Motivations et tactiques :** Corrompre, détruire, submerger par un pouvoir maléfique
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 24/45 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 8  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Grand bâton de l’Archimage :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10 mag
 
-***Relentless (3) - Passive:*** The Archmage can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Ésotérisme +4
 
-***Orbiting Aegis - Passive:*** When the Archmage appears, they conjure six discs of magical energy that orbit around them. Place a **d6** Aegis Die on this stat block with the 6 value facing up. When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) makes a successful attack against the Archmage, roll a **d6**. If the result is equal to or less than the value of the Aegis Die, tick the Aegis Die down and ignore the damage. A PC can make a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) Roll to tick down the Aegis Die by 1 on a success or by 2 on a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW).
+## APTITUDES
 
-***Force Salvo - Action:*** **Spend any number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and roll that many **d4s**. The Archmage unleashes a number of magical homing force bolts equal to the total result. For each bolt, a creature within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range marks a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). The same creature can be targeted by up to three force bolts.
+***Implacable (3) - Passif :*** L’Archimage peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour [le mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Fireball - Action:*** **Mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to target the same number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **4d10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Égide orbitante - Passif :*** Quand l’Archimage apparaît, il fait surgir six disques d’énergie magique qui tournent autour de lui. Placez un **dé d’Égide** (un **d6**) sur ce bloc de statistiques, la face 6 vers le haut. Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) réussit une attaque contre l’Archimage, lancez un **d6**. Si le résultat est inférieur ou égal à la valeur du dé d’Égide, réduisez cette valeur de 1 et ignorez les dégâts. Un PJ peut effectuer un [jet de Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour réduire la valeur du dé d’Égide de 1 en cas de réussite, ou de 2 en cas de [Succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-***Counterspell - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) succeeds on a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Archmage make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) with a [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) equal to the Spellcast Roll’s result. On a success, the PC’s Spellcast Roll fails instead, and you place a token on this stat block. Using this feature again costs additional Fear equal to the number of tokens on this stat block. You can’t Counterspell a [critical success](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Salve de force - Action :*** **Dépensez autant de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous voulez** et lancez autant de **d4** que de Peur dépensée. L’Archimage libère un nombre de projectiles de force magiques à tête chercheuse égal au total obtenu. Pour chaque projectile, une créature à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) marque un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). La même créature ne peut pas être visée par plus de trois projectiles.
+
+***Boule de feu - Action :*** **Marquez autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que vous voulez** pour viser le même nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **4d10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Contresort - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) réussit un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que l’Archimage effectue un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) dont la [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) est égale au résultat du jet d’Incantation. En cas de réussite, le jet d’Incantation du PJ échoue à la place, et vous placez un jeton sur ce bloc de statistiques. Utiliser cette aptitude à nouveau coûte une Peur supplémentaire par jeton présent sur ce bloc. Vous ne pouvez pas contrer une [réussite critique](../core_rules/Core%20Mechanics.md#APER%C3%87U).

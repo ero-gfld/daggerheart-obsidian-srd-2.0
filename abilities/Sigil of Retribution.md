@@ -1,5 +1,12 @@
-# Sigil of Retribution
+---
+aliases:
+  - "Sigil of Retribution"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Sceau de représailles
 
-Mark an [adversary](../core_rules/Using%20Adversaries.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with a sigil of retribution. The [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). When the marked adversary deals damage to you or your allies, place a **d8** on this card. You can hold a number of **d8s** equal to your level. When you successfully attack the marked adversary, roll the dice on this card and add the total to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), then clear the dice. This effect ends when the marked adversary is defeated or you cast Sigil of Retribution again.
+*(VO : Sigil of Retribution)*
+
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Marquez un [adversaire](../core_rules/Using%20Adversaries.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un sceau de représailles. Le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) gagne une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Lorsque l’adversaire marqué inflige des dégâts à vous ou à vos alliés, placez un **d8** sur cette carte. Vous pouvez détenir un nombre de **d8** égal à votre niveau. Lorsque vous réussissez une attaque contre l’adversaire marqué, lancez les dés posés sur cette carte, ajoutez le total à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER), puis retirez les dés. Cet effet prend fin lorsque l’adversaire marqué est vaincu ou que vous relancez ce sort.

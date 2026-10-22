@@ -1,9 +1,16 @@
-# Advanced Rune Shield
+---
+aliases:
+  - "Advanced Rune Shield"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Bouclier runique avancé
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d4+4 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Advanced Rune Shield)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Protective:*** +3 to [Armor Score](../core_rules/Equipment.md#ARMOR)
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d4+4 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Protecteur :*** +3 au [Score d’armure](../core_rules/Equipment.md#ARMURE)

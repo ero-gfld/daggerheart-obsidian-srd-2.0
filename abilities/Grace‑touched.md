@@ -1,8 +1,15 @@
-# Grace‑touched
+---
+aliases:
+  - "Grace‑touched"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Grace [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Touché par la Grâce
 
-When 4 or more of the [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) are from the Grace domain, gain the following benefits:
+*(VO : Grace‑touched)*
 
-- You can **mark an [Armor Slot](../core_rules/Equipment.md#ARMOR)** instead of marking a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
-- When you would force a target to mark a number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can choose instead to force them to mark that number of [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *Grâce [Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque 4 [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) ou plus de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) appartiennent au domaine Grâce, vous gagnez les avantages suivants :
+
+- Vous pouvez **marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE)** au lieu de marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+- Lorsque vous devez forcer une cible à marquer un nombre de [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez choisir à la place de lui faire marquer ce nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS).

@@ -1,3 +1,10 @@
-# Alistair’s Torch
+---
+aliases:
+  - "Alistair’s Torch"
+---
 
-You can light this magic torch at will. The flame’s light fills a much larger space than it should, enough to illuminate a cave bright as day.
+# Torche d’Alistair
+
+*(VO : Alistair’s Torch)*
+
+Vous pouvez allumer cette torche magique à volonté. La lumière de sa flamme emplit un espace bien plus grand que prévu, assez pour éclairer une caverne comme en plein jour.

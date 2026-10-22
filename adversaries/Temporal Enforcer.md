@@ -1,23 +1,30 @@
-# Temporal Enforcer
+---
+aliases:
+  - "Temporal Enforcer"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A giant mechanical being from a dimension outside time, built by the Time Keepers to preserve the Holy Continuum.*
+# Exécuteur temporel
 
-**Motives & Tactics:** Repair the timeline, seek out temporal heretics, serve the Lords of Continuity
+*(VO : Temporal Enforcer)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 42/68 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Adamantine Hammer:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 40 direct phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un être mécanique géant venu d’une dimension hors du temps, construit par les Gardiens du temps pour préserver le Continuum sacré.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Temporal Anomalies +3
+**Motivations et tactiques :** Réparer la chronologie, traquer les hérétiques temporels, servir les Seigneurs de la Continuité
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 42/68 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Marteau d’adamantium :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 40 phy direct
 
-***Relentless (2) - Passive:*** The Enforcer can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Anomalies temporelles +3
 
-***Time Looper - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 2d6).* When the Enforcer first appears, activate the countdown. It ticks down when the Enforcer is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). When it triggers, the Enforcer clears all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), [Stress](../core_rules/Core%20Mechanics.md#STRESS), and conditions. Reroll the countdown when the Enforcer takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
 
-***Move Between Moments - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Enforcer teleport to a point within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them again.
+***Implacable (2) - Passif :*** L’Exécuteur peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Instant Rewind - Reaction:*** When the Enforcer fails an attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll the die.
+***Boucle temporelle - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (boucle 2d6).* Quand l’Exécuteur apparaît pour la première fois, activez le compte à rebours. Il avance lorsque l’Exécuteur est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Quand il arrive à terme, l’Exécuteur efface tous ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), son [Stress](../core_rules/Core%20Mechanics.md#STRESS) et ses états. Relancez le compte à rebours quand l’Exécuteur subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Invert Polarity - Reaction:*** Up to three times per scene, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to flip any die rolled onto its obverse result. This effect can’t be used to alter a [critical success](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Franchir les instants - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour téléporter l’Exécuteur à un point situé à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), puis le [mettre à nouveau sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Retour arrière instantané - Réaction :*** Quand l’Exécuteur rate une attaque, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour relancer le dé.
+
+***Inverser la polarité - Réaction :*** Jusqu’à trois fois par scène, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour retourner un dé lancé sur sa face opposée. Cet effet ne peut pas modifier une [réussite critique](../core_rules/Core%20Mechanics.md#APER%C3%87U).

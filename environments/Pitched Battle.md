@@ -1,18 +1,25 @@
-# Pitched Battle
+---
+aliases:
+  - "Pitched Battle"
+---
 
-***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***
-*A massive combat between two large groups of armed combatants.*
+# Bataille rangée
 
-**Impulses:** Seize people, land, and wealth, spill blood for greed and glory
+*(VO : Pitched Battle)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Mercenaries (Sellsword, Harrier, Spellblade, Weaponmaster), Noble Forces ([Archer Squadron](../adversaries/Archer%20Squadron.md), Conscript, [Elite Soldier](../adversaries/Elite%20Soldier.md), [Knight of the Realm](../adversaries/Knight%20of%20the%20Realm.md))
+***[Rang 3](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Événement](../core_rules/Using%20Environments.md)***
+*Un combat massif entre deux grands groupes de combattants armés.*
 
-## FEATURES
+**Pulsions :** s’emparer des gens, des terres et des richesses, verser le sang par cupidité et par gloire
 
-***Adrift on a Sea of Steel - Passive:*** Traversing a battlefield during an active combat is extremely dangerous. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) Roll to move at all, and can only go up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range on a success. If an [adversary](../core_rules/Using%20Adversaries.md) is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to make an Agility Roll to move. *Do the combatants mistake you for the enemy or consider you* *interlopers? Can you tell the difference between friend and foe in* *the fray?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Mercenaires (Mercenaire, Harceleur, Lame-sort, Maître d’armes), Forces nobles ([Escadron d’archers](../adversaries/Archer%20Squadron.md), Conscrit, [Soldat d’élite](../adversaries/Elite%20Soldier.md), [Chevalier du royaume](../adversaries/Knight%20of%20the%20Realm.md))
 
-***Raze and Pillage - Action:*** The attacking force raises the stakes by lighting a fire, stealing a valuable asset, kidnapping an important person, or killing the populace. *What is valuable here? Who is most vulnerable?*
+## APTITUDES
 
-***War Magic - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** as a mage from one side uses large-scale destructive magic. Pick a point on the battlefield within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the mage. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **3d12+8** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). *What form does the attack take—fireball, raining acid, a storm of* *blades? What tactical objective is this attack meant to accomplish,* *and what comes next?*
+***À la dérive sur une mer d’acier - Passif :*** Traverser un champ de bataille pendant un combat est extrêmement dangereux. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit réussir un jet d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour pouvoir se déplacer, et il ne peut aller que jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) en cas de réussite. Si un [adversaire](../core_rules/Using%20Adversaries.md) se trouve à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de lui, il doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour faire un jet d’Agilité et se déplacer. *Les combattants vous prennent-ils pour un ennemi, ou vous considèrent-ils comme un intrus ? Parvenez-vous à distinguer l’ami de l’ennemi dans la mêlée ?*
 
-***Reinforcements! - Action:*** Summon a [Knight of the Realm](../adversaries/Knight%20of%20the%20Realm.md), a number of [Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Minions](../core_rules/Using%20Adversaries.md) equal to the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), and two [adversaries](../core_rules/Using%20Adversaries.md) of your choice within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). *Who are they targeting first? What formation do they take?*
+***Raser et piller - Action :*** La force d’attaque fait monter les enjeux en allumant un incendie, en volant un bien précieux, en enlevant une personne importante ou en massacrant la population. *Qu’est-ce qui a de la valeur ici ? Qui est le plus vulnérable ?*
+
+***Magie de guerre - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** lorsqu’un mage d’un camp use d’une magie destructrice à grande échelle. Choisissez un point du champ de bataille à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du mage. Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **3d12+8** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et marquent un [Stress](../core_rules/Core%20Mechanics.md#STRESS). *Quelle forme prend l’attaque : boule de feu, pluie d’acide, tempête de lames ? Quel objectif tactique cette attaque doit-elle atteindre, et que se passe-t-il ensuite ?*
+
+***Renforts ! - Action :*** Invoquez un [Chevalier du royaume](../adversaries/Knight%20of%20the%20Realm.md), un nombre de [Sbires](../core_rules/Using%20Adversaries.md) de [rang 3](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) égal au nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), et deux [adversaires](../core_rules/Using%20Adversaries.md) de votre choix à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un PJ choisi, en renfort. Le Chevalier du royaume prend immédiatement les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). *Qui visent-ils en premier ? Quelle formation adoptent-ils ?*

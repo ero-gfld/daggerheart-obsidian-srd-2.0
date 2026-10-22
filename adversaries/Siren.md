@@ -1,17 +1,24 @@
-# Siren
+---
+aliases:
+  - "Siren"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A half-fish person with shimmering scales and an irresistible voice.*
+# Sirène
 
-**Motives & Tactics:** Consume, lure prey, subdue with song
+*(VO : Siren)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Distended Jaw Bite:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+3 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Une personne mi-poisson aux écailles chatoyantes et à la voix irrésistible.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Song Repertoire +3
+**Motivations et tactiques :** Consumer, attirer la proie, asservir par le chant
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Morsure à mâchoire distendue :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+3 phy
 
-***Captive Audience - Passive:*** If the Siren makes a standard attack against a target *Entranced* by their song, the attack deals **2d10+1** damage instead of their standard damage.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Répertoire de chants +3
 
-***Enchanting Song - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to sing a song that affects all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become *Entranced* until they mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS). Other Sirens within Close range of the target can **mark a Stress** to each add a +1 bonus to the [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) of the reaction roll. While *Entranced*, a target can’t act and is *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+## APTITUDES
+
+***Public captif - Passif :*** Si la Sirène effectue une attaque standard contre une cible *Envoûtée* par son chant, l'attaque inflige **2d10+1** dégâts au lieu de ses dégâts standard.
+
+***Chant envoûtant - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour chanter une mélodie qui affecte toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sinon elle devient *Envoûtée* jusqu'à ce qu'elle marque 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS). Les autres Sirènes à portée Proche de la cible peuvent **marquer un Stress** chacune pour ajouter un bonus de +1 à la [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) du jet de réaction. Tant qu'elle est *Envoûtée*, une cible ne peut plus agir et est [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).

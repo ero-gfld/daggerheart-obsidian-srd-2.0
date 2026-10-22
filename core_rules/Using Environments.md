@@ -1,170 +1,178 @@
-# Using Environments
+---
+aliases:
+  - "Using Environments"
+---
 
-*Environments represent everything in a scene beyond the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and [adversaries](Using%20Adversaries.md), such as the physical space, background [NPCs](Making%20Moves.md#RUNNING%20GM%20NPCS), and* *natural forces.*
+# Utiliser les environnements
 
-#### ENVIRONMENT STAT BLOCK
+*(VO : Using Environments)*
 
-Each environment’s **stat block** presents their necessary mechanical statistics:
+*Les environnements représentent tout ce qui compose une scène en dehors des [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et des [adversaires](Using%20Adversaries.md), comme l’espace physique, les [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) d’arrière-plan et* *les forces de la nature.*
 
-**NAME**
+#### PROFIL D’ENVIRONNEMENT
 
-The unique name of the environment stat block.
+Le **profil** de chaque environnement présente ses statistiques de jeu nécessaires :
 
-**TIER**
+**NOM**
 
-The [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [tier](Core%20Mechanics.md#LEVELING%20UP) the environment is designed to challenge.
+Le nom unique du profil d’environnement.
+
+**RANG**
+
+Le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) des [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) que l’environnement est conçu pour mettre au défi.
 
 **TYPE**
 
-The type of scene it most easily supports:
+Le type de scène qu’il soutient le plus aisément :
 
-- **Explorations** — wondrous locations with mysteries and marvels to discover
+- **Explorations** : des lieux merveilleux, pleins de mystères et de prodiges à découvrir
 
-- **Socials** — locations that primarily present interpersonal challenges
+- **Sociaux** : des lieux qui posent avant tout des défis relationnels
 
-- **Traversals** — dangerous locations where movement through and around the space itself is a challenge
+- **Traversées** : des lieux dangereux où se déplacer dans l’espace, ou autour de lui, est déjà un défi
 
-- **Events** — special activities or occurrences (rather than physical spaces)
+- **Événements** : des activités ou des occurrences particulières (plutôt que des espaces physiques)
 
 **DESCRIPTION**
 
-An evocative one-line summary of the environment.
+Un résumé évocateur de l’environnement, en une ligne.
 
-**IMPULSES**
+**PULSIONS**
 
-The manner or mode with which the environment pushs and pulls the people within them.
+La manière dont l’environnement attire et repousse les personnes qui s’y trouvent.
 
-**DIFFICULTY**
+**DIFFICULTÉ**
 
-The standard [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) for [action rolls](Core%20Mechanics.md#ACTION%20ROLLS) made to overcome, oppose, or resist the environment or its elements.
+La [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) standard des [jets d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) effectués pour surmonter l’environnement ou ses éléments, s’y opposer ou y résister.
 
-**POTENTIAL [ADVERSARIES](Using%20Adversaries.md)**
+**[ADVERSAIRES](Using%20Adversaries.md) POSSIBLES**
 
-Suggested [adversaries](Using%20Adversaries.md) that might appear in scenes within the environment.
+Des [adversaires](Using%20Adversaries.md) suggérés qui peuvent apparaître dans les scènes de l’environnement.
 
-**FEATURES**
+**APTITUDES**
 
-Features provide inspiration for [GM moves](Making%20Moves.md) you can use that represent the dynamic landscape or situation.
+Les aptitudes inspirent les [actions du MJ](Making%20Moves.md) que vous pouvez utiliser pour représenter le paysage ou la situation dynamique.
 
-**FEATURE QUESTIONS**
+**QUESTIONS D’APTITUDE**
 
-Prompts for plot hooks, narrative engines, and connections to other story elements.
+Des pistes pour des accroches, des moteurs narratifs et des liens avec d’autres éléments de l’histoire.
 
-#### ADAPTING ENVIRONMENTS
+#### ADAPTER LES ENVIRONNEMENTS
 
-Sometimes you want to use an environment but it’s at the wrong [tier](Core%20Mechanics.md#LEVELING%20UP) for your party. Or you might want to replace a feature or two, then present it as an entirely different environment. Whether planning your session or even improvising an environment mid-session, you can adjust an existing environment’s stat block to fit the needs of your scene or improvise elements as needed. The environments framework is there to help organize ideas, not to stifle creativity.
+Il arrive que vous vouliez utiliser un environnement, mais d’un [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) qui ne convient pas à votre groupe. Ou que vous souhaitiez remplacer une aptitude ou deux, puis le présenter comme un environnement entièrement différent. Que vous prépariez votre séance ou que vous improvisiez un environnement en cours de séance, vous pouvez ajuster le profil d’un environnement existant aux besoins de votre scène, ou improviser des éléments selon les besoins. Le cadre des environnements est là pour aider à organiser les idées, pas pour brider la créativité.
 
-When you need to quickly adjust a stat block to a different [tier](Core%20Mechanics.md#LEVELING%20UP), you can simply replace its existing statistics with those listed on the Environment Statistics by Tier table, using the column that corresponds to your party’s tier.
+Lorsque vous devez ajuster rapidement un profil à un autre [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU), il vous suffit de remplacer ses statistiques par celles du tableau des statistiques d’environnement par rang, en utilisant la colonne qui correspond au rang de votre groupe.
 
-##### BENCHMARK STATISTICS FOR ENVIRONMENTS BY TIER
+##### STATISTIQUES DE RÉFÉRENCE DES ENVIRONNEMENTS PAR RANG
 
-| **Environment Statistic** | **[Tier 1](Core%20Mechanics.md#LEVELING%20UP)** | **[Tier 2](Core%20Mechanics.md#LEVELING%20UP)** | **[Tier 3](Core%20Mechanics.md#LEVELING%20UP)** | **[Tier 4](Core%20Mechanics.md#LEVELING%20UP)** |
+| **Statistique d’environnement** | **[Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU)** | **[Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU)** | **[Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU)** | **[Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU)** |
 | --- | --- | --- | --- | --- |
-| Damage Dice | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10 |
-| [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) | 11 | 14 | 17 | 20 |
+| Dés de dégâts | 1d6+1 à 1d8+3 | 2d6+3 à 2d10+2 | 3d8+3 à 3d10+1 | 4d8+3 à 4d10+10 |
+| [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) | 11 | 14 | 17 | 20 |
 
-#### ENVIRONMENT STAT BLOCKS BY TIER
+#### PROFILS D’ENVIRONNEMENT PAR RANG
 
-This section contains the following stat blocks.
+Cette section contient les profils suivants.
 
-**TIER 1 (LEVEL 1)**
+**RANG 1 (NIVEAU 1)**
 
-- [Abandoned Grove](../environments/Abandoned%20Grove.md) (Exploration)
 
-- [Abandoned Mine](../environments/Abandoned%20Mine.md) (Traversal)
+- [Bosquet abandonné](../environments/Abandoned%20Grove.md) (Exploration)
 
-- [Alchemist’s Abandoned Workshop](../environments/Alchemist’s%20Abandoned%20Workshop.md) (Exploration)
+- [Mine abandonnée](../environments/Abandoned%20Mine.md) (Traversée)
 
-- [Ambushed](../environments/Ambushed.md) (Event)
+- [Atelier abandonné de l’alchimiste](../environments/Alchemist’s%20Abandoned%20Workshop.md) (Exploration)
 
-- [Ambushers](../environments/Ambushers.md) (Event)
+- [Pris en embuscade](../environments/Ambushed.md) (Événement)
 
-- [Bustling Marketplace](../environments/Bustling%20Marketplace.md) (Social)
+- [Les embusqueurs](../environments/Ambushers.md) (Événement)
 
-- [Cliffside Ascent](../environments/Cliffside%20Ascent.md) (Traversal)
+- [Marché animé](../environments/Bustling%20Marketplace.md) (Social)
 
-- [Corrupted Swamp](../environments/Corrupted%20Swamp.md) (Traversal)
+- [Ascension de la falaise](../environments/Cliffside%20Ascent.md) (Traversée)
 
-- [Cursed Graveyard](../environments/Cursed%20Graveyard.md) (Exploration)
+- [Marais corrompu](../environments/Corrupted%20Swamp.md) (Traversée)
 
-- [Grand Feast](../environments/Grand%20Feast.md) (Social)
+- [Cimetière maudit](../environments/Cursed%20Graveyard.md) (Exploration)
 
-- [Hold the Line](../abilities/Hold%20the%20Line.md) (Event)
+- [Grand festin](../environments/Grand%20Feast.md) (Social)
 
-- [Local Festival](../environments/Local%20Festival.md) (Social)
+- [Tenir la ligne](../abilities/Hold%20the%20Line.md) (Événement)
 
-- [Local Tavern](../environments/Local%20Tavern.md) (Social)
+- [Fête locale](../environments/Local%20Festival.md) (Social)
 
-- [Outpost Town](../environments/Outpost%20Town.md) (Social)
+- [Taverne locale](../environments/Local%20Tavern.md) (Social)
 
-- [Raging River](../environments/Raging%20River.md) (Traversal)
+- [Bourg avant-poste](../environments/Outpost%20Town.md) (Social)
 
-- [Raiding Party](../environments/Raiding%20Party.md) (Event)
+- [Rivière furieuse](../environments/Raging%20River.md) (Traversée)
 
-**TIER 2 (LEVELS 2–4)**
+- [Troupe de pillards](../environments/Raiding%20Party.md) (Événement)
 
-- [Beach Day](../environments/Beach%20Day.md) (Social)
+**RANG 2 (NIVEAUX 2–4)**
 
-- [Cult Ritual](../environments/Cult%20Ritual.md) (Event)
+- [Journée à la plage](../environments/Beach%20Day.md) (Social)
 
-- [Deadly Dungeon](../environments/Deadly%20Dungeon.md) (Exploration)
+- [Rituel de culte](../environments/Cult%20Ritual.md) (Événement)
 
-- [Duel](../environments/Duel.md) (Event)
+- [Donjon mortel](../environments/Deadly%20Dungeon.md) (Exploration)
 
-- [Hallowed Temple](../environments/Hallowed%20Temple.md) (Social)
+- [Duel](../environments/Duel.md) (Événement)
 
-- [Haunted City](../environments/Haunted%20City.md) (Exploration)
+- [Temple sacré](../environments/Hallowed%20Temple.md) (Social)
 
-- [Heist](../environments/Heist.md) (Event)
+- [Cité hantée](../environments/Haunted%20City.md) (Exploration)
 
-- [Masquerade Ball](../environments/Masquerade%20Ball.md) (Social)
+- [Casse](../environments/Heist.md) (Événement)
 
-- [Mountain Pass](../environments/Mountain%20Pass.md) (Traversal)
+- [Bal masqué](../environments/Masquerade%20Ball.md) (Social)
 
-- [Ocean Voyage](../environments/Ocean%20Voyage.md) (Traversal)
+- [Col de montagne](../environments/Mountain%20Pass.md) (Traversée)
 
-- [Vast Desert](../environments/Vast%20Desert.md) (Traversal)
+- [Traversée océanique](../environments/Ocean%20Voyage.md) (Traversée)
 
-- [Witch’s Hut](../environments/Witch’s%20Hut.md) (Exploration)
+- [Désert immense](../environments/Vast%20Desert.md) (Traversée)
 
-**TIER 3 (LEVELS 5–7)**
+- [Cabane de sorcière](../environments/Witch’s%20Hut.md) (Exploration)
 
-- [Archmage’s Tower](../environments/Archmage’s%20Tower.md) (Exploration)
+**RANG 3 (NIVEAUX 5–7)**
 
-- [Astral Realm](../environments/Astral%20Realm.md) (Traversal)
+- [Tour de l’archimage](../environments/Archmage’s%20Tower.md) (Exploration)
 
-- [Burning Heart of the Woods](../environments/Burning%20Heart%20of%20the%20Woods.md) (Exploration)
+- [Royaume astral](../environments/Astral%20Realm.md) (Traversée)
 
-- [Castle Siege](../environments/Castle%20Siege.md) (Event)
+- [Cœur brûlant de la forêt](../environments/Burning%20Heart%20of%20the%20Woods.md) (Exploration)
 
-- [Crystal Wasteland](../environments/Crystal%20Wasteland.md) (Traversal)
+- [Siège du château](../environments/Castle%20Siege.md) (Événement)
 
-- [Dragon’s Lair](../environments/Dragon’s%20Lair.md) (Exploration)
+- [Désert de cristal](../environments/Crystal%20Wasteland.md) (Traversée)
 
-- [Megastorm](../environments/Megastorm.md) (Event)
+- [Antre du dragon](../environments/Dragon’s%20Lair.md) (Exploration)
 
-- [Pitched Battle](../environments/Pitched%20Battle.md) (Event)
+- [Mégatempête](../environments/Megastorm.md) (Événement)
 
-- [Sunken Citadel](../environments/Sunken%20Citadel.md) (Exploration)
+- [Bataille rangée](../environments/Pitched%20Battle.md) (Événement)
 
-- [Upscale Casino](../environments/Upscale%20Casino.md) (Social)
+- [Citadelle engloutie](../environments/Sunken%20Citadel.md) (Exploration)
 
-- [Volcanic Eruption](../environments/Volcanic%20Eruption.md) (Event)
+- [Casino huppé](../environments/Upscale%20Casino.md) (Social)
 
-**TIER 4 (LEVELS 8–10)**
+- [Éruption volcanique](../environments/Volcanic%20Eruption.md) (Événement)
 
-- [Chaos Realm](../environments/Chaos%20Realm.md) (Traversal)
+**RANG 4 (NIVEAUX 8–10)**
 
-- Convergence, City of Portals (Social)
+- [Royaume du Chaos](../environments/Chaos%20Realm.md) (Traversée)
 
-- [Divine Usurpation](../environments/Divine%20Usurpation.md) (Event)
+- Convergence, la cité des portails (Social)
 
-- [Imperial Court](../environments/Imperial%20Court.md) (Social)
+- [Usurpation divine](../environments/Divine%20Usurpation.md) (Événement)
 
-- [Moon Kingdom](../environments/Moon%20Kingdom.md) (Exploration)
+- [Cour impériale](../environments/Imperial%20Court.md) (Social)
 
-- [Necromancer’s Ossuary](../environments/Necromancer’s%20Ossuary.md) (Exploration)
+- [Royaume de la lune](../environments/Moon%20Kingdom.md) (Exploration)
 
-- [Realm of the Dead](../environments/Realm%20of%20the%20Dead.md) (Traversal)
+- [Ossuaire du nécromancien](../environments/Necromancer’s%20Ossuary.md) (Exploration)
 
-- [Time Court](../environments/Time%20Court.md) (Event)
+- [Royaume des morts](../environments/Realm%20of%20the%20Dead.md) (Traversée)
+
+- [Cour du temps](../environments/Time%20Court.md) (Événement)

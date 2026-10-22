@@ -1,3 +1,10 @@
-# Iridian Dust
+---
+aliases:
+  - "Iridian Dust"
+---
 
-This multicolored powder sticks to everything and prevents creatures covered in it from becoming *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+# Poussière iridienne
+
+*(VO : Iridian Dust)*
+
+Cette poudre multicolore adhère à tout et empêche les créatures qui en sont couvertes de devenir *[Cachées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

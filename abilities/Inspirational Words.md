@@ -1,11 +1,18 @@
-# Inspirational Words
+---
+aliases:
+  - "Inspirational Words"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Paroles inspirantes
 
-Your speech is imbued with power. After a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), place a number of tokens on this card equal to your [Presence](../core_rules/Character%20Creation.md#STEP%203). When you speak with an ally, you can spend a token from this card to give them one benefit from the following options:
+*(VO : Inspirational Words)*
 
-- Your ally clears a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
-- Your ally clears a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
-- Your ally gains a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), clear all unspent tokens.
+Votre parole est imprégnée de pouvoir. Après un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), placez sur cette carte un nombre de jetons égal à votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Lorsque vous parlez à un allié, vous pouvez dépenser un jeton de cette carte pour lui accorder l’un des avantages suivants :
+
+- Votre allié évacue un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+- Votre allié efface un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+- Votre allié gagne un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+Lorsque vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), effacez tous les jetons non dépensés.

@@ -1,3 +1,10 @@
-# Dagginae’s Obsidian Slate
+---
+aliases:
+  - "Dagginae’s Obsidian Slate"
+---
 
-This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set.
+# Ardoise d’obsidienne de Dagginae
+
+*(VO : Dagginae’s Obsidian Slate)*
+
+Cette plaque de verre volcanique, fine comme une feuille, sert aux archivistes pour prendre des notes. Toute information gravée à sa surface disparaît, mais peut être rappelée par une commande que vous définissez.

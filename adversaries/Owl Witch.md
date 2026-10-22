@@ -1,23 +1,30 @@
-# Owl Witch
+---
+aliases:
+  - "Owl Witch"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A giant, vengeful barn owl that has a 15-foot wingspan and a human face.*
+# Sorcière-hibou
 
-**Motives & Tactics:** Consume essence, curse, predict death
+*(VO : Owl Witch)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 19 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 27/47 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Razor Talons:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+5 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Une chouette effraie géante et vengeresse, à l'envergure de 4,5 mètres et au visage humain.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Magic +2, Night Stalker +2
+**Motivations et tactiques :** Consumer l'essence, maudire, prédire la mort
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 19 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 27/47 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Serres rasoirs :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d8+5 phy
 
-***Ill Omen - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range makes an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) gains a bonus equal to the amount of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) you have.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Magie +2, Traqueur nocturne +2
 
-***Witch Barrier - Passive:*** The Owl Witch has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Voice Mimicry - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Owl Witch beckon with the voice of a beloved figure to a creature within earshot. The target must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range toward the Owl Witch.
+***Mauvais présage - Passif :*** Lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) effectue un [jet d'action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), son [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) gagne un bonus égal au nombre de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous possédez.
 
-***Nightmare Stare - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Owl Witch *Afflict* a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with waking nightmares unless the target succeeds on a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). While *Afflicted*, the target can’t clear [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](../core_rules/Core%20Mechanics.md#STRESS). The condition is cleared when another PC uses a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to comfort the *Afflicted* creature.
+***Barrière de sorcière - Passif :*** La Sorcière-hibou a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Visions of a Violent End - Reaction:*** When the Owl Witch is targeted by an attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force the attacker to make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, they must mark **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS) as their mind is flooded with harrowing imagery.
+***Mimétisme vocal - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la Sorcière-hibou appelle une créature à portée d'écoute avec la voix d'un être cher. La cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sans quoi elle se déplace jusqu'à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) en direction de la Sorcière-hibou.
+
+***Regard cauchemardesque - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la Sorcière-hibou *Afflige* un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de cauchemars éveillés, à moins que la cible ne réussisse un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Tant qu'elle est *Affligée*, la cible ne peut évacuer ni [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ni [Stress](../core_rules/Core%20Mechanics.md#STRESS). L'état prend fin lorsqu'un autre PJ utilise une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour réconforter la créature *Affligée*.
+
+***Visions d'une fin violente - Réaction :*** Lorsque la Sorcière-hibou est visée par une attaque, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer l'attaquant à effectuer un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas d'échec, il doit marquer **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS), son esprit étant submergé d'images effroyables.

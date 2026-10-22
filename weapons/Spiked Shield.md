@@ -1,9 +1,16 @@
-# Spiked Shield
+---
+aliases:
+  - "Spiked Shield"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Bouclier à pointes
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+2 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Spiked Shield)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Double Duty:*** +1 to [Armor Score](../core_rules/Equipment.md#ARMOR); +1 to [primary weapon](../core_rules/Equipment.md#WEAPONS) damage within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+2 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Double emploi :*** +1 au [Score d’armure](../core_rules/Equipment.md#ARMURE) ; +1 aux dégâts de l’[arme principale](../core_rules/Equipment.md#ARMES) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)

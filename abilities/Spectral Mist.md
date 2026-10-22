@@ -1,5 +1,12 @@
-# Spectral Mist
+---
+aliases:
+  - "Spectral Mist"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Dread](../domains/Dread.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Brume spectrale
 
-**Spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to conjure an eerie mist that turns you and allies of your choice within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range momentarily incorporeal. While a creature is incorporeal, they can move through solid objects and are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). They become corporeal again after they pass through a solid object or make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). Otherwise, this effect lasts until the end of the scene.
+*(VO : Spectral Mist)*
+
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Effroi](../domains/Dread.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+**Dépensez 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire surgir une brume étrange qui rend momentanément incorporels vous et les alliés de votre choix à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Tant qu’une créature est incorporelle, elle peut traverser les objets solides et est [immunisée](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Elle redevient corporelle après avoir traversé un objet solide ou effectué un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Sinon, cet effet dure jusqu’à la fin de la scène.

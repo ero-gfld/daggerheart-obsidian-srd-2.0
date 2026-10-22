@@ -1,22 +1,29 @@
-# Abandoned Grove
+---
+aliases:
+  - "Abandoned Grove"
+---
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***
-*A former druidic grove lying fallow and fully reclaimed by nature.*
+# Bosquet abandonné
 
-**Impulses:** Draw in the curious, echo the past
+*(VO : Abandoned Grove)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Beasts (Bear, [Dire Wolf](../adversaries/Dire%20Wolf.md), [Glass Snake](../adversaries/Glass%20Snake.md)), Grove Guardians ([Minor Treant](../adversaries/Minor%20Treant.md), [Sylvan Soldier](../adversaries/Sylvan%20Soldier.md), [Young Dryad](../adversaries/Young%20Dryad.md))
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Exploration](../core_rules/Using%20Environments.md)***
+*Un ancien bosquet druidique, en friche et entièrement repris par la nature.*
 
-## FEATURES
+**Pulsions :** Attirer les curieux, faire écho au passé
 
-***Overgrown Battlefield - Passive:*** There has been a battle here. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll to identify evidence of that fight. On a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW), learn all three pieces of information below. On a [success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW), learn two. On a failure, a PC can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to learn one and gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the next [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to investigate this [environment](../core_rules/Using%20Environments.md). A PC with an appropriate background or [Experience](../core_rules/Character%20Creation.md#STEP%207) can learn an additional detail and ask a follow-up question about the scene and get a truthful (if not always complete) answer.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Adversaires](../core_rules/Using%20Adversaries.md) possibles :** Bêtes (Ours, [Loup redoutable](../adversaries/Dire%20Wolf.md), [Serpent de verre](../adversaries/Glass%20Snake.md)), Gardiens du bosquet ([Petit ent](../adversaries/Minor%20Treant.md), [Soldat sylvain](../adversaries/Sylvan%20Soldier.md), [Jeune dryade](../adversaries/Young%20Dryad.md))
 
-- Traces of a battle (broken weapons and branches, gouges in the ground) litter the ground.
-- A moss-covered tree trunk is actually the corpse of a treant.
-- Still-standing trees are twisted in strange ways, as if by powerful magic. *Why did these groups come to blows? Why is the grove unused now?*
+## Aptitudes
 
-***Barbed Vines - Action:*** Pick a point within the grove. All targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **1d8+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and become *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* by barbed vines. *Restrained* lasts until they’re freed with a successful [Finesse](../core_rules/Character%20Creation.md#STEP%203) or [Strength](../core_rules/Character%20Creation.md#STEP%203) roll or by dealing at least 6 damage to the vines. *How many vines are there? Where do they grab you? Do they pull you* *down or lift you off the ground?*
+***Champ de bataille envahi - Passif :*** Une bataille a eu lieu ici. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut faire un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour repérer les traces de ce combat. Sur un [succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U), il apprend les trois informations ci-dessous. Sur un [succès avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U), il en apprend deux. Sur un échec, un PJ peut marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour en apprendre une et obtenir un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur le [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) suivant pour enquêter sur cet [environnement](../core_rules/Using%20Environments.md). Un PJ disposant d’un historique adapté ou d’une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) peut apprendre un détail supplémentaire, poser une question de suivi sur la scène et obtenir une réponse sincère, sinon toujours complète.
 
-***You Are Not Welcome Here - Action:*** A [Young Dryad](../adversaries/Young%20Dryad.md), two [Sylvan Soldiers](../adversaries/Sylvan%20Soldier.md), and a number of [Minor Treants](../adversaries/Minor%20Treant.md) equal to the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) appear to confront the party for their intrusion. *What are the grove guardians concealing? What threat to the forest* *could the PCs confront to appease the [Dryad](../adversaries/Dryad.md)?*
+- Des traces de combat (armes brisées, branches cassées, sillons dans le sol) jonchent le sol.
+- Un tronc couvert de mousse est en réalité le cadavre d’un ent.
+- Des arbres encore debout sont tordus d’une façon étrange, comme sous l’effet d’une magie puissante. *Pourquoi ces groupes en sont-ils venus aux mains ? Pourquoi le bosquet est-il désert aujourd’hui ?*
 
-***Defiler - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon a [Minor Chaos Elemental](../adversaries/Minor%20Chaos%20Elemental.md) drawn to the echoes of violence and discord. They appear within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a chosen [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and immediately take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). *What color does the grass turn as the elemental appears? How does* *the chaos warp insects and small wildlife within the grove?*
+***Lianes barbelées - Action :*** Choisissez un point dans le bosquet. Toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **1d8+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et devenir *[Entravées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* par des lianes barbelées. L’état *Entravé* dure jusqu’à ce qu’elles soient libérées par un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi, ou en infligeant au moins 6 dégâts aux lianes. *Combien de lianes y a-t-il ? Où vous agrippent-elles ? Vous tirent-elles vers le bas ou vous soulèvent-elles du sol ?*
+
+***Vous n’êtes pas les bienvenus ici - Action :*** Une [jeune dryade](../adversaries/Young%20Dryad.md), deux [soldats sylvains](../adversaries/Sylvan%20Soldier.md) et un nombre de [petits ents](../adversaries/Minor%20Treant.md) égal au nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) apparaissent pour affronter le groupe qui s’est introduit sur leur territoire. *Que cachent les gardiens du bosquet ? Quelle menace pour la forêt les PJ pourraient-ils affronter pour apaiser la [Dryade](../adversaries/Dryad.md) ?*
+
+***Profanateur - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer un [petit élémentaire du chaos](../adversaries/Minor%20Chaos%20Elemental.md), attiré par les échos de la violence et de la discorde. Il apparaît à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) choisi et passe immédiatement [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). *De quelle couleur l’herbe devient-elle à son apparition ? Comment le chaos déforme-t-il les insectes et la petite faune du bosquet ?*

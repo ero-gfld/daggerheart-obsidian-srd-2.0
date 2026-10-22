@@ -1,12 +1,19 @@
-# Axe of Fortunis
+---
+aliases:
+  - "Axe of Fortunis"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Hache de Fortunis
 
-- **Trait:** [Strength](../core_rules/Character%20Creation.md#STEP%203)
-- **Range:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)
-- **Damage:** d10+8 mag
-- **[Burden](../core_rules/Equipment.md#WEAPONS):** [Two-Handed](../core_rules/Equipment.md#WEAPONS)
+*(VO : Axe of Fortunis)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-**_Lucky:_** On a failed attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to reroll your attack.
+- **Caractéristique :** [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
+- **Portée :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)
+- **Dégâts :** d10+8 mag
+- **[Prise](../core_rules/Equipment.md#ARMES) :** [À deux mains](../core_rules/Equipment.md#ARMES)
+
+### APTITUDE
+
+**_Chanceux :_** Sur une attaque ratée, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour relancer votre attaque.

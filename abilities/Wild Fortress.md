@@ -1,7 +1,14 @@
-# Wild Fortress
+---
+aliases:
+  - "Wild Fortress"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Forteresse sauvage
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (13)**. On a success, **spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to grow a natural barricade in the shape of a dome that you and one ally can take cover within. While inside the dome, a creature can’t be targeted by attacks and can’t make attacks. Attacks made against the dome automatically succeed. The dome has the following [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and lasts until it marks 3 [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). Place tokens on this card to represent marking Hit Points.
+*(VO : Wild Fortress)*
 
-[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS): 15/30
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (13)**. En cas de réussite, **dépensez 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire pousser une barricade naturelle en forme de dôme, à l’intérieur de laquelle vous et un allié pouvez vous mettre à couvert. Tant qu’une créature se trouve à l’intérieur du dôme, elle ne peut être visée par aucune attaque et ne peut pas attaquer. Les attaques contre le dôme réussissent automatiquement. Le dôme possède les [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) suivants et dure jusqu’à ce qu’il marque 3 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Placez des jetons sur cette carte pour représenter les PV marqués.
+
+[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) : 15/30

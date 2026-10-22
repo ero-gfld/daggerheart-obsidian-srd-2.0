@@ -1,19 +1,26 @@
-# Cephilith Priest
+---
+aliases:
+  - "Cephilith Priest"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A perpetually moist, faceless humanoid from the Outer Realms who has elongated fingers and translucent skin, under which one can see wriggling worms.*
+# Prêtre cephilith
 
-**Motives & Tactics:** Break the unbelievers’ minds, prepare this world for the [Cephilith Titan](Cephilith%20Titan.md)’s arrival, sing its praises
+*(VO : Cephilith Priest)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 37/70 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Psychic Strike:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d10+10 mag
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Humanoïde toujours moite, sans visage, venu des Royaumes extérieurs. Ses doigts sont allongés, et sa peau translucide laisse voir des vers qui se tortillent.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Outer Realms +4
+**Motivations et tactiques :** Briser l’esprit des incroyants, préparer ce monde à l’arrivée du [Titan cephilith](Cephilith%20Titan.md), chanter ses louanges
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 37/70 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +8 | **Frappe psychique :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d10+10 mag
 
-***Psychic Blast - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose up to three [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and force them to make a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who succeed take **2d10+5** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who fail take **4d10+10** direct magic damage and are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Royaumes extérieurs +4
 
-***Cerebral Incursion - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The Priest grabs the target and inserts their elongated fingers into the target’s ears, nose, and mouth. The target must succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or mark **1d6** [Stress](../core_rules/Core%20Mechanics.md#STRESS), and the Priest clears an equal number of Stress.
+## APTITUDES
 
-***Telekinetic Grasp - Reaction:*** When the Priest makes a successful standard attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target until they spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Déflagration psychique - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir jusqu’à trois [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et les obliger à faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui réussissent subissent **2d10+5** [dégâts magiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER). Celles qui échouent subissent **4d10+10** dégâts magiques directs et sont [Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu’à ce qu’elles soient mises sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Incursion cérébrale - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir une cible [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Le Prêtre saisit la cible et enfonce ses doigts allongés dans ses oreilles, son nez et sa bouche. La cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sinon elle marque **1d6** [Stress](../core_rules/Core%20Mechanics.md#STRESS), et le Prêtre évacue un nombre égal de [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Poigne télékinétique - Réaction :*** Quand le Prêtre réussit une attaque standard contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous pouvez **marquer un Stress** pour [Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) la cible jusqu’à ce qu’elle dépense un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

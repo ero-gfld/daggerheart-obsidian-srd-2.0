@@ -1,12 +1,19 @@
-# Widogast Pendant
+---
+aliases:
+  - "Widogast Pendant"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Pendentif de Widogast
 
-- **Trait:** [Knowledge](../core_rules/Character%20Creation.md#STEP%203)
-- **Range:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)
-- **Damage:** d10+5 mag
-- **[Burden](../core_rules/Equipment.md#WEAPONS):** [One-Handed](../core_rules/Equipment.md#WEAPONS)
+*(VO : Widogast Pendant)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-**_Timebending:_** You choose the target of your attack after making your [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+- **Caractéristique :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
+- **Portée :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)
+- **Dégâts :** d10+5 mag
+- **[Prise](../core_rules/Equipment.md#ARMES) :** [À une main](../core_rules/Equipment.md#ARMES)
+
+### APTITUDE
+
+**_Distorsion temporelle :_** Vous choisissez la cible de votre attaque après avoir fait votre [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).

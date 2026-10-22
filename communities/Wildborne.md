@@ -1,9 +1,16 @@
-# Wildborne
+---
+aliases:
+  - "Wildborne"
+---
 
-Being part of a wildborne community means you lived deep within the forest. Wildborne communities are defined by their dedication to the conservation of their homelands, and many have strong religious or cultural ties to the fauna they live among. This results in unique architectural and technological [advancements](../core_rules/Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS) that favor sustainability over short-term, high-yield results. It is a hallmark of wildborne societies to integrate their villages and cities with the natural [environment](../core_rules/Using%20Environments.md) and avoid disturbing the lives of the plants and animals. While some construct their lodgings high in the branches of trees, others establish their homes on the ground beneath the forest canopy. It’s not uncommon for wildborne to remain reclusive and hidden within their woodland homes.
+# Né sauvage
 
-*Wildborne are often hardy, loyal, nurturing, reclusive, sagacious,* *and vibrant.*
+*(VO : Wildborne)*
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Faire partie d’une communauté de Nés sauvages, c’est avoir vécu au cœur de la forêt. Ces communautés se définissent par leur dévouement à la préservation de leur terre natale, et beaucoup entretiennent de forts liens religieux ou culturels avec la faune qui les entoure. Il en résulte des [progrès](../core_rules/Core%20Mechanics.md#%C3%89TAPE%20DEUX%20PROGRESSIONS) architecturaux et techniques singuliers, qui privilégient la durabilité plutôt que les rendements élevés à court terme. Intégrer villages et cités à l’[environnement](../core_rules/Using%20Environments.md) naturel et éviter de troubler la vie des plantes et des animaux est la marque des sociétés de Nés sauvages. Certains construisent leurs logis très haut dans les branches des arbres, d’autres s’installent au sol, sous la canopée. Il n’est pas rare que les Nés sauvages restent reclus et cachés dans leurs demeures forestières.
 
-***Lightfoot:*** Your movement is naturally silent. You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to move without being heard.
+*Les Nés sauvages sont souvent endurants, loyaux, attentionnés, reclus, sagaces* *et pleins de vie.*
+
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Pas feutré :*** Vos déplacements sont naturellement silencieux. Vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets pour vous déplacer sans être entendu.

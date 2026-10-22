@@ -1,5 +1,12 @@
-# Disintegration Wave
+---
+aliases:
+  - "Disintegration Wave"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *4.*
+# Vague désintégrante
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (18)**. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) on a success, the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) tells you which [adversaries](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range have a [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) of 18 or lower. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** for each one you wish to hit with this spell. They are killed and can’t come back to life by any means.
+*(VO : Disintegration Wave)*
+
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *4.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (18)**. Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), en cas de réussite, le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) vous indique quels [adversaires](../core_rules/Using%20Adversaries.md) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ont une [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de 18 ou moins. **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour chacun que vous voulez toucher avec ce sort. Ils sont tués et ne peuvent revenir à la vie par aucun moyen.

@@ -1,5 +1,12 @@
-# Lean on Me
+---
+aliases:
+  - "Lean on Me"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Appuie-toi sur moi
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), when you console or inspire an ally who failed an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can both clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*(VO : Lean on Me)*
+
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), lorsque vous consolez ou inspirez un allié qui a raté un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), vous pouvez tous les deux évacuer 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).

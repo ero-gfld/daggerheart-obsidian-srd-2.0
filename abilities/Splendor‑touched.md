@@ -1,8 +1,15 @@
-# Splendor‑touched
+---
+aliases:
+  - "Splendor‑touched"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Splendor [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Touché par la Splendeur
 
-When 4 or more of the [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) are from the Splendor domain, gain the following benefits:
+*(VO : Splendor‑touched)*
 
-- +3 bonus to your [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) threshold
-- Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), when incoming damage would require you to mark a number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can choose to mark that much [Stress](../core_rules/Core%20Mechanics.md#STRESS) or spend that much [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) instead.
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *Splendeur [Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque 4 [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) ou plus de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) appartiennent au domaine Splendeur, vous gagnez les bénéfices suivants :
+
+- bonus de +3 à votre seuil de [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)
+- Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), lorsque des dégâts entrants vous obligeraient à marquer un nombre de [points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez choisir de marquer autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou de dépenser autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) à la place.

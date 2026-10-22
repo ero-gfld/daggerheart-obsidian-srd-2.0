@@ -1,5 +1,12 @@
-# Arcane Reflection
+---
+aliases:
+  - "Arcane Reflection"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Reflet arcanique
 
-When you would take [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can **spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to roll that many **d6s**. If any roll a 6, the attack is reflected back to the caster, dealing the damage to them instead.
+*(VO : Arcane Reflection)*
+
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque vous devriez subir des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **dépenser un nombre quelconque d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour lancer ce même nombre de **d6**. Si l’un d’eux donne un 6, l’attaque est renvoyée à son lanceur, qui subit les dégâts à sa place.

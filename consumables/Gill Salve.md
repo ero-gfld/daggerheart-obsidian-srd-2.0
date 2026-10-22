@@ -1,3 +1,10 @@
-# Gill Salve
+---
+aliases:
+  - "Gill Salve"
+---
 
-You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level.
+# Baume branchial
+
+*(VO : Gill Salve)*
+
+Vous pouvez appliquer cet onguent sur votre cou pour respirer sous l’eau pendant un nombre de minutes égal à votre niveau.

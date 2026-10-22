@@ -1,29 +1,36 @@
-# Gobstalker
+---
+aliases:
+  - "Gobstalker"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A fleshy, floating ball of teeth that has numerous eyes and a bundle of questing mouth tentacles that shoot magic beams.*
+# Traqueur gobelin
 
-**Motives & Tactics:** Ambush rivals, seek riches, shoot beams
+*(VO : Gobstalker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10/20 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Mouth Tentacles:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+3 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une boule charnue et flottante, hérissée de dents, couverte de nombreux yeux et dotée d’un faisceau de tentacules à bouche qui lancent des rayons magiques.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Magic +3
+**Motivations et tactiques :** Tendre des embuscades aux rivaux, chercher des richesses, tirer des rayons
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10/20 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Tentacules à bouche :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+3 phy
 
-***Relentless (3) - Passive:*** The Gobstalker can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Magie +3
 
-***Anti-Mystica-Halitosis - Passive:*** The Gobstalker’s rancid breath creates an invisible, magic-negating miasma. An attack, an ability, or a spell that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) or creates a magic effect fails automatically if used within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Gobstalker.
+## APTITUDES
 
-***Tentacle Rays - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to attack a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, roll a **d8** for a random beam attack or **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose instead: 
-1. ***Beguile.*** The Gobstalker *Beguiles* the target. While *Beguiled*, the target sees the Gobstalker as a friend and can’t attack it. Additionally, when a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), a *Beguiled* PC must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) or attack a target chosen by the Gobstalker. A *Beguiled* PC must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll (16) to clear the condition. 
-2. ***Corrode.*** The target takes **2d8** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and must mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) without receiving its benefits (they can still use armor to reduce the damage). If they can’t, double the damage. 
-3. ***Doom.*** The target must mark all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), but they can spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to reduce the number of HP marked this way by an equal amount. 
-4. ***Hypnosis.*** The target falls into a *Deep Trance* and can’t act except to try to wake up. This condition lasts until the target takes damage or wakes up with a successful [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll (16). 
-5. ***Paralyze.*** The target freezes in place, becoming *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS). 
-6. ***Sear.*** The target takes **2d8** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). 
-7. ***Scare.*** The target is *Scared*. While *Scared*, the target can’t take actions other than fleeing the battle or trying to shake off their terror. Additionally, the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) whenever you spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). The target can clear the condition with a successful [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll (16). 
-8. ***Slow.*** The target becomes *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to move until they spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Implacable (3) - Passif :*** Le Traqueur gobelin peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Leech Lick - Reaction:*** On a successful standard attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear a number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to the number of [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) the target marked.
+***Halitose anti-magique - Passif :*** Le souffle putride du Traqueur gobelin crée une brume invisible qui annule la magie. Une attaque, une aptitude ou un sort qui inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) ou crée un effet magique échoue automatiquement s’il est utilisé à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Traqueur gobelin.
+
+***Rayons tentaculaires - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, lancez un **d8** pour un rayon au hasard, ou **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour en choisir un à la place :
+1. ***Envoûtement.*** Le Traqueur gobelin *envoûte* la cible. Tant qu’elle est *envoûtée*, elle voit le Traqueur gobelin comme un ami et ne peut pas l’attaquer. De plus, quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lance les dés avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), un PJ *envoûté* doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou attaquer une cible choisie par le Traqueur gobelin. Un PJ *envoûté* doit réussir un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (16) pour lever cet état. 
+2. ***Corrosion.*** La cible subit **2d8** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et doit marquer un [emplacement d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir les bénéfices (elle peut quand même utiliser son armure pour réduire les dégâts). Si elle ne peut pas, les dégâts sont doublés. 
+3. ***Destin funeste.*** La cible doit marquer tous ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), mais elle peut dépenser n’importe quel nombre d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour réduire d’autant le nombre de PV marqués de cette façon. 
+4. ***Hypnose.*** La cible tombe en *transe profonde* et ne peut rien faire d’autre que tenter de se réveiller. Cet état dure jusqu’à ce que la cible subisse des dégâts ou se réveille grâce à un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi (16). 
+5. ***Paralysie.*** La cible se fige sur place, devient *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle marque 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS). 
+6. ***Brûlure.*** La cible subit **2d8** [dégâts magiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER). 
+7. ***Effroi.*** La cible est *Effrayée*. Tant qu’elle l’est, elle ne peut faire d’autre action que fuir le combat ou tenter de se ressaisir. De plus, elle doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) chaque fois que vous dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Elle peut lever cet état avec un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi (16). 
+8. ***Ralentissement.*** La cible devient *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour se déplacer, jusqu’à ce qu’elle dépense 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Ventouse de sangsue - Réaction :*** Sur une attaque standard réussie, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effacer un nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) égal au nombre de [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) que la cible a marqués.

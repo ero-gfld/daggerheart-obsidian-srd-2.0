@@ -1,9 +1,16 @@
-# Advanced Mage Robes
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Advanced Mage Robes"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 8 / 22  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Robes de mage avancées
 
-### FEATURE
+*(VO : Advanced Mage Robes)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Enchanted:*** Gain a bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 8 / 22  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Enchanté :*** Gagnez un bonus à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).

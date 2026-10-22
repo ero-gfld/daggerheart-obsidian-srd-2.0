@@ -1,8 +1,15 @@
-# Sage‑touched
+---
+aliases:
+  - "Sage‑touched"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Sage [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Touché par la Nature
 
-When 4 or more of the [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) are from the Sage domain, gain the following benefits:
+*(VO : Sage‑touched)*
 
-- While you’re in a natural [environment](../core_rules/Using%20Environments.md), you gain a +2 bonus to your [Spellcast Rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS).
-- Once per rest, you can double your [Agility](../core_rules/Character%20Creation.md#STEP%203) or [Instinct](../core_rules/Character%20Creation.md#STEP%203) when making a roll that uses that trait. You must choose to do this before you roll.
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *Nature [Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque 4 [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) ou plus de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) appartiennent au domaine Nature, vous obtenez les avantages suivants :
+
+- Tant que vous vous trouvez dans un [environnement](../core_rules/Using%20Environments.md) naturel, vous gagnez un bonus de +2 à vos [jets d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
+- Une fois par repos, vous pouvez doubler votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou votre [Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) lorsque vous effectuez un jet utilisant cette caractéristique. Vous devez choisir de le faire avant de lancer les dés.

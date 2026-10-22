@@ -1,19 +1,26 @@
-# Fowlbear
+---
+aliases:
+  - "Fowlbear"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A grizzly bear with a feathery hide and the head of a giant goose.*
+# Ours-volaille
 
-**Motives & Tactics:** Drive prey into an ambush, fight to the death, hunt in pairs
+*(VO : Fowlbear)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 14/28 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Goose Teeth & Bear Claws:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d12+2 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un ours grizzly à la peau couverte de plumes, avec la tête d’une oie géante.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Keen Senses +3, Ponds +3
+**Motivations et tactiques :** Pousser les proies dans une embuscade, combattre jusqu’à la mort, chasser par deux
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 14/28 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Dents d’oie et griffes d’ours :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d12+2 phy
 
-***Relentless (2) - Passive:*** The Fowlbear can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sens aiguisés +3, Mares +3
 
-***Double Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make two standard attacks. If both attacks succeed against the same target, combine the damage.
+## APTITUDES
 
-***Dread Honk - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Fowlbear unleash a terrifying, ear-splitting goose honk. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS), move away from the Fowlbear to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, and become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until the Fowlbear deals damage to them. Targets who succeed must mark a Stress or move away from the Fowlbear to Far range.
+***Implacable (2) - Passif :*** L’Ours-volaille peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Double frappe - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer deux attaques standard. Si les deux attaques réussissent contre la même cible, additionnez les dégâts.
+
+***Cri terrifiant - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que l’Ours-volaille pousse un cri d’oie strident et terrifiant. Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS), s’éloigner de l’Ours-volaille jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et devenir *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce que l’Ours-volaille leur inflige des dégâts. Les cibles qui réussissent doivent marquer un Stress ou s’éloigner de l’Ours-volaille jusqu’à portée Loin.

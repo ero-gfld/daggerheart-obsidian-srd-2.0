@@ -1,9 +1,16 @@
-# Rosewild Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Rosewild Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 23  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Armure de rose sauvage
 
-### FEATURE
+*(VO : Rosewild Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Hopeful:*** When you would spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) instead.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 23  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Plein d’Espoir :*** Lorsque vous devriez dépenser de l’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) à la place.

@@ -1,9 +1,16 @@
-# Slyborne
+---
+aliases:
+  - "Slyborne"
+---
 
-Being part of a slyborne community means you come from a group that operates outside the law, including all manner of criminals, grifters, and con artists. Members of slyborne communities are brought together by their disreputable goals and their clever means of achieving them. Many people in these communities have an array of unscrupulous skills: forging, thievery, smuggling, and violence. People of any social class can be slyborne, from those who have garnered vast wealth and influence to those without a coin to their name. To the outside eye, slyborne might appear to be ruffians with no loyalty, but these communities possess some of the strictest codes of honor which, when broken, can result in a terrifying end for the transgressor.
+# Né de la pègre
 
-*Slyborne are often calculating, clever, formidable, perceptive,* *shrewd, and tenacious.*
+*(VO : Slyborne)*
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Faire partie d’une communauté de Nés de la pègre, c’est venir d’un groupe qui agit en marge de la loi : criminels en tout genre, escrocs et filous. Leurs membres sont réunis par des buts peu avouables et par l’ingéniosité avec laquelle ils les poursuivent. Beaucoup possèdent tout un éventail de talents peu scrupuleux : faux, vol, contrebande et violence. Les gens de toute classe sociale peuvent être Nés de la pègre, de ceux qui ont amassé fortune et influence à ceux qui n’ont pas une pièce à leur nom. Vus de l’extérieur, ils passent pour des voyous sans loyauté, mais ces communautés suivent certains des codes d’honneur les plus stricts, et leur transgression peut valoir au coupable une fin terrifiante.
 
-***Scoundrel:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to negotiate with criminals, detect lies, or find a safe place to hide.
+*Les Nés de la pègre sont souvent calculateurs, malins, redoutables, perspicaces,* *rusés et tenaces.*
+
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Canaille :*** Vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets pour négocier avec des criminels, détecter les mensonges ou trouver une cachette sûre.

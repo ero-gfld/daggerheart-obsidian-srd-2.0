@@ -1,19 +1,26 @@
-# Petty Noble
+---
+aliases:
+  - "Petty Noble"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A richly dressed and adorned aristocrat brimming with hubris.*
+# Petit noble
 
-**Motives & Tactics:** Abuse power, gather resources, mobilize minions
+*(VO : Petty Noble)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/10 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −3 | **Rapier:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Un aristocrate richement vêtu et paré, débordant d'orgueil.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Aristocrat +3
+**Motivations et tactiques :** Abuser du pouvoir, rassembler des ressources, mobiliser des sbires
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/10 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −3 | **Rapière :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+1 phy
 
-***My Land, My Rules - Passive:*** All social actions made against the Noble on their land have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Aristocrate +3
 
-***Guards, Seize Them! - Action:*** Once per scene, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to summon **1d4** [Bladed Guards](Bladed%20Guard.md), who appear at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to enforce the Noble’s will.
+## APTITUDES
 
-***Exile - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and target a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F). The Noble proclaims that the target and their allies are exiled from the noble’s territory. While exiled, the target and their allies have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) during social situations within the Noble’s domain.
+***Mes terres, mes lois - Passif :*** Toutes les actions sociales dirigées contre le Noble sur ses terres subissent un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
+
+***Gardes, saisissez-les ! - Action :*** Une fois par scène, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour invoquer **1d4** [Gardes à lames](Bladed%20Guard.md), qui apparaissent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) pour faire respecter la volonté du Noble.
+
+***Exil - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et désignez un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Le Noble proclame que la cible et ses alliés sont exilés du territoire du noble. Tant qu'ils sont exilés, la cible et ses alliés subissent un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) lors des situations sociales à l'intérieur du domaine du Noble.

@@ -1,3 +1,10 @@
-# Vial of Featherfall
+---
+aliases:
+  - "Vial of Featherfall"
+---
 
-You can drink this potion to ignore damage from falling for the next 10 minutes.
+# Fiole de chute plume
+
+*(VO : Vial of Featherfall)*
+
+Vous pouvez boire cette potion pour ignorer les dégâts de chute pendant les 10 prochaines minutes.

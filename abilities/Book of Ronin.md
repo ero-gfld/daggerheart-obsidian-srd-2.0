@@ -1,7 +1,14 @@
-# Book of Ronin
+---
+aliases:
+  - "Book of Ronin"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *4.*
+# Livre de Ronin
 
-***Transform:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15)**. On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.
+*(VO : Book of Ronin)*
 
-***Eternal Enervation:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, they become permanently *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. They can’t clear this condition by any means.
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *4.*
+
+***Métamorphose :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15)**. En cas de réussite, transformez-vous en un objet inanimé dont la taille ne dépasse pas le double de votre taille normale. Vous pouvez conserver cette forme jusqu’à ce que vous subissiez des dégâts.
+
+***Énervation éternelle :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, elle devient définitivement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. Elle ne peut dissiper cet état par aucun moyen.

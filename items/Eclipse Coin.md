@@ -1,3 +1,10 @@
-# Eclipse Coin
+---
+aliases:
+  - "Eclipse Coin"
+---
 
-Once per rest, flip a coin. On heads, you gain a +1 bonus to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until your next successful attack. On tails, you gain +1 to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until an attack fails against you.
+# Pièce d’éclipse
+
+*(VO : Eclipse Coin)*
+
+Une fois par repos, lancez une pièce. Si elle tombe sur face, vous gagnez un bonus de +1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) jusqu’à votre prochaine attaque réussie. Si elle tombe sur pile, vous gagnez +1 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) jusqu’à ce qu’une attaque vous rate.

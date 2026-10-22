@@ -1,3 +1,10 @@
-# Warding Candle
+---
+aliases:
+  - "Warding Candle"
+---
 
-You can light this candle to fill an area within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with a halo of light. A creature outside the halo can’t enter it if they have ill intent toward a creature within it. The candle burns for an hour.
+# Bougie de protection
+
+*(VO : Warding Candle)*
+
+Vous pouvez allumer cette bougie pour remplir une zone à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un halo de lumière. Une créature située hors du halo ne peut pas y entrer si elle a de mauvaises intentions envers une créature qui s’y trouve. La bougie brûle pendant une heure.

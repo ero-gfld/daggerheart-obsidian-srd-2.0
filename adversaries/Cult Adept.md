@@ -1,21 +1,28 @@
-# Cult Adept
+---
+aliases:
+  - "Cult Adept"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*An experienced mage wielding shadow and fear.*
+# Adepte du culte
 
-**Motives & Tactics:** Curry favor, hinder foes, uncover knowledge
+*(VO : Cult Adept)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Rune-Covered Rod:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d4+3 mag
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Mage expérimenté qui manie l’ombre et la peur.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Fallen Lore +2, Rituals +2
+**Motivations et tactiques :** Flatter pour gagner des faveurs, entraver les ennemis, découvrir des savoirs
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Baguette couverte de runes :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d4+3 mag
 
-***Enervating Blast - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make a standard attack against a target within range. On a success, the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Savoir déchu +2, Rituels +2
 
-***Shroud of the Fallen - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to wrap an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a shroud of *Protection* until the Adept marks their last [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). While *Protected*, the target has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to all damage.
+## APTITUDES
 
-***Shadow Shackles - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point are *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* in smoky chains until they break free with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) or [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll. A target *Restrained* by this feature must spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+***Décharge épuisante - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire une attaque standard contre une cible à portée. En cas de réussite, la cible doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Fear Is Fuel - Reaction:*** Twice per scene, when a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls a [failure with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW), clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Linceul des déchus - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour envelopper un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un linceul de *Protection* jusqu’à ce que l’Adepte marque son dernier [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Tant qu’elle est *Protégée*, la cible bénéficie d’une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) à tous les dégâts.
+
+***Chaînes d’ombre - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point sont [Entravées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) par des chaînes de fumée jusqu’à ce qu’elles s’en libèrent avec un [jet de Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi. Une cible Entravée par cette aptitude doit dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour faire un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
+
+***La Peur est un carburant - Réaction :*** Deux fois par scène, quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fait un [échec avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U), évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

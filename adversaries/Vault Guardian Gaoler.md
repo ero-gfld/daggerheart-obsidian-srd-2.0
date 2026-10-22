@@ -1,15 +1,22 @@
-# Vault Guardian Gaoler
+---
+aliases:
+  - "Vault Guardian Gaoler"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A boxy, dust-covered construct with thick metallic swinging doors on their torso.*
+# Geôlier de la Voûte
 
-**Motives & Tactics:** Carry away, entrap, protect, pummel
+*(VO : Vault Guardian Gaoler)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 19/33 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Body Bash:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d6+2 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Un construct carré et couvert de poussière, avec de lourdes portes métalliques battantes sur le torse.*
 
-## FEATURES
+**Motivations et tactiques :** Emporter, enfermer, protéger, rouer de coups
 
-***Blocking Shield - Passive:*** Creatures within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Gaoler have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) against them. Creatures trapped inside the Gaoler are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to this feature.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 19/33 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Coup de corps :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d6+2 phy
 
-***Lock Up - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* within the Gaoler until freed with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (18). While *Restrained*, the target can only attack the Gaoler.
+## APTITUDES
+
+***Bouclier bloquant - Passif :*** Les créatures à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Geôlier ont un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre lui. Les créatures enfermées dans le Geôlier sont [immunisées](../core_rules/Core%20Mechanics.md#ATTAQUER) contre cette aptitude.
+
+***Enfermer - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque contre une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la cible est *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* dans le Geôlier jusqu’à ce qu’elle se libère grâce à un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi (18). Tant qu’elle est *Entravée*, la cible ne peut attaquer que le Geôlier.

@@ -1,9 +1,16 @@
-# Book of Ava
+---
+aliases:
+  - "Book of Ava"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Livre d’Ava
 
-***Power Push:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, they’re knocked back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and take **d10+2** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Book of Ava)*
 
-***Tava’s Armor:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to give a target you can touch a +1 bonus to their [Armor Score](../core_rules/Equipment.md#ARMOR) until their next rest or you cast Tava’s Armor again.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-***Ice Spike:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (12)** to summon a large ice spike within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. If you use it as a weapon, make the Spellcast Roll against the target’s [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) instead. On a success, deal **d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Poussée de puissance :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, elle est projetée à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et subit **d10+2** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Armure de Tava :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour accorder à une cible que vous pouvez toucher un bonus de +1 à son [Score d’armure](../core_rules/Equipment.md#ARMURE), jusqu’à son prochain repos ou jusqu’à ce que vous lanciez de nouveau Armure de Tava.
+
+***Pic de glace :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (12)** pour invoquer un grand pic de glace à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Si vous l’utilisez comme arme, faites plutôt le jet d’Incantation contre la [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de la cible. En cas de réussite, infligez **d6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).

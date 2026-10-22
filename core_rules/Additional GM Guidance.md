@@ -1,132 +1,139 @@
-# Additional GM Guidance
+---
+aliases:
+  - "Additional GM Guidance"
+---
 
-*This section provides additional guidance for preparing and* *running a session of Daggerheart.*
+# Conseils supplémentaires pour le MJ
 
-#### STORY BEATS
+*(VO : Additional GM Guidance)*
 
-In storytelling, a beat is a moment that changes the trajectory of the narrative—a shift in the world, a significant action or reaction, an emotional revelation, or an important decision. Take turns with the players, narrating a beat and then letting them react and carry the scene forward with their own beats. When preparing for a session, plan in terms of the moments that give shape to each scene or sequence, rather than pre-scripting specific details or exchanges.
+*Cette section propose des conseils supplémentaires pour préparer et* *mener une séance de Daggerheart.*
 
-#### PREPARING COMBAT ENCOUNTERS
+#### TEMPS FORTS DE L’HISTOIRE
 
-Build the hurdles the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) face around the question of “What helps tell the story?” Enemies, [environments](Using%20Environments.md), and hazards are the tools for heightening tension and creating drama. Ensure that combat is being used to give players more information about the unfolding story, revealing the world, the plot, or the characters.
+En narration, un temps fort est un moment qui change la trajectoire du récit : un bouleversement du monde, une action ou une réaction marquante, une révélation émotionnelle ou une décision importante. Alternez avec les joueurs : narrez un temps fort, puis laissez-les réagir et porter la scène plus loin avec les leurs. Lorsque vous préparez une séance, pensez en termes de moments qui donnent forme à chaque scène ou séquence, plutôt que de scénariser à l’avance des détails ou des échanges précis.
 
-#### BATTLES AND NARRATIVE
+#### PRÉPARER LES COMBATS
 
-Dynamic battles create suspense by forcing players to choose between their various objectives, engaging their character’s motivations and weaknesses, and creating the crucible that the players use to forge their characters into legendary heroes. When preparing combat encounters:
+Bâtissez les obstacles que rencontrent les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) autour de la question « Qu’est-ce qui aide à raconter l’histoire ? » Les ennemis, les [environnements](Using%20Environments.md) et les dangers sont autant d’outils pour faire monter la tension et créer du drame. Veillez à ce que le combat donne aux joueurs des informations sur l’histoire en cours, en révélant le monde, l’intrigue ou les personnages.
 
-- Consider the narrative function of the battle
+#### COMBATS ET NARRATION
 
-- Base [adversaries](Using%20Adversaries.md)’ moves on their motives
+Les combats dynamiques créent du suspense en forçant les joueurs à choisir entre leurs différents objectifs, en sollicitant les motivations et les faiblesses de leurs personnages, et en formant le creuset dans lequel les joueurs forgent leurs personnages jusqu’à en faire des héros de légende. Quand vous préparez un combat :
 
-- Use dynamic [environments](Using%20Environments.md) to bring the battleground to life
+- Réfléchissez à la fonction narrative de l’affrontement
 
-- Add enemies that can interact with the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’ features and special abilities
+- Fondez les actions des [adversaires](Using%20Adversaries.md) sur leurs motivations
 
-#### SESSION REWARDS
+- Utilisez des [environnements](Using%20Environments.md) dynamiques pour donner vie au champ de bataille
 
-Reward players at the end of a session with:
+- Ajoutez des ennemis capables d’interagir avec les aptitudes et les capacités spéciales des [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)
 
-- Useful information
+#### RÉCOMPENSES DE SÉANCE
 
-- Story hooks
+À la fin d’une séance, récompensez les joueurs avec :
 
-- Loot
+- Des informations utiles
 
-- [Gold](Equipment.md#GOLD)
+- Des accroches d’histoire
 
-- Access to new equipment or enhancements
+- Du butin
 
-#### CRAFTING SCENES
+- De l’[Or](Equipment.md#OR)
 
-Whenever you start a session, arrive at a new place, or change the situation, tell the players what they need to know by thinking with all of your senses and sharing something unique or unexpected about the fiction.
+- L’accès à de nouveaux équipements ou à des améliorations
 
-#### ENGAGING YOUR PLAYERS
+#### CONSTRUIRE LES SCÈNES
 
-Keep your players engaged by:
+Chaque fois que vous commencez une séance, que vous arrivez dans un nouveau lieu ou que la situation change, dites aux joueurs ce qu’ils ont besoin de savoir en faisant appel à tous vos sens et en partageant un détail singulier ou inattendu de la fiction.
 
-- Rotating the Focus between the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)
+#### MAINTENIR L’ENGAGEMENT DES JOUEURS
 
-- Tying Together Story Elements
+Gardez vos joueurs impliqués en :
 
-- Engaging Quiet Players
+- Faisant tourner l’attention entre les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)
 
-- Using Visual Aids
+- Reliant les éléments de l’histoire entre eux
 
-- Encouraging Unguided Play
+- Impliquant les joueurs discrets
 
-- Confronting the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) with internal and external conflicts
+- Utilisant des supports visuels
 
-- Raise the Stakes by Spending [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)
+- Encourageant le jeu non guidé
 
-- Layering Goals Other than Attrition into Combat (see Table of Random Objectives on the next page)
+- Confrontant les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à des conflits internes et externes
 
-| 1d12 | Objective |
+- Relevant les enjeux en dépensant de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)
+
+- Ajoutant aux combats des objectifs autres que l’usure (voir la table d’objectifs aléatoires à la page suivante)
+
+| 1d12 | Objectif |
 | --- | --- |
-| 1 | Acquire (obtain or steal) an important item or items. |
-| 2 | Capture one or more of the opponents. |
-| 3 | Activate a magical device. |
-| 4 | Frame a character or tarnish their reputation. |
-| 5 | Drive the opponent into a corner or ambush point. |
-| 6 | Stop a magical ritual, legal ceremony, or time-sensitive spell. |
-| 7 | Hold the line—keep the enemy from reaching a specific area or group. |
-| 8 | Plant evidence or a tracking device on a target. |
-| 9 | Secure a specific location ahead of another group’s arrival. |
-| 10 | Harass the opponent to deplete their resources or keep them occupied. |
-| 11 | Destroy a piece of architecture, a statue, a shrine, or a weapon. |
-| 12 | Investigate a situation to confirm or deny existing information. |
+| 1 | Se procurer (obtenir ou voler) un ou plusieurs objets importants. |
+| 2 | Capturer un ou plusieurs adversaires. |
+| 3 | Activer un dispositif magique. |
+| 4 | Faire accuser un personnage à tort ou ternir sa réputation. |
+| 5 | Acculer l’adversaire dans un coin ou dans un lieu d’embuscade. |
+| 6 | Interrompre un rituel magique, une cérémonie officielle ou un sort limité dans le temps. |
+| 7 | Tenir la ligne : empêcher l’ennemi d’atteindre une zone ou un groupe précis. |
+| 8 | Dissimuler une preuve ou un dispositif de pistage sur une cible. |
+| 9 | Sécuriser un lieu précis avant l’arrivée d’un autre groupe. |
+| 10 | Harceler l’adversaire pour épuiser ses ressources ou le tenir occupé. |
+| 11 | Détruire un élément d’architecture, une statue, un sanctuaire ou une arme. |
+| 12 | Enquêter sur une situation pour confirmer ou infirmer des informations existantes. |
 
-#### PHASED BATTLES
+#### COMBATS PAR PHASES
 
-Make battles by shifting the nature of its enemies or [environment](Using%20Environments.md) mid-combat:
+Construisez des combats en phases en changeant la nature des ennemis ou de l’[environnement](Using%20Environments.md) en plein affrontement :
 
-- Change the Terms of Engagement
+- Changer les termes de l’engagement
 
-- Alter the [Environment](Using%20Environments.md)
+- Modifier l’[environnement](Using%20Environments.md)
 
-- Evolve the Opposition
+- Faire évoluer l’opposition
 
-#### USING DOWNTIME
+#### UTILISER LE TEMPS DE REPOS
 
-Use [downtime](Core%20Mechanics.md#DOWNTIME) scenes as a pressure release valve to vary the intensity of the story and give the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) room to breathe.
+Servez-vous des scènes de [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) comme d’une soupape de décompression pour varier l’intensité de l’histoire et laisser de l’air aux [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).
 
-Empower your players to frame their own [downtime](Core%20Mechanics.md#DOWNTIME) scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved
+Donnez aux joueurs les moyens de cadrer eux-mêmes leurs scènes de [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS). Demandez-leur à quoi cela ressemble lorsqu’ils soignent leurs blessures ou se détendent ensemble, et encouragez-les à prendre les rênes et à collaborer avec les autres joueurs dont les personnages sont concernés.
 
-#### PROJECTS DURING DOWNTIME
+#### PROJETS PENDANT LE TEMPS DE REPOS
 
-The [Work on a Project](Core%20Mechanics.md#DOWNTIME) [downtime move](Core%20Mechanics.md#DOWNTIME) requires more [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) input than other downtime moves and is best suited for long-term endeavors the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) wish to undertake.
+L’[action de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) [Avancer un projet](Core%20Mechanics.md#TEMPS%20DE%20REPOS) demande plus d’intervention du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) que les autres actions de repos et convient surtout aux entreprises de longue haleine que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) souhaitent mener.
 
-These projects are typically tracked using a [Progress Countdown](Making%20Moves.md#COUNTDOWNS). When deciding the starting value of the [countdown](Making%20Moves.md#COUNTDOWNS), consider the complexity of the project, the availability of relevant tools, and the impact of the project on the story.
+Ces projets sont généralement suivis à l’aide d’un [compte à rebours de progression](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS). Pour fixer la valeur de départ du [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS), tenez compte de la complexité du projet, de la disponibilité des outils adaptés et de l’impact du projet sur l’histoire.
 
-Simple projects advance their [countdown](Making%20Moves.md#COUNTDOWNS) each time a player uses the [Work on a Project](Core%20Mechanics.md#DOWNTIME) move, but complex projects require a roll.
+Les projets simples font avancer leur [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) chaque fois qu’un joueur utilise l’action [Avancer un projet](Core%20Mechanics.md#TEMPS%20DE%20REPOS), mais les projets complexes exigent un jet.
 
-#### EXTENDED DOWNTIME
+#### TEMPS DE REPOS PROLONGÉ
 
-When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) per [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and advance any long-term [countdowns](Making%20Moves.md#COUNTDOWNS) as appropriate.
+Lorsque vous accélérez le récit pour couvrir une longue période, utilisez des montages pour illustrer le passage du temps. Vous gagnez 1d6 de [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) par [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et faites avancer les [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) à long terme selon ce qui convient.
 
-### CAMPAIGN FRAMES
+### CADRES DE CAMPAGNE
 
-A campaign frame provides inspiration, tools, and mechanics to support a particular type of story at the table.
+Un cadre de campagne fournit de l’inspiration, des outils et des mécaniques pour soutenir un type d’histoire particulier à la table.
 
-Every campaign frame has a complexity rating that indicates how much its mechanics deviate from or expand upon the Daggerheart core ruleset.
+Chaque cadre de campagne possède une cote de complexité qui indique dans quelle mesure ses mécaniques s’écartent des règles de base de Daggerheart ou les étendent.
 
-Each campaign frame includes the following sections.
+Chaque cadre de campagne comprend les sections suivantes.
 
-- A **pitch** to present to players
+- Un **argumentaire** à présenter aux joueurs
 
-- Suggestions and guidance on **tone, feel, themes, and touchstones**
+- Des suggestions et des conseils sur le **ton, l’ambiance, les thèmes et les références**
 
-- An overview of the campaign’s **background**
+- Un aperçu du **contexte** de la campagne
 
-- Guidance for fitting **communities, ancestries, and classes** into the setting
+- Des conseils pour intégrer les **communautés, ascendances et classes** au cadre
 
-- **Principles** for players and GMs to focus on during the campaign
+- Des **principes** sur lesquels les joueurs et les MJ se concentrent pendant la campagne
 
-- Unique setting **distinctions**
+- Des **particularités** propres au cadre
 
-- An **inciting incident** to launch the campaign
+- Un **élément déclencheur** pour lancer la campagne
 
-- **Special mechanics** to use during the campaign
+- Des **mécaniques spéciales** à utiliser pendant la campagne
 
-- **Questions to consider** during session zero
+- Des **questions à examiner** pendant la séance zéro
 
-*You can find each campaign frame map in the appendix of* *the core rulebook or at www.daggerheart.com/downloads.*
+*Vous trouverez la carte de chaque cadre de campagne dans l’annexe du livre de règles de base ou sur www.daggerheart.com/downloads.*

@@ -1,9 +1,16 @@
-# Hallowed Heroplate
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Hallowed Heroplate"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 35  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 7
+# Plate héroïque consacrée
 
-### FEATURE
+*(VO : Hallowed Heroplate)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Blessed:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) before you make the [Risk It All](../core_rules/Core%20Mechanics.md#DEATH) [death move](../core_rules/Core%20Mechanics.md#DEATH). You gain a bonus to the result of your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW) equal to the number of Hope spent.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 35  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 7
+
+### APTITUDE
+
+***Béni :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez dépenser autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous le voulez avant de faire le [choix de mort](../core_rules/Core%20Mechanics.md#MORT) « [Tout risquer](../core_rules/Core%20Mechanics.md#MORT) ». Vous gagnez un bonus au résultat de votre [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) égal au nombre d’Espoir dépensé.

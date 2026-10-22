@@ -1,11 +1,18 @@
-# Fane of the Wilds
+---
+aliases:
+  - "Fane of the Wilds"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Temple des terres sauvages
 
-After a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), place a number of tokens equal to the number of [Sage](../domains/Sage.md) [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) and vault on this card.
+*(VO : Fane of the Wilds)*
 
-When you would make a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), you can spend any number of tokens after the roll to gain a +1 bonus for each token spent.
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-When you critically succeed on a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) for a [Sage](../domains/Sage.md) domain spell, gain a token.
+Après un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), placez sur cette carte un nombre de jetons égal au nombre de [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de la [Nature](../domains/Sage.md) présentes dans votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) et dans votre réserve.
 
-When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), clear all unspent tokens.
+Lorsque vous devriez faire un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX), vous pouvez dépenser autant de jetons que vous voulez, après le jet, pour gagner un bonus de +1 par jeton dépensé.
+
+Lorsque vous obtenez une réussite critique sur un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) pour un sort du domaine de la [Nature](../domains/Sage.md), gagnez un jeton.
+
+Lorsque vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), retirez tous les jetons non dépensés.

@@ -1,5 +1,12 @@
-# Night Terror
+---
+aliases:
+  - "Night Terror"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Terreur nocturne
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), choose any targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to perceive you as a nightmarish horror. The targets must succeed on a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16) or become temporarily *Horrified*. While *Horrified*, they’re *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. Steal a number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) from the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) equal to the number of targets that are *Horrified* (up to the number of Fear in the GM’s pool). Roll a number of **d6s** equal to the number of stolen Fear and deal the total damage to each *Horrified* target. Discard the stolen Fear.
+*(VO : Night Terror)*
+
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), choisissez autant de cibles que vous voulez à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) : elles vous perçoivent comme une horreur cauchemardesque. Les cibles doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16), sinon elles deviennent temporairement *Horrifiées*. Tant qu’elles sont *Horrifiées*, elles sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. Dérobez au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) un nombre de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) égal au nombre de cibles *Horrifiées* (dans la limite de la Peur présente dans la réserve du MJ). Lancez un nombre de **d6** égal au nombre de Peur dérobée, et infligez le total des dégâts à chaque cible *Horrifiée*. Défaussez la Peur dérobée.

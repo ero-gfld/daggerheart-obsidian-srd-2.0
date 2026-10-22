@@ -1,25 +1,32 @@
-# Pact of the Endless
+---
+aliases:
+  - "Pact of the Endless"
+---
 
-Play the Pact of the Endless if you want to stand strong against enemies and avoid death.
+# Pacte de l’Infini
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Pact of the Endless)*
 
-[Presence](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Pacte de l’Infini si vous voulez tenir bon face à vos ennemis et échapper à la mort.
 
-**FOUNDATION FEATURES**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Patron’s Mantle:*** **Spend a Favor** to cloak yourself in a terrifying aspect of your Patron that lasts until you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or the scene ends. While this effect is active, you gain a bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) and have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to intimidate a target.
+[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Deathless Embrace:*** Once per rest, **spend any number of Favor** to roll an equal number of Patron Dice. For each result of 4 or higher, clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Manteau du Patron :*** **Dépensez une Faveur** pour vous envelopper d’un aspect terrifiant de votre Patron, jusqu’à ce que vous subissiez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou que la scène prenne fin. Tant que cet effet est actif, vous gagnez un bonus à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux [jets d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour intimider une cible.
 
-***Harrowing Invocation:*** When an [adversary](../core_rules/Using%20Adversaries.md) targets you or an ally within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with an attack, you can **spend a Favor** to give them [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the roll. If the adversary fails the roll, they must also mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Étreinte immortelle :*** Une fois par repos, **dépensez autant de Faveurs que vous voulez** pour lancer autant de dés de Patron. Pour chaque résultat de 4 ou plus, évacuez un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Damage Sink:*** Once per rest, you can **spend a Favor** to halve incoming damage.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Invocation terrifiante :*** Quand un [adversaire](../core_rules/Using%20Adversaries.md) vous prend pour cible, ou prend pour cible un allié à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), avec une attaque, vous pouvez **dépenser une Faveur** pour lui imposer un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur ce jet. Si l’adversaire rate son jet, il doit en plus marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Dark Aegis:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) when you would take damage, you can **spend a Favor** instead of marking [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Puits de dégâts :*** Une fois par repos, vous pouvez **dépenser une Faveur** pour diviser par deux les dégâts subis.
 
-***Draining Bane:*** When an [adversary](../core_rules/Using%20Adversaries.md) targets you or an ally within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with an attack, you can **spend a Favor** to *Drain* them. When you do, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS), and you can clear a Stress. While *Drained*, the target uses a **d12** instead of a d20 for [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) (including for [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) or [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE)) until they fail a roll.
+**APTITUDES D’EXCELLENCE**
+
+***Égide sombre :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), quand vous allez subir des dégâts, vous pouvez **dépenser une Faveur** au lieu de marquer des [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+
+***Fléau drainant :*** Quand un [adversaire](../core_rules/Using%20Adversaries.md) vous prend pour cible, ou prend pour cible un allié à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), avec une attaque, vous pouvez **dépenser une Faveur** pour le *Drainer*. Dans ce cas, il doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS), et vous pouvez évacuer un Stress. Tant qu’elle est *Drainée*, la cible utilise un **d12** au lieu d’un d20 pour ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) (y compris en cas d’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) ou de [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE)), jusqu’à ce qu’elle rate un jet.

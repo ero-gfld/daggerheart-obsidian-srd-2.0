@@ -1,5 +1,12 @@
-# Breaking Blow
+---
+aliases:
+  - "Breaking Blow"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+# Coup fracassant
 
-When you make a successful attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the next successful attack against that same target deal an extra **2d12** damage.
+*(VO : Breaking Blow)*
+
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+Lorsque vous réussissez une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la prochaine attaque réussie contre cette même cible inflige **2d12** dégâts supplémentaires.

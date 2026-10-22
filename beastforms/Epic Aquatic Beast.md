@@ -1,11 +1,18 @@
-# Epic Aquatic Beast
+---
+aliases:
+  - "Epic Aquatic Beast"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Giant Squid, Whale, etc.)
+# Bête aquatique épique
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d10+10 phy*
+*(VO : Epic Aquatic Beast)*
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** locate, protect, scare, track
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Calmar géant, baleine, etc.)
 
-***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* them.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d10+10 phy*
 
-***Unyielding:*** When you would mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), roll a **d6.** On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** repérer, protéger, effrayer, pister
+
+***Maître des océans :*** Vous pouvez respirer et vous déplacer naturellement sous l’eau. Quand vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez l’*[Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* temporairement.
+
+***Inflexible :*** Quand vous devriez marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), lancez un **d6.** Sur un résultat de 5 ou plus, réduisez la gravité d’un seuil sans marquer d’Emplacement d’armure.

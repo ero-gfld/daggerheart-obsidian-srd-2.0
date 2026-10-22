@@ -1,18 +1,25 @@
-# Hold the Line
+---
+aliases:
+  - "Hold the Line"
+---
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***
-*The party must fend off multiple waves of enemies long enough for an ally to complete an important objective.*
+# Tenir la ligne
 
-**Impulses:** Crash waves of enemies upon the party’s shores, never let them breathe, target their charge
+*(VO : Hold the Line)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Guards, Jagged Knives, Pirates, Skeletons, Zombies
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Événement](../core_rules/Using%20Environments.md)***
+*Le groupe doit repousser plusieurs vagues d’ennemis assez longtemps pour qu’un allié puisse accomplir un objectif important.*
 
-## FEATURES
+**Pulsions :** lancer des vagues d’ennemis contre les rivages du groupe, ne jamais lui laisser de répit, viser leur charge
 
-***Bodyguards - Passive:*** The [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must protect an [NPC](../core_rules/Making%20Moves.md#RUNNING%20GM%20NPCS) (their “Charge”) long enough for the Charge to complete a task, such as finishing a magical ritual or repairing a mechanical device. At the start of the scene, activate a Task [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) with a value equal to the number of PCs in the scene. It ticks down when the PCs defeat a wave of [adversaries](../core_rules/Using%20Adversaries.md). When it triggers, the Charge completes their task. *Who are the PCs protecting, and what is the Charge trying to do?* *Who wants to stop them? What will happen if the Charge isn’t able to* *complete their task?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Gardes, Lames dentelées, Corsaires, Squelettes, Zombies
 
-***“I Must Not Fail!” - Passive:*** When the first wave of [adversaries](../core_rules/Using%20Adversaries.md) appears, place a Resolve [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) next to the Charge with a value equal to the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the scene. When an [adversary](../core_rules/Using%20Adversaries.md) makes an attack against the Charge, the attack automatically succeeds and ticks down the Resolve Countdown. When it triggers, the Charge either flees, dies, or becomes incapacitated. *Why is this task so important to the Charge? What has the power to* *break their resolve?*
+## APTITUDES
 
-***Swarming Multitudes - Passive:*** All [adversaries](../core_rules/Using%20Adversaries.md) gain the “Relentless (2)” feature: They can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them. *Where does these foes’ newfound power come from? Is there any way* *to cut them off from it?*
+***Gardes du corps - Passif :*** Les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doivent protéger un [PNJ](../core_rules/Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) (leur « Protégé ») assez longtemps pour qu’il mène à bien une tâche, comme achever un rituel magique ou réparer un mécanisme. Au début de la scène, activez un [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) de tâche dont la valeur est égale au nombre de PJ dans la scène. Il diminue quand les PJ vainquent une vague d’[adversaires](../core_rules/Using%20Adversaries.md). Quand il se déclenche, le Protégé accomplit sa tâche. *Qui les PJ protègent-ils, et que tente de faire le Protégé ? Qui veut l’en empêcher ? Que se passera-t-il si le Protégé ne parvient pas à achever sa tâche ?*
 
-***Waves upon Waves - Reaction:*** When there are no [adversaries](../core_rules/Using%20Adversaries.md) in the scene, summon a wave of adversaries at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range from the Charge. Each wave comprises two [Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Minions](../core_rules/Using%20Adversaries.md) for each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the scene. *Where do these adversaries come from? Who leads them from the* *shadows?*
+***« Je ne dois pas échouer ! » - Passif :*** Quand la première vague d’[adversaires](../core_rules/Using%20Adversaries.md) apparaît, placez un [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) de Résolution à côté du Protégé, dont la valeur est égale au nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dans la scène. Quand un [adversaire](../core_rules/Using%20Adversaries.md) attaque le Protégé, l’attaque réussit automatiquement et fait diminuer le compte à rebours de Résolution. Quand il se déclenche, le Protégé fuit, meurt ou devient incapable d’agir. *Pourquoi cette tâche est-elle si importante pour le Protégé ? Qu’est-ce qui pourrait briser sa résolution ?*
+
+***Multitudes envahissantes - Passif :*** Tous les [adversaires](../core_rules/Using%20Adversaries.md) gagnent l’aptitude « Implacable (2) » : ils peuvent être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour les mettre [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). *D’où vient ce pouvoir nouveau de ces ennemis ? Existe-t-il un moyen de les en priver ?*
+
+***Vagues sur vagues - Réaction :*** Quand il n’y a plus d’[adversaires](../core_rules/Using%20Adversaries.md) dans la scène, invoquez une vague d’adversaires à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Protégé. Chaque vague comprend deux [sbires](../core_rules/Using%20Adversaries.md) de [rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) par [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) présent dans la scène. *D’où viennent ces adversaires ? Qui les mène depuis l’ombre ?*

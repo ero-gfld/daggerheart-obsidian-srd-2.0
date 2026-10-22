@@ -1,21 +1,28 @@
-# Deep Dweller
+---
+aliases:
+  - "Deep Dweller"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A huge psychic lamprey that has pitch-black eyes and toxic tentacles.*
+# Habitant des abysses
 
-**Motives & Tactics:** Abuse power, seek worship, stalk sunken ruins
+*(VO : Deep Dweller)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 22/42 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Teeth & Tentacles:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+4 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Immense lamproie psychique aux yeux noirs comme la poix et aux tentacules toxiques.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ancient Mysteries +2, Dark Water +2
+**Motivations et tactiques :** Abuser du pouvoir, rechercher l’adoration, rôder dans les ruines englouties
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 22/42 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Dents et tentacules :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10+4 phy
 
-***Psychic Blast - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose up to three targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and force them to make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) or [Knowledge](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who succeed mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). Targets who fail take **3d10+4** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Mystères anciens +2, Eaux sombres +2
 
-***Brain Drain - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to choose a *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The target marks **1d4** Stress, and the Deep Dweller clears an equal number of [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
 
-***Call of the Deep - Action:*** **Spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon **1d4** [Cursed Merfolk](Cursed%20Merfolk.md), who appear at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Déflagration psychique - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir jusqu’à trois cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et les forcer à faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui réussissent marquent un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Celles qui échouent subissent **3d10+4** [dégâts magiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER) et sont [Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu’à être [mises sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Mucosal Contamination - Action:*** Make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the Deep Dweller uses its tentacles to immobilize the target, sliming them with toxic sludge. The target is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they break free or slip out with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) or [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll. Each time the Deep Dweller is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), all PCs *Restrained* in this way take **3d8** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). The Deep Dweller releases all creatures *Restrained* by it when it’s defeated or takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Drain cérébral - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour choisir un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible marque **1d4** Stress, et l’Habitant des abysses efface un nombre égal de [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+
+***Appel des abysses - Action :*** **Dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer **1d4** [Hommes-poissons maudits](Cursed%20Merfolk.md), qui apparaissent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et prennent immédiatement [les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Contamination muqueuse - Action :*** Faites un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, l’Habitant des abysses utilise ses tentacules pour l’immobiliser et le couvrir d’une boue toxique. Le PJ est [Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu’à ce qu’il se libère ou se dégage avec un [jet de Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi. Chaque fois que l’Habitant des abysses est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), tous les PJ Entravés de cette façon subissent **3d8** [dégâts physiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER). L’Habitant libère toutes les créatures Entravées par lui quand il est vaincu ou subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

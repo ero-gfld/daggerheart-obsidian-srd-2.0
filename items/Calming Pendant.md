@@ -1,3 +1,10 @@
-# Calming Pendant
+---
+aliases:
+  - "Calming Pendant"
+---
 
-When you would mark your last [Stress](../core_rules/Core%20Mechanics.md#STRESS), roll a d6. On a result of 5 or higher, don’t mark it.
+# Pendentif apaisant
+
+*(VO : Calming Pendant)*
+
+Lorsque vous devriez marquer votre dernier [Stress](../core_rules/Core%20Mechanics.md#STRESS), lancez un d6. Sur un résultat de 5 ou plus, ne le marquez pas.

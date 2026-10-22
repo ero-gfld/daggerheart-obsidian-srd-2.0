@@ -1,17 +1,24 @@
-# Pirate Raiders
+---
+aliases:
+  - "Pirate Raiders"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*Seafaring scoundrels moving in a ravaging pack.*
+# Maraudeurs corsaires
 
-**Motives & Tactics:** Gang up, plunder, raid
+*(VO : Pirate Raiders)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/11 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Cutlass:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (3/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Des vauriens des mers qui avancent en meute ravageuse.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Sailor +3
+**Motivations et tactiques :** Se liguer, piller, razzier
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/11 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Sabre d'abordage :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+2 phy
 
-***Horde (1d4+1) - Passive:*** When the Raiders have marked half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals **1d4+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Marin +3
 
-***Swashbuckler - Passive:*** When the Raiders mark 2 or fewer [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, the attacker must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
+
+***Horde (1d4+1) - Passif :*** Lorsque les Maraudeurs ont marqué la moitié de leurs [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, leur attaque standard inflige **1d4+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***Bretteur - Passif :*** Lorsque les Maraudeurs marquent 2 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou moins à la suite d'une attaque à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), l'attaquant doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

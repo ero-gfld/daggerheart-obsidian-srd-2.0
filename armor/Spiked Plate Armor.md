@@ -1,9 +1,16 @@
-# Spiked Plate Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Spiked Plate Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 10 / 25  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Armure de plates à pointes
 
-### FEATURE
+*(VO : Spiked Plate Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Sharp:*** On a successful attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, add a d4 to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 10 / 25  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Tranchant :*** Sur une attaque réussie contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), ajoutez un d4 au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

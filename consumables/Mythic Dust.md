@@ -1,3 +1,10 @@
-# Mythic Dust
+---
+aliases:
+  - "Mythic Dust"
+---
 
-You can apply this dust to a weapon that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to add a d12 to your next [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.
+# Poussière mythique
+
+*(VO : Mythic Dust)*
+
+Vous pouvez appliquer cette poussière sur une arme qui inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour ajouter un d12 à votre prochain [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) avec cette arme.

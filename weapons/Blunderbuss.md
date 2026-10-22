@@ -1,9 +1,16 @@
-# Blunderbuss
+---
+aliases:
+  - "Blunderbuss"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Tromblon
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+6 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Blunderbuss)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to reload this weapon before you can fire it again.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+6 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Rechargement :*** après une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour recharger cette arme avant de pouvoir tirer à nouveau.

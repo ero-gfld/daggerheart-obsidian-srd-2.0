@@ -1,9 +1,16 @@
-# Dunamis Silkchain
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Dunamis Silkchain"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 7
+# Cotte de soie Dunamis
 
-### FEATURE
+*(VO : Dunamis Silkchain)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Timeslowing:*** Mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) to roll a d4 and add its result as a bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against an incoming attack.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 7
+
+### APTITUDE
+
+***Ralentissement temporel :*** Marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour lancer un d4 et ajouter son résultat en bonus à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre une attaque entrante.

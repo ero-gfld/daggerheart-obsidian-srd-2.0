@@ -1,9 +1,16 @@
-# Hawkguard’s Mantle
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Hawkguard’s Mantle"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 20  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Manteau du garde-faucon
 
-### FEATURE
+*(VO : Hawkguard’s Mantle)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Gliding:*** You can glide up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to damage from falling.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 20  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Planant :*** Vous pouvez planer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et vous êtes [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les dégâts de chute.

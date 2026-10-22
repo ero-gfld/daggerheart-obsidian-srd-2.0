@@ -1,3 +1,10 @@
-# Gem of Audacity
+---
+aliases:
+  - "Gem of Audacity"
+---
 
-You can attach this gem to a weapon, allowing you to use your [Presence](../core_rules/Character%20Creation.md#STEP%203) when making an attack with that weapon.
+# Gemme d’audace
+
+*(VO : Gem of Audacity)*
+
+Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) lorsque vous attaquez avec cette arme.

@@ -1,27 +1,27 @@
 # Roc
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A giant falcon that nests in the mountains and unleashes storms.*
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un faucon géant qui niche dans les montagnes et déchaîne les tempêtes.*
 
-**Motives & Tactics:** Breathe lightning and speak thunder, protect eggs, rake with talons, spy from afar
+**Motivations et tactiques :** Cracher la foudre et parler le tonnerre, protéger ses œufs, lacérer de ses serres, espionner de loin
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Beak & Talons:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d12+8 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 20/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Bec et serres :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d12+8 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Craggy Peaks +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Pics escarpés +3
 
-## FEATURES
+## APTITUDES
 
-***Relentless (3) - Passive:*** The Roc can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+***Implacable (3) - Passif :*** Le Roc peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu'à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d'habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Bird of Prey - Passive:*** Once per [GM turn](../core_rules/Making%20Moves.md), the Roc can move up to [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before or after it takes an action.
+***Oiseau de proie - Passif :*** Une fois par [tour du MJ](../core_rules/Making%20Moves.md), le Roc peut se déplacer jusqu'à une portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), avant ou après avoir effectué une action.
 
-***Here Comes the Boom - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Roc unleash a storm of lightning and thunder. Make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against **1d4+1** targets within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Roc succeeds against take **3d12** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Then each target within Far range of the Roc must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (20). Targets who fail take **3d8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are pushed back to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets who succeed must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Voilà le coup de tonnerre - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Roc déchaîne une tempête de foudre et de tonnerre. Effectuez un [jet d'attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre **1d4+1** cibles à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles que le Roc touche subissent **3d12** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Puis chaque cible à portée Loin du Roc doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (20). Les cibles qui échouent subissent **3d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et sont repoussées à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles qui réussissent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Crushing Grasp - Reaction:*** When the Roc makes a successful standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Roc crush the target with its talons, forcing them to mark **1d4** Stress and *Restraining* them until they succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (20).
+***Étreinte broyante - Réaction :*** Lorsque le Roc réussit une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour qu'il écrase la cible de ses serres. La cible doit alors marquer **1d4** Stress et est *Entravée* jusqu'à réussir un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (20).
 
-***Nest Warden - Evolution:*** When the Roc’s eggs are threatened, it gains the following features:
+***Gardien du nid - Évolution :*** Lorsque les œufs du Roc sont menacés, il gagne les aptitudes suivantes :
 
-***Wrathful - Passive:*** The Roc gains a +2 bonus to its [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and a bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) it has marked.
+***Courroucé - Passif :*** Le Roc gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) et un bonus aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) qu'il a marqués.
 
-***Electrifying Aura - Passive:*** The Roc has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who fail a roll within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or mark **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Aura électrifiante - Passif :*** Le Roc a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui échouent à un jet à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou marquer **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS).

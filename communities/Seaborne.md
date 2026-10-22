@@ -1,9 +1,16 @@
-# Seaborne
+---
+aliases:
+  - "Seaborne"
+---
 
-Being part of a seaborne community means you lived on or near a large body of water. Seaborne communities are built, both physically and culturally, around the specific waters they call home. Some of these groups live along the shore, constructing ports for locals and travelers alike. These harbors function as centers of commerce, tourist attractions, or even just a safe place to lay down one’s head after weeks of travel. Other seaborne live on the water in small boats or large ships, with the idea of “home” comprising a ship and its crew, rather than any one landmass. No matter their exact location, seaborne communities are closely tied to the ocean tides and the creatures who inhabit them. Seaborne learn to fish at a young age, and train from birth to hold their breath and swim in even the most tumultuous waters. Individuals from these groups are highly sought after for their sailing skills, and many become captains of vessels, whether within their own community, working for another, or even at the helm of a powerful naval operation.
+# Né des flots
 
-*Seaborne are often candid, cooperative, exuberant, fierce,* *resolute, and weathered.*
+*(VO : Seaborne)*
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Faire partie d’une communauté de Nés des flots, c’est avoir vécu sur ou près d’une vaste étendue d’eau. Ces communautés sont construites, matériellement comme culturellement, autour des eaux précises qu’elles habitent. Certaines vivent sur le rivage et bâtissent des ports pour les gens du cru comme pour les voyageurs. Ces havres servent de centres de commerce, d’attractions touristiques, ou simplement de refuges pour poser la tête après des semaines de voyage. D’autres Nés des flots vivent sur l’eau, dans de petites barques ou de grands navires : pour eux, le « foyer » est un bateau et son équipage plutôt qu’une terre. Où qu’elles se trouvent, ces communautés sont intimement liées aux marées de l’océan et aux créatures qui l’habitent. Les Nés des flots apprennent à pêcher très jeunes, et s’entraînent dès la naissance à retenir leur souffle et à nager dans les eaux les plus tumultueuses. Leur talent de marin est très recherché, et beaucoup deviennent capitaines de navire, au sein de leur communauté, au service d’une autre, ou même à la barre d’une puissante flotte de guerre.
 
-***Know the Tide:*** You can sense the ebb and flow of life. When you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), place a token on your community card. You can hold a number of tokens equal to your level. Before you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can spend any number of these tokens to gain a +1 bonus to the roll for each token spent. At the end of each session, clear all unspent tokens.
+*Les Nés des flots sont souvent francs, coopératifs, exubérants, féroces,* *résolus et burinés.*
+
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Lire la marée :*** Vous sentez le flux et le reflux de la vie. Quand vous faites un jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), placez un jeton sur votre carte de communauté. Vous pouvez détenir un nombre de jetons égal à votre niveau. Avant de faire un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), vous pouvez dépenser autant de ces jetons que vous le souhaitez pour gagner un bonus de +1 au jet par jeton dépensé. À la fin de chaque session, retirez tous les jetons non dépensés.

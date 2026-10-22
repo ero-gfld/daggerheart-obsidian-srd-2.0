@@ -1,133 +1,140 @@
-# GM Guidance
+---
+aliases:
+  - "GM Guidance"
+---
 
-These three sections provide a foundation to help you get the most out of this game. The “[GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) Principles” are your guiding star—when in doubt, return to these principles.
+# Conseils pour le MJ
 
-#### GM PRINCIPLES
+*(VO : GM Guidance)*
 
-**BEGIN AND END WITH THE FICTION**
+Ces trois sections posent des bases pour vous aider à tirer le meilleur de ce jeu. Les « Principes du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) » sont votre étoile polaire : en cas de doute, revenez à ces principes.
 
-*Use the fiction to drive mechanics, then connect the mechanics* *back to the fiction.*
+#### PRINCIPES DU MJ
 
-**COLLABORATE AT ALL TIMES, ESPECIALLY DURING CONFLICT**
+**COMMENCEZ ET FINISSEZ PAR LA FICTION**
 
-*The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) are the protagonists of the campaign; antagonism* *between player and [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) should exist only in the fiction.*
+*Laissez la fiction guider les mécaniques, puis ramenez les mécaniques* *vers la fiction.*
 
-**FILL THE WORLD WITH LIFE, WONDER, AND DANGER**
+**COLLABOREZ EN TOUT TEMPS, SURTOUT PENDANT LES CONFLITS**
 
-*Showcase rich cultures, take the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to wondrous places, and* *introduce them to dangerous creatures.*
+*Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sont les protagonistes de la campagne ; l’antagonisme* *entre joueur et [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne doit exister que dans la fiction.*
 
-**ASK QUESTIONS AND INCORPORATE THE ANSWERS**
+**REMPLISSEZ LE MONDE DE VIE, DE MERVEILLES ET DE DANGERS**
 
-*Ensuring that the players’ ideas are included results in a* *narrative that supports the whole group’s creativity.*
+*Mettez en valeur des cultures riches, emmenez les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dans des lieux merveilleux et* *faites-leur rencontrer des créatures dangereuses.*
 
-**GIVE EVERY ROLL IMPACT**
+**POSEZ DES QUESTIONS ET INTÉGREZ LES RÉPONSES**
 
-*Only ask the players to roll during meaningful moments.*
+*Intégrer les idées des joueurs donne un récit* *qui soutient la créativité de tout le groupe.*
 
-**PLAY TO FIND OUT WHAT HAPPENS**
+**DONNEZ DE L’IMPACT À CHAQUE JET**
 
-*Be surprised by what the characters do, the choices they make,* *and the people they become.*
+*Ne demandez aux joueurs de lancer les dés que lors de moments significatifs.*
 
-**HOLD ON GENTLY**
+**JOUEZ POUR DÉCOUVRIR CE QUI SE PASSE**
 
-*Don’t worry if you need to abandon or alter something that* *came before.*
+*Laissez-vous surprendre par ce que font les personnages, par les choix qu’ils font* *et par les personnes qu’ils deviennent.*
 
-#### GM PRACTICES
+**LÂCHEZ PRISE AVEC DOUCEUR**
 
-**CULTIVATE A CURIOUS TABLE**
+*Ne vous inquiétez pas s’il faut abandonner ou modifier quelque chose* *qui s’est passé auparavant.*
 
-*Follow what catches the players’ interest to foster an* *[environment](Using%20Environments.md) of creative inquiry.*
+#### PRATIQUES DU MJ
 
-**GAIN YOUR PLAYERS’ TRUST**
+**CULTIVEZ UNE TABLE CURIEUSE**
 
-*Act in good faith, follow through on your promises, admit your* *mistakes.*
+*Suivez ce qui retient l’intérêt des joueurs pour favoriser* *un [environnement](Using%20Environments.md) de curiosité créative.*
 
-**KEEP THE STORY MOVING FORWARD**
+**GAGNEZ LA CONFIANCE DE VOS JOUEURS**
 
-*Advance the story through escalating action, new information,* *or changing circumstances after every [action roll](Core%20Mechanics.md#ACTION%20ROLLS), whether it* *succeeds or fails.*
+*Agissez de bonne foi, tenez vos promesses, reconnaissez vos* *erreurs.*
 
-**CUT TO THE ACTION**
+**FAITES AVANCER L’HISTOIRE**
 
-*Skip past the boring bits. When a scene drags on, end it.*
+*Faites progresser l’histoire par une action qui s’intensifie, de nouvelles informations* *ou un changement de circonstances après chaque [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), qu’il* *réussisse ou échoue.*
 
-**HELP THE PLAYERS USE THE GAME**
+**ALLEZ DROIT À L’ACTION**
 
-*Players have more fun when you help them understand the* *system.*
+*Passez les moments ennuyeux. Quand une scène s’éternise, concluez-la.*
 
-**CREATE A META CONVERSATION**
+**AIDEZ LES JOUEURS À SE SERVIR DU JEU**
 
-*Empower players to speak out of character, use safety tools, and* *ask for clarification.*
+*Les joueurs s’amusent davantage quand vous les aidez à comprendre* *le système.*
 
-**TELL THEM WHAT THEY WOULD KNOW**
+**INSTAUREZ UNE MÉTA-CONVERSATION**
 
-*Don’t hide obvious details or important information from the* *players.*
+*Donnez aux joueurs les moyens de parler hors personnage, d’utiliser les outils de sécurité et* *de demander des clarifications.*
 
-**GROUND THE WORLD IN MOTIVE**
+**DITES-LEUR CE QU’ILS SAURAIENT**
 
-*An [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s actions flow from their goals and desires.*
+*Ne cachez pas aux joueurs les détails évidents ni les informations importantes.*
 
-**BRING THE GAME’S MECHANICS TO LIFE**
+**ANCREZ LE MONDE DANS LES MOTIVATIONS**
 
-*Set a good example of how fiction and mechanics work together* *to enhance the game experience.*
+*Les actions d’un [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) découlent de ses buts et de ses désirs.*
 
-**REFRAME RATHER THAN REJECT**
+**FAITES VIVRE LES MÉCANIQUES DU JEU**
 
-*If a player’s contribution conflicts with the fiction, work with* *them to reshape it.*
+*Montrez par l’exemple comment la fiction et les mécaniques s’associent* *pour enrichir l’expérience de jeu.*
 
-**WORK IN MOMENTS AND MONTAGES**
+**RECADREZ PLUTÔT QUE REFUSER**
 
-*When framing a scene, decide which beats should be savored* *and which shouldn’t linger.*
+*Si la contribution d’un joueur entre en conflit avec la fiction, travaillez avec* *lui pour la remodeler.*
 
-#### PITFALLS TO AVOID
+**TRAVAILLEZ PAR MOMENTS ET PAR MONTAGES**
 
-**UNDERMINING THE HEROES**
+*Quand vous cadrez une scène, décidez quels moments méritent d’être savourés* *et lesquels ne doivent pas s’attarder.*
 
-If a roll doesn’t go well, show how it was impacted by an [adversary](Using%20Adversaries.md)’s prowess, environmental factors, or unexpected surprises, rather than the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s incompetence.
+#### ÉCUEILS À ÉVITER
 
-**ALWAYS TELLING THE PLAYERS WHAT TO ROLL**
+**DÉVALORISER LES HÉROS**
 
-Let the players decide how to handle a challenge.
+Si un jet se passe mal, montrez comment il a été affecté par la prouesse d’un [adversaire](Using%20Adversaries.md), par des facteurs environnementaux ou par des surprises inattendues, plutôt que par l’incompétence du [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).
 
-**LETTING SCENES DRAG**
+**TOUJOURS DIRE AUX JOUEURS QUOI LANCER**
 
-Shake it up or cut away when a scene has concluded, the table’s energy is flagging, or people are talking in circles.
+Laissez les joueurs décider comment affronter un défi.
 
-**SINGULAR SOLUTIONS**
+**LAISSER LES SCÈNES S’ÉTERNISER**
 
-Don’t get hung up on one right answer to a problem. If the players have a clever idea, make it work.
+Dynamisez la scène ou coupez quand elle est terminée, quand l’énergie de la table faiblit ou quand on tourne en rond.
 
-##### Overplanning
+**LES SOLUTIONS UNIQUES**
 
-Spend your prep time inventing situations instead of scripting scenes. If the players surprise you, take a break to think through your options.
+Ne vous focalisez pas sur une seule bonne réponse à un problème. Si les joueurs ont une idée astucieuse, faites-la fonctionner.
 
-**HOARDING FEAR**
+##### Planifier à l’excès
 
-Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) when you have the opportunity. The players will always generate more.
+Consacrez votre temps de préparation à inventer des situations plutôt qu’à scénariser des scènes. Si les joueurs vous surprennent, faites une pause pour réfléchir à vos options.
 
-*For more in-depth [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) guidance, see pg. 140 of the* *Daggerheart Core Rulebook.*
+**THÉSAURISER LA PEUR**
 
-## CORE GM MECHANICS
+Dépensez la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) dès que vous en avez l’occasion. Les joueurs en généreront toujours davantage.
 
-#### ROLLING DICE
+*Pour des conseils plus détaillés destinés au [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), voir la p. 140 du* *Daggerheart Core Rulebook.*
 
-The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) has no [Duality Dice](Core%20Mechanics.md#OVERVIEW); instead, they roll a single d20 called the GM’s Die.
+## MÉCANIQUES DE BASE DU MJ
 
-**[ADVERSARY](Using%20Adversaries.md) [ATTACK ROLLS](Core%20Mechanics.md#ATTACKING)**
+#### LANCER LES DÉS
 
-When an [adversary](Using%20Adversaries.md) attacks a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s [Evasion](Core%20Mechanics.md#EVASION), the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
+Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) n’a pas de [dés de Dualité](Core%20Mechanics.md#APER%C3%87U) ; il lance à la place un seul d20, appelé le dé du MJ.
 
-If you roll a natural 20 on an attack, your roll automatically succeeds and you deal extra damage. Roll damage normally, then add the highest number on the damage dice to the total. For example, an attack that deals 3d6+2 deals 18+3d6+2 on a [critical success](Core%20Mechanics.md#OVERVIEW); the critical success does not affect the flat damage modifier.
+**[JETS D’ATTAQUE](Core%20Mechanics.md#ATTAQUER) D’[ADVERSAIRE](Using%20Adversaries.md)**
 
-***Note:*** *a [critical success](Core%20Mechanics.md#OVERVIEW) on an [adversary](Using%20Adversaries.md)’s [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS)* *automatically succeeds, but confers no additional benefit.*
+Lorsqu’un [adversaire](Using%20Adversaries.md) attaque un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), lancez votre d20 et ajoutez le bonus d’attaque de l’adversaire au résultat. Si le total égale ou dépasse l’[Évasion](Core%20Mechanics.md#%C3%89VASION) de la cible, l’attaque réussit ; sinon, elle échoue. Si l’attaque réussit, lancez les dés de dégâts de l’attaque pour déterminer les dégâts infligés.
 
-**GUIDANCE ON [ACTION ROLLS](Core%20Mechanics.md#ACTION%20ROLLS)**
+Si vous obtenez un 20 naturel sur une attaque, votre jet réussit automatiquement et vous infligez des dégâts supplémentaires. Lancez les dégâts normalement, puis ajoutez au total la valeur maximale des dés de dégâts. Par exemple, une attaque qui inflige 3d6+2 inflige 18+3d6+2 sur une [réussite critique](Core%20Mechanics.md#APER%C3%87U) ; la réussite critique n’affecte pas le modificateur de dégâts fixe.
 
-After a player describes a move they want to make during the game, you might decide an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) is necessary to determine how the scene progresses. Use this guide to determine what to present the player, choosing whichever option best fits the situation:
+***Note :*** *une [réussite critique](Core%20Mechanics.md#APER%C3%87U) sur le [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’un [adversaire](Using%20Adversaries.md)* *réussit automatiquement, mais n’apporte aucun avantage supplémentaire.*
 
-- Determine whether the roll is necessary, considering the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s [Experiences](Character%20Creation.md#STEP%207) or backstory, the pressure they’re acting under, and the possible outcomes.
+**CONSEILS SUR LES [JETS D’ACTION](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION)**
 
-- Establish the stakes of an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) before the player makes it.
+Après qu’un joueur a décrit une action qu’il veut accomplir en cours de partie, vous pouvez décider qu’un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) est nécessaire pour déterminer comment la scène évolue. Servez-vous de ce guide pour décider quoi proposer au joueur, en choisissant l’option qui convient le mieux à la situation :
 
-- Communicate any unavoidable consequences.
+- Déterminez si le jet est nécessaire, en tenant compte des [Expériences](Character%20Creation.md#%C3%89TAPE%207) ou de l’historique du [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), de la pression sous laquelle il agit et des issues possibles.
 
-- If desired, you can offer the player the opportunity to forgo an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) in exchange for agreeing to an interesting outcome, cost, or complication.
+- Établissez les enjeux d’un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) avant que le joueur ne le fasse.
+
+- Annoncez toute conséquence inévitable.
+
+- Si vous le souhaitez, vous pouvez proposer au joueur de renoncer à un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) en échange de son accord pour une issue, un coût ou une complication intéressants.

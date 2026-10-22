@@ -1,25 +1,32 @@
-# Cloud Titan
+---
+aliases:
+  - "Cloud Titan"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A devastatingly attractive, blue-skinned goliath dressed in the finest silks and dripping with jewelry. They luxuriate in the finer things and dwell in a sky palace filled with treasure.*
+# Titan des nuages
 
-**Motives & Tactics:** Acquire rare and valuable things, celebrate beauty, never pass up an interesting wager
+*(VO : Cloud Titan)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 26/42 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Bejeweled Blade:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d6+8 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Goliath à la peau bleue, d’une beauté confondante, vêtu des soieries les plus fines et couvert de bijoux. Il savoure les plaisirs raffinés et vit dans un palais céleste rempli de trésors.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Luxury +3, Nobility +3
+**Motivations et tactiques :** Acquérir des choses rares et précieuses, célébrer la beauté, ne jamais refuser un pari intéressant
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 26/42 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Lame incrustée de joyaux :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d6+8 phy
 
-***Lightning Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **4d10+14** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and roll a **d6**. On a result of 4 or higher, the lightning bounces, and the Titan makes this attack against a different target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the previous target. Each time the lightning bounces, decrease the damage it deals by **1d10**.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Luxe +3, Noblesse +3
 
-***Mist Weaver - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The Titan conjures a thick fog over the area within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point. The Titan is *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* to enemies within and on the other side of the fog and has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks against creatures inside it. The fog lasts until the Titan marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
 
-***Nebulous Transformation - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Titan transform into a misty cloud that fills a [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) area. While in this form, the Titan takes double [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and has [immunity](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). This form lasts until the Titan chooses to drop out of it or takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Frappe de foudre - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **4d10+14** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et lancez un **d6**. Sur un résultat de 4 ou plus, la foudre rebondit, et le Titan attaque une autre cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la précédente. À chaque rebond, réduisez les dégâts de **1d10**.
 
-***Unleash the Menagerie - Action:*** Once per scene, **mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to summon an equal number of Griffins, which appear at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Tisseur de brume - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Le Titan fait naître un épais brouillard sur la zone à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point. Le Titan est [Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) pour les ennemis qui se trouvent dans le brouillard ou de l’autre côté, et il a un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les attaques contre les créatures qui s’y trouvent. Le brouillard dure jusqu’à ce que le Titan marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Wind Worker - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Titan blast wind at a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The target takes **4d6+8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and is pushed back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range from their current position.
+***Transformation nébuleuse - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Titan se transforme en nuée de brume qui emplit une zone à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Sous cette forme, le Titan subit le double des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et bénéficie d’une [immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Cette forme dure jusqu’à ce que le Titan choisisse d’en sortir ou subisse des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Double or Nothing - Reaction:*** When you would gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) from an attack against the Titan, you can roll a **d6**. On an odd result, you don’t gain the Fear. On an even result, you gain 2 Fear instead of 1.
+***Déchaîner la ménagerie - Action :*** Une fois par scène, **marquez autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que vous voulez** pour invoquer un nombre égal de griffons, qui apparaissent à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Maîtrise du vent - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Titan souffle un vent violent sur une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible subit **4d6+8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et est repoussée jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de sa position.
+
+***Double ou rien - Réaction :*** Quand vous gagneriez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) grâce à une attaque contre le Titan, vous pouvez lancer un **d6**. Sur un résultat impair, vous ne gagnez pas la Peur. Sur un résultat pair, vous gagnez 2 Peur au lieu d’une.

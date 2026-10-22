@@ -1,9 +1,16 @@
-# Small Dagger
+---
+aliases:
+  - "Small Dagger"
+---
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Petite dague
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Small Dagger)*
 
-### FEATURE
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Paired:*** +2 to [primary weapon](../core_rules/Equipment.md#WEAPONS) damage to targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Jumelé :*** +2 aux dégâts de l’[arme principale](../core_rules/Equipment.md#ARMES) contre les cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)

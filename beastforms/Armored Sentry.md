@@ -1,11 +1,18 @@
-# Armored Sentry
+---
+aliases:
+  - "Armored Sentry"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Armadillo, Pangolin, Turtle, etc.)
+# Sentinelle cuirassée
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d8+2 phy*
+*(VO : Armored Sentry)*
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** dig, locate, protect
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Tatou, pangolin, tortue, etc.)
 
-***Armored Shell:*** Your hardened exterior gives you [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, **mark an [Armor Slot](../core_rules/Equipment.md#ARMOR)** to retract into your shell. While in your shell, physical damage is reduced by a number equal to your [Armor Score](../core_rules/Equipment.md#ARMOR) (after applying resistance), but you can’t perform other actions without leaving this form.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d8+2 phy*
 
-***Cannonball:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to allow an ally to throw or launch you at an [adversary](../core_rules/Using%20Adversaries.md). To do so, the ally makes an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) using [Agility](../core_rules/Character%20Creation.md#STEP%203) or [Strength](../core_rules/Character%20Creation.md#STEP%203) (their choice) against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the adversary takes **d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using the thrower’s [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). You can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to target an additional adversary within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the first. The second target takes half the damage dealt to the first target.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** creuser, repérer, protéger
+
+***Carapace cuirassée :*** Votre extérieur endurci vous confère la [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, **marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE)** pour vous rétracter dans votre carapace. Tant que vous y êtes, les dégâts physiques sont réduits d’un nombre égal à votre [Score d’armure](../core_rules/Equipment.md#ARMURE) (après application de la résistance), mais vous ne pouvez accomplir aucune autre action sans quitter cette forme.
+
+***Boulet de canon :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour qu’un allié vous lance ou vous catapulte sur un [adversaire](../core_rules/Using%20Adversaries.md). Pour cela, l’allié fait un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) avec l’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou la [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (au choix) contre une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, l’adversaire subit **d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant la [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) de celui qui lance. Vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour viser un adversaire supplémentaire à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du premier. La seconde cible subit la moitié des dégâts infligés à la première.

@@ -1,5 +1,12 @@
-# Falling Sky
+---
+aliases:
+  - "Falling Sky"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Ciel qui tombe
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against all [adversaries](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make shards of arcana rain down from above. Targets you succeed against take **1d20+2** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) for each Stress marked.
+*(VO : Falling Sky)*
+
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre tous les [adversaires](../core_rules/Using%20Adversaries.md) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). **Marquez autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que vous voulez** pour faire pleuvoir du ciel des éclats d’arcane. Les cibles contre lesquelles vous réussissez subissent **1d20+2** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour chaque Stress marqué.

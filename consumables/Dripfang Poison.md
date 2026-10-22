@@ -1,3 +1,10 @@
-# Dripfang Poison
+---
+aliases:
+  - "Dripfang Poison"
+---
 
-A creature who consumes this poison takes 8d10 direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Poison de Gouttecroc
+
+*(VO : Dripfang Poison)*
+
+Une créature qui ingère ce poison subit 8d10 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

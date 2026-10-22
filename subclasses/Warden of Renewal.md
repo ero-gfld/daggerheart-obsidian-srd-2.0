@@ -1,353 +1,360 @@
-# Warden of Renewal
+---
+aliases:
+  - "Warden of Renewal"
+---
 
-Play the Warden of Renewal if you want to use powerful magic to heal your party.
+# Veilleur du renouveau
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Warden of Renewal)*
 
-[Instinct](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Veilleur du renouveau si vous voulez user d’une puissante magie pour soigner votre groupe.
 
-**FOUNDATION FEATURES**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Clarity of Nature:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can create a space of natural serenity within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When you spend a few minutes resting within the space, clear [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to your [Instinct](../core_rules/Character%20Creation.md#STEP%203), distributed as you choose between you and your allies.
+[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Regeneration:*** Touch a creature and **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).** That creature clears **1d4** [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Clarté de la nature :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez créer un espace de sérénité naturelle à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Lorsque vous vous reposez quelques minutes dans cet espace, évacuez du [Stress](../core_rules/Core%20Mechanics.md#STRESS) à hauteur de votre [Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203), réparti comme vous le souhaitez entre vous et vos alliés.
 
-***Regenerative Reach:*** You can target creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with your “Regeneration” feature.
+***Régénération :*** Touchez une créature et **dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).** Cette créature récupère **1d4** [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Warden’s Protection:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), **spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear 2 [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on **1d4** allies within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURE**
+***Régénération à distance :*** Vous pouvez cibler des créatures à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avec votre aptitude « Régénération ».
 
-***Defender:*** Your animal [transformation](../core_rules/Transformations.md) embodies a healing guardian spirit. When you’re in [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) and an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range marks 2 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to reduce the number of Hit Points they mark by 1.
+***Protection du veilleur :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), **dépensez 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour soigner 2 [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à **1d4** alliés à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-**BACKGROUND QUESTIONS**
+**APTITUDE D’EXCELLENCE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***Défenseur :*** Votre [transformation](../core_rules/Transformations.md) animale incarne un esprit gardien et guérisseur. Lorsque vous êtes en [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) et qu’un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) marque 2 [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour réduire de 1 le nombre de Points de vie qu’il marque.
 
-- Why was the community you grew up in so reliant on nature and its creatures?
+**QUESTIONS D’HISTORIQUE**
 
-- Who was the first wild animal you bonded with? Why did your bond end?
+*Répondez à l’une des questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who has been trying to hunt you down? What do they want from you?
+- Pourquoi la communauté dans laquelle vous avez grandi dépendait-elle autant de la nature et de ses créatures ?
 
-**CONNECTIONS**
+- Quel a été le premier animal sauvage auquel vous vous êtes lié ? Pourquoi ce lien a-t-il pris fin ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Qui cherche à vous traquer ? Que veut cette personne de vous ?
 
-- What did you confide in me that makes me leap into danger for you every time?
+**LIENS**
 
-- What animal do I say you remind me of?
+*Posez à vos compagnons de jeu l’une des questions suivantes pour que* *leur personnage y réponde, ou inventez vos propres questions.*
 
-- What affectionate nickname have you given me?
+- Quelle confidence vous ai-je faite qui vous pousse à vous jeter dans le danger pour moi à chaque fois ?
 
-#### BEASTFORM OPTIONS
+- À quel animal dis-je que vous me faites penser ?
 
-When you use your “[Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS)” feature, choose a creature category of your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or lower. At the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
+- Quel surnom affectueux m’avez-vous donné ?
 
-[Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) categories are divided by [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP). Each entry includes the following details:
+#### OPTIONS DE FORME BESTIALE
 
-- **Creature Category:** Each category’s name describes the common role or behavior of creatures in that category (such as [Agile Scout](../beastforms/Agile%20Scout.md)). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel).
+Lorsque vous utilisez votre aptitude « [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) », choisissez une catégorie de créature de votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou inférieur. À la discrétion du [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous pouvez décrire votre transformation en n’importe quel animal qui correspond raisonnablement à cette catégorie.
 
-- **Character Trait:** While transformed, you gain a bonus to the listed trait. For example, while transformed into an [Agile Scout](../beastforms/Agile%20Scout.md), you gain a +1 bonus to your [Agility](../core_rules/Character%20Creation.md#STEP%203). When this form drops, you lose this bonus.
+Les catégories de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) sont réparties par [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU). Chaque entrée comprend les éléments suivants :
 
-- **[Attack Rolls](../core_rules/Core%20Mechanics.md#ATTACKING):** When you make an attack while transformed, you use the creature’s listed range, trait, and damage dice, but you use your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). For example, as an [Agile Scout](../beastforms/Agile%20Scout.md), you can attack a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range using your [Agility](../core_rules/Character%20Creation.md#STEP%203). On a success, you deal d4 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your Proficiency.
+- **Catégorie de créature :** Le nom de chaque catégorie décrit le rôle ou le comportement courant des créatures qu’elle regroupe (comme [Éclaireur agile](../beastforms/Agile%20Scout.md)). Ce nom est suivi de quelques exemples d’animaux qui entrent dans la catégorie (ici, renard, souris et belette).
 
-- **[Evasion](../core_rules/Core%20Mechanics.md#EVASION):** While transformed, you add the creature’s Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
+- **Caractéristique du personnage :** Sous cette forme, vous gagnez un bonus à la caractéristique indiquée. Par exemple, transformé en [Éclaireur agile](../beastforms/Agile%20Scout.md), vous gagnez un bonus de +1 à votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Lorsque vous quittez cette forme, vous perdez ce bonus.
 
-- **Advantages:** Your form makes you especially suited to certain actions. When you make an action or [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) related to one of the verbs listed for that creature category, you gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on that roll. For example, an [Agile Scout](../beastforms/Agile%20Scout.md) gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
+- **[Jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) :** Lorsque vous attaquez sous cette forme, vous utilisez la portée, la caractéristique et les dés de dégâts indiqués pour la créature, mais votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). Par exemple, en [Éclaireur agile](../beastforms/Agile%20Scout.md), vous pouvez attaquer une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avec votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas de réussite, vous infligez d4 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre Maîtrise.
 
-- **Features:** Each form includes unique features. For example, an [Agile Scout](../beastforms/Agile%20Scout.md) excels at silent, dexterous movement—but they’re also fragile, making you more likely to drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).
+- **[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) :** Sous cette forme, vous ajoutez le bonus d’Évasion de la créature à votre Évasion habituelle. Par exemple, si votre Évasion est normalement de 8 et que votre [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) indique « Évasion +2 », votre Évasion passe à 10 tant que vous gardez cette forme.
 
-##### TIER 1
+- **Avantages :** Votre forme vous rend particulièrement apte à certaines actions. Lorsque vous faites un jet d’action ou un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) lié à l’un des verbes indiqués pour cette catégorie de créature, vous avez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à ce jet. Par exemple, un [Éclaireur agile](../beastforms/Agile%20Scout.md) a un avantage aux jets pour se faufiler, chercher des objets ou des créatures, et pour les activités apparentées.
 
-**AGILE SCOUT**
+- **Aptitudes :** Chaque forme comprend des aptitudes uniques. Par exemple, un [Éclaireur agile](../beastforms/Agile%20Scout.md) excelle dans les déplacements silencieux et adroits, mais il est aussi fragile, ce qui augmente vos chances de quitter la [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE).
 
-(Fox, Mouse, Weasel, etc.)
+##### RANG 1
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d4 phy*
+**ÉCLAIREUR AGILE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** deceive, locate, sneak
+(Renard, souris, belette, etc.)
 
-***Agile:*** Your movement is silent, and you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range without rolling.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d4 phy*
 
-***Fragile:*** When you take [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage, you drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** tromper, repérer, se faufiler
 
-**HOUSEHOLD FRIEND**
+***Agile :*** Vos déplacements sont silencieux, et vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour vous déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sans lancer de dés.
 
-(Cat, Dog, Rabbit, etc.)
+***Fragile :*** Lorsque vous subissez des dégâts [majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous quittez la [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE).
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Instinct d6 phy*
+**COMPAGNON DOMESTIQUE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** climb, locate, protect
+(Chat, chien, lapin, etc.)
 
-***Companion:*** When you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can roll a **d8** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die.
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Instinct d6 phy*
 
-***Fragile:*** When you take [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage, you drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** grimper, repérer, protéger
 
-**NIMBLE GRAZER**
+***Compagnon :*** Lorsque vous [Aidez un allié](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez lancer un **d8** comme [dé d’avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-(Deer, Gazelle, Goat, etc.)
+***Fragile :*** Lorsque vous subissez des dégâts [majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous quittez la [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE).
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d6 phy*
+**BROUTEUR AGILE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** leap, sneak, sprint
+(Cerf, gazelle, chèvre, etc.)
 
-***Elusive Prey:*** When an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against you would succeed, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and roll a **d4.** Add the result to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against this attack.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d6 phy*
 
-***Fragile:*** When you take [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage, you drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** bondir, se faufiler, piquer un sprint
 
-**PACK PREDATOR**
+***Proie insaisissable :*** Lorsqu’un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre vous allait réussir, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** et lancer un **d4.** Ajoutez le résultat à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre cette attaque.
 
-(Coyote, Hyena, Wolf, etc.)
+***Fragile :*** Lorsque vous subissez des dégâts [majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous quittez la [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE).
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d8+2 phy*
+**PRÉDATEUR DE MEUTE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, sprint, track
+(Coyote, hyène, loup, etc.)
 
-***Hobbling Strike:*** When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the target temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d8+2 phy*
 
-***Pack Hunting:*** When you succeed on an attack against the same target as an ally who acts immediately before you, add a **d8** to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, piquer un sprint, pister
 
-**AQUATIC SCOUT**
+***Coup entravant :*** Lorsque vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour rendre la cible temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
 
-(Eel, Fish, Octopus, etc.)
+***Chasse en meute :*** Lorsque vous réussissez une attaque contre la même cible qu’un allié qui agit juste avant vous, ajoutez un **d8** à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d4 phy*
+**ÉCLAIREUR AQUATIQUE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** navigate, sneak, swim
+(Anguille, poisson, pieuvre, etc.)
 
-***Aquatic:*** You can breathe and move naturally underwater.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d4 phy*
 
-***Fragile:*** When you take [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage, you drop out of [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** s’orienter, se faufiler, nager
 
-**STALKING ARACHNID**
+***Aquatique :*** Vous pouvez respirer et vous déplacer naturellement sous l’eau.
 
-(Tarantula, Wolf Spider, etc.)
+***Fragile :*** Lorsque vous subissez des dégâts [majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous quittez la [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE).
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d6+1 phy*
+**ARACHNIDE TRAQUEUR**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, climb, sneak
+(Tarentule, lycose, etc.)
 
-***Venomous Bite:*** When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, the target becomes temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each time they act.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d6+1 phy*
 
-***Webslinger:*** You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range by succeeding on a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll against them.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, grimper, se faufiler
 
-##### TIER 2
+***Morsure venimeuse :*** Lorsque vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), la cible est temporairement *Empoisonnée*. Une créature *Empoisonnée* subit **1d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs à chaque fois qu’elle agit.
 
-**ARMORED SENTRY**
+***Tisseur de toile :*** Vous pouvez créer une toile solide, utile aussi bien pour l’aventure que pour le combat. La toile est assez résistante pour supporter une créature. Vous pouvez *[Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* temporairement une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) en réussissant contre elle un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203).
 
-(Armadillo, Pangolin, Turtle, etc.)
+##### RANG 2
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d8+2 phy*
+**SENTINELLE CUIRASSÉE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** dig, locate, protect
+(Tatou, pangolin, tortue, etc.)
 
-***Armored Shell:*** Your hardened exterior gives you [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, **mark an [Armor Slot](../core_rules/Equipment.md#ARMOR)** to retract into your shell. While in your shell, physical damage is reduced by a number equal to your [Armor Score](../core_rules/Equipment.md#ARMOR) (after applying resistance), but you can’t perform other actions without leaving this form.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d8+2 phy*
 
-***Cannonball:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to allow an ally to throw or launch you at an [adversary](../core_rules/Using%20Adversaries.md). To do so, the ally makes an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) using [Agility](../core_rules/Character%20Creation.md#STEP%203) or [Strength](../core_rules/Character%20Creation.md#STEP%203) (their choice) against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the adversary takes **d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using the thrower’s [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). You can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to target an additional adversary within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the first. The second target takes half the damage dealt to the first target.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** creuser, repérer, protéger
 
-**POWERFUL BEAST**
+***Carapace blindée :*** Votre extérieur durci vous confère une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, **marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE)** pour vous rétracter dans votre carapace. Tant que vous êtes dans votre carapace, les dégâts physiques sont réduits d’un nombre égal à votre [Score d’armure](../core_rules/Equipment.md#ARMURE) (après application de la résistance), mais vous ne pouvez pas faire d’autres actions sans quitter cette forme.
 
-(Bear, Bull, Moose, etc.)
+***Boulet de canon :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour qu’un allié vous lance ou vous propulse sur un [adversaire](../core_rules/Using%20Adversaries.md). Pour cela, l’allié fait un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) avec [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (à son choix) contre une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, l’adversaire subit **d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant la [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) du lanceur. Vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour viser un adversaire supplémentaire à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du premier. La seconde cible subit la moitié des dégâts infligés à la première.
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d10+4 phy*
+**BÊTE PUISSANTE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** navigate, protect, scare
+(Ours, taureau, élan, etc.)
 
-***Rampage:*** When you roll a 1 on a damage die, you can roll a **d10** and add the result to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, before you make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for that attack.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d10+4 phy*
 
-***Thick Hide:*** You gain a +2 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** s’orienter, protéger, effrayer
 
-**MIGHTY STRIDER**
+***Déchaînement :*** Lorsque vous obtenez un 1 sur un dé de dégâts, vous pouvez lancer un **d10** et ajouter le résultat au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, avant de faire un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.
 
-(Camel, Horse, Zebra, etc.)
+***Peau épaisse :*** Vous gagnez un bonus de +2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d8+1 phy*
+**ARPENTEUR PUISSANT**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** leap, navigate, sprint
+(Chameau, cheval, zèbre, etc.)
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d8+1 phy*
 
-***Trample:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a straight line and make an attack against all targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the line. Targets you succeed against take **d8+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) and are temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** bondir, s’orienter, piquer un sprint
 
-**STRIKING SERPENT**
+***Porteur :*** Vous pouvez emporter avec vous jusqu’à deux alliés consentants lorsque vous vous déplacez.
 
-(Cobra, Rattlesnake, Viper, etc.)
+***Piétinement :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous déplacer en ligne droite jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et attaquer toutes les cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de cette ligne. Les cibles contre lesquelles vous réussissez subissent **d8+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d8+4 phy*
+**SERPENT FOUDROYANT**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** climb, deceive, sprint
+(Cobra, serpent à sonnette, vipère, etc.)
 
-***Venomous Strike:*** Make an attack against any number of targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, a target is temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each time they act.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d8+4 phy*
 
-***Warning Hiss:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force any number of targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to move back to [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** grimper, tromper, piquer un sprint
 
-**POUNCING PREDATOR**
+***Frappe venimeuse :*** Attaquez un nombre quelconque de cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, une cible est temporairement *Empoisonnée*. Une créature *Empoisonnée* subit **1d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs à chaque fois qu’elle agit.
 
-(Cheetah, Lion, Panther, etc.)
+***Sifflement d’avertissement :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour forcer un nombre quelconque de cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à reculer jusqu’à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Instinct d8+6 phy*
+**PRÉDATEUR BONDISSANT**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, climb, sneak
+(Guépard, lion, panthère, etc.)
 
-***Fleet:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range without rolling.
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Instinct d8+6 phy*
 
-***Takedown:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target and make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against them. On a success, you gain a +2 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack and the target must mark a Stress.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, grimper, se faufiler
 
-**WINGED BEAST**
+***Vif :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour vous déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sans lancer de dés.
 
-(Hawk, Owl, Raven, etc.)
+***Plaquage :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous placer à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une cible et faire un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre elle. En cas de réussite, vous gagnez un bonus de +2 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque et la cible doit marquer un Stress.
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d4+2 phy*
+**BÊTE AILÉE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** deceive, locate, scare
+(Faucon, chouette, corbeau, etc.)
 
-***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the roll.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d4+2 phy*
 
-***Hollow Bones:*** You gain a −2 penalty to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** tromper, repérer, effrayer
 
-##### TIER 3
+***Vue d’oiseau :*** Vous pouvez voler à volonté. Une fois par repos, tant que vous êtes en vol, vous pouvez poser au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) une question sur la scène en contrebas sans avoir à lancer de dés. La première fois qu’un personnage fait un jet pour agir à partir de cette information, il a un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à ce jet.
 
-**GREAT PREDATOR**
+***Os creux :*** Vous subissez un malus de −2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-([Dire Wolf](../adversaries/Dire%20Wolf.md), Velociraptor, Sabertooth Tiger, etc.)
+##### RANG 3
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+8 phy*
+**GRAND PRÉDATEUR**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, sneak, sprint
+([Loup redoutable](../adversaries/Dire%20Wolf.md), vélociraptor, tigre à dents de sabre, etc.)
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d12+8 phy*
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, se faufiler, piquer un sprint
 
-**MIGHTY LIZARD**
+***Porteur :*** Vous pouvez emporter avec vous jusqu’à deux alliés consentants lorsque vous vous déplacez.
 
-(Alligator, Crocodile, Gila Monster, etc.)
+***Mutilation féroce :*** Lorsque vous réussissez une attaque contre une cible, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la rendre temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Instinct d10+7 phy*
+**LÉZARD PUISSANT**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, sneak, track
+(Alligator, crocodile, monstre de Gila, etc.)
 
-***Physical Defense:*** You gain a +3 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Instinct d10+7 phy*
 
-***Snapping Strike:*** When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clamp that opponent in your jaws, making them temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).*
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, se faufiler, pister
 
-**GREAT WINGED BEAST**
+***Défense physique :*** Vous gagnez un bonus de +3 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-([Giant Eagle](../adversaries/Giant%20Eagle.md), Falcon, etc.)
+***Claquement de mâchoires :*** Lorsque vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour serrer votre adversaire entre vos mâchoires, le rendant temporairement *[Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).*
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d8+6 phy*
+**GRANDE BÊTE AILÉE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** deceive, distract, locate
+([Aigle géant](../adversaries/Giant%20Eagle.md), faucon, etc.)
 
-***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the roll.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d8+6 phy*
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** tromper, distraire, repérer
 
-**AQUATIC PREDATOR**
+***Vue d’oiseau :*** Vous pouvez voler à volonté. Une fois par repos, tant que vous êtes en vol, vous pouvez poser au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) une question sur la scène en contrebas sans avoir à lancer de dés. La première fois qu’un personnage fait un jet pour agir à partir de cette information, il a un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à ce jet.
 
-(Dolphin, Orca, Shark, etc.)
+***Porteur :*** Vous pouvez emporter avec vous jusqu’à deux alliés consentants lorsque vous vous déplacez.
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +4* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d10+6 phy*
+**PRÉDATEUR AQUATIQUE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, swim, track
+(Dauphin, orque, requin, etc.)
 
-***Aquatic:*** You can breathe and move naturally underwater.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +4* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d10+6 phy*
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, nager, pister
 
-**LEGENDARY BEAST**
+***Aquatique :*** Vous pouvez respirer et vous déplacer naturellement sous l’eau.
 
-(Upgraded [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) Options)
+***Mutilation féroce :*** Lorsque vous réussissez une attaque contre une cible, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la rendre *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.
 
-***Evolved:*** Pick a [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+**BÊTE LÉGENDAIRE**
 
-- A +6 bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+(Options de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) améliorées)
 
-- A +1 bonus to the trait used by this form
+***Évolué :*** Choisissez une option de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et devenez une version plus grande et plus puissante de cette créature. Tant que vous gardez cette forme, vous conservez toutes les caractéristiques et aptitudes de la forme d’origine et vous gagnez les bonus suivants :
 
-- A +2 bonus to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+- Un bonus de +6 aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER)
 
-**LEGENDARY HYBRID**
+- Un bonus de +1 à la caractéristique utilisée par cette forme
 
-(Griffon, Sphinx, etc.)
+- Un bonus de +2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d10+8 phy*
+**HYBRIDE LÉGENDAIRE**
 
-***Hybrid Features:*** To transform into this creature, **mark an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS).** Choose any two [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) options from Tiers 1–2. Choose a total of four advantages and two features from those options.
+(Griffon, sphinx, etc.)
 
-##### TIER 4
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d10+8 phy*
 
-**MASSIVE BEHEMOTH**
+***Aptitudes hybrides :*** Pour vous transformer en cette créature, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaire.** Choisissez deux options de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) parmi les rangs 1 et 2. Choisissez au total quatre avantages et deux aptitudes parmi ces options.
 
-(Elephant, Mammoth, Rhinoceros, etc.)
+##### RANG 4
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+12 phy*
+**BÉHÉMOTH MASSIF**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** locate, protect, scare, sprint
+(Éléphant, mammouth, rhinocéros, etc.)
 
-***Carrier:*** You can carry up to four willing allies with you when you move.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d12+12 phy*
 
-***Demolish:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a straight line and make an attack against all targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the line. Targets you succeed against take **d8+10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) and are temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).*
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** repérer, protéger, effrayer, piquer un sprint
 
-***Undaunted:*** You gain a +2 bonus to all your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Porteur :*** Vous pouvez emporter avec vous jusqu’à quatre alliés consentants lorsque vous vous déplacez.
 
-**TERRIBLE LIZARD**
+***Démolition :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour vous déplacer en ligne droite jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et attaquer toutes les cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de cette ligne. Les cibles contre lesquelles vous réussissez subissent **d8+10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).*
 
-(Brachiosaurus, Tyrannosaurus, etc.)
+***Intrépide :*** Vous gagnez un bonus de +2 à tous vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+10 phy*
+**LÉZARD REDOUTABLE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, deceive, scare, track
+(Brachiosaure, tyrannosaure, etc.)
 
-***Devastating Strikes:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d12+10 phy*
 
-***Massive Stride:*** You can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range without rolling. You ignore rough terain (at the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s discretion) due to your size.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, tromper, effrayer, pister
 
-**MYTHIC AERIAL HUNTER**
+***Frappes dévastatrices :*** Lorsque vous infligez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour l’obliger à marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
 
-(Dragon, Pterodactyl, Roc, Wyvern, etc.)
+***Foulée colossale :*** Vous pouvez vous déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sans lancer de dés. Vous ignorez le terrain accidenté (à la discrétion du [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)) en raison de votre taille.
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +4* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d10+11 phy*
+**CHASSEUR AÉRIEN MYTHIQUE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, deceive, locate, navigate
+(Dragon, ptérodactyle, rokh, vouivre, etc.)
 
-***Carrier:*** You can carry up to three willing allies with you when you move.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +4* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d10+11 phy*
 
-***Deadly Raptor:*** You can fly at will and move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range as part of your action. When you move in a straight line into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target from at least [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an attack against that target in the same action, you can reroll all damage dice that rolled a result lower than your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, tromper, repérer, s’orienter
 
-**EPIC AQUATIC BEAST**
+***Porteur :*** Vous pouvez emporter avec vous jusqu’à trois alliés consentants lorsque vous vous déplacez.
 
-(Giant Squid, Whale, etc.)
+***Rapace mortel :*** Vous pouvez voler à volonté et vous déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) dans le cadre de votre action. Lorsque vous vous déplacez en ligne droite pour entrer à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une cible depuis au moins la portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et que vous attaquez cette cible dans la même action, vous pouvez relancer tous les dés de dégâts dont le résultat est inférieur à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Agility d10+10 phy*
+**BÊTE AQUATIQUE ÉPIQUE**
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** locate, protect, scare, track
+(Calmar géant, baleine, etc.)
 
-***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* them.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Agilité d10+10 phy*
 
-***Unyielding:*** When you would mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), roll a **d6.** On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
+**Gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** repérer, protéger, effrayer, pister
 
-**MYTHIC BEAST**
+***Maître des océans :*** Vous pouvez respirer et vous déplacer naturellement sous l’eau. Lorsque vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez l’*[Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* temporairement.
 
-(Upgraded [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP) Options)
+***Inflexible :*** Lorsque vous devez marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), lancez un **d6.** Sur un résultat de 5 ou plus, réduisez la gravité d’un seuil sans marquer d’Emplacement d’armure.
 
-***Evolved:*** Pick a [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP) [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+**BÊTE MYTHIQUE**
 
-- A +9 bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+(Options de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou de [rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) améliorées)
 
-- A +2 bonus to the trait used by this form
+***Évolué :*** Choisissez une option de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou de [rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et devenez une version plus grande et plus puissante de cette créature. Tant que vous gardez cette forme, vous conservez toutes les caractéristiques et aptitudes de la forme d’origine et vous gagnez les bonus suivants :
 
-- A +3 bonus to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+- Un bonus de +9 aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER)
 
-- Your damage die increases by one size (d6 becomes d8, d8 becomes d10, etc.)
+- Un bonus de +2 à la caractéristique utilisée par cette forme
 
-**MYTHIC HYBRID**
+- Un bonus de +3 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)
 
-(Chimera, Cockatrice, Manticore, etc.)
+- Votre dé de dégâts augmente d’une taille (d6 devient d8, d8 devient d10, etc.)
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *Strength [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) d12+10 phy*
+**HYBRIDE MYTHIQUE**
 
-***Hybrid Features:*** To transform into this creature, **mark 2 additional [Stress](../core_rules/Core%20Mechanics.md#STRESS).** Choose any three [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) options from Tiers 1-3. Choose a total of five advantages and three features from those options.
+(Chimère, cockatrice, manticore, etc.)
+
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *Force [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d12+10 phy*
+
+***Aptitudes hybrides :*** Pour vous transformer en cette créature, **marquez 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaires.** Choisissez trois options de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) parmi les rangs 1-3. Choisissez au total cinq avantages et trois aptitudes parmi ces options.

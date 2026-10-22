@@ -1,25 +1,32 @@
-# Entombed Empress
+---
+aliases:
+  - "Entombed Empress"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*The undead ruler of a forgotten realm. She’s been given blasphemous funeral rites to prevent her soul from moving on.*
+# Impératrice des tombes
 
-**Motives & Tactics:** Command inferiors, curse the invaders
+*(VO : Entombed Empress)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/24 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Swipe:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+2 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*La souveraine morte-vivante d’un royaume oublié. On lui a fait des rites funéraires blasphématoires pour empêcher son âme de passer dans l’au-delà.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ruler +4, Undead +2
+**Motivations et tactiques :** Commander les inférieurs, maudire les envahisseurs
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/24 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Balayage :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+2 phy
 
-***Empty Husk - Passive:*** The Empress has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Souveraine +4, Mort-vivante +2
 
-***Missing Organs - Passive:*** The Empress’s internal organs have been removed and placed into six crystal containers hidden throughout her tomb. Each time the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) find and destroy one, the Empress marks a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
 
-***Grasping Chains - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Empress target a creature within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and try to telekinetically bind them with her funeral chains. Make an attack against a target within Close range. On a success, the Empress pulls the target into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, deals **2d8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), and temporarily *Restrains* them.
+***Coquille vide - Passif :*** L’impératrice a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Deathless Obedience - Action:*** Up to three times per scene, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) any number of allies within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. If any attacks succeed against the same target, combine the damage.
+***Organes manquants - Passif :*** Les organes internes de l’impératrice ont été retirés et placés dans six récipients de cristal cachés dans sa tombe. Chaque fois que les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) en trouvent un et le détruisent, l’impératrice marque un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Accursed Caress - Reaction:*** When the Empress makes a successful standard attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to activate a Doom [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (1d6+1) for that PC. It ticks down when a PC rolls with Fear. When it triggers, the PC marks all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and makes a [death move](../core_rules/Core%20Mechanics.md#DEATH). If the Empress is defeated or the PCs take a rest, all Doom Countdowns end.
+***Chaînes d’agrippement - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que l’impératrice vise une créature à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et tente de la lier par télékinésie avec ses chaînes funéraires. Attaquez une cible à Proche. En cas de succès, l’impératrice attire la cible à [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), lui inflige **2d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et l’*entrave* temporairement.
 
-***Final Transformation (Phase Change) - Reaction:*** When the Empress marks her last [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), replace her with the [Entombed Cat Beast](Entombed%20Cat%20Beast.md) and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Obéissance éternelle - Action :*** Jusqu’à trois fois par scène, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) un nombre quelconque d’alliés à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Si plusieurs attaques réussissent contre la même cible, additionnez les dégâts.
+
+***Caresse maudite - Réaction :*** Quand l’impératrice réussit une attaque standard contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour activer un [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) funeste (1d6+1) pour ce PJ. Il descend quand ce PJ fait un jet avec la Peur. Quand il se déclenche, le PJ marque tous ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et fait un [choix de mort](../core_rules/Core%20Mechanics.md#MORT). Si l’impératrice est vaincue ou si les PJ prennent un repos, tous les comptes à rebours funestes prennent fin.
+
+***Transformation finale (changement de phase) - Réaction :*** Quand l’impératrice marque son dernier [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), remplacez-la par la [bête-chat des tombes](Entombed%20Cat%20Beast.md) et [mettez-la immédiatement sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

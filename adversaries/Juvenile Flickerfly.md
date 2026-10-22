@@ -1,19 +1,26 @@
-# Juvenile Flickerfly
+---
+aliases:
+  - "Juvenile Flickerfly"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*
+# Papillon scintillant juvénile
 
-**Motives & Tactics:** Collect shiny things, hunt, swoop
+*(VO : Juvenile Flickerfly)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 13/26 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Wing Slash:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un insecte de la taille d’un cheval, aux écailles irisées et aux ailes de cristal qui se déplacent plus vite que l’œil ne peut suivre.*
+
+**Motivations et tactiques :** Collectionner les objets brillants, chasser, fondre sur les proies
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 13/26 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Coup d’aile :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+4 phy
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Flickerfly can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Implacable (3) - Passif :*** Le papillon peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Peerless Accuracy - Passive:*** Before the Flickerfly makes an attack, roll a **d6**. On a result of 4 or higher, the target’s [Evasion](../core_rules/Core%20Mechanics.md#EVASION) is halved against this attack.
+***Précision irréprochable - Passif :*** Avant que le papillon n’effectue une attaque, lancez un **d6**. Sur un résultat de 4 ou plus, l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) de la cible est réduite de moitié contre cette attaque.
 
-***Mind Dance - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to create a magically dazzling display that grapples the minds of nearby foes. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). For each target who failed, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and the Flickerfly learns one of the target’s fears.
+***Danse de l’esprit - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour créer un spectacle magique éblouissant qui agrippe l’esprit des ennemis proches. Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Pour chaque cible qui échoue, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et le papillon apprend l’une des peurs de la cible.
 
-***Hallucinatory Breath - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 1d6)*. When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on this roll. Targets who fail must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Souffle hallucinatoire - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (Boucle 1d6)*. Lorsque le papillon subit des dégâts pour la première fois, activez le compte à rebours. Quand il se déclenche, le papillon souffle un gaz hallucinatoire sur toutes les cibles situées devant lui, jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou être tourmentées par des hallucinations effrayantes. Les cibles dont le papillon connaît les peurs ont un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à ce jet. Les cibles qui échouent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et perdre un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

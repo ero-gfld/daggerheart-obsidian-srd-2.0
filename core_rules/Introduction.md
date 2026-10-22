@@ -1,45 +1,45 @@
 # Introduction
 
-**Welcome to DAGGERHEART,** *a collaborative fantasy tabletop roleplaying game of incredible* *magic and heroic, heartfelt adventure.*
+**Bienvenue dans DAGGERHEART,** *un jeu de rôle sur table fantasy et collaboratif, fait de magie extraordinaire et d’aventures héroïques et sincères.*
 
-## WHAT IS THIS?
+## DE QUOI S’AGIT-IL ?
 
-This is the Daggerheart SRD (System Reference Document). It is a repository of the mechanical elements of the Daggerheart system, edited and organized for clarity, conciseness, and quick reference.
+Voici le SRD (System Reference Document, ou document de référence du système) de Daggerheart. C’est un recueil des éléments mécaniques du système Daggerheart, édité et organisé pour la clarté, la concision et la consultation rapide.
 
-You can use this SRD in several ways:
+Vous pouvez utiliser ce SRD de plusieurs façons :
 
-- To quickly look up Daggerheart’s rules-as-written during gameplay sessions.
+- Pour consulter rapidement les règles de Daggerheart telles qu’elles sont écrites pendant les séances de jeu.
 
-- To ensure any homebrew content you create or publish conforms with Daggerheart’s core ruleset.
+- Pour vous assurer que tout contenu maison que vous créez ou publiez est conforme aux règles de base de Daggerheart.
 
-- To provide copy text made available by Darrington Press for your own publications under their Community Gaming License (www.darringtonpress.com/license).
+- Pour disposer de textes à copier, mis à disposition par Darrington Press pour vos propres publications sous leur Community Gaming License (www.darringtonpress.com/license).
 
-- To better understand the mechanics of Daggerheart, absent the flavor and setting information, so you can bend or break them in the process of making your own content.
+- Pour mieux comprendre les mécaniques de Daggerheart, sans l’ambiance ni les éléments de cadre, afin de pouvoir les infléchir ou les briser en créant votre propre contenu.
 
-The Daggerheart SRD is not a replacement for the core rulebook, which contains setting information, additional examples of various gameplay elements, and tons of great advice for playing Daggerheart—not to mention gorgeous artwork and layout.
+Le SRD de Daggerheart ne remplace pas le livre de base, qui contient les informations de cadre, d’autres exemples d’éléments de jeu et une foule de bons conseils pour jouer à Daggerheart, sans parler de ses magnifiques illustrations et de sa mise en page.
 
-In short, it is Daggerheart, the system, boiled down to the bones—a lean and clean offering without all the flavor, style, and supporting material that makes the core rulebook such an evocative and enjoyable read. We hope this document proves useful to your table. Happy adventuring!
+En bref, c’est Daggerheart, le système, réduit à l’os : une offre épurée et limpide, sans toute l’ambiance, le style et le matériel complémentaire qui font du livre de base une lecture si évocatrice et agréable. Nous espérons que ce document sera utile à votre table. Bonnes aventures !
 
-## THE BASICS
+## LES BASES
 
-### WHAT IS DAGGERHEART?
+### QU’EST-CE QUE DAGGERHEART ?
 
-Daggerheart is a tabletop roleplaying game for one Game Master (“GM”) and 2–5 players. Each game session lasts about 2–4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.
+Daggerheart est un jeu de rôle sur table pour un Meneur de jeu (« MJ ») et 2 à 5 joueurs. Chaque séance de jeu dure environ 2 à 4 heures, et Daggerheart peut se jouer en partie unique ou en campagne de plusieurs séances, de n’importe quelle durée.
 
-During a session of Daggerheart the GM describes situations, narrates events, and controls any [adversaries](Using%20Adversaries.md) or obstacles that the Player Characters (“PCs”) encounter. The players, in turn, roleplay their PCs’ reactions to the scenario presented by the GM. If the outcome of a player’s action depends on fate or fortune, the GM calls for an [action roll](Core%20Mechanics.md#ACTION%20ROLLS).
+Pendant une séance de Daggerheart, le MJ décrit les situations, narre les événements et contrôle les [adversaires](Using%20Adversaries.md) ou les obstacles que rencontrent les personnages-joueurs (« PJ »). Les joueurs, à leur tour, jouent les réactions de leurs PJ face au scénario présenté par le MJ. Si l’issue de l’action d’un joueur dépend du destin ou de la chance, le MJ demande un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-When a player makes an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), they utilize [Duality Dice](Core%20Mechanics.md#OVERVIEW)—two differently colored 12-sided dice (“d12s”) representing [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) and [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR). The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) set by the GM. If the total meets or beats the Difficulty, the player succeeds. If it’s lower, they fail. In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.
+Lorsqu’un joueur fait un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), il utilise les [dés de Dualité](Core%20Mechanics.md#APER%C3%87U) : deux dés à 12 faces (« d12 ») de couleurs différentes, qui représentent l’[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR). On lance les dés de Dualité, on ajoute les modificateurs pertinents aux résultats, et le total est comparé à une [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) fixée par le MJ. Si le total égale ou dépasse la Difficulté, le joueur réussit. S’il est inférieur, il échoue. De plus, la situation évolue selon le dé de Dualité qui obtient le résultat le plus élevé : soit le joueur reçoit de précieux jetons d’Espoir, soit le MJ génère de terrifiants jetons de Peur.
 
-#### THE GOLDEN RULE
+#### LA RÈGLE D’OR
 
-The most important rule of Daggerheart is to make the game your own. The rules included in this SRD are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories. The rules should never get in the way of the story you want to tell, the characters you want to play, or the adventures you want to have. As long as your group agrees, everything can be adjusted to fit your play style. If there’s a rule you’d rather ignore or modify, feel free to implement any change with your table’s consent.
+La règle la plus importante de Daggerheart est de faire du jeu le vôtre. Les règles de ce SRD sont conçues pour vous aider à profiter de l’expérience à la table, mais chacun a sa propre façon d’interpréter les règles et de raconter des histoires. Les règles ne doivent jamais gêner l’histoire que vous voulez raconter, les personnages que vous voulez jouer ou les aventures que vous voulez vivre. Tant que votre groupe est d’accord, tout peut être ajusté à votre style de jeu. Si une règle vous déplaît ou que vous voulez la modifier, n’hésitez pas à y apporter le changement de votre choix avec l’accord de votre table.
 
-#### RULINGS OVER RULES
+#### LES DÉCISIONS AVANT LES RÈGLES
 
-While playing Daggerheart, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and players should always prioritize rulings over rules. This SRD offers answers for many questions your table may have about the game, but it won’t answer all of them. When you’re in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.
+En jouant à Daggerheart, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et les joueurs doivent toujours privilégier les décisions de jeu plutôt que les règles. Ce SRD répond à de nombreuses questions que se posera votre table, mais pas à toutes. Quand vous avez un doute sur l’application d’une règle, le MJ doit trancher dans le sens du récit.
 
-For example, Daggerheart has a weapon called a grappler that lets you pull a target close to you. If you try to use it to pull an entire castle, the weapon text doesn’t forbid you from doing that—but it doesn’t make sense within the narrative. Instead, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) might rule that you pull a few bricks out, or pull yourself toward the wall instead.
+Par exemple, Daggerheart propose une arme appelée grappin, qui permet de tirer une cible vers soi. Si vous essayez de l’utiliser pour tirer un château entier, le texte de l’arme ne vous l’interdit pas, mais cela n’a aucun sens dans le récit. Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) pourrait plutôt décider que vous arrachez quelques briques, ou que vous vous tirez vous-même vers le mur.
 
-Similarly, if your character does something that would logically result in immediate death—such as diving into an active volcano without protection—you might not get to make one of Daggerheart’s [death moves](Core%20Mechanics.md#DEATH), which normally give you control of your character’s fate in their final moments. This kind of consequence should be made clear before the action is completed, and it should always follow the logic of the world.
+De même, si votre personnage fait quelque chose qui entraînerait logiquement une mort immédiate, comme plonger sans protection dans un volcan en activité, vous ne pourrez peut-être pas faire l’un des [choix de mort](Core%20Mechanics.md#MORT) de Daggerheart, qui vous donnent normalement le contrôle du sort de votre personnage dans ses derniers instants. Cette conséquence doit être annoncée clairement avant que l’action ne soit achevée, et elle doit toujours suivre la logique du monde.
 
-As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.
+Daggerheart étant un jeu centré sur le récit, les interprétations techniques et hors contexte des règles n’y sont pas encouragées. Tout doit toujours se rattacher à la fiction, et le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) a l’autorité et la responsabilité de rendre des décisions sur la façon d’appliquer les règles pour mettre cette fiction en valeur.

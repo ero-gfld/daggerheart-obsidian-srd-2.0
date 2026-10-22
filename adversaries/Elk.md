@@ -1,17 +1,24 @@
-# Elk
+---
+aliases:
+  - "Elk"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A large deer.*
+# Wapiti
 
-**Motives & Tactics:** Bound away, graze, rut, sense danger
+*(VO : Elk)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Antlers:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un grand cerf.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Keen Senses +3, Run +3
+**Motivations et tactiques :** S’éloigner d’un bond, brouter, se battre pendant le rut, pressentir le danger
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Bois :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+1 phy
 
-***Headbutt - Passive:*** When the Elk moves from [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range or farther before making a standard attack, it deals **1d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead of its standard damage.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sens aiguisés +3, Course +3
 
-***Bolt - Reaction:*** When the Elk marks a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](../core_rules/Core%20Mechanics.md#STRESS), it must succeed on a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10) or flee the scene.
+## APTITUDES
+
+***Coup de tête - Passif :*** Quand le wapiti se déplace depuis [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ou plus loin avant de faire une attaque standard, il inflige **1d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) au lieu de ses dégâts standard.
+
+***Fuite - Réaction :*** Quand le wapiti marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou du [Stress](../core_rules/Core%20Mechanics.md#STRESS), il doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (10) ou fuir la scène.

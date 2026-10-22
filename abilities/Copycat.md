@@ -1,5 +1,12 @@
-# Copycat
+---
+aliases:
+  - "Copycat"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+# Imitateur
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), this card can mimic the features of another [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) of level 8 or lower in another player’s [loadout](../core_rules/Domains.md#DOMAIN%20CARDS). **Spend [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to half the card’s level** to gain access to the feature. It lasts until your next rest or they place the card in their [vault](../core_rules/Domains.md#DOMAIN%20CARDS).
+*(VO : Copycat)*
+
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), cette carte peut imiter les aptitudes d’une autre [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de niveau 8 ou inférieur dans la [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’un autre joueur. **Dépensez de l’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) égal à la moitié du niveau de la carte** pour accéder à cette aptitude. Elle dure jusqu’à votre prochain repos, ou jusqu’à ce que le joueur range la carte dans sa [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

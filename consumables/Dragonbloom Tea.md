@@ -1,3 +1,10 @@
-# Dragonbloom Tea
+---
+aliases:
+  - "Dragonbloom Tea"
+---
 
-You can drink this tea to unleash a fiery breath attack. Make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll against all [adversaries](../core_rules/Using%20Adversaries.md) in front of you within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets you succeed against take d20 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Thé de dragonfleur
+
+*(VO : Dragonbloom Tea)*
+
+Vous pouvez boire ce thé pour déclencher une attaque de souffle de feu. Effectuez un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) contre tous les [adversaires](../core_rules/Using%20Adversaries.md) devant vous à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles vous réussissez subissent un d20 de [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).

@@ -1,7 +1,14 @@
-# Voice of Reason
+---
+aliases:
+  - "Voice of Reason"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Voix de la raison
 
-You speak with an unmatched power and authority. You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to de‑escalate violent situations or convince someone to follow your lead.
+*(VO : Voice of Reason)*
 
-Additionally, you’re emboldened in moments of duress. When all of your [Stress](../core_rules/Core%20Mechanics.md#STRESS) slots are marked, you gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Vous parlez avec une puissance et une autorité sans égal. Vous bénéficiez d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les [jets d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) qui visent à désamorcer une situation violente ou à convaincre quelqu’un de vous suivre.
+
+De plus, vous puisez de l’assurance dans les moments difficiles. Lorsque tous vos emplacements de [Stress](../core_rules/Core%20Mechanics.md#STRESS) sont marqués, vous gagnez un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour les [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

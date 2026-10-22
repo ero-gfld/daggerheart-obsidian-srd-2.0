@@ -1,9 +1,16 @@
-# Legendary Full Plate Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Legendary Full Plate Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 17 / 44  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 7
+# Armure de plates complète légendaire
 
-### FEATURE
+*(VO : Legendary Full Plate Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Very Heavy:*** −2 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION); −1 to [Agility](../core_rules/Character%20Creation.md#STEP%203)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 17 / 44  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 7
+
+### APTITUDE
+
+***Très lourd :*** −2 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) ; −1 à l’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

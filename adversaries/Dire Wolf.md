@@ -1,17 +1,24 @@
-# Dire Wolf
+---
+aliases:
+  - "Dire Wolf"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A large wolf with menacing teeth, seldom encountered alone.*
+# Loup redoutable
 
-**Motives & Tactics:** Defend territory, harry, protect pack, surround, trail
+*(VO : Dire Wolf)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/9 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Grand loup aux dents menaçantes, rarement rencontré seul.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Keen Senses +3
+**Motivations et tactiques :** Défendre son territoire, harceler, protéger la meute, encercler, traquer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/9 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+2 phy
 
-***Pack Tactics - Passive:*** If the Wolf makes a successful standard attack and another Dire Wolf is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target, deal **1d6+5** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead of their standard damage and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sens aiguisés +3
 
-***Hobbling Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **3d4+10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and make them *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they clear at least 1 [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
+
+***Tactique de meute - Passif :*** Si le loup réussit une attaque standard et qu’un autre loup redoutable se trouve à [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible, il inflige **1d6+5** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) au lieu de ses dégâts standard, et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Coup handicapant - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour porter une attaque contre une cible à [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de succès, infligez **3d4+10** [dégâts physiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER) et rendez-la *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle efface au moins 1 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

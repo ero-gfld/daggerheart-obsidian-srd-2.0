@@ -1,9 +1,16 @@
-# Halfling
+---
+aliases:
+  - "Halfling"
+---
 
-Halflings are small humanoids with large hairy feet and prominent rounded ears. On average, halflings are 3 to 4 feet in height, and their ears, nose, and feet are larger in proportion to the rest of their body. Members of this ancestry live for around 150 years, and a halfling’s appearance is likely to remain youthful even as they progress from adulthood into old age. Halflings are naturally attuned to the magnetic fields of the Mortal Realm, granting them a strong internal compass. They also possess acute senses of hearing and smell, and can often detect those who are familiar to them by the sound of their movements.
+# Halfelin
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+*(VO : Halfling)*
 
-***Luckbringer:*** At the start of each session, everyone in your party gains a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+Les halfelins sont des humanoïdes de petite taille aux grands pieds poilus et aux oreilles rondes et saillantes. En moyenne, les halfelins mesurent de 3 à 4 pieds, et leurs oreilles, leur nez et leurs pieds sont plus grands que la proportion du reste de leur corps. Les membres de cette ascendance vivent environ 150 ans, et l’apparence d’un halfelin reste probablement jeune même quand il passe de l’âge adulte à la vieillesse. Les halfelins sont naturellement sensibles aux champs magnétiques du Royaume mortel, ce qui leur donne une solide boussole intérieure. Ils ont aussi l’ouïe et l’odorat très fins, et savent souvent reconnaître les gens qui leur sont familiers au bruit de leurs pas.
 
-***Internal Compass:*** When you roll a 1 on your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW), you can reroll it.
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Porte-bonheur :*** Au début de chaque session, tous les membres de votre groupe gagnent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Boussole intérieure :*** Quand vous obtenez un 1 sur votre [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U), vous pouvez le relancer.

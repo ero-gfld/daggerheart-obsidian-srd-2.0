@@ -1,3 +1,10 @@
-# Gossip Flower
+---
+aliases:
+  - "Gossip Flower"
+---
 
-You can plant this seed in soil. It instantly grows into a small flower that records everything it hears for up to one week. When plucked, the flower recites what it recorded in real time, then withers.
+# Fleur bavarde
+
+*(VO : Gossip Flower)*
+
+Vous pouvez planter cette graine dans la terre. Elle se transforme instantanément en une petite fleur qui enregistre tout ce qu’elle entend pendant une semaine au maximum. Lorsqu’on la cueille, la fleur récite en temps réel ce qu’elle a enregistré, puis se flétrit.

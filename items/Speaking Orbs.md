@@ -1,3 +1,10 @@
-# Speaking Orbs
+---
+aliases:
+  - "Speaking Orbs"
+---
 
-This pair of orbs allows any creatures holding them to communicate with each other across any distance.
+# Orbes parlantes
+
+*(VO : Speaking Orbs)*
+
+Cette paire d’orbes permet aux créatures qui les tiennent de communiquer entre elles, quelle que soit la distance.

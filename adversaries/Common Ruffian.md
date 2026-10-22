@@ -1,17 +1,24 @@
-# Common Ruffian
+---
+aliases:
+  - "Common Ruffian"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A local laborer or artisan pushed by circumstances to assail others.*
+# Voyou ordinaire
 
-**Motives & Tactics:** Do violence, seek security and survival
+*(VO : Common Ruffian)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/10 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Improvised Weapon:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Ouvrier ou artisan du coin, poussé par les circonstances à s’en prendre aux autres.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Desperate +3
+**Motivations et tactiques :** Faire le mal, chercher la sécurité et la survie
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/10 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Arme de fortune :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8 phy
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Ruffians within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. The Ruffians move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal **1d8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Désespéré +3
 
-***Survival Instinct - Reaction:*** When the Ruffian marks half their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), roll a **d6**. On a result of 4 or higher, the Ruffian flees the scene. Otherwise, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
+
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour désigner une cible et [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les voyous ordinaires à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’elle. Ils se déplacent à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible et font un seul [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de réussite, chacun inflige **1d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Additionnez ces dégâts.
+
+***Instinct de survie - Réaction :*** Quand le voyou marque la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), lancez un **d6**. Sur un résultat de 4 ou plus, le voyou prend la fuite. Sinon, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

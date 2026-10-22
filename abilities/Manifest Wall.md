@@ -1,5 +1,12 @@
-# Manifest Wall
+---
+aliases:
+  - "Manifest Wall"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Matérialiser un mur
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15)**. Once per rest on a success, **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to create a temporary magical wall between two points within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. It can be up to 50 feet high and form at any angle. Creatures or objects in its path are shunted to a side of your choice. The wall stays up until your next rest or you cast Manifest Wall again.
+*(VO : Manifest Wall)*
+
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15)**. Une fois par repos, en cas de réussite, **dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour créer un mur magique temporaire entre deux points à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Il peut mesurer jusqu’à 50 pieds de haut et se former selon n’importe quel angle. Les créatures ou objets sur son passage sont repoussés vers le côté de votre choix. Le mur reste en place jusqu’à votre prochain repos ou jusqu’à ce que vous relanciez Matérialiser un mur.

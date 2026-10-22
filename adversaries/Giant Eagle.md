@@ -1,19 +1,26 @@
-# Giant Eagle
+---
+aliases:
+  - "Giant Eagle"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A giant bird of prey with blood-stained talons.*
+# Aigle géant
 
-**Motives & Tactics:** Hunt prey, stay mobile, strike decisively
+*(VO : Giant Eagle)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/19 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Claws and Beak:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+3 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un oiseau de proie géant aux serres tachées de sang.*
 
-## FEATURES
+**Motivations et tactiques :** Chasser les proies, rester mobile, frapper sans hésiter
 
-***Flight - Passive:*** While flying, the Eagle gains a +3 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/19 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Serres et bec :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+3 phy
 
-***Deadly Dive - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to attack a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **2d10+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and knock the target over, making them *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they next act.
+## APTITUDES
 
-***Take Off - Action:*** Make an attack against a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **2d4+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and the target must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* within the Eagle’s massive talons. If the target is *Restrained*, the Eagle immediately lifts into the air to [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range above the battlefield while holding them.
+***Vol - Passif :*** En vol, l’Aigle gagne un bonus de +3 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-***Deadly Drop - Action:*** While flying, the Eagle can drop a *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target they are holding. When dropped, the target is no longer *Restrained* but starts falling. If their fall isn’t prevented during the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’ next action, the target takes **2d20** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) when they land.
+***Piqué meurtrier - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **2d10+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et jetez la cible à terre, la rendant *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle agisse à nouveau.
+
+***Envol - Action :*** Effectuez une attaque contre une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **2d4+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), et la cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sous peine de devenir temporairement *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* entre les serres massives de l’Aigle. Si la cible est *Entravée*, l’Aigle s’élève immédiatement dans les airs, jusqu’à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) au-dessus du champ de bataille, en la retenant.
+
+***Lâcher mortel - Action :*** Pendant qu’il vole, l’Aigle peut lâcher une cible *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* qu’il retient. Une fois lâchée, la cible n’est plus *Entravée*, mais commence à tomber. Si sa chute n’est pas empêchée pendant la prochaine action des [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), la cible subit **2d20** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à l’impact.

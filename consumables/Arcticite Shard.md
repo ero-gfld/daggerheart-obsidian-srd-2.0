@@ -1,3 +1,10 @@
-# Arcticite Shard
+---
+aliases:
+  - "Arcticite Shard"
+---
 
-Choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point must succeed on a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16) or take 3d6 [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and become temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* by ice.
+# Éclat d’arcticite
+
+*(VO : Arcticite Shard)*
+
+Choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16), sans quoi elles subissent 3d6 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *[Entravées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* par la glace.

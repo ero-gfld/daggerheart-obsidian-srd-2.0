@@ -1,13 +1,20 @@
-# Mythic Beast
+---
+aliases:
+  - "Mythic Beast"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Upgraded [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP) Options)
+# Bête mythique
 
-***Evolved:*** Pick a [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP) [Beastform](../classes/Druid.md#BEASTFORM%20OPTIONS) option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+*(VO : Mythic Beast)*
 
-- A +9 bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING)
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Options de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou [rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) améliorées)
 
-- A +2 bonus to the trait used by this form
+***Évolué :*** Choisissez une option de [Forme bestiale](../classes/Druid.md#OPTIONS%20DE%20FORME%20BESTIALE) de [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou de [rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et devenez une version plus grande et plus puissante de cette créature. Sous cette forme, vous conservez toutes les caractéristiques et aptitudes de la forme d’origine et gagnez les bonus suivants :
 
-- A +3 bonus to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+- Un bonus de +9 aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER)
 
-- Your damage die increases by one size (d6 becomes d8, d8 becomes d10, etc.)
+- Un bonus de +2 à la caractéristique utilisée par cette forme
+
+- Un bonus de +3 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)
+
+- Votre dé de dégâts augmente d’un cran (le d6 devient d8, le d8 devient d10, etc.)

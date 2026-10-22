@@ -1,3 +1,10 @@
-# Ogre Musk
+---
+aliases:
+  - "Ogre Musk"
+---
 
-You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest.
+# Musc d’ogre
+
+*(VO : Ogre Musk)*
+
+Vous pouvez utiliser ce musc pour empêcher quiconque de vous pister, par des moyens ordinaires ou magiques, jusqu’à votre prochain repos.

@@ -1,9 +1,16 @@
-# Elundrian Chain Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Elundrian Chain Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 21  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Cotte de mailles elundrienne
 
-### FEATURE
+*(VO : Elundrian Chain Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Warded:*** You reduce incoming [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) by your [Armor Score](../core_rules/Equipment.md#ARMOR) before applying it to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 21  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Protégé :*** Vous réduisez les [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) reçus de votre [Score d’armure](../core_rules/Equipment.md#ARMURE) avant de les appliquer à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

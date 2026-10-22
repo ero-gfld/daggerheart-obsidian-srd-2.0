@@ -1,3 +1,10 @@
-# Ring of Silence
+---
+aliases:
+  - "Ring of Silence"
+---
 
-Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to activate this ring. Your footsteps are silent until your next rest.
+# Anneau du silence
+
+*(VO : Ring of Silence)*
+
+Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour activer cet anneau. Vos pas sont silencieux jusqu’à votre prochain repos.

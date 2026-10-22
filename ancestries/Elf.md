@@ -1,11 +1,18 @@
-# Elf
+---
+aliases:
+  - "Elf"
+---
 
-Elves are typically tall humanoids with pointed ears and acutely attuned senses. Their ears vary in size and pointed shape, and as they age, the tips begin to droop. While elves come in a wide range of body types, they are all fairly tall, with heights ranging from about 6 to 6 ½ feet. All elves have the ability to drop into a celestial trance, rather than sleep. This allows them to rest effectively in a short amount of time.
+# Elfe
 
-Some elves possess what is known as a “mystic form,” which occurs when an elf has dedicated themself to the study or protection of the natural world so deeply that their physical form changes. These characteristics can include celestial freckles, the presence of leaves, vines, or flowers in their hair, eyes that flicker like fire, and more. Sometimes these traits are inherited from parents, but if an elf changes their [environment](../core_rules/Using%20Environments.md) or magical focus, their appearance changes over time. Because elves live for about 350 years, these traits can shift more than once throughout their lifespan.
+*(VO : Elf)*
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+Les elfes sont généralement des humanoïdes de grande taille, aux oreilles pointues et aux sens affûtés. La taille et la forme pointue de leurs oreilles varient, et avec l’âge, le bout de celles-ci commence à tomber. Si les elfes ont des corpulences très diverses, ils sont tous assez grands, de 6 à 6 ½ pieds environ. Tous les elfes sont capables de sombrer dans une transe céleste au lieu de dormir, ce qui leur permet de se reposer efficacement en peu de temps.
 
-***Quick Reactions:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS).
+Certains elfes possèdent ce qu’on appelle une « forme mystique », qui apparaît lorsqu’un elfe s’est consacré si profondément à l’étude ou à la protection du monde naturel que son corps en est transformé. Ces traits peuvent comprendre des taches de rousseur célestes, des feuilles, des vignes ou des fleurs dans les cheveux, des yeux qui vacillent comme des flammes, et bien d’autres. Parfois ces traits sont hérités des parents, mais si un elfe change d’[environnement](../core_rules/Using%20Environments.md) ou de foyer magique, son apparence évolue avec le temps. Comme les elfes vivent environ 350 ans, ces traits peuvent changer plus d’une fois au cours de leur vie.
 
-***Celestial Trance:*** During a rest, you can drop into a trance to choose an additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME).
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Réactions rapides :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour obtenir l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
+
+***Transe céleste :*** Pendant un repos, vous pouvez sombrer dans une transe pour choisir une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) supplémentaire.

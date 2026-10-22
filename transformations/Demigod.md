@@ -1,25 +1,32 @@
-# Demigod
+---
+aliases:
+  - "Demigod"
+---
 
-Demigods are mortal creatures whose veins flow with the blood of the gods. They typically gain their power from divine parentage, accomplishing an incredible feat, or receiving a gift from a god. Many demigods appear as a typical member of their mortal ancestry, but all possess a subtle luminosity and a gleam in their eyes. They’re also known to have pearlescent or metallic skin, and they might grow in size or gain physical features related to their power when it reveals itself. Because they share the blood of a Faint Divinity, a Forgotten God, a New God, or any other deity, no two demigods look the same.
+# Demi-dieu
 
-Demigods are bestowed with a fragment of deific power, but not everything a demigod inherits is a blessing. Though they often excel at tasks they’re well suited for, the expectations set upon them are often difficult and costly to live up to.
+*(VO : Demigod)*
 
-**TRANSFORMATION FEATURES**
+Les demi-dieux sont des créatures mortelles dans les veines desquelles coule le sang des dieux. Ils tirent généralement leur pouvoir d’une ascendance divine, d’un exploit extraordinaire ou d’un don accordé par un dieu. Beaucoup ressemblent à un membre ordinaire de leur ascendance mortelle, mais tous possèdent une discrète luminosité et une lueur dans le regard. On sait aussi qu’ils ont parfois la peau nacrée ou métallique, et qu’ils peuvent grandir ou développer des traits physiques liés à leur pouvoir lorsque celui-ci se révèle. Comme ils partagent le sang d’une Divinité ténue, d’un Dieu oublié, d’un Nouveau Dieu ou de n’importe quelle autre divinité, il n’existe pas deux demi-dieux semblables.
 
-***Gifted:*** You gain a +1 bonus to action, reaction, and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+Les demi-dieux reçoivent un fragment de puissance divine, mais tout ce qu’un demi-dieu hérite n’est pas une bénédiction. S’ils excellent souvent dans les tâches qui leur conviennent, les attentes placées en eux sont fréquemment difficiles et coûteuses à satisfaire.
 
-***Weight of Divinity:*** When you fail a roll, you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) or the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**APTITUDES DE TRANSFORMATION**
 
-**TRANSFORMATION QUESTIONS**
+***Doué :*** Vous gagnez un bonus de +1 aux jets d’action, de réaction et de [dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-- Your divinity has affected an aspect of your appearance. In what way do you look different from others?
+***Poids de la divinité :*** Lorsque vous ratez un jet, vous devez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS), sinon le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) gagne une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-- Who bestowed demigod status upon you, and what trial did you complete to earn this gift?
+**QUESTIONS DE TRANSFORMATION**
 
-- You were made fun of as a child for your divine parentage. Why?
+- Votre divinité a marqué un aspect de votre apparence. En quoi vous distinguez-vous des autres ?
 
-- Why was the knowledge that you are a demigod kept from you for many years? Who kept this secret?
+- Qui vous a conféré le statut de demi-dieu, et quelle épreuve avez-vous accomplie pour mériter ce don ?
 
-- You have an obligation you must fulfill due to the immortal blood that runs in your veins. What is this duty?
+- On s’est moqué de vous, enfant, à cause de votre ascendance divine. Pourquoi ?
 
-- In what way did your divinity initially manifest? Why did it surprise you?
+- Pourquoi vous a-t-on caché pendant des années que vous étiez un demi-dieu ? Qui a gardé ce secret ?
+
+- Vous avez une obligation à remplir à cause du sang immortel qui coule dans vos veines. Quel est ce devoir ?
+
+- De quelle manière votre divinité s’est-elle d’abord manifestée ? Pourquoi cela vous a-t-il surpris ?

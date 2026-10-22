@@ -1,22 +1,29 @@
-# Soul-Shattered Mage
+---
+aliases:
+  - "Soul-Shattered Mage"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A spellcaster with a psyche broken by knowledge best left hidden.*
+# Mage à l’âme brisée
 
-**Motives & Tactics:** Babble in an unknown language, laugh unsettlingly, wield power beyond control
+*(VO : Soul-Shattered Mage)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Wormwood Staff:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12 mag
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un lanceur de sorts dont l’esprit a été brisé par un savoir qu’il aurait mieux valu garder caché.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Forbidden [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2
+**Motivations et tactiques :** Baragouiner dans une langue inconnue, rire d’un rire glaçant, manier un pouvoir qui lui échappe
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Bâton d’armoise :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12 mag
 
-***Relentless (3) - Passive:*** The Mage can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) interdit +2
 
-***Broken Magic - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to roll a **d6**. The Mage uses the corresponding move:  
-1–2: ***Dimension Rift.*** Choose a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The target teleports to a point you choose within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of their original position and takes **2d6** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) as their body and mind reassemble.  
-3–4: ***Time Dilation.*** Choose a group of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within Far range. Each target is *Slowed* until they roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). While *Slowed*, a target is *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and must mark a Stress when they move.  
-5–6: ***Discordant Visions.*** Make an attack against up to three targets within Close range. Targets the Mage succeeds against take **2d8** direct magic damage.
+## APTITUDES
 
-***Feel My Pain - Reaction:*** When the Mage marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), roll a number of **d6s** equal to the number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) the Mage has marked. The Mage deals direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the total result to all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Implacable (3) - Passif :*** Le Mage peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Magie brisée - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour lancer un **d6**. Le Mage utilise le mouvement correspondant :  
+1–2 : ***Faille dimensionnelle.*** Choisissez une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible est téléportée en un point de votre choix à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de sa position d’origine et subit **2d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs, le temps que son corps et son esprit se reforment.  
+3–4 : ***Dilatation temporelle.*** Choisissez un groupe de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée Loin. Chaque cible est *Ralentie* jusqu’à ce qu’elle fasse un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Tant qu’elle est *Ralentie*, une cible est *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et doit marquer un Stress chaque fois qu’elle se déplace.  
+5–6 : ***Visions discordantes.*** Attaquez jusqu’à trois cibles à portée Proche. Les cibles contre lesquelles le Mage réussit subissent **2d8** dégâts magiques directs.
+
+***Souffre avec moi - Réaction :*** Quand le Mage marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), lancez un nombre de **d6** égal au nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) marqués par le Mage. Le Mage inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs égaux au total obtenu à tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

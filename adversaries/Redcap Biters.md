@@ -1,17 +1,24 @@
-# Redcap Biters
+---
+aliases:
+  - "Redcap Biters"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*A troop of fist-sized fey creatures who have needle-sharp teeth and conical red caps sealed on their heads with candle wax.*
+# Mordeurs bonnet-rouge
 
-**Motives & Tactics:** Bring ’em down, celebrate tiny victories, giggle and chitter, scamper between the walls
+*(VO : Redcap Biters)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/11 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Gnash:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+4 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (3/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Une troupe de créatures féeriques, grosses comme un poing, aux dents aussi pointues que des aiguilles, coiffées de bonnets rouges coniques scellés à la cire de bougie.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Nooks and Crannies +3
+**Motivations et tactiques :** Les abattre, se réjouir de petites victoires, glousser et glapir, se faufiler entre les murs
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/11 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Mastication :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+4 phy
 
-***Horde (1d4+2) - Passive:*** When the Biters have marked half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals **1d4+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Recoins et fissures +3
 
-***Ankle Weights - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to move out of the Biters’ [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+## APTITUDES
+
+***Horde (1d4+2) - Passif :*** Lorsque les Mordeurs ont marqué la moitié de leurs [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, leur attaque standard inflige **1d4+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***Poids aux chevilles - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour sortir de la portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) des Mordeurs.

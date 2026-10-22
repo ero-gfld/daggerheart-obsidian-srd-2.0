@@ -1,5 +1,12 @@
-# Bolt Beacon
+---
+aliases:
+  - "Bolt Beacon"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Balise de foudre
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to send a bolt of shimmering light toward them, dealing **d8+2** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). The target becomes temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and glows brightly until this condition is cleared.
+*(VO : Bolt Beacon)*
+
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, **dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour lui envoyer un trait de lumière scintillante, qui lui inflige **d8+2** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). La cible devient temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et brille intensément jusqu’à ce que cet état soit dissipé.

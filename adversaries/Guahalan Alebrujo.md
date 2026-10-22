@@ -1,23 +1,30 @@
-# Guahalan Alebrujo
+---
+aliases:
+  - "Guahalan Alebrujo"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A huge, colorful, chimeric beast formed from many animals.*
+# Alebrujo guahalan
 
-**Motives & Tactics:** Destroy, give no quarter, ravage
+*(VO : Guahalan Alebrujo)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 13/26 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Tooth & Claw:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+4 mag
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une immense bête chimérique et colorée, formée de nombreux animaux.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Brutal +2, Quick +2
+**Motivations et tactiques :** Détruire, ne faire aucun quartier, ravager
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 13/26 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Dents et griffes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+4 mag
 
-***The Beast Unleashed - Passive:*** The Alebrujo gains a bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) you have.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Brutal +2, Vif +2
 
-***Guahalan Sacrifice - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Alebrujo devour a [Minion](../core_rules/Using%20Adversaries.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then clear a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Howl of the Guahala - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Alebrujo emit a howl. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become temporarily *Panicked*. While *Panicked*, a PC must mark a Stress when they take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***La bête déchaînée - Passif :*** L’Alebrujo gagne un bonus aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) dans votre réserve.
 
-***Rip & Tear - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make a standard attack with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). On a success, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make another standard attack against an additional target within range. You can continue marking Stress to make additional attacks until the Alebrujo fails an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Sacrifice guahalan - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que l’Alebrujo dévore un [Sbire](../core_rules/Using%20Adversaries.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), puis efface un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Brutal Spectacle - Reaction:*** When the Alebrujo deals [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Hurlement de la Guahala - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que l’Alebrujo pousse un hurlement. Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou devenir temporairement *Paniqué*. Tant qu’il est *Paniqué*, un PJ doit marquer un Stress quand il prend les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Déchirer et arracher - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effectuer une attaque standard avec un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). En cas de réussite, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une autre attaque standard contre une cible supplémentaire à portée. Vous pouvez continuer à marquer des Stress pour effectuer des attaques supplémentaires, jusqu’à ce que l’Alebrujo rate un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Spectacle brutal - Réaction :*** Quand l’Alebrujo inflige des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

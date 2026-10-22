@@ -1,3 +1,10 @@
-# Stride Potion
+---
+aliases:
+  - "Stride Potion"
+---
 
-You gain a +1 bonus to your next [Agility](../core_rules/Character%20Creation.md#STEP%203) Roll.
+# Potion de foulée
+
+*(VO : Stride Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

@@ -1,11 +1,18 @@
-# Striking Serpent
+---
+aliases:
+  - "Striking Serpent"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Cobra, Rattlesnake, Viper, etc.)
+# Serpent foudroyant
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Finesse d8+4 phy*
+*(VO : Striking Serpent)*
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** climb, deceive, sprint
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Cobra, crotale, vipère, etc.)
 
-***Venomous Strike:*** Make an attack against any number of targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, a target is temporarily *Poisoned*. A *Poisoned* creature takes **1d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each time they act.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Finesse d8+4 phy*
 
-***Warning Hiss:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force any number of targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to move back to [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** grimper, tromper, piquer un sprint
+
+***Frappe venimeuse :*** Faites une attaque contre un nombre quelconque de cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, une cible est temporairement *Empoisonnée*. Une créature *Empoisonnée* subit **1d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs chaque fois qu’elle agit.
+
+***Sifflement d’avertissement :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour forcer un nombre quelconque de cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à reculer jusqu’à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

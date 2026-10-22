@@ -1,9 +1,16 @@
-# Advanced Twisted Dagger
+---
+aliases:
+  - "Advanced Twisted Dagger"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Dague tordue avancée
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+6 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Advanced Twisted Dagger)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Piercing:*** Damage dealt with this weapon treats the target’s [Major threshold](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) as having a −2 penalty.
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+6 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Perforant :*** Les dégâts infligés avec cette arme traitent le [seuil de dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) de la cible comme ayant un malus de −2.

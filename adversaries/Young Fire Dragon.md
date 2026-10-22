@@ -1,25 +1,32 @@
-# Young Fire Dragon
+---
+aliases:
+  - "Young Fire Dragon"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A crimson dragon with four powerful limbs and smoldering wings.*
+# Jeune dragon de feu
 
-**Motives & Tactics:** Burn, defend lair, erupt, fly, shred, take
+*(VO : Young Fire Dragon)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 21/34 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Bite & Claws:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d10 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un dragon cramoisi aux quatre membres puissants et aux ailes fumantes.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Burning Rage +3
+**Motivations et tactiques :** Brûler, défendre la tanière, entrer en éruption, voler, lacérer, s’emparer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 21/34 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Morsure et griffes :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d10 phy
 
-***Relentless (3) - Passive:*** The Dragon can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Rage brûlante +3
 
-***Intimidating - Passive:*** When you spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Dragon, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) or lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Flame Breath - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Dragon unleash a blast of flame against all targets in front of it within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **4d8+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) or take half damage. A target who marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from this attack also becomes *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they clear a HP.
+***Implacable (3) - Passif :*** Le dragon peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Eruption - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Dragon crack the earth open with its tail, unleashing an explosion of lava. Choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) on the line between the Dragon and the chosen point must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or get burned, becoming *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next rest. You gain a Fear for each PC who fails.
+***Intimidant - Passif :*** Quand vous dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) le dragon, chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou perdre un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Blazing Scales - Reaction:*** When a creature within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range attacks the Dragon, the attacker must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Souffle de flammes - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le dragon libère une bouffée de flammes sur toutes les cibles devant lui, à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **4d8+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou subir la moitié des dégâts. Une cible qui marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de cette attaque devient aussi *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle soigne un de ses PV marqués.
 
-***Slash and Burn - Reaction:*** When the Dragon makes a successful standard attack, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the attack deal an extra 10 [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Éruption - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le dragon fracasse le sol de sa queue et déclenche une explosion de lave. Choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) situé sur la ligne entre le dragon et le point choisi doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou être brûlé et devenir *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à son prochain repos. Vous gagnez une Peur pour chaque PJ qui échoue.
+
+***Écailles brûlantes - Réaction :*** Quand une créature située à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) attaque le dragon, l’attaquant doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Taillade et brûlure - Réaction :*** Quand le dragon réussit une attaque standard, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que l’attaque inflige 10 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) supplémentaires.

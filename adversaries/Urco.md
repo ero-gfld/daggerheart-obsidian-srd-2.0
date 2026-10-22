@@ -1,21 +1,21 @@
 # Urco
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A black-furred hound from beyond the veil of death that portends death and feeds on fear.*
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un limier au pelage noir venu de l’autre côté du voile de la mort, qui annonce la mort et se nourrit de peur.*
 
-**Motives & Tactics:** Feed, frighten, hunt
+**Motivations et tactiques :** Se nourrir, effrayer, chasser
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Black Fang:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 mag
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Croc noir :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 mag
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Omens +3, Stealth +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Présages +3, Discrétion +3
 
-## FEATURES
+## APTITUDES
 
-***Fearmonger - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Semeur d’effroi - Passif :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) échoue avec un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Terror-Fueled - Passive:*** The Urco gains a bonus to attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) you have.
+***Nourri de terreur - Passif :*** L’Urco gagne un bonus aux [jets d’attaque et de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous possédez.
 
-***Fear Eater - Action:*** **Spend any number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear the same number of [Stress](../core_rules/Core%20Mechanics.md#STRESS). If the Urco has no marked Stress, you can **spend any number of Fear** to clear the same number of [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Mangeur de peur - Action :*** **Dépensez un nombre quelconque de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effacer un nombre égal de [Stress](../core_rules/Core%20Mechanics.md#STRESS). Si l’Urco n’a aucun Stress marqué, vous pouvez **dépenser un nombre quelconque de Peur** pour effacer un nombre égal de [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Baleful Gaze - Reaction:*** When the Urco takes damage from an attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to cause the attacker’s [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to gain a −1 penalty until the end of the scene. This effect can stack.
+***Regard funeste - Réaction :*** Quand l’Urco subit des dégâts d’une attaque, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que les [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) de l’attaquant subissent une pénalité de −1 jusqu’à la fin de la scène. Cet effet se cumule.

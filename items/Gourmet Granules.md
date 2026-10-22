@@ -1,3 +1,10 @@
-# Gourmet Granules
+---
+aliases:
+  - "Gourmet Granules"
+---
 
-This savory powder makes any food it’s sprinkled on delicious and healthy, no matter how bland or rotten it is.
+# Granulés gourmets
+
+*(VO : Gourmet Granules)*
+
+Cette poudre savoureuse rend délicieux et sain tout aliment sur lequel on la saupoudre, qu’il soit fade ou avarié.

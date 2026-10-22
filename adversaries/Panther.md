@@ -1,17 +1,24 @@
-# Panther
+---
+aliases:
+  - "Panther"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A large feline predator that stalks its prey from the shadows.*
+# Panthère
 
-**Motives & Tactics:** Climb trees, pounce, stalk
+*(VO : Panther)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/10 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Teeth and Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un grand prédateur félin qui guette sa proie depuis l'ombre.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Keen Senses +3, Slink +3
+**Motivations et tactiques :** Grimper aux arbres, bondir, traquer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/10 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Crocs et griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+1 phy
 
-***Shadow Stalker - Passive:*** While *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*, the Panther gains a +2 bonus to its [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sens aiguisés +3, Filature +3
 
-***Pouncing Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Panther leap into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an attack against them. On a success, deal **1d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
+
+***Traqueur de l'ombre - Passif :*** Tant qu'elle est *[Cachée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, la Panthère gagne un bonus de +2 à ses [jets d'attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Bond fulgurant - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la Panthère bondisse à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d'une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et l'attaque. En cas de réussite, elle inflige **1d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

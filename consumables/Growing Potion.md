@@ -1,3 +1,10 @@
-# Growing Potion
+---
+aliases:
+  - "Growing Potion"
+---
 
-You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to [Strength](../core_rules/Character%20Creation.md#STEP%203) and a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Potion de croissance
+
+*(VO : Growing Potion)*
+
+Vous pouvez boire cette potion pour doubler votre taille jusqu’à ce que vous décidiez de quitter cette forme ou jusqu’à votre prochain repos. Sous cette forme, vous gagnez un bonus de +2 à votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) et un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).

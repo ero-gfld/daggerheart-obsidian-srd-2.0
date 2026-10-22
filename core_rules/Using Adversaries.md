@@ -1,719 +1,727 @@
-# Using Adversaries
+---
+aliases:
+  - "Using Adversaries"
+---
 
-#### ADVERSARY STAT BLOCKS
+# Utiliser les adversaires
 
-All the information required to run an adversary is contained in their stat block. An adversary’s stat block includes their:
+*(VO : Using Adversaries)*
 
-**NAME**
+#### PROFILS D’ADVERSAIRE
 
-Each stat block has a unique **name.** Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
+Toutes les informations nécessaires pour jouer un adversaire figurent dans son profil. Le profil d’un adversaire comprend :
 
-**TIER**
+**NOM**
 
-Each adversary is designed to oppose [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) of a certain **[tier](Core%20Mechanics.md#LEVELING%20UP).** If you confront the party with an adversary from another tier, adjust their stats.
+Chaque profil porte un **nom** unique. Les aptitudes qui visent les adversaires d’un certain nom concernent tous les adversaires qui utilisent ce profil, quel que soit leur nom dans l’histoire.
+
+**RANG**
+
+Chaque adversaire est conçu pour s’opposer à des [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) d’un certain **[rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU).** Si vous confrontez le groupe à un adversaire d’un autre rang, ajustez ses statistiques.
 
 **TYPE**
 
-The adversary’s type appears alongside their [tier](Core%20Mechanics.md#LEVELING%20UP). An adversary’s **type** represents the role they play in a conflict. The adversary types are:
+Le type de l’adversaire figure à côté de son [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU). Le **type** d’un adversaire représente le rôle qu’il joue dans un conflit. Les types d’adversaires sont les suivants :
 
-- **Bruisers:** tough; deliver powerful attacks.
+- **Cogneurs :** résistants, ils portent de puissantes attaques.
 
-- **Hordes:** groups of identical creatures acting together as a single unit.
+- **Hordes :** groupes de créatures identiques qui agissent ensemble comme une seule unité.
 
-***Note:*** *The number of creatures represented by each Hit* *Point in a horde's stat block is indicated by "X/[HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)." For* *example, a 2/HP horde with 3 HP represents a group* *of six.*
+***Note :*** *Le nombre de créatures que représente chaque Point de* *vie dans le profil d’une horde est indiqué par « X/[PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ». Par* *exemple, une horde 2/PV qui a 3 PV représente un groupe* *de six créatures.*
 
-- **Leaders:** command and summon other adversaries.
+- **Meneurs :** ils commandent et convoquent d’autres adversaires.
 
-- **Minions:** easily dispatched but dangerous in numbers.
+- **Sbires :** faciles à éliminer, mais dangereux en nombre.
 
-- **Ranged:** fragile in close encounters but deal high damage at range.
+- **Tireurs :** fragiles au corps à corps, mais ils infligent de lourds dégâts à distance.
 
-- **Skulks:** maneuver and exploit opportunities to ambush opponents.
+- **Furtifs :** ils manœuvrent et saisissent les occasions pour prendre leurs adversaires en embuscade.
 
-- **Socials:** present challenges around conversation instead of combat.
+- **Sociaux :** ils posent des défis autour de la conversation plutôt que du combat.
 
-- **Solos:** present a formidable challenge to a whole party, with or without support.
+- **Solos :** ils représentent un défi redoutable pour tout un groupe, avec ou sans soutien.
 
-- **Standards:** representative of their fictional group.
+- **Standards :** représentatifs de leur groupe dans la fiction.
 
-- **Supports:** enhance their allies and disrupt their opponents.
+- **Soutiens :** ils renforcent leurs alliés et perturbent leurs adversaires.
 
 **DESCRIPTION**
 
-A summary of the adversary's appearance and demeanor.
+Un résumé de l’apparence et du comportement de l’adversaire.
 
-**MOTIVES & TACTICS**
+**MOTIVATIONS ET TACTIQUES**
 
-Suggusted impulses, actions and goals for the adversary.
+Des pulsions, des actions et des objectifs suggérés pour l’adversaire.
 
-**DIFFICULTY**
+**DIFFICULTÉ**
 
-The [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of any roll made against the adversary, unless otherwise noted.
+La [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de tout jet effectué contre l’adversaire, sauf indication contraire.
 
-**[DAMAGE THRESHOLDS](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), HIT POINTS, AND STRESS**
+**[SEUILS DE DÉGÂTS](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), POINTS DE VIE ET STRESS**
 
-These systems function the same way they do for [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). The numbers listed after “[Threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)” are the adversary’s Major and Severe Thresholds.
+Ces systèmes fonctionnent comme pour les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Les nombres indiqués après « [Seuils](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) » sont les seuils majeur et sévère de l’adversaire.
 
-**ATTACK MODIFIER**
+**MODIFICATEUR D’ATTAQUE**
 
-When you attack with the adversary, apply this bonus or penalty to your [attack roll](Core%20Mechanics.md#ATTACKING).
+Lorsque vous attaquez avec l’adversaire, appliquez ce bonus ou ce malus à votre [jet d’attaque](Core%20Mechanics.md#ATTAQUER).
 
-**STANDARD ATTACK**
+**ATTAQUE STANDARD**
 
-A description of the adversary’s primary mode of inflicting harm on the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). It includes the attack’s **name,** its effective **range,** and the **damage** it deals on a success. Using an adversary’s **standard attack** is a [GM move](Making%20Moves.md).
+Une description du principal moyen qu’a l’adversaire de blesser les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Elle indique le **nom** de l’attaque, sa **portée** effective et les **dégâts** qu’elle inflige en cas de réussite. Utiliser l’**attaque standard** d’un adversaire est une [action du MJ](Making%20Moves.md).
 
-**EXPERIENCE (OPTIONAL)**
+**EXPÉRIENCE (FACULTATIVE)**
 
-The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to add an adversary’s relevant [Experience](Character%20Creation.md#STEP%207) to raise their [attack roll](Core%20Mechanics.md#ATTACKING) or increase the [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of a roll made against them.
+Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour ajouter l’[Expérience](Character%20Creation.md#%C3%89TAPE%207) pertinente d’un adversaire afin d’augmenter son [jet d’attaque](Core%20Mechanics.md#ATTAQUER) ou la [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) d’un jet effectué contre lui.
 
-**EXAMPLE EXPERIENCES:**
+**EXEMPLES D’EXPÉRIENCES :**
 
 |  |  |  |
 | --- | --- | --- |
-| Acrobatics | Hunt from Above | Navigation |
-| Ambusher | Intimidation | Nobility |
-| Bartering | Intrusion | Quick Reflexes |
-| Blademaster | Keen Senses | Socialite |
-| Bodyguard | Magical [Knowledge](Character%20Creation.md#STEP%203) | Stealth |
-| Commander | Nature’s Friend | Tracker |
+| Acrobaties | Chasse en piqué | Navigation |
+| Embusqué | Intimidation | Noblesse |
+| Marchandage | Effraction | Réflexes vifs |
+| Maître de la lame | Sens aiguisés | Mondain |
+| Garde du corps | [Savoir](Character%20Creation.md#%C3%89TAPE%203) magique | Discrétion |
+| Commandement | Ami de la nature | Pisteur |
 
-**FEATURE(S)**
+**APTITUDE(S)**
 
-There are three kinds of adversary features: **actions, reactions,** and **passives.** Note: each adversaries stress is tracked individually. If a feature requires the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to spend [Stress](Core%20Mechanics.md#STRESS) to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and put the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) on the adversary.
+Il existe trois sortes d’aptitudes d’adversaire : les **actions,** les **réactions** et les **passifs.** Remarque : le Stress de chaque adversaire est suivi individuellement. Si une aptitude exige que le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dépense du [Stress](Core%20Mechanics.md#STRESS) pour l’activer, ce Stress doit provenir de l’adversaire dont l’aptitude est activée. Si une aptitude exige de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR), celle-ci se dépense en plus de toute Peur déjà dépensée, par exemple pour interrompre les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et mettre l’adversaire sous les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS).
 
-- **Actions:** a special attack or other unique action that the adversary can perform when the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) is on them.
+- **Actions :** une attaque spéciale ou une autre action unique que l’adversaire peut accomplir lorsque les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) sont braqués sur lui.
 
-- **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) is on the adversary.
+- **Réactions :** des effets spéciaux qui se produisent lorsque leur déclencheur survient, que les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) soient ou non sur l’adversaire.
 
-- **Passives:** special abilities that remain in effect by default and require no resources or triggers to activate.
+- **Passifs :** des capacités spéciales qui restent actives par défaut et n’exigent ni ressource ni déclencheur.
 
-**[FEAR FEATURE](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)(S)**
+**[APTITUDE(S) DE PEUR](Core%20Mechanics.md#ACTIONS%20DU%20MJ%20ET%20ACTIONS%20DES%20ADVERSAIRES)**
 
-High-impact effects that cost a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to activate.
+Des effets à fort impact qui coûtent une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) à activer.
 
-**EXAMPLE ADVERSARY FEATURES:**
+**EXEMPLES D’APTITUDES D’ADVERSAIRE :**
 
 **ACTIONS**
 
-**Haymaker - Action:** Make an attack against a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal X direct [physical damage](Core%20Mechanics.md#ATTACKING).
+**Coup de massue - Action :** Faites une attaque contre une cible à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez X dégâts [physiques](Core%20Mechanics.md#ATTAQUER) directs.
 
-**Shredding Strike - Action:** Make an attack against a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal X [physical damage](Core%20Mechanics.md#ATTACKING) and the target must mark an [Armor Slot](Equipment.md#ARMOR) without gaining its benefit (they can still use armor to reduce the damage).
+**Frappe lacérante - Action :** Faites une attaque contre une cible à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez X dégâts [physiques](Core%20Mechanics.md#ATTAQUER) et la cible doit marquer un [Emplacement d’armure](Equipment.md#ARMURE) sans en tirer le bénéfice (elle peut tout de même utiliser son armure pour réduire les dégâts).
 
-**More Where That Came From - Action:** Summon three [Jagged Knife Lackeys](../adversaries/Jagged%20Knife%20Lackey.md), who appear at [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**Il y en a d’autres - Action :** Convoquez trois [Larbins du Couteau Ébréché](../adversaries/Jagged%20Knife%20Lackey.md), qui apparaissent à portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-**REACTIONS**
+**RÉACTIONS**
 
-**Heavy Hitter - Reaction:** When this adversary deals damage with a standard attack, you can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to gain a +X bonus to the [damage roll](Core%20Mechanics.md#ATTACKING).
+**Poids lourd - Réaction :** Lorsque cet adversaire inflige des dégâts avec une attaque standard, vous pouvez dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour obtenir un bonus de +X au [jet de dégâts](Core%20Mechanics.md#ATTAQUER).
 
-**Team-Up - Reaction:** When another adversary within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of this adversary deals X damage to a creature, you can mark a [Stress](Core%20Mechanics.md#STRESS) to make a standard attack against that same creature. On a success, combine the damage.
+**Travail d’équipe - Réaction :** Lorsqu’un autre adversaire à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de celui-ci inflige X dégâts à une créature, vous pouvez marquer un [Stress](Core%20Mechanics.md#STRESS) pour effectuer une attaque standard contre cette même créature. En cas de réussite, additionnez les dégâts.
 
-**Momentum - Reaction:** When this adversary makes a successful attack against a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR).
+**Élan - Réaction :** Lorsque cet adversaire réussit une attaque contre un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-**PASSIVES**
+**PASSIFS**
 
-**Horde (X) - Passive:** When the Horde has marked half or more of their [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals X damage instead.
+**Horde (X) - Passif :** Lorsque la Horde a marqué la moitié ou plus de ses [PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), son attaque standard inflige X dégâts à la place.
 
-**Minion (X) - Passive:** This adversary is defeated when they take any damage. For every X damage a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to this adversary, defeat an additional Minion within range the attack would succeed against.
+**Sbire (X) - Passif :** Cet adversaire est vaincu dès qu’il subit des dégâts. Pour chaque tranche de X dégâts qu’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) inflige à cet adversaire, vainquez un Sbire supplémentaire à portée contre lequel l’attaque réussirait.
 
-**Relentless (X) - Passive:** This adversary can be [spotlighted](Core%20Mechanics.md#THE%20SPOTLIGHT) up to X times per [GM turn](Making%20Moves.md). Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**Implacable (X) - Passif :** Cet adversaire peut être mis sous les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à X fois par [tour du MJ](Making%20Moves.md). Dépensez de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre sous les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS).
 
-**Slow - Passive:** When you [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) this adversary and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight this adversary and they have a token on their stat block, clear the token and they can act.
+**Lent - Passif :** Lorsque vous mettez cet adversaire sous les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) et qu’il n’a pas de jeton sur son profil, il ne peut pas encore agir. Placez un jeton sur son profil et décrivez ce qu’il prépare. Lorsque vous mettez cet adversaire sous les projecteurs et qu’il a un jeton sur son profil, retirez le jeton : il peut agir.
 
-**Arcane Form - Passive:** This adversary is resistant to [magic damage](Core%20Mechanics.md#ATTACKING).
+**Forme arcanique - Passif :** Cet adversaire résiste aux [dégâts magiques](Core%20Mechanics.md#ATTAQUER).
 
-**Armored Carapace - Passive:** When this adversary takes [physical damage](Core%20Mechanics.md#ATTACKING), reduce it by X.
+**Carapace blindée - Passif :** Lorsque cet adversaire subit des [dégâts physiques](Core%20Mechanics.md#ATTAQUER), réduisez-les de X.
 
-**[FEAR FEATURES](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)**
+**[APTITUDES DE PEUR](Core%20Mechanics.md#ACTIONS%20DU%20MJ%20ET%20ACTIONS%20DES%20ADVERSAIRES)**
 
-**Explosion - Action:** Spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to erupt in a fiery explosion. Make an attack against all targets within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the adversary succeeds against take X [magic damage](Core%20Mechanics.md#ATTACKING) and are knocked back to [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**Explosion - Action :** Dépensez une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour déclencher une explosion de flammes. Faites une attaque contre toutes les cibles à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles l’adversaire réussit subissent X [dégâts magiques](Core%20Mechanics.md#ATTAQUER) et sont projetées à portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-**POOL**
+**RÉSERVOIR**
 
-A pool is a collection of tokens shared by multiple adversaries. Each pool has a unique name, which is typically the name shared by the adversaries it affects. Unlike standard adversary tokens, pool tokens are not placed on a stat block; instead, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) collects them in a separate location. Pools are empty when the scene begins and cleared when the scene ends.
+Un réservoir est un ensemble de jetons partagés par plusieurs adversaires. Chaque réservoir porte un nom unique, qui est généralement le nom commun des adversaires qu’il concerne. Contrairement aux jetons d’adversaire ordinaires, les jetons d’un réservoir ne sont pas placés sur un profil : le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) les rassemble à part. Les réservoirs sont vides au début de la scène et vidés à sa fin.
 
-**EVOLUTION**
+**ÉVOLUTION**
 
-Evolutions are features that alter an adversary when certain trigger conditions are met. When triggered, an evolution feature usually clears [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](Core%20Mechanics.md#STRESS), alters the stats of the adversary’s standard attack, and gives the adversary access to new features. An adversary’s evolution can’t be triggered more than once in a scene.
+Les évolutions sont des aptitudes qui transforment un adversaire lorsque certaines conditions de déclenchement sont remplies. Une fois déclenchée, une aptitude d’évolution efface généralement des [PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou du [Stress](Core%20Mechanics.md#STRESS), modifie les statistiques de l’attaque standard de l’adversaire et lui donne accès à de nouvelles aptitudes. L’évolution d’un adversaire ne peut pas être déclenchée plus d’une fois par scène.
 
-### BUILDING BALANCED ENCOUNTERS
+### CONSTRUIRE DES AFFRONTEMENTS ÉQUILIBRÉS
 
-When planning a battle, start with **[(3 x the number of [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in combat) + 2] Battle Points** and make the following adjustments:
+Pour préparer un combat, commencez avec **[(3 x le nombre de [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) au combat) + 2] points de bataille** et appliquez les ajustements suivants :
 
-**−1** for an easier or shorter fight
+**−1** pour un combat plus facile ou plus court
 
-**−2** if you’re using 2 or more Solo adversaries
+**−2** si vous utilisez 2 adversaires Solos ou plus
 
-**−2** if you add +1d4 (or a static +2) to all adversaries’ [damage rolls](Core%20Mechanics.md#ATTACKING)
+**−2** si vous ajoutez +1d4 (ou un +2 fixe) aux [jets de dégâts](Core%20Mechanics.md#ATTAQUER) de tous les adversaires
 
-**+1** if you choose an adversary from a lower [tier](Core%20Mechanics.md#LEVELING%20UP)
+**+1** si vous choisissez un adversaire d’un [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) inférieur
 
-**+1** if you don’t include any Bruisers, Hordes, Leaders, or Solos
+**+1** si vous n’incluez aucun Cogneur, Horde, Meneur ou Solo
 
-**+2** for a harder or longer fight
+**+2** pour un combat plus difficile ou plus long
 
-Then spend your Battle Points to add an adversary to the encounter:
+Dépensez ensuite vos points de bataille pour ajouter des adversaires à l’affrontement :
 
-**Spend 1 point** for each group of Minions equal to the size of the party.
+**Dépensez 1 point** pour chaque groupe de Sbires égal en nombre au groupe de personnages.
 
-**Spend 1 point** for each Social or Support adversary.
+**Dépensez 1 point** pour chaque adversaire Social ou Soutien.
 
-**Spend 2 points** for each Horde, Ranged, Skulk, or Standard adversary.
+**Dépensez 2 points** pour chaque adversaire Horde, Tireur, Furtif ou Standard.
 
-**Spend 3 points** for each Leader adversary.
+**Dépensez 3 points** pour chaque adversaire Meneur.
 
-**Spend 4 points** for each Bruiser adversary.
+**Dépensez 4 points** pour chaque adversaire Cogneur.
 
-**Spend 5 points** for each Solo adversary.
+**Dépensez 5 points** pour chaque adversaire Solo.
 
-**DEFEATED ADVERSARIES**
+**ADVERSAIRES VAINCUS**
 
-When an adversary marks their last [Hit Point](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they are defeated: incapacitated, tied up, routed, killed, or anything else the table decides makes sense.
+Lorsqu’un adversaire marque son dernier [Point de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il est vaincu : neutralisé, ligoté, mis en déroute, tué, ou tout autre sort que la table juge cohérent.
 
-**ADVERSARY STAT BLOCK BENCHMARKS**
+**REPÈRES DE PROFIL D’ADVERSAIRE**
 
-| Adversary Statistic | [Tier 1](Core%20Mechanics.md#LEVELING%20UP) | [Tier 2](Core%20Mechanics.md#LEVELING%20UP) | [Tier 3](Core%20Mechanics.md#LEVELING%20UP) | [Tier 4](Core%20Mechanics.md#LEVELING%20UP) |
+| Statistique d’adversaire | [Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) | [Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) | [Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) | [Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) |
 | --- | --- | --- | --- | --- |
-| Attack Modifier | +1 | +2 | +3 | +4 |
-| Damage Dice | 1d6+2 to 1d12+4 | 2d6+3 to 2d12+4 | 3d8+3 to 3d12+5 | 4d8+10 to 4d12+15 |
-| [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) | 11 | 14 | 17 | 20 |
-| [Damage Thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) | Major 7/Severe 12 | Major 10/Severe 20 | Major 20/Severe 32 | Major 25/Severe 45 |
+| Modificateur d’attaque | +1 | +2 | +3 | +4 |
+| Dés de dégâts | 1d6+2 à 1d12+4 | 2d6+3 à 2d12+4 | 3d8+3 à 3d12+5 | 4d8+10 à 4d12+15 |
+| [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) | 11 | 14 | 17 | 20 |
+| [Seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) | Majeur 7/Sévère 12 | Majeur 10/Sévère 20 | Majeur 20/Sévère 32 | Majeur 25/Sévère 45 |
 
-#### ADVERSARIES BY TIER
+#### ADVERSAIRES PAR RANG
 
-This section contains the following stat blocks:
+Cette section contient les profils suivants :
 
-**TIER 1 (LEVEL 1)**
+**RANG 1 (NIVEAU 1)**
 
-- [Acid Burrower](../adversaries/Acid%20Burrower.md)
+
+- [Fouisseur acide](../adversaries/Acid%20Burrower.md)
 
 - [Ahuizotl](../adversaries/Ahuizotl.md)
 
 - [Atototl](../adversaries/Atototl.md)
 
-- [Bear](../adversaries/Bear.md)
+- [Ours](../adversaries/Bear.md)
 
-- [Bugboar](../adversaries/Bugboar.md)
+- [Sanglier-bogue](../adversaries/Bugboar.md)
 
-- [Cave Ogre](../adversaries/Cave%20Ogre.md)
+- [Ogre des cavernes](../adversaries/Cave%20Ogre.md)
 
-- [Common Ruffian](../adversaries/Common%20Ruffian.md)
+- [Voyou ordinaire](../adversaries/Common%20Ruffian.md)
 
-- [Construct](../adversaries/Construct.md)
+- [Automate](../adversaries/Construct.md)
 
-- [Courtier](../adversaries/Courtier.md)
+- [Courtisan](../adversaries/Courtier.md)
 
-- [Darkweave Crawler](../adversaries/Darkweave%20Crawler.md)
+- [Rampeur tisse-ténèbres](../adversaries/Darkweave%20Crawler.md)
 
-- [Darkweave Queen](../adversaries/Darkweave%20Queen.md)
+- [Reine tisse-ténèbres](../adversaries/Darkweave%20Queen.md)
 
-- [Darkweave Spinner](../adversaries/Darkweave%20Spinner.md)
+- [Fileur tisse-ténèbres](../adversaries/Darkweave%20Spinner.md)
 
-- [Darkweave Swarmlings](../adversaries/Darkweave%20Swarmlings.md)
+- [Essaim de jeunes tisse-ténèbres](../adversaries/Darkweave%20Swarmlings.md)
 
-- [Deeproot Defender](../adversaries/Deeproot%20Defender.md)
+- [Défenseur des racines profondes](../adversaries/Deeproot%20Defender.md)
 
-- [Dire Wolf](../adversaries/Dire%20Wolf.md)
+- [Loup redoutable](../adversaries/Dire%20Wolf.md)
 
-- [Elk](../adversaries/Elk.md)
+- [Wapiti](../adversaries/Elk.md)
 
-- [Falcon](../adversaries/Falcon.md)
+- [Faucon](../adversaries/Falcon.md)
 
-- [Giant Mosquitoes](../adversaries/Giant%20Mosquitoes.md)
+- [Moustiques géants](../adversaries/Giant%20Mosquitoes.md)
 
-- [Giant Rat](../adversaries/Giant%20Rat.md)
+- [Rat géant](../adversaries/Giant%20Rat.md)
 
-- [Giant Scorpion](../adversaries/Giant%20Scorpion.md)
+- [Scorpion géant](../adversaries/Giant%20Scorpion.md)
 
-- [Glass Snake](../adversaries/Glass%20Snake.md)
+- [Serpent de verre](../adversaries/Glass%20Snake.md)
 
-- [Grimmling Warband](../adversaries/Grimmling%20Warband.md)
+- [Bande de grimmlings](../adversaries/Grimmling%20Warband.md)
 
-- [Archer Guard](../adversaries/Archer%20Guard.md)
+- [Garde archer](../adversaries/Archer%20Guard.md)
 
-- [Bladed Guard](../adversaries/Bladed%20Guard.md)
+- [Garde à lames](../adversaries/Bladed%20Guard.md)
 
-- [Head Guard](../adversaries/Head%20Guard.md)
+- [Garde en chef](../adversaries/Head%20Guard.md)
 
-- [Harpy](../adversaries/Harpy.md)
+- [Harpie](../adversaries/Harpy.md)
 
-- [Harrier](../adversaries/Harrier.md)
+- [Harceleur](../adversaries/Harrier.md)
 
-- [Jagged Knife Bandit](../adversaries/Jagged%20Knife%20Bandit.md)
+- [Bandit des Lames dentelées](../adversaries/Jagged%20Knife%20Bandit.md)
 
-- [Jagged Knife Hexer](../adversaries/Jagged%20Knife%20Hexer.md)
+- [Envoûteur des Lames dentelées](../adversaries/Jagged%20Knife%20Hexer.md)
 
-- [Jagged Knife Kneebreaker](../adversaries/Jagged%20Knife%20Kneebreaker.md)
+- [Casse-genoux des Lames dentelées](../adversaries/Jagged%20Knife%20Kneebreaker.md)
 
-- [Jagged Knife Lackey](../adversaries/Jagged%20Knife%20Lackey.md)
+- [Laquais des Lames dentelées](../adversaries/Jagged%20Knife%20Lackey.md)
 
-- [Jagged Knife Lieutenant](../adversaries/Jagged%20Knife%20Lieutenant.md)
+- [Lieutenant des Lames dentelées](../adversaries/Jagged%20Knife%20Lieutenant.md)
 
-- [Jagged Knife Shadow](../adversaries/Jagged%20Knife%20Shadow.md)
+- [Ombre des Lames dentelées](../adversaries/Jagged%20Knife%20Shadow.md)
 
-- [Jagged Knife Sniper](../adversaries/Jagged%20Knife%20Sniper.md)
+- [Tireur d’élite des Lames dentelées](../adversaries/Jagged%20Knife%20Sniper.md)
 
 - [Kelpie](../adversaries/Kelpie.md)
 
 - [Masque Muerte](../adversaries/Masque%20Muerte.md)
 
-- [Mechanorb](../adversaries/Mechanorb.md)
+- [Mécanorbe](../adversaries/Mechanorb.md)
 
-- [Merchant](../adversaries/Merchant.md)
+- [Marchand](../adversaries/Merchant.md)
 
-- [Minor Chaos Elemental](../adversaries/Minor%20Chaos%20Elemental.md)
+- [Petit élémentaire du chaos](../adversaries/Minor%20Chaos%20Elemental.md)
 
-- [Minor Fire Elemental](../adversaries/Minor%20Fire%20Elemental.md)
+- [Petit élémentaire de feu](../adversaries/Minor%20Fire%20Elemental.md)
 
-- [Minor Demon](../adversaries/Minor%20Demon.md)
+- [Démon mineur](../adversaries/Minor%20Demon.md)
 
-- [Minor Treant](../adversaries/Minor%20Treant.md)
+- [Petit ent](../adversaries/Minor%20Treant.md)
 
-- [Mountain Troll](../adversaries/Mountain%20Troll.md)
+- [Troll des montagnes](../adversaries/Mountain%20Troll.md)
 
-- [Octopus](../adversaries/Octopus.md)
+- [Pieuvre](../adversaries/Octopus.md)
 
-- [Green Ooze](../adversaries/Green%20Ooze.md)
+- [Gelée verte](../adversaries/Green%20Ooze.md)
 
-- [Tiny Green Ooze](../adversaries/Tiny%20Green%20Ooze.md)
+- [Minuscule gelée verte](../adversaries/Tiny%20Green%20Ooze.md)
 
-- [Red Ooze](../adversaries/Red%20Ooze.md)
+- [Gelée rouge](../adversaries/Red%20Ooze.md)
 
-- [Tiny Red Ooze](../adversaries/Tiny%20Red%20Ooze.md)
+- [Minuscule gelée rouge](../adversaries/Tiny%20Red%20Ooze.md)
 
-- [Panther](../adversaries/Panther.md)
+- [Panthère](../adversaries/Panther.md)
 
-- [Petty Noble](../adversaries/Petty%20Noble.md)
+- [Petit noble](../adversaries/Petty%20Noble.md)
 
-- [Phantom](../adversaries/Phantom.md)
+- [Phantasme](../adversaries/Phantom.md)
 
-- [Pirate Captain](../adversaries/Pirate%20Captain.md)
+- [Capitaine corsaire](../adversaries/Pirate%20Captain.md)
 
-- [Pirate Raiders](../adversaries/Pirate%20Raiders.md)
+- [Maraudeurs corsaires](../adversaries/Pirate%20Raiders.md)
 
-- [Pirate Tough](../adversaries/Pirate%20Tough.md)
+- [Costaud corsaire](../adversaries/Pirate%20Tough.md)
 
 - [Poltergeist](../adversaries/Poltergeist.md)
 
-- [Rabble Mawb](../adversaries/Rabble%20Mawb.md)
+- [Populace mawb](../adversaries/Rabble%20Mawb.md)
 
-- [Redcap Biters](../adversaries/Redcap%20Biters.md)
+- [Mordeurs bonnet-rouge](../adversaries/Redcap%20Biters.md)
 
-- [Redcap Breaker](../adversaries/Redcap%20Breaker.md)
+- [Briseur bonnet-rouge](../adversaries/Redcap%20Breaker.md)
 
-- [Redcap Butcher](../adversaries/Redcap%20Butcher.md)
+- [Boucher bonnet-rouge](../adversaries/Redcap%20Butcher.md)
 
-- [Redcap Candlemaker](../adversaries/Redcap%20Candlemaker.md)
+- [Cirier bonnet-rouge](../adversaries/Redcap%20Candlemaker.md)
 
-- [Redcap Skinner](../adversaries/Redcap%20Skinner.md)
+- [Écorcheur bonnet-rouge](../adversaries/Redcap%20Skinner.md)
 
 - [Rugaru](../adversaries/Rugaru.md)
 
-- [Sawtoothed Gillbeast](../adversaries/Sawtoothed%20Gillbeast.md)
+- [Bête branchiale dentelée](../adversaries/Sawtoothed%20Gillbeast.md)
 
-- [Sellsword](../adversaries/Sellsword.md)
+- [Mercenaire](../adversaries/Sellsword.md)
 
-- [Skeleton Archer](../adversaries/Skeleton%20Archer.md)
+- [Squelette archer](../adversaries/Skeleton%20Archer.md)
 
-- [Skeleton Dredge](../adversaries/Skeleton%20Dredge.md)
+- [Squelette rampant](../adversaries/Skeleton%20Dredge.md)
 
-- [Skeleton Knight](../adversaries/Skeleton%20Knight.md)
+- [Squelette chevalier](../adversaries/Skeleton%20Knight.md)
 
-- [Skeleton Warrior](../adversaries/Skeleton%20Warrior.md)
+- [Squelette guerrier](../adversaries/Skeleton%20Warrior.md)
 
-- [Soul-Shattered Mage](../adversaries/Soul-Shattered%20Mage.md)
+- [Mage à l’âme brisée](../adversaries/Soul-Shattered%20Mage.md)
 
-- [Spellblade](../adversaries/Spellblade.md)
+- [Lame-sort](../adversaries/Spellblade.md)
 
-- [Spellbound Armor](../adversaries/Spellbound%20Armor.md)
+- [Armure ensorcelée](../adversaries/Spellbound%20Armor.md)
 
-- [Swarm of Rats](../adversaries/Swarm%20of%20Rats.md)
+- [Nuée de rats](../adversaries/Swarm%20of%20Rats.md)
 
-- [Sylvan Soldier](../adversaries/Sylvan%20Soldier.md)
+- [Soldat sylvain](../adversaries/Sylvan%20Soldier.md)
 
-- [Tangle Bramble Swarm](../adversaries/Tangle%20Bramble%20Swarm.md)
+- [Essaim de ronces entremêlées](../adversaries/Tangle%20Bramble%20Swarm.md)
 
-- [Tangle Bramble](../adversaries/Tangle%20Bramble.md)
+- [Ronce entremêlée](../adversaries/Tangle%20Bramble.md)
 
-- [Viper](../adversaries/Viper.md)
+- [Vipère](../adversaries/Viper.md)
 
-- [Waxwork Creation](../adversaries/Waxwork%20Creation.md)
+- [Créature de cire](../adversaries/Waxwork%20Creation.md)
 
-- [Weaponmaster](../adversaries/Weaponmaster.md)
+- [Maître d’armes](../adversaries/Weaponmaster.md)
 
-- Will-o’-the-Wisps
+- Feux follets
 
-- [Young Dryad](../adversaries/Young%20Dryad.md)
+- [Jeune dryade](../adversaries/Young%20Dryad.md)
 
 - [Yufo](../adversaries/Yufo.md)
 
-- [Brawny Zombie](../adversaries/Brawny%20Zombie.md)
+- [Zombie balèze](../adversaries/Brawny%20Zombie.md)
 
-- [Patchwork Zombie Hulk](../adversaries/Patchwork%20Zombie%20Hulk.md)
+- [Zombie colosse rapiécé](../adversaries/Patchwork%20Zombie%20Hulk.md)
 
-- [Rotted Zombie](../adversaries/Rotted%20Zombie.md)
+- [Zombie pourri](../adversaries/Rotted%20Zombie.md)
 
-- [Shambling Zombie](../adversaries/Shambling%20Zombie.md)
+- [Zombie traînant](../adversaries/Shambling%20Zombie.md)
 
-- [Zombie Pack](../adversaries/Zombie%20Pack.md)
+- [Meute de zombies](../adversaries/Zombie%20Pack.md)
 
-**TIER 2 (LEVELS 2–4)**
+**RANG 2 (NIVEAUX 2–4)**
 
-- [Archer Squadron](../adversaries/Archer%20Squadron.md)
+- [Escadron d’archers](../adversaries/Archer%20Squadron.md)
 
-- [Apprentice Assassin](../adversaries/Apprentice%20Assassin.md)
+- [Apprenti assassin](../adversaries/Apprentice%20Assassin.md)
 
-- [Assassin Poisoner](../adversaries/Assassin%20Poisoner.md)
+- [Assassin empoisonneur](../adversaries/Assassin%20Poisoner.md)
 
-- [Master Assassin](../adversaries/Master%20Assassin.md)
+- [Maître assassin](../adversaries/Master%20Assassin.md)
 
 - [Banshee](../adversaries/Banshee.md)
 
-- [Basilisk](../adversaries/Basilisk.md)
+- [Basilic](../adversaries/Basilisk.md)
 
-- [Battle Box](../adversaries/Battle%20Box.md)
+- [Boîte de combat](../adversaries/Battle%20Box.md)
 
-- [Berserker Alpha](../adversaries/Berserker%20Alpha.md)
+- [Berserker alpha](../adversaries/Berserker%20Alpha.md)
 
-- [Berserker Initiate](../adversaries/Berserker%20Initiate.md)
+- [Berserker initié](../adversaries/Berserker%20Initiate.md)
 
-- [Centaur Warden](../adversaries/Centaur%20Warden.md)
+- [Centaure gardien](../adversaries/Centaur%20Warden.md)
 
-- [Chaos Skull](../adversaries/Chaos%20Skull.md)
+- [Crâne du chaos](../adversaries/Chaos%20Skull.md)
 
-- [Chicken-Foot Hut](../adversaries/Chicken-Foot%20Hut.md)
+- [Hutte aux pattes de poule](../adversaries/Chicken-Foot%20Hut.md)
 
-- [Conscript](../adversaries/Conscript.md)
+- [Conscrit](../adversaries/Conscript.md)
 
-- [Courtesan](../adversaries/Courtesan.md)
+- [Courtisane](../adversaries/Courtesan.md)
 
-- [Cult Adept](../adversaries/Cult%20Adept.md)
+- [Adepte du culte](../adversaries/Cult%20Adept.md)
 
-- [Cult Fang](../adversaries/Cult%20Fang.md)
+- [Croc du culte](../adversaries/Cult%20Fang.md)
 
-- [Cult Initiate](../adversaries/Cult%20Initiate.md)
+- [Initié du culte](../adversaries/Cult%20Initiate.md)
 
-- [Demonic Hound Pack](../adversaries/Demonic%20Hound%20Pack.md)
+- [Meute de chiens démoniaques](../adversaries/Demonic%20Hound%20Pack.md)
 
-- [Dire Pangolati](../adversaries/Dire%20Pangolati.md)
+- [Pangolati redoutable](../adversaries/Dire%20Pangolati.md)
 
-- [Doppelhound](../adversaries/Doppelhound.md)
+- [Chien-double](../adversaries/Doppelhound.md)
 
-- [Dragon Knight](../adversaries/Dragon%20Knight.md)
+- [Chevalier dragon](../adversaries/Dragon%20Knight.md)
 
-- [Electric Eels](../adversaries/Electric%20Eels.md)
+- [Anguilles électriques](../adversaries/Electric%20Eels.md)
 
-- [Elephant](../adversaries/Elephant.md)
+- [Éléphant](../adversaries/Elephant.md)
 
-- [Elite Soldier](../adversaries/Elite%20Soldier.md)
+- [Soldat d’élite](../adversaries/Elite%20Soldier.md)
 
-- [Entombed Cat Beast](../adversaries/Entombed%20Cat%20Beast.md)
+- [Bête-chat des tombes](../adversaries/Entombed%20Cat%20Beast.md)
 
-- [Entombed Elite Guard](../adversaries/Entombed%20Elite%20Guard.md)
+- [Garde d’élite des tombes](../adversaries/Entombed%20Elite%20Guard.md)
 
-- [Entombed Empress](../adversaries/Entombed%20Empress.md)
+- [Impératrice des tombes](../adversaries/Entombed%20Empress.md)
 
-- [Entombed Necropriest](../adversaries/Entombed%20Necropriest.md)
+- [Nécroprêtre des tombes](../adversaries/Entombed%20Necropriest.md)
 
-- [Entombed Skin Beetles](../adversaries/Entombed%20Skin%20Beetles.md)
+- [Scarabées de peau des tombes](../adversaries/Entombed%20Skin%20Beetles.md)
 
-- [Entombed Stonemason](../adversaries/Entombed%20Stonemason.md)
+- [Maçon des tombes](../adversaries/Entombed%20Stonemason.md)
 
-- [Failed Experiment](../adversaries/Failed%20Experiment.md)
+- [Expérience ratée](../adversaries/Failed%20Experiment.md)
 
-- [Flock of Feather Fiends](../adversaries/Flock%20of%20Feather%20Fiends.md)
+- [Volée de démons à plumes](../adversaries/Flock%20of%20Feather%20Fiends.md)
 
-- [Fowlbear](../adversaries/Fowlbear.md)
+- [Ours-volaille](../adversaries/Fowlbear.md)
 
-- [Fungispunj Sporeling](../adversaries/Fungispunj%20Sporeling.md)
+- [Germe fungispunj](../adversaries/Fungispunj%20Sporeling.md)
 
-- [Fungispunj Sporophore](../adversaries/Fungispunj%20Sporophore.md)
+- [Sporophore fungispunj](../adversaries/Fungispunj%20Sporophore.md)
 
-- [Gargoyle](../adversaries/Gargoyle.md)
+- [Gargouille](../adversaries/Gargoyle.md)
 
-- [Giant Beastmaster](../adversaries/Giant%20Beastmaster.md)
+- [Maître-dresseur géant](../adversaries/Giant%20Beastmaster.md)
 
-- [Giant Brawler](../adversaries/Giant%20Brawler.md)
+- [Bagarreur géant](../adversaries/Giant%20Brawler.md)
 
-- [Giant Eagle](../adversaries/Giant%20Eagle.md)
+- [Aigle géant](../adversaries/Giant%20Eagle.md)
 
-- [Giant Octopus](../adversaries/Giant%20Octopus.md)
+- [Pieuvre géante](../adversaries/Giant%20Octopus.md)
 
-- [Giant Recruit](../adversaries/Giant%20Recruit.md)
+- [Recrue géante](../adversaries/Giant%20Recruit.md)
 
-- [Gobstalker](../adversaries/Gobstalker.md)
+- [Traqueur gobelin](../adversaries/Gobstalker.md)
 
-- [Gorgon](../adversaries/Gorgon.md)
+- [Gorgone](../adversaries/Gorgon.md)
 
-- [Guahalan Alebrujo](../adversaries/Guahalan%20Alebrujo.md)
+- [Alebrujo guahalan](../adversaries/Guahalan%20Alebrujo.md)
 
-- [Guahalan Fang Lord](../adversaries/Guahalan%20Fang%20Lord.md)
+- [Seigneur des crocs guahalan](../adversaries/Guahalan%20Fang%20Lord.md)
 
-- [Guahalan Shifter](../adversaries/Guahalan%20Shifter.md)
+- [Métamorphe guahalan](../adversaries/Guahalan%20Shifter.md)
 
-- [Guahalan Spirit Beast](../adversaries/Guahalan%20Spirit%20Beast.md)
+- [Bête-esprit guahalan](../adversaries/Guahalan%20Spirit%20Beast.md)
 
-- [Guahalan Spirit Singer](../adversaries/Guahalan%20Spirit%20Singer.md)
+- [Chanteur d’esprits guahalan](../adversaries/Guahalan%20Spirit%20Singer.md)
 
-- [Hill Titan](../adversaries/Hill%20Titan.md)
+- [Titan des collines](../adversaries/Hill%20Titan.md)
 
-- [Hive Walker](../adversaries/Hive%20Walker.md)
+- [Marcheur de la ruche](../adversaries/Hive%20Walker.md)
 
-- Jack-o’-Lantern
+- Jack-o’-lantern
 
-- [Juvenile Flickerfly](../adversaries/Juvenile%20Flickerfly.md)
+- [Papillon scintillant juvénile](../adversaries/Juvenile%20Flickerfly.md)
 
-- [Knight of the Realm](../adversaries/Knight%20of%20the%20Realm.md)
+- [Chevalier du royaume](../adversaries/Knight%20of%20the%20Realm.md)
 
-- [Landshark](../adversaries/Landshark.md)
+- [Requin terrestre](../adversaries/Landshark.md)
 
-- [Landshark Behemoth](../adversaries/Landshark%20Behemoth.md)
+- [Béhémoth requin terrestre](../adversaries/Landshark%20Behemoth.md)
 
-- [Masked Thief](../adversaries/Masked%20Thief.md)
+- [Voleur masqué](../adversaries/Masked%20Thief.md)
 
-- [Merchant Baron](../adversaries/Merchant%20Baron.md)
+- [Baron marchand](../adversaries/Merchant%20Baron.md)
 
-- [Minotaur Wrecker](../adversaries/Minotaur%20Wrecker.md)
+- [Minotaure destructeur](../adversaries/Minotaur%20Wrecker.md)
 
-- [Mortal Hunter](../adversaries/Mortal%20Hunter.md)
+- [Chasseur mortel](../adversaries/Mortal%20Hunter.md)
 
-- [Ravenous Mockery](../adversaries/Ravenous%20Mockery.md)
+- [Moquerie vorace](../adversaries/Ravenous%20Mockery.md)
 
-- [Royal Advisor](../adversaries/Royal%20Advisor.md)
+- [Conseiller royal](../adversaries/Royal%20Advisor.md)
 
-- [Rust Eater](../adversaries/Rust%20Eater.md)
+- [Mangeur de rouille](../adversaries/Rust%20Eater.md)
 
-- [Scarecrow](../adversaries/Scarecrow.md)
+- [Épouvantail](../adversaries/Scarecrow.md)
 
-- [Secret-Keeper](../adversaries/Secret-Keeper.md)
+- [Gardien des secrets](../adversaries/Secret-Keeper.md)
 
-- [Shark](../adversaries/Shark.md)
+- [Requin](../adversaries/Shark.md)
 
-- [Siren](../adversaries/Siren.md)
+- [Sirène](../adversaries/Siren.md)
 
-- [Spectral Archer](../adversaries/Spectral%20Archer.md)
+- [Archer spectral](../adversaries/Spectral%20Archer.md)
 
-- [Spectral Captain](../adversaries/Spectral%20Captain.md)
+- [Capitaine spectral](../adversaries/Spectral%20Captain.md)
 
-- [Spectral Guardian](../adversaries/Spectral%20Guardian.md)
+- [Gardien spectral](../adversaries/Spectral%20Guardian.md)
 
-- [Sprite](../adversaries/Sprite.md)
+- [Lutin](../adversaries/Sprite.md)
 
-- [Spy](../adversaries/Spy.md)
+- [Espion](../adversaries/Spy.md)
 
-- [Stone Titan](../adversaries/Stone%20Titan.md)
+- [Titan de pierre](../adversaries/Stone%20Titan.md)
 
-- [Stonewraith](../adversaries/Stonewraith.md)
+- [Spectre de pierre](../adversaries/Stonewraith.md)
 
-- [Triceratops](../adversaries/Triceratops.md)
+- [Tricératops](../adversaries/Triceratops.md)
 
-- [Tyrannosaurus](../adversaries/Tyrannosaurus.md)
+- [Tyrannosaure](../adversaries/Tyrannosaurus.md)
 
 - [Urco](../adversaries/Urco.md)
 
 - [Valdenhax](../adversaries/Valdenhax.md)
 
-- [War Wizard](../adversaries/War%20Wizard.md)
+- [Magicien de guerre](../adversaries/War%20Wizard.md)
 
-**TIER 3 (LEVELS 5–7)**
+**RANG 3 (NIVEAUX 5–7)**
 
-- [Adult Flickerfly](../adversaries/Adult%20Flickerfly.md)
+- [Papillon scintillant adulte](../adversaries/Adult%20Flickerfly.md)
 
-- [Archmage](../adversaries/Archmage.md)
+- [Archimage](../adversaries/Archmage.md)
 
 - [Catrin](../adversaries/Catrin.md)
 
-- [Chimera](../adversaries/Chimera.md)
+- [Chimère](../adversaries/Chimera.md)
 
-- [Crimson Lepus](../adversaries/Crimson%20Lepus.md)
+- [Lièvre cramoisi](../adversaries/Crimson%20Lepus.md)
 
-- [Cryptimoth](../adversaries/Cryptimoth.md)
+- [Phalène des cryptes](../adversaries/Cryptimoth.md)
 
-- [Cursed Merfolk](../adversaries/Cursed%20Merfolk.md)
+- [Homme-poisson maudit](../adversaries/Cursed%20Merfolk.md)
 
-- [Deep Dweller](../adversaries/Deep%20Dweller.md)
+- [Habitant des abysses](../adversaries/Deep%20Dweller.md)
 
-- [Demon of Avarice](../adversaries/Demon%20of%20Avarice.md)
+- [Démon de l’Avarice](../adversaries/Demon%20of%20Avarice.md)
 
-- [Demon of Despair](../adversaries/Demon%20of%20Despair.md)
+- [Démon du Désespoir](../adversaries/Demon%20of%20Despair.md)
 
-- [Demon of Hubris](../adversaries/Demon%20of%20Hubris.md)
+- [Démon de l’Orgueil](../adversaries/Demon%20of%20Hubris.md)
 
-- [Demon of Jealousy](../adversaries/Demon%20of%20Jealousy.md)
+- [Démon de la Jalousie](../adversaries/Demon%20of%20Jealousy.md)
 
-- [Demon of Wrath](../adversaries/Demon%20of%20Wrath.md)
+- [Démon du Courroux](../adversaries/Demon%20of%20Wrath.md)
 
-- [Dire Bat](../adversaries/Dire%20Bat.md)
+- [Chauve-souris redoutable](../adversaries/Dire%20Bat.md)
 
 - [Drake](../adversaries/Drake.md)
 
-- [Dryad](../adversaries/Dryad.md)
+- [Dryade](../adversaries/Dryad.md)
 
 - [Dullahan](../adversaries/Dullahan.md)
 
-- [Elemental Spark](../adversaries/Elemental%20Spark.md)
+- [Étincelle élémentaire](../adversaries/Elemental%20Spark.md)
 
-- [Fellmounted Shadow King](../adversaries/Fellmounted%20Shadow%20King.md)
+- [Roi des ombres monté](../adversaries/Fellmounted%20Shadow%20King.md)
 
-- [Fire Titan](../adversaries/Fire%20Titan.md)
+- [Titan de feu](../adversaries/Fire%20Titan.md)
 
-- [Frost Titan](../adversaries/Frost%20Titan.md)
+- [Titan de givre](../adversaries/Frost%20Titan.md)
 
-- [Gargantuan Sea Turtle](../adversaries/Gargantuan%20Sea%20Turtle.md)
+- [Tortue de mer gigantesque](../adversaries/Gargantuan%20Sea%20Turtle.md)
 
-- [Greater Earth Elemental](../adversaries/Greater%20Earth%20Elemental.md)
+- [Grand élémentaire de terre](../adversaries/Greater%20Earth%20Elemental.md)
 
-- [Greater Water Elemental](../adversaries/Greater%20Water%20Elemental.md)
+- [Grand élémentaire d’eau](../adversaries/Greater%20Water%20Elemental.md)
 
-- [Huge Green Ooze](../adversaries/Huge%20Green%20Ooze.md)
+- [Gelée verte géante](../adversaries/Huge%20Green%20Ooze.md)
 
-- [Hydra](../adversaries/Hydra.md)
+- [Hydre](../adversaries/Hydra.md)
 
 - [Lamia](../adversaries/Lamia.md)
 
-- [Lamplight Beguiler](../adversaries/Lamplight%20Beguiler.md)
+- [Enjôleur à la lanterne](../adversaries/Lamplight%20Beguiler.md)
 
 - [Manticore](../adversaries/Manticore.md)
 
-- [Monarch](../adversaries/Monarch.md)
+- [Monarque](../adversaries/Monarch.md)
 
-- [Night Children](../adversaries/Night%20Children.md)
+- [Enfants de la nuit](../adversaries/Night%20Children.md)
 
-- [Pain Priest](../adversaries/Pain%20Priest.md)
+- [Prêtre de la douleur](../adversaries/Pain%20Priest.md)
 
-- [Phoenix](../adversaries/Phoenix.md)
+- [Phénix](../adversaries/Phoenix.md)
 
-- [Plesiosaurus](../adversaries/Plesiosaurus.md)
+- [Plésiosaure](../adversaries/Plesiosaurus.md)
 
 - [Roc](../adversaries/Roc.md)
 
-- [Sandwyrm](../adversaries/Sandwyrm.md)
+- [Ver des sables](../adversaries/Sandwyrm.md)
 
-- [Shapeshifting Fiend](../adversaries/Shapeshifting%20Fiend.md)
+- [Démon métamorphe](../adversaries/Shapeshifting%20Fiend.md)
 
-- [Shapeshifting Fiend Revealed](../adversaries/Shapeshifting%20Fiend%20Revealed.md)
+- [Démon métamorphe dévoilé](../adversaries/Shapeshifting%20Fiend%20Revealed.md)
 
-- [Stag Knight](../adversaries/Stag%20Knight.md)
+- [Chevalier-cerf](../adversaries/Stag%20Knight.md)
 
-- [Storm Titan](../adversaries/Storm%20Titan.md)
+- [Titan de tempête](../adversaries/Storm%20Titan.md)
 
-- [Oak Treant](../adversaries/Oak%20Treant.md)
+- [Ent-chêne](../adversaries/Oak%20Treant.md)
 
-- [Treant Sapling](../adversaries/Treant%20Sapling.md)
+- [Jeune ent](../adversaries/Treant%20Sapling.md)
 
-- [Unicorn](../adversaries/Unicorn.md)
+- [Licorne](../adversaries/Unicorn.md)
 
-- [Head Vampire](../adversaries/Head%20Vampire.md)
+- [Vampire-chef](../adversaries/Head%20Vampire.md)
 
 - [Vampire](../transformations/Vampire.md)
 
-- [Vampire Bat Swarm](../adversaries/Vampire%20Bat%20Swarm.md)
+- [Essaim de chauves-souris vampires](../adversaries/Vampire%20Bat%20Swarm.md)
 
-- [Vampire Lord](../adversaries/Vampire%20Lord.md)
+- [Seigneur vampire](../adversaries/Vampire%20Lord.md)
 
-- [Vault Guardian Gaoler](../adversaries/Vault%20Guardian%20Gaoler.md)
+- [Geôlier de la Voûte](../adversaries/Vault%20Guardian%20Gaoler.md)
 
-- [Vault Guardian Sentinel](../adversaries/Vault%20Guardian%20Sentinel.md)
+- [Sentinelle de la Voûte](../adversaries/Vault%20Guardian%20Sentinel.md)
 
-- [Vault Guardian Turret](../adversaries/Vault%20Guardian%20Turret.md)
+- [Tourelle de la Voûte](../adversaries/Vault%20Guardian%20Turret.md)
 
-- [Viscera Sucker](../adversaries/Viscera%20Sucker.md)
+- [Suceur de viscères](../adversaries/Viscera%20Sucker.md)
 
-- [Whisper Wraith](../adversaries/Whisper%20Wraith.md)
+- [Spectre murmurant](../adversaries/Whisper%20Wraith.md)
 
-- [Wyvern](../adversaries/Wyvern.md)
+- [Vouivre](../adversaries/Wyvern.md)
 
-- [Young Fire Dragon](../adversaries/Young%20Fire%20Dragon.md)
+- [Jeune dragon de feu](../adversaries/Young%20Fire%20Dragon.md)
 
-- [Young Ice Dragon](../adversaries/Young%20Ice%20Dragon.md)
+- [Jeune dragon de glace](../adversaries/Young%20Ice%20Dragon.md)
 
-**TIER 4 (LEVELS 8–10)**
+**RANG 4 (NIVEAUX 8–10)**
 
-- [Arch-Necromancer](../adversaries/Arch-Necromancer.md)
+- [Archinécromant](../adversaries/Arch-Necromancer.md)
 
-- [Cephilith Abomination](../adversaries/Cephilith%20Abomination.md)
+- [Abomination cephilith](../adversaries/Cephilith%20Abomination.md)
 
-- [Cephilith Hatchling](../adversaries/Cephilith%20Hatchling.md)
+- [Éclos cephilith](../adversaries/Cephilith%20Hatchling.md)
 
-- [Cephilith Novitiate](../adversaries/Cephilith%20Novitiate.md)
+- [Novice cephilith](../adversaries/Cephilith%20Novitiate.md)
 
-- [Cephilith Priest](../adversaries/Cephilith%20Priest.md)
+- [Prêtre cephilith](../adversaries/Cephilith%20Priest.md)
 
-- [Cephilith Titan](../adversaries/Cephilith%20Titan.md)
+- [Titan cephilith](../adversaries/Cephilith%20Titan.md)
 
 - [Cipactli](../adversaries/Cipactli.md)
 
-- [Cloud Titan](../adversaries/Cloud%20Titan.md)
+- [Titan des nuages](../adversaries/Cloud%20Titan.md)
 
-- [Demon Lord Berzug](../adversaries/Demon%20Lord%20Berzug.md)
+- [Seigneur-démon Berzug](../adversaries/Demon%20Lord%20Berzug.md)
 
-- [Dragon Mother Mitera](../adversaries/Dragon%20Mother%20Mitera.md)
+- [Mère-dragon Mitera](../adversaries/Dragon%20Mother%20Mitera.md)
 
-- [Fallen Shock Troop](../adversaries/Fallen%20Shock%20Troop.md)
+- [Troupe de choc déchue](../adversaries/Fallen%20Shock%20Troop.md)
 
-- [Fallen Sorcerer](../adversaries/Fallen%20Sorcerer.md)
+- [Sorcier déchu](../adversaries/Fallen%20Sorcerer.md)
 
-- Fallen Warlord: [Realm-Breaker](../adversaries/Realm-Breaker.md)
+- Seigneur de guerre déchu : [Briseur de royaumes](../adversaries/Realm-Breaker.md)
 
-- Fallen Warlord: [Undefeated Champion](../adversaries/Undefeated%20Champion.md)
+- Seigneur de guerre déchu : [Champion invaincu](../adversaries/Undefeated%20Champion.md)
 
-- [Fire Titan Warlord](../adversaries/Fire%20Titan%20Warlord.md)
+- [Seigneur de guerre titan de feu](../adversaries/Fire%20Titan%20Warlord.md)
 
-- [Gargantuan War Machine](../adversaries/Gargantuan%20War%20Machine.md)
+- [Machine de guerre gigantesque](../adversaries/Gargantuan%20War%20Machine.md)
 
-- [Ghastly Legion](../adversaries/Ghastly%20Legion.md)
+- [Légion macabre](../adversaries/Ghastly%20Legion.md)
 
-- [Griffin](../adversaries/Griffin.md)
+- [Griffon](../adversaries/Griffin.md)
 
-- [Hallowed Archer](../adversaries/Hallowed%20Archer.md)
+- [Archer sanctifié](../adversaries/Hallowed%20Archer.md)
 
-- [Hallowed Choir](../adversaries/Hallowed%20Choir.md)
+- [Chœur sanctifié](../adversaries/Hallowed%20Choir.md)
 
-- [Hallowed Soldier](../adversaries/Hallowed%20Soldier.md)
+- [Soldat sanctifié](../adversaries/Hallowed%20Soldier.md)
 
-- [Harbinger of Death](../adversaries/Harbinger%20of%20Death.md)
+- [Avant-coureur de la Mort](../adversaries/Harbinger%20of%20Death.md)
 
-- [Harbinger of Famine](../adversaries/Harbinger%20of%20Famine.md)
+- [Avant-coureur de la Famine](../adversaries/Harbinger%20of%20Famine.md)
 
-- [Harbinger of Pestilence](../adversaries/Harbinger%20of%20Pestilence.md)
+- [Avant-coureur de la Pestilence](../adversaries/Harbinger%20of%20Pestilence.md)
 
-- [Harbinger of War](../adversaries/Harbinger%20of%20War.md)
+- [Avant-coureur de la Guerre](../adversaries/Harbinger%20of%20War.md)
 
-- [High Seraph](../adversaries/High%20Seraph.md)
+- [Haut séraphin](../adversaries/High%20Seraph.md)
 
 - [Kraken](../adversaries/Kraken.md)
 
-- [Oracle of Doom](../adversaries/Oracle%20of%20Doom.md)
+- [Oracle de la perdition](../adversaries/Oracle%20of%20Doom.md)
 
-- [Outer Realms Abomination](../adversaries/Outer%20Realms%20Abomination.md)
+- [Abomination des royaumes extérieurs](../adversaries/Outer%20Realms%20Abomination.md)
 
-- [Outer Realms Corruptor](../adversaries/Outer%20Realms%20Corruptor.md)
+- [Corrupteur des royaumes extérieurs](../adversaries/Outer%20Realms%20Corruptor.md)
 
-- [Outer Realms Thrall](../adversaries/Outer%20Realms%20Thrall.md)
+- [Serviteur des royaumes extérieurs](../adversaries/Outer%20Realms%20Thrall.md)
 
-- [Owl Witch](../adversaries/Owl%20Witch.md)
+- [Sorcière-hibou](../adversaries/Owl%20Witch.md)
 
-- [Ruby Dragon](../adversaries/Ruby%20Dragon.md)
+- [Dragon de rubis](../adversaries/Ruby%20Dragon.md)
 
-- [Severed Shadow](../adversaries/Severed%20Shadow.md)
+- [Ombre tranchée](../adversaries/Severed%20Shadow.md)
 
-- [Supreme Demiurge Adonix](../adversaries/Supreme%20Demiurge%20Adonix.md)
+- [Démiurge suprême Adonix](../adversaries/Supreme%20Demiurge%20Adonix.md)
 
-- [Temporal Enforcer](../adversaries/Temporal%20Enforcer.md)
+- [Exécuteur temporel](../adversaries/Temporal%20Enforcer.md)
 
-- Volcanic Dragon: [Obsidian Predator](../adversaries/Obsidian%20Predator.md)
+- Dragon volcanique : [Prédateur d’obsidienne](../adversaries/Obsidian%20Predator.md)
 
-- Volcanic Dragon: [Molten Scourge](../adversaries/Molten%20Scourge.md)
+- Dragon volcanique : [Fléau en fusion](../adversaries/Molten%20Scourge.md)
 
-- Volcanic Dragon: [Ashen Tyrant](../adversaries/Ashen%20Tyrant.md)
+- Dragon volcanique : [Tyran des cendres](../adversaries/Ashen%20Tyrant.md)
 
-- [Water Mother](../adversaries/Water%20Mother.md)
+- [Mère des eaux](../adversaries/Water%20Mother.md)
 
-- [Wyrmfiend](../adversaries/Wyrmfiend.md)
+- [Démon-ver](../adversaries/Wyrmfiend.md)
 
-- [Wyrmlings](../adversaries/Wyrmlings.md)
+- [Vermisseaux](../adversaries/Wyrmlings.md)
 
-- [Xero the Castle Killer](../adversaries/Xero%20the%20Castle%20Killer.md)
+- [Xero le Tueur de châteaux](../adversaries/Xero%20the%20Castle%20Killer.md)
 
-- [Perfected Zombie](../adversaries/Perfected%20Zombie.md)
+- [Zombie parfait](../adversaries/Perfected%20Zombie.md)
 
-- [Zombie Legion](../adversaries/Zombie%20Legion.md)
+- [Légion de zombies](../adversaries/Zombie%20Legion.md)

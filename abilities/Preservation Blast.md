@@ -1,5 +1,12 @@
-# Preservation Blast
+---
+aliases:
+  - "Preservation Blast"
+---
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Déflagration de préservation
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against all targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets you succeed against are forced back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and take **d8+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+*(VO : Preservation Blast)*
+
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre toutes les cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles vous réussissez sont repoussées à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et subissent **d8+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), en utilisant votre [Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) comme caractéristique.

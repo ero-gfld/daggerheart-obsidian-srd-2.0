@@ -1,5 +1,12 @@
-# Pick and Pull
+---
+aliases:
+  - "Pick and Pull"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Tirer et arracher
 
-You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force).
+*(VO : Pick and Pull)*
+
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Vous avez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les [jets d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour crocheter des serrures non magiques, désamorcer des pièges non magiques ou dérober des objets à une cible (par la discrétion ou par la force).

@@ -1,21 +1,28 @@
-# Demon of Wrath
+---
+aliases:
+  - "Demon of Wrath"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A hulking demon with boulder-sized fists, driven by endless rage.*
+# Démon du Courroux
 
-**Motives & Tactics:** Fuel anger, impress rivals, wreak havoc
+*(VO : Demon of Wrath)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 22/40 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Fists:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+1 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Démon massif aux poings gros comme des rochers, mû par une colère sans fin.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Intimidation +2
+**Motivations et tactiques :** Attiser la colère, impressionner les rivaux, semer le ravage
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 22/40 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Poings :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+1 mag
 
-***Anger Unrelenting - Passive:*** The Demon’s attacks deal [direct damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Intimidation +2
 
-***Battle Lust - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to boil the blood of all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. They use a d20 as their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) until the end of the scene.
+## APTITUDES
 
-***Retaliation - Reaction:*** When the Demon takes damage from an attack within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against the attacker.
+***Colère implacable - Passif :*** Les attaques du démon infligent des [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Blood and Souls - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 6)*. Activate the first time an attack is made within sight of the Demon. It ticks down when a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes a violent action. When it triggers, summon **1d4** [Minor Demons](Minor%20Demon.md), who appear at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Soif de bataille - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour embraser le sang de tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Ils utilisent un d20 comme [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) jusqu’à la fin de la scène.
+
+***Représailles - Réaction :*** Quand le démon subit des dégâts d’une attaque à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour porter une attaque standard contre l’attaquant.
+
+***Sang et âmes - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (boucle 6)*. Activé la première fois qu’une attaque est faite dans le champ de vision du démon. Il descend quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) commet une action violente. Quand il se déclenche, invoquez **1d4** [démons mineurs](Minor%20Demon.md), qui apparaissent à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

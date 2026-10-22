@@ -1,412 +1,419 @@
-# Making Moves
+---
+aliases:
+  - "Making Moves"
+---
 
-As the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you have **GM moves** that change the story in response to the players’ actions. GM moves aren’t bound by specific spells or effects—when you make a GM move, you can describe the action in whatever way the fiction demands.
+# Les actions du MJ
 
-GM moves happen during **GM turns.** A GM turn begins when the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) passes to them and ends when the spotlight passes back to the players.
+*(VO : Making Moves)*
 
-**WHEN TO MAKE A MOVE**
+En tant que [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous disposez d’**actions du MJ** qui font évoluer l’histoire en réponse aux actes des joueurs. Les actions du MJ ne sont liées à aucun sort ni effet précis : quand vous en faites une, vous pouvez la décrire comme la fiction l’exige.
 
-The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can make a GM move whenever you want, but the frequency and severity depends on the type of story you’re telling, the actions your players take, and the tone of the session you’re running.
+Les actions du MJ ont lieu pendant les **tours du MJ.** Un tour du MJ commence quand les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) passent à lui et s’achève quand ils reviennent aux joueurs.
 
-Make a GM move when the players:
+**QUAND FAIRE UNE ACTION**
 
-- Roll with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)
+Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut faire une action du MJ quand il le souhaite, mais la fréquence et la gravité dépendent du type d’histoire que vous racontez, des actes de vos joueurs et du ton de la séance que vous menez.
 
-- Fail an [action roll](Core%20Mechanics.md#ACTION%20ROLLS)
+Faites une action du MJ quand les joueurs :
 
-- Do something that has unavoidable consequences
+- Font un jet avec la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)
 
-- Give you a “golden opportunity” (an opening that demands an immediate response)
+- Échouent à un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION)
 
-- Look to you for what happens next
+- Font quelque chose qui a des conséquences inévitables
 
-**CHOOSING GM MOVES**
+- Vous offrent une « occasion en or » (une ouverture qui exige une réponse immédiate)
 
-The result of a player’s [action roll](Core%20Mechanics.md#ACTION%20ROLLS) determines your response:
+- Se tournent vers vous pour savoir ce qui se passe ensuite
 
-On a **[Critical Success](Core%20Mechanics.md#OVERVIEW),** you let the player describe their success, then give them an additional opportunity or [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+**CHOISIR LES ACTIONS DU MJ**
 
-On a **[Success with Hope](Core%20Mechanics.md#OVERVIEW),** you let the player describe their success, then you show how the world reacts to it.
+Le résultat du [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) d’un joueur détermine votre réponse :
 
-On a **[Success with Fear](Core%20Mechanics.md#OVERVIEW),** you work with the player to describe their success, then take a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) and make a GM move to introduce a minor consequence, complication, or cost:
+Sur une **[Réussite critique](Core%20Mechanics.md#APER%C3%87U),** vous laissez le joueur décrire sa réussite, puis vous lui offrez une occasion supplémentaire ou un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-- An [adversary](Using%20Adversaries.md) attacks
+Sur un **[Succès avec Espoir](Core%20Mechanics.md#APER%C3%87U),** vous laissez le joueur décrire sa réussite, puis vous montrez comment le monde y réagit.
 
-- The [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) marks a [Stress](Core%20Mechanics.md#STRESS)
+Sur un **[Succès avec la Peur](Core%20Mechanics.md#APER%C3%87U),** vous décrivez la réussite avec le joueur, puis vous gagnez une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et faites une action du MJ pour introduire une conséquence, une complication ou un coût mineur :
 
-- You introduce a new threat
+- Un [adversaire](Using%20Adversaries.md) attaque
 
-- You raise the stakes of the conflict
+- Le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) marque un [Stress](Core%20Mechanics.md#STRESS)
 
-On a **[Failure with Hope](Core%20Mechanics.md#OVERVIEW),** you describe how the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails to get what they want, then make a GM move to introduce a minor consequence, complication, or cost:
+- Vous introduisez une nouvelle menace
 
-- An [adversary](Using%20Adversaries.md) attacks
+- Vous relevez les enjeux du conflit
 
-- The [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) marks a [Stress](Core%20Mechanics.md#STRESS)
+Sur un **[Échec avec Espoir](Core%20Mechanics.md#APER%C3%87U),** vous décrivez comment le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) n’obtient pas ce qu’il veut, puis vous faites une action du MJ pour introduire une conséquence, une complication ou un coût mineur :
 
-- You introduce a new threat
+- Un [adversaire](Using%20Adversaries.md) attaque
 
-- You raise the stakes of the conflict
+- Le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) marque un [Stress](Core%20Mechanics.md#STRESS)
 
-**On a [Failure with Fear](Core%20Mechanics.md#OVERVIEW),** you describe how things go wrong, then make a GM move to introduce a major consequence, complication, or cost:
+- Vous introduisez une nouvelle menace
 
-- You put them in immediate danger
+- Vous relevez les enjeux du conflit
 
-- They become the focus of multiple [adversaries](Using%20Adversaries.md)
+**Sur un [Échec avec la Peur](Core%20Mechanics.md#APER%C3%87U),** vous décrivez comment les choses tournent mal, puis vous faites une action du MJ pour introduire une conséquence, une complication ou un coût majeur :
 
-- They are separated from their party
+- Vous le mettez en danger immédiat
 
-- They lose an important opportunity for good.
+- Il devient la cible de plusieurs [adversaires](Using%20Adversaries.md)
 
-**QUICK REFERENCE:** RESOLVING [ACTION ROLLS](Core%20Mechanics.md#ACTION%20ROLLS)
+- Il est séparé de son groupe
 
-*If you’re unsure how to resolve a roll, think about these quick* *phrases:*
+- Il perd une occasion importante de faire le bien.
 
-**[Success with Hope](Core%20Mechanics.md#OVERVIEW):** Yes, and… (You get what you want and gain a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR).)
+**AIDE-MÉMOIRE :** RÉSOUDRE LES [JETS D’ACTION](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION)
 
-**[Success with Fear](Core%20Mechanics.md#OVERVIEW):** Yes, but… (You get what you want, but there’s a consequence, and the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR).)
+*Si vous hésitez sur la façon de résoudre un jet, pensez à ces* *formules rapides :*
 
-**[Failure with Hope](Core%20Mechanics.md#OVERVIEW):** No, but… (Things don’t go as planned, but you gain a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR).)
+**[Succès avec Espoir](Core%20Mechanics.md#APER%C3%87U) :** Oui, et… (Vous obtenez ce que vous voulez et vous gagnez un [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).)
 
-**[Failure with Fear](Core%20Mechanics.md#OVERVIEW):** No, and… (Things don’t go as planned and it gets worse. The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR).)
+**[Succès avec la Peur](Core%20Mechanics.md#APER%C3%87U) :** Oui, mais… (Vous obtenez ce que vous voulez, mais il y a une conséquence, et le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) gagne une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).)
 
-If the move you should make is not obvious from the fiction, draw inspiration from the “Example GM Moves” list:
+**[Échec avec Espoir](Core%20Mechanics.md#APER%C3%87U) :** Non, mais… (Les choses ne se passent pas comme prévu, mais vous gagnez un [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).)
 
-- Introduce a new obstacle or enemy
+**[Échec avec la Peur](Core%20Mechanics.md#APER%C3%87U) :** Non, et… (Les choses ne se passent pas comme prévu et la situation empire. Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) gagne une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).)
 
-- Ask the player what happens
+Si l’action à faire ne s’impose pas d’elle-même d’après la fiction, inspirez-vous de la liste « Exemples d’actions du MJ » :
 
-- Have the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) mark a [Stress](Core%20Mechanics.md#STRESS)
+- Introduire un nouvel obstacle ou un nouvel ennemi
 
-- Tell the players “everything is fine… for now.”
+- Demander au joueur ce qui se passe
 
-**SOFT AND HARD MOVES**
+- Faire marquer un [Stress](Core%20Mechanics.md#STRESS) à un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)
 
-**Soft moves** go easier on the players—they give the party new information about the scene and offer them an opportunity to react to it. **Hard moves** are harsher, more impactful, or more direct—the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) don’t get an opening to interrupt, alter, or anticipate the outcome.
+- Dire aux joueurs que « tout va bien… pour l’instant ».
 
-Use softer moves on rolls with [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) and harder moves on rolls with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR).
+**ACTIONS DOUCES ET ACTIONS DURES**
 
-**Example GM Moves**
+Les **actions douces** sont plus clémentes envers les joueurs : elles donnent au groupe de nouvelles informations sur la scène et lui offrent l’occasion d’y réagir. Les **actions dures** sont plus rudes, plus lourdes de conséquences ou plus directes : les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) n’ont aucune ouverture pour interrompre, modifier ou anticiper le résultat.
 
-- Show how the world reacts
+Privilégiez les actions plus douces sur les jets avec [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et les actions plus dures sur les jets avec la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-- Ask a question and build on the answer
+**Exemples d’actions du MJ**
 
-- Make an [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS) act in accordance with their motive
+- Montrer comment le monde réagit
 
-- Drive a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to take action by dangling their goals in front of them
+- Poser une question et s’appuyer sur la réponse
 
-- Signal an imminent off-screen threat
+- Faire agir un [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) conformément à sa motivation
 
-- Reveal an unwelcome truth or unexpected danger
+- Pousser un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à agir en lui faisant miroiter ses objectifs
 
-- Force the group to split up
+- Annoncer une menace imminente hors champ
 
-- Make a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) mark [Stress](Core%20Mechanics.md#STRESS)
+- Révéler une vérité désagréable ou un danger inattendu
 
-- Make a move the characters don’t see
+- Forcer le groupe à se séparer
 
-- Show the collateral damage
+- Faire marquer du [Stress](Core%20Mechanics.md#STRESS) à un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)
 
-- Clear an [adversary](Using%20Adversaries.md)’s condition
+- Faire une action que les personnages ne voient pas
 
-- Shift the [environment](Using%20Environments.md)
+- Montrer les dégâts collatéraux
 
-- [Spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) an [adversary](Using%20Adversaries.md)
+- Retirer un état à un [adversaire](Using%20Adversaries.md)
 
-- Capture someone or something important
+- Modifier l’[environnement](Using%20Environments.md)
 
-- Use a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s backstory against them
+- Mettre un [adversaire](Using%20Adversaries.md) [sous les projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS)
 
-- Take away an opportunity permanently.
+- Capturer quelqu’un ou quelque chose d’important
 
-#### USING FEAR
+- Retourner l’historique d’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) contre lui
 
-You start a campaign with 1 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) per [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the party.
+- Retirer définitivement une occasion.
 
-You gain [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) whenever a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls with Fear, the PCs take a rest (see: [Downtime](Core%20Mechanics.md#DOWNTIME)), or when an ability or effect tells you to.
+#### UTILISER LA PEUR
 
-You can never have more than 12 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) at one time.
+Vous commencez une campagne avec 1 [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) par [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dans le groupe.
 
-[Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) carries over between sessions.
+Vous gagnez de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) chaque fois qu’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fait un jet avec la Peur, que les PJ prennent un repos (voir : [Temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS)), ou quand une capacité ou un effet vous l’indique.
 
-Spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to:
+Vous ne pouvez jamais avoir plus de 12 [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) à la fois.
 
-- Interrupt the players to steal the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) and make a move
+La [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) se conserve d’une séance à l’autre.
 
-- Make an additional GM move
+Dépensez une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour :
 
-- Use an [adversary](Using%20Adversaries.md)’s [Fear Feature](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)
+- Interrompre les joueurs afin de vous emparer des [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) et de faire une action
 
-- Use an [environment](Using%20Environments.md)’s [Fear Feature](Core%20Mechanics.md#GM%20MOVES%20AND%20ADVERSARY%20ACTIONS)
+- Faire une action supplémentaire du MJ
 
-- Add an [adversary](Using%20Adversaries.md)’s [Experience](Character%20Creation.md#STEP%207) to a roll
+- Utiliser l’[aptitude de Peur](Core%20Mechanics.md#ACTIONS%20DU%20MJ%20ET%20ACTIONS%20DES%20ADVERSAIRES) d’un [adversaire](Using%20Adversaries.md)
 
-The dramatic tension of a scene correlates with the amount of [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) you spend during it. For guidance on how much Fear you should spend in a scene, consult the following table:
+- Utiliser l’[aptitude de Peur](Core%20Mechanics.md#ACTIONS%20DU%20MJ%20ET%20ACTIONS%20DES%20ADVERSAIRES) d’un [environnement](Using%20Environments.md)
+
+- Ajouter l’[Expérience](Character%20Creation.md#%C3%89TAPE%207) d’un [adversaire](Using%20Adversaries.md) à un jet
+
+La tension dramatique d’une scène est proportionnelle à la quantité de [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous y dépensez. Pour savoir combien de Peur dépenser dans une scène, consultez le tableau suivant :
 
 |  |  |  |
 | --- | --- | --- |
-| **Incidental** | A catch-up between [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) after an emotionally charged scene; gathering information; resupplying at a local market; resting during [downtime](Core%20Mechanics.md#DOWNTIME). | 0–1 [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) |
-| **Minor** | A travel sequence; a minor skirmish that introduces new foes or signals future trouble. | 1–3 Fear |
-| **Standard** | A substantial battle with a notable objective; perilous travel that tests might and wit; a tense social encounter seeking crucial information or aid. | 2–4 Fear |
-| **Major** | A large battle with a [Solo](Using%20Adversaries.md) or Leader [adversary](Using%20Adversaries.md); a character-defining scene with a significant change to a character’s personal story (such as revelation, growth, and betrayal). | 4–8 Fear |
-| **Climactic** | A major confrontation with the villain of a story arc; an epic set piece battle; a judicial duel to determine an important [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s fate. | 6–12 Fear |
+| **Accessoire** | Des retrouvailles entre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) après une scène chargée d’émotion ; la collecte d’informations ; un réapprovisionnement au marché local ; un repos pendant le [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS). | 0–1 [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) |
+| **Mineure** | Une séquence de voyage ; une escarmouche mineure qui introduit de nouveaux ennemis ou annonce de futurs ennuis. | 1–3 Peur |
+| **Standard** | Une bataille importante avec un objectif notable ; un voyage périlleux qui met à l’épreuve la force et l’esprit ; une rencontre sociale tendue visant à obtenir une information ou une aide cruciale. | 2–4 Peur |
+| **Majeure** | Une grande bataille contre un [adversaire](Using%20Adversaries.md) [Solo](Using%20Adversaries.md) ou Meneur ; une scène qui définit un personnage, avec un changement important dans son histoire personnelle (comme une révélation, une évolution ou une trahison). | 4–8 Peur |
+| **Paroxystique** | Une confrontation majeure avec le méchant d’un arc narratif ; une bataille épique en décor grandiose ; un duel judiciaire qui détermine le sort d’un [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) important. | 6–12 Peur |
 
-If you find yourself with a **large amount of [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR),** consider:
+Si vous vous retrouvez avec **beaucoup de [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR),** envisagez de :
 
-- **Spending Fast:** Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) before the players have a chance to react
+- **Dépenser vite :** dépensez de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) avant que les joueurs aient le temps de réagir
 
-- **Spending Often:** Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) every time the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) swings to you
+- **Dépenser souvent :** dépensez de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) chaque fois que les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) se tournent vers vous
 
-- **Spending Big:** Spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to make multiple moves in a row
+- **Dépenser gros :** dépensez de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour enchaîner plusieurs actions
 
-Spending [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to make a move communicates the increased impact of your action. Fear moves often include one or more of these elements:
+Dépenser de la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour faire une action signale que votre geste a plus d’impact. Les actions de Peur comportent souvent un ou plusieurs de ces éléments :
 
-- Introducing new [adversaries](Using%20Adversaries.md) to a scene when their appearance hasn’t been foreshadowed or lacks context.
+- L’introduction de nouveaux [adversaires](Using%20Adversaries.md) dans une scène alors que leur apparition n’a pas été annoncée ou manque de contexte.
 
-- An [adversary](Using%20Adversaries.md) activating a powerful spell or [transformation](Transformations.md) to deal [massive damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or boost their capabilities.
+- Un [adversaire](Using%20Adversaries.md) qui active un sort puissant ou une [transformation](Transformations.md) pour infliger des [dégâts massifs](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou accroître ses capacités.
 
-- An [environment](Using%20Environments.md) exerting a strong negative effect on the party.
+- Un [environnement](Using%20Environments.md) qui exerce un fort effet négatif sur le groupe.
 
-#### DIFFICULTY BENCHMARKS
+#### REPÈRES DE DIFFICULTÉ
 
-The [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of an [attack roll](Core%20Mechanics.md#ATTACKING) against an [adversary](Using%20Adversaries.md) is equal to the adversary’s Difficulty score. The Difficulty of any other [action rolls](Core%20Mechanics.md#ACTION%20ROLLS) against an adversary is equal to the adversary’s Difficulty score, plus (if applicable) the value of one of the adversary relevant [Experience](Character%20Creation.md#STEP%207) modifiers.
+La [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) d’un [jet d’attaque](Core%20Mechanics.md#ATTAQUER) contre un [adversaire](Using%20Adversaries.md) est égale à la Difficulté de cet adversaire. La Difficulté de tout autre [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) contre un adversaire est égale à sa Difficulté, plus (le cas échéant) la valeur de l’un des modificateurs d’[Expérience](Character%20Creation.md#%C3%89TAPE%207) pertinents de l’adversaire.
 
-When a player makes an [action roll](Core%20Mechanics.md#ACTION%20ROLLS) without a specified [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS), the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) sets the Difficulty according to the totality of the circumstances. Refer to the following benchmark table for more guidance:
+Quand un joueur fait un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) sans [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) précisée, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fixe la Difficulté d’après l’ensemble des circonstances. Pour vous guider, reportez-vous au tableau de repères suivant :
 
-#### AGILITY
+#### AGILITÉ
 
-| roll | sprint | leap | Maneuver |
+| jet | sprint | saut | manœuvre |
 | --- | --- | --- | --- |
-| **5** | Sprint within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range across an open field with an enemy present. | Make a running jump of half your height (about 3 feet for a human). | Walk slowly across a narrow beam. |
-| **10** | Sprint within [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range across an open field with an enemy present. | Make a running jump of your height (about 6 feet for a human). | Walk quickly across a narrow beam. |
-| **15** | Sprint within Close range across rough terrain with an enemy present. | Make a running jump of double your height (about 12 feet for a human). | Run across a narrow beam. |
-| **20** | Sprint within Close range through an active battle of multiple enemies. | Make a running jump of three times your height (about 18 feet for a human). | Run across a narrow beam in heavy wind. |
-| **25** | Sprint within Far range through a pitched battle in rough terrain. | Make a running jump of five times your height (about 30 feet for a human). | Run across a very narrow beam in an active rainstorm. |
-| **30** | Sprint across the heads of your enemies in a pitched battle. | Make a running jump of ten times your height (about 60 feet for a human). | Run across an inch-wide, oil-slicked beam in an active rainstorm. |
+| **5** | Sprinter à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à travers un champ découvert en présence d’un ennemi. | Faire un saut avec élan d’une hauteur égale à la moitié de votre taille (environ 3 pieds pour un humain). | Marcher lentement sur une poutre étroite. |
+| **10** | Sprinter à portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à travers un champ découvert en présence d’un ennemi. | Faire un saut avec élan d’une hauteur égale à votre taille (environ 6 pieds pour un humain). | Marcher vite sur une poutre étroite. |
+| **15** | Sprinter à portée Proche à travers un terrain accidenté en présence d’un ennemi. | Faire un saut avec élan d’une hauteur égale au double de votre taille (environ 12 pieds pour un humain). | Courir sur une poutre étroite. |
+| **20** | Sprinter à portée Proche au cœur d’une bataille opposant plusieurs ennemis. | Faire un saut avec élan d’une hauteur égale à trois fois votre taille (environ 18 pieds pour un humain). | Courir sur une poutre étroite par grand vent. |
+| **25** | Sprinter à portée Loin au cœur d’une bataille rangée sur un terrain accidenté. | Faire un saut avec élan d’une hauteur égale à cinq fois votre taille (environ 30 pieds pour un humain). | Courir sur une poutre très étroite sous une pluie battante. |
+| **30** | Sprinter sur la tête de vos ennemis au cœur d’une bataille rangée. | Faire un saut avec élan d’une hauteur égale à dix fois votre taille (environ 60 pieds pour un humain). | Courir sur une poutre huilée large d’un pouce sous une pluie battante. |
 
-#### STRENGTH
+#### FORCE
 
-| roll | lift | smash | grapple |
+| jet | soulever | fracasser | maîtriser |
 | --- | --- | --- | --- |
-| **5** | Lift a chair. | Destroy a glass cup. | Subdue a child. |
-| **10** | Lift a table or small chest. | Destroy a small wooden table. | Subdue a weak adult. |
-| **15** | Lift a grown person or large chest. | Break through a wooden door. | Subdue an average adult. |
-| **20** | Lift the side of a laden cart or carry a large chest up stairs. | Break through a stone wall. | Subdue a skilled wrestler. |
-| **25** | Lift a horse, an ox, or a large monster. | Break through a dragon’s teeth. | Subdue a large beast. |
-| **30** | Lift a falling portcullis gate. | Break a god’s grip. | Subdue a legendary beast. |
+| **5** | Soulever une chaise. | Détruire une coupe en verre. | Maîtriser un enfant. |
+| **10** | Soulever une table ou un petit coffre. | Détruire une petite table en bois. | Maîtriser un adulte faible. |
+| **15** | Soulever un adulte ou un grand coffre. | Enfoncer une porte en bois. | Maîtriser un adulte moyen. |
+| **20** | Soulever le flanc d’une charrette chargée ou porter un grand coffre dans un escalier. | Percer un mur de pierre. | Maîtriser un lutteur aguerri. |
+| **25** | Soulever un cheval, un bœuf ou un grand monstre. | Briser les dents d’un dragon. | Maîtriser une grande bête. |
+| **30** | Soulever une herse qui retombe. | Briser l’étreinte d’un dieu. | Maîtriser une bête légendaire. |
 
 #### FINESSE
 
-| roll | control | hide | tinker |
+| jet | maîtriser sa monture | se cacher | bricoler |
 | --- | --- | --- | --- |
-| **5** | Ride a horse through easy terrain. | Evade notice under full cover on a moonless night. | Open a sticky lock with the appropriate key. |
-| **10** | Drive an ox-pulled cart. | Evade notice in limited cover on a moonless night. | Open a simple puzzle box. |
-| **15** | Ride a horse through rough terrain. | Evade notice in limited cover on an average night. | Disable a standard trap. |
-| **20** | Drive a cart through rough terrain. | Evade notice in the shadows on an average night. | Disable a complicated trap. |
-| **25** | Ride a wild horse through dangerous terrain. | Evade notice with minimal cover in ample light. | Open a door secured by a sequence of elaborate locks. |
-| **30** | Ride an enraged beast through dangerous terrain. | Evade notice with no cover in full daylight. | Disable an incredibly sensitive and deadly trap. |
+| **5** | Monter un cheval sur un terrain facile. | Échapper aux regards à couvert total par une nuit sans lune. | Ouvrir une serrure qui coince avec la clé adaptée. |
+| **10** | Conduire une charrette tirée par un bœuf. | Échapper aux regards avec un couvert limité par une nuit sans lune. | Ouvrir une boîte à énigme simple. |
+| **15** | Monter un cheval sur un terrain accidenté. | Échapper aux regards avec un couvert limité par une nuit ordinaire. | Désamorcer un piège standard. |
+| **20** | Conduire une charrette sur un terrain accidenté. | Échapper aux regards dans l’ombre par une nuit ordinaire. | Désamorcer un piège compliqué. |
+| **25** | Monter un cheval sauvage sur un terrain dangereux. | Échapper aux regards avec un couvert minimal en pleine lumière. | Ouvrir une porte protégée par une succession de serrures élaborées. |
+| **30** | Monter une bête enragée sur un terrain dangereux. | Échapper aux regards sans aucun couvert en plein jour. | Désamorcer un piège d’une sensibilité et d’une dangerosité extrêmes. |
 
 #### INSTINCT
 
-| roll | perceive | sense | navigate |
+| jet | percevoir | sentir | s’orienter |
 | --- | --- | --- | --- |
-| **5** | Hear a loud noise twenty paces away. | Detect an obvious ambush or notice an obvious deception. | Follow a well-trod path in good lighting and weather. |
-| **10** | Hear a speaking voice fifty paces away. | Detect a looming threat or notice an average person’s lies. | Follow an average path in good lighting and weather. |
-| **15** | Hear someone walking in the woods fifty paces away. | Detect hostile intent from a foe or see through a merchant’s lies. | Follow a subtle path through rough conditions. |
-| **20** | Hear someone sneaking through the woods fifty paces away. | Detect a politician’s veiled hostility or detect a nearby assassin. | Follow a subtle path through harsh conditions. |
-| **25** | Hear a prowling animal fifty paces away. | Identify a spymaster’s plot or read a politican’s true intentions. | Find your way with no path through dangerous conditions. |
-| **30** | Hear a diving bird a hundred paces away. | Sense a shred of doubt within a god’s pronouncement. | Find your way through a trickery god’s maze. |
+| **5** | Entendre un bruit fort à vingt pas. | Détecter une embuscade évidente ou remarquer une tromperie évidente. | Suivre un chemin bien tracé par beau temps et en bonne lumière. |
+| **10** | Entendre une voix qui parle à cinquante pas. | Détecter une menace imminente ou remarquer les mensonges d’une personne ordinaire. | Suivre un chemin ordinaire par beau temps et en bonne lumière. |
+| **15** | Entendre quelqu’un marcher dans les bois à cinquante pas. | Détecter l’intention hostile d’un adversaire ou percer à jour les mensonges d’un marchand. | Suivre un chemin discret dans des conditions difficiles. |
+| **20** | Entendre quelqu’un se faufiler dans les bois à cinquante pas. | Détecter l’hostilité voilée d’un politicien ou repérer un assassin tout proche. | Suivre un chemin discret dans des conditions rudes. |
+| **25** | Entendre un animal rôder à cinquante pas. | Démasquer le complot d’un maître espion ou lire les véritables intentions d’un politicien. | Trouver votre route sans chemin dans des conditions dangereuses. |
+| **30** | Entendre un oiseau plonger à cent pas. | Déceler une once de doute dans le décret d’un dieu. | Trouver votre route dans le labyrinthe d’un dieu fourbe. |
 
-#### PRESENCE
+#### PRÉSENCE
 
-| roll | charm | perform | deceive |
+| jet | charmer | se produire | tromper |
 | --- | --- | --- | --- |
-| **5** | Win the trust of a friendly neighbor. | Earn a meal from a friendly crowd. | Trick a trusting acquaintance. |
-| **10** | Win the trust of a friendly stranger. | Earn room and board in a small town or impress a small crowd. | Trick an average stranger. |
-| **15** | Win the trust of a cautious stranger or talk your way into a noble’s party. | Earn room and board in a low-end tavern or impress a large crowd. | Trick an average merchant. |
-| **20** | Win the trust of a sympathetic foe or talk your way into an enemy’s party. | Earn lodging in a high-end tavern or impress a full theater. | Trick a trained courtier. |
-| **25** | Turn an enemy against their ruler or talk your way into a fae court. | Earn your keep in a royal court or impress a full colosseum. | Trick a spymaster. |
-| **30** | Talk a hostile god into granting you a boon. | Save yourself from execution after offending the queen. | Trick a god. |
+| **5** | Gagner la confiance d’un voisin amical. | Gagner un repas auprès d’une foule amicale. | Duper une connaissance confiante. |
+| **10** | Gagner la confiance d’un inconnu amical. | Gagner le gîte et le couvert dans une petite ville ou impressionner une petite foule. | Duper un inconnu ordinaire. |
+| **15** | Gagner la confiance d’un inconnu méfiant ou se faire inviter à la fête d’un noble. | Gagner le gîte et le couvert dans une taverne modeste ou impressionner une grande foule. | Duper un marchand ordinaire. |
+| **20** | Gagner la confiance d’un ennemi compatissant ou se faire inviter à la fête d’un ennemi. | Gagner un logement dans une taverne de luxe ou impressionner un théâtre plein. | Duper un courtisan chevronné. |
+| **25** | Retourner un ennemi contre son souverain ou se faire admettre à une cour féerique. | Gagner votre place à une cour royale ou impressionner un colisée plein. | Duper un maître espion. |
+| **30** | Convaincre un dieu hostile de vous accorder une faveur. | Échapper à l’exécution après avoir offensé la reine. | Duper un dieu. |
 
-#### KNOWLEDGE
+#### SAVOIR
 
-| roll | recall | analyze | comprehend |
+| jet | se rappeler | analyser | comprendre |
 | --- | --- | --- | --- |
-| **5** | Recall uncommon facts about your community. | Unpack an obvious metaphor in a simple text. | Learn simple skills from an excellent teacher. |
-| **10** | Recall uncommon facts about a neighboring community. | Identify obvious subtext in a conversation. | Learn simple skills from an average teacher. |
-| **15** | Recall uncommon facts about a distant community. | Break an average cipher in a coded message. | Learn complicated skills from an excellent teacher. |
-| **20** | Recall specialized facts about a distant community. | Identify a weakness in a complicated battle plan. | Learn complicated skills under poor conditions. |
-| **25** | Recall specialized facts about a fallen kingdom. | Predict the downfall of a nation based on concealed misdeeds. | Learn complicated skills quickly under dangerous conditions. |
-| **30** | Recall secret information about an obscure historical group. | Identify the weakness in a divine champion’s fighting form. | Learn complicated skills quickly from incomplete information. |
+| **5** | Se rappeler des faits peu courants sur votre communauté. | Décortiquer une métaphore évidente dans un texte simple. | Apprendre des compétences simples auprès d’un excellent professeur. |
+| **10** | Se rappeler des faits peu courants sur une communauté voisine. | Repérer un sous-entendu évident dans une conversation. | Apprendre des compétences simples auprès d’un professeur ordinaire. |
+| **15** | Se rappeler des faits peu courants sur une communauté lointaine. | Briser un chiffre ordinaire dans un message codé. | Apprendre des compétences complexes auprès d’un excellent professeur. |
+| **20** | Se rappeler des faits spécialisés sur une communauté lointaine. | Repérer une faiblesse dans un plan de bataille compliqué. | Apprendre des compétences complexes dans de mauvaises conditions. |
+| **25** | Se rappeler des faits spécialisés sur un royaume déchu. | Prédire la chute d’une nation d’après des méfaits dissimulés. | Apprendre rapidement des compétences complexes dans des conditions dangereuses. |
+| **30** | Se rappeler des informations secrètes sur un groupe historique obscur. | Repérer la faille dans la posture de combat d’un champion divin. | Apprendre rapidement des compétences complexes à partir d’informations incomplètes. |
 
-#### GIVING ADVANTAGE AND DISADVANTAGE
+#### ACCORDER UN AVANTAGE OU UN DÉSAVANTAGE
 
-To viscerally convey how a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s actions or circumstances affect their ability to act, grant them [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) (or impose [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE)) instead of adjusting the [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of an [action roll](Core%20Mechanics.md#ACTION%20ROLLS).
+Pour faire sentir de façon viscérale comment les actes ou les circonstances d’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) influent sur sa capacité d’agir, accordez-lui un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) (ou imposez-lui un [désavantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE)) plutôt que de modifier la [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) d’un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-**[ADVERSARY](Using%20Adversaries.md) [ACTION ROLLS](Core%20Mechanics.md#ACTION%20ROLLS)**
+**[JETS D’ACTION](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) DES [ADVERSAIRES](Using%20Adversaries.md)**
 
-By default, [adversaries](Using%20Adversaries.md) don’t normally make [action rolls](Core%20Mechanics.md#ACTION%20ROLLS) except for [attack rolls](Core%20Mechanics.md#ATTACKING) and any unique actions described in their stat blocks. Any other action an [adversary](Using%20Adversaries.md) attempts simply succeeds without an action roll; if you want an adversary’s action to have a chance of failure, have any relevant [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) make [reaction rolls](Core%20Mechanics.md#SPECIAL%20ROLLS) instead.
+Par défaut, les [adversaires](Using%20Adversaries.md) ne font normalement pas de [jets d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), sauf des [jets d’attaque](Core%20Mechanics.md#ATTAQUER) et les actions uniques décrites dans leur profil. Toute autre action qu’un [adversaire](Using%20Adversaries.md) tente réussit simplement sans jet d’action ; si vous voulez que l’action d’un adversaire ait une chance d’échouer, demandez plutôt aux [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) concernés de faire des [jets de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
 
-However, for especially dramatic or difficult tasks that the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can’t influence, you can give an [adversary](Using%20Adversaries.md) an **[action roll](Core%20Mechanics.md#ACTION%20ROLLS)** anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS), the action succeeds—otherwise it fails. You can spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) before rolling to add a relevant [Experience](Character%20Creation.md#STEP%207) from the adversary’s stat block to the total. Use the same procedure when an adversary makes a **[reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS).**
+Cependant, pour les tâches particulièrement dramatiques ou difficiles que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne peuvent pas influencer, vous pouvez quand même donner un **[jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION)** à un [adversaire](Using%20Adversaries.md). Pour le jet d’action d’un adversaire, lancez un d20. Si le résultat est supérieur ou égal à la [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de l’action, l’action réussit ; sinon, elle échoue. Vous pouvez dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) avant de lancer pour ajouter au total une [Expérience](Character%20Creation.md#%C3%89TAPE%207) pertinente du profil de l’adversaire. Suivez la même procédure quand un adversaire fait un **[jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).**
 
-**[ADVERSARY](Using%20Adversaries.md) [ADVANTAGE](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) & [DISADVANTAGE](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE)**
+**[AVANTAGE](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) ET [DÉSAVANTAGE](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) DES [ADVERSAIRES](Using%20Adversaries.md)**
 
-If an [adversary](Using%20Adversaries.md) has [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls an extra d20 and counts only the higher result. If an adversary has [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on an action roll, the GM rolls an extra d20 and counts only the lower result.
+Si un [adversaire](Using%20Adversaries.md) a un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lance un d20 supplémentaire et ne retient que le résultat le plus élevé. Si un adversaire a un [désavantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur un jet d’action, le MJ lance un d20 supplémentaire et ne retient que le résultat le plus faible.
 
-**[ADVERSARY](Using%20Adversaries.md) ATTACKS**
+**ATTAQUES DES [ADVERSAIRES](Using%20Adversaries.md)**
 
-When an [adversary](Using%20Adversaries.md) attacks a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls a d20 and adds the adversary’s Attack Modifier to the result. If the total meets or beats the target’s [Evasion](Core%20Mechanics.md#EVASION), the attack succeeds; otherwise, it fails. Before rolling, the GM can grant the attacking adversary [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE), impose [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE), or spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to add a relevant [Experience](Character%20Creation.md#STEP%207) from the adversary’s stat block to the total.
+Quand un [adversaire](Using%20Adversaries.md) attaque un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lance un d20 et ajoute au résultat le modificateur d’attaque de l’adversaire. Si le total égale ou dépasse l’[Évasion](Core%20Mechanics.md#%C3%89VASION) de la cible, l’attaque réussit ; sinon, elle échoue. Avant de lancer, le MJ peut accorder un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à l’adversaire attaquant, lui imposer un [désavantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE), ou dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour ajouter au total une [Expérience](Character%20Creation.md#%C3%89TAPE%207) pertinente du profil de l’adversaire.
 
-On a success, the [adversary](Using%20Adversaries.md) deals the damage listed in their stat block to the target.
+En cas de succès, l’[adversaire](Using%20Adversaries.md) inflige à la cible les dégâts indiqués dans son profil.
 
-When an [adversary](Using%20Adversaries.md)’s action lets the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) make an **attack against multiple targets,** they make one [attack roll](Core%20Mechanics.md#ATTACKING) and compare it to each target’s [Evasion](Core%20Mechanics.md#EVASION) separately.
+Quand l’action d’un [adversaire](Using%20Adversaries.md) permet au [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) de faire une **attaque contre plusieurs cibles,** il fait un seul [jet d’attaque](Core%20Mechanics.md#ATTAQUER) et le compare séparément à l’[Évasion](Core%20Mechanics.md#%C3%89VASION) de chaque cible.
 
-### COUNTDOWNS
+### COMPTES À REBOURS
 
-**Countdowns** represent a period of time or series of events preceding a future effect. A countdown begins at a starting value. When a countdown **advances,** it’s reduced by 1. The countdown’s effect is triggered when the countdown reaches 0.
+Les **comptes à rebours** représentent une période de temps ou une série d’événements précédant un effet futur. Un compte à rebours commence à une valeur de départ. Quand un compte à rebours **avance,** il diminue de 1. L’effet du compte à rebours se déclenche quand celui-ci atteint 0.
 
-***Note:*** *You can track countdowns by “spinning down” dice or* *ticking off boxes.*
+***Remarque :*** *Vous pouvez suivre les comptes à rebours en « faisant décroître » des dés ou en* *cochant des cases.*
 
-**Standard countdowns** advance every time a player makes an [action roll](Core%20Mechanics.md#ACTION%20ROLLS). If an [adversary](Using%20Adversaries.md) or [environment](Using%20Environments.md) ability refers to a “Countdown [n],” then it means a standard countdown with a starting value of n.
+Les **comptes à rebours standard** avancent chaque fois qu’un joueur fait un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Si une capacité d’[adversaire](Using%20Adversaries.md) ou d’[environnement](Using%20Environments.md) mentionne un « [Compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) [n] », il s’agit d’un compte à rebours standard dont la valeur de départ est n.
 
-**Dynamic countdowns** advance by up to 3 depending on the outcomes of [action rolls](Core%20Mechanics.md#ACTION%20ROLLS). **Consequence countdowns** are dynamic countdowns to negative effects. **Progress countdowns** are dynamic countdowns to positive effects. Dynamic countdowns advance according to this chart:
+Les **comptes à rebours dynamiques** avancent de 1 à 3 selon les résultats des [jets d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Les **comptes à rebours de conséquence** sont des comptes à rebours dynamiques menant à des effets négatifs. Les **comptes à rebours de progression** sont des comptes à rebours dynamiques menant à des effets positifs. Les comptes à rebours dynamiques avancent selon ce tableau :
 
-### DYNAMIC COUNTDOWN ADVANCEMENT
+### AVANCEMENT DES COMPTES À REBOURS DYNAMIQUES
 
-| **Roll Result** | **Progress [Advancement](Core%20Mechanics.md#STEP%20TWO%20ADVANCEMENTS)** | **Consequence Advancement** |
+| **Résultat du jet** | **[Avancement](Core%20Mechanics.md#%C3%89TAPE%20DEUX%20PROGRESSIONS) de progression** | **Avancement de conséquence** |
 | --- | --- | --- |
-| [Failure with Fear](Core%20Mechanics.md#OVERVIEW) | No advancement | Tick down 3 |
-| [Failure with Hope](Core%20Mechanics.md#OVERVIEW) | No advancement | Tick down 2 |
-| [Success with Fear](Core%20Mechanics.md#OVERVIEW) | Tick down 1 | Tick down 1 |
-| [Success with Hope](Core%20Mechanics.md#OVERVIEW) | Tick down 2 | No advancement |
-| [Critical Success](Core%20Mechanics.md#OVERVIEW) | Tick down 3 | No advancement |
+| [Échec avec la Peur](Core%20Mechanics.md#APER%C3%87U) | Aucun avancement | Décrémentez de 3 |
+| [Échec avec Espoir](Core%20Mechanics.md#APER%C3%87U) | Aucun avancement | Décrémentez de 2 |
+| [Succès avec la Peur](Core%20Mechanics.md#APER%C3%87U) | Décrémentez de 1 | Décrémentez de 1 |
+| [Succès avec Espoir](Core%20Mechanics.md#APER%C3%87U) | Décrémentez de 2 | Aucun avancement |
+| [Réussite critique](Core%20Mechanics.md#APER%C3%87U) | Décrémentez de 3 | Aucun avancement |
 
-#### ADVANCED COUNTDOWN FEATURES
+#### FONCTIONNALITÉS AVANCÉES DES COMPTES À REBOURS
 
-- [Countdowns](Making%20Moves.md#COUNTDOWNS) with **randomized starting values**
+- Des [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) à **valeur de départ aléatoire**
 
-- **Loop** [countdowns](Making%20Moves.md#COUNTDOWNS) that reset to their starting value after their countdown effect is triggered.
+- Des [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) **en boucle**, qui reviennent à leur valeur de départ une fois leur effet déclenché.
 
-- **Increasing** [countdowns](Making%20Moves.md#COUNTDOWNS) that increase their starting value by 1 every time they loop.
+- Des [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) **croissants**, qui augmentent leur valeur de départ de 1 à chaque boucle.
 
-- **Decreasing** [countdowns](Making%20Moves.md#COUNTDOWNS) that decrease their starting value by 1 every time they loop.
+- Des [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) **décroissants**, qui diminuent leur valeur de départ de 1 à chaque boucle.
 
-- **Linked** progress and consequence [countdowns](Making%20Moves.md#COUNTDOWNS) that simultaneously advance according to the same [action roll](Core%20Mechanics.md#ACTION%20ROLLS) outcomes.
+- Des comptes à rebours de progression et de conséquence **liés**, qui avancent simultanément selon les mêmes résultats de [jets d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-- **[Long-term countdowns](Making%20Moves.md#COUNTDOWNS)** that advance after **rests** instead of [action rolls](Core%20Mechanics.md#ACTION%20ROLLS).
+- Des **[comptes à rebours à long terme](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS)** qui avancent après les **repos** au lieu des [jets d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-### GIVING OUT GOLD, EQUIPMENT, AND LOOT
+### DISTRIBUER OR, ÉQUIPEMENT ET BUTIN
 
-It’s up to you and your players how much importance you want to place on gold, equipment, and loot in your campaign.
+C’est à vous et à vos joueurs de décider de l’importance que vous voulez accorder à l’or, à l’équipement et au butin dans votre campagne.
 
-Adjust the availability and utility of wealth and equipment to reflect the tone, themes, and setting of your campaign.
+Ajustez la disponibilité et l’utilité des richesses et de l’équipement pour refléter le ton, les thèmes et le cadre de votre campagne.
 
-If you don’t wish to track gold, then when [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) go shopping for new items let them pick one or two from a short, preselected list that aligns with your campaign setting and the party’s current location.
+Si vous ne souhaitez pas suivre l’or, alors, quand les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) vont faire des achats, laissez-leur choisir un ou deux objets dans une courte liste présélectionnée, adaptée au cadre de votre campagne et au lieu où se trouve le groupe.
 
-Otherwise, set the prices of goods and services by adjusting the entries in the Average Costs table to reflect your campaign setting:
+Sinon, fixez les prix des biens et services en ajustant les entrées du tableau des coûts moyens pour refléter le cadre de votre campagne :
 
 |  |  |
 | --- | --- |
-| Meals for a party of adventurers per night | 1 Handful |
-| Standard inn room per night | 1 Handful |
-| Luxury inn room per night | 1 Bag |
-| Carriage ride | 2 Handfuls |
-| Mount (horse, mule, etc.) | 3 Bags |
-| Specialized tools | 3 Handfuls |
-| Fine clothing | 3 Handfuls |
-| Luxury clothing | 1 Bag |
-| [Tier 1](Core%20Mechanics.md#LEVELING%20UP) equipment (weapons, armor) | 1–5 Handfuls |
-| [Tier 2](Core%20Mechanics.md#LEVELING%20UP) equipment (weapons, armor) | 1–2 Bags |
-| [Tier 3](Core%20Mechanics.md#LEVELING%20UP) equipment (weapons, armor) | 5–10 Bags |
-| [Tier 4](Core%20Mechanics.md#LEVELING%20UP) equipment (weapons, armor) | 1–2 Chests |
+| Repas d’un groupe d’aventuriers pour une nuit | 1 poignée |
+| Chambre standard dans une auberge, par nuit | 1 poignée |
+| Chambre de luxe dans une auberge, par nuit | 1 bourse |
+| Trajet en voiture à cheval | 2 poignées |
+| Monture (cheval, mule, etc.) | 3 bourses |
+| Outils spécialisés | 3 poignées |
+| Vêtements fins | 3 poignées |
+| Vêtements de luxe | 1 bourse |
+| Équipement de [rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) (armes, armures) | 1–5 poignées |
+| Équipement de [rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) (armes, armures) | 1–2 bourses |
+| Équipement de [rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) (armes, armures) | 5–10 bourses |
+| Équipement de [rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) (armes, armures) | 1–2 coffres |
 
-### RUNNING GM NPCS
+### FAIRE JOUER LES PNJ DU MJ
 
-When you run NPCs as the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you should always strive to follow your GM principles and use them to bring the world to life. Differentiate NPCs with unique manners of speech and action; let their individual goals and desires motivate their actions.
+Quand vous faites jouer des PNJ en tant que [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), efforcez-vous toujours de suivre vos principes de MJ et de vous en servir pour donner vie au monde. Distinguez les PNJ par des manières de parler et d’agir qui leur sont propres ; laissez leurs objectifs et leurs désirs individuels motiver leurs actes.
 
-The only essential elements for a NPC are their **name, description,** and **motive.** If it’s likely that the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) will roll actions against them, give them a **[Difficulty](Core%20Mechanics.md#ACTION%20ROLLS).** [Adversaries](Using%20Adversaries.md) can be invented or improvised by modifying the stat block of another [adversary](Using%20Adversaries.md).
+Les seuls éléments essentiels d’un PNJ sont son **nom, sa description** et sa **motivation.** S’il est probable que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fassent des jets d’action contre lui, donnez-lui une **[Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).** Les [adversaires](Using%20Adversaries.md) peuvent être inventés ou improvisés en modifiant le profil d’un autre [adversaire](Using%20Adversaries.md).
 
-If an NPC becomes an ally in combat, they don’t need a stat block—just put the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT) on what they do and show how their involvement alters the fiction. If a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) capitalizes on their help during the scene, give the PC [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). NPCs that don’t have [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](Core%20Mechanics.md#STRESS) can still be injured or killed if the fiction demands it.
+Si un PNJ devient un allié en combat, il n’a pas besoin de profil : mettez simplement les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS) sur ce qu’il fait et montrez comment son intervention modifie la fiction. Si un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) tire parti de son aide pendant la scène, accordez-lui un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). Les PNJ qui n’ont ni [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ni [Stress](Core%20Mechanics.md#STRESS) peuvent tout de même être blessés ou tués si la fiction l’exige.
 
-If you want an important NPC to mechanically interact with the system, you can give them one or more features with specific **triggers** and **effects.** An NPC might also have a choice that adjusts the parameters of their feature. For example:
+Si vous voulez qu’un PNJ important interagisse mécaniquement avec le système, vous pouvez lui donner une ou plusieurs aptitudes avec des **déclencheurs** et des **effets** précis. Un PNJ peut aussi avoir un choix qui ajuste les paramètres de son aptitude. Par exemple :
 
-##### ARCANE HOLD
+##### EMPRISE ARCANIQUE
 
-***Choice:*** When the battle begins, choose a favored [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F).
+***Choix :*** Quand le combat commence, choisissez un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) favori.
 
-***Trigger:*** The first time during a battle the favored [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) is within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and hit with an attack.
+***Déclencheur :*** La première fois, pendant un combat, que le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) favori se trouve à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et est touché par une attaque.
 
-***Effect:*** Make an [attack roll](Core%20Mechanics.md#ATTACKING) with a +6 modifier against the [adversary](Using%20Adversaries.md). On a success, the target is temporarily [Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS) by tendrils of powerful magic.
+***Effet :*** Faites un [jet d’attaque](Core%20Mechanics.md#ATTAQUER) avec un modificateur de +6 contre l’[adversaire](Using%20Adversaries.md). En cas de succès, la cible est temporairement [Entravée](Core%20Mechanics.md#%C3%89TATS%20STANDARD) par des vrilles de magie puissante.
 
-#### NPC FEATURE EXAMPLES
+#### EXEMPLES D’APTITUDES DE PNJ
 
-##### VOLLEY OF ARROWS
+##### VOLÉE DE FLÈCHES
 
-***Trigger:*** A battle begins and this [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS) is involved.
+***Déclencheur :*** Un combat commence et ce [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) y participe.
 
-***Effect:*** Activate a [countdown](Making%20Moves.md#COUNTDOWNS) (Loop 3). It ticks down when a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) misses an attack. When it triggers, this [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS) releases a volley of arrows at a target of the PCs’ choice, dealing **2d8+3** [physical damage](Core%20Mechanics.md#ATTACKING).
+***Effet :*** Activez un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (Boucle 3). Il décroît quand un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) rate une attaque. Quand il se déclenche, ce [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) décoche une volée de flèches sur une cible choisie par les PJ, infligeant **2d8+3** [dégâts physiques](Core%20Mechanics.md#ATTAQUER).
 
 ##### MENTOR
 
-​***Choice:*** When the battle begins, choose a protégé [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F).
+***Choix :*** Quand le combat commence, choisissez un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) protégé.
 
-***Trigger:*** Your protégé is within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and fails an [attack roll](Core%20Mechanics.md#ATTACKING).
+***Déclencheur :*** Votre protégé se trouve à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et rate un [jet d’attaque](Core%20Mechanics.md#ATTAQUER).
 
-***Effect:*** Move into [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and give them advice or guidance. The next [attack roll](Core%20Mechanics.md#ATTACKING) they make has [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Effet :*** Rejoignez le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée de [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et donnez-lui un conseil ou des indications. Le prochain [jet d’attaque](Core%20Mechanics.md#ATTAQUER) qu’il fait a un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-##### REGROUP
+##### REGROUPEMENT
 
-***​Choice:*** When a battle begins, choose a point within [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Choix :*** Quand un combat commence, choisissez un point à portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Trigger:*** All [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) have marked all of their [Armor Slots](Equipment.md#ARMOR).
+***Déclencheur :*** Tous les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ont marqué tous leurs [Emplacements d’armure](Equipment.md#ARMURE).
 
-***Effect:*** Teleport all [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and this [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS) to the chosen spot and clear an [Armor Slot](Equipment.md#ARMOR) on each target.
+***Effet :*** Téléportez tous les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et ce [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) à l’endroit choisi et libérez un [Emplacement d’armure](Equipment.md#ARMURE) sur chaque cible.
 
-##### INTO THE NIGHT
+##### DANS LA NUIT
 
-***Trigger:*** The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) start a [long rest](Core%20Mechanics.md#DOWNTIME) with this [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS).
+***Déclencheur :*** Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) commencent un [repos long](Core%20Mechanics.md#TEMPS%20DE%20REPOS) avec ce [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ).
 
-***Effect:*** Roll 1d4. On a 2 or less, this [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS) steals 1 [handful](Equipment.md#GOLD) of gold from the party while they are sleeping, then disappears into the night.
+***Effet :*** Lancez 1d4. Sur un 2 ou moins, ce [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) dérobe 1 [poignée](Equipment.md#OR) d’or au groupe pendant son sommeil, puis disparaît dans la nuit.
 
-### OPTIONAL GM MECHANICS
+### MÉCANIQUES FACULTATIVES DU MJ
 
-**FATE ROLLS**
+**JETS DU DESTIN**
 
-When the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) wants to leave an outcome entirely up to chance, they call for a fate roll. The GM establishes what’s at stake and how the roll will be interpreted. Then a player rolls one of their [Duality Dice](Core%20Mechanics.md#OVERVIEW) and interprets the result.
+Quand le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) veut laisser un résultat entièrement au hasard, il demande un jet du destin. Le MJ établit ce qui est en jeu et comment le jet sera interprété. Puis un joueur lance l’un de ses [dés de Dualité](Core%20Mechanics.md#APER%C3%87U) et interprète le résultat.
 
-***Examples:***
+***Exemples :***
 
-*“Roll your [Fear Die](Core%20Mechanics.md#OVERVIEW). On a 4 or lower, the fire spreads beyond* *this house.”*
+*« Lancez votre [dé de Peur](Core%20Mechanics.md#APER%C3%87U). Sur un 4 ou moins, l’incendie se propage au-delà de* *cette maison. »*
 
-*“I think it’s really up to chance whether reinforcements will* *make it to you in time. Go ahead and roll your [Fear Die](Core%20Mechanics.md#OVERVIEW)—* *that’ll determine the starting size of the [countdown](Making%20Moves.md#COUNTDOWNS). When* *that triggers, reinforcements will arrive in your [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.”*
+*« Je pense que l’arrivée des renforts à temps dépend vraiment du hasard. Lancez votre [dé de Peur](Core%20Mechanics.md#APER%C3%87U)* *: il déterminera la valeur de départ du [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS). Quand* *il se déclenchera, les renforts arriveront à portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de vous. »*
 
-*“Go ahead and roll your [Hope Die](Core%20Mechanics.md#OVERVIEW) to see how big the crowd* *at the inn is tonight. The higher the roll, the bigger the* *crowd.”*
+*« Lancez votre [dé d’Espoir](Core%20Mechanics.md#APER%C3%87U) pour voir quelle foule il y a* *à l’auberge ce soir. Plus le résultat est élevé, plus la* *foule est nombreuse. »*
 
-*“Make a roll using your [Hope Die](Core%20Mechanics.md#OVERVIEW) to determine the number* *of [Stamina Potions](../consumables/Stamina%20Potion.md) the shop has in stock.”*
+*« Faites un jet avec votre [dé d’Espoir](Core%20Mechanics.md#APER%C3%87U) pour déterminer le nombre* *de [potions d’endurance](../consumables/Stamina%20Potion.md) que la boutique a en stock. »*
 
-**FALLING AND COLLISION DAMAGE**
+**CHUTES ET DÉGÂTS DE COLLISION**
 
-If a character falls to the ground, you can use the following as a guide to determine the damage they take:
+Si un personnage tombe au sol, vous pouvez vous servir de ce qui suit pour déterminer les dégâts qu’il subit :
 
-- A fall from [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range deals 1d10+3 [physical damage](Core%20Mechanics.md#ATTACKING).
+- Une chute de portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) inflige 1d10+3 [dégâts physiques](Core%20Mechanics.md#ATTAQUER).
 
-- A fall from [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range deals 1d20+5 [physical damage](Core%20Mechanics.md#ATTACKING).
+- Une chute de portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) inflige 1d20+5 [dégâts physiques](Core%20Mechanics.md#ATTAQUER).
 
-- A fall from [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) or [Very Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range deals 1d100+15 [physical damage](Core%20Mechanics.md#ATTACKING), or death at the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s discretion.
+- Une chute de portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ou [Très loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) inflige 1d100+15 [dégâts physiques](Core%20Mechanics.md#ATTAQUER), ou la mort, à la discrétion du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).
 
-If a character collides with an object or another character at a dangerous speed, they take 1d20+5 direct [physical damage](Core%20Mechanics.md#ATTACKING).
+Si un personnage heurte un objet ou un autre personnage à une vitesse dangereuse, il subit 1d20+5 [dégâts physiques](Core%20Mechanics.md#ATTAQUER) directs.
 
-**MOVING AND FIGHTING UNDERWATER**
+**SE DÉPLACER ET COMBATTRE SOUS L’EAU**
 
-By default, [attack rolls](Core%20Mechanics.md#ATTACKING) made while the attacker is underwater have [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+Par défaut, les [jets d’attaque](Core%20Mechanics.md#ATTAQUER) faits par un attaquant sous l’eau ont un [désavantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-For creatures that can’t breathe underwater, use a standard [countdown](Making%20Moves.md#COUNTDOWNS) (3) to track how long they can hold their breath. Advance the countdown whenever the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes an action. In addition if they fail a roll or roll with [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a [failure with Fear](Core%20Mechanics.md#OVERVIEW).
+Pour les créatures qui ne peuvent pas respirer sous l’eau, utilisez un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) standard (3) pour suivre combien de temps elles peuvent retenir leur souffle. Faites avancer le compte à rebours chaque fois que le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fait une action. De plus, s’il rate un jet ou fait un jet avec la [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) sous l’eau, vous pouvez dépenser votre action du MJ pour le faire avancer une fois de plus, ou deux fois s’il a obtenu un [échec avec la Peur](Core%20Mechanics.md#APER%C3%87U).
 
-Once the [countdown](Making%20Moves.md#COUNTDOWNS) ends, the underwater [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must mark a [Stress](Core%20Mechanics.md#STRESS) whenever they take an action.
+Une fois le [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) terminé, le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sous l’eau doit marquer un [Stress](Core%20Mechanics.md#STRESS) chaque fois qu’il fait une action.
 
-**CONFLICT BETWEEN PCS**
+**CONFLIT ENTRE PJ**
 
-Sometimes a player might want their character to act against another [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the scene. Before jumping to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome—but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
+Il arrive qu’un joueur veuille que son personnage agisse contre un autre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) présent dans la scène. Avant de vous précipiter sur les dés, discutez de la situation avec les deux joueurs pour décider comment résoudre le conflit. Un jet n’est peut-être pas nécessaire pour parvenir à une issue ; mais si lancer les dés est amusant pour tous les participants, mettez-vous d’accord sur les termes du jet, puis animez la scène selon les résultats.
 
-On an [attack roll](Core%20Mechanics.md#ATTACKING) against a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), the attacker rolls against the defender’s [Evasion](Core%20Mechanics.md#EVASION), just like an [adversary](Using%20Adversaries.md). On any other kind of [action roll](Core%20Mechanics.md#ACTION%20ROLLS), the instigator makes an action roll and the target makes a [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS). To succeed, the instigator must beat a [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) equal to the total value of the reaction roll.
+Sur un [jet d’attaque](Core%20Mechanics.md#ATTAQUER) contre un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), l’attaquant lance contre l’[Évasion](Core%20Mechanics.md#%C3%89VASION) du défenseur, exactement comme un [adversaire](Using%20Adversaries.md). Sur tout autre type de [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), l’instigateur fait un jet d’action et la cible fait un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). Pour réussir, l’instigateur doit battre une [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) égale à la valeur totale du jet de réaction.

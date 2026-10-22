@@ -1,5 +1,12 @@
-# Communities
+---
+aliases:
+  - "Communities"
+---
 
-Communities represent a key aspect of the **culture, class,** or **[environment](Using%20Environments.md) of origin** that has had the most influence over your character’s upbringing.
+# Communautés
 
-Your character’s community grants them a **community feature.** Each community card also lists six adjectives you can use as inspiration to create your character’s personality, their relationship to their peers, their attitude toward their upbringing, or the demeanor with which they interact with the rest of the party. Please note the Daggerheart Core Set includes only the following communities: [Highborne](../communities/Highborne.md), [Loreborne](../communities/Loreborne.md), [Orderborne](../communities/Orderborne.md), [Ridgeborne](../communities/Ridgeborne.md), [Seaborne](../communities/Seaborne.md), [Slyborne](../communities/Slyborne.md), [Underborne](../communities/Underborne.md), [Wanderborne](../communities/Wanderborne.md), [Wildborne](../communities/Wildborne.md).
+*(VO : Communities)*
+
+Les communautés représentent l’aspect clé de la **culture, de la condition sociale** ou de l’**[environnement](Using%20Environments.md) d’origine** qui a eu le plus d’influence sur l’éducation de votre personnage.
+
+Votre communauté confère à votre personnage une **aptitude de communauté.** Chaque carte de communauté liste aussi six adjectifs qui peuvent vous inspirer pour créer la personnalité de votre personnage, son rapport à ses pairs, son attitude envers son éducation ou la manière dont il se comporte avec le reste du groupe. Notez que la boîte de base de Daggerheart ne comprend que les communautés suivantes : [Bien-né](../communities/Highborne.md), [Lettré](../communities/Loreborne.md), [Assermenté](../communities/Orderborne.md), [Né des crêtes](../communities/Ridgeborne.md), [Né des flots](../communities/Seaborne.md), [Né de la pègre](../communities/Slyborne.md), [Né des profondeurs](../communities/Underborne.md), [Né errant](../communities/Wanderborne.md), [Né sauvage](../communities/Wildborne.md).

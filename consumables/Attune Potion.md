@@ -1,3 +1,10 @@
-# Attune Potion
+---
+aliases:
+  - "Attune Potion"
+---
 
-You gain a +1 bonus to your next [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll.
+# Potion d’accord
+
+*(VO : Attune Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

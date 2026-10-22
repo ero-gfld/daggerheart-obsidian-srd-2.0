@@ -1,3 +1,10 @@
-# Homet’s Secret Potion
+---
+aliases:
+  - "Homet’s Secret Potion"
+---
 
-After drinking this potion, the next successful attack you make critically succeeds.
+# Potion secrète de Homet
+
+*(VO : Homet’s Secret Potion)*
+
+Après avoir bu cette potion, votre prochaine attaque réussie devient une réussite critique.

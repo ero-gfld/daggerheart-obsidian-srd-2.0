@@ -1,3 +1,10 @@
-# Minor Stamina Potion Recipe
+---
+aliases:
+  - "Minor Stamina Potion Recipe"
+---
 
-As a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME), you can use the bone of a creature to craft a [Minor Stamina Potion](../consumables/Minor%20Stamina%20Potion.md).
+# Recette de potion d’endurance mineure
+
+*(VO : Minor Stamina Potion Recipe)*
+
+Comme [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez utiliser l’os d’une créature pour fabriquer une [potion d’endurance mineure](../consumables/Minor%20Stamina%20Potion.md).

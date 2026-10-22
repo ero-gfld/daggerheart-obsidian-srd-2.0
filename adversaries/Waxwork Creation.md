@@ -1,23 +1,30 @@
-# Waxwork Creation
+---
+aliases:
+  - "Waxwork Creation"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A ten-foot-tall, semisolid (and semisentient) candle wax construct.*
+# Créature de cire
 
-**Motives & Tactics:** Lumber menacingly, moan with the pain of unlife, smother
+*(VO : Waxwork Creation)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Fists:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d20 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une construction de cire de bougie semi-solide (et semi-consciente), haute de trois mètres.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Giant-Sized +2
+**Motivations et tactiques :** Avancer d’un pas lourd et menaçant, gémir sous la douleur de sa non-vie, étouffer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Poings :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d20 phy
 
-***Relentless (2) - Passive:*** The Creation can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** De taille géante +2
 
-***No Vital Organs - Passive:*** The Creation doesn’t take extra damage from attacks that critically succeed against it.
+## APTITUDES
 
-***Wax Ball - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Creation throw a ball of wax at a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Make an attack against the target. On a success, the target takes **1d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and becomes *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (15).
+***Implacable (2) - Passif :*** La Créature peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour [la mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Splutch! - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Creation makes a weapon attack against it, roll a **d6**. On a 5 or higher, the attacker’s weapon gets stuck in the Creation and can be removed only with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (15).
+***Aucun organe vital - Passif :*** La Créature ne subit pas de dégâts supplémentaires des attaques qui obtiennent une Réussite critique contre elle.
 
-***Smothering Grapple - Reaction:*** When the Creation makes a successful standard attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to *Trap* the target inside the Creation’s wax body. While *Trapped*, the target is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and move with the Creation each time it’s [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). A *Trapped* creature is freed when the Creation takes [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage.
+***Boule de cire - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la Créature lance une boule de cire sur une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Effectuez une attaque contre la cible. En cas de succès, la cible subit **1d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et devient *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle réussisse un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (15).
+
+***Schlouk ! - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la Créature lui porte une attaque d’arme, lancez un **d6**. Sur un 5 ou plus, l’arme de l’attaquant reste coincée dans la Créature et ne peut en être retirée qu’avec un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi (15).
+
+***Étreinte étouffante - Réaction :*** Quand la Créature réussit une attaque standard contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour *piéger* la cible dans le corps de cire de la Créature. Piégée, la cible est *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et se déplacer avec la Créature chaque fois qu’elle est [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Une créature *piégée* est libérée quand la Créature subit des [dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus.

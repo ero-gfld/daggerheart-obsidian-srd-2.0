@@ -1,17 +1,24 @@
-# Jack-O’-Lantern
+---
+aliases:
+  - "Jack-O’-Lantern"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***
-*A floating pumpkin or other gourd that has a face carved into it. The soul trapped within it emits an eerie glow.*
+# Jack-o’-lantern
 
-**Motives & Tactics:** Bite, float, laugh, tell spooky stories
+*(VO : Jack-O’-Lantern)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Chomp:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 6 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Sbire](../core_rules/Using%20Adversaries.md)***
+*Une citrouille ou une autre courge flottante, sculptée d’un visage. L’âme prisonnière à l’intérieur émet une lueur sinistre.*
+
+**Motivations et tactiques :** Mordre, flotter, rire, raconter des histoires qui font peur
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Coup de mâchoire :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 6 phy
 
 ## FEATURES
 
-***Minion (4) - Passive:*** The Jack-o’-Lantern is defeated when it takes any damage. For every 4 damage a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to the Jack-o’- Lantern, the PC defeats an additional [Minion](../core_rules/Using%20Adversaries.md) within range the attack would succeed against.
+***Sbire (4) - Passif :*** Le jack-o’-lantern est vaincu lorsqu’il subit des dégâts, quels qu’ils soient. Pour chaque tranche de 4 dégâts qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lui inflige, le PJ vainc un [Sbire](../core_rules/Using%20Adversaries.md) supplémentaire, à portée et contre lequel l’attaque réussirait.
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Jack-o’-Lanterns within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Those [Minions](../core_rules/Using%20Adversaries.md) move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal 6 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir une cible et mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les jack-o’-lantern à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’eux. Ces [Sbires](../core_rules/Using%20Adversaries.md) se rapprochent à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible et effectuent un seul [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de réussite, chacun inflige 6 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Additionnez ces dégâts.
 
-***Spine-Chilling Cackle - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range rolls with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain an additional Fear.
+***Ricanement glaçant - Réaction :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) lance les dés avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour gagner une Peur supplémentaire.

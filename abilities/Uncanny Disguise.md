@@ -1,7 +1,14 @@
-# Uncanny Disguise
+---
+aliases:
+  - "Uncanny Disguise"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Déguisement troublant
 
-When you have a few minutes to prepare, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Presence](../core_rules/Character%20Creation.md#STEP%203) Rolls to avoid scrutiny.
+*(VO : Uncanny Disguise)*
 
-Place a number of tokens equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait on this card. When you take an action while disguised, spend a token from this card. After the action that spends the last token is resolved, the disguise drops.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Lorsque vous disposez de quelques minutes pour vous préparer, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour revêtir le masque de n’importe quel humanoïde que vous pouvez vous représenter clairement. Déguisé, vous avez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les jets de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour échapper aux soupçons.
+
+Placez sur cette carte un nombre de jetons égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). Lorsque vous entreprenez une action déguisé, dépensez un jeton de cette carte. Après l’action qui dépense le dernier jeton, le déguisement tombe.

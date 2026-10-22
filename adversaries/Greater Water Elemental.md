@@ -1,17 +1,24 @@
-# Greater Water Elemental
+---
+aliases:
+  - "Greater Water Elemental"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A huge living wave that crashes down upon enemies.*
+# Grand élémentaire d’eau
 
-**Motives & Tactics:** Deluge, disperse, drown
+*(VO : Greater Water Elemental)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 17/34 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Crashing Wave:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d4+1 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Une immense vague vivante qui s’abat sur ses ennemis.*
 
-## FEATURES
+**Motivations et tactiques :** Déluge, se disperser, noyer
 
-***Water Jet - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to attack a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **2d4+7** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and the target’s next action has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). On a failure, the target must mark a Stress.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 17/34 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Vague déferlante :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d4+1 mag
 
-***Drowning Embrace - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make an attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Elemental succeeds against become *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* as they begin drowning. A target can break free, ending both conditions, with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) or [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll.
+## APTITUDES
 
-***High Tide - Reaction:*** When the Elemental makes a successful standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to knock the target back to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Jet d’eau - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, elle inflige **2d4+7** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), et la prochaine action de la cible se fait avec un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). En cas d’échec, la cible doit marquer un Stress.
+
+***Étreinte noyante - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour attaquer toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles l’Élémentaire réussit deviennent *[Entravées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, car elles commencent à se noyer. Une cible peut se libérer, ce qui met fin aux deux états, grâce à un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi.
+
+***Marée haute - Réaction :*** Quand l’Élémentaire réussit une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour repousser la cible jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

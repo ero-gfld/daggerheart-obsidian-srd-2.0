@@ -1,3 +1,10 @@
-# Empty Chest
+---
+aliases:
+  - "Empty Chest"
+---
 
-This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it.
+# Coffre vide
+
+*(VO : Empty Chest)*
+
+Ce coffre magique semble vide. Lorsque vous prononcez un mot ou accomplissez une action déclencheurs précis puis ouvrez le coffre, vous pouvez voir les objets qu’il renferme.

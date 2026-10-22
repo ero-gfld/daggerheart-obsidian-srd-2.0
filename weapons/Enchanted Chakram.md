@@ -1,9 +1,16 @@
-# Enchanted Chakram
+---
+aliases:
+  - "Enchanted Chakram"
+---
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Chakram enchanté
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+1 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Enchanted Chakram)*
 
-### FEATURE
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Ricochet:*** When you throw this weapon, it returns to your hand. When you make an attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to target another creature within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the first target with that attack.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+1 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Ricochet :*** Quand vous lancez cette arme, elle revient dans votre main. Quand vous effectuez une attaque, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour cibler, avec cette attaque, une autre créature située à portée de [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la première cible.

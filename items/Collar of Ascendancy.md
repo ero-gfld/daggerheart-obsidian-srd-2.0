@@ -1,3 +1,10 @@
-# Collar of Ascendancy
+---
+aliases:
+  - "Collar of Ascendancy"
+---
 
-An animal who wears this collar gains the ability to speak and understand common speech.
+# Collier de prédominance
+
+*(VO : Collar of Ascendancy)*
+
+Un animal qui porte ce collier acquiert la capacité de parler et de comprendre la langue courante.

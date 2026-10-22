@@ -1,9 +1,16 @@
-# Trollhide Cuirass
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Trollhide Cuirass"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 23  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Cuirasse de peau de troll
 
-### FEATURE
+*(VO : Trollhide Cuirass)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Self-Healing:*** When you take a rest, clear an [Armor Slot](../core_rules/Equipment.md#ARMOR).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 23  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Autoguérissant :*** Lorsque vous prenez un repos, évacuez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE).

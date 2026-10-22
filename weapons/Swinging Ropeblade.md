@@ -1,9 +1,16 @@
-# Swinging Ropeblade
+---
+aliases:
+  - "Swinging Ropeblade"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Lame à corde pendulaire
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+9 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Swinging Ropeblade)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Grappling:*** On a successful attack, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target or pull them into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with you.
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+9 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Agrippant :*** Sur une attaque réussie, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour *[entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* la cible ou l’attirer avec vous à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

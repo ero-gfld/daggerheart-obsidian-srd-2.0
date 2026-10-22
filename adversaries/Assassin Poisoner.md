@@ -1,19 +1,26 @@
-# Assassin Poisoner
+---
+aliases:
+  - "Assassin Poisoner"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A cunning scoundrel skilled in both poisons and ambushing.*
+# Assassin empoisonneur
 
-**Motives & Tactics:** Anticipate, get paid, kill, taint food and water
+*(VO : Assassin Poisoner)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/16 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Poisoned Throwing Dagger:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+1 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un bandit rusé, habile à la fois dans l’art des poisons et dans celui de l’embuscade.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Intrusion +2
+**Motivations et tactiques :** Anticiper, se faire payer, tuer, souiller la nourriture et l’eau
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/16 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Poignard de lancer empoisonné :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+1 phy
 
-***Grindletooth Venom - Passive:*** Targets who mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from the Assassin’s attacks are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they clear a HP.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Intrusion +2
 
-***Out of Nowhere - Passive:*** The Assassin has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks if they are *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+## APTITUDES
 
-***Fumigation - Action:*** Drop a smoke bomb that fills the air within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with smoke, *Dizzying* all targets in this area. *Dizzied* targets have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on their next [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), then clear the condition.
+***Venin Dent-de-meule - Passif :*** Les cibles qui marquent des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause des attaques de l’Assassin sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elles effacent un PV.
+
+***Surgi de nulle part - Passif :*** L’Assassin bénéficie d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur ses attaques s’il est *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
+
+***Fumigène - Action :*** Lâchez une bombe fumigène qui emplit l’air de fumée à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les cibles dans cette zone deviennent *Étourdies*. Les cibles *Étourdies* ont un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à leur prochain [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), puis lèvent l’état.

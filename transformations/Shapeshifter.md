@@ -1,27 +1,34 @@
-# Shapeshifter
+---
+aliases:
+  - "Shapeshifter"
+---
 
-Shapeshifters are creatures who can change their physical form. Whether they were born with this ability, gained it as a result of magical craft or a curse, or received this power from an otherworldly entity, shapeshifters have a unique relationship with their identity. Because shapeshifters can transform into any ancestry—one moment living as a small and nimble faerie and the next as a large and tough galapa— their experiences with the outside world can vary greatly from day to day.
+# Métamorphe
 
-While a shapeshifter is typically indistinguishable from another member of the ancestry they transform into, each shapeshifter has one characteristic that doesn’t change no matter their form, such as their eyes, their coloring, or a unique birthmark. They also can’t mimic a specific person’s appearance, as they become a different version of themselves in a new body.
+*(VO : Shapeshifter)*
 
-Taking on a new form also doesn’t allow them to immediately have or use all the new form’s characteristics—they must focus their efforts on the physical characteristics they most want to use. Shapeshifters might need time to learn how to embody a new form, sometimes leading to an uncanny appearance or behavior until they’re accustomed to their body.
+Les métamorphes sont des créatures capables de changer de forme physique. Qu’ils soient nés avec ce don, qu’ils l’aient acquis par un art magique ou une malédiction, ou qu’ils tiennent ce pouvoir d’une entité venue d’ailleurs, les métamorphes entretiennent un rapport singulier à leur identité. Comme ils peuvent adopter n’importe quelle ascendance, vivant un jour sous les traits d’une petite fée agile et le lendemain sous ceux d’un grand et robuste galapa, leur expérience du monde extérieur peut varier considérablement d’un jour à l’autre.
 
-**TRANSFORMATION FEATURES**
+Si un métamorphe est généralement impossible à distinguer d’un autre membre de l’ascendance qu’il adopte, chacun conserve une caractéristique qui ne change pas, quelle que soit sa forme : ses yeux, sa coloration ou une tache de naissance singulière. Ils ne peuvent pas non plus imiter l’apparence d’une personne précise, car ils deviennent une autre version d’eux-mêmes dans un nouveau corps.
 
-***Change Shape:*** During a rest, you can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to swap your current ancestry with another. When you do, describe how your appearance changes.
+Adopter une nouvelle forme ne leur donne pas non plus aussitôt la possibilité d’avoir ou d’utiliser toutes les caractéristiques de cette forme : ils doivent concentrer leurs efforts sur les caractéristiques physiques qu’ils veulent le plus employer. Il leur faut parfois du temps pour apprendre à habiter une nouvelle forme, ce qui donne parfois une apparence ou un comportement dérangeant tant qu’ils ne sont pas habitués à leur corps.
 
-***Only Skin Deep:*** You gain the benefit of only one of your chosen ancestry’s features, which you select when you choose the ancestry. You can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to choose a different feature from that ancestry.
+**APTITUDES DE TRANSFORMATION**
 
-**TRANSFORMATION QUESTIONS**
+***Changer de forme :*** Pendant un repos, vous pouvez utiliser une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour remplacer votre ascendance actuelle par une autre. Dans ce cas, décrivez comment votre apparence change.
 
-- You believe you have a “true form,” but you haven’t seen it. What do you think it is, and how do you know it’s there?
+***Simple apparence :*** Vous ne bénéficiez que d’une seule aptitude de l’ascendance que vous avez choisie, que vous sélectionnez en choisissant l’ascendance. Vous pouvez utiliser une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour choisir une autre aptitude de cette ascendance.
 
-- What trick have you developed to identify other shapeshifters?
+**QUESTIONS DE TRANSFORMATION**
 
-- Someone you loved dearly abandoned you when they found out about your ability to change shape. Who was it, and what happened?
+- Vous croyez avoir une « vraie forme », mais vous ne l’avez jamais vue. Selon vous, quelle est-elle, et comment savez-vous qu’elle existe ?
 
-- What is one form you’ve vowed to never take, and why?
+- Quelle astuce avez-vous mise au point pour reconnaître les autres métamorphes ?
 
-- Which ancestry do you live as more than others? Why do you spend so much time in this form?
+- Quelqu’un que vous aimiez profondément vous a abandonné en découvrant votre capacité à changer de forme. Qui était-ce, et que s’est-il passé ?
 
-- Someone you know can instantly recognize you, no matter your form. How do they claim to identify you and what does their familiarity mean to you?
+- Quelle forme avez-vous juré de ne jamais prendre, et pourquoi ?
+
+- Sous quelle ascendance vivez-vous plus souvent que les autres ? Pourquoi passez-vous autant de temps sous cette forme ?
+
+- Quelqu’un que vous connaissez vous reconnaît instantanément, quelle que soit votre forme. Comment prétend-il vous identifier, et que signifie pour vous cette familiarité ?

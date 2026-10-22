@@ -1,5 +1,12 @@
-# Wrangle
+---
+aliases:
+  - "Wrangle"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Dompter
 
-Make an [Agility](../core_rules/Character%20Creation.md#STEP%203) Roll against all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move targets you succeed against, and any willing allies within Close range, to another point within Close range.
+*(VO : Wrangle)*
+
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Faites un [jet d’Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) contre toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour déplacer les cibles contre lesquelles vous réussissez, ainsi que les alliés consentants à portée Proche, vers un autre point à portée Proche.

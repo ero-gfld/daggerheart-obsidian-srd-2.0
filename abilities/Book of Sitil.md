@@ -1,9 +1,16 @@
-# Book of Sitil
+---
+aliases:
+  - "Book of Sitil"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Livre de Sitil
 
-***Adjust Appearance:*** You magically shift your appearance and clothing to avoid recognition.
+*(VO : Book of Sitil)*
 
-***Parallela:*** **Spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to cast this spell on yourself or an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The next time the target makes an attack, they can hit an additional target within range that their [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) would succeed against. You can only hold this spell on one creature at a time.
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-***Illusion:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (14)**. On a success, create a temporary visual illusion no larger than you within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range that lasts for as long as you look at it. It holds up to scrutiny until an observer is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Modifier l’apparence :*** Vous modifiez magiquement votre apparence et vos vêtements pour éviter d’être reconnu.
+
+***Parallela :*** **Dépensez 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour lancer ce sort sur vous-même ou sur un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La prochaine fois que la cible attaque, elle peut toucher une cible supplémentaire à portée, contre laquelle son [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) aurait réussi. Vous ne pouvez maintenir ce sort que sur une créature à la fois.
+
+***Illusion :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (14)**. En cas de réussite, créez une illusion visuelle temporaire, d’une taille ne dépassant pas la vôtre, à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), qui dure aussi longtemps que vous la regardez. Elle résiste à l’examen jusqu’à ce qu’un observateur se trouve à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

@@ -1,9 +1,16 @@
-# Savior Chainmail
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Savior Chainmail"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 18 / 48  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 8
+# Cotte de mailles du sauveur
 
-### FEATURE
+*(VO : Savior Chainmail)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Difficult:*** −1 to all character traits and [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 18 / 48  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 8
+
+### APTITUDE
+
+***Difficile :*** −1 à toutes les caractéristiques et à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

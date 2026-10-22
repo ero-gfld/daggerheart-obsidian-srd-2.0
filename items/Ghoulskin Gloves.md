@@ -1,3 +1,10 @@
-# Ghoulskin Gloves
+---
+aliases:
+  - "Ghoulskin Gloves"
+---
 
-When you attack with a physical weapon while wearing these gloves, the damage is considered both physical and magic.
+# Gants de peau de goule
+
+*(VO : Ghoulskin Gloves)*
+
+Lorsque vous attaquez avec une arme physique en portant ces gants, les dégâts sont considérés à la fois comme physiques et magiques.

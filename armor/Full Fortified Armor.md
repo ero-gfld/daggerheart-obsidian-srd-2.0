@@ -1,9 +1,16 @@
-# Full Fortified Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Full Fortified Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 15 / 40  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Armure entièrement fortifiée
 
-### FEATURE
+*(VO : Full Fortified Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Fortified:*** When you mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), you reduce the severity of an attack by two thresholds instead of one.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 15 / 40  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Fortifié :*** Lorsque vous marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), vous réduisez de deux seuils la gravité d’une attaque au lieu d’un.

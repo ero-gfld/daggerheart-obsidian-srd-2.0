@@ -1,5 +1,12 @@
-# Counterspell
+---
+aliases:
+  - "Counterspell"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Contresort
 
-You can interrupt a magical effect taking place by making a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) using your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. On a success, the effect stops and any consequences are avoided, and this card is placed in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS).
+*(VO : Counterspell)*
+
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Vous pouvez interrompre un effet magique en cours en faisant un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) avec votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). En cas de réussite, l’effet cesse, toutes ses conséquences sont évitées, et cette carte est placée dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

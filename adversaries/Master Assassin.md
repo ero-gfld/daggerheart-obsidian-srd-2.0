@@ -1,21 +1,28 @@
-# Master Assassin
+---
+aliases:
+  - "Master Assassin"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A seasoned killer with a threatening voice and a deadly blade.*
+# Maître assassin
 
-**Motives & Tactics:** Ambush, get out alive, kill, prepare for all scenarios
+*(VO : Master Assassin)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/25 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Serrated Dagger:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+2 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un tueur aguerri à la voix menaçante et à la lame mortelle.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Command +3, Intrusion +3
+**Motivations et tactiques :** Tendre une embuscade, s’en sortir vivant, tuer, se préparer à tous les scénarios
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/25 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Dague dentelée :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+2 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Commandement +3, Intrusion +3
 
 ## FEATURES
 
-***Won’t See It Coming - Passive:*** The Assassin deals [direct damage](../core_rules/Core%20Mechanics.md#ATTACKING) while they’re *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***Il ne le verra pas venir - Passif :*** L’assassin inflige des [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER) tant qu’il est *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
 
-***Strike as One - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) a number of other Assassins equal to the Assassin’s unmarked Stress.
+***Frapper ensemble - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) un nombre d’autres assassins égal au nombre de Stress non marqués de l’assassin.
 
-***The Subtle Blade - Reaction:*** When the Assassin successfully makes a standard attack against a *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) instead of their standard damage.
+***La lame subtile - Réaction :*** Lorsque l’assassin réussit une attaque standard contre une cible *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour infliger des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) au lieu de ses dégâts standard.
 
-***Momentum - Reaction:*** When the Assassin makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Élan - Réaction :*** Lorsque l’assassin réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

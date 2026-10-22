@@ -1,3 +1,10 @@
-# Mandragorian Torch
+---
+aliases:
+  - "Mandragorian Torch"
+---
 
-This torch gives off light only the bearer can see.
+# Torche mandragorienne
+
+*(VO : Mandragorian Torch)*
+
+Cette torche dégage une lumière que seul son porteur peut voir.

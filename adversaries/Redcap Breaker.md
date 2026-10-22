@@ -1,17 +1,24 @@
-# Redcap Breaker
+---
+aliases:
+  - "Redcap Breaker"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A large, brutish fey creature who has a conical red cap sealed on their head with candle wax.*
+# Briseur bonnet-rouge
 
-**Motives & Tactics:** Beat chest and bellow, ragdoll puny enemies, rush forward recklessly
+*(VO : Redcap Breaker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Wooden Mallet:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Une créature féerique grande et brutale, coiffée d'un bonnet rouge conique scellé à la cire de bougie.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Bones +2
+**Motivations et tactiques :** Se frapper la poitrine et rugir, malmener les ennemis chétifs, foncer tête baissée
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Maillet de bois :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+2 phy
 
-***Backbreaker - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **3d4+10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). A target who marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from this attack is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they clear a HP.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Os +2
 
-***Kneecapper - Reaction:*** When the Breaker makes a successful standard attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make the target temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).*
+## APTITUDES
+
+***Brise-dos - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **3d4+10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Une cible qui marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de cette attaque est [Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu'à ce qu'elle efface un PV.
+
+***Genouilleur - Réaction :*** Lorsque le Briseur réussit une attaque standard, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour rendre la cible temporairement [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).

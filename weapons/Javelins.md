@@ -1,9 +1,16 @@
-# Javelins
+---
+aliases:
+  - "Javelins"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Javelots
 
-*[Agility](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+6 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Javelins)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Stockpiled:*** You can throw this weapon at a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range by making an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) using [Agility](../core_rules/Character%20Creation.md#STEP%203) without having to retrieve it, as you always have another one on hand.
+*[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+6 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Approvisionné :*** Vous pouvez lancer cette arme sur une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) en faisant un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) avec [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sans avoir à la récupérer, car vous en avez toujours une autre sous la main.

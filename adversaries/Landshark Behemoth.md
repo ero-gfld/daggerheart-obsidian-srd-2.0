@@ -1,21 +1,28 @@
-# Landshark Behemoth
+---
+aliases:
+  - "Landshark Behemoth"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A landshark that’s lived long enough to become a large burrowing monstrosity with steely hide and razor-sharp teeth.*
+# Béhémoth requin terrestre
 
-**Motives & Tactics:** Bite, burrow, burst out of the ground
+*(VO : Landshark Behemoth)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 15/28 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Toothy Maw:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d12+6 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un requin terrestre qui a vécu assez longtemps pour devenir un monstre fouisseur imposant, à la peau d’acier et aux dents tranchantes comme des rasoirs.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Subterranean +4, Bloodthirsty +3
+**Motivations et tactiques :** Mordre, creuser, jaillir du sol
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 15/28 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Gueule dentée :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d12+6 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Souterrain +4, Sanguinaire +3
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Behemoth can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+***Implacable (3) - Passif :*** Le béhémoth peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Deep Diver - Passive:*** The Behemoth can move through the ground as easily as over it. When the Behemoth moves, it can choose to burrow or surface. While underground, the Behemoth is [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to damage but can’t attack.
+***Plongeur des profondeurs - Passif :*** Le béhémoth peut se déplacer dans le sol aussi aisément qu’à la surface. Lorsqu’il se déplace, il peut choisir de s’enfouir ou de remonter. Sous terre, il est [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) aux dégâts, mais il ne peut pas attaquer.
 
-***Steel-Skinned - Passive:*** All damage dealt to the Behemoth is reduced by one threshold.
+***Peau d’acier - Passif :*** Tous les dégâts infligés au béhémoth sont réduits d’un seuil.
 
-***Forceful Eruption - Action:*** The Behemoth erupts from the ground, forcing each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or be knocked over, becoming *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). For each PC made *Vulnerable* in this way, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Éruption violente - Action :*** Le béhémoth jaillit du sol et force chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou à être renversé, devenant *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’il effectue un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Pour chaque PJ rendu *Vulnérable* de cette façon, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

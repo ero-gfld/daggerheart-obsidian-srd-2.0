@@ -1,51 +1,58 @@
-# Witch
+---
+aliases:
+  - "Witch"
+---
 
-Witches are magical practitioners who commune with the forces of nature and entities from realms beyond. These spellcasters call forth power through craft, combining the tangible and ephemeral by casting spells, murmuring incantations, creating talismans, weaving illusions, and maintaining other personalized practices. They can protect their allies and harm their enemies by invoking powerful forces beyond themselves—supernatural beings such as ancestors, deities, or aspects of nature. Often, their magical knowledge is passed down from these entities or through many generations of practitioners who gather in small groups known as covens. Witches are frequently feared and misunderstood, as their methods can appear mysterious, strange, and even macabre to the uninitiated. Whichever path they walk, a witch treads the boundary between light and shadow without fear.
+# Sorcière
 
-**DOMAINS –** [Sage](../domains/Sage.md) & [Dread](../domains/Dread.md)
+*(VO : Witch)*
 
-**STARTING EVASION –** 10
+Les sorcières sont des praticiennes de la magie qui communient avec les forces de la nature et avec des entités de royaumes lointains. Ces lanceuses de sorts font appel à un pouvoir issu de leur art, en alliant le tangible et l’éphémère : elles lancent des sorts, murmurent des incantations, créent des talismans, tissent des illusions et entretiennent d’autres pratiques personnelles. Elles peuvent protéger leurs alliés et nuire à leurs ennemis en invoquant de puissantes forces qui les dépassent, des êtres surnaturels comme des ancêtres, des divinités ou des aspects de la nature. Souvent, leur savoir magique leur vient de ces entités ou de nombreuses générations de praticiennes réunies en petits groupes appelés sabbats. Les sorcières sont fréquemment craintes et incomprises, car leurs méthodes peuvent paraître mystérieuses, étranges, voire macabres aux yeux des non-initiés. Quelle que soit la voie qu’elle suit, une sorcière marche sans crainte sur la frontière entre lumière et ombre.
 
-**STARTING HIT POINTS –** 6
+**DOMAINES –** [Nature](../domains/Sage.md) & [Effroi](../domains/Dread.md)
 
-**CLASS ITEMS –** A small, harmless pet or a scrying stone
+**ÉVASION DE DÉPART –** 10
 
-**WITCH’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 6
 
-***Witch’s Charm:*** When you or an ally within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to change it into a [success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW) instead.
+**OBJETS DE CLASSE –** Un petit animal de compagnie inoffensif ou une pierre de divination
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DE LA SORCIÈRE**
 
-***Hex:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *Hex* a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. While *Hexed*, the target gains a penalty to their [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) and [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP). The maximum number of creatures you can *Hex* at one time is equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+***Charme de la Sorcière :*** Quand vous ou un allié à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ratez un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), vous pouvez **dépenser 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour le changer en [succès avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-***Commune:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) during a moment of calm, you can commune with an ancestor, a deity, a spirit, or an otherworldly being. Ask them a question, then roll a number of **d6s** equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. Choose one of the results and reference the chart below for the effect.
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-| Roll | Effect |
+***Malédiction :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour *maudire* temporairement une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Tant qu’elle est *Maudite*, la cible subit un malus à ses [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) et à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU). Le nombre maximal de créatures que vous pouvez *maudire* en même temps est égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
+
+***Communion :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), dans un moment de calme, vous pouvez communier avec un ancêtre, une divinité, un esprit ou un être d’un autre monde. Posez-lui une question, puis lancez un nombre de **d6** égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). Choisissez l’un des résultats et consultez le tableau ci-dessous pour connaître l’effet.
+
+| Jet | Effet |
 | --- | --- |
-| 1–3 | You taste a flavor, smell a scent, or feel a sensation relevant to the answer. |
-| 4–5 | You hear sounds or see a vision relevant to the answer. |
-| 6 | You psychically experience a scene relevant to the answer as if you were there. |
+| 1–3 | Vous goûtez une saveur, sentez une odeur ou éprouvez une sensation en rapport avec la réponse. |
+| 4–5 | Vous entendez des sons ou voyez une vision en rapport avec la réponse. |
+| 6 | Vous vivez psychiquement une scène en rapport avec la réponse, comme si vous y étiez. |
 
-### SUBCLASSES
+### SOUS-CLASSES
 
-*Choose either the* ***[Hedge Witch](../subclasses/Hedge%20Witch.md)*** *or* ***[Moon Witch](../subclasses/Moon%20Witch.md)*** *subclass.*
+*Choisissez la sous-classe* ***[Sorcière des haies](../subclasses/Hedge%20Witch.md)*** *ou* ***[Sorcière de la lune](../subclasses/Moon%20Witch.md)***.
 
-**BACKGROUND QUESTIONS**
+**QUESTIONS D’HISTORIQUE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who from your community feared your magical craft? What rumor did they spread about you, and what truth did it contain?
+- Qui, dans votre communauté, a craint votre art magique ? Quelle rumeur a-t-il répandue à votre sujet, et quelle part de vérité contenait-elle ?
 
-- You once used your power to help someone in a dire situation. Who were they, and why did they come to you?
+- Vous avez un jour utilisé votre pouvoir pour aider quelqu’un dans une situation désespérée. Qui était-ce, et pourquoi est-il venu vers vous ?
 
-- Your magic once opened a door best left closed. Who or what was on the other side?
+- Votre magie a un jour ouvert une porte qu’il aurait mieux valu laisser fermée. Qui ou quoi se trouvait de l’autre côté ?
 
-**CONNECTIONS**
+**LIENS**
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- What unique ritual or practice have I taught you that we now perform together?
+- Quel rituel ou quelle pratique singulière vous ai-je enseigné et accomplissons-nous désormais ensemble ?
 
-- I once appeared to you in a dream and shared a vision of the future. What did I tell you?
+- Je vous suis un jour apparue en rêve et vous ai montré une vision de l’avenir. Que vous ai-je dit ?
 
-- What do you typically come to me for advice about?
+- Pour quel sujet venez-vous habituellement me demander conseil ?

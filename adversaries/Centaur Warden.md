@@ -1,21 +1,28 @@
-# Centaur Warden
+---
+aliases:
+  - "Centaur Warden"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A half-human, half-horse guardian who patrols the borders of idyllic lands uncorrupted by the touch of civilization.*
+# Centaure gardien
 
-**Motives & Tactics:** Live in harmony with nature, protect the wilderness, use mobility and distance to drive off intruders
+*(VO : Centaur Warden)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10/19 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Recurved Bow:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Un gardien mi-humain, mi-cheval, qui patrouille aux frontières de contrées idylliques préservées du contact de la civilisation.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Nature +2, Philosophy +2
+**Motivations et tactiques :** Vivre en harmonie avec la nature, protéger la nature sauvage, utiliser la mobilité et la distance pour repousser les intrus
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10/19 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Arc récurvé :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 phy
 
-***Flanking Maneuver - Passive:*** When the Warden makes a standard attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of one or more of the Warden’s allies, the Warden gains a +2 bonus to the [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Nature +2, Philosophie +2
 
-***Eye of the Sage - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack. The Warden has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) and critically succeeds on a roll of 19–20.
+## APTITUDES
 
-***Trample - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Warden gallop up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range in a straight line. Each target in their path must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who succeed take **1d6+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who fail take double damage and must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Manœuvre de flanc - Passif :*** Quand le Centaure effectue une attaque standard contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un ou plusieurs de ses alliés, il gagne un bonus de +2 au [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Quick Volley - Reaction:*** When the Warden makes a standard attack, you can **mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to target an equal number of additional creatures within range.
+***Œil du sage - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard. Le Centaure bénéficie d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur le [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) et réussit de façon critique sur un résultat de 19 à 20.
+
+***Piétinement - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Centaure galope en ligne droite jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible sur son chemin doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui réussissent subissent **1d6+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui échouent subissent le double des dégâts et doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Volée rapide - Réaction :*** Quand le Centaure effectue une attaque standard, vous pouvez **marquer autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que vous voulez** pour viser un nombre égal de créatures supplémentaires à portée.

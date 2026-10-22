@@ -1,18 +1,25 @@
-# Valor
+---
+aliases:
+  - "Valor"
+---
 
-Valor is the domain of **protection.** Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle. Valor offers great power to those who raise their shields in defense of others. The Valor domain can be accessed by the **[Brawler](../classes/Brawler.md)**, **[Guardian](../classes/Guardian.md)**, and **[Seraph](../classes/Seraph.md)** classes.
+# Vaillance
 
-### DOMAIN CARDS
+*(VO : Valor)*
 
-| **Level** | **Option 1**                                                   | **Option 2**                                           | **Option 3**                                               |
-| --------- | -------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| **1**     | [Bare Bones](../abilities/Bare%20Bones.md)                     | [Forceful Push](../abilities/Forceful%20Push.md)       | [I Am Your Shield](../abilities/I%20Am%20Your%20Shield.md) |
-| **2**     | [Body Basher](../abilities/Body%20Basher.md)                   | [Bold Presence](../abilities/Bold%20Presence.md)       | —                                                          |
-| **3**     | [Critical Inspiration](../abilities/Critical%20Inspiration.md) | [Lean on Me](../abilities/Lean%20on%20Me.md)           | —                                                          |
-| **4**     | [Goad Them on](../abilities/Goad%20Them%20on.md)               | [Support Tank](../abilities/Support%20Tank.md)         | —                                                          |
-| **5**     | [Armorer](../abilities/Armorer.md)                             | [Rousing Strike](../abilities/Rousing%20Strike.md)     | —                                                          |
-| **6**     | [Inevitable](../abilities/Inevitable.md)                       | [Rise Up](../abilities/Rise%20Up.md)                   | —                                                          |
-| **7**     | [Shrug It Off](../abilities/Shrug%20It%20Off.md)               | [Valor‑touched](../abilities/Valor‑touched.md) | —                                                          |
-| **8**     | [Full Surge](../abilities/Full%20Surge.md)                     | [Ground Pound](../abilities/Ground%20Pound.md)         | —                                                          |
-| **9**     | [Hold the Line](../abilities/Hold%20the%20Line.md)             | [Lead by Example](../abilities/Lead%20by%20Example.md) | —                                                          |
-| **10**    | [Unbreakable](../abilities/Unbreakable.md)                     | [Unyielding Armor](../abilities/Unyielding%20Armor.md) | —                                                          |
+La Vaillance est le domaine de la **protection.** Par l’attaque comme par la défense, ceux qui choisissent cette discipline canalisent une force formidable pour protéger leurs alliés au combat. La Vaillance offre un grand pouvoir à ceux qui lèvent leur bouclier pour défendre les autres. Le domaine de la Vaillance est accessible aux classes **[Bagarreur](../classes/Brawler.md)**, **[Gardien](../classes/Guardian.md)** et **[Séraphin](../classes/Seraph.md)**.
+
+### CARTES DE DOMAINE
+
+| **Niveau** | **Option 1**                                                   | **Option 2**                                             | **Option 3**                                                   |
+| ---------- | -------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------- |
+| **1**      | [Os à nu](../abilities/Bare%20Bones.md)                        | [Poussée puissante](../abilities/Forceful%20Push.md)     | [Je suis ton bouclier](../abilities/I%20Am%20Your%20Shield.md) |
+| **2**      | [Fracasse-corps](../abilities/Body%20Basher.md)                | [Présence audacieuse](../abilities/Bold%20Presence.md)   | —                                                              |
+| **3**      | [Inspiration critique](../abilities/Critical%20Inspiration.md) | [Appuie-toi sur moi](../abilities/Lean%20on%20Me.md)     | —                                                              |
+| **4**      | [Les aiguillonner](../abilities/Goad%20Them%20on.md)           | [Rempart de soutien](../abilities/Support%20Tank.md)     | —                                                              |
+| **5**      | [Armurier](../abilities/Armorer.md)                            | [Frappe galvanisante](../abilities/Rousing%20Strike.md)  | —                                                              |
+| **6**      | [Inéluctable](../abilities/Inevitable.md)                      | [Debout](../abilities/Rise%20Up.md)                      | —                                                              |
+| **7**      | [Encaisser sans broncher](../abilities/Shrug%20It%20Off.md)    | [Touché par la Vaillance](../abilities/Valor‑touched.md) | —                                                              |
+| **8**      | [Déferlement total](../abilities/Full%20Surge.md)              | [Martèlement du sol](../abilities/Ground%20Pound.md)     | —                                                              |
+| **9**      | [Tenir la ligne](../abilities/Hold%20the%20Line.md)            | [Montrer l’exemple](../abilities/Lead%20by%20Example.md) | —                                                              |
+| **10**     | [Incassable](../abilities/Unbreakable.md)                      | [Armure inflexible](../abilities/Unyielding%20Armor.md)  | —                                                              |

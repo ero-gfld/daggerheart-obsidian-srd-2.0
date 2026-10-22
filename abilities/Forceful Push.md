@@ -1,7 +1,14 @@
-# Forceful Push
+---
+aliases:
+  - "Forceful Push"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Poussée puissante
 
-Make an attack with your [primary weapon](../core_rules/Equipment.md#WEAPONS) against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, you deal damage and knock them back to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW), add a **d6** to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Forceful Push)*
 
-Additionally, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Effectuez une attaque avec votre [arme principale](../core_rules/Equipment.md#ARMES) contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de succès, vous infligez des dégâts et la repoussez à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Sur un [succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U), ajoutez un **d6** à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+Par ailleurs, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la rendre temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

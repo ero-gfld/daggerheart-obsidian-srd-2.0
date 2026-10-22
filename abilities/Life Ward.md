@@ -1,7 +1,14 @@
-# Life Ward
+---
+aliases:
+  - "Life Ward"
+---
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Garde de vie
 
-**Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. They are marked with a glowing sigil of protection. When this ally would make a [death move](../core_rules/Core%20Mechanics.md#DEATH), they clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) instead.
+*(VO : Life Ward)*
 
-This effect ends when it saves the target from a [death move](../core_rules/Core%20Mechanics.md#DEATH), you cast Life Ward on another target, or you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+**Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et choisissez un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Il est marqué d’un glyphe de protection luminescent. Lorsque cet allié devrait faire un [choix de mort](../core_rules/Core%20Mechanics.md#MORT), il efface un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à la place.
+
+Cet effet prend fin lorsqu’il sauve la cible d’un [choix de mort](../core_rules/Core%20Mechanics.md#MORT), lorsque vous lancez Garde de vie sur une autre cible, ou lorsque vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

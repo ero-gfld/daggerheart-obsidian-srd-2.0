@@ -1,21 +1,28 @@
-# Stalwart
+---
+aliases:
+  - "Stalwart"
+---
 
-Play the Stalwart if you want to take heavy blows and keep fighting.
+# Inébranlable
 
-**FOUNDATION FEATURES**
+*(VO : Stalwart)*
 
-***Unwavering:*** Gain a permanent +1 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+Jouez l’Inébranlable si vous voulez encaisser de lourds coups et continuer à vous battre.
 
-***Iron Will:*** When you take [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can **mark an additional [Armor Slot](../core_rules/Equipment.md#ARMOR)** to reduce the severity.
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Constant :*** Gagnez un bonus permanent de +1 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Unrelenting:*** Gain a permanent +2 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Volonté de fer :*** Quand vous subissez des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) supplémentaire** pour en réduire la gravité.
 
-***Partners-in-Arms:*** When an ally within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range takes damage, you can **mark an [Armor Slot](../core_rules/Equipment.md#ARMOR)** to reduce the severity by one threshold.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Opiniâtre :*** Gagnez un bonus permanent de +2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Undaunted:*** Gain a permanent +3 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Frères d’armes :*** Quand un allié à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) subit des dégâts, vous pouvez **marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE)** pour en réduire la gravité d’un seuil.
 
-***Loyal Protector:*** When an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range has 2 or fewer [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and would take damage, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to sprint to their side and take the damage instead.
+**APTITUDES D’EXCELLENCE**
+
+***Intrépide :*** Gagnez un bonus permanent de +3 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+
+***Protecteur loyal :*** Quand un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) a 2 [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou moins et va subir des dégâts, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour foncer à ses côtés et subir les dégâts à sa place.

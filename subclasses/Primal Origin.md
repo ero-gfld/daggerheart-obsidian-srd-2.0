@@ -1,47 +1,54 @@
-# Primal Origin
+---
+aliases:
+  - "Primal Origin"
+---
 
-Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
+# Origine primordiale
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Primal Origin)*
 
-[Instinct](../core_rules/Character%20Creation.md#STEP%203)
+Jouez l’Origine primordiale si vous voulez étendre la polyvalence de vos sorts de façon spectaculaire.
 
-**FOUNDATION FEATURE**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Manipulate Magic:*** Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to do one of the following:
+[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-- Extend the spell or attack’s reach by one range
+**APTITUDE DE FONDATION**
 
-- Gain a +2 bonus to the [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS)’s result
+***Manipuler la magie :*** Votre origine primordiale vous permet de modifier l’essence même de la magie. Après avoir lancé un sort ou fait une attaque avec une arme qui inflige des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour faire l’une des choses suivantes :
 
-- Double a damage die of your choice
+- Augmenter la portée du sort ou de l’attaque d’un cran
 
-- Hit an additional target within range
+- Gagner un bonus de +2 au résultat du [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION)
 
-**SPECIALIZATION FEATURE**
+- Doubler un dé de dégâts de votre choix
 
-***Enchanted Aid:*** You can enhance the magic of others with your essence. When you [Help an Ally](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) with a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), you can roll a **d8** as your [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) die. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), after an ally has made a Spellcast Roll with your help, you can swap the results of their [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
+- Toucher une cible supplémentaire à portée
 
-**MASTERY FEATURE**
+**APTITUDE DE SPÉCIALISATION**
 
-***Arcane Charge:*** You can gather magical energy to enhance your capabilities. When you take [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), you become *Charged*. Alternatively, you can **spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to become *Charged*. When you successfully make an attack that deals magic damage while *Charged*, you can clear your *Charge* to either gain a +10 bonus to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) or gain a +3 bonus to the [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) of a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) the spell causes the target to make. You stop being *Charged* at your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+***Aide enchantée :*** Vous pouvez renforcer la magie des autres grâce à votre essence. Quand vous [aidez un allié](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) sur un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX), vous pouvez lancer un **d8** comme [dé d’avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), après qu’un allié a fait un jet d’Incantation avec votre aide, vous pouvez échanger les résultats de ses [dés de Dualité](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-**BACKGROUND QUESTIONS**
+**APTITUDE D’EXCELLENCE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***Charge arcanique :*** Vous pouvez rassembler de l’énergie magique pour améliorer vos capacités. Quand vous subissez des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous devenez *Chargé*. Vous pouvez aussi **dépenser 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour devenir *Chargé*. Quand vous réussissez une attaque qui inflige des dégâts magiques alors que vous êtes *Chargé*, vous pouvez dissiper votre *Charge* pour gagner soit un bonus de +10 au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER), soit un bonus de +3 à la [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) d’un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) que le sort oblige la cible à faire. Vous cessez d’être *Chargé* à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).
 
-- What did you do that made the people in your community wary of you?
+**QUESTIONS D’HISTORIQUE**
 
-- What mentor taught you to control your untamed magic, and why are they no longer able to guide you?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- You have a deep fear you hide from everyone. What is it, and why does it scare you?
+- Qu’avez-vous fait pour que les gens de votre communauté se méfient de vous ?
 
-**CONNECTIONS**
+- Quel mentor vous a appris à maîtriser votre magie indomptée, et pourquoi n’est-il plus en mesure de vous guider ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Vous avez une peur profonde que vous cachez à tous. Quelle est-elle, et pourquoi vous effraie-t-elle ?
 
-- Why do you trust me so deeply?
+**LIENS**
 
-- What did I do that makes you cautious around me?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- Why do we keep our shared past a secret?
+- Pourquoi me faites-vous si profondément confiance ?
+
+- Qu’ai-je fait qui vous rende prudent en ma présence ?
+
+- Pourquoi gardons-nous notre passé commun secret ?

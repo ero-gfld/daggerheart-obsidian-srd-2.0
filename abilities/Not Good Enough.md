@@ -1,5 +1,12 @@
-# Not Good Enough
+---
+aliases:
+  - "Not Good Enough"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Pas assez bien
 
-When you roll your damage dice, you can reroll any 1s or 2s.
+*(VO : Not Good Enough)*
+
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Quand vous lancez vos dés de dégâts, vous pouvez relancer les 1 et les 2.

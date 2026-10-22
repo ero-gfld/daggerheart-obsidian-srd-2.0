@@ -1,7 +1,14 @@
-# Dark Army
+---
+aliases:
+  - "Dark Army"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Dread](../domains/Dread.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Armée des ténèbres
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (14)**. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) on a success, you can summon fiends that surround and move with you. Place 8 tokens on this card. When you deal damage to a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can spend any number of tokens to add **1d8** for each token spent to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, when you take damage, you can spend any number of tokens to reduce the damage by **1d8** for each token spent. Each time you spend a token, a fiend acts on your behalf, then disappears.
+*(VO : Dark Army)*
 
-When you take a rest, clear all unspent tokens.
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Effroi](../domains/Dread.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (14)**. Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), en cas de réussite, vous pouvez invoquer des démons qui vous entourent et se déplacent avec vous. Placez 8 jetons sur cette carte. Lorsque vous infligez des dégâts à une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez dépenser autant de jetons que vous voulez pour ajouter **1d8** par jeton dépensé à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, lorsque vous subissez des dégâts, vous pouvez dépenser autant de jetons que vous voulez pour réduire les dégâts de **1d8** par jeton dépensé. Chaque fois que vous dépensez un jeton, un démon agit pour vous, puis disparaît.
+
+Lorsque vous prenez un repos, retirez tous les jetons non dépensés.

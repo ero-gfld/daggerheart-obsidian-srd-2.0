@@ -1,9 +1,16 @@
-# Tyris Soft Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Tyris Soft Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 8 / 18  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Armure souple de Tyris
 
-### FEATURE
+*(VO : Tyris Soft Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Quiet:*** You gain a +2 bonus to rolls you make to move silently.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 8 / 18  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Silencieux :*** Vous gagnez un bonus de +2 aux jets pour vous déplacer en silence.

@@ -1,17 +1,24 @@
-# Harpy
+---
+aliases:
+  - "Harpy"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A fierce and foul-smelling bird with an eight-foot wingspan and the upper body and face of a human.*
+# Harpie
 
-**Motives & Tactics:** Defend nest, drop enemies from a great height, maraud from the air, screech incessantly
+*(VO : Harpy)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3/7 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Talons:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un oiseau féroce et malodorant, d’une envergure de près de deux mètres et demi, au buste et au visage d’humain.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Islands +3
+**Motivations et tactiques :** Défendre le nid, lâcher ses ennemis de très haut, piller depuis les airs, crier sans relâche
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3/7 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Serres :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+1 phy
 
-***Toxic Aura - Passive:*** The Harpy emits a foul stench that renders all non-Harpies *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* while within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Îles +3
 
-***Swooping Attack - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Harpy move in a straight line to a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an attack against a target in the Harpy’s path. On a success, the Harpy deals **3d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
+
+***Aura toxique - Passif :*** La Harpie dégage une odeur fétide qui rend *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* toutes les créatures qui ne sont pas des Harpies, tant qu’elles se trouvent à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Attaque en piqué - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la Harpie se déplace en ligne droite jusqu’à un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et attaque une cible sur sa trajectoire. En cas de réussite, la Harpie inflige **3d6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

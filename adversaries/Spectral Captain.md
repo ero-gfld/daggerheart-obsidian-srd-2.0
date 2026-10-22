@@ -1,21 +1,28 @@
-# Spectral Captain
+---
+aliases:
+  - "Spectral Captain"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A ghostly commander leading their troops beyond death.*
+# Capitaine spectral
 
-**Motives & Tactics:** Move through solid objects, rally troops, rehash old battles
+*(VO : Spectral Captain)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 13/26 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Longbow:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+3 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un commandant fantomatique qui mène ses troupes au-delà de la mort.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ancient [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3
+**Motivations et tactiques :** Traverser les objets solides, rallier les troupes, rejouer de vieilles batailles
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 13/26 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Arc long :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+3 phy
 
-***Ghost - Passive:*** The Captain has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range through solid objects.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ancien +3
 
-***Unending Battle - Action:*** **Spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to return up to **1d4+1** defeated Spectral allies to the battle at the points where they first appeared (with no marked [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](../core_rules/Core%20Mechanics.md#STRESS)).
+## APTITUDES
 
-***Hold Fast - Reaction:*** When the Captain’s Spectral allies are forced to make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to give those allies a +2 bonus to the roll.
+***Fantôme - Passif :*** Le Capitaine a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour se déplacer jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à travers les objets solides.
 
-***Momentum - Reaction:*** When the Captain makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Bataille sans fin - Action :*** **Dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ramener au combat jusqu’à **1d4+1** alliés spectraux vaincus, aux endroits où ils sont apparus pour la première fois (sans [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ni [Stress](../core_rules/Core%20Mechanics.md#STRESS) marqués).
+
+***Tenir bon - Réaction :*** Quand les alliés spectraux du Capitaine doivent faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour leur accorder un bonus de +2 à ce jet.
+
+***Élan - Réaction :*** Quand le Capitaine réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

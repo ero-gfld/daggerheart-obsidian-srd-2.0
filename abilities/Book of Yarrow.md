@@ -1,7 +1,14 @@
-# Book of Yarrow
+---
+aliases:
+  - "Book of Yarrow"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Livre de Yarrow
 
-***Timejammer:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (18)**. On a success, time temporarily slows to a halt for everyone within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range except for you. It resumes the next time you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) that targets another creature.
+*(VO : Book of Yarrow)*
 
-***Magic Immunity:*** **Spend 5 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to become [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) until your next rest.
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+***Brouilleur de temps :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (18)**. En cas de réussite, le temps ralentit temporairement jusqu’à s’arrêter pour tous ceux qui se trouvent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), sauf pour vous. Il reprend la prochaine fois que vous faites un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) visant une autre créature.
+
+***Immunité magique :*** **Dépensez 5 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour devenir [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) jusqu’à votre prochain repos.

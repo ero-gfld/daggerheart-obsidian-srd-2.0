@@ -1,9 +1,16 @@
-# Book of Grynn
+---
+aliases:
+  - "Book of Grynn"
+---
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Livre de Grynn
 
-***Arcane Deflection:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to negate the damage of an attack targeting you or an ally within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+*(VO : Book of Grynn)*
 
-***Time Lock:*** Target an object within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against them to maintain this spell.
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-***Wall of Flame:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15)**. On a success, create a temporary wall of magical flame between two points within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes **4d10+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Déviation arcanique :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), **dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour annuler les dégâts d’une attaque visant vous ou un allié à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Verrou temporel :*** Ciblez un objet à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Cet objet s’arrête dans le temps et dans l’espace, exactement là où il se trouve, jusqu’à votre prochain repos. Si une créature tente de le déplacer, faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre elle pour maintenir ce sort.
+
+***Mur de flammes :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15)**. En cas de réussite, créez un mur temporaire de flammes magiques entre deux points à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les créatures sur son trajet doivent choisir de quel côté se tenir, et tout ce qui traverse ensuite le mur subit **4d10+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

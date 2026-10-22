@@ -1,17 +1,24 @@
-# Call of the Brave
+---
+aliases:
+  - "Call of the Brave"
+---
 
-Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.
+# Appel du brave
 
-**FOUNDATION FEATURES**
+*(VO : Call of the Brave)*
 
-***Courage:*** When you fail a roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+Jouez l’Appel du brave si vous voulez puiser dans la puissance de vos ennemis pour alimenter la vôtre.
 
-***Battle Ritual:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) and gain 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURE**
+***Courage :*** Quand vous ratez un jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Rise to the Challenge:*** You are vigilant in the face of mounting danger. While you have 2 or fewer [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) unmarked, you can roll a **d20** as your [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Rituel de bataille :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), avant de tenter quelque chose d’extrêmement dangereux ou d’affronter un ennemi manifestement plus fort que vous, décrivez le rituel que vous accomplissez ou les préparatifs que vous faites. Quand vous le faites, évacuez 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) et gagnez 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-**MASTERY FEATURE**
+**APTITUDE DE SPÉCIALISATION**
 
-***Camaraderie:*** Your unwavering bravery is a rallying point for your allies. You can initiate a [Tag Team Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) one additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to do so.
+***Relever le défi :*** Vous êtes vigilant face au danger grandissant. Tant qu’il vous reste 2 [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou moins à marquer, vous pouvez lancer un **d20** comme [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U).
+
+**APTITUDE D’EXCELLENCE**
+
+***Camaraderie :*** Votre bravoure inébranlable est un point de ralliement pour vos alliés. Vous pouvez initier un [jet en tandem](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) une fois de plus par session. De plus, quand un allié initie un jet en tandem avec vous, il n’a besoin de dépenser que 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour le faire.

@@ -1,3 +1,10 @@
-# Major Stride Potion
+---
+aliases:
+  - "Major Stride Potion"
+---
 
-You gain a +1 bonus to your [Agility](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+# Potion de foulée majeure
+
+*(VO : Major Stride Potion)*
+
+Vous gagnez un bonus de +1 à votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

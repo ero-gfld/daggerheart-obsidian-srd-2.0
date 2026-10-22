@@ -1,3 +1,10 @@
-# Magic-User’s Malison
+---
+aliases:
+  - "Magic-User’s Malison"
+---
 
-When you release this spellcaster’s trapped soul, you can cast one spell from a card in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) as if it were in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS). This doesn’t work for permanently vaulted cards.
+# Malédiction de l’usager de magie
+
+*(VO : Magic-User’s Malison)*
+
+Lorsque vous libérez l’âme emprisonnée de ce lanceur de sorts, vous pouvez lancer un sort d’une carte de votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) comme si elle se trouvait dans votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE). Cela ne fonctionne pas avec les cartes mises en réserve de façon permanente.

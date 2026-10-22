@@ -1,3 +1,10 @@
-# Varik Leaves
+---
+aliases:
+  - "Varik Leaves"
+---
 
-You can eat these paired leaves to immediately gain 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+# Feuilles de Varik
+
+*(VO : Varik Leaves)*
+
+Mangez ces feuilles jumelles pour gagner immédiatement 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

@@ -1,111 +1,118 @@
-# Equipment
+---
+aliases:
+  - "Equipment"
+---
 
-Your **equipped** weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can’t equip weapons or armor with a higher [tier](Core%20Mechanics.md#LEVELING%20UP) than you.
+# Équipement
 
-[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can carry up to two additional weapons in the “Inventory Weapon” areas of the character sheet.
+*(VO : Equipment)*
 
-You can swap an Inventory Weapon with an Active Weapon at no cost during a rest or moment of calm; otherwise, you must mark a [Stress](Core%20Mechanics.md#STRESS) to do so.
+Vos armes et armures **équipées** sont celles inscrites dans les sections « Armes actives » et « Armure active » de votre fiche de personnage. Votre personnage ne peut attaquer qu’avec des armes, bénéficier que d’une armure et tirer des aptitudes que d’objets qu’il a équipés. Vous ne pouvez pas équiper d’armes ni d’armures d’un [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) supérieur au vôtre.
 
-Your character can only have one Active Armor at a time. They can’t equip armor while in danger or under pressure; otherwise, they can equip or unequip armor without cost. Each armor has its own [Armor Slots](Equipment.md#ARMOR); if your character unequips their armor, track how many of its Armor Slots are marked. You can't carry armor in your inventory. When your character equips or unequips armor, recalculate your [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peuvent porter jusqu’à deux armes supplémentaires dans les zones « Armes en inventaire » de la fiche de personnage.
 
-## WEAPONS
+Vous pouvez échanger une arme en inventaire avec une arme active sans frais pendant un repos ou un moment de calme ; sinon, vous devez marquer un [Stress](Core%20Mechanics.md#STRESS) pour le faire.
 
-All weapons have a [tier](Core%20Mechanics.md#LEVELING%20UP), trait, range, damage die, damage type, and burden. Some weapons also have a feature.
+Votre personnage ne peut avoir qu’une seule armure active à la fois. Il ne peut pas équiper d’armure lorsqu’il est en danger ou sous pression ; sinon, il peut équiper ou retirer une armure sans frais. Chaque armure a ses propres [Emplacements d’armure](Equipment.md#ARMURE) ; si votre personnage retire son armure, notez combien de ses Emplacements d’armure sont marqués. Vous ne pouvez pas garder d’armure dans votre inventaire. Lorsque votre personnage équipe ou retire une armure, recalculez vos [seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-**CATEGORY**
+## ARMES
 
-A weapon’s **category** specifies whether it is a Primary or Secondary weapon. Your character can only equip up to one weapon of each category at a time.
+Toutes les armes ont un [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU), une caractéristique, une portée, un dé de dégâts, un type de dégâts et une prise. Certaines armes ont aussi une aptitude.
 
-**TRAIT**
+**CATÉGORIE**
 
-A weapon’s **trait** specifies which trait to use when making an [attack roll](Core%20Mechanics.md#ATTACKING) with it.
+La **catégorie** d’une arme précise s’il s’agit d’une arme principale ou secondaire. Votre personnage ne peut équiper qu’une seule arme de chaque catégorie à la fois.
 
-**RANGE**
+**CARACTÉRISTIQUE**
 
-A weapon’s **range** specifies the maximum distance between the attacker and their target when attacking with it.
+La **caractéristique** d’une arme précise quelle caractéristique utiliser pour faire un [jet d’attaque](Core%20Mechanics.md#ATTAQUER) avec elle.
 
-**DAMAGE**
+**PORTÉE**
 
-A weapon’s **damage** indicates the size of the damage dice you roll on a successful attack with it; you roll a number of dice equal to your [Proficiency](Core%20Mechanics.md#ATTACKING). If the damage includes a flat modifier, this number is added to the total damage rolled, but is not altered or affected by Proficiency.
+La **portée** d’une arme précise la distance maximale entre l’attaquant et sa cible lorsqu’il attaque avec elle.
 
-**DAMAGE TYPE**
+**DÉGÂTS**
 
-A weapon’s **damage type** indicates whether it deals physical or [magic damage](Core%20Mechanics.md#ATTACKING). Weapons that deal magic damage can only be wielded by characters with a [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait.
+Les **dégâts** d’une arme indiquent la taille des dés de dégâts que vous lancez lors d’une attaque réussie avec elle ; vous lancez un nombre de dés égal à votre [Maîtrise](Core%20Mechanics.md#ATTAQUER). Si les dégâts comprennent un modificateur fixe, ce nombre s’ajoute au total des dégâts obtenus, mais n’est ni modifié ni affecté par la Maîtrise.
 
-**BURDEN**
+**TYPE DE DÉGÂTS**
 
-A weapon’s **burden** indicates how many **hands** it occupies when equipped. Your character’s maximum burden is 2 hands.
+Le **type de dégâts** d’une arme indique si elle inflige des dégâts physiques ou des [dégâts magiques](Core%20Mechanics.md#ATTAQUER). Les armes qui infligent des dégâts magiques ne peuvent être maniées que par des personnages dotés d’une caractéristique d’[Incantation](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
 
-**FEATURE**
+**PRISE**
 
-A weapon’s **feature** is a special rule that stays in effect while the weapon is equipped.
+La **prise** d’une arme indique combien de **mains** elle occupe lorsqu’elle est équipée. La prise maximale de votre personnage est de 2 mains.
 
-You can throw an equipped weapon at a target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making the [attack roll](Core%20Mechanics.md#ATTACKING) with [Finesse](Character%20Creation.md#STEP%203). On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can’t attack with it or benefit from its features.
+**APTITUDE**
 
-### PRIMARY WEAPON TABLES
+L’**aptitude** d’une arme est une règle spéciale qui reste en vigueur tant que l’arme est équipée.
 
-*Players can choose one [Tier 1](Core%20Mechanics.md#LEVELING%20UP) [primary weapon](Equipment.md#WEAPONS) during character creation. The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can make* *other weapons available throughout the campaign as the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [level up](Core%20Mechanics.md#LEVELING%20UP).*
+Vous pouvez lancer une arme équipée sur une cible située à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), en faisant le [jet d’attaque](Core%20Mechanics.md#ATTAQUER) avec la [Finesse](Character%20Creation.md#%C3%89TAPE%203). En cas de réussite, infligez les dégâts habituels de cette arme. Une fois lancée, l’arme n’est plus considérée comme équipée. Tant que vous ne l’avez pas récupérée et rééquipée, vous ne pouvez pas attaquer avec elle ni bénéficier de ses aptitudes.
 
-### SECONDARY WEAPON TABLES
+### TABLEAUX DES ARMES PRINCIPALES
 
-*Players can choose one [Tier 1](Core%20Mechanics.md#LEVELING%20UP) [secondary weapon](Equipment.md#WEAPONS) during character creation. The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can make* *other weapons available throughout the campaign as the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [level up](Core%20Mechanics.md#LEVELING%20UP).*
+*Les joueurs peuvent choisir une [arme principale](Equipment.md#ARMES) de [rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) lors de la création du personnage. Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut mettre d’autres armes à disposition au fil de la campagne à mesure que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) [montent de niveau](Core%20Mechanics.md#MONTER%20DE%20NIVEAU).*
 
-## ARMOR
+### TABLEAUX DES ARMES SECONDAIRES
 
-Every armor has a name, base [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), and a base Armor Score. Some armor also has a feature.
+*Les joueurs peuvent choisir une [arme secondaire](Equipment.md#ARMES) de [rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) lors de la création du personnage. Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut mettre d’autres armes à disposition au fil de la campagne à mesure que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) [montent de niveau](Core%20Mechanics.md#MONTER%20DE%20NIVEAU).*
 
-- An armor’s **base armor score** indicates how many Armor Slots it provides its wearer before additional bonuses are added to calculate their total Armor Score. A [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s Armor Score can’t exceed 12.
+## ARMURE
 
-- An armor’s **base thresholds** determine its wearer’s Major and [Severe damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) thresholds before adding bonuses to calculate their final [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). When recording your character’s damage thresholds in the “Damage & Health” section of your character sheet, you always add your character’s level to those values.
+Chaque armure a un nom, des [seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) de base et un Score d’armure de base. Certaines armures ont aussi une aptitude.
 
-- An armor’s **feature** is a special rule that stays in effect while the armor is equipped.
+- Le **Score d’armure de base** d’une armure indique combien d’Emplacements d’armure elle procure à celui qui la porte, avant que des bonus supplémentaires ne s’ajoutent pour calculer son Score d’armure total. Le Score d’armure d’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne peut pas dépasser 12.
 
-While **unarmored,** your character’s base Armor Score is 0, their [Major threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) is equal to their level, and their [Severe threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) is equal to twice their level.
+- Les **Seuils de base** d’une armure déterminent les seuils de dégâts majeurs et [sévères](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) de celui qui la porte, avant l’ajout de bonus pour calculer ses [seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) finaux. Lorsque vous notez les seuils de dégâts de votre personnage dans la section « Dégâts et santé » de votre fiche de personnage, vous ajoutez toujours le niveau de votre personnage à ces valeurs.
 
-**REDUCING INCOMING DAMAGE**
+- L’**aptitude** d’une armure est une règle spéciale qui reste en vigueur tant que l’armure est équipée.
 
-When you take damage, you can mark one Armor Slot to reduce the severity of the damage by one threshold (Severe to Major, Major to Minor, Minor to nothing). If your character has an Armor Score of 0, you can’t mark Armor Slots. If an effect temporarily increases your Armor Score, it increases your available Armor Slots by the same amount; when the effect ends, so does the availability of these Armor Slots.
+Lorsque votre personnage est **sans armure,** son Score d’armure de base est de 0, son [seuil Majeur](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) est égal à son niveau et son [seuil Sévère](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) est égal à deux fois son niveau.
 
-## LOOT
+**RÉDUIRE LES DÉGÂTS SUBIS**
 
-**Loot** comprises any consumables or reusable items the party acquires.
+Lorsque vous subissez des dégâts, vous pouvez marquer un Emplacement d’armure pour réduire la gravité des dégâts d’un seuil (sévères en majeurs, majeurs en mineurs, mineurs en rien). Si le Score d’armure de votre personnage est de 0, vous ne pouvez pas marquer d’Emplacements d’armure. Si un effet augmente temporairement votre Score d’armure, il augmente d’autant vos Emplacements d’armure disponibles ; lorsque l’effet prend fin, la disponibilité de ces Emplacements d’armure prend fin avec lui.
 
-### ITEMS
+## BUTIN
 
-**Items** can be used until sold, discarded, or lost.
+Le **butin** désigne tous les consommables ou objets réutilisables que le groupe acquiert.
 
-You can use the tables below to generate items ahead of a game or during a session. Choose the desired rarity, roll the associated number of d12s, add their values together (if needed), and then reference the table for the item that matches that value.
+### OBJETS
 
-- **Common (1d12 or 2d12):** Common items might be found at an abandoned camp or readily available at a local shop.
+Les **objets** peuvent être utilisés jusqu’à ce qu’ils soient vendus, jetés ou perdus.
 
-- **Uncommon (2d12 or 3d12):** Uncommon items might be found in limited supply in a shop, kept in a protected place in a camp, or offered as part of a reward for a job.
+Vous pouvez utiliser les tableaux ci-dessous pour générer des objets avant une partie ou pendant une séance. Choisissez la rareté souhaitée, lancez le nombre de d12 associé, additionnez leurs valeurs (si nécessaire), puis consultez le tableau pour trouver l’objet qui correspond à cette valeur.
 
-- **Rare (3d12 or 4d12):** Rare items might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered among a powerful [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s possessions.
+- **Commun (1d12 ou 2d12) :** Les objets communs peuvent se trouver dans un campement abandonné ou être facilement disponibles dans une boutique locale.
 
-- **Legendary (4d12 or 5d12):** Legendary items might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful [adversary](Using%20Adversaries.md)’s most precious and guarded treasure.
+- **Peu commun (2d12 ou 3d12) :** Les objets peu communs peuvent se trouver en quantité limitée dans une boutique, être gardés dans un endroit protégé d’un camp ou être proposés en partie de la récompense d’un travail.
 
-### CONSUMABLES
+- **Rare (3d12 ou 4d12) :** Les objets rares peuvent être gardés sous clé dans une boutique, être offerts comme unique récompense d’un travail ou être découverts parmi les possessions d’un [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) puissant.
 
-Consumables are pieces of loot that can be used only once. You can hold up to five of each consumable at a time. Using a consumable doesn’t require a roll unless required by the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) or the demands of the fiction.
+- **Légendaire (4d12 ou 5d12) :** Les objets légendaires peuvent être les seuls de leur espèce, être la récompense d’un travail incroyablement difficile ou dangereux, ou constituer le trésor le plus précieux et le mieux gardé d’un [adversaire](Using%20Adversaries.md) puissant.
 
-You can use the tables below to generate items ahead of a game or during a session. Choose the desired rarity, roll the associated number of d12s, add their values together (if needed), and then reference the table for the item that matches that value.
+### CONSOMMABLES
 
-- **Common (1d12 or 2d12):** Common consumables might be found at an abandoned camp or readily available at a local store.
+Les consommables sont des éléments de butin qui ne peuvent être utilisés qu’une seule fois. Vous pouvez détenir jusqu’à cinq exemplaires de chaque consommable à la fois. Utiliser un consommable ne nécessite pas de jet, sauf si le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ou les exigences de la fiction l’imposent.
 
-- **Uncommon (2d12 or 3d12):** Uncommon consumables might be found in limited supply in a shop, kept in a protected place in a camp, or offered as part of a reward for a job.
+Vous pouvez utiliser les tableaux ci-dessous pour générer des objets avant une partie ou pendant une séance. Choisissez la rareté souhaitée, lancez le nombre de d12 associé, additionnez leurs valeurs (si nécessaire), puis consultez le tableau pour trouver l’objet qui correspond à cette valeur.
 
-- **Rare (3d12 or 4d12):** Rare consumables might be kept under lock and key in a shop, offered as the sole reward for a job, or discovered in a powerful [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS)’s possessions.
+- **Commun (1d12 ou 2d12) :** Les consommables communs peuvent se trouver dans un campement abandonné ou être facilement disponibles dans une boutique locale.
 
-- **Legendary (4d12 or 5d12):** Legendary consumables might be the only item of their kind, a reward for an incredibly difficult or dangerous job, or a powerful [adversary](Using%20Adversaries.md)’s most precious and guarded treasure.
+- **Peu commun (2d12 ou 3d12) :** Les consommables peu communs peuvent se trouver en quantité limitée dans une boutique, être gardés dans un endroit protégé d’un camp ou être proposés en partie de la récompense d’un travail.
 
-## GOLD
+- **Rare (3d12 ou 4d12) :** Les consommables rares peuvent être gardés sous clé dans une boutique, être offerts comme unique récompense d’un travail ou être découverts parmi les possessions d’un [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) puissant.
 
-Gold is an abstract measurement of how much wealth a character has, and is measured in **handfuls, bags,** and **chests,** with 10 handfuls to 1 bag, and 10 bags to 1 chest. When you have marked all of the slots in a category and you gain another gold reward in that category, mark a slot in the following category and clear all the slots in the current one.
+- **Légendaire (4d12 ou 5d12) :** Les consommables légendaires peuvent être les seuls de leur espèce, être la récompense d’un travail incroyablement difficile ou dangereux, ou constituer le trésor le plus précieux et le mieux gardé d’un [adversaire](Using%20Adversaries.md) puissant.
 
-For example, if you have 9 handfuls and gain another, you instead mark 1 bag and erase all handfuls. If you have 9 bags and gain another, you mark 1 chest and erase all bags.
+## OR
 
-You can’t have more than 1 chest, so if all your Gold slots are marked, you’ll need to spend some of your gold or store it somewhere else before you can acquire more.
+L’Or est une mesure abstraite de la richesse d’un personnage ; il se compte en **poignées, bourses** et **coffres,** à raison de 10 poignées pour 1 bourse et de 10 bourses pour 1 coffre. Lorsque vous avez marqué toutes les cases d’une catégorie et que vous gagnez une nouvelle récompense en Or dans cette catégorie, marquez une case de la catégorie suivante et effacez toutes les cases de la catégorie actuelle.
 
-**Optional Rule: Gold Coins**
+Par exemple, si vous avez 9 poignées et en gagnez une de plus, vous marquez à la place 1 bourse et effacez toutes les poignées. Si vous avez 9 bourses et en gagnez une de plus, vous marquez 1 coffre et effacez toutes les bourses.
 
-If your group wants to track gold with more granularity, you can add **coins** as your lowest denomination. Following the established pattern, 10 coins equal 1 handful.
+Vous ne pouvez pas avoir plus de 1 coffre ; si toutes vos cases d’Or sont marquées, vous devrez dépenser une partie de votre Or ou le stocker ailleurs avant de pouvoir en acquérir davantage.
+
+**Règle optionnelle : les pièces d’or**
+
+Si votre groupe souhaite suivre l’Or avec plus de précision, vous pouvez ajouter des **pièces** comme plus petite dénomination. Selon le même schéma, 10 pièces équivalent à 1 poignée.

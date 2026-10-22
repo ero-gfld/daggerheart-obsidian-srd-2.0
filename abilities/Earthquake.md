@@ -1,7 +1,14 @@
-# Earthquake
+---
+aliases:
+  - "Earthquake"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Séisme
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16)**. Once per rest on a success, all targets within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range who aren’t flying must make a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (18). Targets who fail take **3d10+8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. Targets who succeed take half damage.
+*(VO : Earthquake)*
 
-Additionally, when you succeed on the [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS), all terrain within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range becomes difficult to move through and structures within this range might sustain damage or crumble.
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16)**. Une fois par repos, en cas de réussite, toutes les cibles à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) qui ne volent pas doivent faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (18). Les cibles qui échouent subissent **3d10+8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et sont temporairement *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. Les cibles qui réussissent subissent la moitié des dégâts.
+
+De plus, lorsque vous réussissez le [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX), tout le terrain à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) devient difficile à traverser, et les structures de cette zone risquent de subir des dégâts ou de s’effondrer.

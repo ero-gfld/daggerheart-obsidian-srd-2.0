@@ -1,47 +1,54 @@
-# Wizard
+---
+aliases:
+  - "Wizard"
+---
 
-Whether through an institution or individual study, those known as wizards acquire and hone immense magical power over years of learning using a variety of tools, including books, stones, potions, and herbs. Some wizards dedicate their lives to mastering a particular school of magic, while others learn from a wide variety of disciplines. Many wizards become wise and powerful figures in their communities, advising rulers, providing medicines and healing, and even leading war councils. While these mages all work toward the common goal of collecting magical knowledge, wizards often have the most conflict within their own ranks, as the acquisition, keeping, and sharing of powerful secrets is a topic of intense debate that has resulted in innumerable deaths.
+# Magicien
 
-**DOMAINS –** [Codex](../domains/Codex.md) & [Splendor](../domains/Splendor.md)
+*(VO : Wizard)*
 
-**STARTING EVASION –** 11
+Que ce soit par une institution ou par l’étude personnelle, ceux qu’on appelle magiciens acquièrent et perfectionnent d’immenses pouvoirs magiques au fil d’années d’apprentissage, à l’aide d’outils variés : livres, pierres, potions et herbes. Certains magiciens consacrent leur vie à maîtriser une école de magie particulière, tandis que d’autres puisent dans une grande variété de disciplines. Beaucoup deviennent des figures sages et puissantes de leur communauté : ils conseillent les souverains, fournissent remèdes et soins, et dirigent même des conseils de guerre. Si tous ces mages poursuivent le même but, rassembler le savoir magique, les magiciens connaissent souvent les conflits les plus vifs au sein de leurs propres rangs : acquérir, conserver et partager de puissants secrets est un sujet de débat intense qui a causé d’innombrables morts.
 
-**STARTING HIT POINTS –** 5
+**DOMAINES –** [Codex](../domains/Codex.md) & [Splendeur](../domains/Splendor.md)
 
-**CLASS ITEMS –** A book you’re trying to translate or a tiny, harmless elemental pet
+**ÉVASION DE DÉPART –** 11
 
-**WIZARD’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 5
 
-***Not This Time:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force an [adversary](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to reroll an attack or [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+**OBJETS DE CLASSE –** Un livre que vous essayez de traduire ou un minuscule élémentaire de compagnie, inoffensif
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU MAGICIEN**
 
-***Prestidigitation:*** You can perform harmless, subtle magical effects at will. For example, you can change an object’s color, create a smell, light a candle, cause a tiny object to float, illuminate a room, or repair a small object.
+***Pas cette fois :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer un [adversaire](../core_rules/Using%20Adversaries.md) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à relancer une attaque ou un [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Strange Patterns:*** Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-You can change this number when you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+***Prestidigitation :*** Vous pouvez produire à volonté des effets magiques discrets et inoffensifs. Par exemple, vous pouvez changer la couleur d’un objet, créer une odeur, allumer une bougie, faire flotter un minuscule objet, éclairer une pièce ou réparer un petit objet.
 
-### SUBCLASSES
+***Motifs étranges :*** Choisissez un nombre entre 1 et 12. Quand vous obtenez ce nombre sur un dé de Dualité, gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-*Choose either the* ***[School of Knowledge](../subclasses/School%20of%20Knowledge.md)*** *or* ***[School of War](../subclasses/School%20of%20War.md)*** *subclass.*
+Vous pouvez changer ce nombre quand vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).
 
-**BACKGROUND QUESTIONS**
+### SOUS-CLASSES
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Choisissez la sous-classe* ***[École du Savoir](../subclasses/School%20of%20Knowledge.md)*** *ou* ***[École de la Guerre](../subclasses/School%20of%20War.md)***.
 
-- What responsibilities did your community once count on you for? How did you let them down?
+**QUESTIONS D’HISTORIQUE**
 
-- You’ve spent your life searching for a book or object of great significance. What is it, and why is it so important to you?
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- You have a powerful rival. Who are they, and why are you so determined to defeat them?
+- Sur quelles responsabilités votre communauté comptait-elle autrefois chez vous ? Comment l’avez-vous déçue ?
 
-**CONNECTIONS**
+- Vous avez passé votre vie à chercher un livre ou un objet d’une grande importance. Qu’est-ce, et pourquoi compte-t-il tant pour vous ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Vous avez un puissant rival. Qui est-ce, et pourquoi êtes-vous si déterminé à le vaincre ?
 
-- What favor have I asked of you that you’re not sure you can fulfill?
+**LIENS**
 
-- What weird hobby or strange fascination do we both share?
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- What secret about yourself have you entrusted only to me?
+- Quelle faveur vous ai-je demandée, dont vous n’êtes pas sûr de pouvoir vous acquitter ?
+
+- Quel passe-temps bizarre ou quelle étrange fascination partageons-nous ?
+
+- Quel secret sur vous-même ne m’avez-vous confié qu’à moi ?

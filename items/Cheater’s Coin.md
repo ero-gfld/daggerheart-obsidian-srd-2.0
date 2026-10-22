@@ -1,3 +1,10 @@
-# Cheater’s Coin
+---
+aliases:
+  - "Cheater’s Coin"
+---
 
-When you flip this coin, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to determine which side it lands on.
+# Pièce truquée
+
+*(VO : Cheater’s Coin)*
+
+Lorsque vous lancez cette pièce, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour choisir la face sur laquelle elle tombe.

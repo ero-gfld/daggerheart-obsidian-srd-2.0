@@ -1,19 +1,26 @@
-# Dryad
+---
+aliases:
+  - "Dryad"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A nature spirit in the form of a humanoid tree.*
+# Dryade
 
-**Motives & Tactics:** Command, cultivate, drive out, preserve the forest
+*(VO : Dryad)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 24/38 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Deadfall Shortbow:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+1 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Esprit de la nature sous la forme d’un arbre humanoïde.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Forest [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +4
+**Motivations et tactiques :** Commander, cultiver, chasser les intrus, préserver la forêt
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 24/38 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Arc court en bois mort :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10+1 phy
 
-***Bramble Patch - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to target a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Create a patch of thorns that covers an area within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point. All targets within that area take **2d6+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) when they act. A target must succeed on a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll or deal more than 20 damage to the Dryad with an attack to leave the area.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) forestier +4
 
-***Grow Saplings - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to grow three [Treant Sapling](Treant%20Sapling.md) [Minions](../core_rules/Using%20Adversaries.md), who appear at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+## APTITUDES
 
-***We Are All One - Reaction:*** When an ally dies within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear 2 [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) as the fallen ally’s life force is returned to the forest.
+***Parterre de ronces - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour cibler un point à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Créez une nappe d’épines qui couvre une zone à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point. Toutes les cibles dans cette zone subissent **2d6+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) lorsqu’elles agissent. Pour quitter la zone, une cible doit réussir un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou infliger plus de 20 dégâts à la dryade avec une attaque.
+
+***Faire pousser des jeunes arbres - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire pousser trois [jeunes ent](Treant%20Sapling.md) [sbires](../core_rules/Using%20Adversaries.md), qui apparaissent à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et entrent immédiatement [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Nous ne faisons qu’un - Réaction :*** Quand un allié meurt à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effacer 2 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS), car la force vitale de l’allié tombé retourne à la forêt.

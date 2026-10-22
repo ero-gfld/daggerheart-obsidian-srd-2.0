@@ -1,3 +1,10 @@
-# Augur’s Relic
+---
+aliases:
+  - "Augur’s Relic"
+---
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can activate your [Hope feature](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) without spending [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). You can carry only one relic.
+# Relique de l’augure
+
+*(VO : Augur’s Relic)*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez activer votre [aptitude d’Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) sans dépenser d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Vous ne pouvez porter qu’une seule relique.

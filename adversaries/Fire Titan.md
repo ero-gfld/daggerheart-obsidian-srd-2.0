@@ -1,25 +1,32 @@
-# Fire Titan
+---
+aliases:
+  - "Fire Titan"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*An armor-clad goliath who has ash-gray skin and fiery hair and wields a masterwork greatsword crafted in their own smithy.*
+# Titan de feu
 
-**Motives & Tactics:** Act valorously, make war, think tactically
+*(VO : Fire Titan)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 19/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Greatsword:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d12+4 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un goliath cuirassé à la peau gris cendre et aux cheveux de feu, qui manie un espadon de maître forgé dans sa propre forge.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Smithing +5, Tactics +3
+**Motivations et tactiques :** Agir avec bravoure, faire la guerre, penser en tacticien
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 19/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Espadon :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d12+4 phy
 
-***Relentless (3) - Passive:*** The Titan can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Forge +5, Tactique +3
 
-***Masterwork Armor - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (3).* When the Titan first appears, activate the countdown. It ticks down when the Titan takes Major or [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). Until the countdown triggers, reduce incoming damage by **1d12**. When it triggers, the Titan gains a +1 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Momentum - Passive:*** When the Titan makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Implacable (3) - Passif :*** Le Titan peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Hurl Rock - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then make an attack against all targets between the Titan and that point. Targets the Titan succeeds against take **3d12** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Armure de maître - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (3).* Lorsque le Titan apparaît pour la première fois, activez le compte à rebours. Il décroît lorsque le Titan subit des dégâts majeurs ou [sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Tant que le compte à rebours n’est pas déclenché, réduisez les dégâts reçus de **1d12**. Quand il se déclenche, le Titan gagne un bonus de +1 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) et à ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Skull Splitter - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to place a token on this stat block. The next time the Titan is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), you must **spend the token** from this stat block and make an attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **3d20+5** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). On a failure, the target marks a Stress.
+***Élan - Passif :*** Lorsque le Titan réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Blazing Heart - Reaction:*** When the Titan marks half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and **mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to clear a number of HP equal to the number of Stress marked.
+***Lancer un rocher - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour choisir un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), puis effectuer une attaque contre toutes les cibles entre le Titan et ce point. Les cibles contre lesquelles le Titan réussit subissent **3d12** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Fendeur de crânes - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour placer un jeton sur ce bloc de statistiques. La prochaine fois que le Titan est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), vous devez **dépenser le jeton** de ce bloc et effectuer une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **3d20+5** [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER) physiques. En cas d’échec, la cible marque un Stress.
+
+***Cœur ardent - Réaction :*** Lorsque le Titan marque la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et **marquer autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que vous voulez** pour effacer un nombre de PV égal au nombre de Stress marqués.

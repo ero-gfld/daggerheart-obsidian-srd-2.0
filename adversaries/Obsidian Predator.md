@@ -1,25 +1,32 @@
-# Obsidian Predator
+---
+aliases:
+  - "Obsidian Predator"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A massive winged creature with obsidian scales and impossibly sharp claws.*
+# Prédateur d'obsidienne
 
-**Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
+*(VO : Obsidian Predator)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 19 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 33/65 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Obsidian Claws:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d10+4 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une immense créature ailée aux écailles d'obsidienne et aux griffes d'une acuité invraisemblable.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Hunt from Above +5
+**Motivations et tactiques :** Défendre sa tanière, piquer en piqué, voler, chasser, intimider
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 19 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 33/65 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +8 | **Griffes d'obsidienne :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d10+4 phy
 
-***Relentless (2) - Passive:*** The Obsidian Predator can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Chasse d'en haut +5
 
-***Flying - Passive:*** While flying, the Obsidian Predator gains a +3 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+## APTITUDES
 
-***Obsidian Scales - Passive:*** The Obsidian Predator is resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Implacable (2) - Passif :*** Le Prédateur d'obsidienne peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu'à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d'habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Avalanche Tail - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Obsidian Predator succeeds against take **4d6+4** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are knocked back to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Vol - Passif :*** Lorsqu'il vole, le Prédateur d'obsidienne gagne un bonus de +3 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
 
-***Dive-Bomb - Action:*** If the Obsidian Predator is flying, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Move to that point and make an attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Obsidian Predator succeeds against take **2d10+6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and must mark a Stress and lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Écailles d'obsidienne - Passif :*** Le Prédateur d'obsidienne a une résistance aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Erupting Rage (Phase Change) - Reaction:*** When the Obsidian Predator marks their last [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), replace them with the [Molten Scourge](Molten%20Scourge.md) and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Queue avalanche - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque contre toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Prédateur réussit subissent **4d6+4** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), sont repoussées jusqu'à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu'à leur prochain jet avec un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Piqué bombardier - Action :*** Si le Prédateur d'obsidienne vole, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour choisir un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Il se déplace jusqu'à ce point et effectue une attaque contre toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles il réussit subissent **2d10+6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), marquent un Stress et perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Rage éruptive (Changement de phase) - Réaction :*** Lorsque le Prédateur d'obsidienne marque son dernier [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), remplacez-le par le [Fléau en fusion](Molten%20Scourge.md) et [mettez-le immédiatement sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

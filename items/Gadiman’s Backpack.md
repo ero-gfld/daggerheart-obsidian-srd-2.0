@@ -1,3 +1,10 @@
-# Gadiman’s Backpack
+---
+aliases:
+  - "Gadiman’s Backpack"
+---
 
-Once per rest, you can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to conjure a mundane item up to a cubic foot in size inside this satchel.
+# Sac à dos de Gadiman
+
+*(VO : Gadiman’s Backpack)*
+
+Une fois par repos, vous pouvez dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour faire apparaître dans ce sac un objet ordinaire d’un pied cube au maximum.

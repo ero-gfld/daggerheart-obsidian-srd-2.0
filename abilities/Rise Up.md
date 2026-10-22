@@ -1,7 +1,14 @@
-# Rise Up
+---
+aliases:
+  - "Rise Up"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Debout
 
-Gain a bonus to your [Severe threshold](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Rise Up)*
 
-When you mark 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack, clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Gagnez un bonus à votre [seuil de dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+Lorsque vous marquez un ou plusieurs [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause d’une attaque, évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

@@ -1,3 +1,10 @@
-# Iron Veil
+---
+aliases:
+  - "Iron Veil"
+---
 
-This chain-link head covering renders the wearer invisible to fey creatures.
+# Voile de fer
+
+*(VO : Iron Veil)*
+
+Cette coiffe de mailles rend son porteur invisible aux créatures féeriques.

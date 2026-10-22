@@ -1,3 +1,10 @@
-# Woven Net
+---
+aliases:
+  - "Woven Net"
+---
 
-You can make a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll using this net to trap a small creature. A trapped target can break free with a successful [Attack Roll](../core_rules/Core%20Mechanics.md#ATTACKING) (16).
+# Filet tissé
+
+*(VO : Woven Net)*
+
+Vous pouvez faire un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) avec ce filet pour piéger une petite créature. Une cible piégée peut se libérer en réussissant un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) (16).

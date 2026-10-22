@@ -1,3 +1,10 @@
-# Wildrider’s Saddle
+---
+aliases:
+  - "Wildrider’s Saddle"
+---
 
-This saddle grants any animal it’s strapped onto the ability to understand their rider’s commands.
+# Selle du chevaucheur sauvage
+
+*(VO : Wildrider’s Saddle)*
+
+Cette selle permet à tout animal qui la porte de comprendre les ordres de son cavalier.

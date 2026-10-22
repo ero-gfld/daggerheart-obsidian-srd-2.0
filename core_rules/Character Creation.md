@@ -1,139 +1,146 @@
-# Character Creation
+---
+aliases:
+  - "Character Creation"
+---
 
-Unless their table chooses to use pre-generated characters, each player creates their own [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
+# Création de personnage
 
-***Note:*** *You can fill in your character’s name, pronouns, and* *Character Description details at any point of the character* *creation process.*
+*(VO : Character Creation)*
 
-#### STEP 1
+À moins que leur table ne choisisse d’utiliser des personnages prétirés, chaque joueur crée son propre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) en faisant une série de choix guidés. Certaines de ces décisions sont purement narratives, c’est-à-dire qu’elles n’apparaissent dans le jeu ou n’y ont d’effet que par le jeu de rôle ; d’autres sont des choix mécaniques qui influencent ce que le PJ est capable de faire et les actions qu’il a plus (ou moins) de chances de réussir lorsqu’il agit.
 
-**Choose a Class and Subclass. Classes** are role-based archetypes that determine which [class features](Classes.md) and **[domain cards](Domains.md#DOMAIN%20CARDS)** a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains access to throughout the campaign. There are 13 classes in this SRD: [Assassin](../classes/Assassin.md), [Bard](../classes/Bard.md), [Brawler](../classes/Brawler.md), [Druid](../classes/Druid.md), [Guardian](../classes/Guardian.md), [Ranger](../classes/Ranger.md), [Rogue](../classes/Rogue.md), [Seraph](../classes/Seraph.md), [Sorcerer](../classes/Sorcerer.md), [Warlock](../classes/Warlock.md), [Warrior](../classes/Warrior.md), [Witch](../classes/Witch.md), and [Wizard](../classes/Wizard.md).
+***Note :*** *Vous pouvez remplir le nom de votre personnage, ses pronoms et les détails de sa* *description à n’importe quel moment de la* *création du personnage.*
 
-- Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s details; you’ll update and reference them throughout the campaign.
+#### ÉTAPE 1
 
-- Every class begins with one or more unique **[class feature](Classes.md)(s),** described at the bottom left of each class’s character sheet. If your class feature prompts you to make a selection, do so now.
+**Choisissez une classe et une sous-classe. Les classes** sont des archétypes fondés sur un rôle, qui déterminent à quelles [aptitudes de classe](Classes.md) et à quelles **[cartes de domaine](Domains.md#CARTES%20DE%20DOMAINE)** un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) a accès tout au long de la campagne. Ce SRD contient 13 classes : [Assassin](../classes/Assassin.md), [Barde](../classes/Bard.md), [Bagarreur](../classes/Brawler.md), [Druide](../classes/Druid.md), [Gardien](../classes/Guardian.md), [Rôdeur](../classes/Ranger.md), [Roublard](../classes/Rogue.md), [Séraphin](../classes/Seraph.md), [Ensorceleur](../classes/Sorcerer.md), [Occultiste](../classes/Warlock.md), [Guerrier](../classes/Warrior.md), [Sorcière](../classes/Witch.md) et [Magicien](../classes/Wizard.md).
 
-- **Choose a Subclass**
+- Choisissez une classe et prenez la **fiche de personnage** et le **guide du personnage** correspondants à imprimer. Ces fiches servent à consigner les détails de votre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ; vous les mettrez à jour et vous y référerez tout au long de la campagne.
 
-  **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **[subclass features](Classes.md#SUBCLASSES).** Each class comprises two subclasses. Select one of your class’s subclasses and take its **[Foundation](Classes.md#SUBCLASSES)** card.
+- Chaque classe débute avec une ou plusieurs **[aptitudes de classe](Classes.md)** uniques, décrites en bas à gauche de la fiche de personnage de la classe. Si votre aptitude de classe vous demande de faire un choix, faites-le maintenant.
 
-#### STEP 2
+- **Choisissez une sous-classe**
 
-**Choose Your Heritage.** Your character’s **heritage** combines two elements: **ancestry** and **community.**
+  Les **sous-classes** affinent l’archétype d’une classe et renforcent son expression en donnant accès à des **[aptitudes de sous-classe](Classes.md#SOUS-CLASSES)** uniques. Chaque classe comprend deux sous-classes. Choisissez l’une des sous-classes de votre classe et prenez sa carte de **[Fondation](Classes.md#SOUS-CLASSES).**
 
-- A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **[ancestry features](Ancestries.md).** Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: [Aetheris](../ancestries/Aetheris.md), [Clank](../ancestries/Clank.md), [Drakona](../ancestries/Drakona.md), [Dwarf](../ancestries/Dwarf.md), [Earthkin](../ancestries/Earthkin.md), [Elf](../ancestries/Elf.md), [Emberkin](../ancestries/Emberkin.md), [Faerie](../ancestries/Faerie.md), [Faun](../ancestries/Faun.md), [Firbolg](../ancestries/Firbolg.md), [Fungril](../ancestries/Fungril.md), [Galapa](../ancestries/Galapa.md), [Giant](../ancestries/Giant.md), [Gnome](../ancestries/Gnome.md), [Goblin](../ancestries/Goblin.md), [Halfling](../ancestries/Halfling.md), [Human](../ancestries/Human.md), [Infernis](../ancestries/Infernis.md), [Katari](../ancestries/Katari.md), [Orc](../ancestries/Orc.md), [Ribbet](../ancestries/Ribbet.md), [Simiah](../ancestries/Simiah.md), [Skykin](../ancestries/Skykin.md), [Tidekin](../ancestries/Tidekin.md). To create a [Mixed Ancestry](../ancestry_rules/Mixed%20Ancestry.md), take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
+#### ÉTAPE 2
 
-- Your character’s **community** represents their culture or [environment](Using%20Environments.md) of origin and grants them a **[community feature](Communities.md).** Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: [Duneborne](../communities/Duneborne.md), [Freeborne](../communities/Freeborne.md), [Frostborne](../communities/Frostborne.md), [Hearthborne](../communities/Hearthborne.md), [Highborne](../communities/Highborne.md), [Loreborne](../communities/Loreborne.md), [Orderborne](../communities/Orderborne.md), [Reborne](../communities/Reborne.md), [Ridgeborne](../communities/Ridgeborne.md), [Seaborne](../communities/Seaborne.md), [Slyborne](../communities/Slyborne.md), [Underborne](../communities/Underborne.md), [Warborne](../communities/Warborne.md), [Wanderborne](../communities/Wanderborne.md), [Wildborne](../communities/Wildborne.md).
+**Choisissez votre héritage.** L’**héritage** de votre personnage combine deux éléments : l’**ascendance** et la **communauté.**
 
-#### STEP 3
+- L’**ascendance** d’un personnage reflète sa lignée, influe sur sa physionomie et lui confère deux **[aptitudes d’ascendance](Ancestries.md)** uniques. Prenez la carte de l’une des ascendances suivantes, puis inscrivez son nom dans le champ Héritage de votre fiche de personnage : [Aetheris](../ancestries/Aetheris.md), [Clank](../ancestries/Clank.md), [Drakona](../ancestries/Drakona.md), [Nain](../ancestries/Dwarf.md), [Enfant de la terre](../ancestries/Earthkin.md), [Elfe](../ancestries/Elf.md), [Enfant du feu](../ancestries/Emberkin.md), [Fée](../ancestries/Faerie.md), [Faune](../ancestries/Faun.md), [Firbolg](../ancestries/Firbolg.md), [Fungril](../ancestries/Fungril.md), [Galapa](../ancestries/Galapa.md), [Géant](../ancestries/Giant.md), [Gnome](../ancestries/Gnome.md), [Gobelin](../ancestries/Goblin.md), [Halfelin](../ancestries/Halfling.md), [Humain](../ancestries/Human.md), [Infernis](../ancestries/Infernis.md), [Katari](../ancestries/Katari.md), [Orc](../ancestries/Orc.md), [Ribbet](../ancestries/Ribbet.md), [Simiah](../ancestries/Simiah.md), [Enfant du ciel](../ancestries/Skykin.md), [Enfant des eaux](../ancestries/Tidekin.md). Pour créer une [Ascendance mixte](../ancestry_rules/Mixed%20Ancestry.md), prenez l’aptitude d’ascendance du haut (la première listée) d’une ascendance et l’aptitude du bas (la seconde listée) d’une autre.
 
-**Assign Character Traits.** Your character has six traits that represent their physical, mental, and social aptitude:
+- La **communauté** de votre personnage représente sa culture ou son [environnement](Using%20Environments.md) d’origine et lui confère une **[aptitude de communauté](Communities.md).** Prenez la carte de l’une des communautés suivantes, puis inscrivez son nom dans le champ Héritage de votre fiche de personnage : [Né des dunes](../communities/Duneborne.md), [Né libre](../communities/Freeborne.md), [Né du givre](../communities/Frostborne.md), [Né du foyer](../communities/Hearthborne.md), [Bien-né](../communities/Highborne.md), [Lettré](../communities/Loreborne.md), [Assermenté](../communities/Orderborne.md), [Re-né](../communities/Reborne.md), [Né des crêtes](../communities/Ridgeborne.md), [Né des flots](../communities/Seaborne.md), [Né de la pègre](../communities/Slyborne.md), [Né des profondeurs](../communities/Underborne.md), [Né de la guerre](../communities/Warborne.md), [Né errant](../communities/Wanderborne.md), [Né sauvage](../communities/Wildborne.md).
 
-- **Agility** (Use it to Sprint, Leap, Maneuver,etc.)
+#### ÉTAPE 3
 
-  A high Agility means you’re fast on your feet, nimble on difficult terrain, and quick to react to danger. You’ll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
+**Attribuez les caractéristiques.** Votre personnage possède six caractéristiques qui représentent ses aptitudes physiques, mentales et sociales :
 
-- **Strength** (Use it to Lift, Smash, Grapple, etc.)
+- **Agilité** (à utiliser pour Sprinter, Bondir, Manœuvrer, etc.)
 
-  A high Strength means you’re better at feats that test your physical prowess and stamina. You’ll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
+  Une Agilité élevée signifie que vous êtes vif, agile sur terrain difficile et prompt à réagir au danger. Vous ferez un jet d’Agilité pour grimper à une corde en courant, foncer vous mettre à couvert ou bondir de toit en toit.
 
-- **Finesse** (Use it to Control, Hide, Tinker, etc.)
+- **Force** (à utiliser pour Soulever, Fracasser, Agripper, etc.)
 
-  A high Finesse means you’re skilled at tasks that require accuracy, stealth, or the utmost control. You’ll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
+  Une Force élevée signifie que vous excellez dans les exploits qui mettent à l’épreuve votre puissance physique et votre endurance. Vous ferez un jet de Force pour enfoncer une porte, soulever des objets lourds ou tenir bon face à un ennemi qui charge.
 
-- **Instinct** (Use it to Perceive, Sense, Navigate, etc.)
+- **Finesse** (à utiliser pour Maîtriser, Se cacher, Bricoler, etc.)
 
-  A high Instinct means you have a keen sense of your surroundings and a natural intuition. You’ll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
+  Une Finesse élevée signifie que vous êtes doué pour les tâches qui demandent de la précision, de la discrétion ou un contrôle absolu. Vous ferez un jet de Finesse pour manier des outils délicats, échapper aux regards ou frapper avec précision.
 
-- **Presence** (Use it to Charm, Perform, Deceive, etc.)
+- **Instinct** (à utiliser pour Percevoir, Pressentir, S’orienter, etc.)
 
-  A high Presence means you have a strong force of personality and a facility for social situations. You’ll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
+  Un Instinct élevé signifie que vous avez un sens aigu de votre environnement et une intuition naturelle. Vous ferez un jet d’Instinct pour pressentir un danger, remarquer des détails autour de vous ou pister un ennemi insaisissable.
 
-- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)
+- **Présence** (à utiliser pour Charmer, Se produire, Tromper, etc.)
 
-  A high Knowledge means you know information others don’t and understand how to apply your mind through deduction and inference. You’ll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
+  Une Présence élevée signifie que vous avez une forte personnalité et de l’aisance dans les situations sociales. Vous ferez un jet de Présence pour plaider votre cause, intimider un ennemi ou captiver une foule.
 
-When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, −1 to your character’s traits in any order you wish.
+- **Savoir** (à utiliser pour Se rappeler, Analyser, Comprendre, etc.)
 
-#### STEP 4
+  Un Savoir élevé signifie que vous connaissez des informations que d’autres ignorent et que vous savez mettre votre esprit à profit par la déduction et l’inférence. Vous ferez un jet de Savoir pour interpréter des faits, voir clairement les schémas ou vous remémorer une information importante.
 
-**Record Additional Character Information.**
+Lorsque vous « jouez avec une caractéristique », le modificateur de cette caractéristique s’ajoute au total du jet. Attribuez les modificateurs +2, +1, +1, +0, +0, −1 aux caractéristiques de votre personnage dans l’ordre de votre choix.
 
-- Characters start a new campaign at **level 1.** Record your level in the designated space at the top of your character sheet.
+#### ÉTAPE 4
 
-- **[Evasion](Core%20Mechanics.md#EVASION)** represents your character’s ability to avoid damage. Your character’s starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
+**Consignez les informations complémentaires du personnage.**
 
-- **[Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) ([HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
+- Les personnages commencent une nouvelle campagne au **niveau 1.** Inscrivez votre niveau dans l’espace prévu en haut de votre fiche de personnage.
 
-- **[Stress](Core%20Mechanics.md#STRESS)** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) starts with 6 Stress slots.
+- L’**[Évasion](Core%20Mechanics.md#%C3%89VASION)** représente la capacité de votre personnage à éviter les dégâts. L’Évasion de départ de votre personnage est déterminée par sa classe et figure juste sous le champ Évasion de votre fiche de personnage ; recopiez ce nombre dans le champ Évasion.
 
-- **[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR)** is a metacurrency that fuels special moves and certain abilities or features. Each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) starts with 2 Hope; mark these in the Hope field of your character sheet.
+- Les **[Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ([PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))** sont une mesure abstraite de votre santé physique. Vos PV de départ sont déterminés par votre classe et inscrits sur votre fiche de personnage.
 
-#### STEP 5
+- Le **[Stress](Core%20Mechanics.md#STRESS)** reflète votre capacité à supporter la tension mentale et émotionnelle des situations dangereuses et de l’effort physique. Chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) commence avec 6 emplacements de Stress.
 
-**Choose Your Starting Equipment.**
+- L’**[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** est une métamonnaie qui alimente les actions spéciales ainsi que certaines capacités ou aptitudes. Chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) commence avec 2 Espoir ; marquez-les dans le champ Espoir de votre fiche de personnage.
 
-Choose your **weapon(s):**
+#### ÉTAPE 5
 
-- Select from the [Tier 1](Core%20Mechanics.md#LEVELING%20UP) Weapon Tables either a **[two-handed](Equipment.md#WEAPONS) [primary weapon](Equipment.md#WEAPONS)** or a **[one-handed](Equipment.md#WEAPONS) primary weapon and a one-handed [secondary weapon](Equipment.md#WEAPONS).** Then equip your selection by recording it in the Active Weapon field of your character sheet.
+**Choisissez votre équipement de départ.**
 
-- At level 1, your **[Proficiency](Core%20Mechanics.md#ATTACKING)** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **[damage roll](Core%20Mechanics.md#ATTACKING)** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage* *dice is d6+1, your damage roll is 1d6+1. Proficiency only* *determines how many damage dice you roll, and does not* *affect any flat damage modifiers.*
+Choisissez vos **armes :**
 
-Choose and equip one set of **armor** from the [Tier 1](Core%20Mechanics.md#LEVELING%20UP) Armor Table, then record its details in the **Active Armor** field of your character sheet.
+- Dans les tables d’armes de [rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU), choisissez soit une **[arme principale](Equipment.md#ARMES) [à deux mains](Equipment.md#ARMES)**, soit une **arme principale [à une main](Equipment.md#ARMES) et une [arme secondaire](Equipment.md#ARMES) à une main.** Équipez ensuite votre choix en l’inscrivant dans le champ Arme active de votre fiche de personnage.
 
-- Add your character’s level to your equipped armor’s **[Base Thresholds](Equipment.md#ARMOR)** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
+- Au niveau 1, votre **[Maîtrise](Core%20Mechanics.md#ATTAQUER)** est de 1 ; inscrivez ce nombre dans le champ Maîtrise de votre fiche de personnage, puis calculez et consignez votre **[jet de dégâts](Core%20Mechanics.md#ATTAQUER)** en combinant votre valeur de Maîtrise avec les **dés de dégâts** de votre ou vos armes équipées. *Exemple : si votre Maîtrise est de 1 et que les dés de dégâts de votre arme sont d6+1, votre jet de dégâts est 1d6+1. La Maîtrise détermine uniquement le nombre de dés de dégâts que vous lancez et n’affecte pas les modificateurs de dégâts fixes.*
 
-- Record your **[Armor Score](Equipment.md#ARMOR)** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **[Base Score](Equipment.md#ARMOR)** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
+Choisissez et équipez un ensemble d’**armure** dans la table d’armures de [rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU), puis consignez ses détails dans le champ **Armure active** de votre fiche de personnage.
 
-Add the following items to the **Inventory** fields on your character sheet:
+- Ajoutez le niveau de votre personnage aux **[Seuils de base](Equipment.md#ARMURE)** de son armure équipée et consignez le total pour les deux nombres dans les champs correspondants. À la création du personnage, votre niveau est 1.
 
-- A torch, 50 feet of rope, basic supplies, and a [handful](Equipment.md#GOLD) of gold (mark one box in the left-hand column of your character sheet titled “[Gold](Equipment.md#GOLD) > Handfuls”)
+- Consignez votre **[Score d’armure](Equipment.md#ARMURE)** dans le champ en haut à gauche de votre fiche de personnage. Votre Score d’armure est égal au **[Score de base](Equipment.md#ARMURE)** de votre armure équipée, plus tous les bonus permanents que votre personnage possède à son Score d’armure grâce à d’autres capacités, aptitudes ou effets.
 
-- EITHER a [Minor Health Potion](../consumables/Minor%20Health%20Potion.md) (clear 1d4 [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)) OR a [Minor Stamina Potion](../consumables/Minor%20Stamina%20Potion.md) (clear 1d4 [Stress](Core%20Mechanics.md#STRESS))
+Ajoutez les objets suivants aux champs **Inventaire** de votre fiche de personnage :
 
-- One of the class-specific items listed on your character guide
+- Une torche, 50 pieds (15 mètres) de corde, des provisions de base et une [poignée](Equipment.md#OR) d’Or (marquez une case dans la colonne de gauche de votre fiche de personnage intitulée « [Or](Equipment.md#OR) > Poignées »)
 
-- If applicable, whichever class-specific item you selected to carry your spells
+- SOIT une [Potion de soins mineure](../consumables/Minor%20Health%20Potion.md) (évacuez 1d4 [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)) SOIT une [Potion d’endurance mineure](../consumables/Minor%20Stamina%20Potion.md) (évacuez 1d4 [Stress](Core%20Mechanics.md#STRESS))
 
-- Any other GM-approved items you’d like to have at the start of the game
+- L’un des objets propres à la classe listés sur votre guide du personnage
 
-#### STEP 6
+- Le cas échéant, l’objet propre à la classe que vous avez choisi pour porter vos sorts
 
-**Create Your Background.** Develop your character’s **background** by answering the **background questions** in your character guide, modifying or replacing them if they don’t fit the character you want to play.
+- Tout autre objet approuvé par le MJ que vous aimeriez avoir au début de la partie
 
-*Note: Your background has no explicit mechanical effect,* *but it greatly affects the character you’ll play and the prep* *the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) will do. Throughout character creation, you can* *adjust choices you made in earlier steps to better reflect this* *background as your character takes shape. If you wish, you* *can leave your character’s past more ambiguous for the time* *being and discover their backstory through play.*
+#### ÉTAPE 6
 
-#### STEP 7
+**Créez votre historique.** Développez l’**historique** de votre personnage en répondant aux **questions d’historique** de votre guide du personnage, en les modifiant ou en les remplaçant si elles ne correspondent pas au personnage que vous voulez jouer.
 
-**Create Your Experiences.** An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) makes a move, they can spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to add a relevant Experience’s modifier to an action or [reaction roll](Core%20Mechanics.md#SPECIAL%20ROLLS).
+*Note : votre historique n’a pas d’effet mécanique explicite, mais il influe fortement sur le personnage que vous jouerez et sur la préparation du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Tout au long de la création du personnage, vous pouvez ajuster les choix faits aux étapes précédentes pour mieux refléter cet historique à mesure que votre personnage prend forme. Si vous le souhaitez, vous pouvez laisser le passé de votre personnage plus flou pour le moment et découvrir son histoire en jouant.*
 
-- Your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gets two Experiences at character creation, each with a +2 modifier.
+#### ÉTAPE 7
 
-- There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and* *“Highly Skilled” are too broad, because they could be applied* *to virtually any roll. Likewise, “Supersonic Flight” and* *“Invulnerable” imply game-breaking special abilities.*
+**Créez vos Expériences.** Une Expérience est un mot ou une expression qui résume un ensemble précis de compétences, de traits de personnalité ou d’aptitudes que votre personnage a acquis au cours de sa vie. Lorsque votre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fait une action, il peut dépenser un [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour ajouter le modificateur d’une Expérience pertinente à un jet d’action ou de [réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
 
-##### EXAMPLE EXPERIENCES
+- Votre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) reçoit deux Expériences à la création du personnage, chacune avec un modificateur de +2.
 
-**Backgrounds:** *[Assassin](../classes/Assassin.md), Blacksmith, Bodyguard, Bounty* *Hunter, Chef to the Royal Family, Circus Performer,* *Con Artist, Fallen Monarch, Field Medic, High Priestess,* *Merchant, Noble, Pirate, Politician, Runaway, Scholar,* *Sellsword, Soldier, Storyteller, Thief, World Traveler*
+- Il n’existe pas de liste fixe d’Expériences à choisir, mais une Expérience ne peut pas s’appliquer à trop de situations et ne peut pas accorder à votre personnage d’avantages mécaniques précis, comme des sorts ou des capacités spéciales. *Par exemple, « Chanceux » et « Très compétent » sont trop vastes, car ils pourraient s’appliquer à presque n’importe quel jet. De même, « Vol supersonique » et « Invulnérable » impliquent des capacités spéciales qui brisent le jeu.*
 
-**Characteristics:** *Affable, Battle-Hardened, Bookworm,* *Charming, Cowardly, Friend to All, Helpful, Intimidating* *[Presence](Character%20Creation.md#STEP%203), Leader, Lone Wolf, Loyal, Observant, Prankster,* *Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor,* *Young and Naive*
+##### EXEMPLES D’EXPÉRIENCES
 
-**Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical* *Historian, Mapmaker, Master of Disguise, Navigator,* *Sharpshooter, Survivalist, Swashbuckler, Tactician*
+**Parcours :** *[Assassin](../classes/Assassin.md), Forgeron, Garde du corps, Chasseur de primes, Chef des cuisines de la famille royale, Artiste de cirque, Escroc, Monarque déchu, Médecin de campagne, Grande prêtresse, Marchand, Noble, Pirate, Politicien, Fugueur, Érudit, Mercenaire, Soldat, Conteur, Voleur, Globe-trotter*
 
-**Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast* *Learner, Incredible [Strength](Character%20Creation.md#STEP%203), Liar, Light Feet, Negotiator,* *Photographic Memory, Quick Hands, Repair, Scavenger,* *Tracker*
+**Traits de caractère :** *Affable, Aguerri, Rat de bibliothèque, Charmant, Lâche, Ami de tous, Serviable, [Présence](Character%20Creation.md#%C3%89TAPE%203) intimidante, Meneur, Loup solitaire, Loyal, Observateur, Farceur, Langue d’argent, Doigts agiles, Têtu comme une mule, Survivant, Jeune et naïf*
 
-**Phrases:** *Catch Me If You Can, Fake It Till You Make It, First* *Time’s the Charm, [Hold the Line](../abilities/Hold%20the%20Line.md), I Won’t Let You Down,* *I’ll Catch You, I’ve Got Your Back, [Knowledge](Character%20Creation.md#STEP%203) Is Power,* *Nature’s Friend, Never Again, No One Left Behind, Pick on* *Someone Your Own Size, The Show Must Go On, This Is Not* *a Negotiation, Wolf in Sheep’s Clothing*
+**Spécialités :** *Acrobate, Joueur, Guérisseur, Inventeur, Historien de la magie, Cartographe, Maître du déguisement, Navigateur, Tireur d’élite, Spécialiste de la survie, Bretteur, Tacticien*
 
-#### STEP 8
+**Compétences :** *Murmureur des bêtes, Marchandage, Visée mortelle, Apprenti rapide, [Force](Character%20Creation.md#%C3%89TAPE%203) incroyable, Menteur, Pas léger, Négociateur, Mémoire photographique, Mains vives, Réparation, Récupérateur, Pisteur*
 
-**Choose [Domain Cards](Domains.md#DOMAIN%20CARDS).** Your class has access to two of the ten domains. Choose two level one cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
+**Devises :** *Attrape-moi si tu peux, Faire semblant jusqu’à y arriver, Jamais deux sans trois, [Tenir la ligne](../abilities/Hold%20the%20Line.md), Je ne vous décevrai pas, Je te rattrape, Je te couvre, Le [Savoir](Character%20Creation.md#%C3%89TAPE%203) est un pouvoir, Ami de la nature, Plus jamais ça, Personne n’est laissé derrière, Prends-toi à plus fort que toi, Le spectacle doit continuer, Ce n’est pas négociable, Loup déguisé en agneau*
 
-#### STEP 9
+#### ÉTAPE 8
 
-**Create Your Connections.** Connections are the relationships between the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). To create connections, follow these steps:
+**Choisissez des [cartes de domaine](Domains.md#CARTES%20DE%20DOMAINE).** Votre classe a accès à deux des dix domaines. Choisissez deux cartes de niveau 1 parmi les domaines de votre classe, listés en haut à gauche de votre fiche de personnage. Vous pouvez prendre une carte de chaque domaine ou deux cartes d’un même domaine, comme vous préférez.
 
-- Go around the table and have each player describe their characters to one another—at a minimum, their name, pronouns, character description, experiences, and the answers to their background questions.
+#### ÉTAPE 9
 
-- Discuss potential connections between the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) using the questions included in the “Connections” section of your character guide as inspiration.
+**Créez vos liens.** Les liens sont les relations entre les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Pour créer des liens, suivez ces étapes :
 
-- Suggest at least one connection between your character and each other player’s [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F). Accept any suggested connections you want to explore, reject any you don’t.
+- Faites le tour de la table et demandez à chaque joueur de décrire son personnage aux autres : au minimum son nom, ses pronoms, sa description, ses Expériences et les réponses à ses questions d’historique.
 
-***Note:*** *A player can reject a suggested connection for any* *reason, and it’s okay if there isn’t an established connection* *between every pair of [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)—you can always discover and* *develop those relationships through play.*
+- Discutez des liens possibles entre les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) en vous inspirant des questions de la section « Liens » de votre guide du personnage.
+
+- Proposez au moins un lien entre votre personnage et le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) de chaque autre joueur. Acceptez les liens proposés que vous voulez explorer, refusez ceux que vous ne voulez pas.
+
+***Note :*** *Un joueur peut refuser un lien proposé pour n’importe quelle raison, et il n’est pas grave qu’il n’y ait pas de lien établi entre chaque paire de [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) : vous pouvez toujours découvrir et développer ces relations en jouant.*

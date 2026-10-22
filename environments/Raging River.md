@@ -1,16 +1,23 @@
-# Raging River
+---
+aliases:
+  - "Raging River"
+---
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***
-*A swift-moving river without a bridge crossing, deep enough to sweep away most people.*
+# Rivière furieuse
 
-**Impulses:** Bar crossing, carry away the unready, divide the land
+*(VO : Raging River)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Beasts (Bear, [Glass Snake](../adversaries/Glass%20Snake.md)), [Jagged Knife Bandits](../adversaries/Jagged%20Knife%20Bandit.md) (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Traversée](../core_rules/Using%20Environments.md)***
+*Une rivière au courant rapide, sans pont, assez profonde pour emporter la plupart des gens.*
 
-## FEATURES
+**Pulsions :** barrer la traversée, emporter les imprudents, diviser les terres
 
-***Dangerous Crossing - Passive:*** Crossing the river requires the party to complete a [Progress Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (4). A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who rolls a [failure with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW) is immediately targeted by the “Undertow” action without requiring a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to be spent on the feature. *Have any of the PCs forded rivers like this before? Are any of them* *afraid of drowning?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Bêtes (Ours, [Serpent de verre](../adversaries/Glass%20Snake.md)), [Bandits des Lames dentelées](../adversaries/Jagged%20Knife%20Bandit.md) (Envoûteur, Casse-genoux, Laquais, Lieutenant, Ombre, Tireur d’élite)
 
-***Undertow - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to catch a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the undertow. They must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, they take **1d6+1** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are moved a [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) distance down the river, becoming *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they get out of the river. On a success, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). *What trinkets and baubles lie along the bottom of the riverbed? Do* *predators swim these rivers?*
+## APTITUDES
 
-***Patient Hunter - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon a [Glass Snake](../adversaries/Glass%20Snake.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a chosen [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F). The Snake appears in or near the river and immediately takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) to use their “Spinning Serpent” action. *What treasures does the beast have in their burrow? What travelers* *have already fallen victim to this predator?*
+***Traversée périlleuse - Passif :*** Traverser la rivière exige du groupe qu’il termine un [compte à rebours de progression](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (4). Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui obtient un [échec avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) est immédiatement pris pour cible par l’action « Ressac », sans qu’il soit nécessaire de dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour cette aptitude. *Certains PJ ont-ils déjà traversé une rivière comme celle-ci ? Certains d’entre eux ont-ils peur de se noyer ?*
+
+***Ressac - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour saisir un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dans le ressac. Il doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Sur un échec, il subit **1d6+1** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et est emporté d’une distance [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) vers l’aval, devenant *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’il sorte de la rivière. Sur une réussite, il doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS). *Quels bibelots et babioles reposent au fond du lit de la rivière ? Des prédateurs fréquentent-ils ces eaux ?*
+
+***Chasseur patient - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer un [Serpent de verre](../adversaries/Glass%20Snake.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) choisi. Le serpent apparaît dans la rivière ou tout près, et prend immédiatement les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) pour utiliser son action « Serpent tournoyant ». *Quels trésors la bête a-t-elle dans son terrier ? Quels voyageurs ont déjà été victimes de ce prédateur ?*

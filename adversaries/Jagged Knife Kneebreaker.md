@@ -1,17 +1,24 @@
-# Jagged Knife Kneebreaker
+---
+aliases:
+  - "Jagged Knife Kneebreaker"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*An imposing brawler carrying a large club.*
+# Casse-genoux des Lames dentelées
 
-**Motives & Tactics:** Grapple, intimidate, profit, steal
+*(VO : Jagged Knife Kneebreaker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/14 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −3 | **Club:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d4+6 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Une brute imposante, armée d’une grosse massue.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Thief +2, Unveiled Threats +3
+**Motivations et tactiques :** Agripper, intimider, faire du profit, voler
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7/14 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −3 | **Massue :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d4+6 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Voleur +2, Menaces dévoilées +3
 
 ## FEATURES
 
-***I’ve Got ’Em - Passive:*** Creatures *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* by the Kneebreaker take double damage from attacks by other [adversaries](../core_rules/Using%20Adversaries.md).
+***Je les tiens - Passif :*** Les créatures *[Entravées](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* par le casse-genoux subissent le double de dégâts des attaques des autres [adversaires](../core_rules/Using%20Adversaries.md).
 
-***Hold Them Down - Action:*** Make an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target takes no damage but is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. The target can break free, clearing both conditions, with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll or is freed automatically if the Kneebreaker takes [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage.
+***Les maintenir au sol - Action :*** Effectuez une attaque contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la cible ne subit aucun dégât, mais elle devient *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. Elle peut se libérer, ce qui met fin aux deux états, en réussissant un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ; elle est libérée automatiquement si le casse-genoux subit des [dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus.

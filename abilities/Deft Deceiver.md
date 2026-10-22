@@ -1,5 +1,12 @@
-# Deft Deceiver
+---
+aliases:
+  - "Deft Deceiver"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Trompeur habile
 
-**Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on a roll to deceive or trick someone into believing a lie you tell them.
+*(VO : Deft Deceiver)*
+
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+**Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour obtenir un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur un jet destiné à tromper quelqu’un et lui faire croire un mensonge que vous lui racontez.

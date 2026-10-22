@@ -1,7 +1,14 @@
-# Twilight Toll
+---
+aliases:
+  - "Twilight Toll"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Glas du crépuscule
 
-Choose a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When you succeed on an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) against them that doesn’t result in making a [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING), place a token on this card. When you deal damage to this target, spend any number of tokens to add a **d12** for each token spent to your damage roll. You can only hold Twilight Toll on one creature at a time.
+*(VO : Twilight Toll)*
 
-When you choose a new target or take a rest, clear all unspent tokens.
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Choisissez une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Lorsque vous réussissez un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) contre elle sans que cela donne lieu à un [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER), placez un jeton sur cette carte. Lorsque vous infligez des dégâts à cette cible, dépensez autant de jetons que vous voulez pour ajouter un **d12** par jeton dépensé à votre jet de dégâts. Vous ne pouvez maintenir le Glas du crépuscule que sur une seule créature à la fois.
+
+Lorsque vous choisissez une nouvelle cible ou prenez un repos, retirez tous les jetons non dépensés.

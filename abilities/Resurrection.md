@@ -1,7 +1,14 @@
-# Resurrection
+---
+aliases:
+  - "Resurrection"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Résurrection
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (20)**. On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a **d6**. On a result of 5 or lower, place this card in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) permanently.
+*(VO : Resurrection)*
 
-On a failure, you can’t cast Resurrection again for a week.
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (20)**. En cas de succès, ramenez une créature morte depuis moins de 100 ans à toute sa vigueur. Lancez ensuite un **d6**. Sur un résultat de 5 ou moins, rangez définitivement cette carte dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).
+
+En cas d’échec, vous ne pouvez pas relancer Résurrection avant une semaine.

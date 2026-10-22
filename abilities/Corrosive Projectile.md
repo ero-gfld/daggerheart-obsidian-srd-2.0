@@ -1,5 +1,12 @@
-# Corrosive Projectile
+---
+aliases:
+  - "Corrosive Projectile"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Projectile corrosif
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **d6+4** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, **mark 2 or more [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make them permanently *Corroded*. While a target is *Corroded*, they gain a −1 penalty to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) for every 2 Stress you spent. This condition can stack.
+*(VO : Corrosive Projectile)*
+
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **d6+4** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, **marquez 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou plus** pour qu’elle soit définitivement *corrodée*. Tant que la cible est *corrodée*, elle subit un malus de −1 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour chaque tranche de 2 Stress que vous avez dépensée. Cet état peut se cumuler.

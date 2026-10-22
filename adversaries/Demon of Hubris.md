@@ -1,23 +1,30 @@
-# Demon of Hubris
+---
+aliases:
+  - "Demon of Hubris"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*
+# Démon de l’Orgueil
 
-**Motives & Tactics:** Condescend, declare premature victory, prove superiority
+*(VO : Demon of Hubris)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 18/36 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Perfect Spear:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Démon d’une beauté parfaite et d’une cruauté infinie, armé d’une lance étincelante et vêtu de robes élégantes.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Manipulation +2
+**Motivations et tactiques :** Condescendre, déclarer la victoire trop tôt, prouver sa supériorité
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 18/36 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Lance parfaite :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10 phy
 
-***Terrifying - Passive:*** When the Demon makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Manipulation +2
 
-***Double or Nothing - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails a roll, they can choose to reroll their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) and take the new result. If they still fail, they mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) and the Demon clears a Stress.
+## APTITUDES
 
-***Unparalleled Skill - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to deal the Demon’s standard attack damage to a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Terrifiant - Passif :*** Quand le démon réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***The Root of Villainy - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) two other Demons within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Tout ou rien - Passif :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) échoue un jet, il peut choisir de relancer son [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) et de garder le nouveau résultat. S’il échoue encore, il marque 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) et le démon efface un Stress.
 
-***You Pale in Comparison - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails a roll within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Demon, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Talent sans égal - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour infliger les dégâts de l’attaque standard du démon à une cible à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***La racine du mal - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) deux autres démons à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Vous faites pâle figure - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) rate un jet à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du démon, il doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

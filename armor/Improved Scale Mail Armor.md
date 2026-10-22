@@ -1,9 +1,16 @@
-# Improved Scale Mail Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Improved Scale Mail Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 23  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Cotte d’écailles améliorée
 
-### FEATURE
+*(VO : Improved Scale Mail Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Cumbersome:*** −1 to [Finesse](../core_rules/Character%20Creation.md#STEP%203)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 23  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Encombrant :*** −1 à la [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

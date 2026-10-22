@@ -1,25 +1,32 @@
-# Realm-Breaker
+---
+aliases:
+  - "Realm-Breaker"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A Fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*
+# Briseur de royaumes
 
-**Motives & Tactics:** Corrupt, dominate, punish, break the weak
+*(VO : Realm-Breaker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 36/66 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Barbed Whip:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+7 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un Dieu déchu, enveloppé de colère et de ressentiment, qui a des millénaires d'expérience dans l'art de briser l'esprit des héros.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Conquest +3, History +2, Intimidation +3
+**Motivations et tactiques :** Corrompre, dominer, punir, briser les faibles
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 36/66 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Fouet barbelé :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d8+7 phy
 
-***Relentless (2) - Passive:*** The Realm-Breaker can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Conquête +3, Histoire +2, Intimidation +3
 
-***Firespite Plate Armor - Passive:*** When the Realm-Breaker takes damage, reduce it by **2d10**.
+## APTITUDES
 
-***Tormenting Lash - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When a target uses armor to reduce damage from this attack, they must mark 2 [Armor Slots](../core_rules/Equipment.md#ARMOR).
+***Implacable (2) - Passif :*** Le Briseur de royaumes peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu'à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d'habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***All-Consuming Rage - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Decreasing 8)*. When the Realm-Breaker is in the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) for the first time, activate the countdown. When it triggers, create a torrent of incarnate rage that rends flesh from bone. All targets within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **2d6+10** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage. For each [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) marked from this damage, summon a [Fallen Shock Troop](Fallen%20Shock%20Troop.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target who marked that HP. If the countdown ever decreases its maximum value to 0, the Realm-Breaker marks their remaining HP and all targets within Far range must mark all remaining HP and make a [death move](../core_rules/Core%20Mechanics.md#DEATH).
+***Armure de plaques Firespite - Passif :*** Lorsque le Briseur de royaumes subit des dégâts, réduisez-les de **2d10**.
 
-***Doombringer - Reaction:*** When a target marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack by the Realm-Breaker, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target must lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Fouet tourmenteur - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour porter une attaque standard contre toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Lorsqu'une cible utilise son armure pour réduire les dégâts de cette attaque, elle doit marquer 2 [emplacements d'armure](../core_rules/Equipment.md#ARMURE).
 
-***I Have Never Known Defeat (Phase Change) - Reaction:*** When the Realm-Breaker marks their last [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), replace them with the [Undefeated Champion](Undefeated%20Champion.md) and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Rage consumante - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (décroissant 8)*. Lorsque le Briseur de royaumes est [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) pour la première fois, activez le compte à rebours. Quand il arrive à son terme, il libère un torrent de rage incarnée qui arrache la chair aux os. Toutes les cibles à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **2d6+10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs. Les cibles qui réussissent subissent la moitié des dégâts. Pour chaque [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) marqué à cause de ces dégâts, invoquez une [Troupe de choc déchue](Fallen%20Shock%20Troop.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible qui a marqué ce PV. Si le compte à rebours descend un jour à 0, le Briseur de royaumes marque ses PV restants, et toutes les cibles à portée Loin doivent marquer tous leurs PV restants et effectuer un [choix de mort](../core_rules/Core%20Mechanics.md#MORT).
+
+***Porteur de fin - Réaction :*** Lorsqu'une cible marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause d'une attaque du Briseur de royaumes, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) situés à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible doivent perdre un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Je n'ai jamais connu la défaite (Changement de phase) - Réaction :*** Lorsque le Briseur de royaumes marque son dernier [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), remplacez-le par le [Champion invaincu](Undefeated%20Champion.md) et mettez-le immédiatement [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

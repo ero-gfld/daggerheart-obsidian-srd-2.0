@@ -1,3 +1,10 @@
-# Gem of Might
+---
+aliases:
+  - "Gem of Might"
+---
 
-You can attach this gem to a weapon, allowing you to use your [Strength](../core_rules/Character%20Creation.md#STEP%203) when making an attack with that weapon.
+# Gemme de puissance
+
+*(VO : Gem of Might)*
+
+Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) lorsque vous attaquez avec cette arme.

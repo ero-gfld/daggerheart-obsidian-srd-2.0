@@ -1,19 +1,26 @@
-# Berserker Alpha
+---
+aliases:
+  - "Berserker Alpha"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A veteran commander who quaffs magic elixirs to change into a beast and lead their packmates on a hunt.*
+# Berserker alpha
 
-**Motives & Tactics:** Embrace the change, howl at the moon, lead the pack, run down enemies
+*(VO : Berserker Alpha)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 13/26 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Tooth & Claw:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+2 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un commandant aguerri qui avale des élixirs magiques pour se transformer en bête et mener sa meute à la chasse.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Hunt +3, Keen Senses +2
+**Motivations et tactiques :** Accepter la transformation, hurler à la lune, mener la meute, rattraper les ennemis
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 13/26 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Dents et griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+2 phy
 
-***Pack Fury - Passive:*** The Alpha gains a +1 bonus to their [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) for each ally within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of their attack’s target.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Chasse +3, Sens aiguisés +2
 
-***Bark at the Moon - Action:*** Once per scene, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have each ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Alpha clear a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Berserker Rage - Reaction:*** The first time in a scene the Alpha marks their last [Stress](../core_rules/Core%20Mechanics.md#STRESS), they gain a +6 bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Fureur de meute - Passif :*** L’Alpha gagne un bonus de +1 à ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) pour chaque allié à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible de son attaque.
+
+***Hurler à la lune - Action :*** Une fois par scène, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que chaque allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l’Alpha efface un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et évacue un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Rage du berserker - Réaction :*** La première fois dans une scène où l’Alpha marque son dernier [Stress](../core_rules/Core%20Mechanics.md#STRESS), il gagne un bonus de +6 aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

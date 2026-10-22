@@ -1,19 +1,26 @@
-# Phoenix
+---
+aliases:
+  - "Phoenix"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A huge eagle that’s made of magical flame, impossible to kill, and hunted for its healing plumage.*
+# Phénix
 
-**Motives & Tactics:** Flee pursuers, live brilliantly, soar through the heavens, wield light and flame
+*(VO : Phoenix)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 19/30 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Fire Bolt:** [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+3 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Un immense aigle fait de flammes magiques, impossible à tuer et chassé pour son plumage guérisseur.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Bright +4, Legendary +3
+**Motivations et tactiques :** Fuir les poursuivants, vivre avec éclat, planer dans les cieux, manier la lumière et le feu
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 19/30 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Trait de feu :** [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10+3 mag
 
-***Purifying Aura - Passive:*** Any [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who takes an action within the Phoenix’s [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range can spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to purify themself in its healing warmth, clearing a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and all conditions.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Éclatant +4, Légendaire +3
 
-***Fireseed - Reaction:*** The Phoenix bleeds magic fire. When the Phoenix marks a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), summon one [Minor Fire Elemental](Minor%20Fire%20Elemental.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+## APTITUDES
 
-***Resurrection - Evolution:*** When the Phoenix is defeated, it becomes a cloud of ash that blows away to reveal a Smoldering Egg. The Egg is [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to all damage and has a heat aura that deals **3d4** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to anyone who touches it. The Egg hatches into a new Phoenix, with all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS) cleared, in 7 days.
+***Aura purificatrice - Passif :*** Tout [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui entreprend une action à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Phénix peut dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour se purifier dans sa chaleur guérisseuse, évacuant un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou un [Stress](../core_rules/Core%20Mechanics.md#STRESS), ainsi que tous les états.
+
+***Graine de feu - Réaction :*** Le Phénix saigne du feu magique. Lorsqu'il marque un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), invoquez un [Petit élémentaire de feu](Minor%20Fire%20Elemental.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Résurrection - Évolution :*** Lorsque le Phénix est vaincu, il se transforme en nuage de cendres qui s'envole pour révéler un Œuf fumant. L'Œuf est [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre tous les dégâts et dégage une aura de chaleur qui inflige **3d4** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs à quiconque le touche. L'Œuf éclot en un nouveau Phénix, dont tous les [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et tout le [Stress](../core_rules/Core%20Mechanics.md#STRESS) sont évacués, au bout de 7 jours.

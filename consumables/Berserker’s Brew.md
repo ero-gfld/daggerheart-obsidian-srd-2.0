@@ -1,3 +1,10 @@
-# Berserker’s Brew
+---
+aliases:
+  - "Berserker’s Brew"
+---
 
-When you drink this dram of liquid, you gain a bonus to your [Strength](../core_rules/Character%20Creation.md#STEP%203) and a penalty to your [Finesse](../core_rules/Character%20Creation.md#STEP%203) and [Knowledge](../core_rules/Character%20Creation.md#STEP%203) equal to your [Instinct](../core_rules/Character%20Creation.md#STEP%203) (minimum 1). This effect lasts until you make a [death move](../core_rules/Core%20Mechanics.md#DEATH) or until your next rest.
+# Brouet du berserker
+
+*(VO : Berserker’s Brew)*
+
+Lorsque vous buvez cette gorgée de liquide, vous gagnez un bonus à votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) et un malus à votre [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) et à votre [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) égal à votre [Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (minimum 1). Cet effet dure jusqu’à ce que vous fassiez un [choix de mort](../core_rules/Core%20Mechanics.md#MORT) ou jusqu’à votre prochain repos.

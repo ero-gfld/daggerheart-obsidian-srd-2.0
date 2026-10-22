@@ -1,5 +1,12 @@
-# Endless Charisma
+---
+aliases:
+  - "Endless Charisma"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Charisme inépuisable
 
-After you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to persuade, lie, or garner favor, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll the Hope or [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
+*(VO : Endless Charisma)*
+
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Après avoir fait un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour persuader, mentir ou gagner la faveur de quelqu’un, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour relancer le dé d’Espoir ou le [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U).

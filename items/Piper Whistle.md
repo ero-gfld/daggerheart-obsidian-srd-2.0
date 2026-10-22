@@ -1,3 +1,10 @@
-# Piper Whistle
+---
+aliases:
+  - "Piper Whistle"
+---
 
-This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius.
+# Sifflet du flûtiste
+
+*(VO : Piper Whistle)*
+
+Ce sifflet artisanal a un son caractéristique. Lorsque vous soufflez dans ce sifflet, son ton perçant s’entend dans un rayon de 1 mile.

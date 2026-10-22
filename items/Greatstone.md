@@ -1,3 +1,10 @@
-# Greatstone
+---
+aliases:
+  - "Greatstone"
+---
 
-You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+# Pierre titanesque
+
+*(VO : Greatstone)*
+
+Vous pouvez fixer cette pierre sur une arme qui n’a pas encore d’aptitude. L’arme gagne l’aptitude suivante. ***Puissant :*** lors d’une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible.

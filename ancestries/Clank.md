@@ -1,11 +1,11 @@
 # Clank
 
-Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone. They can resemble humanoids, animals, or even inanimate objects. Like organic beings, their bodies come in a wide array of sizes. Because of their bespoke construction, many clanks have highly specialized physical configurations. Examples include clawed hands for grasping, wheels for movement, or built-in weaponry.
+Les clanks sont des êtres mécaniques doués de conscience, construits dans des matériaux variés, dont le métal, le bois et la pierre. Ils peuvent ressembler à des humanoïdes, à des animaux, voire à des objets inanimés. Comme les êtres organiques, ils existent dans une large gamme de tailles. Leur construction sur mesure donne à beaucoup de clanks une physionomie très spécialisée : mains griffues pour saisir, roues pour se déplacer, armes intégrées.
 
-Many clanks embrace body modifications for style as well as function, and members of other ancestries often turn to clank artisans to construct customized mobility aids and physical adornments. Other ancestries can create clanks, even using their own physical characteristics as inspiration, but it’s also common for clanks to build one another. A clank’s lifespan extends as long as they’re able to acquire or craft new parts, making their physical form effectively immortal. That said, their minds are subject to the effects of time, and deteriorate as the magic that powers them loses potency.
+Beaucoup de clanks adoptent des modifications corporelles par goût autant que par utilité, et les membres d’autres ascendances s’adressent souvent aux artisans clanks pour fabriquer des aides à la mobilité et des parures sur mesure. D’autres ascendances peuvent créer des clanks, en s’inspirant parfois de leurs propres traits physiques, mais il est tout aussi courant que les clanks se construisent entre eux. Un clank vit aussi longtemps qu’il peut obtenir ou fabriquer de nouvelles pièces, ce qui rend son corps pratiquement immortel. En revanche, son esprit subit les effets du temps et se détériore à mesure que la magie qui l’anime perd de sa puissance.
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
 
-***Purposeful Design:*** Decide who made you and for what purpose. At character creation, choose one of your [Experiences](../core_rules/Character%20Creation.md#STEP%207) that best aligns with this purpose and gain a permanent +1 bonus to it.
+***Conception réfléchie :*** Décidez qui vous a fabriqué et dans quel but. À la création du personnage, choisissez celle de vos [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207) qui correspond le mieux à ce but et gagnez un bonus permanent de +1 à celle-ci.
 
-***Efficient:*** When you take a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can choose a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) move instead of a short rest move.
+***Efficace :*** Quand vous prenez un [repos court](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez choisir une action de [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) au lieu d’une action de repos court.

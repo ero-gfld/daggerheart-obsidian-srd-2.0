@@ -1,21 +1,28 @@
-# Minor Demon
+---
+aliases:
+  - "Minor Demon"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*
+# Démon mineur
 
-**Motives & Tactics:** Act erratically, corral targets, relish pain, torment
+*(VO : Minor Demon)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+6 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une créature rouge sang venue des Cercles inférieurs, dévorée par la rage contre tous les mortels.*
 
-## FEATURES
+**Motivations et tactiques :** Agir de façon erratique, rassembler les cibles, savourer la douleur, tourmenter
 
-***Relentless (2) - Passive:*** The Demon can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+6 phy
 
-***All Must Fall - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls a [failure with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW) while within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Demon, they lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Hellfire - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to rain down hellfire within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All targets within the area must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **1d20+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage.
+***Implacable (2) - Passif :*** Le Démon peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu'à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d'habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Reaper - Reaction:*** Before rolling damage for the Demon’s attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain a bonus to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the Demon’s current number of marked [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Tout doit tomber - Passif :*** Lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) obtient un [échec avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Démon, il perd un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Momentum - Reaction:*** When the Demon makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Feu infernal - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire pleuvoir un feu infernal à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les cibles dans la zone doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **1d20+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent subissent la moitié des dégâts.
+
+***Faucheur - Réaction :*** Avant de lancer les dégâts de l'attaque du Démon, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour ajouter au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) un bonus égal au nombre de [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) marqués actuellement par le Démon.
+
+***Élan - Réaction :*** Lorsque le Démon réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

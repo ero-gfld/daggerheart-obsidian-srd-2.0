@@ -1,9 +1,16 @@
-# Enchanter’s Robes
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Enchanter’s Robes"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 9 / 20  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 4
+# Robes de l’enchanteur
 
-### FEATURE
+*(VO : Enchanter’s Robes)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Mnemonic:*** Once per scene, you can recall a [domain card](../core_rules/Domains.md#DOMAIN%20CARDS) from your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) without paying its [Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 9 / 20  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 4
+
+### APTITUDE
+
+***Mnémonique :*** Une fois par scène, vous pouvez rappeler une [carte de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) sans payer son [Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

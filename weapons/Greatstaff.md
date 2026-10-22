@@ -1,9 +1,16 @@
-# Greatstaff
+---
+aliases:
+  - "Greatstaff"
+---
 
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Grand bâton
 
-*[Knowledge](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Greatstaff)*
 
-### FEATURE
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+*[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Puissant :*** Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas.

@@ -1,7 +1,14 @@
-# Banish
+---
+aliases:
+  - "Banish"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Bannir
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, roll a number of **d20s** equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. The target must make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) with a [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) equal to your highest result. On a success, the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) but isn’t banished. Once per rest on a failure, they are banished from this realm.
+*(VO : Banish)*
 
-When the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), the [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) gains a −1 penalty and the target makes another [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a success, they return from banishment.
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, lancez un nombre de **d20** égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). La cible doit faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) avec une [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) égale à votre meilleur résultat. En cas de réussite, la cible doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) mais n’est pas bannie. Une fois par repos, en cas d’échec, elle est bannie de ce plan.
+
+Lorsque les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) font un jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), la [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) subit un malus de −1 et la cible fait un nouveau [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). En cas de réussite, elle revient de son bannissement.

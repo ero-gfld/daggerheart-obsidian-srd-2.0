@@ -1,23 +1,30 @@
-# Gargantuan War Machine
+---
+aliases:
+  - "Gargantuan War Machine"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A 100-foot-tall adamantine construct that has gemstone eyes, powered by a chest crucible of elemental flame.*
+# Machine de guerre gigantesque
 
-**Motives & Tactics:** Crush, destroy
+*(VO : Gargantuan War Machine)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 48/88 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Fists of Iron:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d12+10 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un automate d’adamantium haut de 100 pieds (environ 30 mètres), aux yeux de gemmes, animé par un creuset de flamme élémentaire logé dans sa poitrine.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Unbreakable +3
+**Motivations et tactiques :** Écraser, détruire
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 48/88 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Poings de fer :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d12+10 phy
 
-***Relentless (3) - Passive:*** The Machine can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Indestructible +3
 
-***Awesome Size - Passive:*** When the Machine enters the battlefield, each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must either lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or mark **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Rocket Punch - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target takes **4d12+10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and marks 2 [Armor Slots](../core_rules/Equipment.md#ARMOR) without gaining their benefits.
+***Implacable (3) - Passif :*** La Machine peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour la [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Ground-Breaking Stomp - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a point within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against all enemies within Close range of that point. Targets the attack succeeds against take **4d12** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they are [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). Additionally, the entire area becomes rubble, and a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16) to move through it.
+***Taille démesurée - Passif :*** Lorsque la Machine entre sur le champ de bataille, chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit soit perdre un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), soit marquer **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Supercharged - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 2d6)*. When the Machine is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) for the first time, activate the countdown. It ticks down each time the Machine is spotlighted. When it triggers, place a token on this stat block as the Machine’s chest crucible flares with magical flame. For each token on this stat block, the Machine gains a +1 bonus to [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING), and its standard attack deals an extra **1d12** damage. Remove a token when the Machine takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Coup de poing-fusée - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la cible subit **4d12+10** [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER) physiques et marque 2 [emplacements d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir les bénéfices.
+
+***Piétinement destructeur - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir un point à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectuer un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre tous les ennemis à portée Proche de ce point. Les cibles contre lesquelles l’attaque réussit subissent **4d12** [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER) physiques et sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elles soient [mises sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). En outre, toute la zone devient un amas de gravats, et un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (16) pour la traverser.
+
+***Surchargée - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (boucle 2d6)*. Lorsque la Machine est [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) pour la première fois, activez le compte à rebours. Il décroît chaque fois que la Machine est mise sous les projecteurs. Quand il se déclenche, placez un jeton sur ce bloc de statistiques pendant que le creuset de la Machine s’embrase de flamme magique. Pour chaque jeton sur ce bloc, la Machine gagne un bonus de +1 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) et à ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER), et son attaque standard inflige **1d12** dégâts supplémentaires. Retirez un jeton lorsque la Machine subit des dégâts [sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

@@ -1,62 +1,69 @@
-# Warlock
+---
+aliases:
+  - "Warlock"
+---
 
-Those who’ve traded their lives—or perhaps even their souls—to an otherworldly patron in exchange for incredible power are known as warlocks. Often, these mortals have reached a point of desperation that leads them to make this sacrifice: they hope to protect themselves or a loved one, aid their community, seek vengeance, increase their status, or otherwise further their ambitions. The powerful entities they entreat are as varied as the warlocks themselves: gods, spirits, demons, or other beings unknown to even the mortal who makes the pact. The entities each have their own sphere of influence that defines their otherworldly power, and those that collect souls are rarely known for their benevolence. Thus, a warlock’s power is defined by the relationship they maintain with their benefactor. Despite their terrifying magic, warlocks might find that someone or something else is pulling their strings.
+# Occultiste
 
-**DOMAINS –** [Dread](../domains/Dread.md) & [Grace](../domains/Grace.md)
+*(VO : Warlock)*
 
-**STARTING EVASION –** 11
+Ceux qui ont échangé leur vie, voire leur âme, auprès d’un patron venu d’ailleurs en échange d’un pouvoir extraordinaire sont appelés occultistes. Souvent, ces mortels ont atteint un point de désespoir qui les pousse à ce sacrifice : ils espèrent se protéger eux-mêmes ou protéger un être cher, aider leur communauté, chercher vengeance, gagner en statut ou servir autrement leurs ambitions. Les puissantes entités qu’ils implorent sont aussi variées que les occultistes eux-mêmes : dieux, esprits, démons ou autres êtres inconnus même du mortel qui conclut le pacte. Chaque entité a sa propre sphère d’influence, qui définit son pouvoir d’outre-monde, et celles qui collectent des âmes sont rarement réputées pour leur bienveillance. Ainsi, le pouvoir d’un occultiste se définit par la relation qu’il entretient avec son bienfaiteur. Malgré leur magie terrifiante, les occultistes pourraient découvrir que quelqu’un ou quelque chose d’autre tire leurs ficelles.
 
-**STARTING HIT POINTS –** 5
+**DOMAINES –** [Effroi](../domains/Dread.md) & [Grâce](../domains/Grace.md)
 
-**CLASS ITEMS –** A carving that symbolizes your patron or a ring you can’t remove
+**ÉVASION DE DÉPART –** 11
 
-**WARLOCK’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 5
 
-***Patron’s Boon:*** When you fail a roll, you can **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reroll with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+**OBJETS DE CLASSE –** Une sculpture qui symbolise votre patron ou une bague que vous ne pouvez pas retirer
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DE L’OCCULTISTE**
 
-***Patron’s Pact:*** You have committed yourself to a supernatural entity—such as a god, fae, or demon—in exchange for power. Write their name on your character sheet, then work with your [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to determine their sphere of influence (such as Nature, Chaos, Wisdom, Mischief, Love, War, Justice, or Death). Before making an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) that relates to your patron’s sphere of influence, you can **spend a Favor** to call upon their aid, rolling your Patron Die and adding its result to the total. Your Patron Die starts at a **d6** and increases to a **d8** at level 5.
+***Bienfait du patron :*** Quand vous ratez un jet, vous pouvez **dépenser 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour le relancer avec [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-***Favor:*** You start with 3 Favor. You can use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to show tribute to your patron. Describe how and gain Favor equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. Additionally, when you succeed on an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can choose to gain a Favor instead of a Hope.
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-***Note:*** *The maximum Favor you can hold at one time is 6.*
+***Pacte du patron :*** Vous vous êtes engagé auprès d’une entité surnaturelle, comme un dieu, une fée ou un démon, en échange de pouvoir. Écrivez son nom sur votre fiche de personnage, puis déterminez avec votre [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sa sphère d’influence (comme la Nature, le Chaos, la Sagesse, la Malice, l’Amour, la Guerre, la Justice ou la Mort). Avant de faire un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) lié à la sphère d’influence de votre patron, vous pouvez **dépenser une Faveur** pour faire appel à son aide : lancez votre dé de Patron et ajoutez son résultat au total. Votre dé de Patron est un **d6** au départ et passe à un **d8** au niveau 5.
 
-**SPHERE OF INFLUENCE EXAMPLES**
+***Faveur :*** Vous commencez avec 3 Faveurs. Vous pouvez utiliser une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour rendre hommage à votre patron. Décrivez comment et gagnez des Faveurs en nombre égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). De plus, quand vous réussissez un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez choisir de gagner une Faveur au lieu d’un Espoir.
 
-When building a warlock, choose their patron’s sphere of influence from the list below or work with the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to make your own.
+***Remarque :*** *Vous ne pouvez pas détenir plus de 6 Faveurs à la fois.*
+
+**EXEMPLES DE SPHÈRES D’INFLUENCE**
+
+Quand vous créez un occultiste, choisissez la sphère d’influence de son patron dans la liste ci-dessous, ou créez la vôtre avec le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).
 
 |  |  |  |
 | --- | --- | --- |
-| *Ambition* | *Leaders* | *Secrets* |
-| *Artists* | *Love* | *Soldiers* |
-| *Chaos* | *Mercy* | *[Strength](../core_rules/Character%20Creation.md#STEP%203)* |
-| *Darkness* | *Mischief* | *Travelers* |
-| *Death* | *Nature* | *Tricksters* |
-| *Gamblers* | *Protectors* | *Truth* |
-| *Honor* | *Revenge* | *War* |
-| *Justice* | *Scholars* | *Wisdom* |
+| *Ambition* | *Chefs* | *Secrets* |
+| *Artistes* | *Amour* | *Soldats* |
+| *Chaos* | *Clémence* | *[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* |
+| *Ténèbres* | *Malice* | *Voyageurs* |
+| *Mort* | *Nature* | *Filous* |
+| *Joueurs* | *Protecteurs* | *Vérité* |
+| *Honneur* | *Vengeance* | *Guerre* |
+| *Justice* | *Érudits* | *Sagesse* |
 
-### SUBCLASSES
+### SOUS-CLASSES
 
-*Choose either the* ***[Pact of the Endless](../subclasses/Pact%20of%20the%20Endless.md)*** *or* ***[Pact of the Wrathful](../subclasses/Pact%20of%20the%20Wrathful.md)*** *subclass.*
+*Choisissez la sous-classe* ***[Pacte de l’Infini](../subclasses/Pact%20of%20the%20Endless.md)*** *ou* ***[Pacte du Courroux](../subclasses/Pact%20of%20the%20Wrathful.md)***.
 
-**BACKGROUND QUESTIONS**
+**QUESTIONS D’HISTORIQUE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who from your community shunned you after you made a pact with your patron?
+- Qui, dans votre communauté, vous a rejeté après que vous avez conclu un pacte avec votre patron ?
 
-- What desperate situation led you to pledge your life to your patron?
+- Quelle situation désespérée vous a poussé à engager votre vie auprès de votre patron ?
 
-- Your patron has given you one task you must accomplish above all else. What is it, and why does it worry you?
+- Votre patron vous a confié une tâche à accomplir avant toute autre. Quelle est-elle, et pourquoi vous inquiète-t-elle ?
 
-**CONNECTIONS**
+**LIENS**
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- Why do you think I confide in you about what my patron says and does?
+- Pourquoi pensez-vous que je me confie à vous sur ce que dit et fait mon patron ?
 
-- Our relationship has changed since you saw me show tribute to my patron. What did you see, and how has it affected you?
+- Notre relation a changé depuis que vous m’avez vu rendre hommage à mon patron. Qu’avez-vous vu, et comment cela vous a-t-il affecté ?
 
-- I once did something very foolish, and you’ve never let me live it down. What was it?
+- J’ai fait un jour quelque chose de très stupide, et vous ne me l’avez jamais pardonné. Qu’était-ce ?

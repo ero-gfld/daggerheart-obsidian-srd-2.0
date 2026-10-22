@@ -1,21 +1,28 @@
-# Cave Ogre
+---
+aliases:
+  - "Cave Ogre"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A massive humanoid who sees all sapient life as food.*
+# Ogre des cavernes
 
-**Motives & Tactics:** Bite off heads, feast, rip limbs, stomp, throw enemies
+*(VO : Cave Ogre)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Club:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d10+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un humanoïde massif qui voit toute vie intelligente comme de la nourriture.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Throw +2
+**Motivations et tactiques :** Arracher les têtes, festoyer, arracher les membres, piétiner, lancer les ennemis
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Massue :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d10+2 phy
 
-***Ramp Up - Passive:*** You must **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Ogre. While [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), they can make their standard attack against all targets within range.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Lancer +2
 
-***Bone Breaker - Passive:*** The Ogre’s attacks deal [direct damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Hail of Boulders - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to pick up heavy objects and throw them at all targets in front of the Ogre within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Make an attack against these targets. Targets the Ogre succeeds against take **1d10+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). If they succeed against more than one target, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Montée en puissance - Passif :*** Vous devez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour [mettre l’Ogre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Quand il est [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), il peut effectuer son attaque standard contre toutes les cibles à portée.
 
-***Rampaging Fury - Reaction:*** When the Ogre marks 2 or more [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they can rampage. Move the Ogre to a point within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and deal **2d6+3** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to all targets in their path.
+***Briseur d’os - Passif :*** Les attaques de l’Ogre infligent des [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Pluie de rochers - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour ramasser de lourds objets et les lancer sur toutes les cibles devant l’Ogre à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Effectuez une attaque contre ces cibles. Les cibles contre lesquelles l’Ogre réussit subissent **1d10+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). S’il réussit contre plus d’une cible, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Fureur déchaînée - Réaction :*** Quand l’Ogre marque 2 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, il peut se déchaîner. Déplacez l’Ogre vers un point à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et infligez **2d6+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs à toutes les cibles sur son passage.

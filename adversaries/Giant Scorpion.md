@@ -1,19 +1,26 @@
-# Giant Scorpion
+---
+aliases:
+  - "Giant Scorpion"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A human-sized arachnid with tearing claws and a stinging tail.*
+# Scorpion géant
 
-**Motives & Tactics:** Ambush, feed, grapple, poison
+*(VO : Giant Scorpion)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7/13 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Pincers:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un arachnide de la taille d’un humain, aux griffes déchirantes et à la queue venimeuse.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Camouflage +2
+**Motivations et tactiques :** Tendre une embuscade, se nourrir, agripper, empoisonner
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7/13 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Pinces :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+2 phy
 
-***Double Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against two targets within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Camouflage +2
 
-***Venomous Stinger - Action:*** Make an attack against a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to deal **1d4+4** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and *Poison* them until their next rest or they succeed on a [Knowledge](../core_rules/Character%20Creation.md#STEP%203) Roll (16). While *Poisoned*, the target must roll a **d6** before they make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). On a result of 4 or lower, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Momentum - Reaction:*** When the Scorpion makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Double frappe - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard contre deux cibles à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Dard venimeux - Action :*** Effectuez une attaque contre une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour infliger **1d4+4** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et *empoisonner* la cible jusqu’à son prochain repos, ou jusqu’à ce qu’elle réussisse un jet de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (16). Tant qu’elle est *Empoisonnée*, la cible doit lancer un **d6** avant chaque [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Sur un résultat de 4 ou moins, elle doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Élan - Réaction :*** Lorsque le Scorpion réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

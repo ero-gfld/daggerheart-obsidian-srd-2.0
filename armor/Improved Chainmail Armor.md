@@ -1,9 +1,16 @@
-# Improved Chainmail Armor
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Improved Chainmail Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 24  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Cotte de mailles améliorée
 
-### FEATURE
+*(VO : Improved Chainmail Armor)*
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Heavy:*** −1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 24  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Lourd :*** −1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION)

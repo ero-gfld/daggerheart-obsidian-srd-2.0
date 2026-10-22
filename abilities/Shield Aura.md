@@ -1,7 +1,14 @@
-# Shield Aura
+---
+aliases:
+  - "Shield Aura"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Aura protectrice
 
-**Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to cast a protective aura on a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When the target marks an [Armor Slot](../core_rules/Equipment.md#ARMOR), they reduce the severity of the attack by an additional threshold. If this spell causes a creature who would be damaged to instead mark no [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), the effect ends.
+*(VO : Shield Aura)*
 
-You can only hold Shield Aura on one creature at a time.
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+**Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour lancer une aura protectrice sur une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Lorsque la cible marque un [emplacement d’armure](../core_rules/Equipment.md#ARMURE), elle réduit la gravité de l’attaque d’un seuil supplémentaire. Si ce sort permet à une créature qui devait subir des dégâts de ne marquer aucun [point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), l’effet prend fin.
+
+Vous ne pouvez maintenir l’aura protectrice que sur une seule créature à la fois.

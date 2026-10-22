@@ -1,21 +1,28 @@
-# Mortal Hunter
+---
+aliases:
+  - "Mortal Hunter"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*An undead figure wearing a heavy leather coat, with searching eyes and a casually cruel demeanor.*
+# Chasseur mortel
 
-**Motives & Tactics:** Devour, hunt, track
+*(VO : Mortal Hunter)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 15/27 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Tear at Flesh:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d12+1 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Une silhouette morte-vivante vêtue d'un lourd manteau de cuir, aux yeux scrutateurs et à la cruauté désinvolte.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Bloodhound +3
+**Motivations et tactiques :** Dévorer, traquer, pister
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 15/27 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Arrache-chair :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d12+1 phy
 
-***Terrifying - Passive:*** When the Hunter makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Limier +3
 
-***Deathlock - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to curse a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with a necrotic *Deathlock* until the end of the scene. Attacks made by the Hunter against a *Deathlocked* target deal [direct damage](../core_rules/Core%20Mechanics.md#ATTACKING). The Hunter can only maintain one *Deathlock* at a time.
+## APTITUDES
 
-***Inevitable Death - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) **1d4** allies. Attacks they make while [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) in this way deal half damage.
+***Terrifiant - Passif :*** Lorsque le Chasseur réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Rampage - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 1d6)*. When the Hunter is in the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an attack against all targets in their path. Targets the Hunter succeeds against take **2d8+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Verrou mortel - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour maudire une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avec un *Verrou mortel* nécrotique, jusqu'à la fin de la scène. Les attaques du Chasseur contre une cible sous *Verrou mortel* infligent des [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER). Le Chasseur ne peut maintenir qu'un seul *Verrou mortel* à la fois.
+
+***Mort inéluctable - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) **1d4** alliés. Les attaques qu'ils effectuent pendant qu'ils sont [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) de cette façon infligent la moitié des dégâts.
+
+***Déchaînement - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (Boucle 1d6)*. Lorsque le Chasseur se retrouve pour la première fois [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), activez le compte à rebours. Lorsqu'il se déclenche, déplacez le Chasseur en ligne droite jusqu'à un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectuez une attaque contre toutes les cibles sur son passage. Les cibles contre lesquelles le Chasseur réussit subissent **2d8+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

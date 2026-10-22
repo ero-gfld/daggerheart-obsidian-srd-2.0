@@ -1,7 +1,14 @@
-# Versatile Fighter
+---
+aliases:
+  - "Versatile Fighter"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Combattant polyvalent
 
-You can use a different character trait for an equipped weapon, rather than the trait the weapon calls for.
+*(VO : Versatile Fighter)*
 
-When you deal damage, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to use the maximum result of one of your damage dice instead of rolling it.
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Vous pouvez utiliser une autre caractéristique que celle indiquée pour une arme équipée.
+
+Lorsque vous infligez des dégâts, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour utiliser le résultat maximum de l’un de vos dés de dégâts au lieu de le lancer.

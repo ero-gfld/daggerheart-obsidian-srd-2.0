@@ -1,3 +1,10 @@
-# Salamander Salve
+---
+aliases:
+  - "Salamander Salve"
+---
 
-You can apply this salve to your skin to make yourself [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to heat until your next rest.
+# Onguent de salamandre
+
+*(VO : Salamander Salve)*
+
+Vous pouvez appliquer cet onguent sur votre peau pour obtenir l’[immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) contre la chaleur jusqu’à votre prochain repos.

@@ -1,3 +1,10 @@
-# Redthorn Saliva
+---
+aliases:
+  - "Redthorn Saliva"
+---
 
-You can apply this saliva to a weapon that deals [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to add a d12 to your next [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.
+# Salive de Rougépine
+
+*(VO : Redthorn Saliva)*
+
+Vous pouvez appliquer cette salive sur une arme qui inflige des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour ajouter un d12 à votre prochain [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) avec cette arme.

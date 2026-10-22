@@ -1,3 +1,10 @@
-# Replication Parchment
+---
+aliases:
+  - "Replication Parchment"
+---
 
-By touching this piece of parchment to another, you can perfectly copy the second parchment’s contents. Once used, this parchment becomes mundane paper.
+# Parchemin de réplication
+
+*(VO : Replication Parchment)*
+
+En touchant ce parchemin à un autre, vous pouvez copier parfaitement le contenu du second. Une fois utilisé, ce parchemin devient du papier ordinaire.

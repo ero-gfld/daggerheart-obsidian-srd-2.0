@@ -1,3 +1,10 @@
-# Charm Potion
+---
+aliases:
+  - "Charm Potion"
+---
 
-You gain a +1 bonus to your next [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll.
+# Potion de charme
+
+*(VO : Charm Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

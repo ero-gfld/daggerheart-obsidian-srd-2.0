@@ -1,8 +1,15 @@
-# Midnight‑touched
+---
+aliases:
+  - "Midnight‑touched"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Midnight [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Touché par Minuit
 
-When 4 or more of the [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) are from the Midnight domain, gain the following benefits:
+*(VO : Midnight‑touched)*
 
-- Once per rest, when you have 0 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) would gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can gain a Hope instead.
-- When you make a successful attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to add the result of your [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *Minuit [Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque 4 [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) ou plus de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) proviennent du domaine Minuit, vous bénéficiez des avantages suivants :
+
+- Une fois par repos, lorsque vous n’avez aucun [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et que le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) devrait gagner une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez gagner un Espoir à la place.
+- Lorsque vous réussissez une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour ajouter le résultat de votre [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

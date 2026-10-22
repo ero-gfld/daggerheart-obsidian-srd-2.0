@@ -1,10 +1,17 @@
-# Dark Whispers
+---
+aliases:
+  - "Dark Whispers"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Murmures sombres
 
-You can speak into the mind of any person with whom you’ve made physical contact. Once you’ve opened a channel with them, they can speak back into your mind. Additionally, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against them. On a success, you can ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) one of the following questions and receive an answer:
+*(VO : Dark Whispers)*
 
-- Where are they?
-- What are they doing?
-- What are they afraid of?
-- What do they cherish most in the world?
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Vous pouvez parler dans l’esprit de toute personne avec laquelle vous avez eu un contact physique. Une fois la liaison établie, cette personne peut vous répondre dans votre esprit. De plus, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour faire un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre elle. En cas de réussite, vous pouvez poser au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) l’une des questions suivantes et recevoir une réponse :
+
+- Où se trouve-t-elle ?
+- Que fait-elle ?
+- De quoi a-t-elle peur ?
+- Que chérit-elle le plus au monde ?

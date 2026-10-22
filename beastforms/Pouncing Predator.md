@@ -1,11 +1,18 @@
-# Pouncing Predator
+---
+aliases:
+  - "Pouncing Predator"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Cheetah, Lion, Panther, etc.)
+# Prédateur bondissant
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203) +1 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +3* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Instinct d8+6 phy*
+*(VO : Pouncing Predator)*
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, climb, sneak
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Guépard, lion, panthère, etc.)
 
-***Fleet:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range without rolling.
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +1 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +3* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Instinct d8+6 phy*
 
-***Takedown:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target and make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against them. On a success, you gain a +2 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack and the target must mark a Stress.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, grimper, se faufiler
+
+***Véloce :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour vous déplacer jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sans lancer de dés.
+
+***Plaquage :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous déplacer à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une cible et faire un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre elle. En cas de réussite, vous gagnez un bonus de +2 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque et la cible doit marquer un Stress.

@@ -1,23 +1,30 @@
-# War Wizard
+---
+aliases:
+  - "War Wizard"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A battle-hardened mage trained in destructive magic.*
+# Magicien de guerre
 
-**Motives & Tactics:** Develop new spells, seek power, shatter formations
+*(VO : War Wizard)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 11/23 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Staff:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+4 mag
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Un mage aguerri, formé à la magie destructrice.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Magical [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2, Strategize +2
+**Motivations et tactiques :** Élaborer de nouveaux sorts, rechercher le pouvoir, briser les formations
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 11/23 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Bâton :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+4 mag
 
-***Battle Teleport - Passive:*** Before or after making a standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to teleport to a location within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) magique +2, Stratégie +2
 
-***Refresh Warding Sphere - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to refresh the Wizard’s “Warding Sphere” reaction.
+## APTITUDES
 
-***Eruption - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. A [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) area around that point erupts into impassable terrain. All targets within that area must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (14). Targets who fail take **2d10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are thrown out of the area. Targets who succeed take half damage and aren’t moved.
+***Téléportation de bataille - Passif :*** Avant ou après une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour vous téléporter à un endroit à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Arcane Artillery - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to unleash a precise hail of magical blasts. All targets in the scene must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **2d12** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage.
+***Rafraîchir la sphère de protection - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour rafraîchir la réaction « Sphère de protection » du Magicien.
 
-***Warding Sphere - Reaction:*** When the Wizard takes damage from an attack within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, deal **2d6** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to the attacker. This reaction can’t be used again until the Wizard refreshes it with their “Refresh Warding Sphere” action.
+***Éruption - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Une zone [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) autour de ce point se transforme en terrain infranchissable. Toutes les cibles présentes dans cette zone doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (14). Celles qui échouent subissent **2d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et sont projetées hors de la zone. Celles qui réussissent subissent la moitié des dégâts et ne sont pas déplacées.
+
+***Artillerie arcanique - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour déclencher une pluie précise de décharges magiques. Toutes les cibles présentes dans la scène doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Celles qui échouent subissent **2d12** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Celles qui réussissent subissent la moitié des dégâts.
+
+***Sphère de protection - Réaction :*** Quand le Magicien subit des dégâts d’une attaque à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), infligez **2d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à l’attaquant. Cette réaction ne peut plus être utilisée tant que le Magicien ne l’a pas rafraîchie avec son action « Rafraîchir la sphère de protection ».

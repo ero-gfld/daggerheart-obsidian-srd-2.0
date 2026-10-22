@@ -1,17 +1,17 @@
 # Vampire
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*An intelligent undead with blood-stained lips and a predator’s smile.*
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un mort-vivant intelligent aux lèvres tachées de sang et au sourire de prédateur.*
 
-**Motives & Tactics:** Bite, charm, deceive, feed, intimidate
+**Motivations et tactiques :** Mordre, charmer, tromper, se nourrir, intimider
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 18/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Rapier:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 18/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Rapière :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Nocturnal Hunter +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Chasseur nocturne +3
 
-## FEATURES
+## APTITUDES
 
-***Draining Bite - Action:*** Make an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **5d4** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). A target who marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from this attack loses a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). The Vampire then clears a HP.
+***Morsure vampirique - Action :*** Effectuez une attaque contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **5d4** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Une cible qui marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) grâce à cette attaque perd un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Le vampire efface ensuite un PV.
 
-***Mistform - Reaction:*** When the Vampire takes [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to take half damage.
+***Forme brumeuse - Réaction :*** Lorsque le vampire subit des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ne subir que la moitié des dégâts.

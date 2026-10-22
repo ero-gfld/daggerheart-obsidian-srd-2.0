@@ -1,5 +1,12 @@
-# Telekinesis
+---
+aliases:
+  - "Telekinesis"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Télékinésie
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, you can use your mind to move them anywhere within Far range of their original position. You can throw the lifted target as an attack by making an additional Spellcast Roll against the second target you’re trying to attack. On a success, deal **d12+4** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to the second target using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). This spell then ends.
+*(VO : Telekinesis)*
+
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible située à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de succès, vous pouvez utiliser votre esprit pour la déplacer n’importe où dans un rayon de Loin autour de sa position d’origine. Vous pouvez lancer la cible soulevée comme une attaque en faisant un jet d’Incantation supplémentaire contre la seconde cible que vous voulez attaquer. En cas de succès, infligez **d12+4** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la seconde cible, en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). Le sort prend alors fin.

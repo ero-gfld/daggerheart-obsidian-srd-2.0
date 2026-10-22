@@ -1,3 +1,10 @@
-# Glider
+---
+aliases:
+  - "Glider"
+---
 
-While falling, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to deploy this small parachute and glide safely to the ground.
+# Planeur
+
+*(VO : Glider)*
+
+En chute libre, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour déployer ce petit parachute et atterrir en sécurité.

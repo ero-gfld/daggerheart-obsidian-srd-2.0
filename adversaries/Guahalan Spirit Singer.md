@@ -1,21 +1,28 @@
-# Guahalan Spirit Singer
+---
+aliases:
+  - "Guahalan Spirit Singer"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A shapeshifting summoner who has animalistic features.*
+# Chanteur d’esprits guahalan
 
-**Motives & Tactics:** Abjure, bolster, summon
+*(VO : Guahalan Spirit Singer)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Spirit Flame:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+4 mag
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*Un invocateur métamorphe, aux traits animaux.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ritual +3, Ancient History +2
+**Motivations et tactiques :** Abjurer, soutenir, invoquer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Flamme spirituelle :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+4 mag
 
-***Unleash the Beast - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Spirit Singer adopt a more bestial form. While in this form, they gain a bonus to attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) they have marked. Additionally, they can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead of [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before taking an action.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Rituel +3, Histoire ancienne +2
 
-***Beast-Caller - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Spirit Singer summon **2d4** [Guahalan Spirit Beasts](Guahalan%20Spirit%20Beast.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) one.
+## APTITUDES
 
-***Rage of Spirits - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) any number of [Guahalan Spirit Beasts](Guahalan%20Spirit%20Beast.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and have each one move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with the nearest [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and make a standard attack. If any attacks succeed against the same target, combine their damage.
+***Libérer la bête - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Chanteur adopte une forme plus bestiale. Sous cette forme, il gagne un bonus aux jets d’attaque et aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) qu’il a marqués. De plus, il peut se déplacer jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) au lieu de [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avant d’agir.
 
-***Spiritual Sacrifice - Reaction:*** When the Spirit Singer would take damage while within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a [Guahalan Spirit Beast](Guahalan%20Spirit%20Beast.md), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to sacrifice the Spirit Beast and negate the damage.
+***Appel des bêtes - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Chanteur invoque **2d4** [Bêtes-esprits guahalanes](Guahalan%20Spirit%20Beast.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), et qu’il mette immédiatement l’une d’elles [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Rage des esprits - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) un nombre quelconque de [Bêtes-esprits guahalanes](Guahalan%20Spirit%20Beast.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chacune se déplace à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) le plus proche et effectue une attaque standard. Si plusieurs attaques réussissent contre la même cible, combinez leurs dégâts.
+
+***Sacrifice spirituel - Réaction :*** Quand le Chanteur devrait subir des dégâts alors qu’il se trouve à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une [Bête-esprit guahalane](Guahalan%20Spirit%20Beast.md), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour sacrifier la Bête-esprit et annuler ces dégâts.

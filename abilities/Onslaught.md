@@ -1,7 +1,14 @@
-# Onslaught
+---
+aliases:
+  - "Onslaught"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+# Assaut
 
-When you successfully make an attack with your weapon, you never deal damage beneath a target’s [Major damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) threshold (the target always marks a minimum of 2 [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)).
+*(VO : Onslaught)*
 
-Additionally, when a creature within your weapon’s range deals damage to an ally with an attack that doesn’t include you, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to make a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15). On a failure, the target must mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+Quand vous réussissez une attaque avec votre arme, vous n’infligez jamais de dégâts sous le [seuil de dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) d’une cible (la cible marque toujours au minimum 2 [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)).
+
+De plus, quand une créature à portée de votre arme inflige des dégâts à un allié avec une attaque qui ne vous inclut pas, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la forcer à faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15). En cas d’échec, la cible doit marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

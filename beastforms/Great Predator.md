@@ -1,11 +1,18 @@
-# Great Predator
+---
+aliases:
+  - "Great Predator"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** ([Dire Wolf](../adversaries/Dire%20Wolf.md), Velociraptor, Sabertooth Tiger, etc.)
+# Grand prédateur
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +2 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +2* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d12+8 phy*
+*(VO : Great Predator)*
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** attack, sneak, sprint
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** ([Loup redoutable](../adversaries/Dire%20Wolf.md), vélociraptor, tigre à dents de sabre, etc.)
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +2 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +2* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d12+8 phy*
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for this attack.
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** attaquer, se faufiler, piquer un sprint
+
+***Porteur :*** Vous pouvez emporter jusqu’à deux alliés consentants avec vous quand vous vous déplacez.
+
+***Déchiquetage vicieux :*** Quand vous réussissez une attaque contre une cible, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour la rendre temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.

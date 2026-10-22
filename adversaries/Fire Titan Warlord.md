@@ -1,23 +1,30 @@
-# Fire Titan Warlord
+---
+aliases:
+  - "Fire Titan Warlord"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A smoldering, battle-obsessed goliath wearing bespoke armor and wielding a massive maul.*
+# Seigneur de guerre titan de feu
 
-**Motives & Tactics:** Compete against rivals, conquer the weak, craft colossal war machines
+*(VO : Fire Titan Warlord)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 21 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 33/66 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 8  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +6 | **Maul:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d10+10 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un goliath fumant et obsédé par la bataille, vêtu d’une armure sur mesure et brandissant un énorme maillet.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Tactics +4
+**Motivations et tactiques :** Rivaliser avec ses adversaires, conquérir les faibles, forger des machines de guerre colossales
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 21 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 33/66 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 8  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +6 | **Maillet :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d10+10 phy
 
-***Relentless (2) - Passive:*** The Warlord can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Tactique +4
 
-***Colossus Crafter - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (6)*. When the Warlord enters the scene, activate the countdown. It ticks down when the Warlord is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). When it triggers, summon the [Gargantuan War Machine](Gargantuan%20War%20Machine.md), which appears at the edge of the battlefield and immediately takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+## APTITUDES
 
-***Release the Hounds - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Warlord summon two [Demonic Hound Packs](Demonic%20Hound%20Pack.md), which appear at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Implacable (2) - Passif :*** Le Seigneur de guerre peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Spinning Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Bâtisseur de colosses - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (6)*. Lorsque le Seigneur de guerre entre en scène, activez le compte à rebours. Il décroît lorsque le Seigneur de guerre est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Quand il se déclenche, invoquez la [Machine de guerre gigantesque](Gargantuan%20War%20Machine.md), qui apparaît au bord du champ de bataille et prend immédiatement les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Ground-Breaking - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Warlord crack the earth with a downward swing of their maul and make an attack against a group within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the attack succeeds against take **4d10+10** [direct damage](../core_rules/Core%20Mechanics.md#ATTACKING). The area becomes rough terrain, and a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16) to move through it.
+***Lâcher les chiens - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Seigneur de guerre invoque deux [Meutes de chiens démoniaques](Demonic%20Hound%20Pack.md), qui apparaissent à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et prennent immédiatement les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Frappe tournoyante - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard contre toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et gagner une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Fracasser le sol - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Seigneur de guerre fende la terre d’un coup de maillet vers le bas et attaque un groupe à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles l’attaque réussit subissent **4d10+10** [dégâts directs](../core_rules/Core%20Mechanics.md#ATTAQUER). La zone devient un terrain accidenté, et un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (16) pour la traverser.

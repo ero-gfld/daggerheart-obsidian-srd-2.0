@@ -1,3 +1,10 @@
-# Skeleton Key
+---
+aliases:
+  - "Skeleton Key"
+---
 
-When you use this key to open a locked door, you gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll.
+# Passe-partout
+
+*(VO : Skeleton Key)*
+
+Quand vous utilisez cette clé pour ouvrir une porte verrouillée, vous gagnez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) au jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

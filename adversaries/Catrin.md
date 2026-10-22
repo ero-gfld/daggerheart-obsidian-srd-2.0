@@ -1,19 +1,19 @@
 # Catrin
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A lavishly adorned skeleton that has an endless appetite for gold.*
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Un squelette richement paré, qui a un appétit sans fin pour l’or.*
 
-**Motives & Tactics:** Dominate the conversation, seek attention, steal everything
+**Motivations et tactiques :** Dominer la conversation, chercher l’attention, tout voler
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/32 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Spirit Flame:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+5 mag
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 20/32 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Flamme spectrale :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+5 mag
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Opulence +2, Storyteller +2
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Opulence +2, Conteur +2
 
-## FEATURES
+## APTITUDES
 
-***Attracted to Wealth - Passive:*** [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) carrying at least a bag of gold gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Presence](../core_rules/Character%20Creation.md#STEP%203) Rolls made to influence the Catrin.
+***Attirée par la richesse - Passif :*** Les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui portent au moins une bourse d’or bénéficient d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) effectués pour influencer la Catrin.
 
-***The Weight of Opulence - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to turn the Catrin’s gaze toward the [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) carrying the most gold. The target must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each bag of gold they’re carrying. If the PC loses their last Hope or has no Hope to lose, they mark [Stress](../core_rules/Core%20Mechanics.md#STRESS) instead.
+***Le poids de l’opulence - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour tourner le regard de la Catrin vers le [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui porte le plus d’or. La cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou perdre un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) par bourse d’or qu’elle porte. Si le PJ perd son dernier Espoir ou n’en a aucun à perdre, il marque du [Stress](../core_rules/Core%20Mechanics.md#STRESS) à la place.
 
-***Expensive Failure - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Catrin brazenly steal a [handful](../core_rules/Equipment.md#GOLD) of gold from them.
+***Échec coûteux - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) rate un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la Catrin lui dérobe effrontément une [poignée](../core_rules/Equipment.md#OR) d’or.

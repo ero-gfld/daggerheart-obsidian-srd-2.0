@@ -1,5 +1,12 @@
-# Brace
+---
+aliases:
+  - "Brace"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Se raidir
 
-When you mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) to reduce incoming damage, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to mark an additional Armor Slot.
+*(VO : Brace)*
+
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque vous marquez un [emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour réduire les dégâts reçus, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour marquer un emplacement d’armure supplémentaire.

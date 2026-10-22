@@ -1,21 +1,28 @@
-# Knight of the Realm
+---
+aliases:
+  - "Knight of the Realm"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A decorated soldier with heavy armor and a powerful steed.*
+# Chevalier du royaume
 
-**Motives & Tactics:** Run down, seek glory, show dominance
+*(VO : Knight of the Realm)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 13/26 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Longsword:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un soldat décoré, revêtu d’une armure lourde et monté sur une puissante monture.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ancient [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3, High Society +2, Tactics +2
+**Motivations et tactiques :** Écraser, chercher la gloire, affirmer sa domination
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 13/26 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Épée longue :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+4 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ancien +3, Haute société +2, Tactique +2
 
 ## FEATURES
 
-***Chevalier - Passive:*** While the Knight is on a mount, they gain a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). When they take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they’re knocked from their mount and lose this benefit until they’re next [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Chevalier - Passif :*** Lorsque le chevalier est monté, il gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Lorsqu’il subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il est désarçonné et perd ce bénéfice jusqu’à ce qu’il soit de nouveau [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Heavily Armored - Passive:*** When the Knight takes [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), reduce it by 3.
+***Lourdement armuré - Passif :*** Lorsque le chevalier subit des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), réduisez-les de 3.
 
-***Cavalry Charge - Action:*** If the Knight is mounted, move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make a standard attack against a target. On a success, deal **2d8+4** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Charge de cavalerie - Action :*** S’il est monté, le chevalier se déplace jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectue une attaque standard contre une cible. En cas de réussite, il inflige **2d8+4** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), et la cible doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***For the Realm! - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) **1d4+1** allies. Attacks they make while [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) in this way deal half damage.
+***Pour le royaume ! - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) **1d4+1** alliés. Les attaques qu’ils effectuent lorsqu’ils sont mis sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) de cette manière infligent la moitié des dégâts.

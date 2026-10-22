@@ -1,3 +1,10 @@
-# Wingsprout
+---
+aliases:
+  - "Wingsprout"
+---
 
-You gain magic wings that allow you to fly for a number of minutes equal to your level.
+# Pousse-d’ailes
+
+*(VO : Wingsprout)*
+
+Vous obtenez des ailes magiques qui vous permettent de voler pendant un nombre de minutes égal à votre niveau.

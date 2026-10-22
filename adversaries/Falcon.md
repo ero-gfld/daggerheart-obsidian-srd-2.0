@@ -1,17 +1,24 @@
-# Falcon
+---
+aliases:
+  - "Falcon"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A bird of prey that has long, pointed wings and a notched beak.*
+# Faucon
 
-**Motives & Tactics:** Circle, clutch, dive, spy
+*(VO : Falcon)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Talons:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un rapace aux longues ailes pointues et au bec échancré.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Keen Senses +4, Fly +3
+**Motivations et tactiques :** Tourner en cercle, agripper, piquer, espionner
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Serres :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+1 phy
 
-***Nimble Flyer - Passive:*** While flying, the Falcon gains a +3 bonus to its [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sens aiguisés +4, Vol +3
 
-***Dive Bomb - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against a target from above. The Falcon gains a +2 bonus to the attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
+
+***Volant agile - Passif :*** En vol, le Faucon gagne un bonus de +3 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
+
+***Piqué - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard contre une cible depuis les airs. Le Faucon gagne un bonus de +2 à l’attaque et aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

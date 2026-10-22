@@ -1,13 +1,20 @@
-# Tiny Green Ooze
+---
+aliases:
+  - "Tiny Green Ooze"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A small moving mound of translucent green slime.*
+# Minuscule gelée verte
 
-**Motives & Tactics:** Camouflage, creep up
+*(VO : Tiny Green Ooze)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Ooze Appendage:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d4+1 mag
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un petit monticule mouvant de glu verte translucide.*
 
-## FEATURES
+**Motivations et tactiques :** Se camoufler, se glisser à pas de loup
 
-***Acidic Form - Passive:*** When the Ooze makes a successful attack, the target must mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Pseudopode :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d4+1 mag
+
+## APTITUDES
+
+***Forme acide - Passif :*** Quand la Gelée réussit une attaque, la cible doit marquer un [emplacement d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir les bénéfices (elle peut quand même utiliser son armure pour réduire les dégâts). Si elle ne peut pas marquer d’emplacement d’armure, elle doit marquer un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.

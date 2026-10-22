@@ -1,7 +1,14 @@
-# Mass Disguise
+---
+aliases:
+  - "Mass Disguise"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Midnight](../domains/Midnight.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Déguisement collectif
 
-When you have a few minutes of silence to focus, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to change the appearance of all willing creatures within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Their new forms must share a general body structure and size, and can be somebody or something you’ve seen before or entirely fabricated. A disguised creature has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Presence](../core_rules/Character%20Creation.md#STEP%203) Rolls to avoid scrutiny.
+*(VO : Mass Disguise)*
 
-Activate a [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (8). It ticks down as a consequence the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) chooses. When it triggers, the disguise drops.
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Minuit](../domains/Midnight.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Lorsque vous disposez de quelques minutes de calme pour vous concentrer, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour changer l’apparence de toutes les créatures consentantes à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Leurs nouvelles formes doivent partager une structure corporelle et une taille générales, et peuvent représenter quelqu’un ou quelque chose que vous avez déjà vu, ou être entièrement inventées. Une créature déguisée bénéficie d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour échapper à l’attention.
+
+Activez un [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (8). Il avance selon les conséquences que choisit le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Lorsqu’il se déclenche, le déguisement tombe.

@@ -1,3 +1,10 @@
-# Staff of Reversal
+---
+aliases:
+  - "Staff of Reversal"
+---
 
-You can break this staff against the ground to reverse one magical [transformation](../core_rules/Transformations.md) or effect within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+# Bâton d’inversion
+
+*(VO : Staff of Reversal)*
+
+Vous pouvez briser ce bâton contre le sol pour inverser une [transformation](../core_rules/Transformations.md) magique ou un effet à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

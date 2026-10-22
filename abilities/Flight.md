@@ -1,5 +1,12 @@
-# Flight
+---
+aliases:
+  - "Flight"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Vol
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15)**. On a success, place a number of tokens equal to your [Agility](../core_rules/Character%20Creation.md#STEP%203) on this card (minimum 1). When you make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) while flying, spend a token from this card. After the action that spends the last token is resolved, you descend to the ground directly below you.
+*(VO : Flight)*
+
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15)**. En cas de succès, placez sur cette carte un nombre de jetons égal à votre [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (minimum 1). Lorsque vous effectuez un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) en volant, dépensez un jeton de cette carte. Une fois l’action qui dépense le dernier jeton résolue, vous atterrissez directement au sol, juste en dessous de vous.

@@ -1,64 +1,71 @@
-# Combat Wheelchair
+---
+aliases:
+  - "Combat Wheelchair"
+---
 
-*By Mark Thompson*
+# Fauteuil roulant de combat
 
-The combat wheelchair is a ruleset designed to help you play a wheelchair user in Daggerheart. This section provides mechanics and narrative guidance for you to work from, but feel free to adapt the flavor text to best suit your character. Have fun with your character’s wheelchair design, and make it as unique or tailored to them as you please.
+*(VO : Combat Wheelchair)*
 
-## Action and Movement
-When describing how your character moves, you can use descriptions such as the following:
-* “I roll over to the door to see if it’s open.”
-* “I wheel myself over to the group to ask what’s going on.”
-* “I pull my brakes and skid to a halt, turning in my seat to level my bow at the intruder.”
+*Par Mark Thompson*
 
-## Consequences
-Here are some ways you might describe complications you encounter when your character uses their wheelchair:
-* “I pull my brakes, but I don’t think to account for the loose gravel on the ground.”
-* “I hit a patch of ice awkwardly and am sent skidding out past my target.”
-* “I go to push off in pursuit, but one of my front caster wheels snags on a crack in the pavement, stalling me for a moment.”
+Le fauteuil roulant de combat est un ensemble de règles conçu pour vous aider à jouer un personnage qui se déplace en fauteuil roulant dans Daggerheart. Cette section fournit des mécaniques et des pistes narratives à partir desquelles travailler, mais vous êtes libre d’adapter le texte d’ambiance à votre personnage. Amusez-vous à concevoir le fauteuil de votre personnage, et rendez-le aussi unique ou aussi adapté à lui que vous le souhaitez.
 
-GMs should avoid breaking a character's wheelchair or otherwise removing it from play as a consequence, unless everyone at the table, especially the wheelchair user’s player, gives their approval.
+## Action et déplacement
+Lorsque vous décrivez la manière dont votre personnage se déplace, vous pouvez utiliser des formules comme celles-ci :
+* « Je roule jusqu’à la porte pour voir si elle est ouverte. »
+* « Je me dirige vers le groupe pour demander ce qui se passe. »
+* « Je serre les freins et je dérape jusqu’à l’arrêt, en me tournant sur mon siège pour braquer mon arc sur l’intrus. »
 
-## Evasion
-Your character is assumed to be skilled in moving their wheelchair and navigating numerous situations in it. As a result, the only wheelchair that gives a penalty to a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)'s [Evasion](../core_rules/Core%20Mechanics.md#EVASION) is the Heavy Frame model.
+## Conséquences
+Voici quelques façons de décrire les complications que votre personnage peut rencontrer lorsqu’il utilise son fauteuil roulant :
+* « Je serre les freins, mais je n’ai pas pensé au gravier meuble sur le sol. »
+* « Je tombe maladroitement sur une plaque de glace et je dérape au-delà de ma cible. »
+* « Je veux me lancer à la poursuite, mais une de mes roulettes avant accroche une fissure du pavé, ce qui me ralentit un instant. »
 
-## Burden
-All wheelchairs can be maneuvered using one or two hands outside of combat. However, when being used as a weapon, the chair is restricted to requiring one or two hands to perform attacks, depending on the model you’ve chosen. If you’re playing a character who has limited to no mobility in their arms, their wheelchair can be attuned to them by magical means. For example, your character might use a psychic link to guide the chair around like a pseudo-electric wheelchair. All the rules presented here can be tailored and adapted to any character's needs.
+Le MJ doit éviter de briser le fauteuil roulant d’un personnage ou de le retirer du jeu en guise de conséquence, sauf si toute la table, en particulier le joueur ou la joueuse qui incarne ce personnage, y consent.
 
-## Choosing Your Model
-All combat wheelchairs are equipped as [Primary Weapons](../core_rules/Equipment.md#WEAPONS). There are three models of wheelchair available: light, heavy, and arcane. You’re encouraged to consider the type of character you’re playing and the class they belong to, then choose the model that best matches that character concept.
+## Évasion
+On considère que votre personnage est habile à manœuvrer son fauteuil et à se tirer de nombreuses situations avec. Par conséquent, le seul fauteuil qui inflige un malus à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) est le modèle à châssis lourd.
+
+## Prise
+Tous les fauteuils roulants peuvent être manœuvrés à une ou deux mains hors combat. En revanche, lorsqu’il sert d’arme, le fauteuil ne se manie qu’à une ou deux mains pour attaquer, selon le modèle choisi. Si vous jouez un personnage qui a peu ou pas de mobilité dans les bras, son fauteuil peut être accordé à lui par des moyens magiques. Par exemple, votre personnage peut utiliser un lien psychique pour guider le fauteuil comme un fauteuil électrique. Toutes les règles présentées ici peuvent être adaptées aux besoins de n’importe quel personnage.
+
+## Choisir son modèle
+Tous les fauteuils roulants de combat sont équipés comme des [armes principales](../core_rules/Equipment.md#ARMES). Il existe trois modèles : léger, lourd et arcanique. Vous êtes invité à considérer le type de personnage que vous jouez et la classe à laquelle il appartient, puis à choisir le modèle qui correspond le mieux à ce concept.
 
 ---
 
-### Light Frame Models
-Though tough, these wheelchairs have light frames that allow the chair to move with your character in more acrobatic ways. These models are best suited to adventurers who rely on speed and flexibility.
+### Modèles à châssis léger
+Bien que solides, ces fauteuils ont des châssis légers qui leur permettent de suivre votre personnage dans des mouvements plus acrobatiques. Ces modèles conviennent le mieux aux aventuriers qui misent sur la rapidité et la souplesse.
 
-| Name | Tier | Trait | Range | Damage | [Burden](../core_rules/Equipment.md#WEAPONS) | Feature |
+| Nom | Rang | Caractéristique | Portée | Dégâts | [Prise](../core_rules/Equipment.md#ARMES) | Aptitude |
 | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Light-Frame Wheelchair** | 1 | [Agility](../core_rules/Character%20Creation.md#STEP%203) | [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 phy | [One-Handed](../core_rules/Equipment.md#WEAPONS) | **Quick:** When you make an attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to target another creature within range. |
-| **Improved Light-Frame Wheelchair** | 2 | Agility | Melee | d8+3 phy | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range. |
-| **Advanced Light-Frame Wheelchair** | 3 | Agility | Melee | d8+6 phy | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range. |
-| **Legendary Light-Frame Wheelchair** | 4 | Agility | Melee | d8+9 phy | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range. |
+| **Fauteuil roulant à châssis léger** | 1 | [Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d8 phy | [À une main](../core_rules/Equipment.md#ARMES) | **Rapide :** lorsque vous attaquez, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour viser une autre créature à portée. |
+| **Fauteuil roulant à châssis léger amélioré** | 2 | Agilité | Mêlée | d8+3 phy | À une main | **Rapide :** lorsque vous attaquez, vous pouvez marquer un Stress pour viser une autre créature à portée. |
+| **Fauteuil roulant à châssis léger avancé** | 3 | Agilité | Mêlée | d8+6 phy | À une main | **Rapide :** lorsque vous attaquez, vous pouvez marquer un Stress pour viser une autre créature à portée. |
+| **Fauteuil roulant à châssis léger légendaire** | 4 | Agilité | Mêlée | d8+9 phy | À une main | **Rapide :** lorsque vous attaquez, vous pouvez marquer un Stress pour viser une autre créature à portée. |
 
 ---
 
-### Heavy Frame Models
-These wheelchairs have bulky and heavier frames, allowing the chair to lend its weight to your character’s attacks. It also makes them a bigger target.
+### Modèles à châssis lourd
+Ces fauteuils ont des châssis massifs et plus lourds, qui leur permettent d’ajouter leur poids aux attaques de votre personnage. Ils en font aussi une cible plus grande.
 
-| Name | Tier | Trait | Range | Damage | [Burden](../core_rules/Equipment.md#WEAPONS) | Feature |
+| Nom | Rang | Caractéristique | Portée | Dégâts | [Prise](../core_rules/Equipment.md#ARMES) | Aptitude |
 | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Heavy-Frame Wheelchair** | 1 | [Strength](../core_rules/Character%20Creation.md#STEP%203) | [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d12+3 phy | [Two-Handed](../core_rules/Equipment.md#WEAPONS) | **Heavy:** -1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION) |
-| **Improved Heavy-Frame Wheelchair** | 2 | Strength | Melee | d12+6 phy | Two-Handed | **Heavy:** -1 to Evasion |
-| **Advanced Heavy-Frame Wheelchair** | 3 | Strength | Melee | d12+9 phy | Two-Handed | **Heavy:** -1 to Evasion |
-| **Legendary Heavy-Frame Wheelchair** | 4 | Strength | Melee | d12+12 phy | Two-Handed | **Heavy:** -1 to Evasion |
+| **Fauteuil roulant à châssis lourd** | 1 | [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d12+3 phy | [À deux mains](../core_rules/Equipment.md#ARMES) | **Lourd :** -1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) |
+| **Fauteuil roulant à châssis lourd amélioré** | 2 | Force | Mêlée | d12+6 phy | À deux mains | **Lourd :** -1 à l’Évasion |
+| **Fauteuil roulant à châssis lourd avancé** | 3 | Force | Mêlée | d12+9 phy | À deux mains | **Lourd :** -1 à l’Évasion |
+| **Fauteuil roulant à châssis lourd légendaire** | 4 | Force | Mêlée | d12+12 phy | À deux mains | **Lourd :** -1 à l’Évasion |
 
 ---
 
-### Arcane Frame Models
-These wheelchairs have frames that are attuned to your character and their magic, allowing them to channel their spells through the chair. Unlike other primary magic weapons, the arcane-frame model doesn't specify a trait to use when making an attack with it. Instead, you use the [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait indicated by your subclass.
+### Modèles à châssis arcanique
+Ces fauteuils ont des châssis accordés à votre personnage et à sa magie, ce qui leur permet de canaliser ses sorts à travers le fauteuil. Contrairement aux autres armes magiques principales, le modèle à châssis arcanique ne précise pas de caractéristique à utiliser pour attaquer. Vous utilisez à la place la caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) indiquée par votre sous-classe.
 
-| Name | Tier | Trait | Range | Damage | [Burden](../core_rules/Equipment.md#WEAPONS) | Feature |
+| Nom | Rang | Caractéristique | Portée | Dégâts | [Prise](../core_rules/Equipment.md#ARMES) | Aptitude |
 | :--- | :---: | :--- | :--- | :--- | :--- | :--- |
-| **Arcane-Frame Wheelchair** | 1 | [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) | [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6 mag | [One-Handed](../core_rules/Equipment.md#WEAPONS) | **Reliable:** +1 to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) |
-| **Improved Arcane-Frame Wheelchair** | 2 | Spellcast | Far | d6+3 mag | One-Handed | **Reliable:** +1 to attack rolls |
-| **Advanced Arcane-Frame Wheelchair** | 3 | Spellcast | Far | d6+6 mag | One-Handed | **Reliable:** +1 to attack rolls |
-| **Legendary Arcane-Frame Wheelchair** | 4 | Spellcast | Far | d6+9 mag | One-Handed | **Reliable:** +1 to attack rolls |
+| **Fauteuil roulant à châssis arcanique** | 1 | [Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) | [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6 mag | [À une main](../core_rules/Equipment.md#ARMES) | **Fiable :** +1 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) |
+| **Fauteuil roulant à châssis arcanique amélioré** | 2 | Incantation | Loin | d6+3 mag | À une main | **Fiable :** +1 aux jets d’attaque |
+| **Fauteuil roulant à châssis arcanique avancé** | 3 | Incantation | Loin | d6+6 mag | À une main | **Fiable :** +1 aux jets d’attaque |
+| **Fauteuil roulant à châssis arcanique légendaire** | 4 | Incantation | Loin | d6+9 mag | À une main | **Fiable :** +1 aux jets d’attaque |

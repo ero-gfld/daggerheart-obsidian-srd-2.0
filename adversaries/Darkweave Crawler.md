@@ -1,21 +1,28 @@
-# Darkweave Crawler
+---
+aliases:
+  - "Darkweave Crawler"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***
-*A spider the size of a human head, woven out of shadow-silk.*
+# Rampeur tisse-ténèbres
 
-**Motives & Tactics:** Hide in shadow, strike the unwary, wait for an opening
+*(VO : Darkweave Crawler)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** –2 | **Bite:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Sbire](../core_rules/Using%20Adversaries.md)***
+*Araignée de la taille d’une tête humaine, tissée dans une soie d’ombre.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Darkness +3
+**Motivations et tactiques :** Se cacher dans l’ombre, frapper les imprudents, attendre une ouverture
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** –2 | **Morsure :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2 phy
 
-***Minion (3) - Passive:*** The Crawler is defeated when it takes any damage. For every 3 damage a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to the Crawler, the PC defeats an additional [Minion](../core_rules/Using%20Adversaries.md) within range the attack would succeed against.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Ténèbres +3
 
-***Skin-Crawling - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Crawler to mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Darkweave Crawlers within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Those [Minions](../core_rules/Using%20Adversaries.md) move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal 2 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+***Sbire (3) - Passif :*** Le Rampeur est vaincu dès qu’il subit des dégâts. Pour chaque tranche de 3 dégâts qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) inflige au Rampeur, le PJ vainc un [Sbire](../core_rules/Using%20Adversaries.md) supplémentaire à portée de l’attaque, contre lequel elle aurait réussi.
 
-***Darkweave Venom - Reaction:*** When the Crawler makes a successful attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to *Exhaust* the target until they succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (9). While *Exhausted*, the target must mark a Stress each time they make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+***Frisson rampant - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Rampeur à marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour désigner une cible et [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les Rampeurs tisse-ténèbres à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’elle. Ces [Sbires](../core_rules/Using%20Adversaries.md) se déplacent à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible et font un seul [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de réussite, chacun inflige 2 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Additionnez ces dégâts.
+
+***Venin tisse-ténèbres - Réaction :*** Quand le Rampeur réussit une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour rendre la cible *Épuisée* jusqu’à ce qu’elle réussisse un [jet de Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (9). Tant qu’elle est *Épuisée*, la cible doit marquer un Stress chaque fois qu’elle fait un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).

@@ -1,25 +1,32 @@
-# Harbinger of Famine
+---
+aliases:
+  - "Harbinger of Famine"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***
-*A dried-out husk of a body riding atop a withered white horse. They are covered in mouths and surrounded by swarming flies.*
+# Avant-coureur de la Famine
 
-**Motives & Tactics:** Drain, impoverish, weaken, wither
+*(VO : Harbinger of Famine)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 26/42 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Barbed Lash:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+10 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Soutien](../core_rules/Using%20Adversaries.md)***
+*La carcasse desséchée d’un corps, chevauchant un cheval blanc flétri. Il est couvert de bouches et entouré de mouches bourdonnantes.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Hunger +2, Thirst +2
+**Motivations et tactiques :** Drainer, appauvrir, affaiblir, dépérir
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 26/42 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Fouet barbelé :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d8+10 phy
 
-***Relentless (2) - Passive:*** The Harbinger can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Faim +2, Soif +2
 
-***Mount - Passive:*** While the Harbinger is on their mount, they gain a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). When the Harbinger takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they’re knocked from their mount. If the Harbinger is unhorsed, their mount disappears until you **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to summon it again.
+## APTITUDES
 
-***Hunger Pangs - Passive:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Decreasing 6).* When the Harbinger appears, activate the countdown. It ticks down when the Harbinger is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). When it triggers, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and become *Ravenous*. While *Ravenous*, a PC can’t spend [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) until they clear the condition with a successful [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll.
+***Implacable (2) - Passif :*** L’Avant-coureur peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre sous les projecteurs.
 
-***Drain Essence - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose up to three [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F). Each target takes **4d6** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Monture - Passif :*** Tant que l’Avant-coureur est sur sa monture, il gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Quand il subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il est désarçonné. S’il est désarçonné, sa monture disparaît jusqu’à ce que vous **marquiez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la faire apparaître de nouveau.
 
-***Too Many Mouths - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to attack a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the Harbinger grabs the target and bites them, dealing **4d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and *Restraining* the target until they break free with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll.
+***Tiraillements de la faim - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (décroissant 6).* Quand l’Avant-coureur apparaît, activez le compte à rebours. Il avance chaque fois que l’Avant-coureur est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Quand il se déclenche, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) marquent un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et deviennent *Affamés*. Tant qu’il est *Affamé*, un PJ ne peut pas dépenser d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) tant qu’il n’a pas levé cet état grâce à un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi.
 
-***Withering Touch - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Harbinger caress the face of a *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The target marks 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) and either loses a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or marks **1d4** [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Drain d’essence - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir jusqu’à trois [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F). Chaque cible subit **4d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Trop de bouches - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, l’Avant-coureur saisit la cible et la mord, infligeant **4d6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et la rendant *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle se libère grâce à un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi.
+
+***Toucher flétrissant - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que l’Avant-coureur caresse le visage d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) *[Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible marque 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS) et perd soit un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), soit marque **1d4** [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

@@ -1,5 +1,5 @@
 # Divination
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), **spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to reach out to the forces beyond and ask one “yes or no” question about an event, person, place, or situation in the near future. For a moment, the present falls away and you see the answer before you.
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), **dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour tendre votre esprit vers les forces au-delà et poser une question fermée, à laquelle on répond par « oui » ou « non », sur un événement, une personne, un lieu ou une situation dans un avenir proche. Pendant un instant, le présent s’efface et vous voyez la réponse devant vous.

@@ -1,3 +1,10 @@
-# Bonding Honey
+---
+aliases:
+  - "Bonding Honey"
+---
 
-This honey can be used to glue two objects together permanently.
+# Miel liant
+
+*(VO : Bonding Honey)*
+
+Ce miel permet de coller deux objets ensemble de façon permanente.

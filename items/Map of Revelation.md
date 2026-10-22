@@ -1,3 +1,10 @@
-# Map of Revelation
+---
+aliases:
+  - "Map of Revelation"
+---
 
-You can attune this map to one creature at a time. The map always shows the attuned creature’s location.
+# Carte de révélation
+
+*(VO : Map of Revelation)*
+
+Vous pouvez accorder cette carte à une seule créature à la fois. La carte montre toujours la position de la créature accordée.

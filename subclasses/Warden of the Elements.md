@@ -1,43 +1,50 @@
-# Warden of the Elements
+---
+aliases:
+  - "Warden of the Elements"
+---
 
-Play the Warden of the Elements if you want to embody the natural elements of the wild.
+# Veilleur des éléments
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Warden of the Elements)*
 
-[Instinct](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Veilleur des éléments si vous voulez incarner les éléments naturels du monde sauvage.
 
-**FOUNDATION FEATURE**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Elemental Incarnation:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to *Channel* one of the following elements until you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or until your next rest:
+[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-- ***Fire:*** When an [adversary](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range deals damage to you, they take **1d10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**APTITUDE DE FONDATION**
 
-- ***Earth:*** Gain a bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Incarnation élémentaire :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour *Canaliser* l’un des éléments suivants jusqu’à ce que vous subissiez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou jusqu’à votre prochain repos :
 
-- ***Water:*** When you deal damage to an [adversary](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, all other [adversaries](../core_rules/Using%20Adversaries.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+- ***Feu :*** Lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) vous inflige des dégâts, il subit **1d10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-- ***Air:*** You can hover, gaining [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [Agility](../core_rules/Character%20Creation.md#STEP%203) Rolls.
+- ***Terre :*** Gagnez un bonus à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-**SPECIALIZATION FEATURE**
+- ***Eau :*** Lorsque vous infligez des dégâts à un [adversaire](../core_rules/Using%20Adversaries.md) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), tous les autres [adversaires](../core_rules/Using%20Adversaries.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Elemental Aura:*** Once per rest while *Channeling*, you can assume an aura matching your element. The aura affects targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range until your *Channeling* ends.
+- ***Air :*** Vous pouvez flotter dans les airs et vous avez un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203).
 
-- ***Fire:*** When an [adversary](../core_rules/Using%20Adversaries.md) marks 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they must also mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**APTITUDE DE SPÉCIALISATION**
 
-- ***Earth:*** Your allies gain a +1 bonus to [Strength](../core_rules/Character%20Creation.md#STEP%203).
+***Aura élémentaire :*** Une fois par repos, tant que vous *Canalisez*, vous pouvez revêtir une aura correspondant à votre élément. L’aura affecte les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) jusqu’à la fin de votre *Canalisation*.
 
-- ***Water:*** When an [adversary](../core_rules/Using%20Adversaries.md) deals damage to you, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move them anywhere within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of where they are.
+- ***Feu :*** Lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) marque 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, il doit aussi marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-- ***Air:*** When you or an ally takes damage from an attack beyond [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, reduce the damage by **1d8**.
+- ***Terre :*** Vos alliés gagnent un bonus de +1 en [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203).
 
-**MASTERY FEATURE**
+- ***Eau :*** Lorsqu’un [adversaire](../core_rules/Using%20Adversaries.md) vous inflige des dégâts, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour le déplacer où vous voulez à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de sa position.
 
-***Elemental Dominion:*** You further embody your element. While *Channeling*, you gain the following benefit:
+- ***Air :*** Lorsque vous ou un allié subissez des dégâts d’une attaque portée au-delà de la [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), réduisez ces dégâts de **1d8**.
 
-- ***Fire:*** You gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for attacks and spells that deal damage.
+**APTITUDE D’EXCELLENCE**
 
-- ***Earth:*** When you would mark [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), roll a **d6** per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1.
+***Domination élémentaire :*** Vous incarnez encore davantage votre élément. Tant que vous *Canalisez*, vous bénéficiez de l’avantage suivant :
 
-- ***Water:*** When an attack against you succeeds, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the attacker temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+- ***Feu :*** Vous gagnez un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour les attaques et les sorts qui infligent des dégâts.
 
-- ***Air:*** You gain a +1 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) and can fly.
+- ***Terre :*** Lorsque vous devez marquer des [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), lancez un **d6** par Point de vie marqué. Pour chaque résultat de 6, réduisez de 1 le nombre de Points de vie que vous marquez.
+
+- ***Eau :*** Lorsqu’une attaque contre vous réussit, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour rendre l’attaquant temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
+
+- ***Air :*** Vous gagnez un bonus de +1 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) et vous pouvez voler.

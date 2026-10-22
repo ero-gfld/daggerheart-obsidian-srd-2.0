@@ -1,3 +1,10 @@
-# Mask of the Echoed Self
+---
+aliases:
+  - "Mask of the Echoed Self"
+---
 
-You can wear this mask during your next [level up](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to swap the values of any of your traits. When you do, the mask becomes your permanent face.
+# Masque du soi résonnant
+
+*(VO : Mask of the Echoed Self)*
+
+Vous pouvez porter ce masque lors de votre prochaine [montée de niveau](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) pour échanger les valeurs de n’importe laquelle de vos caractéristiques. Lorsque vous le faites, le masque devient votre visage permanent.

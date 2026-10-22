@@ -1,5 +1,12 @@
-# Zone of Protection
+---
+aliases:
+  - "Zone of Protection"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Zone de protection
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16)**. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) on a success, choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and create a visible zone of protection there for all allies within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point. When you do, place a **d6** on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die’s value. You then increase the die’s value by one. When the die’s value would exceed 6, this effect ends.
+*(VO : Zone of Protection)*
+
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16)**. Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), en cas de succès, choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et créez-y une zone de protection visible pour tous les alliés à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point. Ce faisant, placez un **d6** sur cette carte, la face 1 vers le haut. Lorsqu’un allié dans cette zone subit des dégâts, il les réduit de la valeur du dé. Vous augmentez ensuite la valeur du dé de un. Lorsque la valeur du dé dépasserait 6, cet effet prend fin.

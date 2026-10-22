@@ -1,15 +1,22 @@
-# Skeleton Warrior
+---
+aliases:
+  - "Skeleton Warrior"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A dirt-covered skeleton armed with a rusted blade.*
+# Squelette guerrier
 
-**Motives & Tactics:** Feign death, gang up, steal skin
+*(VO : Skeleton Warrior)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 10 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Sword:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un squelette couvert de terre, armé d’une lame rouillée.*
 
-## FEATURES
+**Motivations et tactiques :** Simuler la mort, se regrouper, voler la peau
 
-***Only Bones - Passive:*** The Warrior is resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 10 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Épée :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+2 phy
 
-***Won’t Stay Dead - Reaction:*** When the Warrior is defeated, you can [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them and roll a **d6**. On a result of 6, if there are other [adversaries](../core_rules/Using%20Adversaries.md) on the battlefield, the Warrior re-forms with no marked [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+## APTITUDES
+
+***Que des os - Passif :*** Le Guerrier résiste aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Ne reste pas mort - Réaction :*** Quand le Guerrier est vaincu, vous pouvez le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) et lancer un **d6**. Sur un résultat de 6, s’il reste d’autres [adversaires](../core_rules/Using%20Adversaries.md) sur le champ de bataille, le Guerrier se reforme sans [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) marqués.

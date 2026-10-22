@@ -1,5 +1,12 @@
-# Final Words
+---
+aliases:
+  - "Final Words"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Dernières paroles
 
-You can infuse a corpse with a moment of life to speak with it. Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (13)**. On a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW), the corpse answers up to three questions. On a [success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW), the corpse answers one question. The corpse answers truthfully, but it can’t impart information it didn’t know in life. On a failure, or once the corpse has finished answering your questions, the body turns to dust.
+*(VO : Final Words)*
+
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Vous pouvez insuffler à un cadavre un instant de vie pour lui parler. Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (13)**. Sur un [succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U), le cadavre répond à jusqu’à trois questions. Sur un [succès avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U), il répond à une seule question. Le cadavre répond sincèrement, mais il ne peut pas révéler ce qu’il ignorait de son vivant. Sur un échec, ou une fois que le cadavre a fini de répondre à vos questions, le corps tombe en poussière.

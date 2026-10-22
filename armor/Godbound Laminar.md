@@ -1,9 +1,16 @@
-# Godbound Laminar
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Godbound Laminar"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+# Armure lamellaire de l’élu divin
 
-### FEATURE
+*(VO : Godbound Laminar)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Divine:*** When you mark an [Armor Slot](../core_rules/Equipment.md#ARMOR), gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
+
+***Divin :*** Lorsque vous marquez un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE), gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

@@ -1,3 +1,10 @@
-# Cupbearer’s Bezoar
+---
+aliases:
+  - "Cupbearer’s Bezoar"
+---
 
-You can swallow this bezoar to become [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to poisons until your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).
+# Bézoard de l’échanson
+
+*(VO : Cupbearer’s Bezoar)*
+
+Vous pouvez avaler ce bézoard pour obtenir l’[immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les poisons jusqu’à votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS).

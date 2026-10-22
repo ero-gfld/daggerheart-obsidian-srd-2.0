@@ -1,18 +1,25 @@
-# Midnight
+---
+aliases:
+  - "Midnight"
+---
 
-Midnight is the domain of **shadows and secrecy.** Whether by clever tricks, deft magic, or the cloak of night, those who channel these forces practice the art of obscurity and can uncover sequestered treasures. Midnight offers practitioners the power to control and create enigmas. The Midnight domain can be accessed by the **[Assassin](../classes/Assassin.md)**, **[Rogue](../classes/Rogue.md)**, and **[Sorcerer](../classes/Sorcerer.md)** classes.
+# Minuit
 
-### DOMAIN CARDS
+*(VO : Midnight)*
 
-| **Level** | **Option 1**                                                 | **Option 2**                                                     | **Option 3**                                           |
-| --------- | ------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------ |
-| **1**     | [Pick and Pull](../abilities/Pick%20and%20Pull.md)           | [Rain of Blades](../abilities/Rain%20of%20Blades.md)             | [Uncanny Disguise](../abilities/Uncanny%20Disguise.md) |
-| **2**     | [Midnight Spirit](../abilities/Midnight%20Spirit.md)         | [Shadowbind](../abilities/Shadowbind.md)                         | —                                                      |
-| **3**     | [Chokehold](../abilities/Chokehold.md)                       | [Veil of Night](../abilities/Veil%20of%20Night.md)               | —                                                      |
-| **4**     | [Stealth Expertise](../abilities/Stealth%20Expertise.md)     | [Glyph of Nightfall](../abilities/Glyph%20of%20Nightfall.md)     | —                                                      |
-| **5**     | [Hush](../abilities/Hush.md)                                 | [Phantom Retreat](../abilities/Phantom%20Retreat.md)             | —                                                      |
-| **6**     | [Dark Whispers](../abilities/Dark%20Whispers.md)             | [Mass Disguise](../abilities/Mass%20Disguise.md)                 | —                                                      |
-| **7**     | [Midnight‑touched](../abilities/Midnight‑touched.md) | [Vanishing Dodge](../abilities/Vanishing%20Dodge.md)             | —                                                      |
-| **8**     | [Shadowhunter](../abilities/Shadowhunter.md)                 | [Spellcharge](../abilities/Spellcharge.md)                       | —                                                      |
-| **9**     | [Night Terror](../abilities/Night%20Terror.md)               | [Twilight Toll](../abilities/Twilight%20Toll.md)                 | —                                                      |
-| **10**    | [Eclipse](../abilities/Eclipse.md)                           | [Specter of the Dark](../abilities/Specter%20of%20the%20Dark.md) | —                                                      |
+Minuit est le domaine **des ombres et du secret.** Par des ruses habiles, une magie délicate ou le manteau de la nuit, ceux qui canalisent ces forces pratiquent l’art de l’obscurité et savent découvrir les trésors cachés. Minuit confère à ses adeptes le pouvoir de contrôler et de créer des énigmes. Le domaine de Minuit est accessible aux classes **[Assassin](../classes/Assassin.md)**, **[Roublard](../classes/Rogue.md)** et **[Ensorceleur](../classes/Sorcerer.md)**.
+
+### CARTES DE DOMAINE
+
+| **Niveau** | **Option 1**                                                      | **Option 2**                                                      | **Option 3**                                                |
+| ---------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
+| **1**      | [Tirer et arracher](../abilities/Pick%20and%20Pull.md)            | [Pluie de lames](../abilities/Rain%20of%20Blades.md)              | [Déguisement troublant](../abilities/Uncanny%20Disguise.md) |
+| **2**      | [Esprit de Minuit](../abilities/Midnight%20Spirit.md)             | [Lien d’ombre](../abilities/Shadowbind.md)                        | —                                                           |
+| **3**      | [Étranglement](../abilities/Chokehold.md)                         | [Voile de la nuit](../abilities/Veil%20of%20Night.md)             | —                                                           |
+| **4**      | [Expertise de la discrétion](../abilities/Stealth%20Expertise.md) | [Glyphe du crépuscule](../abilities/Glyph%20of%20Nightfall.md)    | —                                                           |
+| **5**      | [Silence](../abilities/Hush.md)                                   | [Retraite fantôme](../abilities/Phantom%20Retreat.md)             | —                                                           |
+| **6**      | [Murmures sombres](../abilities/Dark%20Whispers.md)               | [Déguisement collectif](../abilities/Mass%20Disguise.md)          | —                                                           |
+| **7**      | [Touché par Minuit](../abilities/Midnight‑touched.md)             | [Esquive évanescente](../abilities/Vanishing%20Dodge.md)          | —                                                           |
+| **8**      | [Chasseur d’ombres](../abilities/Shadowhunter.md)                 | [Charge de sortilège](../abilities/Spellcharge.md)                | —                                                           |
+| **9**      | [Terreur nocturne](../abilities/Night%20Terror.md)                | [Glas du crépuscule](../abilities/Twilight%20Toll.md)             | —                                                           |
+| **10**     | [Éclipse](../abilities/Eclipse.md)                                | [Spectre des ténèbres](../abilities/Specter%20of%20the%20Dark.md) | —                                                           |

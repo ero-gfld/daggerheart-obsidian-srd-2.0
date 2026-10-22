@@ -1,45 +1,52 @@
-# Pact of the Wrathful
+---
+aliases:
+  - "Pact of the Wrathful"
+---
 
-Play the Pact of the Wrathful if you want to destroy those who act against you.
+# Pacte du Courroux
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Pact of the Wrathful)*
 
-[Presence](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Pacte du Courroux si vous voulez détruire ceux qui agissent contre vous.
 
-**FOUNDATION FEATURES**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Patron’s Fury:*** **Spend a Favor** to imbue your attacks with your Patron’s power until you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or the scene ends. When you roll damage while this effect is active, you also roll a number of Patron Dice equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) and add their total to the damage dealt.
+[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Deadly Vengeance:*** When you mark any number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack, you can **spend a Favor** to roll an equal number of Patron Dice. For each result of 4 or higher, the attacker marks a Hit Point.
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Fureur du Patron :*** **Dépensez une Faveur** pour imprégner vos attaques de la puissance de votre Patron, jusqu’à ce que vous infligiez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou que la scène prenne fin. Quand vous lancez les dégâts alors que cet effet est actif, vous lancez aussi un nombre de dés de Patron égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) et vous ajoutez leur total aux dégâts infligés.
 
-***Menacing Reach:*** **Spend a Favor** to increase the range of your [primary weapon](../core_rules/Equipment.md#WEAPONS) by one step (such as [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) to [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) or Very Close to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)) to a maximum of [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. This effect ends when you make a successful attack with that weapon.
+***Vengeance mortelle :*** Quand vous marquez un certain nombre de [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause d’une attaque, vous pouvez **dépenser une Faveur** pour lancer autant de dés de Patron. Pour chaque résultat de 4 ou plus, l’attaquant marque un Point de vie.
 
-***Diminish My Foes:*** When you succeed with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) against a target, you can **spend any number of Favor** to force the target to mark an equal number of [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Allonge menaçante :*** **Dépensez une Faveur** pour augmenter d’un cran la portée de votre [arme principale](../core_rules/Equipment.md#ARMES) (par exemple de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), ou de Très proche à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)), jusqu’à un maximum de portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Cet effet prend fin quand vous réussissez une attaque avec cette arme.
 
-***Fearsome Attack:*** **Spend a Favor** to reroll any number of your damage dice. You can continue spending Favor to use this feature on the same [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Amoindrir mes ennemis :*** Quand vous réussissez avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) contre une cible, vous pouvez **dépenser autant de Faveurs que vous voulez** pour forcer la cible à marquer autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Otherworldly Ire:*** Once per rest when you take damage, you can **spend any number of Favor** to roll that many Patron Dice and target a number of creatures within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range equal to the highest result. Each target must mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**APTITUDES D’EXCELLENCE**
 
-**BACKGROUND QUESTIONS**
+***Attaque redoutable :*** **Dépensez une Faveur** pour relancer autant de vos dés de dégâts que vous voulez. Vous pouvez continuer à dépenser des Faveurs pour utiliser cette aptitude sur le même [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***Ire d’outre-monde :*** Une fois par repos, quand vous subissez des dégâts, vous pouvez **dépenser autant de Faveurs que vous voulez** pour lancer autant de dés de Patron et viser un nombre de créatures à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) égal au plus haut résultat. Chaque cible doit marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-- Who from your community shunned you after you made a pact with your patron?
+**QUESTIONS D’HISTORIQUE**
 
-- What desperate situation led you to pledge your life to your patron?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- Your patron has given you one task you must accomplish above all else. What is it, and why does it worry you?
+- Qui, dans votre communauté, vous a rejeté après que vous avez conclu un pacte avec votre patron ?
 
-**CONNECTIONS**
+- Quelle situation désespérée vous a conduit à engager votre vie auprès de votre patron ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Votre patron vous a confié une tâche que vous devez accomplir avant tout. Laquelle, et pourquoi vous inquiète-t-elle ?
 
-- Why do you think I confide in you about what my patron says and does?
+**LIENS**
 
-- Our relationship has changed since you saw me show tribute to my patron. What did you see, and how has it affected you?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- I once did something very foolish, and you’ve never let me live it down. What was it?
+- Pourquoi pensez-vous que je me confie à vous sur ce que dit et fait mon patron ?
+
+- Notre relation a changé depuis que vous m’avez vu rendre hommage à mon patron. Qu’avez-vous vu, et quel effet cela a-t-il eu sur vous ?
+
+- J’ai un jour fait quelque chose de très stupide, et vous ne me l’avez jamais laissé oublier. Quoi donc ?

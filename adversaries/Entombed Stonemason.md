@@ -1,19 +1,26 @@
-# Entombed Stonemason
+---
+aliases:
+  - "Entombed Stonemason"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***
-*An unfortunate undead laborer chosen by lottery to wall up their empress’s tomb from the inside.*
+# Maçon des tombes
 
-**Motives & Tactics:** Never stop working, sacrifice yourself for the empress
+*(VO : Entombed Stonemason)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 1  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Hammer and Chisel:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 5 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Sbire](../core_rules/Using%20Adversaries.md)***
+*Un malheureux ouvrier mort-vivant, tiré au sort pour murer de l’intérieur la tombe de son impératrice.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Builder +2
+**Motivations et tactiques :** Ne jamais cesser de travailler, se sacrifier pour l’impératrice
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** Aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 1 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 1  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Marteau et ciseau :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 5 phy
 
-***Minion (5) - Passive:*** The Stonemason is defeated when they take any damage. For every 5 damage a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) deals to the Stonemason, the PC defeats an additional [Minion](../core_rules/Using%20Adversaries.md) within range their attack would succeed against.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Bâtisseur +2
 
-***Group Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to choose a target and [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all Entombed Stonemasons within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of them. Those [Minions](../core_rules/Using%20Adversaries.md) move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target and make one shared [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they deal 5 [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) each. Combine this damage.
+## APTITUDES
 
-***The Work Never Ends - Reaction:*** When the Stonemason is defeated by an attack that deals [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear the Stonemason’s [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Sbire (5) - Passif :*** Le maçon est vaincu dès qu’il subit des dégâts. Pour chaque tranche de 5 dégâts qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) lui inflige, le PJ vainc un [sbire](../core_rules/Using%20Adversaries.md) supplémentaire dans la portée de son attaque.
+
+***Attaque de groupe - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour choisir une cible et [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les maçons des tombes à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’elle. Ces [sbires](../core_rules/Using%20Adversaries.md) se déplacent à [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible et font un seul [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) commun. En cas de succès, chacun inflige 5 [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Additionnez ces dégâts.
+
+***Le travail ne finit jamais - Réaction :*** Quand le maçon est vaincu par une attaque qui inflige des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effacer les [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et le [Stress](../core_rules/Core%20Mechanics.md#STRESS) du maçon.

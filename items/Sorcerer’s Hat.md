@@ -1,3 +1,10 @@
-# Sorcerer’s Hat
+---
+aliases:
+  - "Sorcerer’s Hat"
+---
 
-This conical blue hat is covered in silver stars. Once per rest, you can cast a spell from your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) with a [Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS) equal to or less than your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP). This doesn’t work for permanently vaulted cards.
+# Chapeau d’ensorceleur
+
+*(VO : Sorcerer’s Hat)*
+
+Ce chapeau conique bleu est couvert d’étoiles argentées. Une fois par repos, vous pouvez lancer un sort de votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) dont le [Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) est égal ou inférieur à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU). Cela ne fonctionne pas avec les cartes placées en réserve de façon permanente.

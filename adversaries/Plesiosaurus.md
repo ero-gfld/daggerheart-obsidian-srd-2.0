@@ -1,17 +1,24 @@
-# Plesiosaurus
+---
+aliases:
+  - "Plesiosaurus"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A canoe-length marine lizard that has a long neck and four flippers.*
+# Plésiosaure
 
-**Motives & Tactics:** Dive deeper, eat fish, swim peacefully
+*(VO : Plesiosaurus)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 18/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Bite:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+5 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un lézard marin long comme une pirogue, au long cou et à quatre nageoires.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Lochs +3
+**Motivations et tactiques :** Plonger plus profond, manger du poisson, nager paisiblement
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 18/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Morsure :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+5 phy
 
-***Only a Rumor - Passive:*** While deep underwater, the Plesiosaurus can’t be located or targeted.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Lacs +3
 
-***Wall of Water - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Plesiosaurus breach and crash, sending a wall of water from one side of its body. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range on that side of the Plesiosaurus must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (18) or take **3d10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and be pushed back to Far range.
+## APTITUDES
+
+***Rien qu'une rumeur - Passif :*** Lorsqu'il est profondément sous l'eau, le Plésiosaure ne peut être ni repéré ni pris pour cible.
+
+***Mur d'eau - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Plésiosaure émerge et s'écrase, projetant un mur d'eau depuis un côté de son corps. Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce côté du Plésiosaure doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (18), sans quoi il subit **3d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et est repoussé jusqu'à Loin.

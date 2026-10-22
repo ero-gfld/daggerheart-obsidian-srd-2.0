@@ -1,23 +1,30 @@
-# Head Vampire
+---
+aliases:
+  - "Head Vampire"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A captivating undead dressed in aristocratic finery.*
+# Vampire-chef
 
-**Motives & Tactics:** Create thralls, charm, command, fly, intimidate
+*(VO : Head Vampire)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 22/42 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Rapier:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d20+4 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un mort-vivant envoûtant, vêtu d’atours aristocratiques.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Aristocrat +3
+**Motivations et tactiques :** Créer des esclaves, charmer, commander, voler, intimider
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 22/42 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Rapière :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d20+4 phy
 
-***Terrifying - Passive:*** When the Vampire makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Aristocrate +3
 
-***Look into My Eyes - Passive:*** A creature who moves into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Vampire must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, you gain **1d4** [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Feed on Followers - Action:*** When the Vampire is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of an ally, they can cause the ally to mark a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). The Vampire then clears a HP.
+***Terrifiant - Passif :*** Quand le Vampire réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***The Hunt Is On - Action:*** **Spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon **1d4** Vampires, who appear at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Regardez-moi dans les yeux - Passif :*** Une créature qui se déplace à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Vampire doit effectuer un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas d’échec, vous gagnez **1d4** [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Lifesuck - Reaction:*** When the Vampire is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), roll a **d8**. On a result of 6 or higher, all targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must mark a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Se nourrir des suivants - Action :*** Quand le Vampire est à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un allié, il peut faire en sorte que l’allié marque un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Le Vampire efface ensuite un PV.
+
+***La chasse est ouverte - Action :*** **Dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer **1d4** Vampires, qui apparaissent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et prennent immédiatement les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Succion vitale - Réaction :*** Quand le Vampire est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), lancez un **d8**. Sur un résultat de 6 ou plus, toutes les cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent marquer un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

@@ -1,27 +1,34 @@
-# Ghost
+---
+aliases:
+  - "Ghost"
+---
 
-Ghosts are the spirits of the once-living who are bound to the Mortal Realm. They could be called forth after passing through the veil of death with necromantic rites, alchemical experimentation, the desperation of a loved one—or they may never have passed through the veil at all. Those who met a horrific end, were killed with a cursed weapon, or died in a place of power might have become trapped in the Mortal Realm instead of passing on.
+# Fantôme
 
-Because they occupy the space between life and death, a ghost can shift between the physical and the spectral and, at times, pass through solid objects. While some ghosts are almost indistinguishable from the living, others emanate spectral auras, appear desaturated in color, or bear physical evidence of their cause of death. When a ghost becomes incorporeal— which can occur at will, due to heightened emotions, or seemingly at random—they might appear semitranslucent, like a breath of fog that could dissipate in the wind.
+*(VO : Ghost)*
 
-Some ghosts return for revenge, some to save a loved one, and others to meet a goal or discover hidden knowledge. Their drive to accomplish this goal is the force that allows them to exist in the Mortal Realm. When they complete that goal, their work is done, and they immediately pass beyond the veil of death.
+Les fantômes sont les esprits d’anciens vivants liés au Royaume mortel. On peut les rappeler après le passage du voile de la mort par des rites nécromantiques, des expériences alchimiques ou le désespoir d’un proche, à moins qu’ils n’aient jamais franchi le voile. Ceux qui ont connu une fin horrible, qui ont été tués par une arme maudite ou qui sont morts en un lieu de pouvoir peuvent être restés prisonniers du Royaume mortel au lieu de passer outre.
 
-**TRANSFORMATION FEATURES**
+Parce qu’il occupe l’espace entre la vie et la mort, un fantôme peut alterner entre le physique et le spectral et, par moments, traverser les objets solides. Certains fantômes sont presque impossibles à distinguer des vivants ; d’autres dégagent des auras spectrales, paraissent délavés ou portent les marques physiques de la cause de leur mort. Quand un fantôme devient incorporel, que ce soit à volonté, sous le coup d’une émotion vive ou en apparence au hasard, il peut sembler à demi translucide, comme un souffle de brume prêt à se dissiper au vent.
 
-***Unfinished Business:*** Work with your [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to decide what purpose or desire keeps you bound to the Mortal Realm. When you fulfill it, you cross through the veil of death.
+Certains fantômes reviennent pour se venger, d’autres pour sauver un être cher, d’autres encore pour atteindre un but ou découvrir un savoir caché. Leur volonté d’y parvenir est la force qui leur permet d’exister dans le Royaume mortel. Une fois ce but accompli, leur œuvre est achevée et ils passent aussitôt de l’autre côté du voile de la mort.
 
-***Ephemeral:*** Your body wavers in and out of being corporeal. You are resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), take double [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), and can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to momentarily pass through a solid object.
+**APTITUDES DE TRANSFORMATION**
 
-**TRANSFORMATION QUESTIONS**
+***Affaires inachevées :*** Décidez avec votre [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) du but ou du désir qui vous retient dans le Royaume mortel. Lorsque vous l’accomplissez, vous franchissez le voile de la mort.
 
-- How did you die, and what fear has your death instilled in you?
+***Éphémère :*** Votre corps vacille entre le corporel et l’immatériel. Vous résistez aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), subissez le double des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et pouvez **marquer 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour traverser brièvement un objet solide.
 
-- What brought you back from beyond the veil of death?
+**QUESTIONS DE TRANSFORMATION**
 
-- In life, you loved someone dearly. Why do you need to find them again?
+- Comment êtes-vous mort, et quelle peur votre mort a-t-elle fait naître en vous ?
 
-- What must you accomplish now that you’ve returned to the Mortal Realm? How will you meet your goal?
+- Qu’est-ce qui vous a ramené d’au-delà du voile de la mort ?
 
-- Who harmed you in your first life? How do you plan to deal with them now that you’ve returned?
+- De votre vivant, vous aimiez quelqu’un profondément. Pourquoi avez-vous besoin de le retrouver ?
 
-- You had to sacrifice something dear to you in order to come back to the Mortal Realm. What did you give up, and who did you give it to?
+- Que devez-vous accomplir maintenant que vous êtes revenu dans le Royaume mortel ? Comment comptez-vous atteindre votre but ?
+
+- Qui vous a fait du mal dans votre première vie ? Comment comptez-vous traiter cette personne maintenant que vous êtes revenu ?
+
+- Vous avez dû sacrifier une chose qui vous était chère pour revenir dans le Royaume mortel. Qu’avez-vous abandonné, et à qui l’avez-vous donné ?

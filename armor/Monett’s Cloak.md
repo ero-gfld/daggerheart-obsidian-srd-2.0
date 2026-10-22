@@ -1,9 +1,16 @@
-# Monett’s Cloak
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Monett’s Cloak"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 16 / 39  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+# Cape de Monett
 
-### FEATURE
+*(VO : Monett’s Cloak)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Magic:*** You can’t mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) to reduce [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 16 / 39  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
+
+***Magique :*** Vous ne pouvez pas marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour réduire des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

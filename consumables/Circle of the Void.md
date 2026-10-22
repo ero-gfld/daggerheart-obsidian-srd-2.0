@@ -1,3 +1,10 @@
-# Circle of the Void
+---
+aliases:
+  - "Circle of the Void"
+---
 
-Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to create a void that extends up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. No magic can be cast inside the void, and creatures within the void are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Cercle du vide
+
+*(VO : Circle of the Void)*
+
+Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour créer un vide qui s’étend jusqu’à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Aucune magie ne peut être lancée à l’intérieur du vide, et les créatures qui s’y trouvent bénéficient de l’[immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

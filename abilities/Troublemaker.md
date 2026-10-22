@@ -1,5 +1,12 @@
-# Troublemaker
+---
+aliases:
+  - "Troublemaker"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Fauteur de troubles
 
-When you taunt or provoke a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, make a **[Presence](../core_rules/Character%20Creation.md#STEP%203) Roll** against them. Once per rest on a success, roll a number of **d4s** equal to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). The target must mark [Stress](../core_rules/Core%20Mechanics.md#STRESS) equal to the highest result rolled.
+*(VO : Troublemaker)*
+
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque vous raillez ou provoquez une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), faites un jet de **[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)** contre elle. Une fois par repos en cas de réussite, lancez un nombre de **d4** égal à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). La cible doit marquer autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que le résultat le plus élevé obtenu.

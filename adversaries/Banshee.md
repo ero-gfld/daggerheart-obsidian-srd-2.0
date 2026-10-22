@@ -1,21 +1,21 @@
 # Banshee
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A corrupted fey spirit that haunts the night in the form of a willowy specter wearing a luminous gossamer gown.*
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un esprit féerique corrompu qui hante la nuit sous la forme d’un spectre élancé vêtu d’une robe de gaze lumineuse.*
 
-**Motives & Tactics:** Ambush from inside solid objects, frighten to death, mourn life and beauty lost, scream balefully
+**Motivations et tactiques :** Embusquer depuis l’intérieur d’objets solides, effrayer à mort, pleurer la vie et la beauté perdues, hurler sinistrement
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/18 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Fingernails:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+1 mag
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/18 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Ongles :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+1 mag
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Vain +3, Wrathful +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Vanité +3, Colère +3
 
-## FEATURES
+## APTITUDES
 
-***Specter - Passive:*** The Banshee has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range through solid objects.
+***Spectre - Passif :*** Le Banshee a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour se déplacer jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à travers des objets solides.
 
-***Terrifying - Passive:*** When the Banshee makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Terrifiant - Passif :*** Quand le Banshee réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Scare Tactic - Action:*** Up to three times per scene, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Banshee teleport up to [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and scare a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The PC marks **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS). If this causes them to mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they also lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Tactique d’effroi - Action :*** Jusqu’à trois fois par scène, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Banshee se téléporte jusqu’à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effraie un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Le PJ marque **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS). Si cela le conduit à marquer des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il perd aussi un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Wail of Despair - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Banshee unleash a mournful scream of pain and anguish. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who succeed take **1d12+1** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who fail take double damage and are knocked back to Close range.
+***Gémissement de désespoir - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Banshee pousse un cri de douleur et d’angoisse. Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui réussissent subissent **1d12+1** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui échouent subissent le double des dégâts et sont repoussées à portée Proche.

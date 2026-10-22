@@ -1,21 +1,28 @@
-# Guahalan Fang Lord
+---
+aliases:
+  - "Guahalan Fang Lord"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A shapeshifting warlord who leads a group of warriors into battle.*
+# Seigneur des crocs guahalan
 
-**Motives & Tactics:** Bolster allies, lead the pack, rally the troops
+*(VO : Guahalan Fang Lord)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/24 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Spear:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un seigneur de guerre métamorphe, qui mène un groupe de guerriers au combat.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Ancient [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +2, Hunter +2
+**Motivations et tactiques :** Soutenir les alliés, mener la meute, rallier les troupes
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/24 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Lance :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 phy
 
-***Pack Alpha - Passive:*** *Pool*. When the Fang Lord makes a successful attack, add a token to the Guahalan Pool. When a Guahalan ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range makes an attack, you can **spend a token** from the Guahalan Pool to give them [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the roll.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ancien +2, Chasseur +2
 
-***Unleash the Beast - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Fang Lord adopt a bestial form. While in this form, they gain a bonus to attack and [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to the number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) they have marked. Additionally, they can move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range instead of [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range before taking an action.
+## APTITUDES
 
-***Call of the Guahala - Action:*** **Spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) all [Guahalan Shifters](Guahalan%20Shifter.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each one makes a standard attack against a target within range. If any attacks succeed against the same target, combine their damage.
+***Meute alpha - Passif :*** *Réserve.* Quand le Seigneur réussit une attaque, ajoutez un jeton à la réserve guahalane. Quand un allié guahalan à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) effectue une attaque, vous pouvez **dépenser un jeton** de la réserve guahalane pour lui donner un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur le jet.
 
-***Feral Form (Phase Change) - Reaction:*** When the Fang Lord marks their last [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), replace them with the [Guahalan Alebrujo](Guahalan%20Alebrujo.md) and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Libérer la bête - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Seigneur adopte une forme bestiale. Sous cette forme, il gagne un bonus aux jets d’attaque et aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) égal au nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) qu’il a marqués. De plus, il peut se déplacer jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) au lieu de [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) avant d’agir.
+
+***Appel de la Guahala - Action :*** **Dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) tous les [Métamorphes guahalans](Guahalan%20Shifter.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chacun effectue une attaque standard contre une cible à portée. Si plusieurs attaques réussissent contre la même cible, combinez leurs dégâts.
+
+***Forme sauvage (changement de phase) - Réaction :*** Quand le Seigneur marque son dernier [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), remplacez-le par l’[Alebrujo guahalan](Guahalan%20Alebrujo.md) et mettez-le immédiatement [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

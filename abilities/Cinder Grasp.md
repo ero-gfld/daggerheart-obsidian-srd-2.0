@@ -1,7 +1,14 @@
-# Cinder Grasp
+---
+aliases:
+  - "Cinder Grasp"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Étreinte de braise
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target instantly bursts into flames, takes **1d20+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), and is temporarily lit *On Fire*.
+*(VO : Cinder Grasp)*
 
-When a creature acts while *On Fire*, they must take an extra **2d6** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) if they are still *On Fire* at the end of their action.
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la cible s’embrase instantanément, subit **1d20+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et est temporairement *en feu*.
+
+Lorsqu’une créature agit alors qu’elle est *en feu*, elle doit subir **2d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) supplémentaires si elle est toujours *en feu* à la fin de son action.

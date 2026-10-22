@@ -1,3 +1,10 @@
-# Box of Dragon Dust
+---
+aliases:
+  - "Box of Dragon Dust"
+---
 
-This snuffbox is filled with combustible powder.
+# Coffret de poussière de dragon
+
+*(VO : Box of Dragon Dust)*
+
+Cette tabatière contient une poudre inflammable.

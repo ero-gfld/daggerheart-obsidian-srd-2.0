@@ -1,3 +1,10 @@
-# Emberite Shard
+---
+aliases:
+  - "Emberite Shard"
+---
 
-Choose a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point must succeed on a [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (16) or take 3d6 [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and become temporarily *Ablaze*. While *Ablaze*, a creature must roll a d4 whenever they make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). On a result of 1, they mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). On a result of 4, they clear the *Ablaze* condition.
+# Éclat d’emberite
+
+*(VO : Emberite Shard)*
+
+Choisissez un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (16), sans quoi elles subissent 3d6 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *Embrasées*. Tant qu’elle est *Embrasée*, une créature doit lancer un d4 chaque fois qu’elle effectue un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Sur un résultat de 1, elle marque un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Sur un résultat de 4, elle retire l’état *Embrasé*.

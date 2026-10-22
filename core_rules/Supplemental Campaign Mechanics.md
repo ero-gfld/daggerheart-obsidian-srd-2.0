@@ -1,838 +1,845 @@
-# Supplemental Campaign Mechanics
+---
+aliases:
+  - "Supplemental Campaign Mechanics"
+---
 
-*You can use following optional mechanics to supplement your campaigns.*
+# Mécaniques de campagne complémentaires
 
-## FACTION TRACKING
+*(VO : Supplemental Campaign Mechanics)*
 
-*You can use a campaign sheet to track multiple factions, the* *relationships between them, and their distinguishing assets,* *problems, or objectives, as well as their major assets and* *problems.*
+*Vous pouvez utiliser les mécaniques facultatives suivantes pour enrichir vos campagnes.*
 
-#### RELATIONSHIPS
+## SUIVI DES FACTIONS
 
-The relationship between two factions is designated by a number between −3 and +3:
+*Vous pouvez utiliser une feuille de campagne pour suivre plusieurs factions, les relations qui les lient, ainsi que leurs atouts, problèmes ou objectifs distinctifs, sans oublier leurs principaux atouts et problèmes.*
 
-- −3: Nemeses
+#### RELATIONS
 
-- −2: Opposed
+La relation entre deux factions est désignée par un nombre compris entre −3 et +3 :
 
-- −1: Unfriendly
+- −3 : Ennemis jurés
 
-- 0: Neutral, Ambiguous, or Ambivalent
+- −2 : Opposés
 
-- +1: Friendly
+- −1 : Peu amicaux
 
-- +2: Allied
+- 0 : Neutres, ambigus ou ambivalents
 
-- +3: [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Allies
+- +1 : Amicaux
 
-The more intense their relationship, the more willing one faction is to act on behalf of or against the other, even at risk to itself. A Friendly (+1) faction might render help if it doesn’t require much effort or risk, whereas a faction will go to great effort and expense to see its Nemeses (−3) suffer.
+- +2 : Alliés
 
-#### FACTION CARDS
+- +3 : Alliés [proches](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)
 
-Each Faction Card contains the following information:
+Plus leur relation est intense, plus une faction est disposée à agir pour le compte de l’autre ou contre elle, même à ses propres risques. Une faction Amicale (+1) peut prêter main-forte si cela ne demande ni grand effort ni grand risque, alors qu’une faction fera de gros efforts et de grandes dépenses pour voir souffrir ses Ennemis jurés (−3).
 
-- Name: What the faction is called
+#### CARTES DE FACTION
 
-- Relationships: The faction’s relationship rank with other factions
+Chaque carte de faction contient les informations suivantes :
 
-- Assets: 1–3 advantages the faction has, such as a large military or access to superior technology
+- Nom : comment s’appelle la faction
 
-- Problems: 1–3 disadvantages the faction has, such as a small territory or negative reputation
+- Relations : le rang de relation de la faction avec les autres factions
 
-- Major Objectives: 1–3 goals the faction would expend significant resources to achieve, such as establishing a new trade route
+- Atouts : 1 à 3 avantages dont dispose la faction, comme une grande armée ou l’accès à une technologie supérieure
 
-- Minor Objectives: 1–3 less critical goals the faction would like to achieve, such as mounting a festival or implementing a civic project
+- Problèmes : 1 à 3 désavantages de la faction, comme un petit territoire ou une mauvaise réputation
 
-#### OBJECTIVE COUNTDOWNS
+- Objectifs majeurs : 1 à 3 buts pour lesquels la faction dépenserait des ressources considérables, comme établir une nouvelle route commerciale
 
-You can use long-term [countdowns](Making%20Moves.md#COUNTDOWNS) to track a faction’s efforts to exploit their assets, address their problems, and pursue their major and minor objectives.
+- Objectifs mineurs : 1 à 3 buts moins cruciaux que la faction aimerait atteindre, comme organiser une fête ou mener un projet civique
 
-Each in-game week, pick one [countdown](Making%20Moves.md#COUNTDOWNS) for each faction to advance (stepping down the countdown by one tick) as it makes progress toward its goal. These countdowns can also tick up (or down extra steps) according to the fiction.
+#### COMPTES À REBOURS D’OBJECTIF
 
-When a [countdown](Making%20Moves.md#COUNTDOWNS) triggers, the relevant faction acquires an asset, removes a problem, or achieves some other objective. Pick a new goal based on the fiction and start a new countdown. Each nation can have no more than one major objective countdown and up to two minor objective countdowns active at the same time.
+Vous pouvez utiliser des [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) à long terme pour suivre les efforts d’une faction afin d’exploiter ses atouts, de régler ses problèmes et de poursuivre ses objectifs majeurs et mineurs.
 
-Achieving a major objective requires the faction to complete an [Objective Countdown](Making%20Moves.md#COUNTDOWNS) (10), whereas achieving a minor objective requires the faction to complete an Objective Countdown (4–6), depending on the scale of the endeavor.
+Chaque semaine de jeu, choisissez pour chaque faction un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) à faire avancer (en le faisant descendre d’un cran) à mesure qu’elle progresse vers son but. Ces comptes à rebours peuvent aussi remonter d’un cran (ou descendre de plusieurs crans en une fois) selon la fiction.
 
-Stagger the progression of your factions’ objective [countdowns](Making%20Moves.md#COUNTDOWNS) so that no more than one or two trigger each in-game week. Triggering multiple objective countdowns at the same time can cause weeks of inactivity afterward and lessen the tension of the various lingering conflicts.
+Quand un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) se déclenche, la faction concernée obtient un atout, se débarrasse d’un problème ou atteint un autre objectif. Choisissez un nouveau but selon la fiction et lancez un nouveau compte à rebours. Chaque nation ne peut avoir en même temps qu’un seul compte à rebours d’objectif majeur et que deux comptes à rebours d’objectif mineur actifs.
 
-The party may often be dispatched or mobilized to complete or block these objectives. Meanwhile, completed [countdowns](Making%20Moves.md#COUNTDOWNS) generate major narrative shifts for the party to respond to.
+Pour atteindre un objectif majeur, la faction doit mener à terme un [compte à rebours d’objectif](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (10), alors qu’un objectif mineur exige un compte à rebours d’objectif (4 à 6), selon l’ampleur de l’entreprise.
 
-## EVERYDAY HERO STARTING EQUIPMENT
+Échelonnez la progression des [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) d’objectif de vos factions de sorte qu’un ou deux seulement se déclenchent chaque semaine de jeu. Déclencher plusieurs comptes à rebours d’objectif en même temps peut provoquer des semaines d’inactivité ensuite et affaiblir la tension des divers conflits qui couvent.
 
-*[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) without access to standard weapons and armor can choose from the following tables.*
+Le groupe peut souvent être dépêché ou mobilisé pour mener ces objectifs à bien ou pour les contrecarrer. Pendant ce temps, les [comptes à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) menés à terme provoquent de grands bouleversements narratifs auxquels le groupe doit réagir.
 
-**Primary Physical Weapons**
+## ÉQUIPEMENT DE DÉPART DU HÉROS ORDINAIRE
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+*Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sans accès aux armes et armures standard peuvent choisir dans les tables suivantes.*
+
+**Armes principales physiques**
+
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Cleaver** | [Agility](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 phy | [One-Handed](Equipment.md#WEAPONS) | ***Reliable:*** +1 to [attack rolls](Core%20Mechanics.md#ATTACKING) |
-| **Sharpened Rake** | Agility | Melee | d8+3 phy | [Two-Handed](Equipment.md#WEAPONS) | — |
-| **Butcher’s Axe** | [Strength](Character%20Creation.md#STEP%203) | Melee | d12+3 phy | Two-Handed | ***Heavy:*** −1 to [Evasion](Core%20Mechanics.md#EVASION) |
-| **Iron Skillet** | Strength | Melee | d8+1 phy | One-Handed | — |
-| **Pitchfork** | Strength | Melee | d10+3 phy | Two-Handed | — |
-| **Sledgehammer** | Strength | Melee | d10+3 phy | Two-Handed | ***Massive:*** −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result. |
-| **Cooking Knife** | [Finesse](Character%20Creation.md#STEP%203) | Melee | d8+1 phy | One-Handed | — |
-| **Walking Staff** | [Instinct](Character%20Creation.md#STEP%203) | Melee | d10+3 phy | Two-Handed | — |
-| **Rolling Pin** | [Presence](Character%20Creation.md#STEP%203) | Melee | d8+1 phy | One-Handed | — |
-| **Sickle** | Presence | Melee | d8 phy | One-Handed | ***Quick:*** When you make an attack, you can mark a [Stress](Core%20Mechanics.md#STRESS) to target another creature within range. |
-| **Forge Poker** | Strength | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8+2 phy | Two-Handed | — |
-| **Crop Scythe** | Finesse | Very Close | d8+2 phy | Two-Handed | — |
-| **Fishing Rod** | Agility | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6+3 phy | Two-Handed | — |
-| **Slingshot** | Finesse | Far | d6+3 phy | Two-Handed | — |
-| **Firework Launcher** | Agility | [Very Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6+3 phy | Two-Handed | ***Cumbersome:*** −1 to Finesse |
+| **Couperet** | [Agilité](Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d8 phy | [À une main](Equipment.md#ARMES) | ***Fiable :*** +1 aux [jets d’attaque](Core%20Mechanics.md#ATTAQUER) |
+| **Râteau aiguisé** | Agilité | Mêlée | d8+3 phy | [À deux mains](Equipment.md#ARMES) | — |
+| **Hache de boucher** | [Force](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | d12+3 phy | À deux mains | ***Lourd :*** −1 à l’[Évasion](Core%20Mechanics.md#%C3%89VASION) |
+| **Poêle en fer** | Force | Mêlée | d8+1 phy | À une main | — |
+| **Fourche** | Force | Mêlée | d10+3 phy | À deux mains | — |
+| **Masse** | Force | Mêlée | d10+3 phy | À deux mains | ***Massif :*** −1 à l’Évasion ; en cas d’attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas. |
+| **Couteau de cuisine** | [Finesse](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | d8+1 phy | À une main | — |
+| **Bâton de marche** | [Instinct](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | d10+3 phy | À deux mains | — |
+| **Rouleau à pâtisserie** | [Présence](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | d8+1 phy | À une main | — |
+| **Faucille** | Présence | Mêlée | d8 phy | À une main | ***Rapide :*** Quand vous faites une attaque, vous pouvez marquer un [Stress](Core%20Mechanics.md#STRESS) pour viser une autre créature à portée. |
+| **Tisonnier de forge** | Force | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d8+2 phy | À deux mains | — |
+| **Faux de moisson** | Finesse | Très proche | d8+2 phy | À deux mains | — |
+| **Canne à pêche** | Agilité | [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6+3 phy | À deux mains | — |
+| **Lance-pierre** | Finesse | Loin | d6+3 phy | À deux mains | — |
+| **Lanceur de feux d’artifice** | Agilité | [Très loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6+3 phy | À deux mains | ***Encombrant :*** −1 à la Finesse |
 
-**Primary Magic Weapons**
+**Armes principales magiques**
 
-*All magic weapons require a [Spellcast](Core%20Mechanics.md#SPECIAL%20ROLLS) trait*
+*Toutes les armes magiques exigent une caractéristique d’[Incantation](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)*
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Enchanted Hammer** | [Strength](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d10+1 mag | [One-Handed](Equipment.md#WEAPONS) | — |
-| **Enchanted Mop** | Strength | Melee | d10+3 mag | [Two-Handed](Equipment.md#WEAPONS) | — |
-| **Enchanted Scissors** | [Finesse](Character%20Creation.md#STEP%203) | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d10 mag | One-Handed | — |
-| **Enchanted Broomstick** | [Instinct](Character%20Creation.md#STEP%203) | Very Close | d10+2 mag | Two-Handed | — |
-| **Exploding Potions** | Finesse | [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 mag | One-Handed |  |
-| **Enchanted Forge Lighter** | Instinct | Close | d8 mag | One-Handed | — |
-| **Enchanted Boomerang** | Instinct | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6+3 mag | Two-Handed | — |
-| **Enchanted Kite** | [Presence](Character%20Creation.md#STEP%203) | Far | d6 mag | Two-Handed | ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d10. |
-| **Whisk Wand** | [Knowledge](Character%20Creation.md#STEP%203) | Far | d6+1 mag | One-Handed | — |
-| **Sparkling Staff** | Knowledge | [Very Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6 mag | Two-Handed | ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result. |
+| **Marteau enchanté** | [Force](Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d10+1 mag | [À une main](Equipment.md#ARMES) | — |
+| **Serpillière enchantée** | Force | Mêlée | d10+3 mag | [À deux mains](Equipment.md#ARMES) | — |
+| **Ciseaux enchantés** | [Finesse](Character%20Creation.md#%C3%89TAPE%203) | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d10 mag | À une main | — |
+| **Manche à balai enchanté** | [Instinct](Character%20Creation.md#%C3%89TAPE%203) | Très proche | d10+2 mag | À deux mains | — |
+| **Potions explosives** | Finesse | [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d8 mag | À une main |  |
+| **Briquet de forge enchanté** | Instinct | Proche | d8 mag | À une main | — |
+| **Boomerang enchanté** | Instinct | [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6+3 mag | À deux mains | — |
+| **Cerf-volant enchanté** | [Présence](Character%20Creation.md#%C3%89TAPE%203) | Loin | d6 mag | À deux mains | ***Polyvalent :*** Cette arme peut aussi être utilisée avec les statistiques suivantes : Présence, Mêlée, d10. |
+| **Baguette-fouet** | [Savoir](Character%20Creation.md#%C3%89TAPE%203) | Loin | d6+1 mag | À une main | — |
+| **Bâton scintillant** | Savoir | [Très loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6 mag | À deux mains | ***Puissant :*** En cas d’attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas. |
 
-**[Secondary Weapons](Equipment.md#WEAPONS)**
+**[Armes secondaires](Equipment.md#ARMES)**
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Large Fork** | [Agility](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d8 phy | [One-Handed](Equipment.md#WEAPONS) | ***Paired:*** +2 to [primary weapon](Equipment.md#WEAPONS) damage to targets within Melee range |
-| **Barrel Lid Shield** | [Strength](Character%20Creation.md#STEP%203) | Melee | d4 phy | One-Handed | ***Protective:*** +1 to [Armor Score](Equipment.md#ARMOR) |
-| **Table Shield** | Strength | Melee | d6 phy | One-Handed | ***Barrier:*** +2 to Armor Score; −1 to [Evasion](Core%20Mechanics.md#EVASION) |
-| **Paring Knife** | [Finesse](Character%20Creation.md#STEP%203) | Melee | d8 phy | One-Handed | ***Paired:*** +2 to primary weapon damage to targets within Melee range |
-| **Festival Whip** | [Presence](Character%20Creation.md#STEP%203) | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6 phy | One-Handed | ***Startling:*** Mark a [Stress](Core%20Mechanics.md#STRESS) to crack the whip and force all [adversaries](Using%20Adversaries.md) within Melee range back to [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. |
-| **Towline Hook** | Finesse | Close | d6 phy | One-Handed | ***Hooked:*** On a successful attack, you can pull the target into Melee range with you. |
-| **Flare Launcher** | Finesse | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | d6+1 phy | One-Handed | ***Bright:*** This weapon temporarily lights up the area the flare lands in. |
+| **Grande fourchette** | [Agilité](Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d8 phy | [À une main](Equipment.md#ARMES) | ***Jumelé :*** +2 aux dégâts de l’[arme principale](Equipment.md#ARMES) contre les cibles à portée de Mêlée |
+| **Bouclier en couvercle de tonneau** | [Force](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | d4 phy | À une main | ***Protecteur :*** +1 au [Score d’armure](Equipment.md#ARMURE) |
+| **Bouclier-table** | Force | Mêlée | d6 phy | À une main | ***Barrière :*** +2 au Score d’armure ; −1 à l’[Évasion](Core%20Mechanics.md#%C3%89VASION) |
+| **Couteau d’office** | [Finesse](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | d8 phy | À une main | ***Jumelé :*** +2 aux dégâts de l’arme principale contre les cibles à portée de Mêlée |
+| **Fouet de fête** | [Présence](Character%20Creation.md#%C3%89TAPE%203) | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6 phy | À une main | ***Sursaut :*** Marquez un [Stress](Core%20Mechanics.md#STRESS) pour faire claquer le fouet et repousser à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) tous les [adversaires](Using%20Adversaries.md) à portée de Mêlée. |
+| **Crochet de remorque** | Finesse | Proche | d6 phy | À une main | ***Crochet :*** En cas d’attaque réussie, vous pouvez attirer la cible à portée de Mêlée avec vous. |
+| **Lanceur de fusées éclairantes** | Finesse | [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | d6+1 phy | À une main | ***Éclatant :*** Cette arme éclaire temporairement la zone où retombe la fusée. |
 
-**Armor**
+**Armure**
 
-| Name | [Base Thresholds](Equipment.md#ARMOR) | [Base Score](Equipment.md#ARMOR) | Feature |
+| Nom | [Seuils de base](Equipment.md#ARMURE) | [Score de base](Equipment.md#ARMURE) | Aptitude |
 | --- | --- | --- | --- |
-| **Quilted Clothing** | 5 / 11 | 3 | Flexible: +1 to [Evasion](Core%20Mechanics.md#EVASION) |
-| **Leather Apron** | 6 / 13 | 3 |  |
-| **Tree Bark Armor** | 7 / 15 | 4 | Heavy: −1 to Evasion |
-| **Baking Tray Breastplate** | 8 / 17 | 4 | Very Heavy: −2 to Evasion; −1 to [Agility](Character%20Creation.md#STEP%203) |
+| **Vêtements matelassés** | 5 / 11 | 3 | Souple : +1 à l’[Évasion](Core%20Mechanics.md#%C3%89VASION) |
+| **Tablier de cuir** | 6 / 13 | 3 |  |
+| **Armure d’écorce** | 7 / 15 | 4 | Lourd : −1 à l’Évasion |
+| **Plastron de plaque de cuisson** | 8 / 17 | 4 | Très lourd : −2 à l’Évasion ; −1 à l’[Agilité](Character%20Creation.md#%C3%89TAPE%203) |
 
-## FEASTS
+## FESTINS
 
-*You can use the following mechanics for campaigns in which the* *[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) harvest ingredients throughout play and use them to cook* *meals during [downtime](Core%20Mechanics.md#DOWNTIME).*
+*Vous pouvez utiliser les mécaniques suivantes pour les campagnes dans lesquelles les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) récoltent des ingrédients au fil du jeu et s’en servent pour cuisiner des repas pendant le [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS).*
 
-#### INGREDIENTS & FLAVORS
+#### INGRÉDIENTS ET SAVEURS
 
-Every ingredient is denoted by a name and a flavor profile comprising 1–3 flavors with their relative strengths. For example, “Mushroom caps: Bitter (1), Savory (2).”
+Chaque ingrédient est désigné par un nom et un profil de saveurs comprenant 1 à 3 saveurs, avec leur intensité relative. Par exemple : « Chapeaux de champignon : Amer (1), Savoureux (2). »
 
-There are six flavors, each of which is represented by an associated die size: Sweet (d4), Salty (d6), Bitter (d8), Sour (d10), Savory (d12), and Weird (d20). A flavor’s strength is represented by a value between 1 and 3. The following list provides examples of ingredients and their flavor profiles:
+Il y a six saveurs, chacune représentée par une taille de dé : Sucré (d4), Salé (d6), Amer (d8), Acide (d10), Savoureux (d12) et Étrange (d20). L’intensité d’une saveur est représentée par une valeur comprise entre 1 et 3. La liste suivante donne des exemples d’ingrédients et de leurs profils de saveurs :
 
-- Mushroom caps: Bitter (1), Savory (2)
+- Chapeaux de champignon : Amer (1), Savoureux (2)
 
-- Wyvern tongue: Sour (1), Savory (1), Weird (1)
+- Langue de wyverne : Acide (1), Savoureux (1), Étrange (1)
 
-- Ooze marrow: Sweet (1), Bitter (2)
+- Moelle de vase : Sucré (1), Amer (2)
 
-- Direbear meat: Savory (3)
+- Viande d’ours terrible : Savoureux (3)
 
-- Acid dragon saliva: Sour (2)
+- Salive de dragon acide : Acide (2)
 
-- Cave boar milk: Salty (1), Savory (1)
+- Lait de sanglier des cavernes : Salé (1), Savoureux (1)
 
-- Rileroot: Bitter (1)
+- Rilracine : Amer (1)
 
-- Ogre kidney stone: Sweet (1), Weird (1)
+- Calcul rénal d’ogre : Sucré (1), Étrange (1)
 
-When a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) acquires an ingredient, they add it to their inventory. The maximum number of ingredients a PC can hold in their inventory is equal to their highest trait.
+Quand un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) acquiert un ingrédient, il l’ajoute à son inventaire. Le nombre maximal d’ingrédients qu’un PJ peut porter dans son inventaire est égal à sa plus haute caractéristique.
 
-When the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) cook with an ingredient, they roll a number of dice (of the flavor’s associated die size) equal to the strength of the flavor.
+Quand les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) cuisinent avec un ingrédient, ils lancent un nombre de dés (de la taille associée à la saveur) égal à l’intensité de la saveur.
 
-#### HARVESTING INGREDIENTS
+#### RÉCOLTER DES INGRÉDIENTS
 
-Ingredients can be acquired from defeated [adversaries](Using%20Adversaries.md) or the party’s surroundings.
+On peut obtenir des ingrédients sur des [adversaires](Using%20Adversaries.md) vaincus ou dans les environs du groupe.
 
-When an edible animal is defeated, the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can harvest ingredients from it. The number of ingredients that can be harvested is determined by the defeated animal’s maximum [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), according to the following table:
+Quand un animal comestible est vaincu, les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peuvent en récolter des ingrédients. Le nombre d’ingrédients récoltables est déterminé par les [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) maximum de l’animal vaincu, d’après la table suivante :
 
-**[Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to Ingredients Guide**
+**Guide de conversion des [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) en ingrédients**
 
-| maximum hit points | number of ingredients |
+| points de vie maximum | nombre d’ingrédients |
 | --- | --- |
 | **1–4** | 1 |
 | **5–7** | 2 |
 | **8–10** | 3 |
 | **12+** | 4 |
 
-The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) determines the ingredients gained based on the details of the narrative. Usually, less powerful [adversaries](Using%20Adversaries.md) have predominantly Sweet, Salty, and Bitter flavor profiles, whereas more powerful adversaries tend to be more Sour, Savory, and Weird.
+Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) détermine les ingrédients obtenus selon les détails du récit. En général, les [adversaires](Using%20Adversaries.md) les moins puissants ont surtout des profils de saveurs Sucré, Salé et Amer, tandis que les adversaires plus puissants tendent vers l’Acide, le Savoureux et l’Étrange.
 
-The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can also obtain ingredients by harvesting edible plants and fungi. Once per rest, each PC can spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to gather ingredients from their [environment](Using%20Environments.md). The [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) determines what ingredients they acquire based on the fiction or by having them roll their [Hope Die](Core%20Mechanics.md#OVERVIEW), then, based on the result, gain an ingredient with the following flavor profile:
+Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peuvent aussi obtenir des ingrédients en cueillant des plantes et des champignons comestibles. Une fois par repos, chaque PJ peut dépenser un [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour rassembler des ingrédients dans son [environnement](Using%20Environments.md). Le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) détermine les ingrédients obtenus selon la fiction, ou en faisant lancer le [dé d’Espoir](Core%20Mechanics.md#APER%C3%87U) : selon le résultat, le PJ gagne alors un ingrédient au profil de saveurs suivant :
 
-**Environmental Ingredients Guide**
+**Guide des ingrédients de l’environnement**
 
-| [hope die](Core%20Mechanics.md#OVERVIEW) result | flavor profiles |
+| résultat du [dé d’Espoir](Core%20Mechanics.md#APER%C3%87U) | profils de saveurs |
 | --- | --- |
-| **1–2** | Sweet (1) |
-| **3–4** | Salty (1) |
-| **5–6** | Bitter (1) |
-| **7–8** | Sour (1) |
-| **9–10** | Savory (1) |
-| **11–12** | Weird (1) |
+| **1–2** | Sucré (1) |
+| **3–4** | Salé (1) |
+| **5–6** | Amer (1) |
+| **7–8** | Acide (1) |
+| **9–10** | Savoureux (1) |
+| **11–12** | Étrange (1) |
 
-#### MAKE A FEAST
+#### PRÉPARER UN FESTIN
 
-In a feast-based campaign, players can’t choose [downtime moves](Core%20Mechanics.md#DOWNTIME) to clear [Stress](Core%20Mechanics.md#STRESS), clear [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), or gain [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). Instead, they have a new downtime move: Make a Feast. Each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who chooses this move can remove ingredients from their inventory and contribute them to the party’s collective meal to gain the benefits of the resulting feast.
+Dans une campagne de festins, les joueurs ne peuvent pas choisir d’[actions de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour évacuer du [Stress](Core%20Mechanics.md#STRESS), regagner des [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou gagner de l’[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR). À la place, ils disposent d’une nouvelle action de repos : Préparer un festin. Chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui choisit cette action peut retirer des ingrédients de son inventaire et les verser au repas collectif du groupe pour profiter des bienfaits du festin qui en résulte.
 
-**PREPARING THE DISH**
+**PRÉPARER LE PLAT**
 
-To begin cooking, the party designates one [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to be the chef. The chef combines each contributed ingredient’s flavor dice into a flavor pool. For example, a party might decide to make a steak dinner with the following recipe: 1 serving of direbear meat (3d12), 1 serving of mushroom caps (2d12 and 1d8), and 1 serving of ooze marrow (2d8 and 1d4). This gives the party 5d12, 3d8, and 1d4 altogether.
+Pour commencer à cuisiner, le groupe désigne un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) comme cuisinier. Le cuisinier réunit les dés de saveur de chaque ingrédient apporté en une réserve de saveurs. Par exemple, un groupe peut décider de préparer un dîner de steaks avec la recette suivante : 1 portion de viande d’ours terrible (3d12), 1 portion de chapeaux de champignon (2d12 et 1d8) et 1 portion de moelle de vase (2d8 et 1d4). Cela donne au groupe 5d12, 3d8 et 1d4 en tout.
 
-The chef makes a Prep Roll by rolling all the dice in the flavor pool and setting aside any matching values. If there are no matching values, the chef instead discards a die of their choice. The chef continues making Cooking Rolls until only one die remains in the flavor pool or all dice have been discarded or set aside.
+Le cuisinier fait un jet de préparation en lançant tous les dés de la réserve de saveurs et en mettant de côté toutes les valeurs identiques. S’il n’y a aucune valeur identique, le cuisinier défausse à la place un dé de son choix. Il continue de faire des jets de préparation jusqu’à ce qu’il ne reste plus qu’un seul dé dans la réserve de saveurs, ou que tous les dés aient été défaussés ou mis de côté.
 
-**DETERMINING A MEAL’S RATING**
+**DÉTERMINER LA NOTE D’UN REPAS**
 
-Once preparation is complete, the chef calculates the resulting Meal Rating. Each matching set of dice is worth a number of points equal to its matched value. For example, a d6 and a d8 that rolled matching 3s would be worth 3 points, a d10 and a d12 that rolled matching 4s would be worth 4 points, and a d8 and a d20 that rolled matching 4s on a different roll would also be worth 4 points. The chef adds the point totals together to determine the meal’s Rating. In this example, the party’s meal would have a Rating of 11 (3 + 4 + 4 = 11).
+Une fois la préparation terminée, le cuisinier calcule la Note du repas qui en résulte. Chaque paire de dés identiques vaut un nombre de points égal à la valeur obtenue. Par exemple, un d6 et un d8 qui ont fait des 3 identiques vaudraient 3 points, un d10 et un d12 qui ont fait des 4 identiques vaudraient 4 points, et un d8 et un d20 qui ont fait des 4 identiques lors d’un autre jet vaudraient eux aussi 4 points. Le cuisinier additionne les totaux de points pour déterminer la Note du repas. Dans cet exemple, le repas du groupe aurait une Note de 11 (3 + 4 + 4 = 11).
 
-**EATING THE MEAL**
+**PRENDRE LE REPAS**
 
-Each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who partakes in the meal can clear a number of [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), clear a number of [Stress](Core%20Mechanics.md#STRESS), and gain a number of [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) such that the total of all three numbers is equal to or less than the Meal Rating. For example, if the dish has a Meal Rating of 11, a PC could choose to clear 6 Hit Points, clear 3 Stress, and gain 2 Hope, and a different PC could choose to clear 5 Hit Points, clear 2 Stress, and gain 4 Hope.
+Chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui prend part au repas peut regagner un certain nombre de [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), évacuer un certain nombre de [Stress](Core%20Mechanics.md#STRESS) et gagner un certain nombre d’[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR), de sorte que le total de ces trois nombres soit inférieur ou égal à la Note du repas. Par exemple, si le plat a une Note de 11, un PJ pourrait choisir de regagner 6 Points de vie, d’évacuer 3 Stress et de gagner 2 Espoir, et un autre PJ pourrait choisir de regagner 5 Points de vie, d’évacuer 2 Stress et de gagner 4 Espoir.
 
-**RECORDING THE RECIPE**
+**NOTER LA RECETTE**
 
-For a feast-based campaign, the players should choose a small shared notebook, decorated however they like, to be their cookbook and record the recipe for each dish they make in it. A recipe includes the following details:
+Dans une campagne de festins, les joueurs devraient choisir un petit carnet commun, décoré à leur goût, qui sera leur livre de cuisine, et y noter la recette de chaque plat qu’ils préparent. Une recette comprend les détails suivants :
 
-- The dish’s name name, description, and preparation method as invented by the players
+- Le nom du plat, sa description et sa méthode de préparation, tels qu’inventés par les joueurs
 
-- The ingredients used to make it
+- Les ingrédients utilisés
 
-- The resulting Meal Rating
+- La Note du repas obtenue
 
-When the party cooks a dish with the same flavor profile as a recipe in their cookbook, add a number of tokens equal to the party’s [tier](Core%20Mechanics.md#LEVELING%20UP) to the dish’s flavor pool. When the chef would be forced to discard a die from the Flavor Pool, they can choose to remove a token instead.
+Quand le groupe cuisine un plat avec le même profil de saveurs qu’une recette de son livre de cuisine, ajoutez à la réserve de saveurs du plat un nombre de jetons égal au [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) du groupe. Quand le cuisinier devrait défausser un dé de la réserve de saveurs, il peut choisir de retirer un jeton à la place.
 
-As a result, the more practice the characters get making meals with the same flavor profile, the easier that combination is to prepare.
+Ainsi, plus les personnages s’exercent à préparer des repas avec le même profil de saveurs, plus cette combinaison devient facile à réaliser.
 
-#### QUICK INGREDIENT GENERATOR
+#### GÉNÉRATEUR RAPIDE D’INGRÉDIENTS
 
-When the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) harvest an ingredient, roll a d20 for each of the following tables and use the combination to inspire what they gather. If one of the options doesn’t fit the scenario, choose another that does.
+Quand les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) récoltent un ingrédient, lancez un d20 pour chacune des tables suivantes et servez-vous de la combinaison pour imaginer ce qu’ils ramassent. Si l’une des options ne convient pas à la situation, choisissez-en une autre qui convient.
 
-**What kind of ingredient is it?**
+**De quel genre d’ingrédient s’agit-il ?**
 
-| result | animal | PLANT/FUNGI |
+| résultat | animal | PLANTE/CHAMPIGNON |
 | --- | --- | --- |
-| **1** | Feet | Flower |
-| **2** | Powder | Roots |
-| **3** | Limb | Stems |
-| **4** | Belly | Leaves |
-| **5** | Fat | Bulbs |
-| **6** | Eggs | Nuts |
+| **1** | Pattes | Fleur |
+| **2** | Poudre | Racines |
+| **3** | Membre | Tiges |
+| **4** | Ventre | Feuilles |
+| **5** | Graisse | Bulbes |
+| **6** | Œufs | Noix |
 
-| result | animal | PLANT/FUNGI |
+| résultat | animal | PLANTE/CHAMPIGNON |
 | --- | --- | --- |
-| **7** | Marrow | Seeds |
-| **8** | Tongue | Bark |
-| **9** | Brain | Berries |
-| **10** | Ribs | Fruit |
-| **11** | Organ | Sap |
-| **12** | Flesh | Pollen |
-| **13** | Stones | Fungi |
-| **14** | Eyes | Nectar |
-| **15** | Jelly | Pods |
-| **16** | Horn | Herbs |
-| **17** | Meat | Algae |
-| **18** | Scales | Moss |
-| **19** | Wings | Grain |
-| **20** | Secretion | Rind |
+| **7** | Moelle | Graines |
+| **8** | Langue | Écorce |
+| **9** | Cervelle | Baies |
+| **10** | Côtes | Fruit |
+| **11** | Organe | Sève |
+| **12** | Chair | Pollen |
+| **13** | Calculs | Champignons |
+| **14** | Yeux | Nectar |
+| **15** | Gelée | Gousses |
+| **16** | Corne | Herbes |
+| **17** | Viande | Algues |
+| **18** | Écailles | Mousse |
+| **19** | Ailes | Céréales |
+| **20** | Sécrétion | Croûte |
 
-**What’s interesting about it?**
+**Qu’a-t-il d’intéressant ?**
 
-| result | Detail |
+| résultat | Détail |
 | --- | --- |
-| **1** | It’s particularly tender. |
-| **2** | It’s still wriggling. |
-| **3** | It looks like something it isn’t |
-| **4** | It has a pungent smell. |
-| **5** | It’s brightly colored. |
-| **6** | It’s completely translucent. |
-| **7** | It’s an odd size or shape. |
-| **8** | It has unique markings. |
-| **9** | It recoils from the light. |
-| **10** | It withers in the dark. |
-| **11** | It smells unbelievably good. |
-| **12** | It has an unexpected texture. |
-| **13** | It’s encased in something. |
-| **14** | It’s filled with something. |
-| **15** | It’s emitting a colorful gas. |
-| **16** | It comes apart in layers. |
-| **17** | It must be prepared in a strange way. |
-| **18** | It’s leathery or cartilaginous. |
-| **19** | It’s brittle. |
-| **20** | It’s deadly when consumed raw. |
+| **1** | Il est particulièrement tendre. |
+| **2** | Il se tortille encore. |
+| **3** | Il ressemble à quelque chose qu’il n’est pas. |
+| **4** | Il dégage une odeur âcre. |
+| **5** | Il est de couleur vive. |
+| **6** | Il est complètement translucide. |
+| **7** | Sa taille ou sa forme est étrange. |
+| **8** | Il porte des marques singulières. |
+| **9** | Il se rétracte à la lumière. |
+| **10** | Il se flétrit dans le noir. |
+| **11** | Il sent incroyablement bon. |
+| **12** | Sa texture est inattendue. |
+| **13** | Il est enrobé de quelque chose. |
+| **14** | Il est rempli de quelque chose. |
+| **15** | Il émet un gaz coloré. |
+| **16** | Il se défait en couches. |
+| **17** | Il doit être préparé d’une façon étrange. |
+| **18** | Il est coriace ou cartilagineux. |
+| **19** | Il est cassant. |
+| **20** | Il est mortel s’il est consommé cru. |
 
-#### ADVANCED FEASTING
+#### FESTINS AVANCÉS
 
-Once your table is comfortable with basic feasting mechanics, you can give the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) opportunities to locate and acquire specific ingredients based on what they’ve learned about the world. You might also create special ingredients that have features. These are rarer than typical ingredients, and can only harvested from Leader or [Solo](Using%20Adversaries.md) [adversaries](Using%20Adversaries.md).
+Quand votre table maîtrise les mécaniques de base des festins, vous pouvez donner aux [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) l’occasion de localiser et d’acquérir des ingrédients précis, d’après ce qu’ils ont appris du monde. Vous pouvez aussi créer des ingrédients spéciaux dotés d’aptitudes. Ils sont plus rares que les ingrédients ordinaires et ne peuvent être récoltés que sur des [adversaires](Using%20Adversaries.md) Meneurs ou [Solo](Using%20Adversaries.md).
 
-**Example Special Ingredients**
+**Exemples d’ingrédients spéciaux**
 
-| NAME | FLAVOR PROFILE | FEATURE |
+| NOM | PROFIL DE SAVEURS | APTITUDE |
 | --- | --- | --- |
-| **Diregazelle Skull Marrow** | Sweet (1), Salty (1), Sour (1) | ***Built for Speed:*** +1 bonus to [Agility](Character%20Creation.md#STEP%203) until your next rest |
-| **Holy Cow’s Milk** | Weird (1) | ***Last Drop:*** When you prepare a dish with this ingredient and there’s only one remaining die in the flavor pool, roll it and add the result to the dish’s Meal Rating. |
-| **Ghost Scorpion Venom** | Sour (1), Savory (1) | ***Spicy:*** If any matching sets from a dish prepared with this ingredient are worth 8 or more points, you can’t clear [Stress](Core%20Mechanics.md#STRESS) from consuming the resulting dish. |
-| **Deathflower** | Bitter (2) | ***Risky:*** If you finish preparing a dish with this ingredient and have no matching sets of flavor dice, you clear all [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and Stress and gain 3 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). Otherwise, the dish’s Meal Rating is 0 and you must make a [death move](Core%20Mechanics.md#DEATH). |
+| **Moelle de crâne de gazelle terrible** | Sucré (1), Salé (1), Acide (1) | ***Fait pour la vitesse :*** +1 d’[Agilité](Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos |
+| **Lait de vache sacrée** | Étrange (1) | ***Dernière goutte :*** Quand vous préparez un plat avec cet ingrédient et qu’il ne reste qu’un seul dé dans la réserve de saveurs, lancez-le et ajoutez le résultat à la Note du repas du plat. |
+| **Venin de scorpion fantôme** | Acide (1), Savoureux (1) | ***Épicé :*** Si une paire de dés identiques d’un plat préparé avec cet ingrédient vaut 8 points ou plus, vous ne pouvez pas évacuer de [Stress](Core%20Mechanics.md#STRESS) en consommant le plat obtenu. |
+| **Fleur de mort** | Amer (2) | ***Risqué :*** Si vous terminez la préparation d’un plat avec cet ingrédient sans aucune paire de dés de saveur identiques, vous regagnez tous vos [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et évacuez tout votre Stress, et vous gagnez 3 [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Sinon, la Note du repas est de 0 et vous devez faire un [choix de mort](Core%20Mechanics.md#MORT). |
 
 #### RESTAURANTS
 
-A [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can spend up to 2 [handfuls](Equipment.md#GOLD) of gold during [downtime](Core%20Mechanics.md#DOWNTIME) to order food from a nearby restaurant and choose one of the following [downtime moves](Core%20Mechanics.md#DOWNTIME) for each handful of gold spent: clear [Stress](Core%20Mechanics.md#STRESS), clear [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), or gain [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR).
+Un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut dépenser jusqu’à 2 [poignées](Equipment.md#OR) d’or pendant le [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour commander à manger dans un restaurant des environs et choisir l’une des [actions de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) suivantes pour chaque poignée d’or dépensée : évacuer du [Stress](Core%20Mechanics.md#STRESS), regagner des [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou gagner de l’[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-## GRIMDARK CAMPAIGNS
+## CAMPAGNES GRIMDARK
 
-*You can use the following mechanics when the party explores a* *vast and grim world of magical corrupting Shadow punctuated* *by scattered sanctuaries built around Sacred Bonfires that emit* *a halo of safety-providing light.*
+*Vous pouvez utiliser les mécaniques suivantes quand le groupe explore un monde vaste et sinistre, rongé par une Ombre magique et corruptrice, que ponctuent çà et là des sanctuaires bâtis autour de Feux sacrés dont le halo de lumière offre un abri.*
 
-#### SHADOW-TOUCHED
+#### TOUCHÉ PAR L’OMBRE
 
-[Adversaries](Using%20Adversaries.md) in this campaign can have a feature called Shadow-Touched:
+Dans cette campagne, les [adversaires](Using%20Adversaries.md) peuvent avoir une aptitude appelée Touché par l’Ombre :
 
-***Shadow-Touched – Passive.*** This [Adversary](Using%20Adversaries.md) critically succeeds on [attack rolls](Core%20Mechanics.md#ATTACKING) of 19–20.
+***Touché par l’Ombre – Passif.*** Cet [adversaire](Using%20Adversaries.md) réussit de façon critique ses [jets d’attaque](Core%20Mechanics.md#ATTAQUER) sur un 19 ou 20.
 
-When you introduce a Shadow-Touched [adversary](Using%20Adversaries.md), describe how magic has warped their essence and form.
+Quand vous introduisez un [adversaire](Using%20Adversaries.md) Touché par l’Ombre, décrivez comment la magie a déformé son essence et son corps.
 
-[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can also become *Shadow-Touched* when corrupted by dark magic. A *Shadow-Touched* PC gains a damage bonus equal to the number of [scars](Core%20Mechanics.md#DEATH) they have marked. When a *Shadow-Touched* PC marks their last [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) slot with a scar, they succumb to corruption and charge into the darkness instead of making a [death move](Core%20Mechanics.md#DEATH).
+Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peuvent eux aussi devenir *Touchés par l’Ombre* s’ils sont corrompus par la magie noire. Un PJ *Touché par l’Ombre* gagne un bonus de dégâts égal au nombre de [cicatrices](Core%20Mechanics.md#MORT) qu’il a marquées. Quand un PJ *Touché par l’Ombre* marque son dernier emplacement d’[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) avec une cicatrice, il succombe à la corruption et se précipite dans les ténèbres au lieu de faire un [choix de mort](Core%20Mechanics.md#MORT).
 
-#### SACRED BONFIRES & TORCHES
+#### FEUX ET TORCHES SACRÉS
 
-Sacred Bonfires are vibrant magical pyres lit by the flames of rare and magical Sacred Torches, each of which carries a fragment of divine power. Sacred Bonfires burn out unless continuously provided with a bit of kindling, and can’t be reignited without a Sacred Torch. When a Sacred Bonfire is relit, each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) present gains 3 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). A Sacred Bonfire’s light repels all but the most powerful monsters from its immediate vicinity.
+Les Feux sacrés sont de vibrants bûchers magiques allumés par les flammes de rares et magiques Torches sacrées, dont chacune porte un fragment de puissance divine. Les Feux sacrés s’éteignent s’ils ne reçoivent pas en continu un peu de petit bois, et ne peuvent être rallumés sans une Torche sacrée. Quand un Feu sacré est rallumé, chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) présent gagne 3 [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR). La lumière d’un Feu sacré repousse de ses abords immédiats tous les monstres, hormis les plus puissants.
 
-## TECH-BASED CAMPAIGNS
+## CAMPAGNES TECHNOLOGIQUES
 
-*You can use the following mechanics for a campaign in which* *magic has been supplanted by technology.*
+*Vous pouvez utiliser les mécaniques suivantes pour une campagne dans laquelle la magie a été supplantée par la technologie.*
 
-#### TECH DAMAGE
+#### DÉGÂTS TECHNOLOGIQUES
 
-Tech damage is a replacement for [magic damage](Core%20Mechanics.md#ATTACKING) in campaigns where damage is caused by technomancy. You can reflavor magic attacks as sonic blasts, blinding flashes of light, swarming nanobots, plasma beams, or any other product of advanced technology.
+Les dégâts technologiques remplacent les [dégâts magiques](Core%20Mechanics.md#ATTAQUER) dans les campagnes où les dégâts sont causés par la technomancie. Vous pouvez recouvrir les attaques magiques d’un nouvel habillage : explosions sonores, éclairs de lumière aveuglants, essaims de nanorobots, rayons de plasma ou tout autre produit d’une technologie avancée.
 
-#### ICONIC WEAPONS & OTHER TOOLS
+#### ARMES EMBLÉMATIQUES ET AUTRES OUTILS
 
-The following sections detail how weapons, armor, and other items might work in a tech-based campaign.
+Les sections suivantes détaillent comment des armes, des armures et d’autres objets peuvent fonctionner dans une campagne technologique.
 
-**ICONIC WEAPONS**
+**ARMES EMBLÉMATIQUES**
 
-Characters don’t have access to Daggerheart’s normal selection of primary and [secondary weapons](Equipment.md#WEAPONS) during a tech-based campaign. Instead, each character receives an Iconic Weapon that begins as a simple rod of metal but can be incrementally modified to suit the wielder’s needs.
+Dans une campagne technologique, les personnages n’ont pas accès à la sélection habituelle d’armes principales et [secondaires](Equipment.md#ARMES) de Daggerheart. À la place, chaque personnage reçoit une Arme emblématique qui n’est au départ qu’une simple tige de métal, mais qu’on peut modifier petit à petit selon les besoins de son porteur.
 
-A player designs their character’s Iconic Weapon using an Iconic Weapon Sheet. For inspiration, see the Motherboard Module sheet in *Daggerheart Core* or available online at daggerheart.com/downloads. Each player should take a copy of the module and complete the following steps:
+Un joueur conçoit l’Arme emblématique de son personnage à l’aide d’une feuille d’Arme emblématique. Pour vous inspirer, consultez la feuille du module Carte mère dans *Daggerheart Core* ou disponible en ligne sur daggerheart.com/downloads. Chaque joueur devrait prendre un exemplaire du module et suivre les étapes suivantes :
 
-1. Slide the Iconic Weapon Sheet under the right side of their character sheet so only the fillable section is visible
+1. Glisser la feuille d’Arme emblématique sous le côté droit de sa fiche de personnage, de sorte que seule la partie à remplir soit visible
 
-2. Make selections about trait, range, and damage
+2. Faire des choix de caractéristique, de portée et de dégâts
 
-3. Make up a name and description
+3. Inventer un nom et une description
 
-4. Record the weapon’s details in the [Primary Weapon](Equipment.md#WEAPONS) slot of their character sheet
+4. Noter les détails de l’arme dans l’emplacement d’[arme principale](Equipment.md#ARMES) de sa fiche de personnage
 
-Iconic Weapons are considered [two-handed](Equipment.md#WEAPONS) weapons and start with the Bonded feature:
+Les Armes emblématiques sont considérées comme des armes [à deux mains](Equipment.md#ARMES) et commencent avec l’aptitude Lié :
 
-**Bonded:** Gain a bonus to your [damage rolls](Core%20Mechanics.md#ATTACKING) equal to your level.
+**Lié :** Gagnez un bonus à vos [jets de dégâts](Core%20Mechanics.md#ATTAQUER) égal à votre niveau.
 
-**UPGRADES**
+**AMÉLIORATIONS**
 
-A character’s Iconic Weapon starts with two Upgrade slots at [Tier 1](Core%20Mechanics.md#LEVELING%20UP) to indicate that it has evolved from its most basic form. An Iconic Weapon gains an additional Upgrade slot at each subsequent [tier](Core%20Mechanics.md#LEVELING%20UP). An Upgrade can be crafted as a [downtime move](Core%20Mechanics.md#DOWNTIME) when a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) has the Parts to do so. See the upcoming “Crafting & Trading” section for more information.
+L’Arme emblématique d’un personnage commence avec deux emplacements d’Amélioration au [rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU), pour indiquer qu’elle a évolué depuis sa forme la plus rudimentaire. Une Arme emblématique gagne un emplacement d’Amélioration supplémentaire à chaque [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) suivant. Une Amélioration peut être fabriquée comme [action de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) quand un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dispose des Pièces nécessaires. Pour en savoir plus, voir la section « Artisanat et commerce » à venir.
 
-Each Iconic Weapon begins without any installed Upgrades. A character can build as many Upgrades as they wish but can’t install more Upgrades than the number of Upgrade slots their Iconic Weapon has. An installed Upgrade is treated as a weapon feature. During [downtime](Core%20Mechanics.md#DOWNTIME), a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can freely swap Upgrades they’ve already crafted or otherwise acquired.
+Chaque Arme emblématique commence sans aucune Amélioration installée. Un personnage peut fabriquer autant d’Améliorations qu’il le souhaite, mais ne peut pas en installer plus que le nombre d’emplacements d’Amélioration de son Arme emblématique. Une Amélioration installée est traitée comme une aptitude d’arme. Pendant le [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS), un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut échanger librement les Améliorations qu’il a déjà fabriquées ou obtenues autrement.
 
-The Iconic Weapon Sheet includes a selection of basic Upgrades. GMs are encouraged to make more, using the provided options as a template, and offer them to the players as appropriate.
+La feuille d’Arme emblématique comprend une sélection d’Améliorations de base. Les MJ sont encouragés à en créer d’autres, en prenant les options fournies comme modèle, et à les proposer aux joueurs selon les besoins.
 
-**TECH LINK**
+**LIEN TECHNOLOGIQUE**
 
-Each tech-based campaign setting includes a worldwide data and energy network that a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must connect to in order to perform [downtime moves](Core%20Mechanics.md#DOWNTIME). The primary way most PCs connect to this network is via a Tech Link, which looks like a data cable with a hook on one end, that each PC gains at character creation.
+Chaque cadre de campagne technologique comprend un réseau mondial de données et d’énergie auquel un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit se connecter pour effectuer des [actions de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS). La principale façon dont la plupart des PJ se connectent à ce réseau passe par un Lien technologique, qui ressemble à un câble de données muni d’un crochet à une extrémité et que chaque PJ reçoit à la création de personnage.
 
-#### CRAFTING & TRADING
+#### ARTISANAT ET COMMERCE
 
-[Gold](Equipment.md#GOLD) is not used as a currency in tech-based campaign frames. Instead, [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gather Scrap to trade for a currency known as Credits. The Iconic Weapon Sheet includes areas for tracking both Scrap and Credits. All PCs start with 5 Credits.
+L’[or](Equipment.md#OR) n’est pas utilisé comme monnaie dans les cadres de campagne technologiques. À la place, les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) récupèrent de la Ferraille pour l’échanger contre une monnaie appelée Crédits. La feuille d’Arme emblématique comprend des zones pour suivre à la fois la Ferraille et les Crédits. Tous les PJ commencent avec 5 Crédits.
 
-**CONVERTING GOLD TO CREDITS**
+**CONVERTIR L’OR EN CRÉDITS**
 
-Use the following conversion for Daggerheart when pricing other goods and services using quantum:
+Utilisez la conversion suivante pour Daggerheart quand vous fixez le prix d’autres biens et services avec le quantum :
 
-- 10 Credits = 1 [handful](Equipment.md#GOLD) of gold
+- 10 Crédits = 1 [poignée](Equipment.md#OR) d’or
 
-- 100 Credits = 1 bag of gold
+- 100 Crédits = 1 bourse d’or
 
-- 1000 Credits = 1 chest of gold
+- 1000 Crédits = 1 coffre d’or
 
-**GATHERING SCRAP**
+**RÉCUPÉRER DE LA FERRAILLE**
 
-[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can collect Scrap from defeated tech-based [adversaries](Using%20Adversaries.md) outside of combat. Each category of Scrap is represented by a die size. When the PCs collect Scrap, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) determines how many of each category they find, which in turn determines the total dice pool each player rolls. Compare the results of each player’s roll against your campaign’s Scrap table to determine the number of each type they acquire. PCs can also obtain specific pieces of Scrap by completing [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS) contracts, hunting particular adversaries, exploring certain areas, or purchasing them from special merchants.
+Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peuvent récupérer de la Ferraille sur des [adversaires](Using%20Adversaries.md) technologiques vaincus, en dehors des combats. Chaque catégorie de Ferraille est représentée par une taille de dé. Quand les PJ récupèrent de la Ferraille, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) détermine combien de pièces de chaque catégorie ils trouvent, ce qui détermine à son tour la réserve de dés que chaque joueur lance. Comparez les résultats du jet de chaque joueur à la table de Ferraille de votre campagne pour déterminer le nombre de pièces de chaque type obtenues. Les PJ peuvent aussi obtenir des pièces de Ferraille précises en menant à bien des contrats de [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ), en traquant certains adversaires, en explorant certains lieux ou en les achetant à des marchands spéciaux.
 
-**Scrap Table**
+**Table de Ferraille**
 
-*The table below lists generic outcomes you can replace as needed to suit your campaign.*
+*La table ci-dessous donne des résultats génériques que vous pouvez remplacer selon les besoins de votre campagne.*
 
-| result | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| résultat | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Shards (d6)** | Gear | Coil | Wire | Trigger | Lens | Crystal | n/a | n/a | n/a | n/a |
-| **Metals (d8)** | Aluminum |  | Copper |  | Cobalt | Silver | Platinum | [Gold](Equipment.md#GOLD) | n/a | n/a |
-| **Components (d10)** | Fuse |  | Circuit |  |  | Disc |  | Relay | Capacitor | Battery |
+| **Éclats (d6)** | Engrenage | Bobine | Fil | Détente | Lentille | Cristal | s. o. | s. o. | s. o. | s. o. |
+| **Métaux (d8)** | Aluminium |  | Cuivre |  | Cobalt | Argent | Platine | [Or](Equipment.md#OR) | s. o. | s. o. |
+| **Composants (d10)** | Fusible |  | Circuit |  |  | Disque |  | Relais | Condensateur | Batterie |
 
-**Parts Reward Table**
+**Table de récompenses en Pièces**
 
-*Use the following table as general guidance for Scrap rewards after encounters:*
+*Utilisez la table suivante comme repère général pour les récompenses de Ferraille après les rencontres :*
 
-| [ADVERSARIES](Using%20Adversaries.md) | EASY FIGHT | STANDARD FIGHT | DIFFICULT FIGHT | VERY DIFFICULT FIGHT |
+| [ADVERSAIRES](Using%20Adversaries.md) | COMBAT FACILE | COMBAT STANDARD | COMBAT DIFFICILE | COMBAT TRÈS DIFFICILE |
 | --- | --- | --- | --- | --- |
-| **Mostly non-tech-based** | 2 Shards | 2 Shards, 1 Metal | 2 Shards, 1 Metal, 1 Component | 2 Shard, 2 Metals, 1 Component |
-| **Mostly tech-based** | 2 Shards, 1 Metal | 2 Shards, 2 Metals, 1 Component | 3 Shards, 2 Metals, 1 Component | 3 Shards, 3 Metals, 2 Components |
-| **All tech-based** | 2 Shards, 1 Metal, 1 Component | 3 Shards, 2 Metals, 2 Components | 3 Shards, 3 Metals, 2 Components | 4 Shards, 3 Metals, 3 Components |
+| **Surtout non technologiques** | 2 Éclats | 2 Éclats, 1 Métal | 2 Éclats, 1 Métal, 1 Composant | 2 Éclats, 2 Métaux, 1 Composant |
+| **Surtout technologiques** | 2 Éclats, 1 Métal | 2 Éclats, 2 Métaux, 1 Composant | 3 Éclats, 2 Métaux, 1 Composant | 3 Éclats, 3 Métaux, 2 Composants |
+| **Tous technologiques** | 2 Éclats, 1 Métal, 1 Composant | 3 Éclats, 2 Métaux, 2 Composants | 3 Éclats, 3 Métaux, 2 Composants | 4 Éclats, 3 Métaux, 3 Composants |
 
-**RELICS**
+**RELIQUES**
 
-Relics are unique pieces of Scrap only found on specific tech-based [adversaries](Using%20Adversaries.md). When the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) defeat a particularly important or powerful tech-based [adversary](Using%20Adversaries.md), the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can grant them each a Relic in addition to Scrap from the table above. Relics should be customized to reflect the adversary from which they were obtained. Relics are worth 20 Credits and can be used to craft powerful Upgrades.
+Les Reliques sont des pièces de Ferraille uniques, qu’on ne trouve que sur certains [adversaires](Using%20Adversaries.md) technologiques. Quand les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) vainquent un [adversaire](Using%20Adversaries.md) technologique particulièrement important ou puissant, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut leur accorder à chacun une Relique en plus de la Ferraille de la table ci-dessus. Les Reliques devraient être personnalisées pour refléter l’adversaire sur lequel elles ont été obtenues. Les Reliques valent 20 Crédits et servent à fabriquer de puissantes Améliorations.
 
-**CRAFTING WITH SCRAP**
+**FABRIQUER AVEC DE LA FERRAILLE**
 
-[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can use a [downtime move](Core%20Mechanics.md#DOWNTIME) and spend the appropriate Scrap or Relics to craft Upgrades for their Iconic Weapons or other items. A PC can’t craft an Upgrade until they satisfy its Prerequisites. An Upgrade can always be broken back into its constituents to reacquire the Scrap used in its creation.
+Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peuvent utiliser une [action de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) et dépenser la Ferraille ou les Reliques appropriées pour fabriquer des Améliorations destinées à leurs Armes emblématiques ou à d’autres objets. Un PJ ne peut pas fabriquer une Amélioration tant qu’il ne remplit pas ses Prérequis. Une Amélioration peut toujours être démontée en ses éléments pour récupérer la Ferraille employée à sa fabrication.
 
-**BUYING AND SELLING SCRAP**
+**ACHETER ET VENDRE DE LA FERRAILLE**
 
-By default, a piece of Scrap is worth a number of Credits equal to the value rolled to acquire it on the table above. This value is unaffected by whether the party intends to buy or sell it.
+Par défaut, une pièce de Ferraille vaut un nombre de Crédits égal à la valeur obtenue pour l’acquérir sur la table ci-dessus. Cette valeur ne dépend pas de l’intention du groupe de l’acheter ou de la vendre.
 
-Merchants have a limited amount and variety of Scrap for sale, usually 1d10 of each Shard, 1d8 of each Metal, and 1d6 of each Component. When a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) wants to buy a specific piece of Scrap from a particular merchant, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can roll to determine how many are in stock, subject to the GM’s discretion.
+Les marchands disposent d’une quantité et d’une variété limitées de Ferraille à vendre, généralement 1d10 de chaque Éclat, 1d8 de chaque Métal et 1d6 de chaque Composant. Quand un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) veut acheter une pièce de Ferraille précise à un marchand donné, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut faire un jet pour déterminer combien il en reste en stock, à sa discrétion.
 
-## WESTERN CAMPAIGNS
+## CAMPAGNES WESTERN
 
-*You can use the following mechanics in a western-themed campaign.*
+*Vous pouvez utiliser les mécaniques suivantes dans une campagne sur le thème du western.*
 
-#### WEAPONS & LOOT
+#### ARMES ET BUTIN
 
-**[Primary Weapons](Equipment.md#WEAPONS)**
+**[Armes principales](Equipment.md#ARMES)**
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Revolver** | [Finesse](Character%20Creation.md#STEP%203) | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | [Tier 1](Core%20Mechanics.md#LEVELING%20UP): d8+1 phy [Tier 2](Core%20Mechanics.md#LEVELING%20UP): d8+4 phy [Tier 3](Core%20Mechanics.md#LEVELING%20UP): d8+7 phy [Tier 4](Core%20Mechanics.md#LEVELING%20UP): d8+10 phy | [One-Handed](Equipment.md#WEAPONS) | ***Six Shot:*** Place 6 Ammo tokens on your character sheet. Spend 1 Ammo token to make an attack. You can mark a [Stress](Core%20Mechanics.md#STRESS) to regain spent Ammo tokens. |
-| **Rifle** | [Agility](Character%20Creation.md#STEP%203) | [Very Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d8+2 phy Tier 2: d8+5 phy Tier 3: d8+8 phy Tier 4: d8+11 phy | [Two-Handed](Equipment.md#WEAPONS) | ***Sightline:*** Spend 2 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to gain [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on an [attack roll](Core%20Mechanics.md#ATTACKING). |
-| **Shotgun** | [Strength](Character%20Creation.md#STEP%203) | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d6+2 phy Tier 2: d6+5 phy Tier 3: d6+8 phy Tier 4: d6+11 phy | Two-Handed | ***Scattershot:*** When you make an attack, target all creatures in front of you within range. |
+| **Revolver** | [Finesse](Character%20Creation.md#%C3%89TAPE%203) | [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | [Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+1 phy [Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+4 phy [Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+7 phy [Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+10 phy | [À une main](Equipment.md#ARMES) | ***Six coups :*** Placez 6 jetons de Munitions sur votre fiche de personnage. Dépensez 1 jeton de Munitions pour faire une attaque. Vous pouvez marquer un [Stress](Core%20Mechanics.md#STRESS) pour récupérer les jetons de Munitions dépensés. |
+| **Carabine** | [Agilité](Character%20Creation.md#%C3%89TAPE%203) | [Très loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | Rang 1 : d8+2 phy Rang 2 : d8+5 phy Rang 3 : d8+8 phy Rang 4 : d8+11 phy | [À deux mains](Equipment.md#ARMES) | ***Ligne de mire :*** Dépensez 2 [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour obtenir un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur un [jet d’attaque](Core%20Mechanics.md#ATTAQUER). |
+| **Fusil à pompe** | [Force](Character%20Creation.md#%C3%89TAPE%203) | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | Rang 1 : d6+2 phy Rang 2 : d6+5 phy Rang 3 : d6+8 phy Rang 4 : d6+11 phy | À deux mains | ***Tir dispersé :*** Quand vous faites une attaque, visez toutes les créatures devant vous à portée. |
 
-**[Secondary Weapons](Equipment.md#WEAPONS)**
+**[Armes secondaires](Equipment.md#ARMES)**
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Lasso** | [Agility](Character%20Creation.md#STEP%203) | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | [Tier 1](Core%20Mechanics.md#LEVELING%20UP): d4 phy [Tier 2](Core%20Mechanics.md#LEVELING%20UP): d4+3 phy [Tier 3](Core%20Mechanics.md#LEVELING%20UP): d4+6 phy [Tier 4](Core%20Mechanics.md#LEVELING%20UP): d4+9 phy | [One-Handed](Equipment.md#WEAPONS) | ***Roped:*** On a successful attack, you can temporarily *Rope* the target instead of dealing damage. While *Roped*, the target is *[Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Vulnerable](Core%20Mechanics.md#STANDARD%20CONDITIONS)*, but you must remain within Very Close range of the target. When the target would clear this condition, you can make a [Strength](Character%20Creation.md#STEP%203) [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS). On a success, they remain Roped. |
-| **Small Revolver** | [Finesse](Character%20Creation.md#STEP%203) | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d6 phy Tier 2: d6+3 phy Tier 3: d6+6 phy Tier 4: d6+9 phy | One-Handed | ***Quick Shot:*** Spend 2 [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to gain a +4 bonus to [primary weapon](Equipment.md#WEAPONS) damage. |
+| **Lasso** | [Agilité](Character%20Creation.md#%C3%89TAPE%203) | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | [Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d4 phy [Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d4+3 phy [Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d4+6 phy [Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d4+9 phy | [À une main](Equipment.md#ARMES) | ***Lassé :*** En cas d’attaque réussie, vous pouvez temporairement *lasser* la cible au lieu d’infliger des dégâts. Tant qu’elle est *Lassée*, la cible est *[Entravée](Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Vulnérable](Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, mais vous devez rester à portée Très proche de la cible. Quand la cible devrait évacuer cet état, vous pouvez faire un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](Character%20Creation.md#%C3%89TAPE%203). En cas de réussite, elle reste Lassée. |
+| **Petit revolver** | [Finesse](Character%20Creation.md#%C3%89TAPE%203) | [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | Rang 1 : d6 phy Rang 2 : d6+3 phy Rang 3 : d6+6 phy Rang 4 : d6+9 phy | À une main | ***Tir rapide :*** Dépensez 2 [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour gagner un bonus de +4 aux dégâts de l’[arme principale](Equipment.md#ARMES). |
 
-You can also make the following consumable available in a western-themed campaign:
+Vous pouvez aussi mettre à disposition le consommable suivant dans une campagne sur le thème du western :
 
-**Dynamite:** *(Consumable)* You can light this dynamite and toss it within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. All creatures within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of where the dynamite lands must make a [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS) (14). Targets who fail take **1d20+5** [physical damage](Core%20Mechanics.md#ATTACKING). Targets who succeed must mark a [Stress](Core%20Mechanics.md#STRESS). Dynamite deals double damage to inanimate objects or structures.
+**Dynamite :** *(Consommable)* Vous pouvez allumer cette dynamite et la lancer à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Toutes les créatures à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l’endroit où la dynamite retombe doivent faire un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (14). Les cibles qui échouent subissent **1d20+5** [dégâts physiques](Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent doivent marquer un [Stress](Core%20Mechanics.md#STRESS). La dynamite inflige des dégâts doubles aux objets inanimés et aux structures.
 
-## COLOSSAL ADVERSARIES
+## ADVERSAIRES COLOSSAUX
 
-“Colossus” is a special [adversary](Using%20Adversaries.md) type that uses multiple adversary stat blocks called segments to represent the body parts of an extremely large creature. Information and features that apply to the colossus in its entirety are contained in a separate stat block called the framework:
+Le « Colosse » est un type spécial d’[adversaire](Using%20Adversaries.md) qui utilise plusieurs profils d’adversaire appelés segments pour représenter les parties du corps d’une créature extrêmement grande. Les informations et aptitudes qui s’appliquent au colosse dans son ensemble figurent dans un profil distinct appelé la structure :
 
-- Name
+- Nom
 
-- Tier
+- Rang
 
 - Description
 
-- Motives & Tactics
+- Motivations et tactiques
 
-- Size
+- Taille
 
 - Segments
 
-- [Damage Thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)
+- [Seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)
 
 - [Stress](Core%20Mechanics.md#STRESS)
 
-- [Experiences](Character%20Creation.md#STEP%207)
+- [Expériences](Character%20Creation.md#%C3%89TAPE%207)
 
-- Features that apply to all segments
+- Aptitudes qui s’appliquent à tous les segments
 
-Each segment of a colossus has its own stat block, which lists the following:
+Chaque segment d’un colosse a son propre profil, qui indique ce qui suit :
 
-- Name of segment
+- Nom du segment
 
-- Adjacent segments
+- Segments adjacents
 
-- [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS)
+- [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION)
 
-- [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)
+- [PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)
 
-- Standard attack
+- Attaque standard
 
-- Features
+- Aptitudes
 
-Some segments can be *Broken*. A *Broken* segment can’t use actions or reactions until the condition is cleared. When a segment marks its last [Hit Point](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), it’s considered *Destroyed*. A *Destroyed* segment can’t use any of its features. A colossus is defeated when all its segments are *Destroyed*, however a colossus’s stat block often details alternative ways to defeat it. By default, a *Destroyed* segment is not gone or detached, it’s simply non-working.
+Certains segments peuvent être *Brisés*. Un segment *Brisé* ne peut utiliser ni actions ni réactions tant que l’état n’est pas évacué. Quand un segment marque son dernier [Point de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il est considéré comme *Détruit*. Un segment *Détruit* ne peut utiliser aucune de ses aptitudes. Un colosse est vaincu quand tous ses segments sont *Détruits*, mais le profil d’un colosse détaille souvent d’autres façons de le vaincre. Par défaut, un segment *Détruit* n’a pas disparu ni ne s’est détaché : il ne fonctionne simplement plus.
 
-For example Colossus [adversaries](Using%20Adversaries.md) and Colossus features, see the “Colossus of the Drylands” campaign frame.
+Pour des exemples d’[adversaires](Using%20Adversaries.md) Colosses et d’aptitudes de Colosse, voir le cadre de campagne « Colosse des Terres arides ».
 
-#### SEGMENT VS. COLOSSUS EFFECTS
+#### EFFETS DE SEGMENT ET EFFETS DU COLOSSE
 
-When a feature refers to a segment’s name, such as “the Head,” it refers only to that specific part of the colossus. For example, the Head might be [immune](Core%20Mechanics.md#ATTACKING) to physical attacks or more difficult to climb. When a feature refers to the colossus’s name, it applies to the [adversary](Using%20Adversaries.md) as a whole. For example, a reaction feature might trigger an attack after the colossus marks 2 or more [Hit Points](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from a single attack. This would mean that when any segment marks 2 or more Hit Points from a single attack, the reaction is triggered.
+Quand une aptitude fait référence au nom d’un segment, comme « la Tête », elle ne concerne que cette partie précise du colosse. Par exemple, la Tête pourrait être [immunisée](Core%20Mechanics.md#ATTAQUER) contre les attaques physiques ou plus difficile à escalader. Quand une aptitude fait référence au nom du colosse, elle s’applique à l’[adversaire](Using%20Adversaries.md) dans son ensemble. Par exemple, une aptitude de réaction pourrait déclencher une attaque après que le colosse a marqué 2 [Points de vie](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus à la suite d’une seule attaque. Cela signifie que lorsqu’un segment quelconque marque 2 Points de vie ou plus à la suite d’une seule attaque, la réaction se déclenche.
 
-#### ADJACENT SEGMENTS
+#### SEGMENTS ADJACENTS
 
-A colossus’s stat blocks should indicate which segments are adjacent to one another. By default,  a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can move from one segment to another only if those segments are adjacent (see the upcoming “Moving PCs Around a Colossus” section).
+Les profils d’un colosse devraient indiquer quels segments sont adjacents les uns aux autres. Par défaut, un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne peut passer d’un segment à un autre que si ces segments sont adjacents (voir la section « Déplacer les PJ sur un colosse » plus loin).
 
-#### RUNNING COLOSSUS FIGHTS
+#### GÉRER LES COMBATS CONTRE UN COLOSSE
 
-Battles against colossi have unique rules.
+Les batailles contre des colosses obéissent à des règles particulières.
 
-**SCALE**
+**ÉCHELLE**
 
-Unlike normal range in Daggerheart, we use a standard form of measurement when talking about a colossus’s scale. (In our case, we use feet—but you should use whatever you find easiest.) Normal range bands still apply when taking actions and are at [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) discretion as usual, but expressing the height or width of a creature through recognizable sizes helps the table to understand the scale of the colossus they’re facing.
+Contrairement à la portée normale dans Daggerheart, nous utilisons une unité de mesure standard pour parler de l’échelle d’un colosse. (Ici, nous employons les pieds, mais vous devriez utiliser ce qui vous paraît le plus simple.) Les bandes de portée habituelles s’appliquent toujours pour entreprendre des actions et restent à la discrétion du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) comme d’ordinaire, mais exprimer la hauteur ou la largeur d’une créature à l’aide de tailles reconnaissables aide la table à saisir l’échelle du colosse qu’elle affronte.
 
-**MOVING PCS AROUND A COLOSSUS**
+**DÉPLACER LES PJ SUR UN COLOSSE**
 
-During an encounter with a colossus, use the following movement mechanics:
+Pendant une rencontre avec un colosse, utilisez les mécaniques de déplacement suivantes :
 
-- A [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can climb onto a colossus segment unless its stat block indicates otherwise.
+- Un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut grimper sur un segment de colosse, sauf indication contraire de son profil.
 
-- Once on a segment, a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can usually move around and within it without making additional rolls.
+- Une fois sur un segment, un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut généralement se déplacer sur celui-ci et à l’intérieur sans faire de jets supplémentaires.
 
-- To move to an adjacent segment, a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must make an appropriate [action roll](Core%20Mechanics.md#ACTION%20ROLLS) (usually [Agility](Character%20Creation.md#STEP%203) or [Strength](Character%20Creation.md#STEP%203)) to leap onto it.
+- Pour passer à un segment adjacent, un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit faire un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) approprié (généralement d’[Agilité](Character%20Creation.md#%C3%89TAPE%203) ou de [Force](Character%20Creation.md#%C3%89TAPE%203)) pour bondir dessus.
 
-**TEAMWORK**
+**TRAVAIL D’ÉQUIPE**
 
-While fighting a colossus, a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can initiate any number of [Tag Team Rolls](Core%20Mechanics.md#SPECIAL%20ROLLS) in a single session.
+Quand il combat un colosse, un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut lancer autant de [jets en tandem](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) qu’il le souhaite au cours d’une même séance.
 
-**USING A COLOSSUS IN BATTLE**
+**UTILISER UN COLOSSE AU COMBAT**
 
-Treat each segment of a colossus as a separate [adversary](Using%20Adversaries.md) when moving the [spotlight](Core%20Mechanics.md#THE%20SPOTLIGHT). You can spotlight a segment as a [GM move](Making%20Moves.md), then spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to spotlight an additional segment as you would during a fight with regular [adversaries](Using%20Adversaries.md). Some colossi also have actions in their colossus framework; you can spotlight the framework to use this action as you would spotlight a segment, but you should highlight the colossus as a whole in the narrative. You can still spotlight additional segments on your turn.
+Traitez chaque segment d’un colosse comme un [adversaire](Using%20Adversaries.md) distinct quand vous déplacez les [projecteurs](Core%20Mechanics.md#LES%20PROJECTEURS). Vous pouvez mettre un segment sous les projecteurs comme [action du MJ](Making%20Moves.md), puis dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour mettre un segment supplémentaire sous les projecteurs, comme lors d’un combat contre des [adversaires](Using%20Adversaries.md) ordinaires. Certains colosses ont aussi des actions dans leur structure ; vous pouvez mettre la structure sous les projecteurs pour utiliser cette action comme vous le feriez pour un segment, mais vous devriez mettre le colosse dans son ensemble en avant dans le récit. Vous pouvez toujours mettre d’autres segments sous les projecteurs pendant votre tour.
 
-While a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) is on a segment of the colossus:
+Tant qu’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) se trouve sur un segment du colosse :
 
-- They have [advantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks targeting that segment.
+- Il a un [avantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les attaques visant ce segment.
 
-- The segment’s standard attack cannot be used on that [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F).
+- L’attaque standard du segment ne peut pas être utilisée contre ce [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).
 
-Any features that would pull or push normal [adversaries](Using%20Adversaries.md) can’t move a colossus; instead, the feature pulls or pushes the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) making the attack. For example, using a grappler against a colossus can’t pull it toward you, but instead pulls you toward them.
+Aucune aptitude qui attirerait ou repousserait des [adversaires](Using%20Adversaries.md) normaux ne peut déplacer un colosse ; l’aptitude attire ou repousse à la place le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui fait l’attaque. Par exemple, utiliser un grappin contre un colosse ne permet pas de l’attirer vers soi, mais attire au contraire le PJ vers lui.
 
-When an effect targets a specific segment, use the [Difficulty](Core%20Mechanics.md#ACTION%20ROLLS) of that segment. If an effect targets a colossus as a whole, use the highest Difficulty amongst all the segments. If a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s feature targets multiple [adversaries](Using%20Adversaries.md), it can target multiple segments.
+Quand un effet vise un segment précis, utilisez la [Difficulté](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) de ce segment. Si un effet vise un colosse dans son ensemble, utilisez la plus haute Difficulté parmi tous les segments. Si l’aptitude d’un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) vise plusieurs [adversaires](Using%20Adversaries.md), elle peut viser plusieurs segments.
 
-If your table uses maps and minis for combat encounters, you can use notecards to represent the basic shape of a colossus and the layout of its segments. When a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) climbs onto a segment of the colossus, place their miniature directly on the notecard.
+Si votre table utilise des cartes et des figurines pour les rencontres de combat, vous pouvez utiliser des fiches bristol pour représenter la forme générale d’un colosse et la disposition de ses segments. Quand un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) grimpe sur un segment du colosse, placez sa figurine directement sur la fiche.
 
-#### LEVELING UP
+#### MONTÉE EN NIVEAU
 
-By default, the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) [levels up](Core%20Mechanics.md#LEVELING%20UP) when they defeat a colossus. After defeating nine colossi, the party will be at level 10 and ready to take on a Final Colossus. The power of the final colossus is partially determined by the number of rests the party takes throughout the campaign.
+Par défaut, les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) [montent de niveau](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) quand ils vainquent un colosse. Après avoir vaincu neuf colosses, le groupe sera au niveau 10 et prêt à affronter un Colosse final. La puissance du colosse final est en partie déterminée par le nombre de repos pris par le groupe pendant la campagne.
 
-During the campaign, track the increasing power of the final colossus with a d10 Siphoning Die that starts at 1 and a d100 Power Die that starts at 0. Tick the Power Die up by one when the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) take a [short rest](Core%20Mechanics.md#DOWNTIME) and by two when they take a [long rest](Core%20Mechanics.md#DOWNTIME). When the party defeats a colossus, roll a number of d12s equal to the value of the Siphon Die, and tick up the Power Die by the highest rolled result, then reset the Siphon Die to 1.
+Pendant la campagne, suivez l’accroissement de puissance du colosse final avec un dé d’Aspiration d10 qui commence à 1 et un dé de Puissance d100 qui commence à 0. Faites monter le dé de Puissance d’un cran quand les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) prennent un [repos court](Core%20Mechanics.md#TEMPS%20DE%20REPOS) et de deux quand ils prennent un [repos long](Core%20Mechanics.md#TEMPS%20DE%20REPOS). Quand le groupe vainc un colosse, lancez un nombre de d12 égal à la valeur du dé d’Aspiration, faites monter le dé de Puissance du résultat le plus élevé, puis remettez le dé d’Aspiration à 1.
 
-Once nine colossi have been defeated or the Power Die reaches 100, the final colossus reveals itself. Build it as a Colossus [adversary](Using%20Adversaries.md) with a [Severe threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to the value of Power Die and a [Major threshold](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to half that value (rounded up).
+Une fois neuf colosses vaincus, ou quand le dé de Puissance atteint 100, le colosse final se révèle. Créez-le comme un [adversaire](Using%20Adversaries.md) Colosse avec un [seuil Sévère](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à la valeur du dé de Puissance et un [seuil Majeur](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à la moitié de cette valeur (arrondie au supérieur).
 
-## FLOATING MAGIC SCHOOL CAMPAIGNS
+## CAMPAGNES D’ÉCOLE DE MAGIE FLOTTANTE
 
-*You can use the following mechanics for a campaign set at a* *floating magic school.*
+*Vous pouvez utiliser les mécaniques suivantes pour une campagne se déroulant dans une école de magie flottante.*
 
-#### FLIGHT
+#### VOL
 
-During character creation, each player creates a magic artifact they can use to fly. Flying [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) use the normal movement rules and can fly within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range as part of an [action roll](Core%20Mechanics.md#ACTION%20ROLLS), but they must make an appropriate [trait roll](Core%20Mechanics.md#SPECIAL%20ROLLS) to move beyond Close range or if movement is their primary action. At the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s discretion, some threats, such as gaining the *[Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS)* or *[Vulnerable](Core%20Mechanics.md#STANDARD%20CONDITIONS)* conditions, losing their magic artifact, or taking [Severe damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), can temporarily interrupt a PC’s ability to fly.
+À la création de personnage, chaque joueur crée un artefact magique qui lui permet de voler. Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui volent suivent les règles de déplacement normales et peuvent voler à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) dans le cadre d’un [jet d’action](Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), mais ils doivent faire un [jet de caractéristique](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) approprié pour se déplacer au-delà de la portée Proche ou si le déplacement est leur action principale. À la discrétion du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), certaines menaces, comme gagner l’état *[Entravé](Core%20Mechanics.md#%C3%89TATS%20STANDARD)* ou *[Vulnérable](Core%20Mechanics.md#%C3%89TATS%20STANDARD)*, perdre son artefact magique ou subir des [dégâts sévères](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), peuvent interrompre temporairement la capacité de vol d’un PJ.
 
-**USING TRAITS FOR FLIGHT**
+**UTILISER LES CARACTÉRISTIQUES POUR VOLER**
 
-A [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can use any appropriate trait (not just [Agility](Character%20Creation.md#STEP%203)) to move while flying. The following are some examples of how each trait might be used:
+Un [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut utiliser n’importe quelle caractéristique appropriée (pas seulement l’[Agilité](Character%20Creation.md#%C3%89TAPE%203)) pour se déplacer en volant. Voici quelques exemples de la façon dont chaque caractéristique peut servir :
 
-**[Agility](Character%20Creation.md#STEP%203):** Swift acrobatics, speed-boosting off an [adversary](Using%20Adversaries.md)’s wake, maintaining an aerodynamic posture, or angling past a winged threat
+**[Agilité](Character%20Creation.md#%C3%89TAPE%203) :** Acrobaties rapides, élan pris dans le sillage d’un [adversaire](Using%20Adversaries.md), posture aérodynamique, ou esquive d’une menace ailée en prenant le bon angle
 
-**[Finesse](Character%20Creation.md#STEP%203):** Focused, subtle, and well-timed adjustments, threading the needle, precision flying, operating finely tuned controls, or deftly weaving between obstacles
+**[Finesse](Character%20Creation.md#%C3%89TAPE%203) :** Ajustements concentrés, subtils et bien synchronisés, passage par le chas d’une aiguille, vol de précision, maniement de commandes finement réglées, ou slalom habile entre les obstacles
 
-**[Strength](Character%20Creation.md#STEP%203):** Blasting through floating debris, holding fast in shifting weather, or slamming into a racing rival
+**[Force](Character%20Creation.md#%C3%89TAPE%203) :** Percée à travers des débris flottants, résistance à une météo changeante, ou collision avec un rival lancé à toute allure
 
-**[Instinct](Character%20Creation.md#STEP%203):** Navigating by sheer intuition, keenly spotting a shortcut, following a migratory current, or sensing hidden danger in the clouds.
+**[Instinct](Character%20Creation.md#%C3%89TAPE%203) :** Navigation à l’intuition pure, repérage avisé d’un raccourci, suivi d’un courant migratoire, ou perception d’un danger caché dans les nuages.
 
-**[Presence](Character%20Creation.md#STEP%203):** Flying with natural grace and effortless style, commanding attention, causing a distraction, creating a spectacle
+**[Présence](Character%20Creation.md#%C3%89TAPE%203) :** Vol plein de grâce naturelle et d’aisance, appel à l’attention, diversion, ou mise en scène d’un spectacle
 
-**[Knowledge](Character%20Creation.md#STEP%203):** Charting efficient flight plans, plotting rotational momentum, or deducing the exact timing of a foe’s wingbeats
+**[Savoir](Character%20Creation.md#%C3%89TAPE%203) :** Tracé de plans de vol efficaces, calcul de l’élan de rotation, ou déduction du rythme exact des battements d’ailes d’un adversaire
 
-**LESS LETHAL CAMPAIGNS**
+**CAMPAGNES MOINS LÉTALES**
 
-In a less lethal campaign, any [death move](Core%20Mechanics.md#DEATH) that would normally lead to a character’s demise instead puts them in the infirmary for a few weeks or sends them home for an extended period of time. While they recover, the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) is unplayable but not dead.
+Dans une campagne moins létale, tout [choix de mort](Core%20Mechanics.md#MORT) qui entraînerait normalement la disparition d’un personnage l’envoie à la place à l’infirmerie pour quelques semaines ou le renvoie chez lui pour une longue période. Pendant sa convalescence, le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) est injouable, mais pas mort.
 
-## FAIRY TALE CAMPAIGNS
+## CAMPAGNES DE CONTES DE FÉES
 
-*You can use the following mechanics in campaigns that center* *on curses, queens, and oracles.*
+*Vous pouvez utiliser les mécaniques suivantes dans des campagnes centrées sur les malédictions, les reines et les oracles.*
 
-#### CURSES
+#### MALÉDICTIONS
 
-A creature afflicted with a magical curse gains the *Cursed* condition. The *Cursed* condition can only be cleared by magic from a spell, ritual, magic item, location, supernatural occurrence, higher power, or some combination of these options. Discovering how to end a curse often requires research, which might prompt the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to undergo a quest for additional information or help from an [NPC](Making%20Moves.md#RUNNING%20GM%20NPCS).
+Une créature frappée d’une malédiction magique gagne l’état *Maudit*. L’état *Maudit* ne peut être évacué que par la magie d’un sort, d’un rituel, d’un objet magique, d’un lieu, d’un phénomène surnaturel, d’une puissance supérieure, ou d’une combinaison de ces éléments. Découvrir comment mettre fin à une malédiction exige souvent des recherches, ce qui peut pousser les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à entreprendre une quête pour obtenir des informations ou l’aide d’un [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ).
 
-#### TRANSFORMING ADVERSARIES
+#### TRANSFORMER LES ADVERSAIRES
 
-“Transform” is a special action that enables an [adversary](Using%20Adversaries.md) to shift between multiple stat blocks. By default, the adversary has a primary stat block that includes stats and features available to the adversary regardless of their active form. While in a particular form, the adversary has access to the stats and features contained in that form’s stat block and their primary stat block. Unless noted otherwise, the adversary tracks [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](Core%20Mechanics.md#STRESS) on their primary stat block regardless of their active form.
+« Transformation » est une action spéciale qui permet à un [adversaire](Using%20Adversaries.md) de passer d’un profil à un autre. Par défaut, l’adversaire a un profil principal qui comprend les statistiques et aptitudes dont il dispose quelle que soit sa forme active. Sous une forme donnée, l’adversaire a accès aux statistiques et aptitudes contenues dans le profil de cette forme ainsi que dans son profil principal. Sauf mention contraire, l’adversaire suit ses [PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) et son [Stress](Core%20Mechanics.md#STRESS) sur son profil principal, quelle que soit sa forme active.
 
-#### BUILDING VILLAINS COLLABORATIVELY
+#### CRÉER UN VILLAIN EN COMMUN
 
-*You can build a campaign villain collaboratively using the* *following process.*
+*Vous pouvez créer en commun le méchant d’une campagne en suivant le processus ci-dessous.*
 
-Prior to your session zero, write approximately 40 prompts, each in the form of a question about the villain. For example, you might ask about the villain’s background, demeanor, motives, or reputation. Write each prompt on an index card or slip of paper. For inspiration, see the Reign of the Weredragon Villain Builder sheet in *[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) & [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)* or available online at daggerheart.com/downloads.
+Avant votre séance zéro, écrivez environ 40 questions, chacune posée sous la forme d’une question sur le méchant. Par exemple, vous pouvez poser des questions sur son passé, son comportement, ses motivations ou sa réputation. Écrivez chaque question sur une fiche bristol ou un bout de papier. Pour vous inspirer, consultez la feuille Créateur de méchant du Règne du Dragon-Garou dans *[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)* ou disponible en ligne sur daggerheart.com/downloads.
 
-During session zero (and prior to character creation) randomly select about 15 of your prepared prompts and place them in the center of the table so that everyone can reach them but no one can read them.
+Pendant la séance zéro (et avant la création de personnage), choisissez au hasard environ 15 de vos questions préparées et placez-les au centre de la table, de sorte que tout le monde puisse les atteindre mais que personne ne puisse les lire.
 
-Starting with the person to your left, each player draws one of the pre-selected prompts and reads it aloud, then chooses one of the following options:
+En commençant par la personne à votre gauche, chaque joueur tire l’une des questions présélectionnées et la lit à voix haute, puis choisit l’une des options suivantes :
 
-- The active player can answer the prompt. Other players can ask follow-up questions, though the active player can choose not to answer them.
+- Le joueur actif peut répondre à la question. Les autres joueurs peuvent poser des questions complémentaires, auxquelles le joueur actif peut choisir de ne pas répondre.
 
-- The active player can remove the prompt from play and draw a new prompt.
+- Le joueur actif peut retirer la question du jeu et en tirer une nouvelle.
 
-- The active player can pass the prompt to another player, who likewise chooses to answer, remove, or pass it.
+- Le joueur actif peut passer la question à un autre joueur, qui choisit de la même façon de répondre, de la retirer ou de la passer.
 
-When there are no more follow-up questions to a prompt, play passes to the left. Continue in this manner until all prompts at the center of the table have been answered or removed. Then proceed to character creation.
+Quand il n’y a plus de questions complémentaires sur une question, le tour passe à la gauche. Continuez ainsi jusqu’à ce que toutes les questions placées au centre de la table aient reçu une réponse ou aient été retirées. Passez ensuite à la création de personnage.
 
-## MONSTER HUNTING CAMPAIGNS
+## CAMPAGNES DE CHASSE AUX MONSTRES
 
-*You can use the following mechanics for monster hunting campaigns.*
+*Vous pouvez utiliser les mécaniques suivantes pour des campagnes de chasse aux monstres.*
 
-#### MONSTER HUNTING EQUIPMENT
+#### ÉQUIPEMENT DE CHASSE AUX MONSTRES
 
-You can make the following weapons and items available to your players.
+Vous pouvez mettre à disposition de vos joueurs les armes et objets suivants.
 
-**[Primary Weapons](Equipment.md#WEAPONS)**
+**[Armes principales](Equipment.md#ARMES)**
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Blessed [Brass Knuckles](../weapons/Brass%20Knuckles.md)** | [Strength](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | [Tier 1](Core%20Mechanics.md#LEVELING%20UP): d8+1 mag [Tier 2](Core%20Mechanics.md#LEVELING%20UP): d8+4 mag [Tier 3](Core%20Mechanics.md#LEVELING%20UP): d8+7 mag [Tier 4](Core%20Mechanics.md#LEVELING%20UP): d8+10 mag | [One-Handed](Equipment.md#WEAPONS) | — |
-| **Holy Shotgun** | [Agility](Character%20Creation.md#STEP%203) | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d6+2 mag Tier 2: d6+5 mag Tier 3: d6+8 mag Tier 4: d6+11 mag | [Two-Handed](Equipment.md#WEAPONS) | ***Scattershot:*** When you make an attack, target all creatures in front of you within range. |
-| **Repeating Crossbow** | [Finesse](Character%20Creation.md#STEP%203) | [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d6+2 phy Tier 2: d6+5 phy Tier 3: d6+8 phy Tier 4: d6+11 phy | Two-Handed | ***Quick:*** When you make an attack, you can mark a [Stress](Core%20Mechanics.md#STRESS) to target another creature within range. |
+| **[Coups-de-poing en laiton](../weapons/Brass%20Knuckles.md) bénis** | [Force](Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | [Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+1 mag [Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+4 mag [Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+7 mag [Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+10 mag | [À une main](Equipment.md#ARMES) | — |
+| **Fusil à pompe sacré** | [Agilité](Character%20Creation.md#%C3%89TAPE%203) | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | Rang 1 : d6+2 mag Rang 2 : d6+5 mag Rang 3 : d6+8 mag Rang 4 : d6+11 mag | [À deux mains](Equipment.md#ARMES) | ***Tir dispersé :*** Quand vous faites une attaque, visez toutes les créatures devant vous à portée. |
+| **Arbalète à répétition** | [Finesse](Character%20Creation.md#%C3%89TAPE%203) | [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | Rang 1 : d6+2 phy Rang 2 : d6+5 phy Rang 3 : d6+8 phy Rang 4 : d6+11 phy | À deux mains | ***Rapide :*** Quand vous faites une attaque, vous pouvez marquer un [Stress](Core%20Mechanics.md#STRESS) pour viser une autre créature à portée. |
 
-**[Secondary Weapons](Equipment.md#WEAPONS)**
+**[Armes secondaires](Equipment.md#ARMES)**
 
-| Name | Trait | Range | Damage | [Burden](Equipment.md#WEAPONS) | Feature |
+| Nom | Caractéristique | Portée | Dégâts | [Prise](Equipment.md#ARMES) | Aptitude |
 | --- | --- | --- | --- | --- | --- |
-| **Wooden Stake** | [Strength](Character%20Creation.md#STEP%203) | [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | [Tier 1](Core%20Mechanics.md#LEVELING%20UP): d8 phy [Tier 2](Core%20Mechanics.md#LEVELING%20UP): d8+2 phy [Tier 3](Core%20Mechanics.md#LEVELING%20UP): d8+4 phy [Tier 4](Core%20Mechanics.md#LEVELING%20UP): d8+6 phy | [One-Handed](Equipment.md#WEAPONS) | ***Paired:*** Gain a bonus equal to 1 + your [tier](Core%20Mechanics.md#LEVELING%20UP) to [primary weapon](Equipment.md#WEAPONS) damage to targets within Melee range. |
-| **Hallowed Shield** | [Instinct](Character%20Creation.md#STEP%203) | Melee | Tier 1: d4 mag Tier 2: d4+2 mag Tier 3: d4+4 mag Tier 4: d4+6 mag | One-Handed | ***Resonant:*** When you critically succeed on a primary weapon attack, you gain an additional [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR). |
-| **Chain Whip** | [Presence](Character%20Creation.md#STEP%203) | [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | Tier 1: d6+1 phy Tier 2: d6+3 phy Tier 3: d6+5 phy Tier 4: d6+7 phy | One-Handed | ***Hooked:*** On a successful attack, you can pull the target into Melee range. |
+| **Pieu en bois** | [Force](Character%20Creation.md#%C3%89TAPE%203) | [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | [Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8 phy [Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+2 phy [Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+4 phy [Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : d8+6 phy | [À une main](Equipment.md#ARMES) | ***Jumelé :*** Gagnez un bonus égal à 1 + votre [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) aux dégâts de l’[arme principale](Equipment.md#ARMES) contre les cibles à portée de Mêlée. |
+| **Bouclier consacré** | [Instinct](Character%20Creation.md#%C3%89TAPE%203) | Mêlée | Rang 1 : d4 mag Rang 2 : d4+2 mag Rang 3 : d4+4 mag Rang 4 : d4+6 mag | À une main | ***Résonant :*** Quand vous réussissez de façon critique une attaque avec l’arme principale, vous gagnez un [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) supplémentaire. |
+| **Fouet à chaîne** | [Présence](Character%20Creation.md#%C3%89TAPE%203) | [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | Rang 1 : d6+1 phy Rang 2 : d6+3 phy Rang 3 : d6+5 phy Rang 4 : d6+7 phy | À une main | ***Crochet :*** En cas d’attaque réussie, vous pouvez attirer la cible à portée de Mêlée. |
 
-**Armor**
+**Armure**
 
-| Name | [Base Thresholds](Equipment.md#ARMOR) | [Base Score](Equipment.md#ARMOR) | Feature |
+| Nom | [Seuils de base](Equipment.md#ARMURE) | [Score de base](Equipment.md#ARMURE) | Aptitude |
 | --- | --- | --- | --- |
-| **Coffinwood Armor** | [Tier 1](Core%20Mechanics.md#LEVELING%20UP): 4/10 [Tier 2](Core%20Mechanics.md#LEVELING%20UP): 6/15 [Tier 3](Core%20Mechanics.md#LEVELING%20UP): 8/22 [Tier 4](Core%20Mechanics.md#LEVELING%20UP): 10/31 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Splintering:*** Gain a bonus to your [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to your unmarked [Armor Slots](Equipment.md#ARMOR). |
-| **Leather Longcoat** | Tier 1: 5/12 Tier 2: 8/18 Tier 3: 10/25 Tier 4: 12/34 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Quiet:*** Gain a +2 bonus to rolls you make to move silently. |
-| **Silverweave Armor** | Tier 1: 5/11 Tier 2: 7/16 Tier 3: 9/23 Tier 4: 11/32 | Tier 1: 3 Tier 2: 4 Tier 3: 5 Tier 4: 6 | ***Warded:*** You reduce incoming [magic damage](Core%20Mechanics.md#ATTACKING) by your [Armor Score](Equipment.md#ARMOR) before applying it to your damage thresholds. |
+| **Armure en bois de cercueil** | [Rang 1](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : 4/10 [Rang 2](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : 6/15 [Rang 3](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : 8/22 [Rang 4](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) : 10/31 | Rang 1 : 3 Rang 2 : 4 Rang 3 : 5 Rang 4 : 6 | ***Éclatement :*** Gagnez un bonus à vos [seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à vos [Emplacements d’armure](Equipment.md#ARMURE) non marqués. |
+| **Long manteau de cuir** | Rang 1 : 5/12 Rang 2 : 8/18 Rang 3 : 10/25 Rang 4 : 12/34 | Rang 1 : 3 Rang 2 : 4 Rang 3 : 5 Rang 4 : 6 | ***Silencieux :*** Gagnez un bonus de +2 aux jets que vous faites pour vous déplacer en silence. |
+| **Armure en fil d’argent** | Rang 1 : 5/11 Rang 2 : 7/16 Rang 3 : 9/23 Rang 4 : 11/32 | Rang 1 : 3 Rang 2 : 4 Rang 3 : 5 Rang 4 : 6 | ***Protégé :*** Vous réduisez les [dégâts magiques](Core%20Mechanics.md#ATTAQUER) entrants de votre [Score d’armure](Equipment.md#ARMURE) avant de les appliquer à vos seuils de dégâts. |
 
 #### TRANSFORMATIONS
 
-*You can use the following mechanics for introducing the* *[Reanimated](../transformations/Reanimated.md), [Vampire](../transformations/Vampire.md), and [Werewolf](../transformations/Werewolf.md) [transformations](Transformations.md) to your* *campaign.*
+*Vous pouvez utiliser les mécaniques suivantes pour introduire dans votre campagne les [transformations](Transformations.md) [Réanimé](../transformations/Reanimated.md), [Vampire](../transformations/Vampire.md) et [Loup-garou](../transformations/Werewolf.md).*
 
-**REANIMATED**
+**RÉANIMÉ**
 
-When a character gains the [Reanimated](../transformations/Reanimated.md) [transformation](Transformations.md), their maximum [loadout](Domains.md#DOMAIN%20CARDS) is reduced to one. During a rest, they can use a [downtime move](Core%20Mechanics.md#DOWNTIME) to raise their maximum loadout by one until they reach the normal maximum loadout of five.
+Quand un personnage gagne la [transformation](Transformations.md) [Réanimé](../transformations/Reanimated.md), sa [main](Domains.md#CARTES%20DE%20DOMAINE) maximale est réduite à un. Pendant un repos, il peut utiliser une [action de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour augmenter sa main maximale de un, jusqu’à atteindre la main maximale normale de cinq.
 
 **VAMPIRE**
 
-You can add the following feature to a prominent vampire [adversary](Using%20Adversaries.md)’s stat block:
+Vous pouvez ajouter l’aptitude suivante au profil d’un [adversaire](Using%20Adversaries.md) vampire de premier plan :
 
-***[Vampire](../transformations/Vampire.md)’s Curse – Action.*** Make an [attack roll](Core%20Mechanics.md#ATTACKING) against a target within [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, you can **spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)** to have this [adversary](Using%20Adversaries.md) sink their teeth into the target’s neck and try to turn them into a vampire. Roll a number of **d8s** equal to this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP) and deal that much [physical damage](Core%20Mechanics.md#ATTACKING) to the target. Then roll a **d6**. If the rolled result matches any of the damage dice results, the target marks all their [Stress](Core%20Mechanics.md#STRESS) and gains the Vampire [transformation](Transformations.md).
+***Malédiction du [Vampire](../transformations/Vampire.md) – Action.*** Faites un [jet d’attaque](Core%20Mechanics.md#ATTAQUER) contre une cible à portée de [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, vous pouvez **dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que cet [adversaire](Using%20Adversaries.md) plante ses crocs dans le cou de la cible et tente d’en faire un vampire. Lancez un nombre de **d8** égal au [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire et infligez ce total en [dégâts physiques](Core%20Mechanics.md#ATTAQUER) à la cible. Lancez ensuite un **d6**. Si le résultat correspond à l’un des résultats des dés de dégâts, la cible marque tout son [Stress](Core%20Mechanics.md#STRESS) et gagne la [transformation](Transformations.md) Vampire.
 
-If the player wishes for their character to become a vampire, the [attack roll](Core%20Mechanics.md#ATTACKING) succeeds automatically. The [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes the damage, marks all their [Stress](Core%20Mechanics.md#STRESS), and gains the [transformation](Transformations.md).
+Si le joueur souhaite que son personnage devienne un vampire, le [jet d’attaque](Core%20Mechanics.md#ATTAQUER) réussit automatiquement. Le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) subit les dégâts, marque tout son [Stress](Core%20Mechanics.md#STRESS) et gagne la [transformation](Transformations.md).
 
-**WEREWOLF**
+**LOUP-GAROU**
 
-You can add the following feature to a prominent werewolf [adversary](Using%20Adversaries.md)’s stat block:
+Vous pouvez ajouter l’aptitude suivante au profil d’un [adversaire](Using%20Adversaries.md) loup-garou de premier plan :
 
-***Wolf’s Curse – Action.*** Make an [attack roll](Core%20Mechanics.md#ATTACKING) against a target within [Melee](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, you can **spend a [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)** to have this [adversary](Using%20Adversaries.md) viciously bite the target. Roll a number of **d20s** equal to this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP) and deal that much [physical damage](Core%20Mechanics.md#ATTACKING) to the target. If the target takes [Major](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage from this attack, activate a long-term Lycanthropy [Countdown](Making%20Moves.md#COUNTDOWNS) (6). It ticks down each time the [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes a rest without using a [downtime move](Core%20Mechanics.md#DOWNTIME) to halt their lycanthropy’s progression. When it triggers, the PC gains the [Werewolf](../transformations/Werewolf.md) [transformation](Transformations.md).
+***Malédiction du loup – Action.*** Faites un [jet d’attaque](Core%20Mechanics.md#ATTAQUER) contre une cible à portée de [Mêlée](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, vous pouvez **dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que cet [adversaire](Using%20Adversaries.md) morde cruellement la cible. Lancez un nombre de **d20** égal au [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire et infligez ce total en [dégâts physiques](Core%20Mechanics.md#ATTAQUER) à la cible. Si la cible subit des dégâts [majeurs](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus élevés à cause de cette attaque, activez un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) de lycanthropie à long terme (6). Il descend chaque fois que le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) prend un repos sans utiliser d’[action de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour freiner la progression de sa lycanthropie. Quand il se déclenche, le PJ gagne la [transformation](Transformations.md) [Loup-garou](../transformations/Werewolf.md).
 
-If the player wishes for their character to become a werewolf, the [attack roll](Core%20Mechanics.md#ATTACKING) succeeds automatically. The [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes the damage and activates a long-term Lycanthropy [Countdown](Making%20Moves.md#COUNTDOWNS) (6) regardless of how many [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) they marked as a result of the attack. When the countdown triggers, the PC gains the [transformation](Transformations.md).
+Si le joueur souhaite que son personnage devienne un loup-garou, le [jet d’attaque](Core%20Mechanics.md#ATTAQUER) réussit automatiquement. Le [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) subit les dégâts et active un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) de lycanthropie à long terme (6), quel que soit le nombre de [PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) qu’il a marqués à la suite de l’attaque. Quand le compte à rebours se déclenche, le PJ gagne la [transformation](Transformations.md).
 
-#### THE HUNT
+#### LA CHASSE
 
-The Hunt is a procedure for preparing and running monsters. The basic structure of the Hunt comprises five beats (although you can deviate from this basic structure as appropriate):
+La Chasse est une procédure pour préparer et mener des monstres. La structure de base de la Chasse comprend cinq temps (vous pouvez toutefois vous écarter de cette structure de base selon les besoins) :
 
-1. Arrival: The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) are hooked into the adventure with a strange event that implies monster activity.
+1. Arrivée : les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sont accrochés à l’aventure par un événement étrange qui laisse penser à une activité monstrueuse.
 
-2. Investigation: The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) follow leads and gather clues to discover the truth of the monster.
+2. Enquête : les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) suivent des pistes et rassemblent des indices pour découvrir la vérité sur le monstre.
 
-3. Escalation: The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) bring together what they’ve discovered about the monster and develop a plan of action for finding and defeating it.
+3. Escalade : les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) rassemblent ce qu’ils ont découvert sur le monstre et élaborent un plan d’action pour le trouver et le vaincre.
 
-4. Confrontation: The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) attempt to banish, bind, or destroy the monster using what they’ve previously learned.
+4. Confrontation : les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) tentent de bannir, d’entraver ou de détruire le monstre à l’aide de ce qu’ils ont appris auparavant.
 
-5. Epilogue: The [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) wrap up loose ends and move on to their next mission.
+5. Épilogue : les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) règlent les affaires en suspens et passent à leur mission suivante.
 
-**MAKING A MONSTER**
+**CRÉER UN MONSTRE**
 
-To create a creature altered by evil energy and driven to destroy, consume, or corrupt, answer four questions:
+Pour créer une créature altérée par une énergie maléfique et poussée à détruire, à dévorer ou à corrompre, répondez à quatre questions :
 
-- What is it?
+- Qu’est-ce que c’est ?
 
-- What does it want?
+- Que veut-il ?
 
-- Where can you find it?
+- Où peut-on le trouver ?
 
-- How can you defeat it?
+- Comment peut-on le vaincre ?
 
-Optionally, you can ask: What else should you worry about? The answer to this question might involve underlings that serve the monster, important bystanders the monster might endanger, or events and location that might highlight the monster’s strengths, weaknesses, and motivations.
+Facultativement, vous pouvez demander : De quoi d’autre faut-il s’inquiéter ? La réponse à cette question peut faire intervenir des sous-fifres au service du monstre, des témoins importants que le monstre pourrait mettre en danger, ou des événements et des lieux susceptibles de mettre en lumière les forces, les faiblesses et les motivations du monstre.
 
-**LIMINAL CLUES**
+**INDICES LIMINAUX**
 
-A Liminal Clue is a piece of evidence or information that exists in potential until it manifests through the party’s discovery of it. Before a session begins, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) should devise 4–6 pieces of information that each point the party toward answering at least one of the questions asked in “Making a Monster.”
+Un Indice liminal est un élément de preuve ou d’information qui existe en puissance jusqu’à ce qu’il se manifeste quand le groupe le découvre. Avant le début d’une séance, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) devrait concevoir 4 à 6 informations qui orientent chacune le groupe vers la réponse à au moins l’une des questions posées dans « Créer un monstre ».
 
-Write each Liminal Clue on a notecard and keep them on hand during the session. Whenever the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) delve into danger or explore the mystery in a way that could reveal the answer to one of the questions, you can refer to your collection of Liminal Clues. If a clue fits the tone and place, it manifests in that moment, and you describe how the clue is revealed.
+Écrivez chaque Indice liminal sur une fiche bristol et gardez-les à portée de main pendant la séance. Chaque fois que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) s’enfoncent dans le danger ou explorent le mystère d’une manière qui pourrait révéler la réponse à l’une de ces questions, vous pouvez consulter votre collection d’Indices liminaux. Si un indice convient au ton et au lieu, il se manifeste à ce moment-là, et vous décrivez comment l’indice est révélé.
 
-Liminal Clues indicate *what* manifests, not how or where; they are not bound to a particular place method of discovery. Once revealed, a Liminal Clue solidifies; record it as an undeniable discovery that’s become part of the world’s reality.
+Les Indices liminaux indiquent *ce qui* se manifeste, pas comment ni où ; ils ne sont pas liés à un lieu ou à une méthode de découverte particuliers. Une fois révélé, un Indice liminal se solidifie : notez-le comme une découverte indéniable devenue partie intégrante de la réalité du monde.
 
-## HEX CRAWL CAMPAIGNS
+## CAMPAGNES D’EXPLORATION HEXAGONALE
 
-*You can use the following mechanics for a hex crawl campaign.*
+*Vous pouvez utiliser les mécaniques suivantes pour une campagne d’exploration hexagonale.*
 
-#### THE HEX CRAWL
+#### L’EXPLORATION HEXAGONALE
 
-Your table can use a map divided into hexagons, or “hex map,” to track the party’s movement across a large area, such as a continent. The party moves one hex at a time in a style of travel called a “hex crawl.” Each hex on the map represents roughly 24 miles of land from one side to another, although narrative always supersedes literal representation in Daggerheart.
+Votre table peut utiliser une carte divisée en hexagones, ou « carte hexagonale », pour suivre les déplacements du groupe sur une vaste étendue, comme un continent. Le groupe se déplace d’un hexagone à la fois, dans un style de voyage appelé « exploration hexagonale ». Chaque hexagone de la carte représente environ 24 miles de terrain d’un côté à l’autre, bien que le récit prime toujours sur la représentation littérale dans Daggerheart.
 
-By default, the party travels through the wilderness between sanctuaries or settlements and resolves encounters along the way. A party can take up to three [short rests](Core%20Mechanics.md#DOWNTIME) while traveling through the wilderness but is restricted from taking [long rests](Core%20Mechanics.md#DOWNTIME) outside a sanctuary.
+Par défaut, le groupe voyage à travers la nature entre les sanctuaires ou les agglomérations et résout des rencontres en chemin. Un groupe peut prendre jusqu’à trois [repos courts](Core%20Mechanics.md#TEMPS%20DE%20REPOS) pendant qu’il traverse la nature, mais ne peut pas prendre de [repos long](Core%20Mechanics.md#TEMPS%20DE%20REPOS) en dehors d’un sanctuaire.
 
-#### HEX MAPS
+#### CARTES HEXAGONALES
 
-A Daggerheart hex crawl uses two copies of the same campaign map: a [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s key map and a player-facing map. The GM fills out the key map beforehand with important information about each hex the party is likely to encounter in the next few sessions. This information includes the hex’s habitat, terrain, and potential points of interest or encounters. Meanwhile, the players fill out their map as the party enters each hex and the GM reveals what it holds, using the key map as a reference.
+Une exploration hexagonale de Daggerheart utilise deux exemplaires de la même carte de campagne : une carte-clé du [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et une carte destinée aux joueurs. Le MJ remplit au préalable la carte-clé avec des informations importantes sur chaque hexagone que le groupe est susceptible de rencontrer lors des prochaines séances. Ces informations comprennent l’habitat de l’hexagone, son terrain et ses éventuels points d’intérêt ou rencontres. De leur côté, les joueurs remplissent leur carte à mesure que le groupe entre dans chaque hexagone et que le MJ révèle ce qu’il contient, en s’appuyant sur la carte-clé.
 
-**PREPARING THE [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’S KEY MAP**
+**PRÉPARER LA CARTE-CLÉ DU [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F)**
 
-To fill out the key map, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can choose the contents of each hex, procedurally generate them, or use a combination of both methods. What follows is one potential method, in which the GM rolls a set of polyhedral dice to procedurally generate one multi-hex region at a time.
+Pour remplir la carte-clé, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut choisir le contenu de chaque hexagone, le générer de façon procédurale, ou combiner les deux méthodes. Ce qui suit est une méthode possible, dans laquelle le MJ lance un ensemble de dés polyédriques pour générer de façon procédurale une région de plusieurs hexagones à la fois.
 
-##### FILLING WILDERNESS HEXES
+##### REMPLIR LES HEXAGONES SAUVAGES
 
-Start in any hex and fill out the key map one region at a time by doing the following:
+Partez de n’importe quel hexagone et remplissez la carte-clé une région à la fois en procédant comme suit :
 
-- Roll a **d20** to determine the region’s habitat:
+- Lancez un **d20** pour déterminer l’habitat de la région :
 
-  - 1: Blighted by Dark Magic. Roll again to determine which kind of habitat has been blighted. If you roll another 1, the entire region is so corrupted that it’s become nigh impossible to traverse.
+  - 1 : Flétri par la magie noire. Relancez pour déterminer quel type d’habitat a été flétri. Si vous obtenez un nouveau 1, la région entière est si corrompue qu’elle en devient presque impossible à traverser.
 
-  - 2: Underground
+  - 2 : Souterrain
 
-  - 3–4: Aquatic
+  - 3–4 : Aquatique
 
-  - 5–6: Wetland
+  - 5–6 : Zone humide
 
-  - 7–8: Grassland
+  - 7–8 : Prairie
 
-  - 9–10: Tropical
+  - 9–10 : Tropical
 
-  - 11–12: Forest
+  - 11–12 : Forêt
 
-  - 13–14: Drylands
+  - 13–14 : Terres arides
 
-  - 15–16: Rolling
+  - 15–16 : Collines
 
-  - 17–18: Mountain
+  - 17–18 : Montagne
 
-  - 19: Frozen
+  - 19 : Gelé
 
-  - 20: Badlands
+  - 20 : Terres désolées
 
-- Roll a **d12** to determine the region’s size (how many contiguous hexes the region covers). The region’s shape can be whatever you want, as long as you don’t encircle empty hexes.
+- Lancez un **d12** pour déterminer la taille de la région (le nombre d’hexagones contigus qu’elle couvre). La forme de la région peut être celle que vous voulez, tant que vous n’encerclez pas d’hexagones vides.
 
-- Roll and add the results of a **d8** and **d6** to determine one type of encounter the party might face while traveling through the region:
+- Lancez et additionnez les résultats d’un **d8** et d’un **d6** pour déterminer un type de rencontre que le groupe pourrait affronter en traversant la région :
 
-  - 2: Roll twice and combine the resulting entries.
+  - 2 : Lancez deux fois et combinez les entrées obtenues.
 
-  - 3: Fellow travelers
+  - 3 : Autres voyageurs
 
-  - 4: Temporary setback
+  - 4 : Contretemps
 
-  - 5: Powerful [adversaries](Using%20Adversaries.md)
+  - 5 : [Adversaires](Using%20Adversaries.md) puissants
 
-  - 6: Extreme weather
+  - 6 : Météo extrême
 
-  - 7: Potential [adversaries](Using%20Adversaries.md)
+  - 7 : [Adversaires](Using%20Adversaries.md) potentiels
 
-  - 8: Territorial beast or pack of creatures
+  - 8 : Bête territoriale ou meute de créatures
 
-  - 9: Environmental hazard or obstacle
+  - 9 : Danger ou obstacle environnemental
 
-  - 10: Enemy [NPCs](Making%20Moves.md#RUNNING%20GM%20NPCS)
+  - 10 : [PNJ](Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) ennemis
 
-  - 11: Wondrous or dangerous site
+  - 11 : Site merveilleux ou dangereux
 
-  - 12: Lucky break
+  - 12 : Coup de chance
 
-  - 13: Settlement or outpost
+  - 13 : Agglomération ou avant-poste
 
-  - 14: Loot or treasure
+  - 14 : Butin ou trésor
 
-- Roll a **d4** to determine the terrain of the region, which determines how many Travel Days it takes the party to travel into the hex:
+- Lancez un **d4** pour déterminer le terrain de la région, qui détermine combien de Jours de voyage il faut au groupe pour pénétrer dans l’hexagone :
 
-  - 1: Optimal (1 full day of traveling)
+  - 1 : Optimal (1 journée complète de voyage)
 
-  - 2: Fair (2 full days of traveling)
+  - 2 : Correct (2 journées complètes de voyage)
 
-  - 3: Rough (3 full days of traveling)
+  - 3 : Difficile (3 journées complètes de voyage)
 
-  - 4: Extreme (4 full days of traveling)
+  - 4 : Extrême (4 journées complètes de voyage)
 
-- Roll a **d100** to determine a rumor that the party might hear about this region referencing the result against the Rumors table from the "Journey to Horizon" campaign frame or a list of 100 rumors you create on your own.. You decide how true the rumor is and whether the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) learn it.
+- Lancez un **d100** pour déterminer une rumeur que le groupe pourrait entendre au sujet de cette région, en comparant le résultat à la table de Rumeurs du cadre de campagne « Voyage vers l’horizon » ou à une liste de 100 rumeurs que vous créez vous-même. Vous décidez de la part de vérité de la rumeur et si les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) l’apprennent.
 
-**TRACKING THE PARTY’S LOCATION**
+**SUIVRE LA POSITION DU GROUPE**
 
-The party tracks its movement with the player-facing map using the following procedure. This procedure assumes the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) are capable wayfinders and trailblazers, so they know the contents of the hex they are in (their “current hex”) and any hex adjacent to it. If an adjacent hex contains a non-hidden point of interest, such as a tower, the PCs are usually aware of it as well. Together, this gives the players enough information to decide which way to proceed. As always, the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) decides how much information they convey to the players.
+Le groupe suit ses déplacements sur la carte destinée aux joueurs selon la procédure suivante. Cette procédure suppose que les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) sont de bons guides et des pionniers capables, de sorte qu’ils connaissent le contenu de l’hexagone où ils se trouvent (leur « hexagone actuel ») et de tout hexagone qui lui est adjacent. Si un hexagone adjacent contient un point d’intérêt non caché, comme une tour, les PJ en ont généralement connaissance eux aussi. Ensemble, cela donne aux joueurs assez d’informations pour décider de la direction à prendre. Comme toujours, le [MJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) décide de la quantité d’informations qu’il transmet aux joueurs.
 
-**TRAVEL DAYS**
+**JOURS DE VOYAGE**
 
-This system assumes that, on a full day of traveling, the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) complete the following tasks:
+Ce système suppose que, lors d’une journée complète de voyage, les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) accomplissent les tâches suivantes :
 
-1. Break camp, eat breakfast, and pack up shortly before sunrise
+1. Lever le camp, prendre le petit-déjeuner et plier bagage peu avant le lever du soleil
 
-2. Travel overland for about 6–8 hours
+2. Voyager par voie de terre pendant environ 6 à 8 heures
 
-3. Take a short break at midday to eat and get their bearings
+3. Faire une courte pause à midi pour manger et se repérer
 
-4. Travel overland for another 6–8 hours until about sundown
+4. Voyager par voie de terre pendant encore 6 à 8 heures, jusqu’au coucher du soleil environ
 
-5. Make camp, prepare and eat dinner, set a watch, and bed down for the night
+5. Établir le camp, préparer et prendre le dîner, organiser un tour de garde et se coucher pour la nuit
 
-As needed, various party members scout ahead, forage and hunt, refill waterskins, repair gear, and keep watch. If you like, you can narrate or even roleplay these activities, but you don’t need to spend valuable table time describing or tracking these events if your group doesn’t find them interesting or engaging.
+Selon les besoins, divers membres du groupe partent en éclaireurs, cherchent de quoi se nourrir et chassent, remplissent les gourdes, réparent l’équipement et montent la garde. Si vous le souhaitez, vous pouvez narrer ces activités, voire les jouer, mais vous n’avez pas besoin de consacrer un temps de table précieux à les décrire ou à les suivre si votre groupe ne les trouve ni intéressantes ni captivantes.
 
-**RESOURCES & RESTING**
+**RESSOURCES ET REPOS**
 
-This procedure doesn’t meticulously track rations or other supplies. Travel moves at the pace of the story, and the party’s resources are tracked via rests. Outside a safe place, such as a sanctuary or permanent settlement, the party can only take [short rests](Core%20Mechanics.md#DOWNTIME), each of which represents an entire day spent in one location. Inside a safe place, the party can take a [long rest](Core%20Mechanics.md#DOWNTIME), which represents multiple days recovering from hard travel and rough sleeping.
+Cette procédure ne suit pas méticuleusement les rations ou autres provisions. Le voyage avance au rythme de l’histoire, et les ressources du groupe sont suivies par le biais des repos. En dehors d’un lieu sûr, comme un sanctuaire ou une agglomération permanente, le groupe ne peut prendre que des [repos courts](Core%20Mechanics.md#TEMPS%20DE%20REPOS), dont chacun représente une journée entière passée au même endroit. Dans un lieu sûr, le groupe peut prendre un [repos long](Core%20Mechanics.md#TEMPS%20DE%20REPOS), qui représente plusieurs jours de récupération après un voyage éprouvant et des nuits à la dure.
 
-Remember that the term “rest” has a specific mechanical meaning in Daggerheart. Within the fiction, the party still rests (in the colloquial sense) most nights spent in the wilderness, but they don’t gain the mechanical benefits of a [short rest](Core%20Mechanics.md#DOWNTIME) every time they go to sleep. When the party takes three short rests in a row, their next rest must be a [long rest](Core%20Mechanics.md#DOWNTIME) (see XX).
+Rappelez-vous que le terme « repos » a un sens mécanique précis dans Daggerheart. Dans la fiction, le groupe se repose quand même (au sens courant) la plupart des nuits passées dans la nature, mais il ne gagne pas les bienfaits mécaniques d’un [repos court](Core%20Mechanics.md#TEMPS%20DE%20REPOS) chaque fois qu’il s’endort. Quand le groupe prend trois repos courts de suite, son repos suivant doit être un [repos long](Core%20Mechanics.md#TEMPS%20DE%20REPOS) (voir XX).
 
-**ENCOUNTER ROLLS**
+**JETS DE RENCONTRE**
 
-When the party enters a hex, roll a number of d6s equal to the hex’s terrain rating. If any of the dice show a result of 1, activate an encounter you designed during region creation. Otherwise, you can spend [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR) to activate an encounter. You can also change the size of the dice you roll to reflect more dangerous (d4) or safer (d8) areas.
+Quand le groupe entre dans un hexagone, lancez un nombre de d6 égal à la cote de terrain de l’hexagone. Si l’un des dés affiche un 1, activez une rencontre que vous avez conçue lors de la création de la région. Sinon, vous pouvez dépenser une [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour activer une rencontre. Vous pouvez aussi changer la taille des dés que vous lancez pour refléter des zones plus dangereuses (d4) ou plus sûres (d8).
 
-The party can trigger more than one encounter in a single region. If this happens, either roll on the Encounter table to generate a new encounter in the moment or shift an encounter from a region that the party seems unlikely to pass through, then modify or reflavor it to suit the current situation.
+Le groupe peut déclencher plus d’une rencontre dans une même région. Si cela arrive, lancez les dés sur la table de Rencontres pour générer une nouvelle rencontre sur le moment, ou déplacez une rencontre d’une région que le groupe semble peu susceptible de traverser, puis modifiez-la ou changez son habillage pour l’adapter à la situation du moment.
 
-**ENDURANCE [COUNTDOWNS](Making%20Moves.md#COUNTDOWNS) (OPTIONAL)**
+**[COMPTES À REBOURS](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) D’ENDURANCE (FACULTATIF)**
 
-You can heighten the tension of wilderness travel by giving each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) an Endurance [Countdown](Making%20Moves.md#COUNTDOWNS) (6) at the end of a rest. When the party enters a wilderness hex, each player rolls their [Hope Die](Core%20Mechanics.md#OVERVIEW). If the result is equal to or lower than the value of their PC’s Endurance Countdown, they mark a [Stress](Core%20Mechanics.md#STRESS). Otherwise, they tick down their Endurance Countdown. When a PC’s Endurance Countdown triggers, they become *[Vulnerable](Core%20Mechanics.md#STANDARD%20CONDITIONS)* until their next rest. At the start of a rest, all PCs’ Endurance Countdowns end.
+Vous pouvez accroître la tension des voyages en pleine nature en donnant à chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) un [compte à rebours](Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) d’Endurance (6) à la fin d’un repos. Quand le groupe entre dans un hexagone sauvage, chaque joueur lance son [dé d’Espoir](Core%20Mechanics.md#APER%C3%87U). Si le résultat est égal ou inférieur à la valeur du compte à rebours d’Endurance de son PJ, il marque un [Stress](Core%20Mechanics.md#STRESS). Sinon, il fait descendre son compte à rebours d’Endurance. Quand le compte à rebours d’Endurance d’un PJ se déclenche, il devient *[Vulnérable](Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à son prochain repos. Au début d’un repos, tous les comptes à rebours d’Endurance des PJ prennent fin.
 
-**TRAVELING OVER WATER**
+**VOYAGER SUR L’EAU**
 
-For travel on rivers and oceans, use the standard travel mechanics with the following changes and clarifications:
+Pour les voyages sur les rivières et les océans, utilisez les mécaniques de voyage standard avec les modifications et précisions suivantes :
 
-- **Rivers.** The party can travel across overland hexes with navigable rivers if they acquire passage on an appropriate vehicle (usually a boat). Moving downstream reduces the terrain rating of the hex the party enters by 1. For example, entering a hex with rough terrain would take two days instead of three. Traveling upstream increases the terrain rating of the next hex by 1.
+- **Rivières.** Le groupe peut traverser des hexagones terrestres comportant des rivières navigables s’il obtient un passage sur un véhicule approprié (généralement un bateau). Descendre le courant réduit de 1 la cote de terrain de l’hexagone dans lequel entre le groupe. Par exemple, entrer dans un hexagone au terrain difficile prendrait deux jours au lieu de trois. Remonter le courant augmente de 1 la cote de terrain de l’hexagone suivant.
 
-- **Ocean.** The party can travel through ocean hexes if they acquire passage on an appropriate vehicle (usually a ship). When the party enters an ocean hex, roll a **d4** to determine the weather they encounter:
+- **Océan.** Le groupe peut traverser des hexagones océaniques s’il obtient un passage sur un véhicule approprié (généralement un navire). Quand le groupe entre dans un hexagone océanique, lancez un **d4** pour déterminer la météo qu’il rencontre :
 
-  - On a result of 1, the party gets a **tailwind**, and entering the hex takes a day.
+  - Sur un résultat de 1, le groupe profite d’un **vent arrière**, et entrer dans l’hexagone prend un jour.
 
-  - On a result of 2, the party enjoys **fair weather**, and entering the hex takes two days.
+  - Sur un résultat de 2, le groupe profite d’un **beau temps**, et entrer dans l’hexagone prend deux jours.
 
-  - On a result of 3, the party encounters **rough waters**, and entering the hex takes three days.
+  - Sur un résultat de 3, le groupe rencontre des **eaux agitées**, et entrer dans l’hexagone prend trois jours.
 
-  - On a result of 4, the party encounters **extreme weather**, and entering the hex takes four days.
+  - Sur un résultat de 4, le groupe rencontre une **météo extrême**, et entrer dans l’hexagone prend quatre jours.
 
-**DOOM TRACKS**
+**PISTES DE FATALITÉ**
 
-You can use a Doom Track to represent the growing disasters that might befall your group’s setting if the party acts too slowly. You can make your own Doom Track using the example track available in *[Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) & [Fear](Core%20Mechanics.md#HOPE%20&%20FEAR)* or at daggerheart.com/ downloads for inspiration.
+Vous pouvez utiliser une Piste de fatalité pour représenter les catastrophes grandissantes qui pourraient s’abattre sur le cadre de votre groupe si celui-ci agit trop lentement. Vous pouvez créer votre propre Piste de fatalité en vous inspirant de l’exemple disponible dans *[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et [Peur](Core%20Mechanics.md#ESPOIR%20ET%20PEUR)* ou sur daggerheart.com/ downloads.
 
-To use a Doom Track, mark a box in the party’s [tier](Core%20Mechanics.md#LEVELING%20UP) or below at the end of each session. You can’t mark a nested box until you mark the box it’s nested under. As your table’s story develops, you can adjust how many boxes you mark at the end of a session.
+Pour utiliser une Piste de fatalité, marquez une case au [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) du groupe ou en dessous à la fin de chaque séance. Vous ne pouvez pas marquer une case imbriquée avant d’avoir marqué la case sous laquelle elle est imbriquée. À mesure que l’histoire de votre table se développe, vous pouvez ajuster le nombre de cases que vous marquez à la fin d’une séance.
 
-**HABITAT-BASED FEATURES**
+**APTITUDES LIÉES À L’HABITAT**
 
-You can add the following habitat-based features to an [adversary](Using%20Adversaries.md):
+Vous pouvez ajouter les aptitudes liées à l’habitat suivantes à un [adversaire](Using%20Adversaries.md) :
 
-- ***Blighted – Passive.*** This [adversary](Using%20Adversaries.md) is corrupted by magic. When encountered within a similarly affected area, this adversary critically succeeds on attacks with a die roll of 18–20.
+- ***Flétri – Passif.*** Cet [adversaire](Using%20Adversaries.md) est corrompu par la magie. Quand on le rencontre dans une zone touchée de façon similaire, cet adversaire réussit de façon critique ses attaques sur un dé de 18 à 20.
 
-- ***Enviromancer – Passive.*** This [adversary](Using%20Adversaries.md) can draw upon the wild magic of their surroundings to fuel magical effects. **Mark a [Stress](Core%20Mechanics.md#STRESS)** to activate an effect based on the habitat of their current location (if an effect’s [damage roll](Core%20Mechanics.md#ATTACKING) uses the adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP), roll the damage die a number of times equal to their tier and total the results):
+- ***Enviromancien – Passif.*** Cet [adversaire](Using%20Adversaries.md) peut puiser dans la magie sauvage de son environnement pour alimenter des effets magiques. **Marquez un [Stress](Core%20Mechanics.md#STRESS)** pour activer un effet fondé sur l’habitat de son emplacement actuel (si le [jet de dégâts](Core%20Mechanics.md#ATTAQUER) d’un effet utilise le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de l’adversaire, lancez le dé de dégâts un nombre de fois égal à son rang et additionnez les résultats) :
 
-  - **Heat Spell (Desert, Salt Flats, Volcano).** The [adversary](Using%20Adversaries.md) exudes oppressive supernatural heat. Each target within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on an [Instinct](Character%20Creation.md#STEP%203) [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail must mark a [Stress](Core%20Mechanics.md#STRESS) and take **d6** direct [magic damage](Core%20Mechanics.md#ATTACKING) using this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP).
+  - **Sort de chaleur (désert, salines, volcan).** L’[adversaire](Using%20Adversaries.md) dégage une chaleur surnaturelle oppressante. Chaque cible à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit réussir un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent doivent marquer un [Stress](Core%20Mechanics.md#STRESS) et subissent **d6** [dégâts magiques](Core%20Mechanics.md#ATTAQUER) directs, selon le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire.
 
-  - **Overgrowth Spell (Forest, Jungle).** This [adversary](Using%20Adversaries.md) unleashes a burst of branches, brambles, or vines in all directions. Each target within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make an [Agility](Character%20Creation.md#STEP%203) [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **d8** [physical damage](Core%20Mechanics.md#ATTACKING) using this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP) and are *[Restrained](Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they break free with a successful [Strength](Character%20Creation.md#STEP%203) Roll.
+  - **Sort de surcroissance (forêt, jungle).** Cet [adversaire](Using%20Adversaries.md) déchaîne une explosion de branches, de ronces ou de lianes dans toutes les directions. Chaque cible à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit faire un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **d8** [dégâts physiques](Core%20Mechanics.md#ATTAQUER), selon le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire, et sont *[Entravées](Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elles se libèrent avec un jet de [Force](Character%20Creation.md#%C3%89TAPE%203) réussi.
 
-  - **Wind Spell (Cliffs, Plains, Steppe).** A tornado surrounds this [adversary](Using%20Adversaries.md). Each target within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make a [Strength](Character%20Creation.md#STEP%203) [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **d8** [magic damage](Core%20Mechanics.md#ATTACKING) using this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP) and are pushed up to [Far](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Until this adversary takes damage, [attack rolls](Core%20Mechanics.md#ATTACKING) against them have [disadvantage](Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+  - **Sort de vent (falaises, plaines, steppe).** Une tornade entoure cet [adversaire](Using%20Adversaries.md). Chaque cible à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit faire un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **d8** [dégâts magiques](Core%20Mechanics.md#ATTAQUER), selon le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire, et sont repoussées jusqu’à portée [Loin](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Tant que cet adversaire ne subit pas de dégâts, les [jets d’attaque](Core%20Mechanics.md#ATTAQUER) contre lui ont un [désavantage](Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-  - **Ice Spell (Alpine, Glacier, Tundra).** This [adversary](Using%20Adversaries.md) unleashes daggers of ice. Make an attack against each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in front of this adversary within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets they succeed against take **d10** [magic damage](Core%20Mechanics.md#ATTACKING) using this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP) and are *Frostbitten* until they spend a [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR) to clear the condition. While *Frostbitten*, a PC gains a −1 penalty to their [Proficiency](Core%20Mechanics.md#ATTACKING).
+  - **Sort de glace (montagne alpine, glacier, toundra).** Cet [adversaire](Using%20Adversaries.md) déchaîne des dagues de glace. Faites une attaque contre chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) devant cet adversaire à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles l’attaque réussit subissent **d10** [dégâts magiques](Core%20Mechanics.md#ATTAQUER), selon le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire, et sont *Engelées* jusqu’à ce qu’elles dépensent un [Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour évacuer l’état. Tant qu’il est *Engelé*, un PJ subit un malus de −1 à sa [Maîtrise](Core%20Mechanics.md#ATTAQUER).
 
-  - Poison Spell (Moor, Swamp, Wetlands). A cloud of toxic spores explodes from this [adversary](Using%20Adversaries.md). Each [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on a [Strength](Character%20Creation.md#STEP%203) [Reaction Roll](Core%20Mechanics.md#SPECIAL%20ROLLS) or take **d6** [direct damage](Core%20Mechanics.md#ATTACKING) using this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP) and become *Nauseated* until they clear a [HP](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). While *Nauseated*, a PC can’t gain [Hope](Core%20Mechanics.md#HOPE%20&%20FEAR).
+  - Sort de poison (lande, marais, zones humides). Un nuage de spores toxiques explose autour de cet [adversaire](Using%20Adversaries.md). Chaque [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit réussir un [jet de réaction](Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](Character%20Creation.md#%C3%89TAPE%203) sous peine de subir **d6** [dégâts directs](Core%20Mechanics.md#ATTAQUER), selon le [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire, et de devenir *Nauséeux* jusqu’à ce qu’il évacue un [PV](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Tant qu’il est *Nauséeux*, un PJ ne peut pas gagner d’[Espoir](Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-  - **Stone Spell (Canyon, Mountain, Badlands).** This [adversary](Using%20Adversaries.md) gains a bonus to their [damage thresholds](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to their [tier](Core%20Mechanics.md#LEVELING%20UP) until they take [Severe damage](Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or use this feature again.
+  - **Sort de pierre (canyon, montagne, terres désolées).** Cet [adversaire](Using%20Adversaries.md) gagne un bonus à ses [seuils de dégâts](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal à son [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) jusqu’à ce qu’il subisse des [dégâts sévères](Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou utilise de nouveau cette aptitude.
 
-  - **Water Spell (Riverlands, Sea).** This [adversary](Using%20Adversaries.md) unleashes a geyser or tidal wave. Make an attack against all targets within [Very Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets they succeed against are pushed to [Close](Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of where they were and mark a number of [Stress](Core%20Mechanics.md#STRESS) equal to this adversary’s [tier](Core%20Mechanics.md#LEVELING%20UP).
+  - **Sort d’eau (régions fluviales, mer).** Cet [adversaire](Using%20Adversaries.md) déchaîne un geyser ou un raz-de-marée. Faites une attaque contre toutes les cibles à portée [Très proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles l’attaque réussit sont repoussées à portée [Proche](Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de leur position d’origine et marquent un nombre de [Stress](Core%20Mechanics.md#STRESS) égal au [rang](Core%20Mechanics.md#MONTER%20DE%20NIVEAU) de cet adversaire.

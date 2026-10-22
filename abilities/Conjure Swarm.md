@@ -1,7 +1,14 @@
-# Conjure Swarm
+---
+aliases:
+  - "Conjure Swarm"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Invoquer un essaim
 
-***Tekaira Armored Beetles:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to keep the beetles conjured after taking damage.
+*(VO : Conjure Swarm)*
 
-***Fire Flies:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against all [adversaries](../core_rules/Using%20Adversaries.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to deal **2d8+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to targets you succeeded against.
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+***Scarabées cuirassés Tekaira :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour invoquer des scarabées cuirassés qui vous encerclent. La prochaine fois que vous subissez des dégâts, réduisez leur gravité d’un seuil. Vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour conserver les scarabées invoqués après avoir subi des dégâts.
+
+***Lucioles :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre tous les [adversaires](../core_rules/Using%20Adversaries.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour infliger **2d8+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) aux cibles contre lesquelles vous avez réussi.

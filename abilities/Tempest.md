@@ -1,9 +1,16 @@
-# Tempest
+---
+aliases:
+  - "Tempest"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Tempête
 
-Choose one of the following tempests and make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against all targets within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets you succeed against experience its effects until the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) spends a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on their turn to end this spell.
+*(VO : Tempest)*
 
-- ***Blizzard***: Deal **2d20+8** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and targets are temporararily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).*
-- ***Hurricane***: Deal **3d10+10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and choose a direction the wind is blowing. Targets can’t move against the wind.
-- ***Sandstorm***: Deal **5d6+9** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Attacks made from beyond [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Choisissez l’une des tempêtes suivantes, puis faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre toutes les cibles situées à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles vous réussissez subissent ses effets jusqu’à ce que le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dépense une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pendant son tour pour mettre fin à ce sort.
+
+- ***Blizzard*** : infligez **2d20+8** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et les cibles sont temporairement [Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).
+- ***Ouragan*** : infligez **3d10+10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et choisissez la direction dans laquelle souffle le vent. Les cibles ne peuvent pas se déplacer contre le vent.
+- ***Tempête de sable*** : infligez **5d6+9** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les attaques effectuées au-delà de la portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) subissent un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).

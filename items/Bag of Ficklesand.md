@@ -1,3 +1,10 @@
-# Bag of Ficklesand
+---
+aliases:
+  - "Bag of Ficklesand"
+---
 
-You can convince this small bag of sand to be much heavier or lighter with a successful [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll (10). Additionally, on a successful [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll (10), you can blow a bit of sand into a target’s face to make them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+# Sac de sable capricieux
+
+*(VO : Bag of Ficklesand)*
+
+En réussissant un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (10), vous pouvez rendre ce petit sac de sable beaucoup plus lourd ou plus léger. De plus, en réussissant un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (10), vous pouvez souffler un peu de sable au visage d’une cible pour la rendre temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.

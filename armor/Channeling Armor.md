@@ -1,9 +1,16 @@
-# Channeling Armor
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Channeling Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Armure de canalisation
 
-### FEATURE
+*(VO : Channeling Armor)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Channeling:*** +1 to [Spellcast Rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Canalisation :*** +1 aux [jets d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)

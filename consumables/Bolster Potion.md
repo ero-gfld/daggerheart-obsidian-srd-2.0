@@ -1,3 +1,10 @@
-# Bolster Potion
+---
+aliases:
+  - "Bolster Potion"
+---
 
-You gain a +1 bonus to your next [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll.
+# Potion de renfort
+
+*(VO : Bolster Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

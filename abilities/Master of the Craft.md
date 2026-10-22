@@ -1,5 +1,12 @@
-# Master of the Craft
+---
+aliases:
+  - "Master of the Craft"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Maître artisan
 
-Gain a permanent +2 bonus to two of your [Experiences](../core_rules/Character%20Creation.md#STEP%207) or a permanent +3 bonus to one of your Experiences. Then place this card in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) permanently.
+*(VO : Master of the Craft)*
+
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Gagnez un bonus permanent de +2 à deux de vos [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207) ou un bonus permanent de +3 à l’une de vos Expériences. Placez ensuite cette carte de façon permanente dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

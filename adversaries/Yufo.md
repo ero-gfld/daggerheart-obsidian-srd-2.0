@@ -1,21 +1,21 @@
 # Yufo
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A large, interdimensional jellyfishlike creature that floats in and out of the timestream.*
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Une grande créature interdimensionnelle, semblable à une méduse, qui flotte dans le flux du temps et en sort.*
 
-**Motives & Tactics:** Exchange information about possible timelines, feed on heightened emotions, watch from the shadows
+**Motivations et tactiques :** Échanger des informations sur les lignes temporelles possibles, se nourrir des émotions exacerbées, observer depuis l’ombre
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/10 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −3 | **Tentacle Lash:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+3 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/10 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −3 | **Fouet tentaculaire :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+3 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Secrets +3, Floating Oddity +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Secrets +3, Curiosité flottante +3
 
-## FEATURES
+## APTITUDES
 
-***Telepathic - Passive:*** The Yufo can mentally communicate with creatures within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Télépathe - Passif :*** Le Yufo peut communiquer mentalement avec les créatures à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Psychic Strongbox - Passive:*** The Yufo is [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to abilities and features that would affect or alter its thoughts or emotions.
+***Coffre psychique - Passif :*** Le Yufo est [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les capacités et aptitudes qui affecteraient ou modifieraient ses pensées ou ses émotions.
 
-***Glitch Wave - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and choose up to three targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target must succeed on a [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become desynced from reality and have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on Instinct Rolls until they use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to ground their psyches in the now.
+***Vague de dérèglement - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et choisissez jusqu’à trois cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou se désynchroniser de la réalité et subir un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets d’Instinct, jusqu’à ce qu’elle utilise une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour ancrer son esprit dans le présent.
 
-***Temporal Corrosion - Reaction:*** When the Yufo succeeds on a standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Yufo excrete an entropic acid through its skin, giving the target a −2 penalty to their [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) until they use a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) to repair their armor.
+***Corrosion temporelle - Réaction :*** Quand le Yufo réussit une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour qu’il expulse à travers sa peau un acide entropique. La cible subit alors un malus de −2 à ses [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), jusqu’à ce qu’elle utilise une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) pour réparer son armure.

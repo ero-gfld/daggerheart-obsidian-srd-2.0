@@ -1,61 +1,68 @@
-# Poisoners Guild
+---
+aliases:
+  - "Poisoners Guild"
+---
 
-Play the Poisoners Guild if you want to debilitate your targets with punishing afflictions.
+# Guilde des empoisonneurs
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Poisoners Guild)*
 
-[Knowledge](../core_rules/Character%20Creation.md#STEP%203)
+Jouez la Guilde des empoisonneurs si vous voulez affaiblir vos cibles par des maux impitoyables.
 
-**FOUNDATION FEATURE**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Toxic Concoctions:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to place **1d4+1** tokens on this card. When you make a successful weapon attack, you can spend a token to afflict the target with a poison. You know these poisons:
+[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-- ***Ghost Petal:*** The target becomes temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+**APTITUDE DE FONDATION**
 
-- ***Grave Spore:*** The target must also mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Mixtures toxiques :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour placer **1d4+1** jetons sur cette carte. Quand vous réussissez une attaque avec une arme, vous pouvez dépenser un jeton pour infliger un poison à la cible. Vous connaissez ces poisons :
 
-- ***Leech Weed:*** You deal an extra **1d6** damage on this attack.
+- ***Pétale fantôme :*** La cible devient temporairement *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
 
-When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), clear all unspent tokens.
+- ***Spore de tombe :*** La cible doit aussi marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-**SPECIALIZATION FEATURES**
+- ***Herbe-sangsue :*** Vous infligez **1d6** dégâts supplémentaires avec cette attaque.
 
-***Poison Compendium:*** You also know these poisons:
+Quand vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), retirez tous les jetons non dépensés.
 
-- ***Midnight Vine:*** The target has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until it marks a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to clear this condition.
+**APTITUDES DE SPÉCIALISATION**
 
-- ***Gorgon Root:*** The target becomes temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+***Compendium de poisons :*** Vous connaissez aussi ces poisons :
 
-***Twin Fang:*** When you afflict a target *Marked for Death* with a poison you know, you can spend an additional token to also inflict the effect of a second poison you know.
+- ***Vigne de minuit :*** La cible a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) jusqu’à ce qu’elle marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour mettre fin à cet état.
 
-**MASTERY FEATURES**
+- ***Racine de gorgone :*** La cible devient temporairement *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
 
-***Venomancer:*** You also know these poisons:
+***Crocs jumeaux :*** Quand vous infligez un poison que vous connaissez à une cible *Marquée pour la mort*, vous pouvez dépenser un jeton supplémentaire pour lui infliger aussi l’effet d’un second poison que vous connaissez.
 
-- ***Blight Seed:*** The target gains a −3 penalty to their [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) until the end of the scene. This effect can’t stack.
+**APTITUDES D’EXCELLENCE**
 
-- ***Fear Leaf:*** You deal extra damage equal to the result of your [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW) on this attack.
+***Venimancien :*** Vous connaissez aussi ces poisons :
 
-- ***Corpse Thorn:*** The target gains [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [reaction rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) until the end of the scene.
+- ***Graine de flétrissure :*** La cible subit un malus de −3 à ses [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) jusqu’à la fin de la scène. Cet effet ne se cumule pas.
 
-***Adder’s Blessing:*** You are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to poisons and other toxins.
+- ***Feuille de peur :*** Vous infligez avec cette attaque des dégâts supplémentaires égaux au résultat de votre [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-**BACKGROUND QUESTIONS**
+- ***Épine de cadavre :*** La cible a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux [jets de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) jusqu’à la fin de la scène.
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***Bénédiction de la vipère :*** Vous êtes [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les poisons et autres toxines.
 
-- You once killed someone you were close to. What happened, and how did it change you?
+**QUESTIONS D’HISTORIQUE**
 
-- What organization trained you in the art of killing, and how did you become a member?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- Throughout your career, one target has eluded you. Who are they, and how have they slipped through your fingers?
+- Vous avez un jour tué quelqu’un dont vous étiez proche. Que s’est-il passé, et en quoi cela vous a-t-il changé ?
 
-**CONNECTIONS**
+- Quelle organisation vous a formé à l’art de tuer, et comment en êtes-vous devenu membre ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Tout au long de votre carrière, une cible vous a échappé. Qui est-ce, et comment s’est-elle glissée entre vos doigts ?
 
-- I’ve killed someone for you. Who were they?
+**LIENS**
 
-- How did you save me when I was on the brink of death? What have I promised you as repayment?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- What secret about myself did I tell you, and how did it change your view of me?
+- J’ai tué quelqu’un pour vous. Qui était-ce ?
+
+- Comment m’avez-vous sauvé quand j’étais au bord de la mort ? Que vous ai-je promis en remerciement ?
+
+- Quel secret sur moi-même vous ai-je confié, et comment a-t-il changé votre regard sur moi ?

@@ -1,3 +1,10 @@
-# Grindletooth Venom
+---
+aliases:
+  - "Grindletooth Venom"
+---
 
-You can apply this venom to a weapon that deals [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to add a d6 to your next [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.
+# Venin de Broyedent
+
+*(VO : Grindletooth Venom)*
+
+Vous pouvez appliquer ce venin sur une arme qui inflige des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour ajouter un d6 à votre prochain [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) avec cette arme.

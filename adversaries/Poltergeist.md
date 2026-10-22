@@ -1,19 +1,19 @@
 # Poltergeist
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A baleful, translucent spirit that possesses inanimate objects.*
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Un esprit funeste et translucide qui possède les objets inanimés.*
 
-**Motives & Tactics:** Flicker candles, rattle chains, shake windows, throw people around the room
+**Motivations et tactiques :** Faire vaciller les bougies, faire cliqueter les chaînes, secouer les fenêtres, projeter les gens à travers la pièce
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 9 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/None | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −1 | **Thrown Object:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+3 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 9 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/aucun | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 2 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −1 | **Objet lancé :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+3 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Spooky +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Lugubre +3
 
-## FEATURES
+## APTITUDES
 
-***Specter - Passive:*** The Poltergeist has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range through solid objects.
+***Spectre - Passif :*** Le Poltergeist a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour traverser les objets solides, sur une distance allant jusqu'à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Possessor - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Poltergeist inhabit a nonmagical object that is entirely within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, infusing the object with a ghostly glow. The next time the Poltergeist would take damage, the object is destroyed instead, and the Poltergeist is expelled from it.
+***Possesseur - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Poltergeist investisse un objet non magique entièrement situé à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), qui se met à luire d'une lueur spectrale. La prochaine fois que le Poltergeist devrait subir des dégâts, l'objet est détruit à sa place, et le Poltergeist en est expulsé.
 
-***Ghost Storm - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Poltergeist pull all unequipped nonmagical objects within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range into a violent vortex. Each target in that area must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **1d12+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage.
+***Tempête fantôme - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Poltergeist aspire, dans un tourbillon violent, tous les objets non magiques et non équipés situés à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible dans cette zone doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **1d12+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent subissent la moitié des dégâts.

@@ -1,23 +1,30 @@
-# Harbinger of Pestilence
+---
+aliases:
+  - "Harbinger of Pestilence"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A bloated and rotting agglomeration of wriggling insects and slugs formed into a single humanoid mass riding a worm-eaten horse.*
+# Avant-coureur de la Pestilence
 
-**Motives & Tactics:** Corrupt the pure, infect the weak, summon plague and disease
+*(VO : Harbinger of Pestilence)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 37/70 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 8  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Touch of Corruption:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d10+10 mag
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un amas humanoïde, gonflé et pourrissant, fait d’insectes et de limaces grouillants, qui chevauche un cheval rongé par les vers.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Rot +3
+**Motivations et tactiques :** Corrompre les purs, infecter les faibles, invoquer la peste et la maladie
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 37/70 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 8  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +8 | **Contact corrupteur :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d10+10 mag
 
-***Halo of Contagion - Passive:*** The Harbinger is *Contagious*. When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a *Contagious* creature takes an action, the PC rolls a **d6**. On a result of 1, the PC becomes *Contagious.* While *Contagious*, a PC has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) until they spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to clear the condition. *Contagious* [adversaries](../core_rules/Using%20Adversaries.md) are unaffected by the condition.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Pourriture +3
 
-***Mount - Passive:*** While the Harbinger is on their mount, they gain a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). When the Harbinger takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they’re knocked from their mount. If the Harbinger is unhorsed, their mount disappears until you **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to summon it again.
+## APTITUDES
 
-***Locust Swarm - Action:*** **Spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Harbinger conjure a swarm of locusts at a point within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of that point must either mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) or take **4d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and roll a **d6**. On a result of 1–2, the PC becomes *Contagious.*
+***Halo de contagion - Passif :*** L’Avant-coureur est *Contagieux*. Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une créature *Contagieuse* effectue une action, le PJ lance un **d6**. Sur un 1, le PJ devient *Contagieux.* Tant qu’il est *Contagieux*, un PJ a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les [jets d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION), jusqu’à ce qu’il dépense 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour lever cet état. Les [adversaires](../core_rules/Using%20Adversaries.md) *Contagieux* ne sont pas affectés par cet état.
 
-***Frog Spawn - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Harbinger conjure a clutch of diseased frogs inside the mouths of up to three [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each PC must succeed on a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **4d12** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and roll a **d6**. On a result of 1–3, the PC becomes *Contagious.*
+***Monture - Passif :*** Tant que l’Avant-coureur est sur sa monture, il gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Quand il subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il est désarçonné. S’il est désarçonné, sa monture disparaît jusqu’à ce que vous **marquiez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la faire apparaître de nouveau.
 
-***Plague Bringer - Action:*** **Mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** up to the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the scene. For each Stress you mark, the Harbinger summons **1d4** *Contagious* [Zombie Legions](Zombie%20Legion.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately [spotlights](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) one of them.
+***Nuée de sauterelles - Action :*** **Dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que l’Avant-coureur fasse surgir une nuée de sauterelles en un point à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de ce point doit soit marquer un [emplacement d’armure](../core_rules/Equipment.md#ARMURE), soit subir **4d10** [dégâts physiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER) et lancer un **d6**. Sur un résultat de 1 ou 2, le PJ devient *Contagieux.*
+
+***Frai de grenouilles - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que l’Avant-coureur fasse surgir une couvée de grenouilles malades dans la bouche d’au plus trois [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque PJ doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **4d12** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et lancer un **d6**. Sur un résultat de 1 à 3, le PJ devient *Contagieux.*
+
+***Porteur de peste - Action :*** **Marquez un nombre quelconque de [Stress](../core_rules/Core%20Mechanics.md#STRESS)**, dans la limite du nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dans la scène. Pour chaque Stress marqué, l’Avant-coureur invoque **1d4** [Légions de zombies](Zombie%20Legion.md) *Contagieuses* à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), et il en [met immédiatement une sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

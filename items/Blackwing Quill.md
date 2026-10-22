@@ -1,3 +1,10 @@
-# Blackwing Quill
+---
+aliases:
+  - "Blackwing Quill"
+---
 
-This writing quill never runs out of ink or needs to be sharpened.
+# Plume d’aile noire
+
+*(VO : Blackwing Quill)*
+
+Cette plume à écrire ne manque jamais d’encre et n’a jamais besoin d’être taillée.

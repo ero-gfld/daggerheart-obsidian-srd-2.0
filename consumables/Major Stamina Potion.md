@@ -1,3 +1,10 @@
-# Major Stamina Potion
+---
+aliases:
+  - "Major Stamina Potion"
+---
 
-Clear 1d4+2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+# Potion d’endurance majeure
+
+*(VO : Major Stamina Potion)*
+
+Évacuez 1d4+2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).

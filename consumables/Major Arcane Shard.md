@@ -1,3 +1,10 @@
-# Major Arcane Shard
+---
+aliases:
+  - "Major Arcane Shard"
+---
 
-You can make a [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll to throw this shard at a group of [adversaries](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets you succeed against take 4d20 [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Éclat arcanique majeur
+
+*(VO : Major Arcane Shard)*
+
+Vous pouvez effectuer un jet de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour lancer cet éclat sur un groupe d’[adversaires](../core_rules/Using%20Adversaries.md) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles vous réussissez subissent 4d20 [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

@@ -1,3 +1,10 @@
-# Gecko Gloves
+---
+aliases:
+  - "Gecko Gloves"
+---
 
-You can climb up vertical surfaces and across ceilings.
+# Gants gecko
+
+*(VO : Gecko Gloves)*
+
+Vous pouvez grimper le long des surfaces verticales et vous déplacer sur les plafonds.

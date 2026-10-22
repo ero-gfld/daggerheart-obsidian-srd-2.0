@@ -1,19 +1,26 @@
-# Landshark
+---
+aliases:
+  - "Landshark"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A quadrupedal shark that swims through the ground.*
+# Requin terrestre
 
-**Motives & Tactics:** Burrow, burst out of the ground, circle prey
+*(VO : Landshark)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 14/25 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Toothy Maw:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+2 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un requin à quatre pattes qui nage à travers le sol.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Subterranean +3, Bloodthirsty +2
+**Motivations et tactiques :** S’enfouir, jaillir du sol, encercler ses proies
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 14/25 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Gueule dentée :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+2 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Souterrain +3, Sanguinaire +2
 
 ## FEATURES
 
-***Burrowing - Passive:*** The Landshark can move through the ground as easily as over it. When the Landshark moves, it can choose to burrow or surface. While underground, the Landshark has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to all damage but can’t attack.
+***Fouissement - Passif :*** Le requin terrestre peut se déplacer dans le sol aussi aisément qu’à la surface. Lorsqu’il se déplace, il peut choisir de s’enfouir ou de remonter. Sous terre, il a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) à tous les dégâts, mais il ne peut pas attaquer.
 
-***Thick-Skinned - Passive:*** When the Landshark would be forced to mark any number of [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can mark an equal number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) instead.
+***Peau épaisse - Passif :*** Lorsque le requin terrestre devrait marquer des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez marquer à la place un nombre égal de [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Rending Chomp - Reaction:*** When the Landshark makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force the target to mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) without receiving its benefits (they can still use armor to reduce the damage).
+***Morsure déchirante - Réaction :*** Lorsque le requin terrestre réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer la cible à marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir les bénéfices (elle peut quand même utiliser son armure pour réduire les dégâts).

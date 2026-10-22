@@ -1,15 +1,22 @@
-# Cult Fang
+---
+aliases:
+  - "Cult Fang"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A professional killer-turned-cultist.*
+# Croc du culte
 
-**Motives & Tactics:** Capture sacrifices, isolate prey, rise in the ranks
+*(VO : Cult Fang)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/17 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Long Knife:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Tueur à gages passé au culte.*
 
-## FEATURES
+**Motivations et tactiques :** Capturer des sacrifices, isoler les proies, gravir les échelons
 
-***Shadow’s Embrace - Passive:*** The Fang can climb and walk on vertical surfaces. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move from one shadow to another within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/17 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Long couteau :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 phy
 
-***Pick Off the Straggler - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to cause a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making them temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. On a success, the target must mark a Stress.
+## APTITUDES
+
+***Étreinte de l’ombre - Passif :*** Le Croc peut grimper et marcher sur des surfaces verticales. **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour passer d’une ombre à une autre à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***S’en prendre au traînard - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) fasse un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203). En cas d’échec, la cible marque 2 Stress et est téléportée avec le Croc vers une ombre à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), ce qui la rend temporairement [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD). En cas de réussite, la cible marque un Stress.

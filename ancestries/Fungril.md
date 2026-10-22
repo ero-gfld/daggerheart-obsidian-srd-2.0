@@ -1,9 +1,9 @@
 # Fungril
 
-Fungril resemble humanoid mushrooms. They can be either more humanoid or more fungal in appearance, and they come in an assortment of colors, from earth tones to bright reds, yellows, purples, and blues. Fungril display an incredible variety of bodies, faces, and limbs, as there’s no single common shape among them. Even their heights range from a tiny 2 feet tall to a staggering 7 feet tall. While the common lifespan of a fungril is about 300 years, some have been reported to live much longer. They can communicate nonverbally, and many members of this ancestry use a mycelial array to chemically exchange information with other fungril across long distances.
+Les fungril ressemblent à des champignons humanoïdes. Ils peuvent être plus humanoïdes ou plus fongiques d’apparence, et leurs couleurs vont des tons terreux aux rouges, jaunes, violets et bleus éclatants. Les fungril présentent une incroyable variété de corps, de visages et de membres, car il n’existe aucune forme commune à tous. Même leur taille varie, d’à peine 2 pieds à 7 pieds stupéfiants. Si la durée de vie courante d’un fungril est d’environ 300 ans, certains auraient vécu bien plus longtemps. Ils peuvent communiquer sans paroles, et beaucoup de membres de cette ascendance utilisent un réseau mycélien pour échanger chimiquement des informations avec d’autres fungril sur de longues distances.
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
 
-***Fungril Network:*** Make an **[Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll (12)** to use your mycelial array to speak with others of your ancestry. On a success, you can communicate across any distance.
+***Réseau fungril :*** Faites un **jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (12)** pour utiliser votre réseau mycélien et parler avec d’autres membres de votre ascendance. En cas de réussite, vous pouvez communiquer à n’importe quelle distance.
 
-***Death Connection:*** While touching a corpse that died recently, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to extract one memory from the corpse related to a specific emotion or sensation of your choice.
+***Lien avec la mort :*** Tant que vous touchez un cadavre mort récemment, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour en extraire un souvenir lié à une émotion ou à une sensation précise de votre choix.

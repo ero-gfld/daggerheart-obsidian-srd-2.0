@@ -1,3 +1,10 @@
-# Deathseer’s Powder
+---
+aliases:
+  - "Deathseer’s Powder"
+---
 
-You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.
+# Poudre du devin funèbre
+
+*(VO : Deathseer’s Powder)*
+
+Vous pouvez saupoudrer cette poudre sur le cadavre d’une créature récemment décédée pour faire apparaître une reprise spectrale de sa dernière minute de vie.

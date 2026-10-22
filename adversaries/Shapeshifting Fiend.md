@@ -1,23 +1,30 @@
-# Shapeshifting Fiend
+---
+aliases:
+  - "Shapeshifting Fiend"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*An evil entity who impersonates a trusted figure.*
+# Démon métamorphe
 
-**Motives & Tactics:** Impersonate, sow discord, tempt betrayal
+*(VO : Shapeshifting Fiend)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/32 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 8  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS) Blade:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+3 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Une entité malveillante qui se fait passer pour une figure de confiance.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Manipulate +3, Mimic +2
+**Motivations et tactiques :** Usurper une identité, semer la discorde, tenter à la trahison
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 20/32 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 8  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Lame [cachée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+3 phy
 
-***Fiendish Nature - Passive:*** The Fiend has [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and can’t be fooled by magic illusions.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Manipulation +3, Imitation +2
 
-***Impersonate - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Fiend magically transform into a humanoid they have previously interacted with. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who targets the Fiend while they’re in the form of a person the PC cares for must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or the attack fails and the PC must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+## APTITUDES
 
-***Turn Invisible - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the Fiend *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they make an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) or take damage.
+***Nature infernale - Passif :*** Le Démon a une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et ne peut pas être dupé par des illusions magiques.
 
-***Backhanded Guidance - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) makes an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) while the Fiend is in the scene, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to add **1d6** to the result of their [Fear Die](../core_rules/Core%20Mechanics.md#OVERVIEW).
+***Usurpation - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Démon se transforme magiquement en humanoïde qu'il a déjà croisé. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui cible le Démon alors qu'il a la forme d'une personne chère à ce PJ doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d'[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sinon l'attaque échoue et le PJ doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Exposed! (Phase Change) - Reaction:*** When the Fiend is defeated or the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) discover its true identity, replace the Fiend with [Shapeshifting Fiend Revealed](Shapeshifting%20Fiend%20Revealed.md) and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Disparaître à la vue - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour rendre le Démon *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu'à ce qu'il effectue un [jet d'action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) ou subisse des dégâts.
+
+***Guidage hypocrite - Réaction :*** Lorsqu'un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) effectue un [jet d'action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) alors que le Démon est dans la scène, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour ajouter **1d6** au résultat de son [dé de Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U).
+
+***Démasqué ! (Changement de phase) - Réaction :*** Lorsque le Démon est vaincu ou que les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) découvrent sa véritable identité, remplacez le Démon par le [Démon métamorphe dévoilé](Shapeshifting%20Fiend%20Revealed.md) et mettez-le immédiatement [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

@@ -1,19 +1,26 @@
-# Triceratops
+---
+aliases:
+  - "Triceratops"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A large dinosaur that has an armored frill and three horns.*
+# Tricératops
 
-**Motives & Tactics:** Eat ferns, move in herds for protection, patrol the watering hole
+*(VO : Triceratops)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 14/28 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Horns:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d10+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un grand dinosaure à la collerette cuirassée et aux trois cornes.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Defender +3
+**Motivations et tactiques :** Brouter les fougères, se déplacer en troupeau pour se protéger, patrouiller près du point d’eau
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 14/28 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Cornes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d10+4 phy
 
-***Leathery Hide - Passive:*** When the Triceratops would be forced to mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of an equal number of HP.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Défenseur +3
 
-***Tail Swipe - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to choose up to three targets within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **5d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage.
+## APTITUDES
 
-***Bull Rush - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to choose a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The Triceratops moves into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with the target and makes an attack. On a success, deal **3d10** direct [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Peau coriace - Passif :*** Quand le Tricératops devrait marquer des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez **marquer un nombre quelconque de [Stress](../core_rules/Core%20Mechanics.md#STRESS)** à la place d’un nombre égal de PV.
+
+***Coup de queue - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour choisir jusqu’à trois cibles à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **5d6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent ne subissent que la moitié des dégâts.
+
+***Charge - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour choisir une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Le Tricératops se déplace à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible avec elle et attaque. En cas de réussite, infligez **3d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs.

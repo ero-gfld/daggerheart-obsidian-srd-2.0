@@ -1,3 +1,10 @@
-# Boots of Supple Mystique
+---
+aliases:
+  - "Boots of Supple Mystique"
+---
 
-While wearing these boots, you don’t leave tracks or footprints.
+# Bottes de mystique souple
+
+*(VO : Boots of Supple Mystique)*
+
+Tant que vous portez ces bottes, vous ne laissez ni traces ni empreintes.

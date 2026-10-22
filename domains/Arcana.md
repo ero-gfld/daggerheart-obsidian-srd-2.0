@@ -1,18 +1,25 @@
-# Arcana
+---
+aliases:
+  - "Arcana"
+---
 
-Arcana is the domain of **innate and instinctual magic.** Those who choose this path tap into the raw, enigmatic forces of the realms to manipulate both their own energy and the elements. Arcana offers wielders a volatile power, but it is incredibly potent when correctly channeled. The Arcana domain can be accessed by the **[Druid](../classes/Druid.md)** and **[Sorcerer](../classes/Sorcerer.md)** classes.
+# Arcanes
 
-### DOMAIN CARDS
+*(VO : Arcana)*
 
-| **Level** | **Option 1**                                             | **Option 2**                                               | **Option 3**                             |
-| --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
-| **1**     | [Rune Ward](../abilities/Rune%20Ward.md)                 | [Unleash Chaos](../abilities/Unleash%20Chaos.md)           | [Wall Walk](../abilities/Wall%20Walk.md) |
-| **2**     | [Cinder Grasp](../abilities/Cinder%20Grasp.md)           | [Floating Eye](../abilities/Floating%20Eye.md)             | —                                        |
-| **3**     | [Counterspell](../abilities/Counterspell.md)             | [Flight](../abilities/Flight.md)                           | —                                        |
-| **4**     | [Blink Out](../abilities/Blink%20Out.md)                 | [Preservation Blast](../abilities/Preservation%20Blast.md) | —                                        |
-| **5**     | [Chain Lightning](../abilities/Chain%20Lightning.md)     | [Premonition](../abilities/Premonition.md)                 | —                                        |
-| **6**     | [Rift Walker](../abilities/Rift%20Walker.md)             | [Telekinesis](../abilities/Telekinesis.md)                 | —                                        |
-| **7**     | [Arcana‑touched](../abilities/Arcana‑touched.md) | [Cloaking Blast](../abilities/Cloaking%20Blast.md)         | —                                        |
-| **8**     | [Arcane Reflection](../abilities/Arcane%20Reflection.md) | [Confusing Aura](../abilities/Confusing%20Aura.md)         | —                                        |
-| **9**     | [Earthquake](../abilities/Earthquake.md)                 | [Sensory Projection](../abilities/Sensory%20Projection.md) | —                                        |
-| **10**    | [Adjust Reality](../abilities/Adjust%20Reality.md)       | [Falling Sky](../abilities/Falling%20Sky.md)               | —                                        |
+Les Arcanes sont le domaine de la **magie innée et instinctive.** Ceux qui choisissent cette voie puisent dans les forces brutes et énigmatiques des royaumes pour manipuler leur propre énergie ainsi que les éléments. Les Arcanes confèrent à ceux qui les manient un pouvoir instable, mais d’une puissance redoutable lorsqu’il est correctement canalisé. Le domaine des Arcanes est accessible aux classes **[Druide](../classes/Druid.md)** et **[Ensorceleur](../classes/Sorcerer.md)**.
+
+### CARTES DE DOMAINE
+
+| **Niveau** | **Option 1**                                             | **Option 2**                                                         | **Option 3**                                       |
+| ---------- | -------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------- |
+| **1**      | [Garde runique](../abilities/Rune%20Ward.md)             | [Déchaîner le chaos](../abilities/Unleash%20Chaos.md)                | [Marche sur les murs](../abilities/Wall%20Walk.md) |
+| **2**      | [Étreinte de braise](../abilities/Cinder%20Grasp.md)     | [Œil flottant](../abilities/Floating%20Eye.md)                       | —                                                  |
+| **3**      | [Contresort](../abilities/Counterspell.md)               | [Vol](../abilities/Flight.md)                                        | —                                                  |
+| **4**      | [S’évanouir](../abilities/Blink%20Out.md)                | [Déflagration de préservation](../abilities/Preservation%20Blast.md) | —                                                  |
+| **5**      | [Foudre en chaîne](../abilities/Chain%20Lightning.md)    | [Prémonition](../abilities/Premonition.md)                           | —                                                  |
+| **6**      | [Arpenteur des failles](../abilities/Rift%20Walker.md)   | [Télékinésie](../abilities/Telekinesis.md)                           | —                                                  |
+| **7**      | [Touché par les Arcanes](../abilities/Arcana‑touched.md) | [Déflagration occultante](../abilities/Cloaking%20Blast.md)          | —                                                  |
+| **8**      | [Reflet arcanique](../abilities/Arcane%20Reflection.md)  | [Aura déroutante](../abilities/Confusing%20Aura.md)                  | —                                                  |
+| **9**      | [Séisme](../abilities/Earthquake.md)                     | [Projection sensorielle](../abilities/Sensory%20Projection.md)       | —                                                  |
+| **10**     | [Retoucher la réalité](../abilities/Adjust%20Reality.md) | [Ciel qui tombe](../abilities/Falling%20Sky.md)                      | —                                                  |

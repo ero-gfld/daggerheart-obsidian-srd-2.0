@@ -1,17 +1,24 @@
-# Merchant
+---
+aliases:
+  - "Merchant"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A finely dressed trader with a keen eye for financial gain.*
+# Marchand
 
-**Motives & Tactics:** Buy low and sell high, create demand, inflate prices, seek profit
+*(VO : Merchant)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −4 | **Club:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d4+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Un négociant élégamment vêtu, à l’œil vif pour le profit.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Shrewd Negotiator +3
+**Motivations et tactiques :** Acheter bas et vendre haut, créer la demande, gonfler les prix, chercher le profit
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −4 | **Massue :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d4+1 phy
+
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Négociateur avisé +3
 
 ## FEATURES
 
-***Preferential Treatment - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who succeeds on a [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on future Presence Rolls against the Merchant.
+***Traitement de faveur - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui réussit un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) contre le marchand obtient une réduction sur ses achats. Un PJ qui échoue à un jet de Présence contre le marchand doit payer davantage et a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) à ses prochains jets de Présence contre lui.
 
-***The Runaround - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls a 14 or lower on a [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll made against the Merchant, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Le détour - Passif :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) obtient 14 ou moins à un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) contre le marchand, il doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

@@ -1,23 +1,30 @@
-# Arch-Necromancer
+---
+aliases:
+  - "Arch-Necromancer"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A decaying mage adorned in dark, tattered robes.*
+# Archinécromant
 
-**Motives & Tactics:** Corrupt, decay, flee to fight another day, resurrect
+*(VO : Arch-Necromancer)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 21 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 33/66 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 8  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +6 | **Necrotic Blast:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d12+8 mag
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un mage en décomposition, vêtu de robes sombres et déchirées.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Forbidden [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3, Wisdom of Centuries +3
+**Motivations et tactiques :** Corrompre, décomposer, fuir pour combattre un autre jour, ressusciter
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 21 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 33/66 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 8  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +6 | **Déflagration nécrotique :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d12+8 mag
 
-***Dance of Death - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) **1d4** allies. Attacks they make while [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) in this way deal half damage, or full damage if you **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) interdit +3, Sagesse des siècles +3
 
-***Beam of Decay - Action:*** **Mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to cause all targets within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to make a [Strength](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **2d20+12** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). Targets who succeed take half damage. A target who marks 2 or more [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) must also mark **2 Stress** and becomes *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Open the Gates of Death - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon a [Zombie Legion](Zombie%20Legion.md), which appears at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Danse de la mort - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) **1d4** alliés. Les attaques qu’ils effectuent pendant qu’ils sont ainsi [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) infligent la moitié des dégâts, ou la totalité si vous **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)**.
 
-***Not Today, My Dears - Reaction:*** When the Necromancer has marked 7 or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have them teleport away to a safe location to recover. A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who succeeds on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll can trace the teleportation magic to their destination.
+***Rayon de décomposition - Action :*** **Marquez 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que toutes les cibles à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **2d20+12** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Les cibles qui réussissent subissent la moitié des dégâts. Une cible qui marque 2 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus doit aussi marquer **2 Stress** et devient *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle effectue un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Your Life Is Mine - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (Loop 2d6)*. When the Necromancer has marked 6 or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), activate the countdown. When it triggers, deal **2d10+6** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The Necromancer then **clears a number of [Stress](../core_rules/Core%20Mechanics.md#STRESS) or HP** equal to the number of HP marked by the target from this attack.
+***Ouvrez les portes de la mort - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer une [Légion de zombies](Zombie%20Legion.md), qui apparaît à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et prend immédiatement [les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Pas aujourd’hui, mes chères - Réaction :*** Quand l’Archinécromant a marqué 7 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour le téléporter vers un lieu sûr où il pourra se rétablir. Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui réussit un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) peut suivre la magie de téléportation jusqu’à sa destination.
+
+***Votre vie m’appartient - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (Boucle 2d6)*. Quand l’Archinécromant a marqué 6 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, activez le compte à rebours. Quand il se déclenche, infligez **2d10+6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs à une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). L’Archinécromant **efface un nombre de [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou de PV** égal au nombre de PV marqués par la cible à cause de cette attaque.

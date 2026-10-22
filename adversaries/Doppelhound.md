@@ -1,17 +1,24 @@
-# Doppelhound
+---
+aliases:
+  - "Doppelhound"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A vicious magical canid that has glowing eyes and two barbed, whiplike tails. It confuses enemies by conjuring an illusory duplicate of itself.*
+# Chien-double
 
-**Motives & Tactics:** Ambush prey, kill for sport, play with food, trick and deceive
+*(VO : Doppelhound)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9/17 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Barbed Tail Whip:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+2 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Canidé magique et féroce aux yeux luisants et aux deux queues barbelées en forme de fouet. Il déroute ses ennemis en faisant surgir un double illusoire de lui-même.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Shadows +3
+**Motivations et tactiques :** Tendre une embuscade aux proies, tuer pour le plaisir, jouer avec sa nourriture, tromper et leurrer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9/17 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Coup de fouet caudal barbelé :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+2 phy
 
-***Blink Beast - Passive:*** When combat begins, place a duplicate within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Doppelhound. The Doppelhound occupies both its place and its duplicate’s. The duplicate can move when the Doppelhound is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), and the Doppelhound can target enemies with attacks as if it were in its duplicate’s place. When the Doppelhound or duplicate is attacked, the attacker rolls a d6. On an even result, they target the Doppelhound. On an odd result, they target the duplicate, and the attack fails. If an attack succeeds against the Doppelhound, the duplicate is dispelled until you **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to conjure it again.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Ombres +3
 
-***Double Strike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make two standard attacks. If both attacks succeed against the same target, combine the damage.
+## APTITUDES
+
+***Bête-leurre - Passif :*** Au début du combat, placez un double à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du chien-double. Le chien-double occupe à la fois sa place et celle de son double. Le double peut se déplacer quand le chien-double est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), et le chien-double peut viser des ennemis avec ses attaques comme s’il se trouvait à la place de son double. Quand le chien-double ou son double est attaqué, l’attaquant lance un d6. Sur un résultat pair, il vise le chien-double. Sur un résultat impair, il vise le double, et l’attaque échoue. Si une attaque réussit contre le chien-double, le double est dissipé jusqu’à ce que vous **dépensiez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour le faire réapparaître.
+
+***Double frappe - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour porter deux attaques standard. Si les deux attaques réussissent contre la même cible, additionnez les dégâts.

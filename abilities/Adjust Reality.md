@@ -1,5 +1,12 @@
-# Adjust Reality
+---
+aliases:
+  - "Adjust Reality"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Retoucher la réalité
 
-After you or a willing ally make any roll, you can **spend 5 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to change the numerical result of that roll to a result of your choice instead. The result must be plausible within the range of the dice.
+*(VO : Adjust Reality)*
+
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Après que vous ou un allié consentant avez fait un jet, vous pouvez **dépenser 5 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour changer le résultat numérique de ce jet en un résultat de votre choix. Ce résultat doit être plausible dans la fourchette des dés.

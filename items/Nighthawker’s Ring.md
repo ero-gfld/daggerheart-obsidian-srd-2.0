@@ -1,3 +1,10 @@
-# Nighthawker’s Ring
+---
+aliases:
+  - "Nighthawker’s Ring"
+---
 
-Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to activate the gemstone in this ring until the end of the scene. While active, the gemstone changes color to indicate the wearer’s proximity to hidden treasure: warm colors for near, cool colors for far.
+# Anneau du chasseur nocturne
+
+*(VO : Nighthawker’s Ring)*
+
+Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour activer la gemme de cet anneau jusqu’à la fin de la scène. Une fois activée, la gemme change de couleur pour indiquer à son porteur la proximité d’un trésor caché : couleurs chaudes quand il est proche, couleurs froides quand il est loin.

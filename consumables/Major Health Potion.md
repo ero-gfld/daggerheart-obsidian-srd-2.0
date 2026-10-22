@@ -1,3 +1,10 @@
-# Major Health Potion
+---
+aliases:
+  - "Major Health Potion"
+---
 
-Clear 1d4+2 [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+# Potion de soins majeure
+
+*(VO : Major Health Potion)*
+
+Libérez 1d4+2 [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

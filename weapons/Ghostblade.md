@@ -1,12 +1,19 @@
-# Ghostblade
+---
+aliases:
+  - "Ghostblade"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Lame fantôme
 
-- **Trait:** [Presence](../core_rules/Character%20Creation.md#STEP%203)
-- **Range:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)
-- **Damage:** d10+7 phy or mag
-- **[Burden](../core_rules/Equipment.md#WEAPONS):** [One-Handed](../core_rules/Equipment.md#WEAPONS)
+*(VO : Ghostblade)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-**_Otherworldly:_** On a successful attack, you can deal physical or [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+- **Caractéristique :** [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
+- **Portée :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)
+- **Dégâts :** d10+7 phy ou mag
+- **[Prise](../core_rules/Equipment.md#ARMES) :** [À une main](../core_rules/Equipment.md#ARMES)
+
+### APTITUDE
+
+**_D’outre-monde :_** Sur une attaque réussie, vous pouvez infliger des [dégâts physiques ou magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).

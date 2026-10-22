@@ -1,23 +1,30 @@
-# Frost Titan
+---
+aliases:
+  - "Frost Titan"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A blue-skinned goliath who has rimed hair and wears trophies of past battles.*
+# Titan de givre
 
-**Motives & Tactics:** Claim trophies, raid and pillage, test mettle
+*(VO : Frost Titan)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 22/40 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Dual Axes:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+2 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un goliath à la peau bleue et aux cheveux couverts de givre, qui porte les trophées de ses anciens combats.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Cold +3, War +3
+**Motivations et tactiques :** Réclamer des trophées, piller et ravager, éprouver la valeur des autres
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 22/40 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Deux haches :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10+2 phy
 
-***Relentless (2) - Passive:*** The Titan can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Froid +3, Guerre +3
 
-***War Horn - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to succeed on a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or mark a Stress and become *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until after the next attack against them.
+## APTITUDES
 
-***Bull Rush - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **4d10+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and knock the target back to Close range.
+***Implacable (2) - Passif :*** Le Titan peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Cleaving Strike - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) marks [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from the Titan’s standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force another PC within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range who the attack would have succeeded against to mark the same number of HP.
+***Cor de guerre - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour contraindre chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203), sous peine de marquer un Stress et de devenir *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’après la prochaine attaque contre lui.
 
-***Trophy Hunter - Reaction:*** When the Titan defeats a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), the Titan takes the PC’s most valuable possession as a trophy.
+***Charge brutale - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour avancer jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et effectuer un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **4d10+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et repoussez la cible jusqu’à portée Proche.
+
+***Frappe tranchante - Réaction :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) marque des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause de l’attaque standard du Titan, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour obliger un autre PJ à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), contre qui l’attaque aurait réussi, à marquer le même nombre de PV.
+
+***Chasseur de trophées - Réaction :*** Lorsque le Titan vainc un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), le Titan prend le bien le plus précieux de ce PJ comme trophée.

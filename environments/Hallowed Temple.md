@@ -1,23 +1,30 @@
-# Hallowed Temple
+---
+aliases:
+  - "Hallowed Temple"
+---
 
-***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A bustling but well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.*
+# Temple sacré
 
-**Impulses:** Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful
+*(VO : Hallowed Temple)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Guards ([Archer Guard](../adversaries/Archer%20Guard.md), [Bladed Guard](../adversaries/Bladed%20Guard.md), [Head Guard](../adversaries/Head%20Guard.md))
+***[Rang 2](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Un temple animé mais bien entretenu, qui soigne les malades et accueille des offices réguliers, placé sous la direction d’un prêtre ou d’un séraphin.*
 
-## FEATURES
+**Pulsions :** relier le Royaume mortel aux Hallows d’en haut, montrer la puissance du divin, offrir aide et secours aux fidèles
 
-***A Place of Healing - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who takes a rest in the Hallowed Temple automatically clears all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). *What does the incense smell like? What kinds of songs do the* *acolytes sing?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Gardes ([Garde archer](../adversaries/Archer%20Guard.md), [Garde à lames](../adversaries/Bladed%20Guard.md), [Garde en chef](../adversaries/Head%20Guard.md))
 
-***Divine Guidance - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who prays to a deity while in the Hallowed Temple can make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll to receive answers. If the god they beseech isn’t welcome in this temple, the roll is made with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+## APTITUDES
 
-- **[Critical Success](../core_rules/Core%20Mechanics.md#OVERVIEW):** The [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gains clear information. Additionally, they gain **1d4** [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), which can be distributed between the party if they share the vision and guidance they received.
-- **[Success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW):** The [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) receives clear information.
-- **[Success with Fear](../core_rules/Core%20Mechanics.md#OVERVIEW):** The [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) receives brief flashes of insight and an emotional impression conveying an answer.
-- **Any Failure:** The [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) receives only vague flashes. They can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to receive one clear image without context. *What does it feel like as you are touched by this vision? What feeling* *lingers after the images have passed?*
+***Un lieu de guérison - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui prend un repos dans le Temple sacré efface automatiquement tous ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). *Quelle odeur a l’encens ? Quelles chansons les acolytes entonnent-ils ?*
 
-***Relentless Hope - Reaction:*** Once per scene, each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to turn a result with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) into a result with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). *What emotions or memories do you connect with when fear* *presses in?*
+***Guidance divine - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui prie une divinité dans le Temple sacré peut faire un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour recevoir des réponses. Si le dieu qu’il implore n’est pas le bienvenu dans ce temple, le jet est fait avec un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-***Divine Censure - Reaction:*** When the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) have trespassed, blasphemed, or offended the clergy, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon a [High Seraph](../adversaries/High%20Seraph.md) and **1d4** [Bladed Guards](../adversaries/Bladed%20Guard.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the senior priest to reinforce their will. *What symbols or icons do they bear that signal they are anointed* *agents of the divinity? Who leads the group and what led them* *to this calling?*
+- **[Réussite critique](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** Le [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) obtient des informations claires. De plus, il gagne **1d4** [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), qui peuvent être répartis entre le groupe s’ils partagent la vision et la guidance reçues.
+- **[Succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** Le [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) reçoit des informations claires.
+- **[Succès avec la Peur](../core_rules/Core%20Mechanics.md#APER%C3%87U) :** Le [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) reçoit de brefs éclairs d’intuition et une impression émotionnelle qui transmet une réponse.
+- **Tout échec :** Le [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne reçoit que des visions floues. Il peut marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour recevoir une image claire, sans contexte. *Qu’est-ce que cela fait d’être touché par cette vision ? Quelle impression demeure quand les images s’effacent ?*
+
+***Espoir implacable - Réaction :*** Une fois par scène, chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour transformer un résultat avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) en résultat avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). *Quelles émotions ou quels souvenirs vous rattachez-vous quand la peur vous gagne ?*
+
+***Censure divine - Réaction :*** Quand les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ont transgressé, blasphémé ou offensé le clergé, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer un [Haut séraphin](../adversaries/High%20Seraph.md) et **1d4** [Gardes à lames](../adversaries/Bladed%20Guard.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du grand prêtre pour renforcer sa volonté. *Quels symboles ou emblèmes portent-ils qui les désignent comme des agents oints de la divinité ? Qui les dirige, et qu’est-ce qui les a menés à cette vocation ?*

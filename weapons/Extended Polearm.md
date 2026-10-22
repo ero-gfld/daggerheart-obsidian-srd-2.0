@@ -1,9 +1,16 @@
-# Extended Polearm
+---
+aliases:
+  - "Extended Polearm"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Arme d’hast allongée
 
-*[Finesse](../core_rules/Character%20Creation.md#STEP%203)* · *[Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+10 phy* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Extended Polearm)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Long:*** This weapon’s attack targets all [adversaries](../core_rules/Using%20Adversaries.md) in a line within range.
+*[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+10 phy* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Long :*** L’attaque de cette arme cible tous les [adversaires](../core_rules/Using%20Adversaries.md) situés sur une ligne à portée.

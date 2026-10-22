@@ -1,20 +1,27 @@
-# Realm of the Dead
+---
+aliases:
+  - "Realm of the Dead"
+---
 
-***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***
-*A seemingly infinite expanse of still water without color or laughter.*
+# Royaume des morts
 
-**Impulses:** Drown in despair, leech life, tempt into endless slumber
+*(VO : Realm of the Dead)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Any (see “Death-Touched Denizens”)
+***[Rang 4](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Traversée](../core_rules/Using%20Environments.md)***
+*Une étendue apparemment infinie d’eau immobile, sans couleur ni rire.*
 
-## FEATURES
+**Pulsions :** Noyer dans le désespoir, drainer la vie, attirer vers un sommeil sans fin
 
-***Sea of Gloom - Passive:*** This realm is a boundless silver ocean blanketed in a gray gloom with no visible stars or horizon. The subtle current pulls inexorably at the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’ legs, but it’s too gentle to disturb the flat, mirrored surface of the water. [Action rolls](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) to navigate this realm have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). *What dangers lie below the surface? How does one find the edge of a* *world without end, and what lies beyond it?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Tous (voir « Habitants touchés par la mort »)
 
-***The Burden of Wakefulness - Passive:*** It’s impossible to sleep here. When the party rests, each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can choose only one [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME). *What thoughts keep the PCs awake here? How can they support one* *another without succumbing to hopelessness themselves?*
+## APTITUDES
 
-***Death-Touched Denizens - Passive:*** All mortal creatures eventually pass through this place on their journey to the other side, but those who linger or wander become warped and mutated by the gloom. Any [adversaries](../core_rules/Using%20Adversaries.md) the party encounters here are *Faded*. Describe how their time here has warped them into something worse than dead. When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) takes damage from a *Faded* [adversary](../core_rules/Using%20Adversaries.md)’s attack, they must also mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). If a PC is defeated here, they become a *Faded* adversary controlled by the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) instead of making a [death move](../core_rules/Core%20Mechanics.md#DEATH). *Why do these creatures refuse to move on? Is there any pattern to the* *forms the gloom fades them into?*
+***Mer de brume - Passif :*** Ce royaume est un océan d’argent sans bornes, recouvert d’une brume grise où ne se voient ni étoiles ni horizon. Un courant discret tire sans relâche sur les jambes des [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), mais il est trop doux pour troubler la surface plane et miroitante de l’eau. Les [jets d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) pour se repérer dans ce royaume se font avec [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). *Quels dangers se cachent sous la surface ? Comment trouver le bord d’un monde sans fin, et que trouve-t-on au-delà ?*
 
-***The Chill of Death - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to make a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) as the Sea of Gloom leeches the warmth from their blood and bones. On a failure, they take **4d10** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). On a success, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). *What does it feel like to have the will to live forcibly drained from* *you? How do you focus through the despair?*
+***Le poids de l’éveil - Passif :*** Il est impossible de dormir ici. Lorsque le groupe se repose, chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne peut choisir qu’une seule [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS). *Quelles pensées tiennent les PJ éveillés ici ? Comment peuvent-ils se soutenir les uns les autres sans céder eux-mêmes au désespoir ?*
 
-***Abandon All Hope - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) spends [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) in the Realm of the Dead, they must roll a **d6**. On an odd result, they must spend an additional Hope or lose the benefit of the Hope they already spent. *What regrets gnaw at the edge of your consciousness while you’re* *here? What memories still tether you to the Mortal Realm?*
+***Habitants touchés par la mort - Passif :*** Toutes les créatures mortelles finissent par traverser ce lieu sur leur chemin vers l’autre rive, mais celles qui s’attardent ou qui errent s’y déforment, tordues par la brume. Les [adversaires](../core_rules/Using%20Adversaries.md) que le groupe rencontre ici sont *Flétris*. Décrivez comment leur séjour les a transformés en quelque chose de pire qu’un mort. Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) subit des dégâts de l’attaque d’un [adversaire](../core_rules/Using%20Adversaries.md) *Flétri*, il doit aussi marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Si un PJ est vaincu ici, il devient un adversaire *Flétri* contrôlé par le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), au lieu de faire un [choix de mort](../core_rules/Core%20Mechanics.md#MORT). *Pourquoi ces créatures refusent-elles de partir ? Existe-t-il une logique dans les formes que la brume leur donne ?*
+
+***Le froid de la mort - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203), tandis que la mer de brume aspire la chaleur de son sang et de ses os. En cas d’échec, il subit **4d10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) directs. En cas de succès, il doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS). *Que ressent-on quand la volonté de vivre vous est arrachée de force ? Comment rester concentré à travers le désespoir ?*
+
+***Abandonner tout Espoir - Réaction :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dépense de l’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) dans le Royaume des morts, il doit lancer un **d6**. Sur un résultat impair, il doit dépenser un Espoir supplémentaire, sans quoi il perd le bénéfice de l’Espoir déjà dépensé. *Quels regrets vous rongent aux limites de votre conscience pendant que vous êtes ici ? Quels souvenirs vous retiennent encore au Royaume mortel ?*

@@ -1,9 +1,16 @@
-# Advanced Scale Mail Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Advanced Scale Mail Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 30  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Cotte d’écailles avancée
 
-### FEATURE
+*(VO : Advanced Scale Mail Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Cumbersome:*** −1 to [Finesse](../core_rules/Character%20Creation.md#STEP%203)
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 30  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Encombrant :*** −1 à la [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)

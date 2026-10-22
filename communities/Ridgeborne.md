@@ -1,9 +1,16 @@
-# Ridgeborne
+---
+aliases:
+  - "Ridgeborne"
+---
 
-Being part of a ridgeborne community means you’ve called the rocky peaks and sharp cliffs of the mountainside home. Those who’ve lived in the mountains often consider themselves hardier than most because they’ve thrived among the most dangerous terrain many continents have to offer. These groups are adept at adaptation, developing unique technologies and equipment to move both people and products across difficult terrain. As such, ridgeborne grow up scrambling and climbing, making them sturdy and strong-willed. Ridgeborne localities appear in a variety of forms—some cities carve out entire cliff faces, others construct castles of stone, and still more live in small homes on windblown peaks. Outside forces often struggle to attack ridgeborne groups, as the small militias and large military forces of the mountains are adept at utilizing their high-ground [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+# Né des crêtes
 
-*Ridgeborne are often bold, hardy, indomitable, loyal, reserved,* *and stubborn.*
+*(VO : Ridgeborne)*
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Faire partie d’une communauté de Nés des crêtes, c’est avoir fait son foyer sur les pics rocheux et les falaises abruptes des montagnes. Ceux qui vivent en altitude se considèrent souvent comme plus robustes que les autres, car ils prospèrent sur le terrain le plus dangereux que bien des continents puissent offrir. Ces groupes excellent à s’adapter : ils mettent au point des techniques et des équipements propres à transporter gens et marchandises sur des terrains difficiles. Les Nés des crêtes grandissent donc à escalader et à grimper, ce qui les rend solides et volontaires. Leurs implantations prennent des formes variées : certaines cités sont creusées dans des parois entières, d’autres bâtissent des châteaux de pierre, d’autres encore vivent dans de petites maisons battues par le vent au sommet des pics. Les forces extérieures peinent souvent à les attaquer, car leurs petites milices comme leurs grandes armées de montagne savent tirer parti de l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) du terrain en hauteur.
 
-***Steady:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls to traverse dangerous cliffs and ledges, navigate harsh [environments](../core_rules/Using%20Environments.md), and use your survival knowledge.
+*Les Nés des crêtes sont souvent audacieux, endurants, indomptables, loyaux, réservés* *et têtus.*
+
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Pas assuré :*** Vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets pour franchir des falaises et des corniches dangereuses, vous orienter dans des [environnements](../core_rules/Using%20Environments.md) hostiles et faire appel à vos connaissances de survie.

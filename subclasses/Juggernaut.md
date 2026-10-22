@@ -1,21 +1,28 @@
-# Juggernaut
+---
+aliases:
+  - "Juggernaut"
+---
 
-Play the Juggernaut if you want to pulverize your opponents with crushing blows.
+# Mastodonte
 
-**FOUNDATION FEATURES**
+*(VO : Juggernaut)*
 
-***Rugged:*** Gain a permanent +3 bonus to your [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) threshold.
+Jouez le Mastodonte si vous voulez pulvériser vos adversaires à coups écrasants.
 
-***Overwhelm:*** When you succeed on an attack against a target, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to throw the target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range or to force them to mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Robuste :*** Vous gagnez un bonus permanent de +3 à votre seuil de [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
 
-***Surrounded:*** When you make an attack with a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) weapon, you can **spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to target an equal number of additional creatures within Melee range.
+***Submerger :*** Quand vous réussissez une attaque contre une cible, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour projeter la cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ou pour la forcer à marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Eye for an Eye:*** Once per rest when an [adversary](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range forces you to mark any number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to mark the same number of Hit Points.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURE**
+***Encerclé :*** Quand vous faites une attaque avec une arme de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous voulez** pour viser autant de créatures supplémentaires à portée de Mêlée.
 
-***Pummeljoy:*** When you critically succeed on a [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) weapon attack, you gain an additional [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), clear an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS), and gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for that attack.
+***Œil pour œil :*** Une fois par repos, quand un [adversaire](../core_rules/Using%20Adversaries.md) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) vous force à marquer un certain nombre de [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour le forcer à marquer le même nombre de Points de vie.
 
-***Not Done Yet:*** When you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**APTITUDES D’EXCELLENCE**
+
+***Joie de cogner :*** Quand vous obtenez une réussite critique avec une attaque d’arme de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) supplémentaire, vous évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaire et vous gagnez un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.
+
+***Pas fini :*** Quand vous subissez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez gagner un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou évacuer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

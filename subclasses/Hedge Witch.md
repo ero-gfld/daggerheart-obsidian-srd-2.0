@@ -1,23 +1,30 @@
-# Hedge Witch
+---
+aliases:
+  - "Hedge Witch"
+---
 
-Play the Hedge Witch if you want to use your craft to empower yourself and your party.
+# Sorcière des haies
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Hedge Witch)*
 
-[Knowledge](../core_rules/Character%20Creation.md#STEP%203)
+Jouez la Sorcière des haies si vous voulez utiliser votre art pour vous renforcer, vous et votre groupe.
 
-**FOUNDATION FEATURES**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Herbal Remedies:*** When you or an ally in the scene clears 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](../core_rules/Core%20Mechanics.md#STRESS) as the result of using a consumable, increase the number cleared by 1.
+[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Enchanted Talisman:*** Once per rest, you can imbue a small item with your protective essence. **Spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to place an equal number of tokens on this card. When the person holding the talisman takes damage, spend a token to reduce the number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) they mark by one. Clear all tokens from this card when you take a rest.
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Remèdes à base de plantes :*** Quand vous ou un allié présent dans la scène évacuez 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou plus en utilisant un consommable, augmentez de 1 le nombre évacué.
 
-***Walk Between Worlds:*** During a moment of calm, make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (13)**. Once per rest on a success, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to step beyond the veil of death and converse with any nearby spirits. Place a number of tokens equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait on this card and remove one each time a spirit answers a question. When the last token is removed or at the end of the scene, you return to the Mortal Realm in the same spot you left it.
+***Talisman enchanté :*** Une fois par repos, vous pouvez imprégner un petit objet de votre essence protectrice. **Dépensez autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que vous voulez** pour placer autant de jetons sur cette carte. Quand la personne qui porte le talisman subit des dégâts, dépensez un jeton pour réduire d’un le nombre de [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) qu’elle marque. Retirez tous les jetons de cette carte quand vous prenez un repos.
 
-***Vexing Malison:*** You have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on attacks against *Hexed* creatures.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Marcher entre les mondes :*** Pendant un moment de calme, faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (13)**. Une fois par repos, en cas de réussite, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour franchir le voile de la mort et converser avec les esprits des environs. Placez sur cette carte un nombre de jetons égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) et retirez-en un chaque fois qu’un esprit répond à une question. Quand le dernier jeton est retiré ou à la fin de la scène, vous revenez dans le Royaume mortel, à l’endroit même où vous l’aviez quitté.
 
-***Circle of Power:*** Once per rest, mark a circle on the ground outlining a [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) area around you, and place a number of tokens equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait on this card. While within this circle, you and your allies gain a +2 bonus to [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING), and [Evasion](../core_rules/Core%20Mechanics.md#EVASION). Remove a token each time you or an ally within the circle makes an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) or evades an attack. This spell lasts until the last token is removed or you exit the circle.
+***Malédiction tenace :*** Vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur les attaques contre les créatures *Maudites*.
+
+**APTITUDES D’EXCELLENCE**
+
+***Cercle de pouvoir :*** Une fois par repos, tracez au sol un cercle délimitant une zone [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) autour de vous, et placez sur cette carte un nombre de jetons égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). Tant que vous et vos alliés êtes dans ce cercle, vous gagnez un bonus de +2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), à vos [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) et à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION). Retirez un jeton chaque fois que vous ou un allié dans le cercle faites un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) ou esquivez une attaque. Ce sort dure jusqu’au retrait du dernier jeton ou jusqu’à ce que vous quittiez le cercle.

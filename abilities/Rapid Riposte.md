@@ -1,5 +1,12 @@
-# Rapid Riposte
+---
+aliases:
+  - "Rapid Riposte"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Riposte rapide
 
-When an attack made against you from within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and seize the opportunity to deal the weapon damage of one of your active weapons to the attacker.
+*(VO : Rapid Riposte)*
+
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Quand une attaque faite contre vous depuis la [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) échoue, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** et saisir l’occasion pour infliger à l’attaquant les dégâts d’arme de l’une de vos armes actives.

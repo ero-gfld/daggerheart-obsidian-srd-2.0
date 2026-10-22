@@ -1,19 +1,26 @@
-# Night Children
+---
+aliases:
+  - "Night Children"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (2/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***
-*A teeming assortment of nocturnal fiends under the thrall of an ancient evil.*
+# Enfants de la nuit
 
-**Motives & Tactics:** Carry victims back to master, overrun settlements, slither through shadow
+*(VO : Night Children)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 17/32 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Fangs & Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d6+8 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Horde](../core_rules/Using%20Adversaries.md) (2/[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS))***
+*Une foule grouillante de démons nocturnes sous l'emprise d'un mal ancien.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Terrorize +3
+**Motivations et tactiques :** Ramener les victimes à leur maître, submerger les colonies, se faufiler dans l'ombre
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 17/32 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Crocs et griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d6+8 phy
 
-***Horde (2d6+2) - Passive:*** When the Night Children have marked half or more of their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), their standard attack deals **2d6+2** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Terreur +3
 
-***Swell Ranks - Action:*** Once per scene, **mark any number of [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Night Children open a portal that spews forth reinforcements, refilling the [Horde](../core_rules/Using%20Adversaries.md)’s ranks. Clear a number of [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) equal to the number of Stress marked.
+## APTITUDES
 
-***Overwhelm - Reaction:*** When the Night Children mark [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against the attacker.
+***Horde (2d6+2) - Passif :*** Lorsque les Enfants de la nuit ont marqué la moitié de leurs [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, leur attaque standard inflige **2d6+2** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à la place.
+
+***Rangs grossis - Action :*** Une fois par scène, **marquez un nombre quelconque de [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que les Enfants de la nuit ouvrent un portail qui vomit des renforts, reconstituant les rangs de la [Horde](../core_rules/Using%20Adversaries.md). Évacuez un nombre de [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) égal au nombre de Stress marqués.
+
+***Submersion - Réaction :*** Lorsque les Enfants de la nuit marquent des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à la suite d'une attaque à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard contre l'attaquant.

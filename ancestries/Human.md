@@ -1,9 +1,16 @@
-# Human
+---
+aliases:
+  - "Human"
+---
 
-Humans are most easily recognized by their dexterous hands, rounded ears, and bodies built for endurance. Their average height ranges from just under 5 feet to about 6 ½ feet. They have a wide variety of builds, with some being quite broad, others lithe, and many inhabiting the spectrum in between. Humans are physically adaptable and adjust to harsh climates with relative ease. In general, humans live to an age of about 100, with their bodies changing dramatically between their youngest and oldest years.
+# Humain
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+*(VO : Human)*
 
-***High Stamina:*** Gain an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS) slot at character creation.
+Les humains se reconnaissent surtout à leurs mains habiles, leurs oreilles rondes et leur corps fait pour l’endurance. Leur taille moyenne va d’un peu moins de 5 pieds à environ 6 ½ pieds. Leurs corpulences sont très variées : certains sont assez larges, d’autres graciles, et beaucoup occupent l’entre-deux. Les humains s’adaptent physiquement et supportent les climats rudes avec une relative facilité. En général, les humains vivent jusqu’à environ 100 ans, leur corps changeant radicalement entre leurs plus jeunes années et les plus âgées.
 
-***Adaptability:*** When you fail a roll that utilized one of your [Experiences](../core_rules/Character%20Creation.md#STEP%207), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to reroll.
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Grande endurance :*** Gagnez un emplacement de [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaire à la création du personnage.
+
+***Adaptabilité :*** Quand vous ratez un jet pour lequel vous avez utilisé l’une de vos [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour le relancer.

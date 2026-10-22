@@ -1,9 +1,16 @@
-# Wand of Enthrallment
+---
+aliases:
+  - "Wand of Enthrallment"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Baguette d’asservissement
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+4 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Wand of Enthrallment)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Persuasive:*** Before you make a [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to gain a +2 bonus to the result.
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+4 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Persuasif :*** Avant un [jet de Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203), vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour gagner un bonus de +2 au résultat.

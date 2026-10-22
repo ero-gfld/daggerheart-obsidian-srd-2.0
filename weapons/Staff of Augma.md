@@ -1,9 +1,16 @@
-# Staff of Augma
+---
+aliases:
+  - "Staff of Augma"
+---
 
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Bâton d’Augma
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+7 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Staff of Augma)*
 
-### FEATURE
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Catalytic:*** On a successful attack, you can mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to give an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range a +3 bonus to their next [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+7 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Catalyseur :*** Sur une attaque réussie, vous pouvez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour donner à un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) un bonus de +3 à son prochain [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).

@@ -1,3 +1,10 @@
-# Verglasian Seed
+---
+aliases:
+  - "Verglasian Seed"
+---
 
-You can use this ice shard to instantly freeze an area of water up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+# Graine verglacienne
+
+*(VO : Verglasian Seed)*
+
+Vous pouvez utiliser cette graine pour geler instantanément une zone d’eau allant jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).

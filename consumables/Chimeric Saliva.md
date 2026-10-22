@@ -1,3 +1,10 @@
-# Chimeric Saliva
+---
+aliases:
+  - "Chimeric Saliva"
+---
 
-You can apply this saliva to a weapon that deals [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) to change its damage type to magic until your next rest.
+# Salive chimérique
+
+*(VO : Chimeric Saliva)*
+
+Vous pouvez appliquer cette salive sur une arme qui inflige des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) pour changer son type de dégâts en dégâts magiques jusqu’à votre prochain repos.

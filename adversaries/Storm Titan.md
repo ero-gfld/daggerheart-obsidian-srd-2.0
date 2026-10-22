@@ -1,23 +1,30 @@
-# Storm Titan
+---
+aliases:
+  - "Storm Titan"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*An ancient, wise, and temperamental goliath who has hair made of mist and electricity crackling across their skin.*
+# Titan de tempête
 
-**Motives & Tactics:** Erupt violently, wait, watch
+*(VO : Storm Titan)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 35/70 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 11 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 8  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Lightning Bolt:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d20+10 mag
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un colosse ancien, sage et capricieux, dont les cheveux sont faits de brume et dont la peau est parcourue d’électricité crépitante.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Power of the Storm +3
+**Motivations et tactiques :** Éclater violemment, attendre, observer
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 35/70 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 11 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 8  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Éclair de foudre :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d20+10 mag
 
-***Relentless (3) - Passive:*** The Titan can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Puissance de la tempête +3
 
-***Momentum - Passive:*** When the Titan makes a successful attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Ball Lightning - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Titan conjure **1d4** spheres of electrical energy within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When the Titan is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), they can move each sphere up to Close range. When a sphere moves within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), the PC takes **4d6** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), and the sphere disappears. Each sphere has the same [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) as the Titan and disappears if a creature deals magic damage to it.
+***Implacable (3) - Passif :*** Le Titan peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Storm Bringer - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Titan conjure a raging storm. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Titan must make a [Strength](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **3d12** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and are *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they are [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). Targets who succeed take half damage.
+***Élan - Passif :*** Quand le Titan réussit une attaque contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Thunderclap - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to target up to three [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in front of the Titan within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target marks a [Stress](../core_rules/Core%20Mechanics.md#STRESS) and becomes *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they roll with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Foudre globulaire - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Titan fasse apparaître **1d4** sphères d’énergie électrique à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Quand le Titan est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), il peut déplacer chaque sphère jusqu’à portée Proche. Quand une sphère se déplace à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), ce PJ subit **4d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et la sphère disparaît. Chaque sphère a la même [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) que le Titan et disparaît si une créature lui inflige des dégâts magiques.
+
+***Faiseur de tempête - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Titan fasse naître une tempête déchaînée. Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Titan doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **3d12** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et sont *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elles soient [mises sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). Les cibles qui réussissent ne subissent que la moitié des dégâts.
+
+***Coup de tonnerre - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour cibler jusqu’à trois [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) situés devant le Titan à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS) et devient *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle fasse un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

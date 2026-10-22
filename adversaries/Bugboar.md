@@ -1,19 +1,26 @@
-# Bugboar
+---
+aliases:
+  - "Bugboar"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A large bipedal creature that has a tusked snout and coarse fur.*
+# Sanglier-bogue
 
-**Motives & Tactics:** Ambush, bully, seek carnage and shiny things
+*(VO : Bugboar)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Spiked Mace:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+6 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Une grande créature bipède au museau muni de défenses et au pelage grossier.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Traps +3
+**Motivations et tactiques :** Embusquer, brutaliser, chercher le carnage et les objets brillants
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Masse hérissée de pointes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+6 phy
 
-***Surprise! - Passive:*** If the Bugboar makes its first attack in a scene before it’s marked [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or [Stress](../core_rules/Core%20Mechanics.md#STRESS), it has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the attack and deals an extra **1d8** damage.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Pièges +3
 
-***Brutal - Reaction:*** When the Bugboar makes a successful standard attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to deal an extra **1d6** damage.
+## APTITUDES
 
-***Warheart - Reaction:*** When a condition would be imposed on the Bugboar, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to negate it.
+***Surprise ! - Passif :*** Si le Sanglier-bogue effectue sa première attaque dans une scène avant d’avoir marqué de [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou de [Stress](../core_rules/Core%20Mechanics.md#STRESS), il bénéficie d’un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur l’attaque et inflige **1d8** dégâts supplémentaires.
+
+***Brutal - Réaction :*** Quand le Sanglier-bogue réussit une attaque standard, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour infliger **1d6** dégâts supplémentaires.
+
+***Cœur de guerre - Réaction :*** Quand un état devrait être imposé au Sanglier-bogue, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour l’annuler.

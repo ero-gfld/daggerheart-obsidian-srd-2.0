@@ -1,17 +1,17 @@
 # Drake
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A clawed quadruped that has a scaled, serpentine body and a willingness to serve its cousins, the dragons.*
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Quadrupède griffu au corps écailleux et serpentin, qui se plaît à servir ses cousins, les dragons.*
 
-**Motives & Tactics:** Coil and crush, protect master, slither around lairs and ruins, strike first
+**Motivations et tactiques :** S’enrouler pour écraser, protéger son maître, ramper autour des repaires et des ruines, frapper en premier
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 16/30 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +4 | **Claws & Teeth:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+5 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 16/30 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +4 | **Griffes et crocs :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+5 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Vicious +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Féroce +3
 
-## FEATURES
+## APTITUDES
 
-***Relentless (2) - Passive:*** The Drake can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+***Implacable (2) - Passif :*** Le drake peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Guard Dog - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) would deal damage to a creature within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Drake move to intercept the attack and take the damage instead. If the attacker is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Drake’s new position, you can immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Drake without spending [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Chien de garde - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) devrait infliger des dégâts à une créature à [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le drake se déplace afin d’intercepter l’attaque et subisse les dégâts à sa place. Si l’attaquant se trouve à [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la nouvelle position du drake, vous pouvez immédiatement [mettre le drake sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) sans dépenser de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

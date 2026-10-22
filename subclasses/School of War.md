@@ -1,45 +1,52 @@
-# School of War
+---
+aliases:
+  - "School of War"
+---
 
-Play the School of War if you want to utilize trained magic for violence.
+# École de la Guerre
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : School of War)*
 
-[Knowledge](../core_rules/Character%20Creation.md#STEP%203)
+Jouez l’École de la Guerre si vous voulez mettre une magie savamment entraînée au service de la violence.
 
-**FOUNDATION FEATURES**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Battlemage:*** You’ve focused your studies on becoming an unconquerable force on the battlefield. Gain an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) slot.
+[Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-***Face Your Fear:*** When you succeed with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), you deal an extra **1d10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Mage de guerre :*** Vous avez concentré vos études pour devenir une force imparable sur le champ de bataille. Gagnez un emplacement de [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
 
-***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you add your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
+***Affrontez votre peur :*** Quand vous réussissez avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER), vous infligez **1d10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) supplémentaires.
 
-***Fueled by Fear:*** The extra [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) from your “Face Your [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)” feature increases to **2d10**.
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Bouclier conjuré :*** Vous pouvez maintenir une barrière magique protectrice. Tant que vous avez au moins 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous ajoutez votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION).
 
-***Thrive in Chaos:*** When you succeed on an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** after rolling damage to force the target to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Nourri par la peur :*** Les [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) supplémentaires de votre aptitude « Affrontez votre [peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) » passent à **2d10**.
 
-***Have No Fear:*** The extra [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) from your “Face Your [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)” feature increases to **3d10.**
+**APTITUDES D’EXCELLENCE**
 
-**BACKGROUND QUESTIONS**
+***Prospérer dans le chaos :*** Quand vous réussissez une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** après avoir lancé les dégâts pour forcer la cible à marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***N’ayez pas peur :*** Les [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) supplémentaires de votre aptitude « Affrontez votre [peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) » passent à **3d10.**
 
-- What responsibilities did your community once count on you for? How did you let them down?
+**QUESTIONS D’HISTORIQUE**
 
-- You’ve spent your life searching for a book or object of great significance. What is it, and why is it so important to you?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- You have a powerful rival. Who are they, and why are you so determined to defeat them?
+- De quelles responsabilités votre communauté dépendait-elle autrefois de vous ? Comment l’avez-vous déçue ?
 
-**CONNECTIONS**
+- Vous avez passé votre vie à chercher un livre ou un objet d’une grande importance. De quoi s’agit-il, et pourquoi compte-t-il tant pour vous ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Vous avez un puissant rival. Qui est-ce, et pourquoi êtes-vous si déterminé à le vaincre ?
 
-- What favor have I asked of you that you’re not sure you can fulfill?
+**LIENS**
 
-- What weird hobby or strange fascination do we both share?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- What secret about yourself have you entrusted only to me?
+- Quelle faveur vous ai-je demandée, que vous n’êtes pas sûr de pouvoir m’accorder ?
+
+- Quel passe-temps étrange ou quelle fascination bizarre partageons-nous ?
+
+- Quel secret sur vous-même ne m’avez-vous confié qu’à moi ?

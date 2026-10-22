@@ -1,5 +1,12 @@
-# Premonition
+---
+aliases:
+  - "Premonition"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Prémonition
 
-You can channel arcane energy to have visions of the future. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), immediately after the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) conveys the consequences of a roll you made, you can rescind the move and consequences like they never happened and make another move instead.
+*(VO : Premonition)*
+
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Vous pouvez canaliser l’énergie arcanique pour avoir des visions du futur. Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), immédiatement après que le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) vous a annoncé les conséquences d’un jet que vous avez fait, vous pouvez annuler l’action et ses conséquences comme si elles n’avaient jamais eu lieu, et faire une autre action à la place.

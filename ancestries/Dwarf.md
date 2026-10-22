@@ -1,9 +1,16 @@
-# Dwarf
+---
+aliases:
+  - "Dwarf"
+---
 
-Dwarves are most easily recognized as short humanoids with square frames, dense musculature, and thick hair. Their average height ranges from 4 to 5 ½ feet, and they are often broad in proportion to their stature. Their skin and nails contain a high amount of keratin, making them naturally resilient. This allows dwarves to embed gemstones into their bodies and decorate themselves with tattoos or piercings. Their hair grows thickly—usually on their heads, but some dwarves have thick hair across their bodies as well. Dwarves of all genders can grow facial hair, which they often style in elaborate arrangements. Typically, dwarves live up to 250 years of age, maintaining their muscle mass well into later life.
+# Nain
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+*(VO : Dwarf)*
 
-***Thick Skin:*** When you take [Minor damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of marking a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+Les nains sont des humanoïdes de petite taille que l’on reconnaît à leur carrure carrée, leur musculature dense et leur épaisse pilosité. Ils mesurent en moyenne de 4 à 5 ½ pieds et sont souvent larges par rapport à leur taille. Leur peau et leurs ongles contiennent beaucoup de kératine, ce qui les rend naturellement résistants. Cela permet aux nains d’incruster des gemmes dans leur corps et de se parer de tatouages ou de piercings. Leurs cheveux poussent dru, d’ordinaire sur la tête, mais certains nains ont aussi le corps couvert d’un épais poil. Les nains de tous les genres peuvent porter la barbe, qu’ils coiffent souvent en savants arrangements. Ils vivent généralement jusqu’à 250 ans et conservent leur masse musculaire jusqu’à un âge avancé.
 
-***Increased Fortitude:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to halve incoming [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Peau épaisse :*** Quand vous subissez des [dégâts mineurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez **marquer 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** au lieu de marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).
+
+***Robustesse accrue :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour diviser par deux les [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) entrants.

@@ -1,19 +1,26 @@
-# Failed Experiment
+---
+aliases:
+  - "Failed Experiment"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A magical necromantic experiment gone wrong, leaving them warped and ungainly.*
+# Expérience ratée
 
-**Motives & Tactics:** Devour, hunt, track
+*(VO : Failed Experiment)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 13 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/23 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Bite and Claw:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+5 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Une expérience de nécromancie magique tournée au désastre, qui les a déformés et rendus maladroits.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Copycat +3
+**Motivations et tactiques :** Dévorer, traquer, pister
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 13 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/23 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Morsure et griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+5 phy
 
-***Warped Fortitude - Passive:*** The Experiment is resistant to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Imitation +3
 
-***Overwhelm - Passive:*** When a target the Experiment attacks has other [adversaries](../core_rules/Using%20Adversaries.md) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, the Experiment deals double damage.
+## APTITUDES
 
-***Lurching Lunge - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) the Experiment as an additional [GM move](../core_rules/Making%20Moves.md) instead of spending [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Vigueur déformée - Passif :*** L’Expérience a une résistance aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Submersion - Passif :*** Lorsqu’une cible attaquée par l’Expérience a d’autres [adversaires](../core_rules/Using%20Adversaries.md) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), l’Expérience inflige le double de dégâts.
+
+***Bond titubant - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) l’Expérience comme une [action du MJ](../core_rules/Making%20Moves.md) supplémentaire, au lieu de dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

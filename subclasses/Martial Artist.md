@@ -1,109 +1,116 @@
-# Martial Artist
+---
+aliases:
+  - "Martial Artist"
+---
 
-Play the Martial Artist if you want to use a variety of fighting styles to eliminate your foes.
+# Artiste martial
 
-**FOUNDATION FEATURE**
+*(VO : Martial Artist)*
 
-***Stance Fighter:*** You can channel your inner resolve to shift into martial stances that grant you special benefits in combat.
+Jouez l’Artiste martial si vous voulez recourir à une variété de styles de combat pour éliminer vos ennemis.
 
-Take the Martial Stances sheet and choose two martial stances from [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP). Each time you [level up](../core_rules/Core%20Mechanics.md#LEVELING%20UP) your character, choose an additional stance from your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or lower.
+**APTITUDE DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Combattant de posture :*** Vous pouvez canaliser votre détermination intérieure pour adopter des postures martiales qui vous confèrent des avantages particuliers au combat.
 
-***Keen Defenses:*** When you’re targeted by an attack, you can **spend a Focus** to gain a bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) against the attack.
+Prenez la fiche des Postures martiales et choisissez deux postures martiales du [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU). Chaque fois que vous [montez de niveau](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU), choisissez une posture supplémentaire de votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou d’un rang inférieur.
 
-***Focus Cannon:*** **Spend a Focus** to make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll against an [adversary](../core_rules/Using%20Adversaries.md) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, deal **d20+3** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURE**
+***Défenses acérées :*** Quand vous êtes ciblé par une attaque, vous pouvez **dépenser un point de Concentration** pour gagner, contre cette attaque, un bonus à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU).
 
-***Limit Breaker:*** Once per rest, you can perform an unbelievable feat of athletic prowess, such as running across water, leaping between distant rooftops, or scaling a building without needing to roll. When you do, gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) and clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Canon de concentration :*** **Dépensez un point de Concentration** pour faire un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) contre un [adversaire](../core_rules/Using%20Adversaries.md) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, infligez **d20+3** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Flow State:*** You can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** instead of spending a Focus to shift into a different stance. Additionally, you can **spend a Focus** instead of marking a Stress to start a combo strike.
+**APTITUDES D’EXCELLENCE**
 
-**BACKGROUND QUESTIONS**
+***Dépassement des limites :*** Une fois par repos, vous pouvez accomplir un exploit athlétique incroyable, comme courir sur l’eau, bondir entre des toits éloignés ou escalader un bâtiment sans avoir à lancer de dés. Dans ce cas, gagnez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) et évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***État de flux :*** Vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** au lieu de dépenser un point de Concentration pour changer de posture. De plus, vous pouvez **dépenser un point de Concentration** au lieu de marquer un Stress pour lancer un enchaînement de coups.
 
-- Where did you spend time during your formative years that taught you, directly or indirectly, how to fight in the style you use?
+**QUESTIONS D’HISTORIQUE**
 
-- What organization has vowed to kill you on sight, and what did you do to invoke their ire?
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who did you recently lose a fight to that you’re desperate for a rematch against?
+- Où avez-vous passé vos années de formation, et qu’y avez-vous appris, directement ou indirectement, du style de combat que vous employez ?
 
-**CONNECTIONS**
+- Quelle organisation a juré de vous tuer à vue, et qu’avez-vous fait pour s’attirer sa colère ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- À qui avez-vous récemment perdu un combat, au point d’avoir désespérément envie de prendre votre revanche ?
 
-- What is one thing we’re both afraid of?
+**LIENS**
 
-- What do I rely on you for during our travels? How do you feel about it?
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- I still haven’t forgiven you for something you said to me. What was it, and why did you say it?
+- Quelle chose nous fait peur à tous les deux ?
 
-#### MARTIAL STANCES
+- Pour quoi est-ce que je compte sur vous pendant nos voyages ? Qu’en pensez-vous ?
 
-When you choose the Martial Artist subclass, take the Martial Stances sheet to track which stances your character knows. You can also track which stance you have active and your current Focus.
+- Je ne vous ai toujours pas pardonné quelque chose que vous m’avez dit. Quoi, et pourquoi me l’avez-vous dit ?
 
-**STANCES**
+#### POSTURES MARTIALES
 
-Stances are special body positionings that enable Martial Artists to attack, react, or defend in combat. Each stance grants your character a different ability, bonus, or feature while active.
+Quand vous choisissez la sous-classe Artiste martial, prenez la fiche des Postures martiales pour noter les postures que connaît votre personnage. Vous pouvez aussi y noter la posture que vous avez adoptée et votre Concentration actuelle.
 
-You choose two stances from [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) when you first take the Martial Artist’s subclass foundation card. Mark the circle next to each to indicate that your character knows and has access to them. Mark a new stance from your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or below each time you gain a level.
+**POSTURES**
 
-**FOCUS**
+Les postures sont des positions du corps particulières qui permettent aux Artistes martiaux d’attaquer, de réagir ou de se défendre au combat. Chaque posture confère à votre personnage une capacité, un bonus ou une aptitude différente tant qu’elle est active.
 
-Focus represents your character’s poise, clarity, and control. Once per rest during a moment of calm, you can clear your mind and refocus your martial instincts. Clear your Focus track, then roll a number of **d6s** equal to your [Instinct](../core_rules/Character%20Creation.md#STEP%203) and gain Focus equal to the highest result rolled. You can hold a maximum of 6 Focus.
+Vous choisissez deux postures du [rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) quand vous prenez pour la première fois la carte de fondation de la sous-classe Artiste martial. Marquez le cercle à côté de chacune pour indiquer que votre personnage la connaît et peut l’utiliser. Marquez une nouvelle posture de votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) ou d’un rang inférieur chaque fois que vous gagnez un niveau.
 
-**SHIFTING INTO STANCES**
+**CONCENTRATION**
 
-You can **spend a Focus** to shift into a martial stance and gain its effects. You can shift only into stances you’ve marked as known. When you shift into a stance, it’s considered your active stance until you drop out of it.
+La Concentration représente l’aplomb, la clarté d’esprit et la maîtrise de soi de votre personnage. Une fois par repos, pendant un moment de calme, vous pouvez faire le vide dans votre esprit et recentrer vos instincts martiaux. Videz votre jauge de Concentration, puis lancez un nombre de **d6** égal à votre [Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) et gagnez une Concentration égale au plus haut résultat obtenu. Vous pouvez avoir 6 points de Concentration au maximum.
 
-You can’t shift into or have more than one active stance at a time. Until you shift into a stance, you are not considered to be in a stance or to have an active stance.
+**ADOPTER UNE POSTURE**
 
-**DROPPING OUT OF STANCES**
+Vous pouvez **dépenser un point de Concentration** pour adopter une posture martiale et en gagner les effets. Vous ne pouvez adopter que les postures que vous avez marquées comme connues. Quand vous adoptez une posture, elle est considérée comme votre posture active jusqu’à ce que vous la quittiez.
 
-If you are already in a stance when you shift into a different stance, you automatically drop out of the previously active stance. You also drop out of your active stance when you take [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or mark your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). Otherwise, you drop out of your active stance at the end of the scene. When you drop out of a stance, you lose any ongoing benefits it provides.
+Vous ne pouvez pas adopter ni avoir plus d’une posture active à la fois. Tant que vous n’avez pas adopté de posture, vous n’êtes pas considéré comme étant dans une posture ni comme ayant une posture active.
 
-**STANCE FEATURES**
+**QUITTER UNE POSTURE**
 
-The following section lists all martial stances by [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP).
+Si vous êtes déjà dans une posture quand vous en adoptez une autre, vous quittez automatiquement la posture précédemment active. Vous quittez aussi votre posture active quand vous subissez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou marquez votre dernier [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Sinon, vous quittez votre posture active à la fin de la scène. Quand vous quittez une posture, vous perdez tous les avantages persistants qu’elle procure.
 
-##### TIER 1
+**APTITUDES DE POSTURE**
 
-***Favored:*** Gain a bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) equal to a trait of your choice.
+La section suivante répertorie toutes les postures martiales par [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU).
 
-***Invigorating:*** On a successful attack, roll a **d4**. On a result of 4, gain a Focus.
+##### RANG 1
 
-***Quick:*** When you make an attack, you can **spend a Focus** or **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to target another creature within range with that attack.
+***Privilégiée :*** Gagnez aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) un bonus égal à une caractéristique de votre choix.
 
-***Reliable:*** Gain a +1 bonus to your [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Revigorante :*** Sur une attaque réussie, lancez un **d4**. Sur un 4, gagnez un point de Concentration.
 
-##### TIER 2
+***Rapide :*** Quand vous faites une attaque, vous pouvez **dépenser un point de Concentration** ou **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour viser avec cette attaque une autre créature à portée.
 
-***Aggressive:*** Gain a −1 penalty to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION). On a successful attack, roll an additional damage die and discard the lowest result.
+***Fiable :*** Gagnez un bonus de +1 à vos [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Anchored:*** Gain a +2 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). While in this stance, you can’t be moved against your will.
+##### RANG 2
 
-***Defensive:*** [Attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) targeting you from within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) unless the attacker marks a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to negate the disadvantage.
+***Agressive :*** Subissez un malus de −1 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION). Sur une attaque réussie, lancez un dé de dégâts supplémentaire et défaussez le plus bas résultat.
 
-***Otherworldly:*** On a successful attack, you can deal physical or [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Ancrée :*** Gagnez un bonus de +2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). Dans cette posture, vous ne pouvez pas être déplacé contre votre gré.
 
-##### TIER 3
+***Défensive :*** Les [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) qui vous visent depuis la portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) ont un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE), sauf si l’attaquant marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour annuler ce désavantage.
 
-***Grappling:*** On a successful attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a Focus** or **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to temporarily *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target or throw the target up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Surnaturelle :*** Sur une attaque réussie, vous pouvez infliger des dégâts physiques ou des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Scary:*** On a successful attack, the target must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+##### RANG 3
 
-***Stable:*** You can **spend a Focus** instead of an [Armor Slot](../core_rules/Equipment.md#ARMOR) to reduce damage.
+***Agrippante :*** Sur une attaque réussie à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser un point de Concentration** ou **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour *[Entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* temporairement la cible ou la projeter jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Vigilant:*** When you are targeted by an attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain a **d6** bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) against the attack.
+***Effrayante :*** Sur une attaque réussie, la cible doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-##### TIER 4
+***Stable :*** Vous pouvez **dépenser un point de Concentration** au lieu d’un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour réduire les dégâts.
 
-***Crushing:*** When you deal [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to force the target to mark an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+***Vigilante :*** Quand vous êtes ciblé par une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour gagner un bonus de **d6** à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) contre cette attaque.
 
-***Exacting:*** When you roll a 1 on a damage die, you can treat it as the highest value on the die instead.
+##### RANG 4
 
-***Honed:*** **Spend a Focus** before you make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for that attack.
+***Écrasante :*** Quand vous infligez des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour forcer la cible à marquer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire.
 
-***Isolating:*** Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) when there are no other creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of you or your target.
+***Exigeante :*** Quand vous obtenez un 1 sur un dé de dégâts, vous pouvez le traiter comme la valeur la plus haute du dé.
+
+***Affûtée :*** **Dépensez un point de Concentration** avant de faire un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.
+
+***Isolante :*** Vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) quand aucune autre créature ne se trouve à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de vous ou de votre cible.

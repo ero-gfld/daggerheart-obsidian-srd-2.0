@@ -1,9 +1,16 @@
-# Eldritch Vambrace
+---
+aliases:
+  - "Eldritch Vambrace"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Brassard d’outre-monde
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Eldritch Vambrace)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Deflecting:*** When you are attacked, you can mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) to gain a bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) equal to your [Armor Score](../core_rules/Equipment.md#ARMOR) against the attack.
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Déviation :*** Quand vous êtes attaqué, vous pouvez marquer un [Emplacement d’armure](../core_rules/Equipment.md#ARMURE) pour gagner un bonus à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) égal à votre [Score d’armure](../core_rules/Equipment.md#ARMURE) contre cette attaque.

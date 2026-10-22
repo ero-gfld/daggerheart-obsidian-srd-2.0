@@ -1,9 +1,16 @@
-# Bloodstone Plate Armor
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Bloodstone Plate Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 35  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+# Armure de plates en pierre de sang
 
-### FEATURE
+*(VO : Bloodstone Plate Armor)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Bloodthirsty:*** When you critically succeed on a weapon attack within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 35  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
+
+***Sanguinaire :*** Lorsque vous obtenez un succès critique sur une attaque avec une arme à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), évacuez un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

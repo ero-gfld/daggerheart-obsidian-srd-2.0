@@ -1,21 +1,28 @@
-# Acid Burrower
+---
+aliases:
+  - "Acid Burrower"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A horse-sized insect with digging claws and acidic blood.*
+# Fouisseur acide
 
-**Motives & Tactics:** Burrow, drag away, feed, reposition
+*(VO : Acid Burrower)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Claws:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+2 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un insecte de la taille d’un cheval, pourvu de griffes fouisseuses et d’un sang acide.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Tremor Sense +2
+**Motivations et tactiques :** Creuser, traîner au loin, se nourrir, se repositionner
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Griffes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+2 phy
 
-***Relentless (3) - Passive:*** The Burrower can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sens des vibrations +2
 
-***Earth Eruption - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Burrower burst out of the ground. All creatures within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or be knocked over, making them *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they next act.
+## APTITUDES
 
-***Spit Acid - Action:*** Make an attack against all targets in front of the Burrower within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Burrower succeeds against take **2d6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and must mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Implacable (3) - Passif :*** Le Fouisseur peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour [le mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Acid Bath - Reaction:*** When the Burrower takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), all creatures within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range are bathed in their acidic blood, taking **1d10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). This splash covers the ground within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with blood, and all creatures other than the Burrower who move through it take **1d6** physical damage.
+***Éruption du sol - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Fouisseur jaillisse du sol. Toutes les créatures à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou être renversées, et *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à leur prochaine action.
+
+***Crachat d’acide - Action :*** Effectuez une attaque contre toutes les cibles devant le Fouisseur à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Fouisseur réussit subissent **2d6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et doivent marquer un [emplacement d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir les bénéfices (elles peuvent tout de même utiliser leur armure pour réduire les dégâts). Si elles ne peuvent pas marquer d’emplacement d’armure, elles doivent marquer un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire, et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
+
+***Bain acide - Réaction :*** Quand le Fouisseur subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), toutes les créatures à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) sont éclaboussées par son sang acide et subissent **1d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Cette éclaboussure recouvre le sol à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de sang, et toutes les créatures autres que le Fouisseur qui s’y déplacent subissent **1d6** dégâts physiques.

@@ -1,7 +1,14 @@
-# Bold Presence
+---
+aliases:
+  - "Bold Presence"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Présence audacieuse
 
-When you make a [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to add your [Strength](../core_rules/Character%20Creation.md#STEP%203) to the roll.
+*(VO : Bold Presence)*
 
-Additionally, once per rest when you would gain a condition, you can describe how your bold presence aids you in the situation and avoid gaining the condition.
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Lorsque vous faites un [jet de Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203), vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ajouter votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) au jet.
+
+De plus, une fois par repos, lorsque vous devriez subir un état, vous pouvez décrire comment votre présence audacieuse vous aide dans la situation et éviter de subir cet état.

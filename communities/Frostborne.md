@@ -1,9 +1,16 @@
-# Frostborne
+---
+aliases:
+  - "Frostborne"
+---
 
-Being part of a frostborne community means you come from a place of snow and ice. Forged in bitter and unrelenting cold, frostborne communities are accustomed to surviving in the harshest conditions. The glaciers and tundras they call home usually lack wood, so these collectives use more readily available materials such as ice, stone, bone, and animal pelts to make shelter and conserve heat. They are adept at ensuring their supplies go a long way and that all their people have access to the essentials needed to survive. As part of their systems of survival, many frostborne closely track weather patterns, the rising and setting of the sun, and the needs of local flora and fauna. Because of the howling wind and biting snow, some frostborne communities develop nonverbal means of communication so they can cover their faces for safety during dangerous weather.
+# Né du givre
 
-*Frostborne are often cunning, gregarious, intrepid, purposeful,* *quiet, and warm.*
+*(VO : Frostborne)*
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Faire partie d’une communauté de Nés du givre, c’est venir d’un pays de neige et de glace. Forgées par un froid mordant et implacable, ces communautés ont l’habitude de survivre dans les conditions les plus dures. Les glaciers et les toundras qu’elles habitent manquent généralement de bois : elles bâtissent donc leurs abris et conservent leur chaleur avec des matériaux plus accessibles, comme la glace, la pierre, l’os et les peaux d’animaux. Elles excellent à faire durer leurs provisions et à garantir à chacun l’essentiel pour survivre. Dans le cadre de leurs systèmes de survie, beaucoup de Nés du givre suivent de près les régimes météorologiques, le lever et le coucher du soleil, et les besoins de la flore et de la faune locales. À cause du vent hurlant et de la neige cinglante, certaines communautés développent des moyens de communication non verbaux, afin de pouvoir se couvrir le visage par mauvais temps.
 
-***Hardy:*** When you take a rest, you clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+*Les Nés du givre sont souvent rusés, sociables, intrépides, déterminés,* *discrets et chaleureux.*
+
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Endurci :*** Quand vous prenez un repos, vous récupérez un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

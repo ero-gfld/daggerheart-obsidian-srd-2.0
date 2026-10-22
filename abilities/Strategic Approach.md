@@ -1,11 +1,18 @@
-# Strategic Approach
+---
+aliases:
+  - "Strategic Approach"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Approche stratégique
 
-After a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), place a number of tokens equal to your [Knowledge](../core_rules/Character%20Creation.md#STEP%203) on this card (minimum 1). The first time you move within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of an [adversary](../core_rules/Using%20Adversaries.md) and make an attack against them, you can spend one token to choose one of the following options:
+*(VO : Strategic Approach)*
 
-- You make the attack with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
-- You clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS) on an ally within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the [adversary](../core_rules/Using%20Adversaries.md).
-- You add a **d8** to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-When you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), clear all unspent tokens.
+Après un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), placez sur cette carte un nombre de jetons égal à votre [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (minimum 1). La première fois que vous vous déplacez à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [adversaire](../core_rules/Using%20Adversaries.md) et que vous l’attaquez, vous pouvez dépenser un jeton pour choisir l’une des options suivantes :
+
+- Vous effectuez l’attaque avec [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
+- Vous évacuez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) chez un allié à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de l’[adversaire](../core_rules/Using%20Adversaries.md).
+- Vous ajoutez un **d8** à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+Lorsque vous prenez un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), effacez tous les jetons non dépensés.

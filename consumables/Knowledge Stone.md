@@ -1,3 +1,10 @@
-# Knowledge Stone
+---
+aliases:
+  - "Knowledge Stone"
+---
 
-If you die while holding this stone, an ally can take a card from your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) to place in their loadout or vault. After they take this knowledge, the stone crumbles.
+# Pierre du savoir
+
+*(VO : Knowledge Stone)*
+
+Si vous mourez en tenant cette pierre, un allié peut prendre une carte de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) pour la placer dans sa main ou sa réserve. Une fois ce savoir recueilli, la pierre s’effrite.

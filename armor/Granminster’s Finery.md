@@ -1,9 +1,16 @@
-# Granminster’s Finery
-**_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Granminster’s Finery"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 11 / 27  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 2
+# Atours de Granminster
 
-### FEATURE
+*(VO : Granminster’s Finery)*
+**_[Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Magnificent:*** Gain a bonus to your [Armor Score](../core_rules/Equipment.md#ARMOR) equal to your [Presence](../core_rules/Character%20Creation.md#STEP%203).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 11 / 27  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 2
+
+### APTITUDE
+
+***Magnifique :*** Gagnez un bonus à votre [Score d’armure](../core_rules/Equipment.md#ARMURE) égal à votre [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

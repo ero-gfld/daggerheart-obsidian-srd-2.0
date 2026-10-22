@@ -1,3 +1,10 @@
-# Packet of Space Dust
+---
+aliases:
+  - "Packet of Space Dust"
+---
 
-This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour.
+# Sachet de poussière d’espace
+
+*(VO : Packet of Space Dust)*
+
+Cette poussière rend plus léger que l’air tout ce qu’elle recouvre. Un sachet suffit à couvrir le contenu d’un panier de pique-nique, et ses effets durent une heure.

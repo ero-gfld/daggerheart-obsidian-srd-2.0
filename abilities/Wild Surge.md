@@ -1,7 +1,14 @@
-# Wild Surge
+---
+aliases:
+  - "Wild Surge"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Déferlement sauvage
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a **d6** on this card with the 1 value facing up.
+*(VO : Wild Surge)*
 
-While the Wild Surge Die is active, you add its value to every [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) you make. After you add its value to a roll, increase the Wild Surge Die’s value by one. When the die’s value would exceed 6 or you take a rest, this form drops and you must **mark an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS)**.
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour canaliser la nature sauvage qui vous entoure et vous renforcer. Décrivez comment votre apparence change, puis placez un **d6** sur cette carte, la face 1 vers le haut.
+
+Tant que le dé de Déferlement sauvage est actif, vous ajoutez sa valeur à chaque [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) que vous faites. Après avoir ajouté sa valeur à un jet, augmentez la valeur du dé de Déferlement sauvage de un. Lorsque la valeur du dé dépasserait 6 ou que vous prenez un repos, cette forme se dissipe et vous devez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaire**.

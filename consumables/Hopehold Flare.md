@@ -1,3 +1,10 @@
-# Hopehold Flare
+---
+aliases:
+  - "Hopehold Flare"
+---
 
-When you use this flare, allies within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range roll a d6 when they spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene.
+# Fusée de Hopehold
+
+*(VO : Hopehold Flare)*
+
+Lorsque vous utilisez cette fusée, les alliés à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) lancent un d6 lorsqu’ils dépensent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Sur un résultat de 6, ils obtiennent l’effet de cet Espoir sans le dépenser. La fusée reste active jusqu’à la fin de la scène.

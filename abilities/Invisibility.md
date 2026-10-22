@@ -1,7 +1,14 @@
-# Invisibility
+---
+aliases:
+  - "Invisibility"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Invisibilité
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (10)**. On a success, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** and choose yourself or an ally within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to become *Invisible*. An *Invisible* creature can’t be seen except through magical means and [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) against them are made with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). Place a number of tokens on this card equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. When the *Invisible* creature takes an action, spend a token from this card. After the action that spends the last token is resolved, the effect ends.
+*(VO : Invisibility)*
 
-You can only hold Invisibility on one creature at a time.
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (10)**. En cas de réussite, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** et choisissez-vous ou un allié à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) pour le rendre *Invisible*. Une créature *Invisible* ne peut être vue que par des moyens magiques, et les [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre elle sont effectués avec un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). Placez sur cette carte un nombre de jetons égal à votre caractéristique [Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). Lorsque la créature *Invisible* réalise une action, dépensez un jeton de cette carte. Une fois l’action qui dépense le dernier jeton résolue, l’effet prend fin.
+
+Vous ne pouvez maintenir l’Invisibilité que sur une seule créature à la fois.

@@ -1,4 +1,11 @@
-# Statblocks
+---
+aliases:
+  - "Statblocks"
+---
+
+# Fiches de statistiques
+
+*(VO : Statblocks)*
 - [[Règles (SRD)/adversaries/Acid Burrower]]
 - [[Règles (SRD)/adversaries/Adult Flickerfly]]
 - [[Règles (SRD)/adversaries/Apprentice Assassin]]

@@ -1,3 +1,10 @@
-# Quintessential Severant
+---
+aliases:
+  - "Quintessential Severant"
+---
 
-You can use this magic blade to cut one magical or metaphysical bond, such as an enchantment, contract, magical tether, or divine oath. When you do, the blade shatters.
+# Séparateur quintessentiel
+
+*(VO : Quintessential Severant)*
+
+Vous pouvez utiliser cette lame magique pour trancher un lien magique ou métaphysique, comme un enchantement, un contrat, une attache magique ou un serment divin. Lorsque vous le faites, la lame se brise.

@@ -1,3 +1,10 @@
-# Suspended Rod
+---
+aliases:
+  - "Suspended Rod"
+---
 
-This flat rod is inscribed with runes. When you activate the rod, it is immediately suspended in place. Until the rod is deactivated, it can’t move, doesn’t abide by the rules of gravity, and remains in place.
+# Baguette suspendue
+
+*(VO : Suspended Rod)*
+
+Cette baguette plate est gravée de runes. Quand vous activez la baguette, elle se suspend immédiatement sur place. Tant qu’elle n’est pas désactivée, elle ne peut pas bouger, ne respecte pas les lois de la gravité et reste en place.

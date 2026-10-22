@@ -1,5 +1,12 @@
-# Soothing Speech
+---
+aliases:
+  - "Soothing Speech"
+---
 
-***[Level 4](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Discours apaisant
 
-During a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), when you take the time to comfort another character while using the [Tend to Wounds](../core_rules/Core%20Mechanics.md#DOWNTIME) [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) on them, clear an additional [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on that character. When you do, you also clear 2 Hit Points.
+*(VO : Soothing Speech)*
+
+***[Niveau 4](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Grâce](../domains/Grace.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Pendant un [repos court](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), lorsque vous prenez le temps de réconforter un autre personnage en utilisant sur lui l’[action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) [Soigner les blessures](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), effacez un [point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire sur ce personnage. Si vous le faites, vous effacez aussi 2 points de vie.

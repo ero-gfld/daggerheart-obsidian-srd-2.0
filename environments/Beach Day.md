@@ -1,18 +1,25 @@
-# Beach Day
+---
+aliases:
+  - "Beach Day"
+---
 
-***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*The party takes a break from their adventure for some rest and relaxation in a seaside settlement.*
+# Journée à la plage
 
-**Impulses:** Conjure images of sand and surf, give them a breather, prepare them for the conflict ahead
+*(VO : Beach Day)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** None
+***[Rang 2](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Le groupe s’accorde une pause dans son aventure pour se reposer et profiter d’une station balnéaire.*
 
-## FEATURES
+**Pulsions :** Évoquer le sable et le ressac, leur offrir un répit, les préparer au combat à venir
 
-***R&R - Passive:*** The party finds themselves in a location where the concerns and conflicts of the outside world melt away. When the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rest here, they gain an additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME), the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) doesn’t gain [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), and no long-term [countdowns](../core_rules/Making%20Moves.md#COUNTDOWNS) advance. *What’s so relaxing about this place? Does it remind you of somewhere* *you’ve been before?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Adversaires](../core_rules/Using%20Adversaries.md) possibles :** Aucun
 
-***“Our Story So Far…” - Passive:*** Once per scene when a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) recounts a memorable moment from the campaign in conversation with another PC, they both gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). *What sounds, smells, or sensations does the memory conjure in your* *mind? How did that moment permanently change you—or your* *opinion of your companion?*
+## Aptitudes
 
-***Local Trouble - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to interrupt a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s respite with a minor complication, such as a gang of surly beach bums, an overly exuberant fan, or a really bad sunburn. The PC must gracefully resolve the situation or mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) from the resulting embarrassment or frustration. *Why does this PC draw their attention? What do the locals care about* *more than these newly arrived adventurers?*
+***Repos et détente - Passif :*** Le groupe se trouve dans un lieu où les soucis et les conflits du monde extérieur s’effacent. Quand les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) se reposent ici, ils gagnent une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) supplémentaire, le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne gagne pas de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), et aucun [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) à long terme n’avance. *Qu’est-ce qui est si reposant dans cet endroit ? Vous rappelle-t-il un lieu où vous êtes déjà allé ?*
 
-***Fashion Show - Reaction:*** When the party prepares for their first day at the beach, have each player describe how their [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) changes their attire to be more appropriate for the [environment](../core_rules/Using%20Environments.md). The [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) gives the PC with the freshest look a **d6** Fresh Die that can be spent to add to any action or [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). *What’s the fashion in this area? Where do the PCs source their new* *beach-themed articles and accessories?*
+***« Notre histoire jusqu’ici… » - Passif :*** Une fois par scène, quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) évoque un moment mémorable de la campagne dans une conversation avec un autre PJ, ils gagnent tous les deux un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). *Quels sons, odeurs ou sensations ce souvenir fait-il renaître en vous ? Comment ce moment vous a-t-il changé, ou a changé votre opinion sur votre compagnon ?*
+
+***Ennuis locaux - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour interrompre le répit d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) par une complication mineure, comme une bande de flemmards grognons, un admirateur trop enthousiaste ou un coup de soleil carabiné. Le PJ doit régler la situation avec élégance, sinon il marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS) à cause de la gêne ou de la frustration. *Pourquoi ce PJ attire-t-il leur attention ? Qu’est-ce qui compte davantage pour les gens du coin que ces aventuriers fraîchement arrivés ?*
+
+***Défilé de mode - Réaction :*** Quand le groupe se prépare pour sa première journée à la plage, demandez à chaque joueur de décrire comment son [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) change de tenue pour mieux convenir à l’[environnement](../core_rules/Using%20Environments.md). Le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) donne au PJ à la plus belle allure un **d6** de Fraîcheur, à dépenser pour ajouter son résultat à n’importe quel jet d’action ou [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). *Quelle est la mode dans cette région ? Où les PJ trouvent-ils leurs nouveaux articles et accessoires de plage ?*

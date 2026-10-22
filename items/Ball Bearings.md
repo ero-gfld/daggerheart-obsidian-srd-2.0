@@ -1,3 +1,10 @@
-# Ball Bearings
+---
+aliases:
+  - "Ball Bearings"
+---
 
-This pouch contains perfectly smooth metal spheres.
+# Billes d’acier
+
+*(VO : Ball Bearings)*
+
+Cette bourse contient des sphères de métal parfaitement lisses.

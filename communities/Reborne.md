@@ -1,15 +1,22 @@
-# Reborne
+---
+aliases:
+  - "Reborne"
+---
 
-You were once a member of a different community that you’re no longer part of. Unlike members of collectives who are allied by familiarity, shared location, history, and culture, reborne are individuals who might never meet and are unified only by their shared experience of solitude. Whether they left by choice or were ripped from their community, all reborne are disconnected from the place where they once belonged, and they carry that wound with them.
+# Re-né
 
-Some reborne are isolated from their community because they chose to reject or renounce it, or they could have been forcibly expelled by other members. These instances are often due to a conflict, such as clashing ideological differences, a falling out with their people, or an incident that forced them to depart. Other reborne have no knowledge of their culture, either due to their upbringing or perhaps because they lost their memory through injury or magic. Some have even returned from beyond the veil after death with no recollection of their previous life—or the culture that shaped it.
+*(VO : Reborne)*
 
-Often, reborne individuals tirelessly search for their past or feel that they’ll never belong in a collective, but all are afforded the opportunity to turn toward the future and redefine themselves while building new bonds with those they come to know and love.
+Vous apparteniez autrefois à une autre communauté dont vous ne faites plus partie. Contrairement aux membres des collectifs unis par la familiarité, le lieu, l’histoire et la culture, les Re-nés sont des individus qui ne se rencontreront peut-être jamais et que seule rassemble leur expérience commune de la solitude. Qu’ils soient partis par choix ou qu’on les ait arrachés aux leurs, tous les Re-nés sont coupés du lieu auquel ils appartenaient, et ils portent cette blessure avec eux.
 
-*Reborne are often curious, hopeful, innocent, isolated, mournful,* *and uncanny.*
+Certains Re-nés sont isolés de leur communauté parce qu’ils ont choisi de la rejeter ou de la renier, ou parce qu’ils en ont été expulsés de force. C’est souvent la conséquence d’un conflit : une opposition idéologique, une rupture avec leur peuple, ou un incident qui les a forcés à partir. D’autres ne connaissent rien de leur culture, à cause de leur éducation ou parce qu’une blessure ou la magie leur a fait perdre la mémoire. Certains sont même revenus d’au-delà du voile après la mort, sans aucun souvenir de leur vie passée, ni de la culture qui l’avait façonnée.
 
-**[COMMUNITY FEATURE](../core_rules/Communities.md)**
+Souvent, les Re-nés cherchent sans relâche leur passé ou sont convaincus de ne jamais appartenir à un collectif, mais tous ont la possibilité de se tourner vers l’avenir et de se redéfinir en nouant de nouveaux liens avec ceux qu’ils apprennent à connaître et à aimer.
 
-***Found Family:*** Once per rest, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to use an ally’s [Experience](../core_rules/Character%20Creation.md#STEP%207) as if it were your own. When you do so, describe how your time with that ally prepared you for this moment.
+*Les Re-nés sont souvent curieux, pleins d’espoir, innocents, isolés, endeuillés* *et troublants.*
 
-When you join a new community or rediscover your old one, you can permanently trade this card for that one instead.
+**[APTITUDE DE COMMUNAUTÉ](../core_rules/Communities.md)**
+
+***Famille choisie :*** Une fois par repos, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour utiliser l’[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) d’un allié comme si c’était la vôtre. Quand vous le faites, décrivez comment le temps passé avec cet allié vous a préparé à ce moment.
+
+Quand vous rejoignez une nouvelle communauté ou retrouvez la vôtre, vous pouvez échanger définitivement cette carte contre celle-ci.

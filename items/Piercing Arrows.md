@@ -1,3 +1,10 @@
-# Piercing Arrows
+---
+aliases:
+  - "Piercing Arrows"
+---
 
-Three times per rest when you succeed on an attack with one of these arrows, you can add your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+# Flèches perçantes
+
+*(VO : Piercing Arrows)*
+
+Trois fois par repos, lorsque vous réussissez une attaque avec l’une de ces flèches, vous pouvez ajouter votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).

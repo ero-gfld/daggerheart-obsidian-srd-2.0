@@ -1,18 +1,25 @@
-# Sage
+---
+aliases:
+  - "Sage"
+---
 
-Sage is the domain **of the natural world.** Those who walk this path tap into the unfettered power of the earth and its creatures to unleash raw magic. Sage grants its adherents the vitality of a blooming flower and the ferocity of a ravenous predator. The Sage domain can be accessed by the **[Druid](../classes/Druid.md)**, **[Ranger](../classes/Ranger.md)**, and **[Witch](../classes/Witch.md)** classes.
+# Nature
 
-### DOMAIN CARDS
+*(VO : Sage)*
 
-| **Level** | **Option 1**                                                   | **Option 2**                                                   | **Option 3**                                           |
-| --------- | -------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
-| **1**     | [Gifted Tracker](../abilities/Gifted%20Tracker.md)             | [Nature’s Tongue](../abilities/Nature’s%20Tongue.md)   | [Vicious Entangle](../abilities/Vicious%20Entangle.md) |
-| **2**     | [Conjure Swarm](../abilities/Conjure%20Swarm.md)               | [Natural Familiar](../abilities/Natural%20Familiar.md)         | —                                                      |
-| **3**     | [Corrosive Projectile](../abilities/Corrosive%20Projectile.md) | [Towering Stalk](../abilities/Towering%20Stalk.md)             | —                                                      |
-| **4**     | [Death Grip](../abilities/Death%20Grip.md)                     | [Healing Field](../abilities/Healing%20Field.md)               | —                                                      |
-| **5**     | [Thorn Skin](../abilities/Thorn%20Skin.md)                     | [Wild Fortress](../abilities/Wild%20Fortress.md)               | —                                                      |
-| **6**     | [Conjured Steeds](../abilities/Conjured%20Steeds.md)           | [Forager](../abilities/Forager.md)                             | —                                                      |
-| **7**     | [Sage‑touched](../abilities/Sage‑touched.md)           | [Wild Surge](../abilities/Wild%20Surge.md)                     | —                                                      |
-| **8**     | [Forest Sprites](../abilities/Forest%20Sprites.md)             | [Rejuvenation Barrier](../abilities/Rejuvenation%20Barrier.md) | —                                                      |
-| **9**     | [Fane of the Wilds](../abilities/Fane%20of%20the%20Wilds.md)   | [Plant Dominion](../abilities/Plant%20Dominion.md)             | —                                                      |
-| **10**    | [Force of Nature](../abilities/Force%20of%20Nature.md)         | [Tempest](../abilities/Tempest.md)                             | —                                                      |
+La Nature est le domaine **du monde naturel.** Ceux qui suivent cette voie puisent dans le pouvoir indompté de la terre et de ses créatures pour déchaîner une magie brute. La Nature donne à ses adeptes la vitalité d’une fleur qui s’épanouit et la férocité d’un prédateur affamé. Le domaine de la Nature est accessible aux classes **[Druide](../classes/Druid.md)**, **[Rôdeur](../classes/Ranger.md)** et **[Sorcière](../classes/Witch.md)**.
+
+### CARTES DE DOMAINE
+
+| **Niveau** | **Option 1**                                                          | **Option 2**                                                   | **Option 3**                                           |
+| ---------- | --------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
+| **1**      | [Pisteur doué](../abilities/Gifted%20Tracker.md)                      | [Langue de la nature](../abilities/Nature’s%20Tongue.md)       | [Enlacement cruel](../abilities/Vicious%20Entangle.md) |
+| **2**      | [Invoquer un essaim](../abilities/Conjure%20Swarm.md)                 | [Familier naturel](../abilities/Natural%20Familiar.md)         | —                                                      |
+| **3**      | [Projectile corrosif](../abilities/Corrosive%20Projectile.md)         | [Tige élancée](../abilities/Towering%20Stalk.md)               | —                                                      |
+| **4**      | [Prise mortelle](../abilities/Death%20Grip.md)                        | [Champ de guérison](../abilities/Healing%20Field.md)           | —                                                      |
+| **5**      | [Peau d’épines](../abilities/Thorn%20Skin.md)                         | [Forteresse sauvage](../abilities/Wild%20Fortress.md)          | —                                                      |
+| **6**      | [Destriers invoqués](../abilities/Conjured%20Steeds.md)               | [Glaneur](../abilities/Forager.md)                             | —                                                      |
+| **7**      | [Touché par la Nature](../abilities/Sage‑touched.md)                  | [Déferlement sauvage](../abilities/Wild%20Surge.md)            | —                                                      |
+| **8**      | [Lutins de la forêt](../abilities/Forest%20Sprites.md)                | [Barrière de jouvence](../abilities/Rejuvenation%20Barrier.md) | —                                                      |
+| **9**      | [Temple des terres sauvages](../abilities/Fane%20of%20the%20Wilds.md) | [Emprise végétale](../abilities/Plant%20Dominion.md)           | —                                                      |
+| **10**     | [Force de la nature](../abilities/Force%20of%20Nature.md)             | [Tempête](../abilities/Tempest.md)                             | —                                                      |

@@ -1,19 +1,26 @@
-# Royal Advisor
+---
+aliases:
+  - "Royal Advisor"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***
-*A high-ranking courtier with the ear of the local nobility.*
+# Conseiller royal
 
-**Motives & Tactics:** Curry favor, manufacture evidence, scheme
+*(VO : Royal Advisor)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −3 | **Wand:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d4+3 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Social](../core_rules/Using%20Adversaries.md)***
+*Un courtisan de haut rang, à l'oreille de la noblesse locale.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Administration +3, Courtier +3
+**Motivations et tactiques :** Flatter pour gagner des faveurs, fabriquer des preuves, comploter
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −3 | **Baguette :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d4+3 phy
 
-***Devastating Retort - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) who rolls less than 17 on an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) targeting the Advisor must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Administration +3, Courtisan +3
 
-***Bend Ears - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to influence an [NPC](../core_rules/Making%20Moves.md#RUNNING%20GM%20NPCS) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with whispered words. That target’s opinion on one matter shifts toward the Advisor’s preference unless it is in direct opposition to the target’s motives.
+## APTITUDES
 
-***Scapegoat - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to convince a crowd or notable individual that one person or group is responsible for some problem facing the target. The target becomes hostile to the scapegoat until convinced of their innocence with a successful [Presence](../core_rules/Character%20Creation.md#STEP%203) Roll (17).
+***Réplique cinglante - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui fait moins de 17 à un [jet d'action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) visant le Conseiller doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Oreilles attentives - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour influencer un [PNJ](../core_rules/Making%20Moves.md#FAIRE%20JOUER%20LES%20PNJ%20DU%20MJ) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à coups de confidences murmurées. L'opinion de cette cible sur un sujet se déplace alors vers la préférence du Conseiller, sauf si cela s'oppose directement aux motivations de la cible.
+
+***Bouc émissaire - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour convaincre une foule ou une personnalité que quelqu'un, une personne ou un groupe, est responsable d'un problème auquel fait face la cible. La cible devient hostile au bouc émissaire jusqu'à ce qu'elle soit convaincue de son innocence par un jet de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi (17).

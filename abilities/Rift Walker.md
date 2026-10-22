@@ -1,7 +1,14 @@
-# Rift Walker
+---
+aliases:
+  - "Rift Walker"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Arpenteur des failles
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15)**. On a success, you place an arcane marking on the ground where you currently stand. The next time you successfully cast Rift Walker, a rift in space opens up, providing safe passage back to the exact spot where the marking was placed. This rift stays open until you choose to close it or you cast another spell.
+*(VO : Rift Walker)*
 
-You can drop the spell at any time to cast Rift Walker again and place the marking somewhere new.
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15)**. En cas de succès, vous tracez une marque arcanique sur le sol, à l’endroit exact où vous vous tenez. La prochaine fois que vous réussissez à lancer Arpenteur des failles, une faille s’ouvre dans l’espace et vous offre un passage sûr jusqu’à l’endroit précis de la marque. Cette faille reste ouverte jusqu’à ce que vous décidiez de la refermer ou que vous lanciez un autre sort.
+
+Vous pouvez interrompre le sort à tout moment pour relancer Arpenteur des failles et placer la marque ailleurs.

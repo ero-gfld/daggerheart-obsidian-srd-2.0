@@ -1,3 +1,10 @@
-# Arcane Cloak
+---
+aliases:
+  - "Arcane Cloak"
+---
 
-A creature with a [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait wearing this cloak can adjust its color, texture, and size at will.
+# Cape arcanique
+
+*(VO : Arcane Cloak)*
+
+Une créature dotée de l’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) peut modifier à volonté la couleur, la texture et la taille de cette cape lorsqu’elle la porte.

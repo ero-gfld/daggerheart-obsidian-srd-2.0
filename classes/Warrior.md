@@ -1,51 +1,58 @@
-# Warrior
+---
+aliases:
+  - "Warrior"
+---
 
-Becoming a warrior requires years, often a lifetime, of training and dedication to the mastery of weapons and violence. While many who seek to fight hone only their strength, warriors understand the importance of an agile body and mind, making them some of the most sought-after fighters across the realms. Frequently, warriors find employment within an army, a band of mercenaries, or even a royal guard, but their potential is wasted in any position where they cannot continue to improve and expand their skills. Warriors are known to have a favored weapon; to come between them and their blade would be a grievous mistake.
+# Guerrier
 
-**DOMAINS –** [Blade](../domains/Blade.md) & [Bone](../domains/Bone.md)
+*(VO : Warrior)*
 
-**STARTING EVASION –** 11
+Devenir guerrier exige des années, souvent une vie entière, d’entraînement et de dévouement à la maîtrise des armes et de la violence. Alors que beaucoup de ceux qui cherchent à se battre ne cultivent que leur force, les guerriers comprennent l’importance d’un corps et d’un esprit agiles, ce qui fait d’eux certains des combattants les plus recherchés des royaumes. Ils trouvent fréquemment à s’employer dans une armée, une bande de mercenaires, voire une garde royale, mais leur potentiel est gâché dans tout poste où ils ne peuvent continuer à progresser et à élargir leurs talents. Les guerriers ont réputément une arme de prédilection : se mettre entre eux et leur lame serait une grave erreur.
 
-**STARTING HIT POINTS –** 6
+**DOMAINES –** [Lame](../domains/Blade.md) & [Os](../domains/Bone.md)
 
-**CLASS ITEMS –** The drawing of a lover or a sharpening stone
+**ÉVASION DE DÉPART –** 11
 
-**WARRIOR’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 6
 
-***No Mercy:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gain a +1 bonus to your [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) until your next rest.
+**OBJETS DE CLASSE –** Le portrait d’un amour ou une pierre à aiguiser
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU GUERRIER**
 
-***Attack of Opportunity:*** If an [adversary](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range attempts to leave that range, make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) using a trait of your choice against their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). Choose one effect on a success, or two if you critically succeed:
+***Sans pitié :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour gagner un bonus de +1 à vos [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) jusqu’à votre prochain repos.
 
-- They can’t move from where they are.
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-- You deal damage to them equal to your [primary weapon](../core_rules/Equipment.md#WEAPONS)’s damage.
+***Attaque d’opportunité :*** Si un [adversaire](../core_rules/Using%20Adversaries.md) à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) tente de quitter cette portée, faites un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) avec une caractéristique de votre choix contre sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). En cas de réussite, choisissez un effet, ou deux si vous obtenez une réussite critique :
 
-- You move with them.
+- Il ne peut pas quitter l’endroit où il se trouve.
 
-***Combat Training:*** You ignore [burden](../core_rules/Equipment.md#WEAPONS) when equipping weapons. When you deal [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), you gain a bonus to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) equal to your level.
+- Vous lui infligez des dégâts égaux à ceux de votre [arme principale](../core_rules/Equipment.md#ARMES).
 
-### SUBCLASSES
+- Vous le suivez dans son déplacement.
 
-*Choose either the* ***[Call of the Brave](../subclasses/Call%20of%20the%20Brave.md)*** *or* ***[Call of the Slayer](../subclasses/Call%20of%20the%20Slayer.md)*** ***subclass.***
+***Entraînement au combat :*** Vous ignorez la [prise](../core_rules/Equipment.md#ARMES) quand vous équipez des armes. Quand vous infligez des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), vous gagnez à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) un bonus égal à votre niveau.
 
-**BACKGROUND QUESTIONS**
+### SOUS-CLASSES
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Choisissez la sous-classe* ***[Appel du brave](../subclasses/Call%20of%20the%20Brave.md)*** *ou* ***[Appel du tueur](../subclasses/Call%20of%20the%20Slayer.md)***.
 
-- Who taught you to fight, and why did they stay behind when you left home?
+**QUESTIONS D’HISTORIQUE**
 
-- Somebody defeated you in battle years ago and left you to die. Who was it, and how did they betray you?
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- What legendary place have you always wanted to visit, and why is it so special?
+- Qui vous a appris à vous battre, et pourquoi est-il resté en arrière quand vous avez quitté votre foyer ?
 
-**CONNECTIONS**
+- Quelqu’un vous a vaincu au combat il y a des années et vous a laissé pour mort. Qui était-ce, et comment vous a-t-il trahi ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Quel lieu légendaire avez-vous toujours rêvé de visiter, et pourquoi est-il si particulier ?
 
-- We knew each other long before this party came together. How?
+**LIENS**
 
-- What mundane task do you usually help me with off the battlefield?
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- What fear am I helping you overcome?
+- Nous nous connaissions bien avant que ce groupe se forme. Comment ?
+
+- Quelle tâche banale m’aidez-vous habituellement à accomplir en dehors du champ de bataille ?
+
+- Quelle peur est-ce que je vous aide à surmonter ?

@@ -1,23 +1,30 @@
-# Darkweave Queen
+---
+aliases:
+  - "Darkweave Queen"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A wagon-sized spider woven from shadow-silk by a long-forgotten god. Each of her many eyes bears the face of a different victim.*
+# Reine tisse-ténèbres
 
-**Motives & Tactics:** Ambush prey, climb the walls and ceiling, misdirect, paralyze, stash bodies away for later, steal faces
+*(VO : Darkweave Queen)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/15 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Spider Bite:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d12+4 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Araignée grande comme une charrette, tissée dans une soie d’ombre par un dieu oublié depuis longtemps. Chacun de ses nombreux yeux porte le visage d’une victime différente.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Giant-Sized +3, Hunter +3
+**Motivations et tactiques :** Tendre des embuscades, escalader murs et plafonds, induire en erreur, paralyser, entreposer les corps pour plus tard, voler des visages
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/15 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Morsure d’araignée :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d12+4 phy
 
-***Relentless (3) - Passive:*** The Queen can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) her.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** De taille géante +3, Chasseuse +3
 
-***Terrifying - Passive:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against the Queen, you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Den Mother - Action:*** Once per scene, **spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon up to two Darkweave [adversaries](../core_rules/Using%20Adversaries.md) (other than Darkweave Queens), who appear within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately take the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Implacable (3) - Passif :*** La Reine peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour la [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Quicker Than She Looks - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move up to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make a standard attack with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Terrifiant - Passif :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) rate un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre la Reine, vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Darkfang Envenomation - Reaction:*** When the Queen succeeds on a standard attack, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make the target *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they succeed on a [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (12) or take a rest.
+***Mère de couvée - Action :*** Une fois par scène, **dépensez 2 [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer jusqu’à deux [adversaires](../core_rules/Using%20Adversaries.md) tisse-ténèbres (autres que des Reines), qui apparaissent à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et prennent immédiatement [les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Plus rapide qu’elle n’en a l’air - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la Reine se déplace jusqu’à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et fasse une attaque standard avec [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
+
+***Envenimation sombre - Réaction :*** Quand la Reine réussit une attaque standard, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour rendre la cible [Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) et [Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD) jusqu’à ce qu’elle réussisse un [jet de Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (12) ou qu’elle prenne un repos.

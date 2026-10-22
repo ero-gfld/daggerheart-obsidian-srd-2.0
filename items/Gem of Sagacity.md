@@ -1,3 +1,10 @@
-# Gem of Sagacity
+---
+aliases:
+  - "Gem of Sagacity"
+---
 
-You can attach this gem to a weapon, allowing you to use your [Knowledge](../core_rules/Character%20Creation.md#STEP%203) when making an attack with that weapon.
+# Gemme de sagacité
+
+*(VO : Gem of Sagacity)*
+
+Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) lorsque vous attaquez avec cette arme.

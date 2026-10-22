@@ -1,21 +1,28 @@
-# Hydra
+---
+aliases:
+  - "Hydra"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*
+# Hydre
 
-**Motives & Tactics:** Devour, regenerate, terrify
+*(VO : Hydra)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 19/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **Bite:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d12+2 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une bête quadrupède couverte d’écailles, aux multiples têtes sur de longs cous, chacune hérissée de crocs menaçants.*
+
+**Motivations et tactiques :** Dévorer, se régénérer, terrifier
+
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 19/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **Morsure :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d12+2 phy
 
 ## FEATURES
 
-***Many-Headed Menace - Passive:*** The Hydra begins with three heads and can have up to five. When the Hydra takes [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage, they lose a head.
+***Menace aux têtes multiples - Passif :*** L’hydre commence avec trois têtes et peut en avoir jusqu’à cinq. Lorsqu’elle subit des dégâts [majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus, elle perd une tête.
 
-***Relentless (X) - Passive:*** The Hydra can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) X times per [GM turn](../core_rules/Making%20Moves.md), where X is the Hydra’s number of heads. Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Implacable (X) - Passif :*** L’hydre peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) X fois par [tour du MJ](../core_rules/Making%20Moves.md), où X est son nombre de têtes. Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour la mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Regeneration - Action:*** If the Hydra has any marked [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear a HP and grow two heads.
+***Régénération - Action :*** Si l’hydre a des [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) marqués, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effacer un PV et faire pousser deux têtes.
 
-***Terrifying Chorus - Action:*** All [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose 2 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Chœur terrifiant - Action :*** Tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent 2 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Magical Weakness - Reaction:*** When the Hydra takes [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING), they become *Dazed* until the next roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). While *Dazed*, they can’t use their Regeneration action but are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to magic damage.
+***Faiblesse magique - Réaction :*** Lorsque l’hydre subit des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER), elle devient *Étourdie* jusqu’au prochain jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Tant qu’elle est *Étourdie*, elle ne peut pas utiliser son action de régénération, mais elle est [immunisée](../core_rules/Core%20Mechanics.md#ATTAQUER) aux dégâts magiques.

@@ -1,17 +1,24 @@
-# Bladed Guard
+---
+aliases:
+  - "Bladed Guard"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*An armored guard bearing a sword and shield painted in the settlement’s colors.*
+# Garde à lames
 
-**Motives & Tactics:** Arrest, close gates, make it through the day, pin down
+*(VO : Bladed Guard)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5/9 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +1 | **Longsword:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d6+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un garde cuirassé, armé d’une épée et d’un bouclier peints aux couleurs de la localité.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Local [Knowledge](../core_rules/Character%20Creation.md#STEP%203) +3
+**Motivations et tactiques :** Arrêter, fermer les portes, tenir jusqu’au soir, clouer sur place
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5/9 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +1 | **Épée longue :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d6+1 phy
 
-***Shield Wall - Passive:*** A creature who tries to move within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the Guard must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) Roll. If additional Bladed Guards are standing in a line alongside the first, and each is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of another guard in the line, the [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) increases by the total number of guards in that line.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203) local +3
 
-***Detain - Action:*** Make an attack against a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to *[Restrain](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* the target until they break free with a successful attack, [Finesse](../core_rules/Character%20Creation.md#STEP%203) Roll, or [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll.
+## APTITUDES
+
+***Muraille de boucliers - Passif :*** Une créature qui tente de se déplacer à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du Garde doit réussir un jet d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Si d’autres Gardes à lames se tiennent en ligne à ses côtés, et que chacun est à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un autre garde de la ligne, la [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) augmente du nombre total de gardes de cette ligne.
+
+***Retenir - Action :*** Effectuez une attaque contre une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour *[entraver](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* la cible jusqu’à ce qu’elle se libère avec une attaque réussie, un [jet de Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou un [jet de Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

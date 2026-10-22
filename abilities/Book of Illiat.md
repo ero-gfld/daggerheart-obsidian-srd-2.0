@@ -1,9 +1,16 @@
-# Book of Illiat
+---
+aliases:
+  - "Book of Illiat"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Livre d’Illiat
 
-***Slumber:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, they’re *Asleep* until they take damage or the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) spends a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) on their turn to clear this condition.
+*(VO : Book of Illiat)*
 
-***Arcane Barrage:*** Once per rest, **spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and shoot magical projectiles that strike a target of your choice within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Roll a number of **d6s** equal to the Hope spent and deal that much [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to the target.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Grimoire](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Codex](../domains/Codex.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-***Telepathy:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again.
+***Sommeil :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, elle est *Endormie* jusqu’à ce qu’elle subisse des dégâts ou jusqu’à ce que le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dépense une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) à son tour pour dissiper cet état.
+
+***Barrage arcanique :*** Une fois par repos, **dépensez un nombre quelconque d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et tirez des projectiles magiques qui frappent une cible de votre choix à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Lancez un nombre de **d6** égal à l’Espoir dépensé et infligez à la cible autant de [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Télépathie :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour ouvrir une liaison mentale avec une cible que vous voyez. Cette liaison dure jusqu’à votre prochain repos ou jusqu’à ce que vous lanciez de nouveau Télépathie.

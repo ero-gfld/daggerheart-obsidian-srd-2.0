@@ -1,8 +1,15 @@
-# Codex‑touched
+---
+aliases:
+  - "Codex‑touched"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Codex [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Touché par le Codex
 
-When 4 or more of the [domain cards](../core_rules/Domains.md#DOMAIN%20CARDS) in your [loadout](../core_rules/Domains.md#DOMAIN%20CARDS) are from the Codex domain, gain the following benefits:
+*(VO : Codex‑touched)*
 
-- You can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to add your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) to a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS).
-- Once per rest, replace this card with any card from your [vault](../core_rules/Domains.md#DOMAIN%20CARDS) without paying its [Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS).
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *Codex [Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsque 4 [cartes de domaine](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) ou plus de votre [main](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) appartiennent au domaine du Codex, vous bénéficiez des avantages suivants :
+
+- Vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour ajouter votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) à un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
+- Une fois par repos, remplacez cette carte par n’importe quelle carte de votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE), sans payer son [Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

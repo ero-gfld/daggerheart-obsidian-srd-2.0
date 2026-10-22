@@ -1,19 +1,26 @@
-# Sylvan Soldier
+---
+aliases:
+  - "Sylvan Soldier"
+---
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***
-*A faerie warrior adorned in armor made of leaves and bark.*
+# Soldat sylvain
 
-**Motives & Tactics:** Ambush, hide, overwhelm, protect, trail
+*(VO : Sylvan Soldier)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6/11 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 2  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +0 | **Scythe:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+1 phy
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Standard](../core_rules/Using%20Adversaries.md)***
+*Un guerrier féerique, vêtu d’une armure de feuilles et d’écorce.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Tracker +2
+**Motivations et tactiques :** Tendre une embuscade, se cacher, submerger, protéger, pister
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6/11 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 2  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +0 | **Faux :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+1 phy
 
-***Pack Tactics - Passive:*** If the Soldier makes a standard attack and another Sylvan Soldier is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the target, deal **1d8+5** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) instead of their standard damage.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Pistage +2
 
-***Forest Control - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to pull down a tree within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. A creature hit by the tree must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15) or take **1d10** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Blend In - Reaction:*** When the Soldier makes a successful attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to become *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until the Soldier’s next attack or a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) succeeds on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll (14) to find them.
+***Tactique de meute - Passif :*** Si le Soldat fait une attaque standard alors qu’un autre Soldat sylvain se trouve à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de la cible, infligez **1d8+5** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) au lieu de ses dégâts standard.
+
+***Contrôle de la forêt - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour faire tomber un arbre à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Une créature touchée par l’arbre doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (15), sinon elle subit **1d10** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Se fondre dans le décor - Réaction :*** Quand le Soldat réussit une attaque, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour devenir *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à sa prochaine attaque, à moins qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ne réussisse un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (14) pour le repérer.

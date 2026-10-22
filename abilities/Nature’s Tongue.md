@@ -1,7 +1,14 @@
-# Nature’s Tongue
+---
+aliases:
+  - "Nature’s Tongue"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*
+# Langue de la nature
 
-You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an **[Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll (12)**. On a success, they’ll give you the information they know. On a roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), their knowledge might be limited or come at a cost.
+*(VO : Nature’s Tongue)*
 
-Additionally, before you make a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) while within a natural [environment](../core_rules/Using%20Environments.md), you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gain a +2 bonus to the roll.
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *0.*
+
+Vous pouvez parler la langue du monde naturel. Quand vous voulez vous adresser aux plantes et aux animaux qui vous entourent, faites un **jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (12)**. En cas de succès, ils vous donnent les informations qu’ils connaissent. Sur un jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), leur savoir peut être limité ou avoir un prix.
+
+De plus, avant de faire un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) dans un [environnement](../core_rules/Using%20Environments.md) naturel, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour gagner un bonus de +2 au jet.

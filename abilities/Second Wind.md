@@ -1,5 +1,12 @@
-# Second Wind
+---
+aliases:
+  - "Second Wind"
+---
 
-***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Second souffle
 
-Once per rest, when you succeed on an attack against an [adversary](../core_rules/Using%20Adversaries.md), you can clear 3 [Stress](../core_rules/Core%20Mechanics.md#STRESS) or a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). On a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW), you also clear 3 Stress or a Hit Point on an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of you.
+*(VO : Second Wind)*
+
+***[Niveau 3](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Splendeur](../domains/Splendor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Une fois par repos, lorsque vous réussissez une attaque contre un [adversaire](../core_rules/Using%20Adversaries.md), vous pouvez évacuer 3 [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou effacer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). En cas de [succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U), vous pouvez aussi évacuer 3 Stress ou effacer un Point de vie chez un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de vous.

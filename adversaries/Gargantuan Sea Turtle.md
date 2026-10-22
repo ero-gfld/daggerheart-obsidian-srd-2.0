@@ -1,23 +1,30 @@
-# Gargantuan Sea Turtle
+---
+aliases:
+  - "Gargantuan Sea Turtle"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A monstrous sea turtle that has an adamantine shell and beak.*
+# Tortue de mer gigantesque
 
-**Motives & Tactics:** Acquire riches, capsize trading vessels, lie in wait, use the waves as cover
+*(VO : Gargantuan Sea Turtle)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 21/41 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +7 | **Crushing Jaws:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d12+7 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une tortue de mer monstrueuse à la carapace et au bec d’adamantium.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Open Sea +5
+**Motivations et tactiques :** Amasser des richesses, faire chavirer les navires marchands, guetter en embuscade, utiliser les vagues comme couvert
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 21/41 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +7 | **Mâchoires broyeuses :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d12+7 phy
 
-***Relentless (3) - Passive:*** The Turtle can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) it.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Haute mer +5
 
-***Piercing Bite - Passive:*** When the Turtle makes a successful standard attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), the PC must either mark an [Armor Slot](../core_rules/Equipment.md#ARMOR) without receiving its benefit or take double damage.
+## APTITUDES
 
-***Tail Bash - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a standard attack against all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) behind the Turtle within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, a target takes an extra **1d12** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and is pushed away from the Turtle to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Implacable (3) - Passif :*** La Tortue peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour la [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Gigaton Splash - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Turtle use its weight to unleash an unstoppable wall of water that targets all creatures within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must make a [Strength](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) to navigate the tide. Targets who fail are pushed away from the Turtle to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, take **4d8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), and become temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*. Targets who succeed must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). For each target who failed, you gain a Fear.
+***Morsure perçante - Passif :*** Lorsque la Tortue réussit une attaque standard contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), le PJ doit soit marquer un [emplacement d’armure](../core_rules/Equipment.md#ARMURE) sans en recevoir le bénéfice, soit subir des dégâts doubles.
 
-***Steam Breath - Action:*** **Spend 2 [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Turtle release a blast of superheated steam targeting all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in front of it within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each target must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail take **4d8** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) and become temporarily *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS).* Targets who succeed must choose to either mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) or take half damage.
+***Coup de queue - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer une attaque standard contre tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) situés derrière la Tortue, à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, une cible subit **1d12** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) supplémentaires et est repoussée à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) loin de la Tortue.
+
+***Éclaboussure gigatonne - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la Tortue use de son poids afin de libérer un mur d’eau irrésistible qui frappe toutes les créatures à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) pour tenir face à la vague. Les cibles qui échouent sont repoussées à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) loin de la Tortue, subissent **4d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*. Les cibles qui réussissent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Pour chaque cible qui a échoué, vous gagnez une Peur.
+
+***Souffle de vapeur - Action :*** **Dépensez 2 [Peurs](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la Tortue libère un jet de vapeur surchauffée visant tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) situés devant elle, à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent subissent **4d8** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et deviennent temporairement *[Vulnérables](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).* Les cibles qui réussissent doivent choisir entre marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) ou subir la moitié des dégâts.

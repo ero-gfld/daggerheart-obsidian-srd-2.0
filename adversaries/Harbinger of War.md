@@ -1,23 +1,30 @@
-# Harbinger of War
+---
+aliases:
+  - "Harbinger of War"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***
-*A warrior clad in black armor and a horned helmet and bearing a bloody banner.*
+# Avant-coureur de la Guerre
 
-**Motives & Tactics:** Destroy utterly, fight honorably, relish combat, shield-bash, strike powerfully
+*(VO : Harbinger of War)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 21 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 40/70 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Battle Axe:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d20 phy
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Cogneur](../core_rules/Using%20Adversaries.md)***
+*Un guerrier vêtu d’une armure noire, coiffé d’un casque cornu, qui brandit une bannière ensanglantée.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Heavy Armor +3
+**Motivations et tactiques :** Détruire totalement, combattre avec honneur, savourer le combat, frapper du bouclier, frapper avec puissance
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 21 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 40/70 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 9 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Hache de bataille :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d20 phy
 
-***Relentless (2) - Passive:*** The Harbinger can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to two times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Armure lourde +3
 
-***Mount - Passive:*** While the Harbinger is on their mount, they gain a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS). When the Harbinger takes [Severe damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they’re knocked from their mount. If the Harbinger is unhorsed, their mount disappears until you **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to summon it again.
+## APTITUDES
 
-***Iron Dice - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Harbinger attempt a risky all-out attack. Make a standard attack with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). On a success, the target marks an additional [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). On a failure, the Harbinger becomes *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they take or deal damage.
+***Implacable (2) - Passif :*** L’Avant-coureur peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à deux fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Supreme Commander - Action:*** Once per scene, **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon **1d6** [Hallowed Soldiers](Hallowed%20Soldier.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) one of them.
+***Monture - Passif :*** Tant que l’Avant-coureur est sur sa monture, il gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION). Quand il subit des [dégâts sévères](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il est désarçonné. S’il est désarçonné, sa monture disparaît jusqu’à ce que vous **marquiez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la faire apparaître de nouveau.
 
-***Battering Ram - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails an [action roll](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to move into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range with the PC and make a standard attack with [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) against them. On a success, the PC takes standard damage and is *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they are [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Dés de fer - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que l’Avant-coureur tente une attaque risquée, à fond. Effectuez une attaque standard avec un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). En cas de réussite, la cible marque un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) supplémentaire. En cas d’échec, l’Avant-coureur devient *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’il subisse ou inflige des dégâts.
+
+***Commandant suprême - Action :*** Une fois par scène, **dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer **1d6** [Soldats sanctifiés](Hallowed%20Soldier.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), et mettre immédiatement l’un d’eux [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***Bélier - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) rate un [jet d’action](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour vous déplacer à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du PJ et effectuer contre lui une attaque standard avec un [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). En cas de réussite, le PJ subit les dégâts standard et devient *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’il soit [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

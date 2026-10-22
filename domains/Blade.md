@@ -1,18 +1,25 @@
-# Blade
+---
+aliases:
+  - "Blade"
+---
 
-Blade is the domain of **weapon mastery.** Whether by steel, bow, or perhaps a more specialized arm, those who follow this path have the skill to cut short the lives of others. Wielders of Blade dedicate themselves to achieving inexorable power over death. The Blade domain can be accessed by the **[Assassin](../classes/Assassin.md)**, **[Guardian](../classes/Guardian.md)**, and **[Warrior](../classes/Warrior.md)** classes.
+# Lame
 
-### DOMAIN CARDS
+*(VO : Blade)*
 
-| **Level** | **Option 1**                                                     | **Option 2**                                                 | **Option 3**                           |
-| --------- | ---------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
-| **1**     | [Get Back Up](../abilities/Get%20Back%20Up.md)                   | [Not Good Enough](../abilities/Not%20Good%20Enough.md)       | [Whirlwind](../abilities/Whirlwind.md) |
-| **2**     | [A Soldier’s Bond](../abilities/A%20Soldier’s%20Bond.md) | [Reckless](../abilities/Reckless.md)                         | —                                      |
-| **3**     | [Scramble](../abilities/Scramble.md)                             | [Versatile Fighter](../abilities/Versatile%20Fighter.md)     | —                                      |
-| **4**     | [Deadly Focus](../abilities/Deadly%20Focus.md)                   | [Fortified Armor](../abilities/Fortified%20Armor.md)         | —                                      |
-| **5**     | [Champion’s Edge](../abilities/Champion’s%20Edge.md)     | [Vitality](../abilities/Vitality.md)                         | —                                      |
-| **6**     | [Battle‑hardened](../abilities/Battle‑hardened.md)       | [Rage Up](../abilities/Rage%20Up.md)                         | —                                      |
-| **7**     | [Blade‑touched](../abilities/Blade‑touched.md)           | [Glancing Blow](../abilities/Glancing%20Blow.md)             | —                                      |
-| **8**     | [Battle Cry](../abilities/Battle%20Cry.md)                       | [Frenzy](../abilities/Frenzy.md)                             | —                                      |
-| **9**     | [Gore and Glory](../abilities/Gore%20and%20Glory.md)             | [Reaper’s Strike](../abilities/Reaper’s%20Strike.md) | —                                      |
-| **10**    | [Battle Monster](../abilities/Battle%20Monster.md)               | [Onslaught](../abilities/Onslaught.md)                       | —                                      |
+La Lame est le domaine de la **maîtrise des armes.** Par l’acier, l’arc ou quelque arme plus spécialisée, ceux qui suivent cette voie ont l’art de faucher la vie d’autrui. Les adeptes de la Lame se consacrent à acquérir un pouvoir inexorable sur la mort. Le domaine de la Lame est accessible aux classes **[Assassin](../classes/Assassin.md)**, **[Gardien](../classes/Guardian.md)** et **[Guerrier](../classes/Warrior.md)**.
+
+### CARTES DE DOMAINE
+
+| **Niveau** | **Option 1**                                              | **Option 2**                                                 | **Option 3**                            |
+| ---------- | --------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------- |
+| **1**      | [Se relever](../abilities/Get%20Back%20Up.md)             | [Pas assez bien](../abilities/Not%20Good%20Enough.md)        | [Tourbillon](../abilities/Whirlwind.md) |
+| **2**      | [Lien du soldat](../abilities/A%20Soldier’s%20Bond.md)    | [Téméraire](../abilities/Reckless.md)                        | —                                       |
+| **3**      | [Se disperser](../abilities/Scramble.md)                  | [Combattant polyvalent](../abilities/Versatile%20Fighter.md) | —                                       |
+| **4**      | [Concentration mortelle](../abilities/Deadly%20Focus.md)  | [Armure renforcée](../abilities/Fortified%20Armor.md)        | —                                       |
+| **5**      | [Avantage du champion](../abilities/Champion’s%20Edge.md) | [Vitalité](../abilities/Vitality.md)                         | —                                       |
+| **6**      | [Aguerri](../abilities/Battle‑hardened.md)                | [Monter en rage](../abilities/Rage%20Up.md)                  | —                                       |
+| **7**      | [Touché par la Lame](../abilities/Blade‑touched.md)       | [Coup effleurant](../abilities/Glancing%20Blow.md)           | —                                       |
+| **8**      | [Cri de guerre](../abilities/Battle%20Cry.md)             | [Frénésie](../abilities/Frenzy.md)                           | —                                       |
+| **9**      | [Carnage et gloire](../abilities/Gore%20and%20Glory.md)   | [Frappe du faucheur](../abilities/Reaper’s%20Strike.md)      | —                                       |
+| **10**     | [Monstre de guerre](../abilities/Battle%20Monster.md)     | [Assaut](../abilities/Onslaught.md)                          | —                                       |

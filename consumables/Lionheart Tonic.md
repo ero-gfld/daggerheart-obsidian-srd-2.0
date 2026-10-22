@@ -1,3 +1,10 @@
-# Lionheart Tonic
+---
+aliases:
+  - "Lionheart Tonic"
+---
 
-You can drink this tonic to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) until you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+# Tonique cœur de lion
+
+*(VO : Lionheart Tonic)*
+
+Vous pouvez boire ce tonique pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) jusqu’à ce que vous fassiez un [jet avec la Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

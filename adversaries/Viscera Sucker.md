@@ -1,19 +1,26 @@
-# Viscera Sucker
+---
+aliases:
+  - "Viscera Sucker"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A vampiric demon whose upper body detaches at sundown to fly through nearby villages in search of victims. It has a winged upper body with hanging entrails.*
+# Suceur de viscères
 
-**Motives & Tactics:** Clamp onto prey, suck blood, tear in half
+*(VO : Viscera Sucker)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 14 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 16/30 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 3  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Long Nails:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d6+7 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un démon vampirique dont le haut du corps se détache au crépuscule pour voler au-dessus des villages alentour à la recherche de victimes. Son torse ailé laisse pendre des entrailles.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Flying +3
+**Motivations et tactiques :** S’accrocher à ses proies, sucer le sang, déchirer en deux
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 14 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 16/30 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 3  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Longs ongles :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d6+7 phy
 
-***Join or Die - Passive:*** The Viscera Sucker dies if it hasn’t reconnected its upper and lower halves by dawn.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Vol +3
 
-***Entangling Entrails - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Viscera Sucker latch onto a target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, *Restraining* them until they escape with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (16).
+## APTITUDES
 
-***Lifesuck - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Viscera Sucker drink blood from a *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The target marks a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), and the Viscera Sucker clears a HP.
+***Unis ou morts - Passif :*** Le Suceur de viscères meurt s’il n’a pas réuni ses deux moitiés avant l’aube.
+
+***Entrailles enchevêtrées - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Suceur de viscères s’accroche à une cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible est *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle se libère grâce à un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi (16).
+
+***Aspiration vitale - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Suceur de viscères boive le sang d’une cible *Entravée* à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). La cible marque un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), et le Suceur efface un PV.

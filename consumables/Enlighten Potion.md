@@ -1,3 +1,10 @@
-# Enlighten Potion
+---
+aliases:
+  - "Enlighten Potion"
+---
 
-You gain a +1 bonus to your next [Knowledge](../core_rules/Character%20Creation.md#STEP%203) Roll.
+# Potion d’illumination
+
+*(VO : Enlighten Potion)*
+
+Vous gagnez un bonus de +1 à votre prochain jet de [Savoir](../core_rules/Character%20Creation.md#%C3%89TAPE%203).

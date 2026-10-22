@@ -1,11 +1,18 @@
-# Emberkin
+---
+aliases:
+  - "Emberkin"
+---
 
-Emberkin are humanoids whose bodies are made of flesh and fire. Descended from fire elementals, emberkin might manifest their fiery heritage through flaming hair, eyes like embers, luminous streams that dance across their skin, a smoking exterior, or a glow flickering through their muscles, veins, organs, or fingertips. All these features are known to shift or flare with their emotions, and some individuals’ characteristics might be more changeable than another’s. The coloring of their skin and hair resembles the hues of fire: bright red, orange, yellow, charcoal, or even hints of blue. Their ears curve and point like a tongue of fire, and they tend to be warmer in temperature, either purposefully or innately, with some even being hot to the touch.
+# Enfant du feu
 
-Infant emberkin resemble small balls of fire or cinders, and because they lack the skill to control their temperature, they often need to be placed in fireproof containment such as dragon eggs, hearths, and cookware. Their humanoid characteristics develop throughout adolescence until they solidify into their adult form. Emberkin range from 5 to 7 feet tall and live about 250 years, their light and heat dimming as they age. When they pass, they blaze brightly for a moment, then burn to ash.
+*(VO : Emberkin)*
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+Les enfants du feu sont des humanoïdes dont le corps est fait de chair et de feu. Descendants des élémentaires de feu, ils peuvent manifester leur héritage ardent par des cheveux en flammes, des yeux semblables à des braises, des filets lumineux qui dansent sur leur peau, un épiderme fumant, ou une lueur qui vacille dans leurs muscles, leurs veines, leurs organes ou le bout de leurs doigts. Tous ces traits peuvent changer ou flamber au gré de leurs émotions, et ceux de certains sont plus changeants que ceux d’autres. La couleur de leur peau et de leurs cheveux rappelle les teintes du feu : rouge vif, orange, jaune, charbon, ou même des reflets bleutés. Leurs oreilles se recourbent et s’effilent comme une langue de feu, et ils sont plus chauds que la moyenne, volontairement ou par nature, certains étant même brûlants au toucher.
 
-***Fireproof:*** You are [immune](../core_rules/Core%20Mechanics.md#ATTACKING) to damage from magical or mundane flame.
+Les nourrissons enfants du feu ressemblent à de petites boules de feu ou de braises, et comme ils ne savent pas encore maîtriser leur température, il faut souvent les placer dans des contenants ignifugés, comme des œufs de dragon, des foyers et des ustensiles de cuisine. Leurs traits humanoïdes se développent au cours de l’adolescence, jusqu’à se fixer en leur forme adulte. Les enfants du feu mesurent de 5 à 7 pieds et vivent environ 250 ans, leur lumière et leur chaleur s’atténuant avec l’âge. À leur mort, ils flamboient un instant, puis se consument en cendres.
 
-***Ignition:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to wreathe your [primary weapon](../core_rules/Equipment.md#WEAPONS) in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) with that weapon.
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Ignifugé :*** Vous êtes [immunisé](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les dégâts des flammes, magiques ou ordinaires.
+
+***Embrasement :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour envelopper de flammes votre [arme principale](../core_rules/Equipment.md#ARMES) jusqu’à la fin de la scène. Tant que l’arme est en feu, elle émet une vive lumière et vous gagnez un bonus de **1d6** aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) avec cette arme.

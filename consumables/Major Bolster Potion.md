@@ -1,3 +1,10 @@
-# Major Bolster Potion
+---
+aliases:
+  - "Major Bolster Potion"
+---
 
-You gain a +1 bonus to your [Strength](../core_rules/Character%20Creation.md#STEP%203) until your next rest.
+# Potion de renfort majeure
+
+*(VO : Major Bolster Potion)*
+
+Vous gagnez un bonus de +1 à votre [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) jusqu’à votre prochain repos.

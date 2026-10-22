@@ -1,3 +1,10 @@
-# Stamina Potion
+---
+aliases:
+  - "Stamina Potion"
+---
 
-Clear 1d4+1 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+# Potion d’endurance
+
+*(VO : Stamina Potion)*
+
+Évacuez 1d4+1 [Stress](../core_rules/Core%20Mechanics.md#STRESS).

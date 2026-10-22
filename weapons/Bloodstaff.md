@@ -1,9 +1,16 @@
-# Bloodstaff
+---
+aliases:
+  - "Bloodstaff"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Bâton de sang
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d20+7 mag* · *[Two-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Bloodstaff)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Painful:*** Each time you make a successful attack, you must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d20+7 mag* · *[À deux mains](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Douloureux :*** chaque fois que vous réussissez une attaque, vous devez marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).

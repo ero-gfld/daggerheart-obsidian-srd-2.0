@@ -1,3 +1,10 @@
-# Displacement Token
+---
+aliases:
+  - "Displacement Token"
+---
 
-You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.
+# Jeton de déplacement
+
+*(VO : Displacement Token)*
+
+Vous pouvez avaler ce jeton pour faire apparaître deux illusions de vous-même que vous pouvez contrôler. Chaque illusion dure jusqu’à ce qu’elle subisse des dégâts ou jusqu’à votre prochain repos.

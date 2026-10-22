@@ -1,24 +1,31 @@
-# Abandoned Mine
+---
+aliases:
+  - "Abandoned Mine"
+---
 
-***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***
-*A twisting warren of disused tunnels carved out of the bedrock by a doomed mining outfit.*
+# Mine abandonnée
 
-**Impulses:** Poison the party with deadly gasses, rumble and collapse, split the party, turn them around
+*(VO : Abandoned Mine)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 11 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** Darkweave Spiders (Darkweave *Crawler, [Darkweave Spinner](../adversaries/Darkweave%20Spinner.md), [Darkweave Swarmlings](../adversaries/Darkweave%20Swarmlings.md)*), Miner Ghosts (*Poltergeist, Will-o’-the-Wisps*)
+***[Rang 1](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Traversée](../core_rules/Using%20Environments.md)***
+*Un dédale tortueux de galeries désaffectées, creusées dans la roche nue par une compagnie minière condamnée.*
 
-## FEATURES
+**Pulsions :** Empoisonner le groupe avec des gaz mortels, faire gronder et s’effondrer, séparer le groupe, le faire rebrousser chemin
 
-***Pitch Black - Passive:*** There is no light, natural or otherwise, in these underground mining tunnels. Ask the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) what they use for light or how they otherwise find their way in the dark. PCs without a reliable source of light make action and [reaction rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE). *What fuel does the party’s light source use, and how long will it last?* *What unwanted attention does the light attract?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 11 | **[Adversaires](../core_rules/Using%20Adversaries.md) possibles :** Araignées tisse-ténèbres (*Rampeur tisse-ténèbres, [Fileur tisse-ténèbres](../adversaries/Darkweave%20Spinner.md), [Essaim de jeunes tisse-ténèbres](../adversaries/Darkweave%20Swarmlings.md)*), Fantômes de mineurs (*Poltergeist, Feux follets*)
 
-***Labyrinth - Passive:*** The party must complete a [Progress Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (4) to find their way through the mines. Each time a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) rolls with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) while finding their way through, they discover one of the curiosities below.
+## Aptitudes
 
-- An unmined vein of precious metals or gemstones
-- Various mining tools, including a broken (but mendable) mine cart made of adamantine
-- Psychic echoes of the miners’ tragic end
-- The desiccated corpses of miners who lost their way in the tunnels
-- Tattered remnants of darkweave spider silk *What did miners previously extract here? Who in the party knows* *how to navigate below ground? What are the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) most afraid might* *happen to them down here?*
+***Noirceur absolue - Passif :*** Aucune lumière, naturelle ou non, n’éclaire ces galeries minières souterraines. Demandez aux [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) ce qu’ils utilisent pour s’éclairer ou comment ils trouvent leur chemin dans le noir. Les PJ sans source de lumière fiable font des jets d’action et des [jets de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) avec un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE). *Quel carburant alimente la source de lumière du groupe, et combien de temps durera-t-il ? Quelle attention indésirable cette lumière attire-t-elle ?*
 
-***Into the Spider’s Web - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon a [Darkweave Queen](../adversaries/Darkweave%20Queen.md) inside her gossamer-strewn lair. She drops from the ceiling within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and immediately takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). *How does the Darkweave Queen use her lair to her [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE)? What* *remnants of her past meals can the party find here?*
+***Labyrinthe - Passif :*** Le groupe doit compléter un [compte à rebours de progression](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (4) pour trouver son chemin dans les mines. Chaque fois qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) obtient un résultat avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) en cherchant son chemin, il découvre l’une des curiosités ci-dessous.
 
-***Impending Collapse - Reaction:*** *[Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (2).* The first time the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), describe how the ground subtly vibrates as rocks shift overhead and activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, each PC must succeed on an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or take **1d8+3** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and become temporarily *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* by the rubble. *What other signs of instability does the mine offer the party? What* *new dangers does the tunnel system’s new configuration expose the* *party to?*
+- Un filon non exploité de métaux précieux ou de pierres précieuses
+- Divers outils de mineur, dont un wagonnet brisé (mais réparable) en adamantine
+- Des échos psychiques de la fin tragique des mineurs
+- Les cadavres desséchés de mineurs qui se sont perdus dans les galeries
+- Des lambeaux de soie d’araignée tisse-ténèbres *Qu’extrayait-on ici autrefois ? Qui, dans le groupe, sait se diriger sous terre ? Que craignent le plus les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) qui pourrait leur arriver là-dessous ?*
+
+***Dans la toile de l’araignée - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer une [Reine tisse-ténèbres](../adversaries/Darkweave%20Queen.md) dans son repaire couvert de soie. Elle tombe du plafond à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) et prend immédiatement [les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). *Comment la Reine tisse-ténèbres utilise-t-elle son repaire à son [avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) ? Quels restes de ses anciens repas le groupe peut-il trouver ici ?*
+
+***Effondrement imminent - Réaction :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (2).* La première fois que les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) obtiennent un résultat avec [la Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), décrivez comment le sol vibre subtilement tandis que des rochers bougent au-dessus d’eux, ce qui active le compte à rebours. Il descend chaque fois qu’un PJ obtient un résultat avec la Peur. Quand il se déclenche, chaque PJ doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou subir **1d8+3** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et devenir temporairement *[Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* sous les gravats. *Quels autres signes d’instabilité la mine offre-t-elle au groupe ? Quels nouveaux dangers la nouvelle configuration du réseau de galeries expose-t-elle les PJ ?*

@@ -1,43 +1,50 @@
-# Seraph
+---
+aliases:
+  - "Seraph"
+---
 
-Seraphs are divine fighters and healers imbued with sacred purpose. A wide array of deities exist within the realms, and thus numerous kinds of seraphs are appointed by these gods. Their ethos traditionally aligns with the domain or goals of their god, such as defending the weak, exacting vengeance, protecting a land or artifact, or upholding a particular faith. Some seraphs ally themselves with an army or locale, much to the satisfaction of their rulers, but other crusaders fight in opposition to the follies of the Mortal Realm. It is better to be a seraph’s ally than their enemy, as they are terrifying foes to those who defy their purpose.
+# Séraphin
 
-**DOMAINS –** [Splendor](../domains/Splendor.md) & [Valor](../domains/Valor.md)
+*(VO : Seraph)*
 
-**STARTING EVASION –** 9
+Les séraphins sont des combattants et des guérisseurs divins, investis d’une mission sacrée. Une multitude de divinités existent dans les royaumes, et ces dieux nomment donc de nombreuses sortes de séraphins. Leur éthique s’aligne traditionnellement sur le domaine ou les buts de leur dieu : défendre les faibles, exercer la vengeance, protéger une terre ou un artefact, ou faire respecter une foi particulière. Certains séraphins s’allient à une armée ou à une région, à la grande satisfaction de leurs souverains, mais d’autres croisés combattent à l’opposé des folies du Royaume mortel. Mieux vaut être l’allié d’un séraphin que son ennemi : ils sont des adversaires terrifiants pour ceux qui s’opposent à leur mission.
 
-**STARTING HIT POINTS –** 7
+**DOMAINES –** [Splendeur](../domains/Splendor.md) & [Vaillance](../domains/Valor.md)
 
-**CLASS ITEMS –** A bundle of offerings or a sigil of your god
+**ÉVASION DE DÉPART –** 9
 
-**SERAPH’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 7
 
-***Life Support:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) on an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+**OBJETS DE CLASSE –** Un paquet d’offrandes ou le sceau de votre dieu
 
-**[CLASS FEATURE](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU SÉRAPHIN**
 
-***Prayer Dice:*** At the beginning of each session, roll a number of **d4s** equal to your subclass’s [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. You can use a spent die’s value to reduce incoming damage, add to a roll’s result after the roll is made, or gain [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to the result. At the end of each session, clear all unspent Prayer Dice.
+***Soutien vital :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour évacuer un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) d’un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-### SUBCLASSES
+**[APTITUDE DE CLASSE](../core_rules/Classes.md)**
 
-*Choose either the* ***[Divine Wielder](../subclasses/Divine%20Wielder.md)*** *or* ***[Winged Sentinel](../subclasses/Winged%20Sentinel.md)*** *subclass.*
+***Dés de Prière :*** Au début de chaque séance, lancez un nombre de **d4** égal à la caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de votre sous-classe et placez-les sur votre fiche de personnage, à l’emplacement prévu. Ce sont vos dés de Prière. Vous pouvez dépenser autant de dés de Prière que vous voulez pour vous aider vous-même ou aider un allié à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Vous pouvez utiliser la valeur d’un dé dépensé pour réduire des dégâts subis, l’ajouter au résultat d’un jet après qu’il a été fait, ou gagner autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) que le résultat. À la fin de chaque séance, retirez tous les dés de Prière non dépensés.
 
-**BACKGROUND QUESTIONS**
+### SOUS-CLASSES
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Choisissez la sous-classe* ***[Porteur divin](../subclasses/Divine%20Wielder.md)*** *ou* ***[Sentinelle ailée](../subclasses/Winged%20Sentinel.md)***.
 
-- Which god did you devote yourself to? What incredible feat did they perform for you in a moment of desperation?
+**QUESTIONS D’HISTORIQUE**
 
-- How did your appearance change after taking your oath?
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- In what strange or unique way do you communicate with your god?
+- À quel dieu vous êtes-vous consacré ? Quel exploit incroyable a-t-il accompli pour vous dans un moment de désespoir ?
 
-**CONNECTIONS**
+- Comment votre apparence a-t-elle changé après votre serment ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- De quelle manière étrange ou singulière communiquez-vous avec votre dieu ?
 
-- What promise did you make me agree to, should you die on the battlefield?
+**LIENS**
 
-- Why do you ask me so many questions about my god?
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- You’ve told me to protect one member of our party above all others, even yourself. Who are they and why?
+- Quelle promesse m’avez-vous fait accepter, au cas où vous mourriez sur le champ de bataille ?
+
+- Pourquoi me posez-vous autant de questions sur mon dieu ?
+
+- Vous m’avez demandé de protéger un membre de notre groupe avant tous les autres, vous compris. Qui est-ce, et pourquoi ?

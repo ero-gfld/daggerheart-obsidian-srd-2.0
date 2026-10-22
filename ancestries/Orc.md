@@ -1,9 +1,9 @@
 # Orc
 
-Orcs are humanoids most easily recognized by their square features and boar-like tusks that protrude from their lower jaw. Tusks come in various sizes, and though they extend from the mouth, they aren’t used for consuming food. Instead, many orcs choose to decorate their tusks with significant ornamentation. Orcs typically live for 125 years, and unless altered, their tusks continue to grow throughout the course of their lives. Their ears are pointed, and their hair and skin typically have green, blue, pink, or gray tones. Orcs tend toward a muscular build, and their average height ranges from 5 feet to 6 ½ feet.
+Les orcs sont des humanoïdes que l’on reconnaît surtout à leurs traits carrés et aux défenses de sanglier qui sortent de leur mâchoire inférieure. Les défenses sont de tailles diverses et, bien qu’elles sortent de la bouche, elles ne servent pas à manger. Beaucoup d’orcs choisissent plutôt de les décorer de riches ornements. Les orcs vivent en général 125 ans et, sauf modification, leurs défenses continuent de croître tout au long de leur vie. Leurs oreilles sont pointues, et leurs cheveux et leur peau ont généralement des tons verts, bleus, roses ou gris. Les orcs ont tendance à être musclés, et leur taille moyenne va de 5 à 6 ½ pieds.
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
 
-***Sturdy:*** When you have 1 [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) remaining, attacks against you have [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Robuste :*** Quand il vous reste 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), les attaques contre vous ont le [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-***Tusks:*** When you succeed on an attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gore the target with your tusks, dealing an extra **1d6** damage.
+***Défenses :*** Quand vous réussissez une attaque contre une cible à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour encorner la cible de vos défenses et lui infliger **1d6** dégâts supplémentaires.

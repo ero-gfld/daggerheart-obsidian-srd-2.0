@@ -1,19 +1,19 @@
 # Lamia
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A snake-tailed humanoid monster who stalks the night to absorb the life energy of sleeping people.*
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un monstre humanoïde à queue de serpent, qui rôde la nuit pour absorber l’énergie vitale des dormeurs.*
 
-**Motives & Tactics:** Attack the unaware, avoid sunlight, leech life force, put to sleep, slither through tall grass
+**Motivations et tactiques :** Attaquer les imprudents, éviter la lumière du soleil, drainer la force vitale, endormir, se faufiler dans les hautes herbes
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 18/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +3 | **[Curved Dagger](../weapons/Curved%20Dagger.md):** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d8+4 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 18/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +3 | **[Dague courbe](../weapons/Curved%20Dagger.md) :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d8+4 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Snaky +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Serpentin +3
 
 ## FEATURES
 
-***Constriction - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Lamia wrap their tail around a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and squeeze. The target must succeed on a [Finesse](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become *Constricted* until the Lamia moves or takes [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage. While *Constricted*, the target is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and must mark a Stress when the Lamia takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Étreinte - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que la lamia enroule sa queue autour d’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et serre. La cible doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou devenir *Étreinte* jusqu’à ce que la lamia bouge ou subisse des [dégâts majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou plus. Tant qu’elle est *Étreinte*, la cible est *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et doit marquer un Stress lorsque la lamia prend les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Life Leech - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force a *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* or *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range to mark **1d4−1** [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). The Lamia then clears an equal number of HP.
+***Drain de vie - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour forcer une cible *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* ou *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à marquer **1d4−1** [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). La lamia efface ensuite un nombre égal de PV.
 
-***Sleep Toxin - Reaction:*** When the Lamia makes a successful standard attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make them *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they succeed on a [Instinct](../core_rules/Character%20Creation.md#STEP%203) Roll (19).
+***Toxine soporifique - Réaction :*** Lorsque la lamia réussit une attaque standard contre un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour le rendre *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’il réussisse un jet d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (19).

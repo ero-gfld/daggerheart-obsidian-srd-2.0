@@ -1,5 +1,12 @@
-# Chain Lightning
+---
+aliases:
+  - "Chain Lightning"
+---
 
-***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Foudre en chaîne
 
-**Mark 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)**, unleashing lightning on all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets you succeed against must make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) with a [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) equal to the result of your Spellcast Roll. Targets who fail take **2d8+4** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Additional [adversaries](../core_rules/Using%20Adversaries.md) not already targeted by Chain Lightning and within Close range of previous targets who took damage must also make the reaction roll. Targets who fail take **2d8+4** magic damage. This chain continues until there are no more adversaries within range.
+*(VO : Chain Lightning)*
+
+***[Niveau 5](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+**Marquez 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour faire un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**, libérant la foudre sur toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles vous réussissez doivent faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) avec une [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) égale au résultat de votre jet d’Incantation. Les cibles qui échouent subissent **2d8+4** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les [adversaires](../core_rules/Using%20Adversaries.md) supplémentaires, non encore visés par Foudre en chaîne et situés à portée Proche d’une cible précédente qui a subi des dégâts, doivent eux aussi faire le jet de réaction. Les cibles qui échouent subissent **2d8+4** dégâts magiques. La chaîne se poursuit jusqu’à ce qu’il n’y ait plus d’adversaires à portée.

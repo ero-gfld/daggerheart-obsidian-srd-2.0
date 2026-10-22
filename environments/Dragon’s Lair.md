@@ -1,18 +1,25 @@
-# Dragon’s Lair
+---
+aliases:
+  - "Dragon’s Lair"
+---
 
-***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***
-*A collection of gold, jewels, and artifacts in the heart of an active volcano.*
+# Antre du dragon
 
-**Impulses:** Lure into the levels below, make escape impossible, tempt with treasure, wake the dragon
+*(VO : Dragon’s Lair)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **Potential [Adversaries](../core_rules/Using%20Adversaries.md):** The Dragon’s [Minions](../core_rules/Using%20Adversaries.md) (Drake, Wyvern), *[Young Fire Dragon](../adversaries/Young%20Fire%20Dragon.md)*
+***[Rang 3](../core_rules/Using%20Environments.md#PROFILS%20D%E2%80%99ENVIRONNEMENT%20PAR%20RANG) [Exploration](../core_rules/Using%20Environments.md)***
+*Un amas d’or, de joyaux et d’artefacts au cœur d’un volcan actif.*
 
-## FEATURES
+**Pulsions :** attirer vers les niveaux inférieurs, rendre toute fuite impossible, tenter avec des trésors, réveiller le dragon
 
-***The Dragon Wakes - Passive:*** *[Consequence Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (8)*. The dragon that amassed this treasure lies sleeping somewhere on, under, or near the hoard. When the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) enter the lair, activate the [countdown](../core_rules/Making%20Moves.md#COUNTDOWNS). When it triggers, the dragon awakens and each PC must succeed on a [Presence](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). You gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each Stress marked this way. *Where does this dragon slumber? What does it dream about?*
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Adversaires possibles](../core_rules/Using%20Adversaries.md) :** Les [sbires](../core_rules/Using%20Adversaries.md) du dragon (Drake, Vouivre), *[Jeune dragon de feu](../adversaries/Young%20Fire%20Dragon.md)*
 
-***Treasure Hoard - Passive:*** At the heart of the lair sits a mountain of treasure. If the party wishes to locate the treasure, they must complete a [Progress Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (12). When it triggers, the party can tick down the [Consequence Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) to search through the treasure mound by rolling a number of **d12s** equal to 1 + their tier on the Item or Consumable table (their choice). *How did the party learn of this collection? What do they hope to find* *here?*
+## APTITUDES
 
-***Volcanic Activity - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to trigger a volcanic eruption. Each character must make an [Agility](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS). Targets who fail are burned by gouts of lava and flame as the earth breaks around them and take **3d8+5** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed take half damage. *What paths of egress are blocked by the volcano’s shifting* *configuration? How do the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) protect themselves from the stifling* *heat?*
+***Le dragon se réveille - Passif :*** *[Compte à rebours de conséquence](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (8)*. Le dragon qui a amassé ce trésor dort quelque part sur, sous ou près du tas d’or. Quand les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) entrent dans l’antre, activez le [compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS). Quand il se déclenche, le dragon s’éveille et chaque PJ doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) de [Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) par Stress marqué de cette façon. *Où ce dragon sommeille-t-il ? De quoi rêve-t-il ?*
 
-***Watchdogs - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) fails a roll to navigate the lair, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon **1d6** Drakes and up to two Wyverns, who appear within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a PC and are immediately [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT). *Why do these creatures serve the slumbering dragon? What signs* *does the party find that foreshadow their presence?*
+***Trésor amassé - Passif :*** Au cœur de l’antre se dresse une montagne de trésors. Si le groupe veut le localiser, il doit mener à bien un [compte à rebours de progression](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) (12). Quand il se déclenche, le groupe peut diminuer le [compte à rebours de conséquence](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) pour fouiller le tas de trésors, en lançant un nombre de **d12** égal à 1 + son rang, sur la table des objets ou sur celle des consommables (au choix du groupe). *Comment le groupe a-t-il eu vent de cette collection ? Qu’espère-t-il trouver ici ?*
+
+***Activité volcanique - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour déclencher une éruption volcanique. Chaque personnage doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203). Les cibles qui échouent sont brûlées par des jets de lave et de flammes tandis que la terre se fend autour d’elles, et subissent **3d8+5** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER). Les cibles qui réussissent ne subissent que la moitié des dégâts. *Quelles voies de sortie le volcan bloque-t-il par ses changements de forme ? Comment les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) se protègent-ils de la chaleur étouffante ?*
+
+***Chiens de garde - Réaction :*** Quand un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) échoue à un jet pour traverser l’antre, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer **1d6** Drakes et jusqu’à deux Vouivres, qui apparaissent à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un PJ et sont immédiatement mis sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS). *Pourquoi ces créatures servent-elles le dragon endormi ? Quels signes le groupe trouve-t-il qui annoncent leur présence ?*

@@ -1,19 +1,26 @@
-# Giant Beastmaster
+---
+aliases:
+  - "Giant Beastmaster"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A leather-clad warrior bearing a whip and massive bow.*
+# Maître-dresseur géant
 
-**Motives & Tactics:** Command, make a living, maneuver, pin down, protect companion animals
+*(VO : Giant Beastmaster)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/24 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Longbow:** [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+4 phy
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Un guerrier vêtu de cuir, armé d’un fouet et d’un immense arc.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Animal Handling +3
+**Motivations et tactiques :** Commander, gagner sa vie, manœuvrer, immobiliser, protéger les animaux de compagnie
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/24 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Arc long :** [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+4 phy
 
-***Two as One - Passive:*** When the Beastmaster is [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT), you can also [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) a [Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) animal [adversary](../core_rules/Using%20Adversaries.md) currently under their control.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Dressage +3
 
-***Pinning Strike - Action:*** Make a standard attack against a target. On a success, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to pin them to a nearby surface. The pinned target is *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they break free with a successful [Finesse](../core_rules/Character%20Creation.md#STEP%203) or [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll.
+## APTITUDES
 
-***Deadly Companion - Action:*** Twice per scene, summon a [Bear](Bear.md), [Dire Wolf](Dire%20Wolf.md), or similar [Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) animal [adversary](../core_rules/Using%20Adversaries.md) under the Beastmaster’s control. The adversary appears at [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and is immediately [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Deux en un - Passif :*** Lorsque le Maître-dresseur est [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS), vous pouvez aussi [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) un animal [adversaire](../core_rules/Using%20Adversaries.md) de [rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) placé sous son contrôle.
+
+***Frappe clouante - Action :*** Effectuez une attaque standard contre une cible. En cas de réussite, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour la clouer à une surface proche. La cible clouée est *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle se libère par un [jet d’Agilité](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) réussi.
+
+***Compagnon mortel - Action :*** Deux fois par scène, invoquez un [Ours](Bear.md), un [Loup redoutable](Dire%20Wolf.md) ou un autre animal [adversaire](../core_rules/Using%20Adversaries.md) de [rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) placé sous le contrôle du Maître-dresseur. L’adversaire apparaît à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et est immédiatement [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

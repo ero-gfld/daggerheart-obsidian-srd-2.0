@@ -1,5 +1,12 @@
-# Splintering Strike
+---
+aliases:
+  - "Splintering Strike"
+---
 
-***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *3.*
+# Frappe fendante
 
-**Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and make an attack against all [adversaries](../core_rules/Using%20Adversaries.md) within your weapon’s range. Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), on a success against any targets, roll your weapon's damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them.
+*(VO : Splintering Strike)*
+
+***[Niveau 9](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *3.*
+
+**Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et attaquez tous les [adversaires](../core_rules/Using%20Adversaries.md) à portée de votre arme. Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), en cas de réussite contre au moins une cible, lancez les dés de dégâts de votre arme et répartissez ce total comme vous le souhaitez entre les cibles contre lesquelles vous avez réussi. Avant d’infliger des dégâts à chaque cible, lancez un dé de dégâts supplémentaire et ajoutez son résultat aux dégâts que vous lui infligez.

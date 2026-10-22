@@ -1,5 +1,12 @@
-# Full Surge
+---
+aliases:
+  - "Full Surge"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Déferlement total
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), **mark 3 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to push your body to its limits. Gain a +2 bonus to all of your character traits until your next rest.
+*(VO : Full Surge)*
+
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), **marquez 3 [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour pousser votre corps au-delà de ses limites. Gagnez un bonus de +2 à toutes vos caractéristiques jusqu’à votre prochain repos.

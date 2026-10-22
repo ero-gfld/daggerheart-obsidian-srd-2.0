@@ -1,81 +1,88 @@
-# Domains
+---
+aliases:
+  - "Domains"
+---
 
-There are ten Domains, each comprising a collection of cards granting features or special abilities expressing a particular theme. Please note the Daggerheart Core Set includes only the following nine domains: [Arcana](../domains/Arcana.md), [Blade](../domains/Blade.md), [Bone](../domains/Bone.md), [Codex](../domains/Codex.md), [Grace](../domains/Grace.md), [Midnight](../domains/Midnight.md), [Sage](../domains/Sage.md), [Splendor](../domains/Splendor.md), and [Valor](../domains/Valor.md).
+# Domaines
 
-## CLASS DOMAINS
+*(VO : Domains)*
 
-Each class grants access to two domains:
+Il existe dix domaines, chacun composé d’un ensemble de cartes qui confèrent des aptitudes ou des capacités spéciales exprimant un thème particulier. Notez que le Daggerheart Core Set ne comprend que les neuf domaines suivants : [Arcanes](../domains/Arcana.md), [Lame](../domains/Blade.md), [Os](../domains/Bone.md), [Codex](../domains/Codex.md), [Grâce](../domains/Grace.md), [Minuit](../domains/Midnight.md), [Nature](../domains/Sage.md), [Splendeur](../domains/Splendor.md) et [Vaillance](../domains/Valor.md).
 
-- **[Assassin](../classes/Assassin.md):** [Blade](../domains/Blade.md) & [Midnight](../domains/Midnight.md)
+## DOMAINES DE CLASSE
 
-- **[Bard](../classes/Bard.md):** [Codex](../domains/Codex.md) & [Grace](../domains/Grace.md)
+Chaque classe donne accès à deux domaines :
 
-- **[Brawler](../classes/Brawler.md):** [Valor](../domains/Valor.md) & [Bone](../domains/Bone.md)
+- **[Assassin](../classes/Assassin.md) :** [Lame](../domains/Blade.md) et [Minuit](../domains/Midnight.md)
 
-- **[Druid](../classes/Druid.md):** [Arcana](../domains/Arcana.md) & [Sage](../domains/Sage.md)
+- **[Barde](../classes/Bard.md) :** [Codex](../domains/Codex.md) et [Grâce](../domains/Grace.md)
 
-- **[Guardian](../classes/Guardian.md):** [Blade](../domains/Blade.md) & [Valor](../domains/Valor.md)
+- **[Bagarreur](../classes/Brawler.md) :** [Vaillance](../domains/Valor.md) et [Os](../domains/Bone.md)
 
-- **[Ranger](../classes/Ranger.md):** [Bone](../domains/Bone.md) & [Sage](../domains/Sage.md)
+- **[Druide](../classes/Druid.md) :** [Arcanes](../domains/Arcana.md) et [Nature](../domains/Sage.md)
 
-- **[Rogue](../classes/Rogue.md):** [Grace](../domains/Grace.md) & [Midnight](../domains/Midnight.md)
+- **[Gardien](../classes/Guardian.md) :** [Lame](../domains/Blade.md) et [Vaillance](../domains/Valor.md)
 
-- **[Seraph](../classes/Seraph.md):** [Splendor](../domains/Splendor.md) & [Valor](../domains/Valor.md)
+- **[Rôdeur](../classes/Ranger.md) :** [Os](../domains/Bone.md) et [Nature](../domains/Sage.md)
 
-- **[Sorcerer](../classes/Sorcerer.md):** [Arcana](../domains/Arcana.md) & [Midnight](../domains/Midnight.md)
+- **[Roublard](../classes/Rogue.md) :** [Grâce](../domains/Grace.md) et [Minuit](../domains/Midnight.md)
 
-- **[Warlock](../classes/Warlock.md):** [Dread](../domains/Dread.md) & [Grace](../domains/Grace.md)
+- **[Séraphin](../classes/Seraph.md) :** [Splendeur](../domains/Splendor.md) et [Vaillance](../domains/Valor.md)
 
-- **[Warrior](../classes/Warrior.md):** [Blade](../domains/Blade.md) & [Bone](../domains/Bone.md)
+- **[Ensorceleur](../classes/Sorcerer.md) :** [Arcanes](../domains/Arcana.md) et [Minuit](../domains/Midnight.md)
 
-- **[Witch](../classes/Witch.md):** [Dread](../domains/Dread.md) & [Sage](../domains/Sage.md)
+- **[Occultiste](../classes/Warlock.md) :** [Effroi](../domains/Dread.md) et [Grâce](../domains/Grace.md)
 
-- **[Wizard](../classes/Wizard.md):** [Codex](../domains/Codex.md) & [Splendor](../domains/Splendor.md)
+- **[Guerrier](../classes/Warrior.md) :** [Lame](../domains/Blade.md) et [Os](../domains/Bone.md)
 
-[PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) acquire two 1st-level [domain cards](Domains.md#DOMAIN%20CARDS) at character creation and an additional domain card at or below their level each time they [level up](Core%20Mechanics.md#LEVELING%20UP).
+- **[Sorcière](../classes/Witch.md) :** [Effroi](../domains/Dread.md) et [Nature](../domains/Sage.md)
 
-### DOMAIN CARDS
+- **[Magicien](../classes/Wizard.md) :** [Codex](../domains/Codex.md) et [Splendeur](../domains/Splendor.md)
 
-Each domain card provides one or more features your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new [downtime](Core%20Mechanics.md#DOWNTIME) or social encounter abilities, or one-time benefits.
+Les [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) acquièrent deux [cartes de domaine](Domains.md#CARTES%20DE%20DOMAINE) de niveau 1 à la création du personnage, puis une carte de domaine supplémentaire de leur niveau ou inférieur chaque fois qu’ils [montent de niveau](Core%20Mechanics.md#MONTER%20DE%20NIVEAU).
 
-**DOMAIN CARD ANATOMY**
+### CARTES DE DOMAINE
 
-Each domain card includes six elements:
+Chaque carte de domaine fournit une ou plusieurs aptitudes que votre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) peut utiliser au cours de ses aventures. Certaines cartes de domaine proposent des actions que vous pouvez accomplir, comme une attaque unique ou un sort. D’autres offrent des effets passifs, de nouvelles capacités pour le [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS) ou les rencontres sociales, ou des avantages à usage unique.
 
-**Level**  
-The number in the top left of the card indicates the card’s level. You cannot acquire a domain card with a level higher than your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s.
+**ANATOMIE D’UNE CARTE DE DOMAINE**
 
-**Domain**  
-Beneath the card’s level there is a symbol indicating its domain. You can only choose cards from your class’s two domains.
+Chaque carte de domaine comporte six éléments :
 
-**Recall Cost**  
-The number and lightning bolt in the top right of the card shows its Recall Cost. This is the amount of [Stress](Core%20Mechanics.md#STRESS) a player must mark to swap this card from their **vault** with a card from their **loadout.**
+**Niveau**  
+Le nombre en haut à gauche de la carte indique le niveau de la carte. Vous ne pouvez pas acquérir une carte de domaine d’un niveau supérieur à celui de votre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F).
 
-***Note:*** *A player can swap domain cards during [downtime](Core%20Mechanics.md#DOWNTIME)* *without paying the domain card’s Recall Cost.*
+**Domaine**  
+Sous le niveau de la carte se trouve un symbole indiquant son domaine. Vous ne pouvez choisir que des cartes parmi les deux domaines de votre classe.
 
-**Title**  
-The name of the card.
+**Coût de rappel**  
+Le nombre accompagné d’un éclair en haut à droite de la carte indique son Coût de rappel. C’est la quantité de [Stress](Core%20Mechanics.md#STRESS) qu’un joueur doit marquer pour échanger cette carte de sa **réserve** avec une carte de sa **main.**
+
+***Note :*** *Un joueur peut échanger des cartes de domaine pendant le [temps de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS)* *sans payer le Coût de rappel de la carte.*
+
+**Titre**  
+Le nom de la carte.
 
 **Type**  
-The card’s **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells,** and **grimoires.** Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the [Codex](../domains/Codex.md) domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
+Le **type** de la carte est indiqué au centre, au-dessus du titre. Il existe trois types de cartes de domaine : les **capacités, les sorts** et les **grimoires.** Les capacités sont généralement de nature non magique, tandis que les sorts sont magiques. Les grimoires sont propres au domaine [Codex](../domains/Codex.md) et donnent accès à un ensemble de sorts moins puissants. Certaines mécaniques de jeu ne s’appliquent qu’à certains types de cartes.
 
-**Feature**  
-The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.
+**Aptitude**  
+Le texte de la moitié inférieure de la carte décrit son ou ses aptitudes, y compris les règles spéciales que vous devez suivre lorsque vous utilisez cette carte.
 
-**LOADOUT & VAULT**
+**MAIN ET RÉSERVE**
 
-Your **loadout** is the set of acquired cards whose effects your [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can use during play. You can have up to five domain cards in your loadout at one time. Once you’ve acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault.** Vault cards are inactive and do not influence play
+Votre **main** est l’ensemble des cartes acquises dont les effets peuvent être utilisés par votre [PJ](Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) en cours de jeu. Vous pouvez avoir jusqu’à cinq cartes de domaine dans votre main à la fois. Dès que vous avez acquis six cartes de domaine ou plus, vous devez en choisir cinq à garder dans votre main ; les autres sont considérées comme étant dans votre **réserve.** Les cartes de la réserve sont inactives et n’influencent pas le jeu.
 
-***Note:*** *Your subclass, ancestry, and community cards don’t* *contribute to your loadout maximum and are always active* *and available.*
+***Note :*** *Vos cartes de sous-classe, d’ascendance et de communauté ne comptent pas dans le maximum de votre main et sont toujours actives* *et disponibles.*
 
-At the start of a rest, before using [downtime moves](Core%20Mechanics.md#DOWNTIME), you can freely move cards between your loadout and your vault, so long as your loadout doesn’t exceed its five-card maximum.
+Au début d’un repos, avant d’utiliser des [actions de repos](Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez déplacer librement des cartes entre votre main et votre réserve, tant que votre main ne dépasse pas son maximum de cinq cartes.
 
-To move a card from your vault to your loadout at any other time, you must mark a number of [Stress](Core%20Mechanics.md#STRESS) equal to the vaulted card’s **Recall Cost** (located in the top right of the card next to the lightning bolt symbol). If your loadout is already full, you must also move a card from your loadout to your vault to make space, though you can do this at no cost.
+Pour faire passer une carte de votre réserve à votre main à tout autre moment, vous devez marquer un nombre de [Stress](Core%20Mechanics.md#STRESS) égal au **Coût de rappel** de la carte en réserve (indiqué en haut à droite de la carte, à côté du symbole d’éclair). Si votre main est déjà pleine, vous devez aussi faire passer une carte de votre main à votre réserve pour faire de la place, ce que vous pouvez faire sans frais.
 
-When you gain a new domain card at level-up, you can immediately move it into your loadout for free. If your loadout is already full, you must also move a card from your loadout to your vault to make space.
+Lorsque vous gagnez une nouvelle carte de domaine en montant de niveau, vous pouvez immédiatement l’ajouter gratuitement à votre main. Si votre main est déjà pleine, vous devez aussi faire passer une carte de votre main à votre réserve pour faire de la place.
 
-**USAGE LIMITS**
+**LIMITES D’UTILISATION**
 
-If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.
+Si une carte de domaine limite la fréquence à laquelle elle peut être utilisée, vous pouvez suivre ces limites avec la méthode de votre choix, par exemple en tournant la carte sur le côté, en la retournant face cachée ou en utilisant des jetons.
 
-***Note:*** *if an effect or ability gives you a number of uses equal* *to a trait with a modifier of +0 or less, it grants you 0 uses.*
+***Note :*** *Si un effet ou une capacité vous donne un nombre d’utilisations égal* *à une caractéristique dont le modificateur est de +0 ou moins, il vous accorde 0 utilisation.*

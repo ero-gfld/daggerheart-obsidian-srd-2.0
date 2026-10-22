@@ -1,9 +1,16 @@
-# Blackblood Tendril
+---
+aliases:
+  - "Blackblood Tendril"
+---
 
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Vrille de sang noir
 
-*[Instinct](../core_rules/Character%20Creation.md#STEP%203)* · *[Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d6+8 mag* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Blackblood Tendril)*
 
-### FEATURE
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Secondaire](../core_rules/Equipment.md#ARMES)_ _[Magique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Poisonous:*** When a target marks any number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack you rolled with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), they mark an equal number of [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+*[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d6+8 mag* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Empoisonnée :*** lorsqu’une cible marque des [points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause d’une attaque dont vous avez fait le jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), elle marque autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS).

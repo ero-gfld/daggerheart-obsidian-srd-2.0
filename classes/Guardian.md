@@ -1,53 +1,60 @@
-# Guardian
+---
+aliases:
+  - "Guardian"
+---
 
-The title of guardian represents an array of martial professions, speaking more to their moral compass and unshakeable fortitude than the means by which they fight. While many guardians join groups of militants for either a country or cause, they’re more likely to follow those few they truly care for, majority be damned. Guardians are known for fighting with remarkable ferocity even against overwhelming odds, defending their cohort above all else. Woe betide those who harm the ally of a guardian, as the guardian will answer this injury in kind.
+# Gardien
 
-**DOMAINS –** [Valor](../domains/Valor.md) & [Blade](../domains/Blade.md)
+*(VO : Guardian)*
 
-**STARTING EVASION –** 9
+Le titre de gardien recouvre tout un éventail de professions martiales : il dit davantage la boussole morale et la fermeté inébranlable de ceux qui le portent que leur façon de se battre. Si beaucoup de gardiens rejoignent des troupes au service d’un pays ou d’une cause, ils sont plus enclins à suivre les quelques personnes qui comptent vraiment pour eux, quoi qu’en pense la majorité. Les gardiens sont connus pour combattre avec une férocité remarquable, même face à des forces écrasantes, défendant leur compagnie par-dessus tout. Malheur à ceux qui s’en prennent à l’allié d’un gardien : il leur rendra la pareille.
 
-**STARTING HIT POINTS –** 7
+**DOMAINES –** [Vaillance](../domains/Valor.md) et [Lame](../domains/Blade.md)
 
-**CLASS ITEMS –** A totem from your mentor or a secret key
+**ÉVASION DE DÉPART –** 9
 
-**GUARDIAN’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 7
 
-***Frontline Tank:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear 2 [Armor Slots](../core_rules/Equipment.md#ARMOR).
+**OBJETS DE CLASSE –** Un totem offert par votre mentor ou une clé secrète
 
-**[CLASS FEATURE](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU GARDIEN**
 
-***Unstoppable:*** Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can become *Unstoppable.* You gain an Unstoppable Die. At level 1, your Unstoppable Die is a **d4.** Place it on your character sheet in the space provided, starting with the 1 value facing up. After you make a [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) that deals 1 or more [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) to a target, increase the Unstoppable Die value by one. When the die’s value would exceed its maximum value or when the scene ends, remove the die and drop out of *Unstoppable*. At level 5, your Unstoppable Die increases to a **d6.**
+***Rempart de première ligne :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour évacuer 2 [Emplacements d’armure](../core_rules/Equipment.md#ARMURE).
 
-While *Unstoppable*, you gain the following benefits:
+**[APTITUDE DE CLASSE](../core_rules/Classes.md)**
 
-- You reduce the severity of [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) by one threshold (Severe to Major, Major to Minor, Minor to None).
+***Inarrêtable :*** Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez devenir *Inarrêtable*. Vous obtenez un dé d’Inarrêtable. Au niveau 1, votre dé d’Inarrêtable est un **d4**. Placez-le sur votre fiche de personnage, dans l’espace prévu, face 1 visible. Après chaque [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) qui inflige au moins 1 [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à une cible, augmentez d’un la valeur du dé d’Inarrêtable. Quand la valeur du dé dépasserait son maximum, ou quand la scène se termine, retirez le dé et cessez d’être *Inarrêtable*. Au niveau 5, votre dé d’Inarrêtable passe à un **d6**.
 
-- You add the current value of the Unstoppable Die to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+Tant que vous êtes *Inarrêtable*, vous bénéficiez de ce qui suit :
 
-- You can’t be *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* or *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+- Vous réduisez d’un seuil la gravité des [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) (sévères deviennent majeurs, majeurs deviennent mineurs, mineurs deviennent nuls).
 
-***Tip:*** *If your Unstoppable Die is a d4 and the 4 is* *currently facing up, you remove the die the next time* *you would increase it. However, if your Unstoppable Die* *has increased to a d6 and the 4 is currently facing up,* *you’ll turn it to 5 the next time you would increase it. In* *this case, you’ll remove the die after you would need to* *increase it higher than 6.*
+- Vous ajoutez la valeur actuelle du dé d’Inarrêtable à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-### SUBCLASSES
+- Vous ne pouvez pas être *[Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* ni *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)*.
 
-*Choose either the* ***[Stalwart](../subclasses/Stalwart.md)*** *or* ***[Vengeance](../subclasses/Vengeance.md)*** *subclass.*
+***Astuce :*** *Si votre dé d’Inarrêtable est un d4 et que la face 4 est visible, vous retirez le dé la prochaine fois que vous devriez l’augmenter. En revanche, si votre dé d’Inarrêtable est passé à un d6 et que la face 4 est visible, vous le tournerez sur 5 la prochaine fois que vous devrez l’augmenter. Dans ce cas, vous retirerez le dé quand vous devrez l’augmenter au-delà de 6.*
 
-**BACKGROUND QUESTIONS**
+### SOUS-CLASSES
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Choisissez la sous-classe* ***[Inébranlable](../subclasses/Stalwart.md)*** *ou* ***[Vengeance](../subclasses/Vengeance.md)***
 
-- Who from your community did you fail to protect, and why do you still think of them?
+**QUESTIONS D’HISTORIQUE**
 
-- You’ve been tasked with protecting something important and delivering it somewhere dangerous. What is it, and where does it need to go?
+*Répondez à l’une ou plusieurs des questions d’historique suivantes. Vous pouvez aussi créer vos propres questions.*
 
-- You consider an aspect of yourself to be a weakness. What is it, and how has it affected you?
+- Qui, dans votre communauté, n’avez-vous pas réussi à protéger, et pourquoi pensez-vous encore à cette personne ?
 
-**CONNECTIONS**
+- On vous a chargé de protéger quelque chose d’important et de le livrer dans un lieu dangereux. De quoi s’agit-il, et où doit-il aller ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Vous considérez qu’un aspect de vous est une faiblesse. Lequel, et comment cela vous a-t-il affecté ?
 
-- How did I save your life the first time we met?
+**LIENS**
 
-- What small gift did you give me that you notice I always carry with me?
+*Posez à vos camarades joueurs l’une des questions suivantes pour que leur personnage y réponde, ou inventez vos propres questions.*
 
-- What lie have you told me about yourself that I absolutely believe?
+- Comment t’ai-je sauvé la vie la première fois que nous nous sommes rencontrés ?
+
+- Quel petit cadeau m’as-tu fait que je garde toujours sur moi, tu l’as remarqué ?
+
+- Quel mensonge m’as-tu raconté sur toi, auquel je crois dur comme fer ?

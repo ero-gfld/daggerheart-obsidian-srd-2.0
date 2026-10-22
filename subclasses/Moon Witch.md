@@ -1,52 +1,59 @@
-# Moon Witch
+---
+aliases:
+  - "Moon Witch"
+---
 
-Play the Moon Witch if you want to embody celestial power to amplify your magic.
+# Sorcière de la lune
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Moon Witch)*
 
-[Instinct](../core_rules/Character%20Creation.md#STEP%203)
+Jouez la Sorcière de la lune si vous voulez incarner une puissance céleste pour amplifier votre magie.
 
-**FOUNDATION FEATURES**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Night’s Glamour:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (13)** to *Glamour* yourself in a bewitching facade. While *Glamoured*, you have [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls that leverage your illusory appearance. Additionally, [adversaries](../core_rules/Using%20Adversaries.md) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to attack you.
+[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-Unless you **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to maintain your *Glamour*, it drops when you mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or deal damage.
+**APTITUDES DE FONDATION**
 
-**SPECIALIZATION FEATURES**
+***Mirage de la nuit :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (13)** pour vous draper dans un *Mirage*, une façade envoûtante. Tant que votre *Mirage* est actif, vous avez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets qui tirent parti de votre apparence illusoire. De plus, les [adversaires](../core_rules/Using%20Adversaries.md) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour vous attaquer.
 
-***Moonbeam:*** Once per session, you can conjure a column of moonlight that illuminates the area within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range until the end of the scene. While bathed in this moonlight, you and your allies gain a +1 bonus to [Spellcast Rolls](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) and can see through illusions.
+À moins que vous ne **cochiez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour maintenir votre *Mirage*, il se dissipe quand vous marquez un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou infligez des dégâts.
 
-***Ire of Pale Light:*** When a *Hexed* creature within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range fails an attack, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Rayon de lune :*** Une fois par session, vous pouvez faire jaillir une colonne de clair de lune qui illumine la zone à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) jusqu’à la fin de la scène. Tant que vous et vos alliés baignez dans cette lumière lunaire, vous gagnez un bonus de +1 aux [jets d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) et vous voyez à travers les illusions.
 
-***Lunar Phases:*** At the beginning of each session, roll a **d6** and place it on this card. You gain the matching effect until the end of session.
+***Courroux de la lueur pâle :*** Quand une créature *Maudite* à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) rate une attaque, elle doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-| Roll | Phase | Effect |
+**APTITUDES D’EXCELLENCE**
+
+***Phases lunaires :*** Au début de chaque session, lancez un **d6** et placez-le sur cette carte. Vous gagnez l’effet correspondant jusqu’à la fin de la session.
+
+| Jet | Phase | Effet |
 | --- | --- | --- |
-| **1** | New | **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to negate [Minor damage](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS). |
-| **2–3** | Waxing | +2 to [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING) |
-| **4** | Full | +3 to [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) |
-| **5–6** | Waning | +1 to [Evasion](../core_rules/Core%20Mechanics.md#EVASION) |
+| **1** | Nouvelle lune | **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour annuler des [dégâts mineurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS). |
+| **2–3** | Lune croissante | +2 aux [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) |
+| **4** | Pleine lune | +3 aux [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) |
+| **5–6** | Lune décroissante | +1 à l’[Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) |
 
-Once per rest, you can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to increase the value of this die by one. If you increase the value of a 6, it becomes a 1.
+Une fois par repos, vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour augmenter de un la valeur de ce dé. Si vous augmentez la valeur d’un 6, il devient un 1.
 
-**BACKGROUND QUESTIONS**
+**QUESTIONS D’HISTORIQUE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Répondez à celles de ces questions d’historique que vous voulez. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who from your community feared your magical craft? What rumor did they spread about you, and what truth did it contain?
+- Qui, dans votre communauté, craignait votre art magique ? Quelle rumeur a-t-il répandue sur vous, et quelle part de vérité contenait-elle ?
 
-- You once used your power to help someone in a dire situation. Who were they, and why did they come to you?
+- Vous avez un jour employé votre pouvoir pour aider quelqu’un dans une situation désespérée. Qui était-ce, et pourquoi est-il venu vers vous ?
 
-- Your magic once opened a door best left closed. Who or what was on the other side?
+- Votre magie a un jour ouvert une porte qu’il aurait mieux valu laisser fermée. Qui ou quoi se trouvait de l’autre côté ?
 
-**CONNECTIONS**
+**LIENS**
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+*Posez à vos camarades joueurs une des questions suivantes pour que* *leur personnage y réponde, ou créez vos propres questions.*
 
-- What unique ritual or practice have I taught you that we now perform together?
+- Quel rituel ou quelle pratique singulière vous ai-je enseigné et que nous accomplissons désormais ensemble ?
 
-- I once appeared to you in a dream and shared a vision of the future. What did I tell you?
+- Un jour, j’ai surgi dans votre rêve pour vous faire part d’une vision de l’avenir. Que vous ai-je dit ?
 
-- What do you typically come to me for advice about?
+- Pour quel sujet venez-vous habituellement me demander conseil ?

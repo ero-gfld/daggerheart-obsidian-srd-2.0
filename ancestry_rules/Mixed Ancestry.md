@@ -1,17 +1,24 @@
-# Mixed Ancestry
+---
+aliases:
+  - "Mixed Ancestry"
+---
 
-Families within the world of Daggerheart are as unique as the peoples and cultures that inhabit it. Anyone’s appearance and abilities can be shaped by blood, magic, proximity, or a variety of other factors.
+# Ascendance mixte
 
-If you decide that your character is a descendant of multiple ancestries and you want to mechanically represent that in the game, use the steps below:
+*(VO : Mixed Ancestry)*
 
-1. **Determine Ancestry Combination**
+Dans l’univers de Daggerheart, les familles sont aussi singulières que les peuples et les cultures qui l’habitent. L’apparence et les capacités de chacun peuvent être façonnées par le sang, la magie, la proximité ou bien d’autres facteurs.
 
-   When you choose an ancestry at character creation, write down how your character identifies themself in the Heritage section of your character sheet. For example, if your character is descended from both goblins and orcs, you could use a hybridized term, such as “goblin-orc,” to describe your ancestry, list only the ancestry you more closely identify with (e.g., just “goblin” or just “orc”), or invent a new term, such as “toothling.”
+Si vous décidez que votre personnage descend de plusieurs ascendances et que vous voulez le représenter mécaniquement dans le jeu, suivez les étapes ci-dessous :
 
-2. **Choose [Ancestry Features](../core_rules/Ancestries.md)**
+1. **Déterminer la combinaison d’ascendances**
 
-   Work with your [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to choose two features from the ancestries in your character’s lineage. You must choose the first feature from one ancestry and the second from another. Write both down on a notecard you can keep with your other cards or next to your character sheet.
+   Quand vous choisissez une ascendance à la création du personnage, notez dans la section Héritage de votre fiche de personnage la façon dont il s’identifie. Par exemple, si votre personnage descend à la fois des gobelins et des orcs, vous pouvez employer un terme hybride, comme « gobelin-orc », pour décrire son ascendance, ne citer que l’ascendance à laquelle il s’identifie le plus (par exemple, simplement « gobelin » ou simplement « orc »), ou inventer un nouveau terme, comme « dentelin ».
 
-*For example, if you are making a goblin-orc, you might take* *the “Surefooted” and “Tusks” features or the “Sturdy” and* *“Danger Sense” features. You can’t take both the “Surefooted”* *and “Sturdy” features, because these are both the first* *features listed on their respective ancestry cards.*
+2. **Choisir des [aptitudes d’ascendance](../core_rules/Ancestries.md)**
 
-Your character's heritage might include more than two ancestries, but you still only choose features from two. You can represent additional ancestries through their appearance or backstory.
+   Travaillez avec votre [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) pour choisir deux aptitudes parmi les ascendances de la lignée de votre personnage. Vous devez choisir la première aptitude dans une ascendance et la seconde dans une autre. Notez-les toutes les deux sur une fiche que vous pourrez garder avec vos autres cartes ou à côté de votre fiche de personnage.
+
+*Par exemple, si vous créez un gobelin-orc, vous pourriez prendre* *les aptitudes « Pied sûr » et « Défenses », ou les aptitudes « Robuste » et* *« Sens du danger ». Vous ne pouvez pas prendre à la fois « Pied sûr »* *et « Robuste », car ce sont les premières aptitudes* *listées sur leurs cartes d’ascendance respectives.*
+
+L’héritage de votre personnage peut comprendre plus de deux ascendances, mais vous ne choisissez des aptitudes que dans deux d’entre elles. Vous pouvez représenter les ascendances supplémentaires par l’apparence ou l’histoire du personnage.

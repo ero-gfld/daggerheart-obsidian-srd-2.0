@@ -1,5 +1,12 @@
-# A Soldier’s Bond
+---
+aliases:
+  - "A Soldier’s Bond"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Lien du soldat
 
-Once per [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), when you compliment someone or ask them about something they’re good at, you can both gain 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+*(VO : A Soldier’s Bond)*
+
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Lame](../domains/Blade.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Une fois par [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), lorsque vous complimentez quelqu’un ou lui demandez de parler de ce qu’il fait bien, vous gagnez tous les deux 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).

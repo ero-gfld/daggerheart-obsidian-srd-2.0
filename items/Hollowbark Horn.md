@@ -1,3 +1,10 @@
-# Hollowbark Horn
+---
+aliases:
+  - "Hollowbark Horn"
+---
 
-You can blow this horn to summon a small woodland creature to perform a simple task.
+# Cor d’écorce creuse
+
+*(VO : Hollowbark Horn)*
+
+Vous pouvez souffler dans ce cor pour appeler une petite créature des bois qui accomplira une tâche simple.

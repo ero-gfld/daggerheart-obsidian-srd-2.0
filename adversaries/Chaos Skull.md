@@ -1,19 +1,26 @@
-# Chaos Skull
+---
+aliases:
+  - "Chaos Skull"
+---
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***
-*A floating humanoid skull animated by scintillating magic.*
+# Crâne du chaos
 
-**Motives & Tactics:** Cackle, consume magic, serve creator
+*(VO : Chaos Skull)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 15 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 8/16 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Energy Blast:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+3 mag
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Tireur](../core_rules/Using%20Adversaries.md)***
+*Crâne humanoïde flottant, animé par une magie scintillante.*
 
-## FEATURES
+**Motivations et tactiques :** Ricaner, consommer la magie, servir son créateur
 
-***Levitation - Passive:*** The Skull levitates several feet off the ground and can’t be *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)*.
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 15 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 8/16 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 5 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Décharge d’énergie :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+3 mag
 
-***Wards - Passive:*** The Skull is resistant to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+## APTITUDES
 
-***Magic Burst - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an attack against all targets within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Targets the Skull succeeds against take **2d6+4** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Lévitation - Passif :*** Le Crâne flotte à quelques dizaines de centimètres du sol et ne peut pas être [Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD).
 
-***Siphon Magic - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to make an attack against a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) with a [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target marks **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS) and the Skull clears that many Stress. Additionally, on a success, the Skull can immediately be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) again.
+***Protections - Passif :*** Le Crâne résiste aux [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Déferlement magique - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer toutes les cibles à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Les cibles contre lesquelles le Crâne réussit subissent **2d6+4** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
+
+***Siphon magique - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour attaquer un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doté d’une caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la cible marque **1d4** [Stress](../core_rules/Core%20Mechanics.md#STRESS), et le Crâne évacue autant de Stress. De plus, en cas de réussite, le Crâne peut être immédiatement remis sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).

@@ -1,25 +1,32 @@
-# Reanimated
+---
+aliases:
+  - "Reanimated"
+---
 
-Reanimated are corpses who have been brought back to life. Whether through a spell, a holy ritual, arcane experimentation, or other unnatural methods, these mortals have returned from beyond the veil of death as undead and are bound to their decaying bodies. Newly reanimated are more likely to look like a typical member of their ancestry, but as they go on, they must patch and repair their bodies with bones, flesh, and other materials harvested from the recently deceased. While some repair their wounds and decay with needle, thread, and herbs, others use magic to incorporate these materials into themselves.
+# Réanimé
 
-Many stories of the reanimated describe them as possessing increased durability or, in some cases, [immunity](../core_rules/Core%20Mechanics.md#ATTACKING) to pain. This may be true for some reanimated, but many experience prolonged agony—whether from the physical echoes of their own demise, the discomfort of moving a decomposing body, the trouble controlling their amalgamated parts, or the mental anguish of being forcibly pulled back from death into a second life.
+*(VO : Reanimated)*
 
-**TRANSFORMATION FEATURES**
+Les réanimés sont des cadavres ramenés à la vie. Par un sort, un rituel sacré, une expérience arcanique ou d’autres moyens contre nature, ces mortels sont revenus d’au-delà du voile de la mort sous forme de morts-vivants, liés à leur corps en décomposition. Les réanimés de fraîche date ressemblent le plus souvent à un membre ordinaire de leur ascendance, mais avec le temps, ils doivent rapiécer et réparer leur corps avec des os, de la chair et d’autres matériaux prélevés sur des défunts récents. Certains soignent leurs plaies et leur putréfaction à l’aiguille, au fil et aux herbes, tandis que d’autres emploient la magie pour s’incorporer ces matériaux.
 
-***Corpse:*** During a rest, you can clear [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) only if you have access to remains from a recently deceased creature. Describe how you use these materials to maintain your corpse.
+De nombreuses histoires de réanimés leur prêtent une durabilité accrue ou, parfois, une [immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) à la douleur. Cela peut être vrai pour certains, mais beaucoup endurent une agonie prolongée, qu’elle vienne des échos physiques de leur propre fin, de la gêne de mouvoir un corps en décomposition, de la difficulté à maîtriser leurs membres assemblés ou de l’angoisse d’avoir été arrachés de force à la mort pour une seconde vie.
 
-***Won’t Stay Dead:*** When you choose the [Risk It All](../core_rules/Core%20Mechanics.md#DEATH) [death move](../core_rules/Core%20Mechanics.md#DEATH) and fail, you can **permanently mark a [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS)** to succeed instead. When you do, you still use the [Hope Die](../core_rules/Core%20Mechanics.md#OVERVIEW)’s value to clear Hit Points and [Stress](../core_rules/Core%20Mechanics.md#STRESS). When you permanently mark your last Hit Point, you pass through the veil of death.
+**APTITUDES DE TRANSFORMATION**
 
-**TRANSFORMATION QUESTIONS**
+***Cadavre :*** Pendant un repos, vous ne pouvez évacuer des [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) que si vous avez accès aux restes d’une créature récemment décédée. Décrivez comment vous utilisez ces matériaux pour entretenir votre cadavre.
 
-- How did you first die, and how has that death affected your view on life?
+***Impossible à garder mort :*** Lorsque vous choisissez le [choix de mort](../core_rules/Core%20Mechanics.md#MORT) [Tout risquer](../core_rules/Core%20Mechanics.md#MORT) et que vous échouez, vous pouvez **marquer définitivement un [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS)** pour réussir à la place. Dans ce cas, vous utilisez tout de même la valeur du [dé d’Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U) pour évacuer des Points de vie et du [Stress](../core_rules/Core%20Mechanics.md#STRESS). Lorsque vous marquez définitivement votre dernier Point de vie, vous franchissez le voile de la mort.
 
-- A fragment of memory from your first life haunts you. What is the memory, and why do you think it’s important?
+**QUESTIONS DE TRANSFORMATION**
 
-- You had a dream for your life that you now believe you can never reach. What was your dream, and why do you think being reanimated makes it impossible to fulfill?
+- Comment êtes-vous mort la première fois, et en quoi cette mort a-t-elle changé votre regard sur la vie ?
 
-- How were you brought back from the dead, and how did the process change your body?
+- Un fragment de souvenir de votre première vie vous hante. De quel souvenir s’agit-il, et pourquoi le croyez-vous important ?
 
-- Someone brought you back from death. Who were they, and how do you feel about this person and what they did to you?
+- Vous aviez un rêve pour votre vie que vous pensez désormais hors d’atteinte. Quel était ce rêve, et pourquoi croyez-vous que votre réanimation rende sa réalisation impossible ?
 
-- In the brief time you passed through the veil of death, you saw something that changed you forever. What was it?
+- Comment avez-vous été ramené d’entre les morts, et en quoi ce processus a-t-il transformé votre corps ?
+
+- Quelqu’un vous a ramené de la mort. Qui était-ce, et que ressentez-vous envers cette personne et ce qu’elle vous a fait ?
+
+- Durant le bref instant où vous avez franchi le voile de la mort, vous avez vu quelque chose qui vous a changé à jamais. Qu’était-ce ?

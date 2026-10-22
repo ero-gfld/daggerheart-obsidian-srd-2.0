@@ -1,113 +1,120 @@
-# Ranger
+---
+aliases:
+  - "Ranger"
+---
 
-Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.
+# Rôdeur
 
-**DOMAINS –** [Bone](../domains/Bone.md) & [Sage](../domains/Sage.md)
+*(VO : Ranger)*
 
-**STARTING EVASION –** 12
+Les rôdeurs sont des chasseurs très habiles qui, malgré leurs talents martiaux, mettent rarement leurs compétences au service d’une armée. Maîtres de leur corps et connaisseurs profonds des terres sauvages, ils deviennent des tacticiens rusés, qui traquent leur gibier avec ruse et patience. Beaucoup d’entre eux pistent et combattent aux côtés d’un compagnon animal, avec lequel ils ont noué un puissant lien spirituel. À force d’aiguiser leurs talents dans la nature, les rôdeurs deviennent des pisteurs hors pair, aussi enclins à piéger leurs ennemis qu’à les attaquer de front.
 
-**STARTING HIT POINTS –** 6
+**DOMAINES –** [Os](../domains/Bone.md) & [Nature](../domains/Sage.md)
 
-**CLASS ITEMS –** A trophy from your first kill or a seemingly broken compass
+**ÉVASION DE DÉPART –** 12
 
-**RANGER’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 6
 
-***Hold Them Off:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** when you succeed on an attack with a weapon to use that same roll against two additional [adversaries](../core_rules/Using%20Adversaries.md) within range of the attack.
+**OBJETS DE CLASSE –** Un trophée de votre première chasse ou une boussole apparemment cassée
 
-**[CLASS FEATURE](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU RÔDEUR**
 
-***Ranger’s Focus:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** and make an attack against a target. On a success, deal your attack’s normal damage and temporarily make the attack’s target your *Focus*. Until this feature ends or you make a different creature your *Focus*, you gain the following benefits against your *Focus:*
+***Les tenir à distance :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** quand vous réussissez une attaque avec une arme pour utiliser ce même jet contre deux [adversaires](../core_rules/Using%20Adversaries.md) supplémentaires à portée de l’attaque.
 
-- You know precisely what direction they are in.
+**[APTITUDE DE CLASSE](../core_rules/Classes.md)**
 
-- When you deal damage to them, they must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Focalisation du Rôdeur :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** et attaquez une cible. En cas de réussite, infligez les dégâts normaux de votre attaque et faites temporairement de la cible de l’attaque votre *Proie*. Jusqu’à la fin de cette aptitude ou jusqu’à ce que vous preniez une autre créature pour *Proie*, vous bénéficiez des avantages suivants contre votre *Focalisation :*
 
-- When you fail an attack against them, you can end your Ranger’s Focus feature to reroll your [Duality Dice](../core_rules/Core%20Mechanics.md#OVERVIEW).
+- Vous savez précisément dans quelle direction elle se trouve.
 
-### SUBCLASSES
+- Quand vous lui infligez des dégâts, elle doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-*Choose either the* ***[Beastbound](../subclasses/Beastbound.md)*** *or* ***[Wayfinder](../subclasses/Wayfinder.md)*** *subclass.*
+- Quand vous ratez une attaque contre elle, vous pouvez mettre fin à votre aptitude Focalisation du Rôdeur pour relancer vos [dés de Dualité](../core_rules/Core%20Mechanics.md#APER%C3%87U).
 
-**BACKGROUND QUESTIONS**
+### SOUS-CLASSES
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Choisissez la sous-classe* ***[Lié aux bêtes](../subclasses/Beastbound.md)*** *ou* ***[Éclaireur](../subclasses/Wayfinder.md)***.
 
-- A terrible creature hurt your community, and you’ve vowed to hunt them down. What are they, and what unique trail or sign do they leave behind?
+**QUESTIONS D’HISTORIQUE**
 
-- Your first kill almost killed you, too. What was it, and what part of you was never the same after that event?
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- You’ve traveled many dangerous lands, but what is the one place you refuse to go?
+- Une créature terrible a fait du mal à votre communauté, et vous avez juré de la traquer. Qui est-elle, et quelle piste ou quel signe unique laisse-t-elle derrière elle ?
 
-**CONNECTIONS**
+- Votre première proie a failli vous tuer aussi. Qu’était-ce, et qu’est-ce qui en vous n’a plus jamais été pareil depuis ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- Vous avez parcouru de nombreuses contrées dangereuses, mais quel est l’unique endroit où vous refusez de mettre les pieds ?
 
-- What friendly competition do we have?
+**LIENS**
 
-- Why do you act differently when we’re alone than when others are around?
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- What threat have you asked me to watch for, and why are you worried about it?
+- Quelle rivalité amicale avons-nous ?
 
-#### RANGER COMPANION
+- Pourquoi agissez-vous différemment quand nous sommes seuls et quand d’autres sont présents ?
 
-When you choose the Beastbound Ranger subclass, take a companion sheet. This sheet is for tracking important information about your character’s companion and can be tucked beneath the right side of your character sheet for ease of viewing.
+- Quelle menace m’avez-vous demandé de surveiller, et pourquoi vous inquiète-t-elle ?
 
-##### STEP 1: NAME YOUR COMPANION
+#### COMPAGNON DU RÔDEUR
 
-Work with the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) to decide what kind of animal you have as your companion. Give them a name and add a picture of them to the companion sheet.
+Quand vous choisissez la sous-classe Lié aux bêtes du Rôdeur, prenez une feuille de compagnon. Cette feuille sert à suivre les informations importantes sur le compagnon de votre personnage et peut se glisser sous le côté droit de votre fiche de personnage pour être facilement consultée.
 
-##### STEP 2: WRITE THEIR EVASION
+##### ÉTAPE 1 : DONNEZ UN NOM À VOTRE COMPAGNON
 
-Fill in their [Evasion](../core_rules/Core%20Mechanics.md#EVASION), which starts at 10.
+Décidez avec le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) du type d’animal qui vous accompagne. Donnez-lui un nom et ajoutez son portrait sur la feuille de compagnon.
 
-##### STEP 3: CHOOSE THEIR COMPANION EXPERIENCE
+##### ÉTAPE 2 : NOTEZ SON ÉVASION
 
-Create two [Experiences](../core_rules/Character%20Creation.md#STEP%207) for your companion based on their training and the history you have together.
+Remplissez son [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION), qui commence à 10.
 
-Start with +2 in both [Experiences](../core_rules/Character%20Creation.md#STEP%207). Whenever you gain a new Experience, your companion also gains one. All new Experiences start at +2.
+##### ÉTAPE 3 : CHOISISSEZ SES EXPÉRIENCES DE COMPAGNON
 
-**Example Companion [Experiences](../core_rules/Character%20Creation.md#STEP%207)**
+Créez deux [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207) pour votre compagnon, d’après son dressage et l’histoire que vous partagez.
 
-*Bold Distraction, Expert Climber, Fetch, Friendly, [Guardian](Guardian.md)* *of the Forest, Horrifying, Intimidating, Loyal Until the* *End, Navigation, Nimble, Nobody Left Behind, On High* *Alert, Protective, Royal Companion, Scout, Service Animal,* *Trusted Mount, Vigilant, We Always Find Them, You Can’t* *Hit What You Can’t Find*
+Commencez avec +2 dans les deux [Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207). Chaque fois que vous gagnez une nouvelle Expérience, votre compagnon en gagne une aussi. Toutes les nouvelles Expériences commencent à +2.
 
-##### STEP 4: CHOOSE THEIR ATTACK AND RECORD DAMAGE DIE
+**Exemples d’[Expériences](../core_rules/Character%20Creation.md#%C3%89TAPE%207) de compagnon**
 
-Finally, describe your companion’s method of dealing damage (their standard attack) and record it in the “Attack & Damage” section. At level 1, your companion’s damage die is a d6 and their range is [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT). Choose whether they deal physical or [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+*Diversion audacieuse, Grimpeur émérite, Rapporteur, Amical, [Gardien](Guardian.md)* *de la forêt, Effroyable, Intimidant, Loyal jusqu’au bout, Orientation, Agile, Personne n’est laissé derrière, Aux* *aguets, Protecteur, Compagnon royal, Reconnaissance, Animal d’assistance,* *Monture de confiance, Vigilant, Nous les retrouvons toujours, On ne peut frapper* *ce qu’on ne trouve pas*
 
-#### WORKING WITH YOUR COMPANION
+##### ÉTAPE 4 : CHOISISSEZ SON ATTAQUE ET NOTEZ SON DÉ DE DÉGÂTS
 
-The following sections will run you through the basics of working with your companion.
+Enfin, décrivez la façon dont votre compagnon inflige des dégâts (son attaque habituelle) et notez-la dans la section « Attaque et dégâts ». Au niveau 1, le dé de dégâts de votre compagnon est un d6 et sa portée est [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Choisissez s’il inflige des dégâts physiques ou des [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-##### USING SPELLCAST ROLLS, HOPE, AND EXPERIENCES
+#### AGIR AVEC VOTRE COMPAGNON
 
-Make a [Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) to connect with your companion and command them to take action. Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) to add an applicable Companion [Experience](../core_rules/Character%20Creation.md#STEP%207) to the roll. On a [success with Hope](../core_rules/Core%20Mechanics.md#OVERVIEW), if your next action builds on their success, you gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on the roll.
+Les sections suivantes vous présentent les bases pour agir avec votre compagnon.
 
-##### ATTACKING WITH YOUR COMPANION
+##### UTILISER LES JETS D’INCANTATION, L’ESPOIR ET LES EXPÉRIENCES
 
-When you command your companion to attack, they gain any benefits that would normally only apply to you (such as the effects of “Ranger’s Focus”). On a success, their [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) uses your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) and their damage die.
+Faites un [jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) pour entrer en lien avec votre compagnon et lui ordonner d’agir. Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour ajouter au jet une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) de compagnon applicable. Sur un [succès avec Espoir](../core_rules/Core%20Mechanics.md#APER%C3%87U), si votre prochaine action s’appuie sur sa réussite, vous avez [l’avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) sur le jet.
 
-##### TAKING DAMAGE AS STRESS
+##### ATTAQUER AVEC VOTRE COMPAGNON
 
-- When your companion would take any amount of damage, they mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS). When they mark their last Stress, they drop out of the scene (by hiding, fleeing, or a similar action). They remain unavailable until the start of your next [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME), where they return with 1 Stress cleared.
+Quand vous ordonnez à votre compagnon d’attaquer, il bénéficie de tous les avantages qui ne s’appliqueraient normalement qu’à vous (comme les effets de « Focalisation du Rôdeur »). En cas de réussite, son [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) utilise votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) et son dé de dégâts.
 
-- When you choose a [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) that clears [Stress](../core_rules/Core%20Mechanics.md#STRESS) on yourself, your companion clears an equal number of Stress.
+##### SUBIR DES DÉGÂTS SOUS FORME DE STRESS
 
-#### LEVELING UP YOUR COMPANION
+- Quand votre compagnon devrait subir des dégâts, quels qu’ils soient, il marque un [Stress](../core_rules/Core%20Mechanics.md#STRESS). Quand il marque son dernier Stress, il quitte la scène (en se cachant, en fuyant ou par une action similaire). Il reste indisponible jusqu’au début de votre prochain [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), où il revient avec 1 Stress évacué.
 
-When your character [levels up](../core_rules/Core%20Mechanics.md#LEVELING%20UP), choose one available option for your companion from the following list and mark it on your sheet:
+- Quand vous choisissez une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) qui évacue du [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour vous, votre compagnon évacue autant de Stress.
 
-- ***Intelligent:*** Your companion gains a permanent +1 bonus to a Companion [Experience](../core_rules/Character%20Creation.md#STEP%207) of your choice.
+#### FAIRE PROGRESSER VOTRE COMPAGNON
 
-- ***Light in the Dark:*** Use this as an additional [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) slot your character can mark.
+Quand votre personnage [monte de niveau](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU), choisissez pour votre compagnon une option disponible dans la liste suivante et marquez-la sur votre fiche :
 
-- ***Creature Comfort:*** Once per rest, when you take time during a quiet moment to give your companion love and attention, you can gain a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or you can both clear a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+- ***Intelligent :*** Votre compagnon gagne un bonus permanent de +1 à une [Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) de compagnon de votre choix.
 
-- ***Armored:*** When your companion takes damage, you can **mark one of your [Armor Slots](../core_rules/Equipment.md#ARMOR)** instead of marking one of their [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+- ***Lumière dans les ténèbres :*** Considérez-le comme un emplacement d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) supplémentaire que votre personnage peut marquer.
 
-- ***Vicious:*** Increase your companion’s damage dice or range by one step (d6 to d8, [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) to [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT), etc.).
+- ***Réconfort animal :*** Une fois par repos, quand vous prenez le temps, dans un moment calme, de donner de l’affection et de l’attention à votre compagnon, vous pouvez gagner un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou vous pouvez tous deux évacuer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-- ***Resilient:*** Your companion gains an additional [Stress](../core_rules/Core%20Mechanics.md#STRESS) slot.
+- ***Caparaçonné :*** Quand votre compagnon subit des dégâts, vous pouvez **marquer l’un de vos [Emplacements d’armure](../core_rules/Equipment.md#ARMURE)** au lieu de marquer l’un de ses [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-- ***Bonded:*** When you mark your last [Hit Point](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), your companion rushes to your side to comfort you. Roll a number of **d6s** equal to the unmarked [Stress](../core_rules/Core%20Mechanics.md#STRESS) slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
+- ***Féroce :*** Augmentez d’un cran le dé de dégâts ou la portée de votre compagnon (d6 à d8, [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), etc.).
 
-- ***Aware:*** Your companion gains a permanent +2 bonus to their [Evasion](../core_rules/Core%20Mechanics.md#EVASION).
+- ***Résistant :*** Votre compagnon gagne un emplacement de [Stress](../core_rules/Core%20Mechanics.md#STRESS) supplémentaire.
+
+- ***Lié :*** Quand vous marquez votre dernier [Point de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), votre compagnon se précipite à vos côtés pour vous réconforter. Lancez un nombre de **d6** égal au nombre d’emplacements de [Stress](../core_rules/Core%20Mechanics.md#STRESS) non marqués qu’il possède, puis marquez-les. Si au moins un dé donne 6, votre compagnon vous aide à vous relever. Évacuez votre dernier Point de vie et revenez dans la scène.
+
+- ***Vigilant :*** Votre compagnon gagne un bonus permanent de +2 à son [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION).

@@ -1,9 +1,16 @@
-# Circle-Forged Dreadplate
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Circle-Forged Dreadplate"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 14 / 38  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 6
+# Plate d’effroi forgée en cercle
 
-### FEATURE
+*(VO : Circle-Forged Dreadplate)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Accursed:*** When you mark any number of [Hit Points](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) from an attack, roll a d4. On a result of 4, the attacker must mark an equal number of [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 14 / 38  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 6
+
+### APTITUDE
+
+***Maudit :*** Lorsque vous marquez des [Points de vie](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à cause d’une attaque, quel que soit leur nombre, lancez un d4. Sur un résultat de 4, l’attaquant doit marquer autant de [Stress](../core_rules/Core%20Mechanics.md#STRESS) que de Points de vie ainsi marqués.

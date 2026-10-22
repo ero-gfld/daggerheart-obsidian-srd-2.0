@@ -1,3 +1,10 @@
-# Timekeeper’s Pendant
+---
+aliases:
+  - "Timekeeper’s Pendant"
+---
 
-You can choose an additional [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) each rest.
+# Pendentif du gardien du temps
+
+*(VO : Timekeeper’s Pendant)*
+
+Vous pouvez choisir une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) supplémentaire à chaque repos.

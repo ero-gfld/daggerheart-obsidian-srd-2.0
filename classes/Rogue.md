@@ -1,57 +1,64 @@
-# Rogue
+---
+aliases:
+  - "Rogue"
+---
 
-Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there’s honor among thieves for those who know where to look.
+# Roublard
 
-**DOMAINS –** [Midnight](../domains/Midnight.md) & [Grace](../domains/Grace.md)
+*(VO : Rogue)*
 
-**STARTING EVASION –** 12
+Les roublards sont des canailles, souvent par leur attitude comme par leur pratique. Réputés menteurs et voleurs, les meilleurs d’entre eux traversent le monde dans l’anonymat. Armés de leur esprit vif et de leurs lames, ils dupent leurs adversaires par la manipulation sociale aussi aisément qu’ils crochètent des serrures, escaladent des fenêtres ou portent des coups bas. Ces maîtres de l’art magique manipulent l’ombre et le mouvement, ce qui ajoute à leur répertoire une panoplie d’outils aussi utiles que mortels. Les roublards fondent fréquemment des guildes pour rencontrer de futurs complices, se faire engager et perfectionner leurs talents secrets, prouvant qu’il existe un honneur parmi les voleurs pour qui sait où chercher.
 
-**STARTING HIT POINTS –** 6
+**DOMAINES –** [Minuit](../domains/Midnight.md) & [Grâce](../domains/Grace.md)
 
-**CLASS ITEMS –** A set of forgery tools or a grappling hook
+**ÉVASION DE DÉPART –** 12
 
-**ROGUE’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**POINTS DE VIE DE DÉPART –** 6
 
-***Rogue’s Dodge:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to gain a +2 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION) until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
+**OBJETS DE CLASSE –** Un jeu d’outils de faussaire ou un grappin
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DU ROUBLARD**
 
-***Cloaked:*** Any time you would be *[Hidden](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS),* you are instead *Cloaked.* In addition to the benefits of the *Hidden* condition, while *Cloaked* you remain unseen if you are stationary when an [adversary](../core_rules/Using%20Adversaries.md) moves to where they would normally see you. After you make an attack or end a move within [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) of an adversary, you are no longer *Cloaked*.
+***Esquive du Roublard :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour gagner un bonus de +2 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) jusqu’à la prochaine fois qu’une attaque réussit contre vous. Sinon, ce bonus dure jusqu’à votre prochain repos.
 
-***Sneak Attack:*** When you succeed on an attack while *Cloaked* or while an ally is within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of your target, add a number of **d6s** equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-- Level 1 → [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
+***Dissimulé :*** Chaque fois que vous seriez *[Caché](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD),* vous êtes plutôt *Dissimulé.* En plus des avantages de l’état *Caché*, tant que vous êtes *Dissimulé*, vous restez invisible si vous êtes immobile quand un [adversaire](../core_rules/Using%20Adversaries.md) se déplace là où il vous verrait normalement. Après que vous avez fait une attaque ou terminé un déplacement en [ligne de vue](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un adversaire, vous n’êtes plus *Dissimulé*.
 
-- Levels 2–4 → [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
+***Attaque sournoise :*** Quand vous réussissez une attaque alors que vous êtes *Dissimulé* ou qu’un allié se trouve à portée de [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) de votre cible, ajoutez à votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) un nombre de **d6** égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU).
 
-- Levels 5–7 → [Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
+- Niveau 1 → [Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)
 
-- Levels 8–10 → [Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)
+- Niveaux 2–4 → [Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)
 
-### SUBCLASSES
+- Niveaux 5–7 → [Rang 3](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)
 
-*Choose either the* ***[Nightwalker](../subclasses/Nightwalker.md)*** *or* ***[Syndicate](../subclasses/Syndicate.md)*** *subclass.*
+- Niveaux 8–10 → [Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)
 
-***Well-Connected:*** When you arrive in a prominent town or [environment](../core_rules/Using%20Environments.md), you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
+### SOUS-CLASSES
 
-***Contacts Everywhere:*** Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:
+*Choisissez la sous-classe* ***[Marcheur de nuit](../subclasses/Nightwalker.md)*** *ou* ***[Syndicat](../subclasses/Syndicate.md)***.
 
-**BACKGROUND QUESTIONS**
+***Bien introduit :*** Quand vous arrivez dans une ville importante ou un [environnement](../core_rules/Using%20Environments.md) notable, vous connaissez quelqu’un qui y vit. Donnez-lui un nom, notez en quoi vous pensez qu’il pourrait vous être utile et choisissez un fait dans la liste suivante :
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+***Des contacts partout :*** Une fois par séance, vous pouvez faire appel brièvement à un contact louche. Choisissez l’un des avantages suivants et décrivez ce qui l’a amené ici pour vous aider en ce moment précis :
 
-- What did you get caught doing that got you exiled from your home community?
+**QUESTIONS D’HISTORIQUE**
 
-- You used to have a different life, but you’ve tried to leave it behind. Who from your past is still chasing you?
+*Répondez à celles de votre choix parmi les questions d’historique suivantes. Vous pouvez* *aussi créer vos propres questions.*
 
-- Who from your past were you most sad to say goodbye to?
+- Qu’avez-vous été surpris à faire pour être banni de votre communauté d’origine ?
 
-**CONNECTIONS**
+- Vous meniez autrefois une autre vie, mais vous avez tenté de la laisser derrière vous. Qui, parmi votre passé, est toujours à vos trousses ?
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+- De qui, parmi votre passé, avez-vous été le plus triste de vous séparer ?
 
-- What did I recently convince you to do that got us both in trouble?
+**LIENS**
 
-- What have I discovered about your past that I hold secret from the others?
+*Posez à vos compagnons de jeu l’une des questions suivantes, à laquelle* *leur personnage répondra, ou créez vos propres questions.*
 
-- Who do you know from my past, and how have they influenced your feelings about me?
+- Qu’ai-je récemment réussi à vous convaincre de faire, qui nous a attiré des ennuis à tous les deux ?
+
+- Qu’ai-je découvert sur votre passé que je cache aux autres ?
+
+- Qui connaissez-vous de mon passé, et comment cette personne a-t-elle influencé ce que vous éprouvez à mon égard ?

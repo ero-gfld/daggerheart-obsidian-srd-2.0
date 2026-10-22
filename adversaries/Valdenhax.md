@@ -1,21 +1,21 @@
 # Valdenhax
 
-***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***
-*A malevolent forest hag who has long, mossy hair and flies through the air with an oversized mortar and pestle.*
+***[Rang 2](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Meneur](../core_rules/Using%20Adversaries.md)***
+*Une sorcière malveillante de la forêt, aux longs cheveux couverts de mousse, qui vole dans les airs avec un mortier et un pilon démesurés.*
 
-**Motives & Tactics:** Collect souls, fly, vex trespassers
+**Motivations et tactiques :** Collecter des âmes, voler, tourmenter les intrus
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 16 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12/24 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 4  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +2 | **Giant Stone Pestle:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 2d8+2 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 16 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12/24 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 6 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 4  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +2 | **Pilon de pierre géant :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 2d8+2 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Witchcraft +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Sorcellerie +3
 
-## FEATURES
+## APTITUDES
 
-***To Me, My Pretties - Action:*** Once per scene, summon **2d4** [Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Hordes](../core_rules/Using%20Adversaries.md), which appear at [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. You gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) for each Horde summoned in this way.
+***À moi, mes jolies ! - Action :*** Une fois par scène, invoquez **2d4** [Hordes](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) de [Rang 2](../core_rules/Using%20Adversaries.md), qui apparaissent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) pour chaque Horde invoquée de cette manière.
 
-***Shadow Strangler - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to attack a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the shadow of the Valdenhax’s hand stretches across the ground until it grasps the target’s shadow and drains their essence. The target marks **1d4** Stress, and you gain an equal number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***L’Étrangleur de l’ombre - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour attaquer une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, l’ombre de la main de Valdenhax s’étire sur le sol jusqu’à saisir l’ombre de la cible et en drainer l’essence. La cible marque **1d4** Stress, et vous gagnez autant de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Corpse Whisperer - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Valdenhax call out to the lingering spirit of a fallen ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Roll a **d6**. On an even result, the Valdenhax resurrects the ally with half its [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) cleared. On an odd result, the Valdenhax absorbs the dregs of its life force and clears a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Murmures aux cadavres - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que Valdenhax appelle l’esprit persistant d’un allié tombé à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Lancez un **d6**. Sur un résultat pair, Valdenhax ressuscite l’allié avec la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) effacés. Sur un résultat impair, Valdenhax absorbe les restes de sa force vitale et évacue un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***Vexing Word - Reaction:*** After a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) makes a roll, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to force them to reroll it. This feature can’t be used if the PC critically succeeds.
+***Parole vexatoire - Réaction :*** Après qu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) fait un jet, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour le forcer à le relancer. Cette aptitude ne peut pas être utilisée si le PJ obtient une réussite critique.

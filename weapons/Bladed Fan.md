@@ -1,9 +1,16 @@
-# Bladed Fan
+---
+aliases:
+  - "Bladed Fan"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
+# Éventail à lames
 
-*[Presence](../core_rules/Character%20Creation.md#STEP%203)* · *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT)* · *d8+3 phy* · *[One-Handed](../core_rules/Equipment.md#WEAPONS)*
+*(VO : Bladed Fan)*
 
-### FEATURE
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _[Principale](../core_rules/Equipment.md#ARMES)_ _[Physique](../core_rules/Equipment.md#ARMES)_ _Arme_
 
-***Parry:*** When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled.
+*[Présence](../core_rules/Character%20Creation.md#%C3%89TAPE%203)* · *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT)* · *d8+3 phy* · *[À une main](../core_rules/Equipment.md#ARMES)*
+
+### APTITUDE
+
+***Parade :*** lorsque vous êtes attaqué, lancez les dés de dégâts de cette arme. Si des dés de dégâts de l’attaquant affichent la même valeur que l’un de vos dés, ces résultats identiques sont retirés des dés de dégâts de l’attaquant avant que les dégâts que vous subissez soient totalisés.

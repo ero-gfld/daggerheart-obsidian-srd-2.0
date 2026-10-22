@@ -1,25 +1,32 @@
-# Cephilith Titan
+---
+aliases:
+  - "Cephilith Titan"
+---
 
-***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A transdimensional entity in the form of an impossibly large, winged humanoid with an octopus-shaped head and rows of glowing eyes.*
+# Titan cephilith
 
-**Motives & Tactics:** Call and consume followers, corrupt reality, invade the Mortal Realm, spew forth chaos
+*(VO : Cephilith Titan)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 20 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 38/68 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 10  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +8 | **Pseudoclaw:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 4d8+10 mag
+***[Rang 4](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Entité transdimensionnelle qui prend la forme d’un humanoïde ailé d’une taille impossible, à tête de pieuvre et aux rangées d’yeux luisants.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Chaos +5, Psychic +5
+**Motivations et tactiques :** Appeler et dévorer ses fidèles, corrompre la réalité, envahir le Royaume mortel, répandre le chaos
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 20 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 38/68 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 10 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 10  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +8 | **Pseudo-griffe :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 4d8+10 mag
 
-***Relentless (X) - Passive:*** The Titan can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to X times per [GM turn](../core_rules/Making%20Moves.md), where X equals the number of [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) in the scene. Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Chaos +5, Psychique +5
 
-***Terrifying - Passive:*** When the Titan makes a successful attack, all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+## APTITUDES
 
-***Merely a Projection - Passive:*** The Titan appears in the Mortal Realm as a psychic projection approximating their true form. They have [immunity](../core_rules/Core%20Mechanics.md#ATTACKING) to [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and [resistance](../core_rules/Core%20Mechanics.md#ATTACKING) to [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Implacable (X) - Passif :*** Le Titan peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à X fois par [tour du MJ](../core_rules/Making%20Moves.md), où X est égal au nombre de [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dans la scène. Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le [mettre sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Psychic Scream - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Titan unleash a mind-shattering onslaught of nightmarish visions from the Outer Realms. Each [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range must make an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (22). Targets who fail take **4d12** direct [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING). Targets who succeed must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Terrifiant - Passif :*** Quand le Titan réussit une attaque, tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Summon Worshippers - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to summon **1d4** [Cephilith Abominations](Cephilith%20Abomination.md), which appear within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, then choose one to immediately [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT).
+***Simple projection - Passif :*** Le Titan apparaît dans le Royaume mortel sous la forme d’une projection psychique qui approche sa forme véritable. Il bénéficie d’une [immunité](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et d’une [résistance](../core_rules/Core%20Mechanics.md#ATTAQUER) aux [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***“It’s Here…” - Evolution:*** When the Titan has marked half their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they manifest in their full form, clearing all HP and losing the “Merely a Projection” feature. While the Titan is in this form, a creature who marks HP from the Titan’s standard attack must mark an additional HP.
+***Cri psychique - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le Titan déchaîne un assaut de visions cauchemardesques venues des Royaumes extérieurs, qui brisent l’esprit. Chaque [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) doit faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (22). Ceux qui échouent subissent **4d12** [dégâts magiques directs](../core_rules/Core%20Mechanics.md#ATTAQUER). Ceux qui réussissent doivent marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+
+***Invocation d’adorateurs - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour invoquer **1d4** [Abominations cephilith](Cephilith%20Abomination.md), qui apparaissent à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), puis désigner l’une d’elles pour la mettre immédiatement sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
+
+***« Il est là… » - Évolution :*** Quand le Titan a marqué la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il se manifeste sous sa forme complète, en effaçant tous ses PV et en perdant l’aptitude « Simple projection ». Sous cette forme, une créature qui marque des PV à cause de l’attaque standard du Titan doit en marquer un supplémentaire.

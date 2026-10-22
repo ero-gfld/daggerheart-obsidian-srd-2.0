@@ -1,9 +1,16 @@
-# Darkweave Shroud
-**_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Darkweave Shroud"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 13 / 36  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 5
+# Linceul tissé d’ombre
 
-### FEATURE
+*(VO : Darkweave Shroud)*
+**_[Rang 4](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
 
-***Ghostwalker:*** Once per rest, mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to move up to [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range through solid objects.
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 13 / 36  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 5
+
+### APTITUDE
+
+***Marche-fantôme :*** Une fois par repos, marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour vous déplacer jusqu’à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) à travers les objets solides.

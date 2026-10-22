@@ -1,25 +1,25 @@
 # Manticore
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A legendary beast that has a human’s face, lion’s body, scorpion’s tail, and dragon’s wings.*
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Une bête légendaire au visage humain, au corps de lion, à la queue de scorpion et aux ailes de dragon.*
 
-**Motives & Tactics:** Bite, claw, pounce, riddle, swipe, swoop, trick
+**Motivations et tactiques :** Mordre, griffer, bondir, poser des énigmes, balayer d’un coup de patte, fondre sur ses proies, duper
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 17 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 20/35 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 6  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +6 | **Teeth & Claws:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d12+6 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 17 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 20/35 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 12 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 6  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +6 | **Crocs et griffes :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d12+6 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Overgrowth +3, Riddles +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Croissance sauvage +3, Énigmes +3
 
 ## FEATURES
 
-***Relentless (3) - Passive:*** The Manticore can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+***Implacable (3) - Passif :*** La manticore peut être [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour la mettre sous les [projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Riddle Me This - Passive:*** The Manticore is obsessed with puzzles and can be distracted by brain teasers, word games, or other semi-intellectual diversions.
+***Devine donc ! - Passif :*** La manticore est obsédée par les énigmes et peut être distraite par des casse-tête, des jeux de mots ou d’autres divertissements semi-intellectuels.
 
-***Winged - Passive:*** While airborne, the Manticore gains a +2 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS) and [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Ailée - Passif :*** En vol, la manticore gagne un bonus de +2 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) et à ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Pouncing Attack - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Manticore pounce into [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and make an attack against them. On a success, deal **3d20+6** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING), and the target becomes *Shaky* until they spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR). While *Shaky*, the target makes [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) with [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Attaque bondissante - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que la manticore bondisse à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et l’attaque. En cas de réussite, elle inflige **3d20+6** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER), et la cible devient *Chancelante* jusqu’à ce qu’elle dépense un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR). Tant qu’elle est *Chancelante*, la cible effectue ses [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) avec un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-***Paralyzing Tail Spike - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING) against a target within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. On a success, the target takes **3d8** [physical damage](../core_rules/Core%20Mechanics.md#ATTACKING) and becomes *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they overcome the toxin with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll.
+***Dard paralysant - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour effectuer un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre une cible à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). En cas de réussite, la cible subit **3d8** [dégâts physiques](../core_rules/Core%20Mechanics.md#ATTAQUER) et devient *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle surmonte le poison en réussissant un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203).
 
-***Locking Jaws - Reaction:*** When the Manticore succeeds on a standard attack against a target within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to lock their jaws onto the target, making the target *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* and *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* until they escape with a successful [Strength](../core_rules/Character%20Creation.md#STEP%203) Roll (19).
+***Mâchoires verrouillées - Réaction :*** Lorsque la manticore réussit une attaque standard contre une cible à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour verrouiller ses mâchoires sur la cible, qui devient *[Entravée](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* et *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* jusqu’à ce qu’elle s’échappe en réussissant un jet de [Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) (19).

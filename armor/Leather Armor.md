@@ -1,9 +1,16 @@
-# Leather Armor
-**_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
+---
+aliases:
+  - "Leather Armor"
+---
 
-* *[Base Thresholds](../core_rules/Equipment.md#ARMOR):* 6 / 13  
-* *[Base Score](../core_rules/Equipment.md#ARMOR):* 3
+# Armure de cuir
 
-### FEATURE
+*(VO : Leather Armor)*
+**_[Rang 1](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** _Armure_
+
+* *[Seuils de base](../core_rules/Equipment.md#ARMURE) :* 6 / 13  
+* *[Score de base](../core_rules/Equipment.md#ARMURE) :* 3
+
+### APTITUDE
 
 —

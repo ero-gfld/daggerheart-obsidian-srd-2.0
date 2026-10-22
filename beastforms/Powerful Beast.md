@@ -1,11 +1,18 @@
-# Powerful Beast
+---
+aliases:
+  - "Powerful Beast"
+---
 
-**_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Bear, Bull, Moose, etc.)
+# Bête puissante
 
-*[Strength](../core_rules/Character%20Creation.md#STEP%203) +3 | [Evasion](../core_rules/Core%20Mechanics.md#EVASION) +1* *[Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) Strength d10+4 phy*
+*(VO : Powerful Beast)*
 
-**Gain [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on:** navigate, protect, scare
+**_[Rang 2](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU)_** (Ours, taureau, élan, etc.)
 
-***Rampage:*** When you roll a 1 on a damage die, you can roll a **d10** and add the result to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING). Additionally, before you make an [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to gain a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING) for that attack.
+*[Force](../core_rules/Character%20Creation.md#%C3%89TAPE%203) +3 | [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION) +1* *[Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) Force d10+4 phy*
 
-***Thick Hide:*** You gain a +2 bonus to your [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS).
+**Gagnez l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) pour :** s’orienter, protéger, effrayer
+
+***Déchaînement :*** Quand vous obtenez 1 sur un dé de dégâts, vous pouvez lancer un **d10** et ajouter le résultat au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER). De plus, avant de faire un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER), vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour gagner un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER) pour cette attaque.
+
+***Cuir épais :*** Vous gagnez un bonus de +2 à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS).

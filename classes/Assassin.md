@@ -1,47 +1,47 @@
 # Assassin
 
-Assassins are masters at inflicting deadly injuries with precise strikes. Unlike those who wield violence as only a means to an end, assassins approach death as a profession. Many members of this class believe theirs is a worthy, if not sacred, trade, and some join guilds to hone their craft, define their beliefs, and earn money. People from all walks of life hire assassins for their skills: powerful rulers looking to avoid all-out war, business leaders seeking to eliminate the competition, and even average people hoping to settle a grudge. Often, an assassin is the last resort for killing those previously believed to be unkillable. While some of these deadly professionals will destroy anyone in their path for the right reasons or the right price, others hold strict moral codes or personal rules that dictate their targets. Those who end up the target of an assassin should count themselves among the dead
+Les assassins sont passés maîtres dans l’art d’infliger des blessures mortelles par des coups précis. À la différence de ceux qui ne voient dans la violence qu’un moyen, les assassins font de la mort un métier. Beaucoup de membres de cette classe tiennent leur office pour un art honorable, voire sacré, et certains rejoignent des guildes pour perfectionner leur savoir-faire, définir leurs croyances et gagner leur vie. Des gens de tous horizons font appel à eux : des souverains puissants qui cherchent à éviter une guerre ouverte, des chefs d’entreprise qui veulent éliminer la concurrence, et même de simples gens qui espèrent régler une vieille rancune. Souvent, l’assassin est le dernier recours pour tuer ceux que l’on croyait intuables. Si certains de ces professionnels de la mort détruiront n’importe qui sur leur route pour les bonnes raisons ou pour le bon prix, d’autres suivent un code moral strict ou des règles personnelles qui dictent le choix de leurs cibles. Ceux qui deviennent la cible d’un assassin peuvent d’ores et déjà se compter parmi les morts.
 
-**DOMAINS –** [Blade](../domains/Blade.md) & [Midnight](../domains/Midnight.md)
+**DOMAINES –** [Lame](../domains/Blade.md) et [Minuit](../domains/Midnight.md)
 
-**STARTING EVASION –** 12
+**ÉVASION DE DÉPART –** 12
 
-**STARTING HIT POINTS –** 5
+**POINTS DE VIE DE DÉPART –** 5
 
-**CLASS ITEMS –** A list of names with several marked off or a rusted blade inscribed with an insignia
+**OBJETS DE CLASSE –** Une liste de noms dont plusieurs sont rayés, ou une lame rouillée gravée d’un emblème
 
-**ASSASSIN’S [HOPE FEATURE](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)**
+**[APTITUDE D’ESPOIR](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) DE L’ASSASSIN**
 
-***Deadly Determination:*** **Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Détermination mortelle :*** **Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour évacuer 2 [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-**[CLASS FEATURES](../core_rules/Classes.md)**
+**[APTITUDES DE CLASSE](../core_rules/Classes.md)**
 
-***Marked for Death:*** On a successful weapon attack, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to make the target *Marked for Death*. When you deal damage to a target you’ve *Marked for Death*, add a number of **d4s** equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to the [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING).
+***Marqué pour la mort :*** Lors d’une attaque d’arme réussie, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour rendre la cible *Marquée pour la mort*. Quand vous infligez des dégâts à une cible que vous avez *Marquée pour la mort*, ajoutez au [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) un nombre de **d4** égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU).
 
-You can have only one [adversary](../core_rules/Using%20Adversaries.md) *Marked for Death* at a time. This condition lasts until you take a rest, the current adversary *Marked for Death* is defeated, or the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) spends a number of [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) equal to your [tier](../core_rules/Core%20Mechanics.md#LEVELING%20UP) to clear it.
+Vous ne pouvez avoir qu’un seul [adversaire](../core_rules/Using%20Adversaries.md) *Marqué pour la mort* à la fois. Cet état dure jusqu’à ce que vous preniez un repos, que l’adversaire actuellement *Marqué pour la mort* soit vaincu, ou que le [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) dépense un nombre de [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) égal à votre [rang](../core_rules/Core%20Mechanics.md#MONTER%20DE%20NIVEAU) pour l’effacer.
 
-***Get In & Get Out:*** **Spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to ask the [GM](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) for a quick or inconspicuous way into or out of a place you can see. The next roll you make that acts on this information has [advantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE).
+***Entrer et sortir :*** **Dépensez un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour demander au [MJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) un moyen rapide ou discret d’entrer dans un lieu que vous voyez, ou d’en sortir. Le prochain jet que vous effectuez en vous appuyant sur cette information bénéficie de l’[avantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE).
 
-### SUBCLASSES
+### SOUS-CLASSES
 
-*Choose either the* ***[Executioners Guild](../subclasses/Executioners%20Guild.md)*** *or* ***[Poisoners Guild](../subclasses/Poisoners%20Guild.md)*** *subclass.*
+*Choisissez la sous-classe* ***[Guilde des bourreaux](../subclasses/Executioners%20Guild.md)*** *ou* ***[Guilde des empoisonneurs](../subclasses/Poisoners%20Guild.md)***
 
-**BACKGROUND QUESTIONS**
+**QUESTIONS D’HISTORIQUE**
 
-*Answer any of the following background questions. You can* *also create your own questions.*
+*Répondez à l’une ou plusieurs des questions d’historique suivantes. Vous pouvez aussi créer vos propres questions.*
 
-- You once killed someone you were close to. What happened, and how did it change you?
+- Vous avez tué un jour quelqu’un qui vous était proche. Que s’est-il passé, et en quoi cela vous a-t-il changé ?
 
-- What organization trained you in the art of killing, and how did you become a member?
+- Quelle organisation vous a formé à l’art de tuer, et comment en êtes-vous devenu membre ?
 
-- Throughout your career, one target has eluded you. Who are they, and how have they slipped through your fingers?
+- Au fil de votre carrière, une cible vous a toujours échappé. Qui est-elle, et comment vous a-t-elle filé entre les doigts ?
 
-**CONNECTIONS**
+**LIENS**
 
-*Ask your fellow players one of the following questions for* *their character to answer, or create your own questions.*
+*Posez à vos camarades joueurs l’une des questions suivantes pour que leur personnage y réponde, ou inventez vos propres questions.*
 
-- I’ve killed someone for you. Who were they?
+- J’ai tué quelqu’un pour toi. Qui était-ce ?
 
-- How did you save me when I was on the brink of death? What have I promised you as repayment?
+- Comment m’as-tu sauvé alors que j’étais au seuil de la mort ? Qu’ai-je promis de te donner en remerciement ?
 
-- What secret about myself did I tell you, and how did it change your view of me?
+- Quel secret sur moi t’ai-je confié, et en quoi a-t-il changé ton regard sur moi ?

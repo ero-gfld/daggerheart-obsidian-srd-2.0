@@ -1,5 +1,12 @@
-# Shrug It Off
+---
+aliases:
+  - "Shrug It Off"
+---
 
-***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Valor](../domains/Valor.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Encaisser sans broncher
 
-When you would take damage, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to reduce the severity of the damage by one threshold. When you do, roll a **d6**. On a result of 3 or lower, place this card in your [vault](../core_rules/Domains.md#DOMAIN%20CARDS).
+*(VO : Shrug It Off)*
+
+***[Niveau 7](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Vaillance](../domains/Valor.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Lorsque vous devez subir des dégâts, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour réduire la gravité des dégâts d’un seuil. Si vous le faites, lancez un **d6**. Sur un résultat de 3 ou moins, placez cette carte dans votre [réserve](../core_rules/Domains.md#CARTES%20DE%20DOMAINE).

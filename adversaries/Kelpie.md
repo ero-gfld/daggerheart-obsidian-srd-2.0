@@ -1,21 +1,21 @@
 # Kelpie
 
-***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***
-*A river-dwelling shapeshifter who prefers an enchanting equine form in and out of the water.*
+***[Rang 1](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Furtif](../core_rules/Using%20Adversaries.md)***
+*Un métamorphe des rivières, qui préfère une forme chevaline enchanteresse, dans l’eau comme hors de l’eau.*
 
-**Motives & Tactics:** Adopt an attractive or useful shape, drown and devour, entice unwary travelers
+**Motivations et tactiques :** Adopter une forme attirante ou utile, noyer et dévorer, attirer les voyageurs imprudents
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 12 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 4/8 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 5  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** −2 | **Hooves:** [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 1d8+2 phy
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 12 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 4/8 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 3 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 5  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** −2 | **Sabots :** [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 1d8+2 phy
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Entanglement +3, Mind Reader +3
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Enchevêtrement +3, Lecteur de pensées +3
 
 ## FEATURES
 
-***Captivating - Passive:*** A [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) must mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS) to move out of the Kelpie’s [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Envoûtant - Passif :*** Un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) doit marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS) pour sortir de la portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du kelpie.
 
-***Heart’s Desire - Passive:*** After the Kelpie interacts with or watches a creature for at least a hundred heartbeats, the Kelpie knows the physical form that creature would find most pleasing or alluring.
+***Désir du cœur - Passif :*** Après que le kelpie a interagi avec une créature ou l’a observée pendant au moins cent battements de cœur, il connaît la forme physique que cette créature trouverait la plus plaisante ou la plus séduisante.
 
-***Shapeshifter - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to change the Kelpie’s physical form into any creature or object smaller than a wagon. A creature has [disadvantage](../core_rules/Core%20Mechanics.md#ADVANTAGE%20&%20DISADVANTAGE) on rolls against the Kelpie while the Kelpie is in a form the creature finds pleasing or alluring.
+***Métamorphe - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour changer la forme physique du kelpie en n’importe quelle créature ou objet plus petit qu’un chariot. Une créature a un [désavantage](../core_rules/Core%20Mechanics.md#AVANTAGE%20ET%20D%C3%89SAVANTAGE) aux jets contre le kelpie tant que celui-ci prend une forme qu’elle trouve plaisante ou séduisante.
 
-***Enchant - Action:*** **Spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to have the Kelpie beguile a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. The PC must succeed on an [Instinct](../core_rules/Character%20Creation.md#STEP%203) [Reaction Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) or become *Enchanted* until they take damage. While *Enchanted*, the PC perceives the Kelpie as a trusted friend or ally and will do what the Kelpie says unless it contradicts the PC’s most deeply held morals.
+***Enchantement - Action :*** **Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour que le kelpie charme un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Le PJ doit réussir un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) d’[Instinct](../core_rules/Character%20Creation.md#%C3%89TAPE%203) ou devenir *Envoûté* jusqu’à ce qu’il subisse des dégâts. Tant qu’il est *Envoûté*, le PJ voit le kelpie comme un ami ou un allié de confiance et fait ce que le kelpie lui demande, sauf si cela contredit ses convictions les plus profondes.

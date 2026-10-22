@@ -1,5 +1,12 @@
-# Recovery
+---
+aliases:
+  - "Recovery"
+---
 
-***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Rétablissement
 
-During a [short rest](../core_rules/Core%20Mechanics.md#DOWNTIME), you can choose a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME) [downtime move](../core_rules/Core%20Mechanics.md#DOWNTIME) instead. You can **spend a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to let an ally do the same.
+*(VO : Recovery)*
+
+***[Niveau 6](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+Pendant un [repos court](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS), vous pouvez choisir à la place une [action de repos](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS) de [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS). Vous pouvez **dépenser un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour permettre à un allié d’en faire autant.

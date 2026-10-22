@@ -1,10 +1,17 @@
-# Forest Sprites
+---
+aliases:
+  - "Forest Sprites"
+---
 
-***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Lutins de la forêt
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (13)**. On a success, **spend any number of [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to create an equal number of small forest sprites who appear at points you choose within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, providing the following benefits:
+*(VO : Forest Sprites)*
 
-- Your allies gain a +3 bonus to [attack rolls](../core_rules/Core%20Mechanics.md#ATTACKING) against [adversaries](../core_rules/Using%20Adversaries.md) within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a sprite.
-- An ally who marks an [Armor Slot](../core_rules/Equipment.md#ARMOR) while within [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of a sprite can mark an additional Armor Slot.
+***[Niveau 8](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) de [Nature](../domains/Sage.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
 
-A sprite vanishes after granting a benefit or taking any damage.
+Effectuez un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (13)**. En cas de succès, **dépensez autant d’[Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** que vous voulez pour créer autant de petits lutins de la forêt, qui apparaissent aux endroits de votre choix à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et procurent les avantages suivants :
+
+- Vos alliés gagnent un bonus de +3 aux [jets d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER) contre les [adversaires](../core_rules/Using%20Adversaries.md) à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un lutin.
+- Un allié qui marque un [emplacement d’armure](../core_rules/Equipment.md#ARMURE) alors qu’il est à portée [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) d’un lutin peut marquer un emplacement d’armure supplémentaire.
+
+Un lutin disparaît après avoir accordé un bénéfice ou subi des dégâts.

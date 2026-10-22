@@ -1,9 +1,16 @@
-# Unleash Chaos
+---
+aliases:
+  - "Unleash Chaos"
+---
 
-***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Arcana](../domains/Arcana.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Déchaîner le chaos
 
-At the beginning of a session, place a number of tokens equal to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait on this card.
+*(VO : Unleash Chaos)*
 
-Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS)** against a target within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of **d10s** equal to the tokens you spent and deal that much [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to the target. **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to replenish this card with tokens (up to your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait).
+***[Niveau 1](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Arcanes](../domains/Arcana.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
 
-At the end of each session, clear all unspent tokens.
+Au début d’une session, placez sur cette carte un nombre de jetons égal à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX).
+
+Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)** contre une cible à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) et dépensez autant de jetons que vous voulez pour canaliser l’énergie brute qui est en vous et la déchaîner contre elle. En cas de réussite, lancez un nombre de **d10** égal aux jetons dépensés et infligez-lui autant de [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER). **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour recharger cette carte en jetons (jusqu’à votre caractéristique d’[Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)).
+
+À la fin de chaque session, retirez tous les jetons non dépensés.

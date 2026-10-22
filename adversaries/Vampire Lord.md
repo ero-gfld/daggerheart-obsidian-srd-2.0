@@ -1,31 +1,38 @@
-# Vampire Lord
+---
+aliases:
+  - "Vampire Lord"
+---
 
-***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***
-*A cruel vampire lord from a long-lost age, cursed with immortality.*
+# Seigneur vampire
 
-**Motives & Tactics:** Corrupt, destroy, overwhelm with evil power
+*(VO : Vampire Lord)*
 
-> **[Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS):** 18 | **[Thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 24/45 | **[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS):** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS):** 7  
-> **[ATK](../core_rules/Core%20Mechanics.md#ATTACKING):** +5 | **Claws:** [Melee](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d10+2 phy
+***[Rang 3](../core_rules/Using%20Adversaries.md#ADVERSAIRES%20PAR%20RANG) [Solo](../core_rules/Using%20Adversaries.md)***
+*Un cruel seigneur vampire d’un âge depuis longtemps oublié, maudit par l’immortalité.*
 
-**[Experience](../core_rules/Character%20Creation.md#STEP%207):** Evil +3, Noble +3
+**Motivations et tactiques :** Corrompre, détruire, submerger de pouvoir maléfique
 
-## FEATURES
+> **[Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION) :** 18 | **[Seuils](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 24/45 | **[PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) :** 7 | **[Stress](../core_rules/Core%20Mechanics.md#STRESS) :** 7  
+> **[ATQ](../core_rules/Core%20Mechanics.md#ATTAQUER) :** +5 | **Griffes :** [Mêlée](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d10+2 phy
 
-***Relentless (3) - Passive:*** The Vampire Lord can be [spotlighted](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) up to three times per [GM turn](../core_rules/Making%20Moves.md). Spend [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) as usual to [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) them.
+**[Expérience](../core_rules/Character%20Creation.md#%C3%89TAPE%207) :** Malveillance +3, Noble +3
 
-***Midnight Heart - Passive:*** *Long-Term [Countdown](../core_rules/Making%20Moves.md#COUNTDOWNS) (6).* The Vampire Lord keeps their heart hidden in a safe place. If it’s destroyed, the Vampire Lord dies. Otherwise, when the Vampire Lord is defeated, activate the countdown. It ticks down each time the [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) finish a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME). When it triggers, the Vampire Lord revives within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range of the heart with all [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) and [Stress](../core_rules/Core%20Mechanics.md#STRESS) cleared.
+## APTITUDES
 
-***Terrifying - Passive:*** When the Vampire Lord makes a successful [attack roll](../core_rules/Core%20Mechanics.md#ATTACKING), all [PCs](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range lose a [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), and you gain a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR).
+***Implacable (3) - Passif :*** Le Seigneur vampire peut être [mis sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) jusqu’à trois fois par [tour du MJ](../core_rules/Making%20Moves.md). Dépensez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) comme d’habitude pour le mettre [sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS).
 
-***Unleash Hellfire - Action:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to have the Vampire Lord momentarily conjure **1d4** bursts of hellfire within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Each burst deals **3d6** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to each target within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. If a target takes damage from multiple bursts, combine the damage.
+***Cœur de minuit - Passif :*** *[Compte à rebours](../core_rules/Making%20Moves.md#COMPTES%20%C3%80%20REBOURS) à long terme (6).* Le Seigneur vampire garde son cœur caché dans un lieu sûr. S’il est détruit, le Seigneur vampire meurt. Sinon, lorsqu’il est vaincu, activez le compte à rebours. Il avance chaque fois que les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) terminent un [repos long](../core_rules/Core%20Mechanics.md#TEMPS%20DE%20REPOS). Quand il arrive à terme, le Seigneur vampire revient à la vie à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) du cœur, avec tous ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) effacés et tout son [Stress](../core_rules/Core%20Mechanics.md#STRESS) évacué.
 
-***Resurgence - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range rolls with [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR), you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to clear a [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or a [Stress](../core_rules/Core%20Mechanics.md#STRESS).
+***Terrifiant - Passif :*** Lorsque le Seigneur vampire réussit un [jet d’attaque](../core_rules/Core%20Mechanics.md#ATTAQUER), tous les [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) perdent un [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), et vous gagnez une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR).
 
-***Melt into Shadow - Reaction:*** When a [PC](../core_rules/Introduction.md#WHAT%20IS%20DAGGERHEART%3F) would deal damage to the Vampire Lord, you can **spend a [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to roll a **d6**. On a result of 5 or higher, negate the damage, then teleport the Vampire Lord to a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Déchaîner l’enfer - Action :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour que le Seigneur vampire fasse surgir un instant **1d4** déflagrations d’enfer à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Chaque déflagration inflige **3d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à chaque cible à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Si une cible subit des dégâts de plusieurs déflagrations, additionnez-les.
 
-***Hellwing - Evolution:*** When the Vampire Lord marks half their [HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS), they transform into the Hellwing: a towering, demonic bat creature. They gain the “On Crimson Wings” and “Bloodbath” features and replace their standard attack with the following standard attack: **Claws:** [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) | 3d12+6 phy
+***Résurgence - Réaction :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) fait un jet avec [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR), vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour effacer un [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou évacuer un [Stress](../core_rules/Core%20Mechanics.md#STRESS).
 
-***On Crimson Wings - Passive:*** While flying, the Hellwing gains a +1 bonus to their [Difficulty](../core_rules/Core%20Mechanics.md#ACTION%20ROLLS).
+***Se fondre dans l’ombre - Réaction :*** Lorsqu’un [PJ](../core_rules/Introduction.md#QU%E2%80%99EST-CE%20QUE%20DAGGERHEART%20%3F) s’apprête à infliger des dégâts au Seigneur vampire, vous pouvez **dépenser une [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour lancer un **d6**. Sur un résultat de 5 ou plus, annulez les dégâts, puis téléportez le Seigneur vampire à un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Bloodbath - Reaction:*** When the Hellwing takes [Major](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) or greater damage, the ground within [Very Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range is covered with blood, dealing **3d10** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) to all other creatures in the area. When the Hellwing takes the [spotlight](../core_rules/Core%20Mechanics.md#THE%20SPOTLIGHT) on subsequent [GM turns](../core_rules/Making%20Moves.md), all other creatures in that area take **3d6** magic damage.
+***Aile infernale - Évolution :*** Lorsque le Seigneur vampire marque la moitié de ses [PV](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS), il se transforme en Aile infernale : une créature démoniaque et gigantesque, à l’allure de chauve-souris. Il gagne les aptitudes « Sur des ailes cramoisies » et « Bain de sang », et remplace son attaque standard par l’attaque standard suivante : **Griffes :** [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) | 3d12+6 phy
+
+***Sur des ailes cramoisies - Passif :*** En vol, l’Aile infernale gagne un bonus de +1 à sa [Difficulté](../core_rules/Core%20Mechanics.md#JETS%20D%E2%80%99ACTION).
+
+***Bain de sang - Réaction :*** Lorsque l’Aile infernale subit des dégâts [majeurs](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) ou sévères, le sol à portée [Très proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) se couvre de sang et inflige **3d10** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) à toutes les autres créatures de la zone. Lorsque l’Aile infernale est [mise sous les projecteurs](../core_rules/Core%20Mechanics.md#LES%20PROJECTEURS) lors des [tours du MJ](../core_rules/Making%20Moves.md) suivants, toutes les autres créatures de cette zone subissent **3d6** dégâts magiques.

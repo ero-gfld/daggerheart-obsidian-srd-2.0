@@ -1,3 +1,10 @@
-# Bundle of Spiderlegs
+---
+aliases:
+  - "Bundle of Spiderlegs"
+---
 
-You can eat these spiderlegs to walk on walls until your next rest.
+# Fagot de pattes d’araignée
+
+*(VO : Bundle of Spiderlegs)*
+
+Vous pouvez manger ces pattes d’araignée pour marcher sur les murs jusqu’à votre prochain repos.

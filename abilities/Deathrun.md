@@ -1,7 +1,14 @@
-# Deathrun
+---
+aliases:
+  - "Deathrun"
+---
 
-***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*
+# Course à la mort
 
-**Spend 3 [Hope](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR)** to run a straight path through the battlefield to a point within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range, making an attack against all [adversaries](../core_rules/Using%20Adversaries.md) within your weapon’s range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING). Then remove a die from your [damage roll](../core_rules/Core%20Mechanics.md#ATTACKING) and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.
+*(VO : Deathrun)*
 
-You can’t target the same [adversary](../core_rules/Using%20Adversaries.md) more than once per attack.
+***[Niveau 10](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Capacité](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Os](../domains/Bone.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *1.*
+
+**Dépensez 3 [Espoir](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR)** pour courir en ligne droite à travers le champ de bataille, jusqu’à un point à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT), et attaquer tous les [adversaires](../core_rules/Using%20Adversaries.md) à portée de votre arme le long de ce chemin. Choisissez l’ordre dans lequel vous infligez des dégâts aux cibles contre lesquelles vous avez réussi. Pour la première, lancez les dégâts de votre arme avec un bonus de +1 à votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER). Retirez ensuite un dé de votre [jet de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER) et infligez les dégâts restants à la cible suivante. Continuez à retirer un dé pour chaque cible suivante, jusqu’à ce que vous n’ayez plus de dés de dégâts ou plus d’adversaires.
+
+Vous ne pouvez pas cibler plus d’une fois le même [adversaire](../core_rules/Using%20Adversaries.md) au cours d’une même attaque.

@@ -1,11 +1,18 @@
-# Earthkin
+---
+aliases:
+  - "Earthkin"
+---
 
-Earthkin are humanoids whose bodies are made of flesh and earth. Descended from earth elementals, members of this ancestry are formed of flesh and rock, crystal, clay, soil, sand, or a mixture of these materials. Some are primarily flesh and blood with just one earthen feature, such as skin the color or texture of stone or crystal formations that adorn their heads like hair. Others are a combination, often asymmetrical unions of muscle and natural minerals. Still others are almost entirely soil and stone. Earthkin might choose to mold and decorate the mineral portions of their form by carving designs, embedding gems or metals, or even planting seeds that bloom into adorning foliage. Their coloring comes from their elemental lineage, as even those who are more flesh than earth come in hues reminiscent of marble, gemstones, sand, soil, and more.
+# Enfant de la terre
 
-These kin begin their lives as small lumps of earth, such as a boulder, a ball of clay, or a crystal cluster. Though they’ll develop their more humanoid features fairly quickly, earthkin age slowly for most of their approximately 300-year lifespan. Their average height at adulthood ranges from 5 to 6½ feet tall, and the shape of their body is strongly influenced by the primary material it’s composed of. Many earthkin’s injuries appear like fissures in stone; even long after the initial damage has healed, these cracks continue to slowly repair. When they die, earthkin eventually crumble into piles of earth.
+*(VO : Earthkin)*
 
-**[ANCESTRY FEATURES](../core_rules/Ancestries.md)**
+Les enfants de la terre sont des humanoïdes dont le corps est fait de chair et de terre. Descendants des élémentaires de terre, les membres de cette ascendance sont formés de chair et de roche, de cristal, d’argile, de terreau, de sable, ou d’un mélange de ces matières. Certains sont surtout de chair et de sang, avec un seul trait terreux, comme une peau qui a la couleur ou le grain de la pierre, ou des formations cristallines qui leur tiennent lieu de chevelure. D’autres sont un assemblage, souvent une union asymétrique de muscle et de minéraux naturels. D’autres encore sont presque entièrement de terre et de pierre. Les enfants de la terre peuvent choisir de modeler et d’orner les parties minérales de leur corps en y gravant des motifs, en y sertissant des gemmes ou des métaux, voire en y plantant des graines qui fleurissent en un feuillage décoratif. Leur coloris vient de leur lignée élémentaire : même ceux qui sont plus chair que terre ont des teintes qui évoquent le marbre, les gemmes, le sable, le terreau, et bien d’autres.
 
-***Stoneskin:*** Gain a permanent +1 bonus to your [Armor Score](../core_rules/Equipment.md#ARMOR) and [damage thresholds](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS) at character creation.
+Ces êtres commencent leur vie sous la forme de petits blocs de terre, comme un rocher, une boule d’argile ou un amas de cristaux. Ils acquièrent assez vite des traits plus humanoïdes, mais les enfants de la terre vieillissent lentement pendant la majeure partie de leur vie, d’environ 300 ans. À l’âge adulte, ils mesurent en moyenne de 5 à 6 ½ pieds, et la forme de leur corps dépend fortement de la matière principale dont il est composé. Chez beaucoup d’entre eux, les blessures ressemblent à des fissures dans la pierre : même longtemps après que le dommage initial a guéri, ces fêlures continuent de se réparer lentement. À leur mort, les enfants de la terre finissent par s’effriter en tas de terre.
 
-***Immovable:*** While you’re touching the ground, you can’t be lifted or moved against your will.
+**[APTITUDES D’ASCENDANCE](../core_rules/Ancestries.md)**
+
+***Peau de pierre :*** Gagnez un bonus permanent de +1 à votre [Score d’armure](../core_rules/Equipment.md#ARMURE) et à vos [seuils de dégâts](../core_rules/Core%20Mechanics.md#POINTS%20DE%20VIE%20ET%20SEUILS%20DE%20D%C3%89G%C3%82TS) à la création du personnage.
+
+***Ancré :*** Tant que vous touchez le sol, on ne peut ni vous soulever ni vous déplacer contre votre gré.

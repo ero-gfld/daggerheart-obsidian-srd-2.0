@@ -1,3 +1,10 @@
-# Featherbone
+---
+aliases:
+  - "Featherbone"
+---
 
-You can use this bone to control your falling speed for a number of minutes equal to your level.
+# Os-plume
+
+*(VO : Featherbone)*
+
+Vous pouvez utiliser cet os pour contrôler votre vitesse de chute pendant un nombre de minutes égal à votre niveau.

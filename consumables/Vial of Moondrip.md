@@ -1,3 +1,10 @@
-# Vial of Moondrip
+---
+aliases:
+  - "Vial of Moondrip"
+---
 
-When you drink the contents of this vial, you can see in total darkness until your next rest.
+# Fiole de goutte-lune
+
+*(VO : Vial of Moondrip)*
+
+Lorsque vous buvez le contenu de cette fiole, vous voyez dans l’obscurité totale jusqu’à votre prochain repos.

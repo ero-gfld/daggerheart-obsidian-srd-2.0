@@ -1,5 +1,12 @@
-# Hideous Retribution
+---
+aliases:
+  - "Hideous Retribution"
+---
 
-***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Dread](../domains/Dread.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*
+# Châtiment hideux
 
-When an ally within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range takes damage from a target you can see, you can make a [reaction roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) against the target using your [Spellcast](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) trait. On a success, **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to deal **d6** [magic damage](../core_rules/Core%20Mechanics.md#ATTACKING) using your [Proficiency](../core_rules/Core%20Mechanics.md#ATTACKING).
+*(VO : Hideous Retribution)*
+
+***[Niveau 2](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *[Sort](../core_rules/Domains.md#CARTES%20DE%20DOMAINE) d’[Effroi](../domains/Dread.md).* ***[Coût de rappel](../core_rules/Domains.md#CARTES%20DE%20DOMAINE)*** *2.*
+
+Lorsqu’un allié à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT) subit des dégâts d’une cible que vous voyez, vous pouvez faire un [jet de réaction](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) contre la cible en utilisant votre [Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX). En cas de succès, **marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour infliger **d6** [dégâts magiques](../core_rules/Core%20Mechanics.md#ATTAQUER) en utilisant votre [Maîtrise](../core_rules/Core%20Mechanics.md#ATTAQUER).

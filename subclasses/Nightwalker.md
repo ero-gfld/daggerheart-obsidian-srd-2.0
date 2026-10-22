@@ -1,23 +1,30 @@
-# Nightwalker
+---
+aliases:
+  - "Nightwalker"
+---
 
-Play the Nightwalker if you want to manipulate shadows to maneuver through the [environment](../core_rules/Using%20Environments.md).
+# Marcheur de nuit
 
-**[SPELLCAST](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) TRAIT**
+*(VO : Nightwalker)*
 
-[Finesse](../core_rules/Character%20Creation.md#STEP%203)
+Jouez le Marcheur de nuit si vous voulez manipuler les ombres pour vous faufiler dans l’[environnement](../core_rules/Using%20Environments.md).
 
-**FOUNDATION FEATURE**
+**CARACTÉRISTIQUE D’[INCANTATION](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX)**
 
-***Shadow Stepper:*** You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can **mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to disappear from where you are and reappear inside another shadow within [Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. When you reappear, you are *Cloaked.*
+[Finesse](../core_rules/Character%20Creation.md#%C3%89TAPE%203)
 
-**SPECIALIZATION FEATURES**
+**APTITUDE DE FONDATION**
 
-***Dark Cloud:*** Make a **[Spellcast Roll](../core_rules/Core%20Mechanics.md#SPECIAL%20ROLLS) (15).** On a success, create a temporary dark cloud that covers any area within [Close](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range. Anyone in this cloud can’t see outside of it, and anyone outside of it can’t see in. You’re considered *Cloaked* from any [adversary](../core_rules/Using%20Adversaries.md) for whom the cloud blocks [line of sight](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT).
+***Pas d’ombre :*** Vous pouvez passer d’ombre en ombre. Quand vous entrez dans une zone d’obscurité ou dans l’ombre projetée par une autre créature ou un objet, vous pouvez **marquer un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour disparaître de là où vous êtes et réapparaître dans une autre ombre à portée [Loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Quand vous réapparaissez, vous êtes *Dissimulé.*
 
-***Adrenaline:*** While you're *[Vulnerable](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS),* add your level to your [damage rolls](../core_rules/Core%20Mechanics.md#ATTACKING).
+**APTITUDES DE SPÉCIALISATION**
 
-**MASTERY FEATURES**
+***Nuage sombre :*** Faites un **[jet d’Incantation](../core_rules/Core%20Mechanics.md#JETS%20SP%C3%89CIAUX) (15).** En cas de réussite, créez un nuage sombre temporaire qui couvre n’importe quelle zone à portée [Proche](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT). Quiconque se trouve dans ce nuage ne peut pas voir à l’extérieur, et quiconque se trouve à l’extérieur ne peut pas voir à l’intérieur. Vous êtes considéré comme *Dissimulé* vis-à-vis de tout [adversaire](../core_rules/Using%20Adversaries.md) dont le nuage bloque la [ligne de vue](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
 
-***Fleeting Shadow:*** Gain a permanent +1 bonus to your [Evasion](../core_rules/Core%20Mechanics.md#EVASION). You can use your “Shadow Stepper” feature to move within [Very Far](../core_rules/Core%20Mechanics.md#MAPS,%20RANGE,%20AND%20MOVEMENT) range.
+***Adrénaline :*** Tant que vous êtes *[Vulnérable](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD),* ajoutez votre niveau à vos [jets de dégâts](../core_rules/Core%20Mechanics.md#ATTAQUER).
 
-***Vanishing Act:*** **Mark a [Stress](../core_rules/Core%20Mechanics.md#STRESS)** to become *Cloaked* at any time. When *Cloaked* from this feature, you automatically clear the *[Restrained](../core_rules/Core%20Mechanics.md#STANDARD%20CONDITIONS)* condition if you have it. You remain *Cloaked* in this way until you roll with [Fear](../core_rules/Core%20Mechanics.md#HOPE%20&%20FEAR) or until your next rest.
+**APTITUDES D’EXCELLENCE**
+
+***Ombre fugace :*** Gagnez un bonus permanent de +1 à votre [Évasion](../core_rules/Core%20Mechanics.md#%C3%89VASION). Vous pouvez utiliser votre aptitude « Pas d’ombre » pour vous déplacer jusqu’à portée [Très loin](../core_rules/Core%20Mechanics.md#CARTES,%20PORT%C3%89E%20ET%20D%C3%89PLACEMENT).
+
+***Tour de disparition :*** **Marquez un [Stress](../core_rules/Core%20Mechanics.md#STRESS)** pour devenir *Dissimulé* à tout moment. Quand vous êtes *Dissimulé* grâce à cette aptitude, vous perdez automatiquement l’état *[Entravé](../core_rules/Core%20Mechanics.md#%C3%89TATS%20STANDARD)* si vous l’avez. Vous restez *Dissimulé* de cette façon jusqu’à ce que vous fassiez un jet avec la [Peur](../core_rules/Core%20Mechanics.md#ESPOIR%20ET%20PEUR) ou jusqu’à votre prochain repos.
