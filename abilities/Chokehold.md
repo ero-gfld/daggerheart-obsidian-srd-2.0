@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Chokehold"
+tags:
+  - "daggerheart/domain-card"
+name: "Étranglement"
+domain: "Minuit"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Étranglement

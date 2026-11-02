@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Aetheris"
-description: "Aetheris are humanoids most easily recognized by their wings and sacred markings."
+description: "Les aetheris sont des humanoïdes que l’on reconnaît surtout à leurs ailes et à leurs marques sacrées."
 features:
-  - "Hallowed Aura"
-  - "Celestial Wings"
+  - "Aura sacrée"
+  - "Ailes célestes"
 ---
 
 # Aetheris

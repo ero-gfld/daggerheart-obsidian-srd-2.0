@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Gambeson Armor"
+tags:
+  - "daggerheart/armor"
+name: "Gambison légendaire"
+tier: 4
+thresholds: "11/32"
+score: 6
+feature: "Souple : +1 à l’Évasion"
 ---
 
 # Gambison légendaire

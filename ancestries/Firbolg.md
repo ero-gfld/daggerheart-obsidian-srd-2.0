@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Firbolg"
-description: "Firbolgs are bovine humanoids typically recognized by their broad noses and long, drooping ears."
+description: "Les firbolgs sont des humanoïdes bovins que l’on reconnaît en général à leur large nez et à leurs longues oreilles tombantes."
 features:
   - "Charge"
-  - "Unshakable"
+  - "Imperturbable"
 ---
 
 # Firbolg

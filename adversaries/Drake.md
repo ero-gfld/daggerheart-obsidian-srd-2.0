@@ -3,21 +3,21 @@ tags:
   - "daggerheart/adversary"
 name: "Drake"
 tier: 3
-type: "Skulk"
-description: "A clawed quadruped that has a scaled, serpentine body and a willingness to serve its cousins, the dragons."
+type: "Furtif"
+description: "Quadrupède griffu au corps écailleux et serpentin, qui se plaît à servir ses cousins, les dragons."
 difficulty: 14
 thresholds: "16/30"
 hp: 5
 stress: 3
 atk: "+4"
-attack: "Claws & Teeth"
-range: "Melee"
+attack: "Griffes et crocs"
+range: "Mêlée"
 damage: "3d8+5 phy"
-motives_and_tactics: "Coil and crush, protect master, slither around lairs and ruins, strike first"
-experience: "Vicious +3"
+motives_and_tactics: "S’enrouler pour écraser, protéger son maître, ramper autour des repaires et des ruines, frapper en premier"
+experience: "Féroce +3"
 features:
-  - "Relentless (2) - Passive"
-  - "Guard Dog - Reaction"
+  - "Implacable (2) - Passif"
+  - "Chien de garde - Réaction"
 ---
 
 # Drake

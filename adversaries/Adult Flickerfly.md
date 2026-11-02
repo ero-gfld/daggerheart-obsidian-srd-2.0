@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Adult Flickerfly"
+tags:
+  - "daggerheart/adversary"
+name: "Papillon scintillant adulte"
+tier: 3
+type: "Solo"
+description: "Un insecte ailé de la taille d’une grande maison, aux écailles irisées et aux ailes trop rapides pour être suivies du regard."
+difficulty: 17
+thresholds: "20/35"
+hp: 12
+stress: 6
+atk: "+3"
+attack: "Coup d’aile"
+range: "Très proche"
+damage: "3d20 phy"
+motives_and_tactics: "Collectionner les objets brillants, chasser, nicher, fondre sur les proies"
+features:
+  - "Implacable (4) - Passif"
+  - "Jamais manqué - Passif"
+  - "Vol mortel - Passif"
+  - "Tourbillon - Action"
+  - "Danse de l’esprit - Action"
+  - "Souffle hallucinatoire - Réaction"
+  - "Réflexes surnaturels - Réaction"
 ---
 
 # Papillon scintillant adulte

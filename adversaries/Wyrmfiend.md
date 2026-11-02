@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Wyrmfiend"
+tags:
+  - "daggerheart/adversary"
+name: "Démon-ver"
+tier: 4
+type: "Sbire"
+description: "Un bipède reptilien créé par une magie draconique ancienne et mystérieuse. Les démons-vers existent davantage comme des prolongements de la volonté de leur maître draconique que comme des êtres individuels."
+difficulty: 17
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Armes du trésor"
+range: "Mêlée"
+damage: "11 phy"
+motives_and_tactics: "Tenir la ligne, se sacrifier, servir, submerger"
+experience: "Lien draconique +2"
+features:
+  - "Sbire (13) - Passif"
+  - "Morsure venimeuse - Action"
+  - "Attaque de groupe - Action"
 ---
 
 # Démon-ver

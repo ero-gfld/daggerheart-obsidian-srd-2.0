@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Paragon’s Chain"
+tags:
+  - "daggerheart/item"
+name: "Chaîne du parangon"
+effect: "Comme action de repos, vous pouvez méditer sur un idéal ou un principe qui vous est cher et concentrer votre volonté dans cette chaîne. Une fois par repos long, vous pouvez dépenser un Espoir pour lancer un d20 comme dé d’Espoir pour les jets qui se rattachent directement à ce principe."
 ---
 
 # Chaîne du parangon

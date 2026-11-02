@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Halberd"
+tags:
+  - "daggerheart/weapon"
+name: "Hallebarde légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Très proche"
+damage: "d10+11 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Hallebarde légendaire

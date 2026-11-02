@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Shortbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc court amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+6 phy"
+burden: "À deux mains"
 ---
 
 # Arc court amélioré

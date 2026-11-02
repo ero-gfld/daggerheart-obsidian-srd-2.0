@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Life Ward"
+tags:
+  - "daggerheart/domain-card"
+name: "Garde de vie"
+domain: "Splendeur"
+level: 4
+type: "Sort"
+recall: 1
 ---
 
 # Garde de vie

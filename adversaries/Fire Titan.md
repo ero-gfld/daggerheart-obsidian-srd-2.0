@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Fire Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan de feu"
+tier: 3
+type: "Solo"
+description: "Un goliath cuirassé à la peau gris cendre et aux cheveux de feu, qui manie un espadon de maître forgé dans sa propre forge."
+difficulty: 18
+thresholds: "19/35"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Espadon"
+range: "Proche"
+damage: "3d12+4 phy"
+motives_and_tactics: "Agir avec bravoure, faire la guerre, penser en tacticien"
+experience: "Forge +5, Tactique +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Armure de maître - Passif"
+  - "Élan - Passif"
+  - "Lancer un rocher - Action"
+  - "Fendeur de crânes - Action"
+  - "Cœur ardent - Réaction"
 ---
 
 # Titan de feu

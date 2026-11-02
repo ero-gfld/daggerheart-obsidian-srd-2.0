@@ -4,23 +4,23 @@ tags:
 name: "Rugaru"
 tier: 1
 type: "Solo"
-description: "A wolf-headed humanoid cursed by the gods to prowl the swamps in search of blood."
+description: "Un humanoïde à tête de loup, maudit par les dieux pour rôder dans les marais en quête de sang."
 difficulty: 14
 thresholds: "7/14"
 hp: 8
 stress: 4
 atk: "+4"
-attack: "Snapping Jaws"
-range: "Melee"
+attack: "Mâchoires claquantes"
+range: "Mêlée"
 damage: "2d8+4 phy"
-motives_and_tactics: "Blaspheme, go for the throat, stalk, terrorize"
-experience: "Swamps +3"
+motives_and_tactics: "Blasphémer, viser la gorge, traquer, terroriser"
+experience: "Marais +3"
 features:
-  - "Relentless (3) - Passive"
-  - "Child of Night - Passive"
-  - "Bloodthirsty - Passive"
-  - "Howl at the Moon - Action"
-  - "Flesh Ripper - Action"
+  - "Implacable (3) - Passif"
+  - "Enfant de la nuit - Passif"
+  - "Assoiffé de sang - Passif"
+  - "Hurlement à la lune - Action"
+  - "Lacérateur de chair - Action"
 ---
 
 # Rugaru

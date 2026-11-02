@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Cult Ritual"
+tags:
+  - "daggerheart/environment"
+name: "Rituel de culte"
+tier: 2
+type: "Événement"
+description: "Un culte déchu se rassemble autour d’un sigil des dieux vaincus et d’un bûcher qui brûle d’un vert maladif."
+difficulty: 14
+impulses: "profaner la terre, unir le Royaume mortel aux Cercles inférieurs"
+potential_adversaries: "Culte des Déchus (Adepte du culte, Croc du culte, Initié du culte, Gardien des secrets)"
+features:
+  - "Terre profanée - Passif"
+  - "Puissance blasphématoire - Action"
+  - "L’Invocation - Réaction"
+  - "Achever le rituel - Réaction"
 ---
 
 # Rituel de culte

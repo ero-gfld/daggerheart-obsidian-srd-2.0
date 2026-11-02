@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Wand"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+10 mag"
+burden: "À une main"
 ---
 
 # Baguette légendaire

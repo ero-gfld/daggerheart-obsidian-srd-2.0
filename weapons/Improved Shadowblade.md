@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Shadowblade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame d’ombre améliorée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+3 phy/mag"
+burden: "À une main"
+feature: "D’outre-monde : Lors d’une attaque réussie, vous pouvez infliger des dégâts physiques ou magiques."
 ---
 
 # Lame d’ombre améliorée

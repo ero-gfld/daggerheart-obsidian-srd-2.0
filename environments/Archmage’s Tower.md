@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Archmage’s Tower"
+tags:
+  - "daggerheart/environment"
+name: "Tour de l’archimage"
+tier: 3
+type: "Exploration"
+description: "Une flèche démesurément haute perce le ciel et vibre d’une puissance immense."
+difficulty: 16
+impulses: "Collecter l’énergie magique, épuiser les intrus, révéler l’inconnu, libérer des décharges de magie"
+potential_adversaries: "Créations alchimiques (Chimère, Lamia, Manticore), Archimage"
+features:
+  - "Défenses mystiques - Passif"
+  - "Aire de l’archimage - Passif"
+  - "Adversaires fusionnés - Réaction"
 ---
 
 # Tour de l’archimage

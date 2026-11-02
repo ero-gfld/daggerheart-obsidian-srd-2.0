@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Corrosive Projectile"
+tags:
+  - "daggerheart/domain-card"
+name: "Projectile corrosif"
+domain: "Nature"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Projectile corrosif

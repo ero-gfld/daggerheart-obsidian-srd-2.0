@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Blessed Anlace"
+tags:
+  - "daggerheart/weapon"
+name: "Anlace bénie"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d10+6 mag"
+burden: "À une main"
+feature: "Soin : pendant un temps de repos, effacez automatiquement un point de vie marqué."
 ---
 
 # Anlace bénie

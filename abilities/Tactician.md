@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Tactician"
+tags:
+  - "daggerheart/domain-card"
+name: "Tacticien"
+domain: "Os"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Tacticien

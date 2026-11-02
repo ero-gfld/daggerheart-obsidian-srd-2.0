@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Siren"
+tags:
+  - "daggerheart/adversary"
+name: "Sirène"
+tier: 2
+type: "Furtif"
+description: "Une personne mi-poisson aux écailles chatoyantes et à la voix irrésistible."
+difficulty: 14
+thresholds: "9/18"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Morsure à mâchoire distendue"
+range: "Mêlée"
+damage: "2d6+3 phy"
+motives_and_tactics: "Consumer, attirer la proie, asservir par le chant"
+experience: "Répertoire de chants +3"
+features:
+  - "Public captif - Passif"
+  - "Chant envoûtant - Action"
 ---
 
 # Sirène

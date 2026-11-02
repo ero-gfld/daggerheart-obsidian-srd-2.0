@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Crystal Spear"
+tags:
+  - "daggerheart/weapon"
+name: "Lance de cristal"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d10+6 mag"
+burden: "À une main"
+feature: "Perforant : les dégâts infligés avec cette arme considèrent le seuil de dégâts majeurs de la cible comme ayant un malus de −2."
 ---
 
 # Lance de cristal

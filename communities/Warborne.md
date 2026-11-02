@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Warborne"
+tags:
+  - "daggerheart/community"
+name: "Né de la guerre"
+description: "Faire partie d’une communauté de Nés de la guerre, c’est venir d’un endroit qui est, ou a été, ravagé par la guerre."
+traits: "stratèges, dévastés, déterminés, calculateurs, inébranlables et dévoués"
+features:
+  - "Bonne figure"
 ---
 
 # Né de la guerre

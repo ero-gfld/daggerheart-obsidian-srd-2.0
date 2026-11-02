@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Returning Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame revenante légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d8+9 mag"
+burden: "À une main"
+feature: "Revenant : Quand cette arme est lancée à portée, elle apparaît immédiatement dans votre main après l’attaque."
 ---
 
 # Lame revenante légendaire

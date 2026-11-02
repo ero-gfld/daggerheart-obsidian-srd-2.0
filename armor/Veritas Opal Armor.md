@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Veritas Opal Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure d’opale de Veritas"
+tier: 4
+thresholds: "13/36"
+score: 6
+feature: "Quête de vérité : Cette armure luit lorsqu’une autre créature à portée Proche dit un mensonge."
 ---
 
 # Armure d’opale de Veritas

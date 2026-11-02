@@ -1,6 +1,14 @@
 ---
 aliases:
   - "Dread"
+tags:
+  - "daggerheart/domain"
+name: "Effroi"
+description: "L’Effroi est le domaine des cauchemars et de la peur."
+classes:
+  - "Occultiste"
+  - "Sorcière"
+cards: 21
 ---
 
 # Effroi

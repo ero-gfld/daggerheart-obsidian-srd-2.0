@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Godbound Laminar"
+tags:
+  - "daggerheart/armor"
+name: "Armure lamellaire de l’élu divin"
+tier: 4
+thresholds: "13/36"
+score: 6
+feature: "Divin : Lorsque vous marquez un Emplacement d’armure, gagnez un Espoir."
 ---
 
 # Armure lamellaire de l’élu divin

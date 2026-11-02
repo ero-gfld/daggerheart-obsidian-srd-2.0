@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Tears of the Undying Hero"
+tags:
+  - "daggerheart/consumable"
+name: "Larmes du héros immortel"
+effect: "Lorsque vous buvez cette potion, la mort ne peut plus vous atteindre jusqu’à votre prochain repos long. Lorsque vous devriez marquer votre dernier Point de vie, au lieu de faire un choix de mort, vous effectuez un dernier jet d’action avant de tomber dans un sommeil sans rêves, jusqu’à ce qu’un allié choisisse l’action de repos Soigner les blessures pour libérer vos PV."
 ---
 
 # Larmes du héros immortel

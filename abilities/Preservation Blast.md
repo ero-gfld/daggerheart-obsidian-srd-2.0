@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Preservation Blast"
+tags:
+  - "daggerheart/domain-card"
+name: "Déflagration de préservation"
+domain: "Arcanes"
+level: 4
+type: "Sort"
+recall: 2
 ---
 
 # Déflagration de préservation

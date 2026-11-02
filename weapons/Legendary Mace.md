@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Mace"
+tags:
+  - "daggerheart/weapon"
+name: "Masse d’armes légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+10 phy"
+burden: "À une main"
 ---
 
 # Masse d’armes légendaire

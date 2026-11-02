@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Bladed Whip"
+tags:
+  - "daggerheart/weapon"
+name: "Fouet à lames"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Rapide : lorsque vous attaquez, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Fouet à lames

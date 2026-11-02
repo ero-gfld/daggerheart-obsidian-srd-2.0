@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Veil of Night"
+tags:
+  - "daggerheart/domain-card"
+name: "Voile de la nuit"
+domain: "Minuit"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Voile de la nuit

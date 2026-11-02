@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Whisper Wraith"
+tags:
+  - "daggerheart/adversary"
+name: "Spectre murmurant"
+tier: 3
+type: "Furtif"
+description: "Les échos de promesses brisées et de rêves inaccomplis, qui prennent la forme d’un linceul translucide et flottant, en velours noir déchiré, à la silhouette vaguement humanoïde."
+difficulty: 16
+thresholds: "20/32"
+hp: 6
+stress: 6
+atk: "+4"
+attack: "Toucher d’ombre"
+range: "Mêlée"
+damage: "3d8+4 mag"
+motives_and_tactics: "Lier les membres, tomber de très haut, s’élever au-dessus du sol, tournoyer dans les airs, s’enrouler autour des têtes"
+experience: "Rêves +4"
+features:
+  - "Grand spectre - Passif"
+  - "Sinistre - Passif"
+  - "Linceul cauchemardesque - Action"
 ---
 
 # Spectre murmurant

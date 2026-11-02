@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Clockwork Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète mécanique"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+11 phy"
+burden: "À une main"
+feature: "Rapide : lorsque vous attaquez, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Arbalète mécanique

@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Rope Dart"
+tags:
+  - "daggerheart/weapon"
+name: "Dard à corde"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+1 phy"
+burden: "À deux mains"
 ---
 
 # Dard à corde

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dire Strike"
+tags:
+  - "daggerheart/domain-card"
+name: "Frappe funeste"
+domain: "Effroi"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Frappe funeste

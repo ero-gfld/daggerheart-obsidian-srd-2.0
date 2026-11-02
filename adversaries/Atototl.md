@@ -4,21 +4,21 @@ tags:
 name: "Atototl"
 tier: 1
 type: "Standard"
-description: "A majestic green water bird that has a ten-foot wingspan and is hunted for the fortune-telling stone inside their stomach."
+description: "Un majestueux oiseau d’eau vert, à l’envergure de trois mètres, chassé pour la pierre de divination qu’il porte dans son estomac."
 difficulty: 12
 thresholds: "8/12"
 hp: 5
 stress: 3
 atk: "+1"
-attack: "Talons"
-range: "Melee"
+attack: "Serres"
+range: "Mêlée"
 damage: "1d8+1 phy"
-motives_and_tactics: "Avoid, escape, misdirect"
-experience: "Flight +3, Jungles +3"
+motives_and_tactics: "Éviter, s’échapper, induire en erreur"
+experience: "Vol +3, Jungles +3"
 features:
-  - "Wind Lord - Passive"
-  - "Stone of Omens - Passive"
-  - "Archer’s Bane - Reaction"
+  - "Seigneur des vents - Passif"
+  - "Pierre des présages - Passif"
+  - "Fléau des archers - Réaction"
 ---
 
 # Atototl

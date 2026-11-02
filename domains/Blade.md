@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Blade"
+tags:
+  - "daggerheart/domain"
+name: "Lame"
+description: "La Lame est le domaine de la maîtrise des armes."
+classes:
+  - "Assassin"
+  - "Gardien"
+  - "Guerrier"
+cards: 21
 ---
 
 # Lame

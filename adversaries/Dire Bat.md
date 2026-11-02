@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Dire Bat"
+tags:
+  - "daggerheart/adversary"
+name: "Chauve-souris redoutable"
+tier: 3
+type: "Furtif"
+description: "Animal de compagnie aux ailes déployées, d’une loyauté sans faille envers son maître vampire."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Griffes et crocs"
+range: "Mêlée"
+damage: "2d6+7 phy"
+motives_and_tactics: "Piquer en piqué, se cacher, protéger le chef"
+experience: "Sanguinaire +3"
+features:
+  - "Vol - Passif"
+  - "Cri strident - Action"
+  - "Gardienne - Réaction"
 ---
 
 # Chauve-souris redoutable

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Using Adversaries"
+tags:
+  - "daggerheart/rules"
+name: "Utiliser les adversaires"
+description: "Toutes les informations nécessaires pour jouer un adversaire figurent dans son profil."
 ---
 
 # Utiliser les adversaires

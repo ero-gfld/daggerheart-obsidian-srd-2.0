@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Arcane Rifle"
+tags:
+  - "daggerheart/weapon"
+name: "Fusil arcanique amélioré"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d10+6 mag"
+burden: "À deux mains"
+feature: "Visée : Votre attaque subit un désavantage si la cible se trouve à portée Très proche de vous ou à portée Mêlée d’un de vos alliés. Vous pouvez marquer un Stress pour ignorer cette pénalité."
 ---
 
 # Fusil arcanique amélioré

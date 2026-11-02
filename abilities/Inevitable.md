@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Inevitable"
+tags:
+  - "daggerheart/domain-card"
+name: "Inéluctable"
+domain: "Vaillance"
+level: 6
+type: "Capacité"
+recall: 1
 ---
 
 # Inéluctable

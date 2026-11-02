@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Greatbow"
+tags:
+  - "daggerheart/weapon"
+name: "Grand arc"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Loin"
+damage: "d6+6 phy"
+burden: "À deux mains"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Grand arc

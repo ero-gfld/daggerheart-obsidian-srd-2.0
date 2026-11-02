@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Möbius Orb"
+tags:
+  - "daggerheart/weapon"
+name: "Orbe de Möbius"
+tier: 4
+category: "Secondaire"
+type: "Magique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d8+6 mag"
+burden: "À une main"
+feature: "Récursif : Quand vous obtenez la valeur maximale sur un dé de dégâts, lancez un dé de dégâts supplémentaire et ajoutez le résultat aux dégâts totaux. Cette aptitude peut se déclencher plusieurs fois de suite."
 ---
 
 # Orbe de Möbius

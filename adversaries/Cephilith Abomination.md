@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Cephilith Abomination"
+tags:
+  - "daggerheart/adversary"
+name: "Abomination cephilith"
+tier: 4
+type: "Cogneur"
+description: "Une bête-grenouille pesante, couverte de vase, dont la peau translucide laisse voir des sangsues semblables à des têtards qui se tortillent dessous."
+difficulty: 19
+thresholds: "35/70"
+hp: 7
+stress: 5
+atk: "+4"
+attack: "Poings charnus"
+range: "Mêlée"
+damage: "4d10+10 phy"
+motives_and_tactics: "Faire le sale boulot, bondir de façon menaçante, se déplacer étonnamment vite, frapper et rafler"
+experience: "Brutalité +3"
+features:
+  - "Peau toxique - Passif"
+  - "Étreinte d’ours - Action"
+  - "Broiement ! - Action"
+  - "Attaque de langue - Action"
+  - "Sangsues fouisseuses - Réaction"
 ---
 
 # Abomination cephilith

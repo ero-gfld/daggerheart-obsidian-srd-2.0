@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Mountain Troll"
+tags:
+  - "daggerheart/adversary"
+name: "Troll des montagnes"
+tier: 1
+type: "Solo"
+description: "Un géant hideux né d'un immense rocher. Il porte une armure volée et une ceinture faite de têtes et de crânes tranchés."
+difficulty: 14
+thresholds: "8/15"
+hp: 8
+stress: 3
+atk: "+2"
+attack: "Fléau à crânes"
+range: "Très proche"
+damage: "1d8+1 phy"
+motives_and_tactics: "Tendre une embuscade, rugir, lancer de gros rochers, fracasser, piétiner"
+experience: "Montagnes +4"
+features:
+  - "Implacable (3) - Passif"
+  - "Armure volée - Passif"
+  - "Fauchage du fléau - Action"
+  - "Troll des montagnes enragé - Évolution"
+  - "Double fauchage - Action"
 ---
 
 # Troll des montagnes

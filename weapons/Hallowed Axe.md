@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Hallowed Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache sacrée"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+1 mag"
+burden: "À une main"
 ---
 
 # Hache sacrée

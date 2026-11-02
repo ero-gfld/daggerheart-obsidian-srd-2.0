@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Flickerfly Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame de papillon scintillant"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+5 phy"
+burden: "À une main"
+feature: "Aile acérée : Gagnez un bonus à vos jets de dégâts égal à votre Agilité."
 ---
 
 # Lame de papillon scintillant

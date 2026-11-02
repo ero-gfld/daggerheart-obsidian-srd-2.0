@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Chain Lightning"
+tags:
+  - "daggerheart/domain-card"
+name: "Foudre en chaîne"
+domain: "Arcanes"
+level: 5
+type: "Sort"
+recall: 1
 ---
 
 # Foudre en chaîne

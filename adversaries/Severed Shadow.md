@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Severed Shadow"
+tags:
+  - "daggerheart/adversary"
+name: "Ombre tranchée"
+tier: 4
+type: "Sbire"
+description: "Une ombre vivante à deux dimensions, liée aux plans et aux surfaces plates."
+difficulty: 19
+thresholds: "aucun"
+hp: 1
+stress: 2
+atk: "+3"
+attack: "Étranglement"
+range: "Proche"
+damage: "10 mag"
+motives_and_tactics: "Maudire la lumière, se glisser dans les fissures, se diviser et se reformer"
+features:
+  - "Sbire (12) - Passif"
+  - "Agrippement d'ombre - Action"
+  - "Attaque de groupe - Action"
 ---
 
 # Ombre tranchée

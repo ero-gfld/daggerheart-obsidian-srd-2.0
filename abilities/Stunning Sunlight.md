@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Stunning Sunlight"
+tags:
+  - "daggerheart/domain-card"
+name: "Soleil étourdissant"
+domain: "Splendeur"
+level: 8
+type: "Sort"
+recall: 2
 ---
 
 # Soleil étourdissant

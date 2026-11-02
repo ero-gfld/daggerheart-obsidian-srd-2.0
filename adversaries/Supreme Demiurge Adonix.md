@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Supreme Demiurge Adonix"
+tags:
+  - "daggerheart/adversary"
+name: "Démiurge suprême Adonix"
+tier: 4
+type: "Solo"
+description: "L’ange à quatre visages des Cieux sacrés, qui se manifeste dans le Royaume mortel sous la forme d’un tétraèdre flottant, couvert d’innombrables yeux et de plusieurs paires d’ailes métalliques emplumées."
+difficulty: 20
+thresholds: "35/70"
+hp: 12
+stress: 10
+atk: "+8"
+attack: "Frappe d’aile"
+range: "Proche"
+damage: "4d12+10 phy"
+motives_and_tactics: "Établir sa domination, bannir du réel, planer au-dessus de tout, faire exister par la parole"
+experience: "Omnipotence +10, « N’ayez pas peur » +5"
+features:
+  - "Implacable (4) - Passif"
+  - "Archonte élémentaire - Action"
+  - "De l’Alpha à l’Oméga - Évolution"
+  - "Délaissé - Action"
+  - "Armageddon - Réaction"
 ---
 
 # Démiurge suprême Adonix

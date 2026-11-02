@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Glyph of Nightfall"
+tags:
+  - "daggerheart/domain-card"
+name: "Glyphe du crépuscule"
+domain: "Minuit"
+level: 4
+type: "Sort"
+recall: 1
 ---
 
 # Glyphe du crépuscule

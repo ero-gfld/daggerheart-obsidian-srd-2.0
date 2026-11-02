@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Great Winged Beast"
+tags:
+  - "daggerheart/beastform"
+name: "Grande bête ailée"
+tier: 3
+examples: "Aigle géant, faucon, etc."
+trait_bonus: "Finesse +2"
+evasion: "+3"
+attack: "Mêlée Finesse d8+6 phy"
+advantages: "tromper, distraire, repérer"
+features:
+  - "Vue d’oiseau"
+  - "Porteur"
 ---
 
 # Grande bête ailée

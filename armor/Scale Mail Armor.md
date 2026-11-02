@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Scale Mail Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte d’écailles"
+tier: 1
+thresholds: "7/14"
+score: 3
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Cotte d’écailles

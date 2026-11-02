@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Giant Mosquitoes"
+tags:
+  - "daggerheart/adversary"
+name: "Moustiques géants"
+tier: 1
+type: "Horde"
+horde: 5
+description: "Des dizaines de moustiques gros comme le poing, qui volent ensemble pour se protéger."
+difficulty: 10
+thresholds: "5/9"
+hp: 6
+stress: 3
+atk: "-2"
+attack: "Trompe"
+range: "Mêlée"
+damage: "1d8+3 phy"
+motives_and_tactics: "S’envoler, harceler, voler du sang"
+experience: "Camouflage +2"
+features:
+  - "Horde (1d4+1) - Passif"
+  - "Vol - Passif"
+  - "Suceurs de sang - Réaction"
 ---
 
 # Moustiques géants

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Shortsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée courte avancée"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
+feature: "Jumelé : +4 aux dégâts de l’arme principale contre les cibles à portée de Mêlée"
 ---
 
 # Épée courte avancée

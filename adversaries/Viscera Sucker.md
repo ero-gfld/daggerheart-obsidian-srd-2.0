@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Viscera Sucker"
+tags:
+  - "daggerheart/adversary"
+name: "Suceur de viscères"
+tier: 3
+type: "Furtif"
+description: "Un démon vampirique dont le haut du corps se détache au crépuscule pour voler au-dessus des villages alentour à la recherche de victimes. Son torse ailé laisse pendre des entrailles."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Longs ongles"
+range: "Mêlée"
+damage: "2d6+7 phy"
+motives_and_tactics: "S’accrocher à ses proies, sucer le sang, déchirer en deux"
+experience: "Vol +3"
+features:
+  - "Unis ou morts - Passif"
+  - "Entrailles enchevêtrées - Action"
+  - "Aspiration vitale - Action"
 ---
 
 # Suceur de viscères

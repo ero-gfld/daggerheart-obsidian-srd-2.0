@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Elemental Spark"
+tags:
+  - "daggerheart/adversary"
+name: "Étincelle élémentaire"
+tier: 3
+type: "Sbire"
+description: "Une flamme élémentaire incandescente."
+difficulty: 15
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Rafales de feu"
+range: "Proche"
+damage: "5 mag"
+motives_and_tactics: "Frapper, consumer, prendre de la masse"
+features:
+  - "Sbire (9) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Étincelle élémentaire

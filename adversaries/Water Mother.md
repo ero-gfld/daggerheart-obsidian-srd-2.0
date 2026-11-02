@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Water Mother"
+tags:
+  - "daggerheart/adversary"
+name: "Mère des eaux"
+tier: 4
+type: "Solo"
+description: "Un serpent colossal couvert de fourrure, qui chasse dans les grandes étendues d’eau."
+difficulty: 20
+thresholds: "40/70"
+hp: 12
+stress: 8
+atk: "+8"
+attack: "Morsure"
+range: "Très proche"
+damage: "4d10+5 phy"
+motives_and_tactics: "Enserrer le monde, contrôler le champ de bataille, attirer les ennemis dans l’eau"
+experience: "Rivières +4"
+features:
+  - "Segmentée - Passif"
+  - "Dévorer le monde - Action"
+  - "Étreinte - Action"
+  - "Surcharge de venin - Réaction"
 ---
 
 # Mère des eaux

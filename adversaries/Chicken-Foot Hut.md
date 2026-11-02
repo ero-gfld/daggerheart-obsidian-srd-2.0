@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Chicken-Foot Hut"
+tags:
+  - "daggerheart/adversary"
+name: "Hutte aux pattes de poule"
+tier: 2
+type: "Cogneur"
+description: "Une haute cabane de bois qui se déplace sur d’énormes pattes de poule."
+difficulty: 16
+thresholds: "14/27"
+hp: 8
+stress: 2
+atk: "+2"
+attack: "Pattes griffues"
+range: "Très proche"
+damage: "2d10+3 phy"
+motives_and_tactics: "Griffer, protéger son maître, courir et bondir, piétiner"
+experience: "Forêts +2"
+features:
+  - "Rapide - Passif"
+  - "Double frappe - Action"
+  - "Plaquage - Réaction"
 ---
 
 # Hutte aux pattes de poule

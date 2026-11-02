@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Glowing Rings"
+tags:
+  - "daggerheart/weapon"
+name: "Anneaux luisants améliorés"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+5 mag"
+burden: "À deux mains"
 ---
 
 # Anneaux luisants améliorés

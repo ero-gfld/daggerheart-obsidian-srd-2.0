@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Monarch"
+tags:
+  - "daggerheart/adversary"
+name: "Monarque"
+tier: 3
+type: "Social"
+description: "Le souverain d'une nation, paré des privilèges de la tradition et détenant un pouvoir sans égal sur son domaine."
+difficulty: 16
+thresholds: "16/32"
+hp: 6
+stress: 5
+atk: "+0"
+attack: "Marteau de guerre"
+range: "Mêlée"
+damage: "3d6+3 phy"
+motives_and_tactics: "Contrôler ses vassaux, détruire ses rivaux, forger un héritage"
+experience: "Histoire +3, Noblesse +3"
+features:
+  - "Exécutez-les ! - Action"
+  - "Garde de la couronne - Action"
+  - "Casus belli - Réaction"
 ---
 
 # Monarque

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Jumping Root"
+tags:
+  - "daggerheart/consumable"
+name: "Racine bondissante"
+effect: "Mangez cette racine pour bondir une fois jusqu’à portée Loin, sans avoir à faire de jet."
 ---
 
 # Racine bondissante

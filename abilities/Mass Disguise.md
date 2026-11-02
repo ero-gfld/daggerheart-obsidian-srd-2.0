@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Mass Disguise"
+tags:
+  - "daggerheart/domain-card"
+name: "Déguisement collectif"
+domain: "Minuit"
+level: 6
+type: "Sort"
+recall: 0
 ---
 
 # Déguisement collectif

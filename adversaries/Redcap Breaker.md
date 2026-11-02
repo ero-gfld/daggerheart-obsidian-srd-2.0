@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Redcap Breaker"
+tags:
+  - "daggerheart/adversary"
+name: "Briseur bonnet-rouge"
+tier: 1
+type: "Cogneur"
+description: "Une créature féerique grande et brutale, coiffée d'un bonnet rouge conique scellé à la cire de bougie."
+difficulty: 13
+thresholds: "8/15"
+hp: 6
+stress: 3
+atk: "+1"
+attack: "Maillet de bois"
+range: "Mêlée"
+damage: "1d12+2 phy"
+motives_and_tactics: "Se frapper la poitrine et rugir, malmener les ennemis chétifs, foncer tête baissée"
+experience: "Os +2"
+features:
+  - "Brise-dos - Action"
+  - "Genouilleur - Réaction"
 ---
 
 # Briseur bonnet-rouge

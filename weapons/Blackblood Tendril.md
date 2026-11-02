@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Blackblood Tendril"
+tags:
+  - "daggerheart/weapon"
+name: "Vrille de sang noir"
+tier: 4
+category: "Secondaire"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+8 mag"
+burden: "À une main"
+feature: "Empoisonnée : lorsqu’une cible marque des points de vie à cause d’une attaque dont vous avez fait le jet avec la Peur, elle marque autant de Stress."
 ---
 
 # Vrille de sang noir

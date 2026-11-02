@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Wyvern"
+tags:
+  - "daggerheart/adversary"
+name: "Vouivre"
+tier: 3
+type: "Standard"
+description: "Un dragon à deux pattes qui quitte son nid au sommet des montagnes pour dévorer le bétail."
+difficulty: 16
+thresholds: "18/35"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Crocs et griffes"
+range: "Très proche"
+damage: "3d8+5 phy"
+motives_and_tactics: "Projeter une ombre menaçante, arracher et emporter, tournoyer dans les airs"
+experience: "Attaque en piqué +4"
+features:
+  - "Frappe double - Action"
+  - "Cri terrifiant - Action"
+  - "Agrippement - Réaction"
 ---
 
 # Vouivre

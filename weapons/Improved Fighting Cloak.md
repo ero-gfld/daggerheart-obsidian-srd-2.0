@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Fighting Cloak"
+tags:
+  - "daggerheart/weapon"
+name: "Cape de combat améliorée"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d4+2 phy"
+burden: "À une main"
+feature: "Rembourré : +3 aux seuils de dégâts"
 ---
 
 # Cape de combat améliorée

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Demigod"
+tags:
+  - "daggerheart/transformation"
+name: "Demi-dieu"
+description: "Les demi-dieux sont des créatures mortelles dans les veines desquelles coule le sang des dieux."
+features:
+  - "Doué"
+  - "Poids de la divinité"
 ---
 
 # Demi-dieu

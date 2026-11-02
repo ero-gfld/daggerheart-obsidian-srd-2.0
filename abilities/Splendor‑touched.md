@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Splendor‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par la Splendeur"
+domain: "Splendeur"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par la Splendeur

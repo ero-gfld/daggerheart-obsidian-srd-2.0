@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Attune Relic"
+tags:
+  - "daggerheart/item"
+name: "Relique d’accord"
+effect: "Vous gagnez un bonus de +1 à votre Instinct. Vous ne pouvez porter qu’une seule relique."
 ---
 
 # Relique d’accord

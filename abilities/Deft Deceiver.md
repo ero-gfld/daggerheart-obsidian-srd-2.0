@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Deft Deceiver"
+tags:
+  - "daggerheart/domain-card"
+name: "Trompeur habile"
+domain: "Grâce"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Trompeur habile

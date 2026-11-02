@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Titan’s Girdle"
+tags:
+  - "daggerheart/item"
+name: "Ceinture de titan"
+effect: "Une fois par scène, vous pouvez activer cette ceinture pour gagner un bonus de +1 à votre Maîtrise pour votre prochaine attaque."
 ---
 
 # Ceinture de titan

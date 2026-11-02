@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Dragon’s Lair"
+tags:
+  - "daggerheart/environment"
+name: "Antre du dragon"
+tier: 3
+type: "Exploration"
+description: "Un amas d’or, de joyaux et d’artefacts au cœur d’un volcan actif."
+difficulty: 16
+impulses: "attirer vers les niveaux inférieurs, rendre toute fuite impossible, tenter avec des trésors, réveiller le dragon"
+potential_adversaries: "Les sbires du dragon (Drake, Vouivre), Jeune dragon de feu"
+features:
+  - "Le dragon se réveille - Passif"
+  - "Trésor amassé - Passif"
+  - "Activité volcanique - Action"
+  - "Chiens de garde - Réaction"
 ---
 
 # Antre du dragon

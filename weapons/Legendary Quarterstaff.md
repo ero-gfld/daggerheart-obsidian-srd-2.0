@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Quarterstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton de combat légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d10+12 phy"
+burden: "À deux mains"
 ---
 
 # Bâton de combat légendaire

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Control Relic"
+tags:
+  - "daggerheart/item"
+name: "Relique de contrôle"
+effect: "Vous gagnez un bonus de +1 à votre Finesse. Vous ne pouvez porter qu’une seule relique."
 ---
 
 # Relique de contrôle

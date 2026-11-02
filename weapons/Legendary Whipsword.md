@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Whipsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée-fouet légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+9 phy"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces statistiques : Finesse, Mêlée, d10+9."
 ---
 
 # Épée-fouet légendaire

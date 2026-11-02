@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/transformation"
 name: "Vampire"
-description: "Vampires are undead creatures with sharp fangs who feed on the blood of the living."
+description: "Les vampires sont des morts-vivants aux crocs acérés qui se nourrissent du sang des vivants."
 features:
-  - "Fangs"
-  - "Feed"
+  - "Crocs"
+  - "Se nourrir"
 ---
 
 # Vampire

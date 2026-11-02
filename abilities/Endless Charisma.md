@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Endless Charisma"
+tags:
+  - "daggerheart/domain-card"
+name: "Charisme inépuisable"
+domain: "Grâce"
+level: 7
+type: "Capacité"
+recall: 1
 ---
 
 # Charisme inépuisable

@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Equipment"
+tags:
+  - "daggerheart/rules"
+name: "Équipement"
+description: "Vos armes et armures équipées sont celles inscrites dans les sections « Armes actives » et « Armure active » de votre fiche de personnage."
+sections:
+  - "ARMES"
+  - "ARMURE"
+  - "BUTIN"
+  - "OR"
 ---
 
 # Équipement

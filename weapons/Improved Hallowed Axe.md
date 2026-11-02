@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Hallowed Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache sacrée améliorée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+4 mag"
+burden: "À une main"
 ---
 
 # Hache sacrée améliorée

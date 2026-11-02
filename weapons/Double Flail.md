@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Double Flail"
+tags:
+  - "daggerheart/weapon"
+name: "Fléau double"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+8 phy"
+burden: "À deux mains"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Fléau double

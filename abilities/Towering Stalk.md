@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Towering Stalk"
+tags:
+  - "daggerheart/domain-card"
+name: "Tige élancée"
+domain: "Nature"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Tige élancée

@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Local Festival"
+tags:
+  - "daggerheart/environment"
+name: "Fête locale"
+tier: 1
+type: "Social"
+description: "Roturiers et nobles des environs se rassemblent pour une fête qui dure une semaine."
+difficulty: 11
+impulses: "Exprimer la culture et l’histoire locales, nouer de nouvelles relations, renforcer la communauté"
+potential_adversaries: "Sécurité de la fête (Garde à lames, Garde en chef), Notables locaux (Roturier, Marchand, Petit noble), Vauriens divers (Bandit des Lames dentelées, Laquais)"
+features:
+  - "Souvenez-vous, souvenez-vous - Passif"
+  - "Intrigues politiques - Passif"
+  - "« Que les jeux commencent ! » - Action"
+  - "Figure locale légendaire - Action"
 ---
 
 # Fête locale

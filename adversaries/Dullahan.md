@@ -3,23 +3,23 @@ tags:
   - "daggerheart/adversary"
 name: "Dullahan"
 tier: 3
-type: "Bruiser"
-description: "A horse-mounted specter holding their own severed head in one hand and wielding a whip fashioned from a human spine in the other."
+type: "Cogneur"
+description: "Spectre monté sur un cheval, qui tient sa propre tête tranchée d’une main et un fouet taillé dans une colonne vertébrale humaine de l’autre."
 difficulty: 17
 thresholds: "22/40"
 hp: 7
 stress: 4
 atk: "+3"
-attack: "Spine Whip"
-range: "Very Close"
+attack: "Fouet d’échine"
+range: "Très proche"
 damage: "3d10+1 mag"
-motives_and_tactics: "Doom with a glance, gallop across water, kick with heavy hooves"
-experience: "Nocturnal +3"
+motives_and_tactics: "Condamner d’un regard, galoper sur l’eau, frapper de sabots lourds"
+experience: "Nocturne +3"
 features:
-  - "Specter - Passive"
-  - "Spectral Mount - Passive"
-  - "Bone Whip Strike - Action"
-  - "Death Glare - Action"
+  - "Spectre - Passif"
+  - "Monture spectrale - Passif"
+  - "Coup de fouet d’os - Action"
+  - "Regard de mort - Action"
 ---
 
 # Dullahan

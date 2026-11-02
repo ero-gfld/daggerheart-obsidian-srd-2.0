@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Focus Runes"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de focalisation légendaires"
+tier: 4
+category: "Secondaire"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d6+6 mag"
+burden: "À une main"
+feature: "Concentré : +1 aux dégâts de l’arme principale contre les cibles à portée Très proche"
 ---
 
 # Runes de focalisation légendaires

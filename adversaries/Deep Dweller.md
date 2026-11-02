@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Deep Dweller"
+tags:
+  - "daggerheart/adversary"
+name: "Habitant des abysses"
+tier: 3
+type: "Meneur"
+description: "Immense lamproie psychique aux yeux noirs comme la poix et aux tentacules toxiques."
+difficulty: 17
+thresholds: "22/42"
+hp: 6
+stress: 6
+atk: "+5"
+attack: "Dents et tentacules"
+range: "Proche"
+damage: "3d10+4 phy"
+motives_and_tactics: "Abuser du pouvoir, rechercher l’adoration, rôder dans les ruines englouties"
+experience: "Mystères anciens +2, Eaux sombres +2"
+features:
+  - "Déflagration psychique - Action"
+  - "Drain cérébral - Action"
+  - "Appel des abysses - Action"
+  - "Contamination muqueuse - Action"
 ---
 
 # Habitant des abysses

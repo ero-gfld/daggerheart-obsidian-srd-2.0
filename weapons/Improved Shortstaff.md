@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Shortstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton court amélioré"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d8+4 mag"
+burden: "À une main"
 ---
 
 # Bâton court amélioré

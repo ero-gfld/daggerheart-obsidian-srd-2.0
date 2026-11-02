@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Fane of the Wilds"
+tags:
+  - "daggerheart/domain-card"
+name: "Temple des terres sauvages"
+domain: "Nature"
+level: 9
+type: "Capacité"
+recall: 2
 ---
 
 # Temple des terres sauvages

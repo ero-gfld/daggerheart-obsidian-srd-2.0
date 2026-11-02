@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Moon Kingdom"
+tags:
+  - "daggerheart/environment"
+name: "Royaume de la lune"
+tier: 4
+type: "Exploration"
+description: "Les ruines mystérieuses, lumineuses et isolées d’un royaume lunaire disparu, qui résonnent d’une magie oubliée et d’une technologie ancienne."
+difficulty: 20
+impulses: "Brouiller la frontière entre rêve et réalité, laisser la conscience refluer et déferler comme la marée, murmurer les échos d’une opulence ancienne"
+potential_adversaries: "Faune locale (Cryptimoths, Yufos), Esprit de la reine de la lune (Archinécromant), Reliques réveillées (Automates, Gardiens de la Voûte)"
+features:
+  - "Atmosphère onirique - Passif"
+  - "Ruines silencieuses - Passif"
+  - "Astrologium lunaire - Passif"
+  - "Le tombeau de la reine de la lune - Réaction"
 ---
 
 # Royaume de la lune

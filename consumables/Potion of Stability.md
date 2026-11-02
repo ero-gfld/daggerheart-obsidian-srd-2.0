@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Potion of Stability"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de stabilité"
+effect: "Vous pouvez boire cette potion pour choisir une action de repos supplémentaire."
 ---
 
 # Potion de stabilité

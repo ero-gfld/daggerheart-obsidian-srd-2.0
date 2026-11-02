@@ -1,6 +1,13 @@
 ---
 aliases:
   - "A Soldier’s Bond"
+tags:
+  - "daggerheart/domain-card"
+name: "Lien du soldat"
+domain: "Lame"
+level: 2
+type: "Capacité"
+recall: 1
 ---
 
 # Lien du soldat

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Cruel Precision"
+tags:
+  - "daggerheart/domain-card"
+name: "Précision cruelle"
+domain: "Os"
+level: 7
+type: "Capacité"
+recall: 1
 ---
 
 # Précision cruelle

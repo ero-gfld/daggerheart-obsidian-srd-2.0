@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Winged Beast"
+tags:
+  - "daggerheart/beastform"
+name: "Bête ailée"
+tier: 2
+examples: "Faucon, chouette, corbeau, etc."
+trait_bonus: "Finesse +1"
+evasion: "+3"
+attack: "Mêlée Finesse d4+2 phy"
+advantages: "tromper, repérer, effrayer"
+features:
+  - "Vue d’oiseau"
+  - "Os creux"
 ---
 
 # Bête ailée

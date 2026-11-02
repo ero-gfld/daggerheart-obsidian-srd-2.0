@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Redirect"
+tags:
+  - "daggerheart/domain-card"
+name: "Détourner"
+domain: "Os"
+level: 4
+type: "Capacité"
+recall: 1
 ---
 
 # Détourner

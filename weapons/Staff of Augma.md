@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Staff of Augma"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton d’Augma"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+7 mag"
+burden: "À une main"
+feature: "Catalyseur : Sur une attaque réussie, vous pouvez marquer un Stress pour donner à un allié à portée Proche un bonus de +3 à son prochain jet d’attaque."
 ---
 
 # Bâton d’Augma

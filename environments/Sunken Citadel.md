@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Sunken Citadel"
+tags:
+  - "daggerheart/environment"
+name: "Citadelle engloutie"
+tier: 3
+type: "Exploration"
+description: "Les ruines submergées d’une civilisation disparue, pleines de technologies anciennes et de magie noire."
+difficulty: 16
+impulses: "Les attirer au fond, les noyer, révéler des merveilles anciennes"
+potential_adversaries: "Homme-poisson maudit, Habitant des abysses, Plésiosaure"
+features:
+  - "Environnement sous-marin - Passif"
+  - "Poches d’air - Passif"
+  - "Technologie perdue - Passif"
+  - "Habitants des grands fonds - Action"
 ---
 
 # Citadelle engloutie

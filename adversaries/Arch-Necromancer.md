@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Arch-Necromancer"
+tags:
+  - "daggerheart/adversary"
+name: "Archinécromant"
+tier: 4
+type: "Meneur"
+description: "Un mage en décomposition, vêtu de robes sombres et déchirées."
+difficulty: 21
+thresholds: "33/66"
+hp: 9
+stress: 8
+atk: "+6"
+attack: "Déflagration nécrotique"
+range: "Loin"
+damage: "4d12+8 mag"
+motives_and_tactics: "Corrompre, décomposer, fuir pour combattre un autre jour, ressusciter"
+experience: "Savoir interdit +3, Sagesse des siècles +3"
+features:
+  - "Danse de la mort - Action"
+  - "Rayon de décomposition - Action"
+  - "Ouvrez les portes de la mort - Action"
+  - "Pas aujourd’hui, mes chères - Réaction"
+  - "Votre vie m’appartient - Réaction"
 ---
 
 # Archinécromant

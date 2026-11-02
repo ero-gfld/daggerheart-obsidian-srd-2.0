@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Round Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier rond"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d4 phy"
+burden: "À une main"
+feature: "Protecteur : +1 au Score d’armure"
 ---
 
 # Bouclier rond

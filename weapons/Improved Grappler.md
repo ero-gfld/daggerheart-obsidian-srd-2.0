@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Grappler"
+tags:
+  - "daggerheart/weapon"
+name: "Grappin amélioré"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Proche"
+damage: "d6+2 phy"
+burden: "À une main"
+feature: "Accroché : Sur une attaque réussie, vous pouvez attirer la cible jusqu’à portée Mêlée."
 ---
 
 # Grappin amélioré

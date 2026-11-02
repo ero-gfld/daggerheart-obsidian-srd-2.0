@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Traveler’s Bell"
+tags:
+  - "daggerheart/item"
+name: "Clochette du voyageur"
+effect: "Une fois par repos long, vous pouvez agiter cette clochette pour ouvrir magiquement le chemin sûr le plus court à travers un terrain accidenté, pendant 1 heure."
 ---
 
 # Clochette du voyageur

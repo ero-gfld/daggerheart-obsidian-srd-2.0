@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Manifest Wall"
+tags:
+  - "daggerheart/domain-card"
+name: "Matérialiser un mur"
+domain: "Codex"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Matérialiser un mur

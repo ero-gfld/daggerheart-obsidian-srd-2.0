@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Seraph"
+tags:
+  - "daggerheart/class"
+name: "Séraphin"
+domains:
+  - "Splendeur & Vaillance"
+evasion: 9
+hp: 7
+subclasses:
+  - "Porteur divin"
+  - "Sentinelle ailée"
+items: "Un paquet d’offrandes ou le sceau de votre dieu"
+description: "Les séraphins sont des combattants et des guérisseurs divins, investis d’une mission sacrée."
 ---
 
 # Séraphin

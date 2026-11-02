@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Vault Guardian Turret"
+tags:
+  - "daggerheart/adversary"
+name: "Tourelle de la Voûte"
+tier: 3
+type: "Tireur"
+description: "Une tourelle vivante et massive, à l’armure renforcée et douze pattes mécaniques actionnées par des pistons."
+difficulty: 16
+thresholds: "20/32"
+hp: 5
+stress: 4
+atk: "+3"
+attack: "Canon magitech"
+range: "Loin"
+damage: "3d10+3 mag"
+motives_and_tactics: "Concentrer le feu, verrouiller, marquer, protéger"
+features:
+  - "Tir lent - Passif"
+  - "Marquer une cible - Action"
+  - "Concentrer le feu - Réaction"
+  - "Détonation - Réaction"
 ---
 
 # Tourelle de la Voûte

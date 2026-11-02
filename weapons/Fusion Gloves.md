@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Fusion Gloves"
+tags:
+  - "daggerheart/weapon"
+name: "Gants de fusion"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Très loin"
+damage: "d6+9 mag"
+burden: "À deux mains"
+feature: "Lien : Gagnez un bonus à vos jets de dégâts égal à votre niveau."
 ---
 
 # Gants de fusion

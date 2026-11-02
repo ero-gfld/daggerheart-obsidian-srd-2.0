@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Forest Sprites"
+tags:
+  - "daggerheart/domain-card"
+name: "Lutins de la forêt"
+domain: "Nature"
+level: 8
+type: "Sort"
+recall: 2
 ---
 
 # Lutins de la forêt

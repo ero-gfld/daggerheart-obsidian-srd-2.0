@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Battle‑hardened"
+tags:
+  - "daggerheart/domain-card"
+name: "Aguerri"
+domain: "Lame"
+level: 6
+type: "Capacité"
+recall: 2
 ---
 
 # Aguerri

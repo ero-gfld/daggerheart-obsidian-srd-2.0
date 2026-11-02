@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Spear"
+tags:
+  - "daggerheart/weapon"
+name: "Lance"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+3 phy"
+burden: "À deux mains"
 ---
 
 # Lance

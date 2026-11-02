@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Epic Aquatic Beast"
+tags:
+  - "daggerheart/beastform"
+name: "Bête aquatique épique"
+tier: 4
+examples: "Calmar géant, baleine, etc."
+trait_bonus: "Agilité +3"
+evasion: "+3"
+attack: "Mêlée Agilité d10+10 phy"
+advantages: "repérer, protéger, effrayer, pister"
+features:
+  - "Maître des océans"
+  - "Inflexible"
 ---
 
 # Bête aquatique épique

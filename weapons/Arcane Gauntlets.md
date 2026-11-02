@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Arcane Gauntlets"
+tags:
+  - "daggerheart/weapon"
+name: "Gantelets arcaniques"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+3 mag"
+burden: "À deux mains"
 ---
 
 # Gantelets arcaniques

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Ronin"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Ronin"
+domain: "Codex"
+level: 9
+type: "Grimoire"
+recall: 4
 ---
 
 # Livre de Ronin

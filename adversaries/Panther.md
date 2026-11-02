@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Panther"
+tags:
+  - "daggerheart/adversary"
+name: "Panthère"
+tier: 1
+type: "Furtif"
+description: "Un grand prédateur félin qui guette sa proie depuis l'ombre."
+difficulty: 14
+thresholds: "5/10"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Crocs et griffes"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "Grimper aux arbres, bondir, traquer"
+experience: "Sens aiguisés +3, Filature +3"
+features:
+  - "Traqueur de l'ombre - Passif"
+  - "Bond fulgurant - Action"
 ---
 
 # Panthère

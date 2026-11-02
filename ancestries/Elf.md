@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Elf"
+tags:
+  - "daggerheart/ancestry"
+name: "Elfe"
+description: "Les elfes sont généralement des humanoïdes de grande taille, aux oreilles pointues et aux sens affûtés."
+features:
+  - "Réactions rapides"
+  - "Transe céleste"
 ---
 
 # Elfe

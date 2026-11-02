@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Minor Treant"
+tags:
+  - "daggerheart/adversary"
+name: "Petit ent"
+tier: 1
+type: "Sbire"
+description: "Un jeune arbre ambulant qui se dresse pour défendre sa forêt."
+difficulty: 10
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-2"
+attack: "Branche griffue"
+range: "Mêlée"
+damage: "4 phy"
+motives_and_tactics: "Écraser, submerger, protéger"
+features:
+  - "Sbire (5) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Petit ent

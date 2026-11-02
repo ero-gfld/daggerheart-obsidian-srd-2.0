@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Longsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée longue améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+6 phy"
+burden: "À deux mains"
 ---
 
 # Épée longue améliorée

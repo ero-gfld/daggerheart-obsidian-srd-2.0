@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Spy"
+tags:
+  - "daggerheart/adversary"
+name: "Espion"
+tier: 2
+type: "Social"
+description: "Un agent d’espionnage habile, doué pour se trouver au bon endroit afin de surprendre des secrets."
+difficulty: 15
+thresholds: "8/17"
+hp: 4
+stress: 3
+atk: "-2"
+attack: "Dague"
+range: "Mêlée"
+damage: "2d6+3 phy"
+motives_and_tactics: "Frapper et fuir, changer d’apparence, écouter aux portes"
+experience: "Espionnage +3"
+features:
+  - "Recueillir des secrets - Action"
+  - "Oreille aux murs - Réaction"
 ---
 
 # Espion

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Broadsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée large avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+6 phy"
+burden: "À une main"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Épée large avancée

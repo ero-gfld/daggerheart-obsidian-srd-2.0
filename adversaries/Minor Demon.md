@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Minor Demon"
+tags:
+  - "daggerheart/adversary"
+name: "Démon mineur"
+tier: 1
+type: "Solo"
+description: "Une créature rouge sang venue des Cercles inférieurs, dévorée par la rage contre tous les mortels."
+difficulty: 14
+thresholds: "8/15"
+hp: 8
+stress: 4
+atk: "+3"
+attack: "Griffes"
+range: "Mêlée"
+damage: "1d8+6 phy"
+motives_and_tactics: "Agir de façon erratique, rassembler les cibles, savourer la douleur, tourmenter"
+features:
+  - "Implacable (2) - Passif"
+  - "Tout doit tomber - Passif"
+  - "Feu infernal - Action"
+  - "Faucheur - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Démon mineur

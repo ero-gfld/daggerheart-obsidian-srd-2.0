@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Huge Green Ooze"
+tags:
+  - "daggerheart/adversary"
+name: "Gelée verte géante"
+tier: 3
+type: "Furtif"
+description: "Un monticule translucide et vert d’acide, plus haut que la plupart des humains."
+difficulty: 15
+thresholds: "15/30"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Appendice gluant"
+range: "Mêlée"
+damage: "3d8+1 mag"
+motives_and_tactics: "Se camoufler, s’approcher à pas de loup, envelopper, se multiplier"
+experience: "Se fondre dans le décor +3"
+features:
+  - "Lenteur - Passif"
+  - "Forme acide - Passif"
+  - "Enveloppement - Action"
+  - "Division - Réaction"
 ---
 
 # Gelée verte géante

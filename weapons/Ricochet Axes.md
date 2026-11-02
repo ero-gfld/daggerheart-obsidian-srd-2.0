@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Ricochet Axes"
+tags:
+  - "daggerheart/weapon"
+name: "Haches ricochets"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+11 phy"
+burden: "À deux mains"
+feature: "Rebond : Marquez 1 Stress ou plus pour toucher autant de cibles à portée de l’attaque."
 ---
 
 # Haches ricochets

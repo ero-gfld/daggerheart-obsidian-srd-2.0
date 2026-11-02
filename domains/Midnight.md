@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Midnight"
+tags:
+  - "daggerheart/domain"
+name: "Minuit"
+description: "Minuit est le domaine des ombres et du secret."
+classes:
+  - "Assassin"
+  - "Roublard"
+  - "Ensorceleur"
+cards: 21
 ---
 
 # Minuit

@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Striking Serpent"
+tags:
+  - "daggerheart/beastform"
+name: "Serpent foudroyant"
+tier: 2
+examples: "Cobra, crotale, vipère, etc."
+trait_bonus: "Finesse +1"
+evasion: "+2"
+attack: "Très proche Finesse d8+4 phy"
+advantages: "grimper, tromper, piquer un sprint"
+features:
+  - "Frappe venimeuse"
+  - "Sifflement d’avertissement"
 ---
 
 # Serpent foudroyant

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Encore"
+tags:
+  - "daggerheart/domain-card"
+name: "Bis"
+domain: "Grâce"
+level: 10
+type: "Sort"
+recall: 1
 ---
 
 # Bis

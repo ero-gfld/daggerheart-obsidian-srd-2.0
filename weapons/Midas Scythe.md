@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Midas Scythe"
+tags:
+  - "daggerheart/weapon"
+name: "Faux de Midas"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d10+9 mag"
+burden: "À deux mains"
+feature: "Avide : Dépensez une poignée d’or pour gagner un bonus de +1 à votre Maîtrise sur un jet de dégâts."
 ---
 
 # Faux de Midas

@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Upscale Casino"
+tags:
+  - "daggerheart/environment"
+name: "Casino huppé"
+tier: 3
+type: "Social"
+description: "Une salle de jeux étincelante où marchands aisés et nobles viennent dilapider leur fortune."
+difficulty: 16
+impulses: "Faire miroiter le jackpot juste hors de portée, éblouir par le spectacle, exploiter leurs vices"
+potential_adversaries: "Sécurité automatisée (Gardiens de la Voûte), Joueurs (Courtisane, Baron marchand, Petit noble, Espion)"
+features:
+  - "Clinquant et éclat - Passif"
+  - "La fortune sourit aux audacieux - Passif"
+  - "La maison gagne toujours - Réaction"
+  - "Sécurité automatisée - Réaction"
+  - "Le terrain de jeu du diable - Réaction"
 ---
 
 # Casino huppé

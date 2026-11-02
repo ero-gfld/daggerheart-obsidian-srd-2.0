@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Cutlass"
+tags:
+  - "daggerheart/weapon"
+name: "Coutelas"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+1 phy"
+burden: "À une main"
 ---
 
 # Coutelas

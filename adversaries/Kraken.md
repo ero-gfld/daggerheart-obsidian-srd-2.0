@@ -4,23 +4,23 @@ tags:
 name: "Kraken"
 tier: 4
 type: "Solo"
-description: "A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw."
+description: "Une bête légendaire des mers, plus grande que le plus gros galion, aux tentacules couverts de ventouses et à la gueule terrifiante."
 difficulty: 20
 thresholds: "35/70"
 hp: 11
 stress: 8
 atk: "+7"
-attack: "Tentacles"
-range: "Close"
+attack: "Tentacules"
+range: "Proche"
 damage: "4d12+10 phy"
-motives_and_tactics: "Consume, crush, drown, grapple"
-experience: "Swimming +3"
+motives_and_tactics: "Consumer, écraser, noyer, agripper"
+experience: "Natation +3"
 features:
-  - "Relentless (3) - Passive"
-  - "Many Tentacles - Passive"
-  - "Grapple and Drown - Action"
-  - "Boiling Blast - Action"
-  - "Momentum - Reaction"
+  - "Implacable (3) - Passif"
+  - "Tentacules multiples - Passif"
+  - "Agripper et noyer - Action"
+  - "Souffle bouillant - Action"
+  - "Élan - Réaction"
 ---
 
 # Kraken

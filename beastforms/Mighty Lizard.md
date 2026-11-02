@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Mighty Lizard"
+tags:
+  - "daggerheart/beastform"
+name: "Lézard puissant"
+tier: 3
+examples: "Alligator, crocodile, monstre de Gila, etc."
+trait_bonus: "Instinct +2"
+evasion: "+1"
+attack: "Mêlée Instinct d10+7 phy"
+advantages: "attaquer, se faufiler, pister"
+features:
+  - "Défense physique"
+  - "Claquement de mâchoires"
 ---
 
 # Lézard puissant

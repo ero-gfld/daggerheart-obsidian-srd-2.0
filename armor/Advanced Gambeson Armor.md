@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Advanced Gambeson Armor"
+tags:
+  - "daggerheart/armor"
+name: "Gambison avancé"
+tier: 3
+thresholds: "9/23"
+score: 5
+feature: "Souple : +1 à l’Évasion"
 ---
 
 # Gambison avancé

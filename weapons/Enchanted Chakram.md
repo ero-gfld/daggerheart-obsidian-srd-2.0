@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Enchanted Chakram"
+tags:
+  - "daggerheart/weapon"
+name: "Chakram enchanté"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d6+1 mag"
+burden: "À une main"
+feature: "Ricochet : Quand vous lancez cette arme, elle revient dans votre main. Quand vous effectuez une attaque, vous pouvez marquer un Stress pour cibler, avec cette attaque, une autre créature située à portée de Très proche de la première cible."
 ---
 
 # Chakram enchanté

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shadowbind"
+tags:
+  - "daggerheart/domain-card"
+name: "Lien d’ombre"
+domain: "Minuit"
+level: 2
+type: "Sort"
+recall: 0
 ---
 
 # Lien d’ombre

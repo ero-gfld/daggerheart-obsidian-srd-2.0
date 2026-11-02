@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Returning Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache revenante"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Proche"
+damage: "d6+4 phy"
+burden: "À une main"
+feature: "Revenant : Quand vous lancez cette arme à portée, elle revient immédiatement dans votre main après l’attaque."
 ---
 
 # Hache revenante

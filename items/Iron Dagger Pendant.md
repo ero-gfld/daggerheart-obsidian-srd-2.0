@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Iron Dagger Pendant"
+tags:
+  - "daggerheart/item"
+name: "Pendentif de dague de fer"
+effect: "Une fois par repos long, vous pouvez dépenser un Espoir pour confier au pendentif le nom d’une créature. Le pendentif vous attire doucement vers la position actuelle de cette créature jusqu’à votre prochain repos long."
 ---
 
 # Pendentif de dague de fer

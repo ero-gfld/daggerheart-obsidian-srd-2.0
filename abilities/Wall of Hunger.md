@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wall of Hunger"
+tags:
+  - "daggerheart/domain-card"
+name: "Mur de la faim"
+domain: "Effroi"
+level: 7
+type: "Sort"
+recall: 2
 ---
 
 # Mur de la faim

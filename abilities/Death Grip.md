@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Death Grip"
+tags:
+  - "daggerheart/domain-card"
+name: "Prise mortelle"
+domain: "Nature"
+level: 4
+type: "Sort"
+recall: 1
 ---
 
 # Prise mortelle

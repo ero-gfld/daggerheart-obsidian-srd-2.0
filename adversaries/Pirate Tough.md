@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Pirate Tough"
+tags:
+  - "daggerheart/adversary"
+name: "Costaud corsaire"
+tier: 1
+type: "Cogneur"
+description: "Un pirate aux muscles épais et tatoué, aux poings gros comme des melons."
+difficulty: 13
+thresholds: "8/15"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Poings massifs"
+range: "Mêlée"
+damage: "2d6 phy"
+motives_and_tactics: "Piller, razzier, fracasser, terroriser"
+experience: "Marin +2"
+features:
+  - "Bretteur - Passif"
+  - "Faire place nette - Action"
 ---
 
 # Costaud corsaire

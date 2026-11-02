@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Whip"
+tags:
+  - "daggerheart/weapon"
+name: "Fouet amélioré"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Présence"
+range: "Très proche"
+damage: "d6+2 phy"
+burden: "À une main"
+feature: "Stupéfiant : Marquez un Stress pour faire claquer le fouet et repousser tous les adversaires à portée de Mêlée jusqu’à portée Proche."
 ---
 
 # Fouet amélioré

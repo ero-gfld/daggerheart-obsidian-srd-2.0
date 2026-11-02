@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Words of Discord"
+tags:
+  - "daggerheart/domain-card"
+name: "Paroles de discorde"
+domain: "Grâce"
+level: 5
+type: "Sort"
+recall: 1
 ---
 
 # Paroles de discorde

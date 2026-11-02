@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Dualstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton double avancé"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+9 mag"
+burden: "À deux mains"
 ---
 
 # Bâton double avancé

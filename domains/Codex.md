@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/domain"
 name: "Codex"
-description: "Codex is the domain of intensive magical study."
+description: "Le Codex est le domaine de l’étude magique intensive."
 classes:
-  - "Bard"
-  - "Wizard"
+  - "Barde"
+  - "Magicien"
 cards: 21
 ---
 

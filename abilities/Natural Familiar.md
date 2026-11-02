@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Natural Familiar"
+tags:
+  - "daggerheart/domain-card"
+name: "Familier naturel"
+domain: "Nature"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Familier naturel

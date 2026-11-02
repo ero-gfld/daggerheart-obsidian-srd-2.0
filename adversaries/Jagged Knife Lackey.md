@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Jagged Knife Lackey"
+tags:
+  - "daggerheart/adversary"
+name: "Laquais des Lames dentelées"
+tier: 1
+type: "Sbire"
+description: "Un voleur aux vêtements simples et aux petites dagues, impatient de faire ses preuves."
+difficulty: 9
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-2"
+attack: "Dagues"
+range: "Mêlée"
+damage: "2 phy"
+motives_and_tactics: "Fuir, faire du profit, lancer des écrans de fumée"
+experience: "Voleur +2"
+features:
+  - "Sbire (3) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Laquais des Lames dentelées

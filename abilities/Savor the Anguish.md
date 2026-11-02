@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Savor the Anguish"
+tags:
+  - "daggerheart/domain-card"
+name: "Savourer l’angoisse"
+domain: "Effroi"
+level: 9
+type: "Capacité"
+recall: 1
 ---
 
 # Savourer l’angoisse

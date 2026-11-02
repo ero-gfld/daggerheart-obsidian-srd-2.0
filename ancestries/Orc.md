@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Orc"
-description: "Orcs are humanoids most easily recognized by their square features and boar-like tusks that protrude from their lower jaw."
+description: "Les orcs sont des humanoïdes que l’on reconnaît surtout à leurs traits carrés et aux défenses de sanglier qui sortent de leur mâchoire inférieure."
 features:
-  - "Sturdy"
-  - "Tusks"
+  - "Robuste"
+  - "Défenses"
 ---
 
 # Orc

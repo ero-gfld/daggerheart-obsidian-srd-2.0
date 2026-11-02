@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Minor Chaos Elemental"
+tags:
+  - "daggerheart/adversary"
+name: "Petit élémentaire du chaos"
+tier: 1
+type: "Solo"
+description: "Une masse scintillante de magie incontrôlable."
+difficulty: 14
+thresholds: "7/14"
+hp: 7
+stress: 3
+atk: "+3"
+attack: "Déflagration distordue"
+range: "Proche"
+damage: "1d12+6 mag"
+motives_and_tactics: "Confondre, déstabiliser, transmuter"
+features:
+  - "Forme arcanique - Passif"
+  - "Flux écœurant - Action"
+  - "Réécriture du réel - Action"
+  - "Réflexion magique - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Petit élémentaire du chaos

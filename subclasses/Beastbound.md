@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Beastbound"
+tags:
+  - "daggerheart/subclass"
+name: "Lié aux bêtes"
+class: "Rôdeur"
+spellcast_trait: "Agilité"
+description: "Jouez le Lié aux bêtes si vous voulez nouer un lien profond avec un allié animal."
+features:
+  - "Compagnon"
+  - "Dressage expert"
+  - "Lien du champ de bataille"
+  - "Dressage avancé"
+  - "Ami fidèle"
 ---
 
 # Lié aux bêtes

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Battle Box"
+tags:
+  - "daggerheart/adversary"
+name: "Boîte de combat"
+tier: 2
+type: "Solo"
+description: "Un construct en forme de cube, portant une rune différente sur chacune de ses six faces."
+difficulty: 15
+thresholds: "10/20"
+hp: 8
+stress: 6
+atk: "+2"
+attack: "Heurtoir"
+range: "Mêlée"
+damage: "2d6+3 phy"
+motives_and_tactics: "Changer de tactique, piétiner les ennemis, attendre en se dissimulant"
+experience: "Camouflage +2"
+features:
+  - "Implacable (2) - Passif"
+  - "Tactiques aléatoires - Action"
+  - "Surcharge - Réaction"
+  - "Séisme mortel - Réaction"
 ---
 
 # Boîte de combat

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Healing Hands"
+tags:
+  - "daggerheart/domain-card"
+name: "Mains guérisseuses"
+domain: "Splendeur"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Mains guérisseuses

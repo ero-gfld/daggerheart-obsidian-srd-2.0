@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Katana"
+tags:
+  - "daggerheart/weapon"
+name: "Katana légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+12 phy"
+burden: "À deux mains"
+feature: "Rapide : Quand vous faites une attaque, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Katana légendaire

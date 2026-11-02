@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Channeling Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de canalisation"
+tier: 4
+thresholds: "13/36"
+score: 5
+feature: "Canalisation : +1 aux jets d’Incantation"
 ---
 
 # Armure de canalisation

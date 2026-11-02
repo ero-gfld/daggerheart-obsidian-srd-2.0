@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Young Fire Dragon"
+tags:
+  - "daggerheart/adversary"
+name: "Jeune dragon de feu"
+tier: 3
+type: "Solo"
+description: "Un dragon cramoisi aux quatre membres puissants et aux ailes fumantes."
+difficulty: 18
+thresholds: "21/34"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Morsure et griffes"
+range: "Proche"
+damage: "4d10 phy"
+motives_and_tactics: "Brûler, défendre la tanière, entrer en éruption, voler, lacérer, s’emparer"
+experience: "Rage brûlante +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Intimidant - Passif"
+  - "Souffle de flammes - Action"
+  - "Éruption - Action"
+  - "Écailles brûlantes - Réaction"
+  - "Taillade et brûlure - Réaction"
 ---
 
 # Jeune dragon de feu

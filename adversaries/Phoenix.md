@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Phoenix"
+tags:
+  - "daggerheart/adversary"
+name: "Phénix"
+tier: 3
+type: "Tireur"
+description: "Un immense aigle fait de flammes magiques, impossible à tuer et chassé pour son plumage guérisseur."
+difficulty: 18
+thresholds: "19/30"
+hp: 6
+stress: 6
+atk: "+4"
+attack: "Trait de feu"
+range: "Très loin"
+damage: "3d10+3 mag"
+motives_and_tactics: "Fuir les poursuivants, vivre avec éclat, planer dans les cieux, manier la lumière et le feu"
+experience: "Éclatant +4, Légendaire +3"
+features:
+  - "Aura purificatrice - Passif"
+  - "Graine de feu - Réaction"
+  - "Résurrection - Évolution"
 ---
 
 # Phénix

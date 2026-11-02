@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Oracle of Doom"
+tags:
+  - "daggerheart/adversary"
+name: "Oracle de la perdition"
+tier: 4
+type: "Solo"
+description: "Un immortel colossal, incarnation du destin, condamné à ne voir que des issues funestes."
+difficulty: 20
+thresholds: "38/68"
+hp: 11
+stress: 10
+atk: "+8"
+attack: "Attaque psychique"
+range: "Loin"
+damage: "4d8+9 mag"
+motives_and_tactics: "Modifier l'environnement, condamner, décourager, rejeter"
+experience: "Savoir sans limite +4"
+features:
+  - "Terrifiant - Passif"
+  - "Murs qui se referment - Passif"
+  - "Proclamer le destin - Action"
+  - "Convoquer les tourmenteurs - Action"
+  - "Savoir funeste - Réaction"
+  - "Destin vengeur - Réaction"
 ---
 
 # Oracle de la perdition

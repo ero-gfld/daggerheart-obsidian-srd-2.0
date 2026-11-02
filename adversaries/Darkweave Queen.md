@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Darkweave Queen"
+tags:
+  - "daggerheart/adversary"
+name: "Reine tisse-ténèbres"
+tier: 1
+type: "Solo"
+description: "Araignée grande comme une charrette, tissée dans une soie d’ombre par un dieu oublié depuis longtemps. Chacun de ses nombreux yeux porte le visage d’une victime différente."
+difficulty: 14
+thresholds: "8/15"
+hp: 9
+stress: 4
+atk: "+3"
+attack: "Morsure d’araignée"
+range: "Très proche"
+damage: "1d12+4 phy"
+motives_and_tactics: "Tendre des embuscades, escalader murs et plafonds, induire en erreur, paralyser, entreposer les corps pour plus tard, voler des visages"
+experience: "De taille géante +3, Chasseuse +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Terrifiant - Passif"
+  - "Mère de couvée - Action"
+  - "Plus rapide qu’elle n’en a l’air - Action"
+  - "Envenimation sombre - Réaction"
 ---
 
 # Reine tisse-ténèbres

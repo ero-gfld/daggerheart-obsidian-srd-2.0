@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Deadly Focus"
+tags:
+  - "daggerheart/domain-card"
+name: "Concentration mortelle"
+domain: "Lame"
+level: 4
+type: "Capacité"
+recall: 2
 ---
 
 # Concentration mortelle

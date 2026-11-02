@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Burning Heart of the Woods"
+tags:
+  - "daggerheart/environment"
+name: "Cœur brûlant de la forêt"
+tier: 3
+type: "Exploration"
+description: "Une épaisse cendre indigo flotte dans l’air autour d’un arbre gigantesque couvert de mousse, qui brûle sans fin de flammes d’un bleu maladif."
+difficulty: 16
+impulses: "Battre un rythme étrange que tous suivent, corrompre la forêt"
+potential_adversaries: "Bêtes (Ours, Serpent de verre), Élémentaires (Étincelle élémentaire), Défenseurs verdoyants (Dryade, Ent-chêne, Chevalier-cerf)"
+features:
+  - "Locus magique du chaos - Passif"
+  - "La flamme indigo - Passif"
+  - "Lianes agrippantes - Action"
+  - "Charbons animés - Action"
+  - "Cendres étouffantes - Réaction"
 ---
 
 # Cœur brûlant de la forêt

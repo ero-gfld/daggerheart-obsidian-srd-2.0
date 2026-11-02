@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Astral Projection"
+tags:
+  - "daggerheart/domain-card"
+name: "Projection astrale"
+domain: "Grâce"
+level: 8
+type: "Sort"
+recall: 0
 ---
 
 # Projection astrale

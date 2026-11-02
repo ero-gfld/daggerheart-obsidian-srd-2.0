@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Bladed Star"
+tags:
+  - "daggerheart/weapon"
+name: "Étoile à lames"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Savoir"
+range: "Proche"
+damage: "d8+7 phy"
+burden: "À une main"
+feature: "Rebondissant : lorsque vous lancez cette arme, elle revient dans votre main. Après une attaque ratée, vous pouvez relancer votre attaque avec désavantage."
 ---
 
 # Étoile à lames

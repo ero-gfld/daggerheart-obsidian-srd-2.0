@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Poisoners Guild"
+tags:
+  - "daggerheart/subclass"
+name: "Guilde des empoisonneurs"
+class: "Assassin"
+spellcast_trait: "Savoir"
+description: "Jouez la Guilde des empoisonneurs si vous voulez affaiblir vos cibles par des maux impitoyables."
+features:
+  - "Mixtures toxiques"
+  - "Compendium de poisons"
+  - "Crocs jumeaux"
+  - "Venimancien"
+  - "Bénédiction de la vipère"
 ---
 
 # Guilde des empoisonneurs

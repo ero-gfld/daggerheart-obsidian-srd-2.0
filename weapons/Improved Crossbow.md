@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+4 phy"
+burden: "À une main"
 ---
 
 # Arbalète améliorée

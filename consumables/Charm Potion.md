@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Charm Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de charme"
+effect: "Vous gagnez un bonus de +1 à votre prochain jet de Présence."
 ---
 
 # Potion de charme

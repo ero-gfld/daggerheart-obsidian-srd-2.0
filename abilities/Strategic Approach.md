@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Strategic Approach"
+tags:
+  - "daggerheart/domain-card"
+name: "Approche stratégique"
+domain: "Os"
+level: 2
+type: "Capacité"
+recall: 1
 ---
 
 # Approche stratégique

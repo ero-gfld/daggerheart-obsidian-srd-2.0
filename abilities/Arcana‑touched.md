@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Arcana‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par les Arcanes"
+domain: "Arcanes"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par les Arcanes

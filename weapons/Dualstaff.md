@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Dualstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton double"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+3 mag"
+burden: "À deux mains"
 ---
 
 # Bâton double

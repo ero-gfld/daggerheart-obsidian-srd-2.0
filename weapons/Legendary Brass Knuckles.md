@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Brass Knuckles"
+tags:
+  - "daggerheart/weapon"
+name: "Coups-de-poing en laiton légendaires"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+10 phy"
+burden: "À une main"
 ---
 
 # Coups-de-poing en laiton légendaires

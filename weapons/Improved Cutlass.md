@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Cutlass"
+tags:
+  - "daggerheart/weapon"
+name: "Coutelas amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
 ---
 
 # Coutelas amélioré

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Channelstone"
+tags:
+  - "daggerheart/consumable"
+name: "Pierre conductrice"
+effect: "Vous pouvez utiliser cette pierre pour prendre un sort ou un grimoire dans votre réserve, l’utiliser une fois, puis le remettre dans votre réserve."
 ---
 
 # Pierre conductrice

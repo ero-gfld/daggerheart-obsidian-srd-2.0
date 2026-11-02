@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Elemental Kin"
+tags:
+  - "daggerheart/ancestry"
+name: "Enfant des éléments"
+description: "Les enfants des éléments sont des mortels humanoïdes descendant de puissantes entités surnaturelles appelées élémentaires, incarnations des forces fondamentales qui façonnent le Royaume mortel…"
 ---
 
 # Enfant des éléments

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Enchanted Shillelagh"
+tags:
+  - "daggerheart/weapon"
+name: "Gourdin enchanté"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+3 mag"
+burden: "À une main"
+feature: "Protecteur : +1 à votre Score d’armure"
 ---
 
 # Gourdin enchanté

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Hallowed Choir"
+tags:
+  - "daggerheart/adversary"
+name: "Chœur sanctifié"
+tier: 4
+type: "Horde"
+horde: 6
+description: "Une hôte céleste d’humanoïdes ailés, dont le chant fait couler des larmes d’admiration religieuse."
+difficulty: 17
+thresholds: "24/48"
+hp: 7
+stress: 6
+atk: "+2"
+attack: "Explosion chorale"
+range: "Loin"
+damage: "4d10 mag"
+motives_and_tactics: "Étouffer le doute, élever la voix"
+experience: "Musique +2"
+features:
+  - "Horde (2d10) - Passif"
+  - "Coda céleste - Passif"
+  - "Assaut auditif - Action"
 ---
 
 # Chœur sanctifié

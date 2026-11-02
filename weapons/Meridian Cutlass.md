@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Meridian Cutlass"
+tags:
+  - "daggerheart/weapon"
+name: "Coutelas méridien"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d10+5 phy"
+burden: "À une main"
+feature: "Duel : Lorsqu’aucune autre créature ne se trouve à portée Proche de la cible, gagnez un avantage sur votre jet d’attaque contre elle."
 ---
 
 # Coutelas méridien

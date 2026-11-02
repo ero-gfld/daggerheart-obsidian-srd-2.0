@@ -2,7 +2,7 @@
 tags:
   - "daggerheart/rules"
 name: "Transformations"
-description: "Transformations represent a fundamental shift in your character and how they interact with the world."
+description: "Les transformations représentent un bouleversement profond de votre personnage et de sa façon d’interagir avec le monde."
 ---
 
 # Transformations

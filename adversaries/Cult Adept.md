@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Cult Adept"
+tags:
+  - "daggerheart/adversary"
+name: "Adepte du culte"
+tier: 2
+type: "Soutien"
+description: "Mage expérimenté qui manie l’ombre et la peur."
+difficulty: 14
+thresholds: "9/18"
+hp: 4
+stress: 6
+atk: "+2"
+attack: "Baguette couverte de runes"
+range: "Loin"
+damage: "2d4+3 mag"
+motives_and_tactics: "Flatter pour gagner des faveurs, entraver les ennemis, découvrir des savoirs"
+experience: "Savoir déchu +2, Rituels +2"
+features:
+  - "Décharge épuisante - Action"
+  - "Linceul des déchus - Action"
+  - "Chaînes d’ombre - Action"
+  - "La Peur est un carburant - Réaction"
 ---
 
 # Adepte du culte

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Chimera"
+tags:
+  - "daggerheart/adversary"
+name: "Chimère"
+tier: 3
+type: "Cogneur"
+description: "Monstre géant qui crache du feu, avec une tête de lion, un corps de chèvre et une queue de serpent."
+difficulty: 17
+thresholds: "22/40"
+hp: 9
+stress: 5
+atk: "+5"
+attack: "Griffes"
+range: "Mêlée"
+damage: "3d12 phy"
+motives_and_tactics: "Jouer avec sa proie, rôder sur son territoire, massacrer le bétail"
+experience: "Prédateur +3"
+features:
+  - "Mâchoires déchirantes - Passif"
+  - "Double griffure - Action"
+  - "Souffle de feu - Action"
+  - "Frappe du serpent - Réaction"
 ---
 
 # Chimère

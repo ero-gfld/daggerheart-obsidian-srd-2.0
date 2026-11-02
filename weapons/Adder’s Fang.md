@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Adder’s Fang"
+tags:
+  - "daggerheart/weapon"
+name: "Croc de vipère"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+9 mag"
+burden: "À une main"
+feature: "Venimeux : Quand vous infligez des dégâts majeurs ou plus avec cette arme, la cible devient temporairement Vulnérable."
 ---
 
 # Croc de vipère

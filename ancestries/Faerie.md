@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Faerie"
+tags:
+  - "daggerheart/ancestry"
+name: "Fée"
+description: "Les fées sont des créatures humanoïdes ailées aux traits d’insecte."
+features:
+  - "Fléchisseur de chance"
+  - "Ailes"
 ---
 
 # Fée

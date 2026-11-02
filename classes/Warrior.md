@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Warrior"
+tags:
+  - "daggerheart/class"
+name: "Guerrier"
+domains:
+  - "Lame & Os"
+evasion: 11
+hp: 6
+subclasses:
+  - "Appel du brave"
+  - "Appel du tueur"
+items: "Le portrait d’un amour ou une pierre à aiguiser"
+description: "Devenir guerrier exige des années, souvent une vie entière, d’entraînement et de dévouement à la maîtrise des armes et de la violence."
 ---
 
 # Guerrier

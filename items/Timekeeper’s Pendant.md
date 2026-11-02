@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Timekeeper’s Pendant"
+tags:
+  - "daggerheart/item"
+name: "Pendentif du gardien du temps"
+effect: "Vous pouvez choisir une action de repos supplémentaire à chaque repos."
 ---
 
 # Pendentif du gardien du temps

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Firestaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton de feu"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+7 mag"
+burden: "À deux mains"
+feature: "Embrasement : Quand vous obtenez un 6 sur un dé de dégâts, la cible doit marquer un Stress."
 ---
 
 # Bâton de feu

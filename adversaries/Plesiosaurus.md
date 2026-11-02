@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Plesiosaurus"
+tags:
+  - "daggerheart/adversary"
+name: "Plésiosaure"
+tier: 3
+type: "Standard"
+description: "Un lézard marin long comme une pirogue, au long cou et à quatre nageoires."
+difficulty: 16
+thresholds: "18/35"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Morsure"
+range: "Très proche"
+damage: "3d8+5 phy"
+motives_and_tactics: "Plonger plus profond, manger du poisson, nager paisiblement"
+experience: "Lacs +3"
+features:
+  - "Rien qu'une rumeur - Passif"
+  - "Mur d'eau - Action"
 ---
 
 # Plésiosaure

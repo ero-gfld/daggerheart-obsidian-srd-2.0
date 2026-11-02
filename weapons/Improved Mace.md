@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Mace"
+tags:
+  - "daggerheart/weapon"
+name: "Masse d’armes améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
 ---
 
 # Masse d’armes améliorée

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Two-Faced Aegis Brooch"
+tags:
+  - "daggerheart/item"
+name: "Broche à double égide"
+effect: "Une fois par repos, lancez une pièce. Sur face, vous devenez immunisé contre les prochains dégâts physiques que vous subissez. Sur pile, vous devenez immunisé contre les prochains dégâts magiques que vous subissez."
 ---
 
 # Broche à double égide

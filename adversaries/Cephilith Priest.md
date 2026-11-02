@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Cephilith Priest"
+tags:
+  - "daggerheart/adversary"
+name: "Prêtre cephilith"
+tier: 4
+type: "Meneur"
+description: "Humanoïde toujours moite, sans visage, venu des Royaumes extérieurs. Ses doigts sont allongés, et sa peau translucide laisse voir des vers qui se tortillent."
+difficulty: 20
+thresholds: "37/70"
+hp: 7
+stress: 5
+atk: "+8"
+attack: "Frappe psychique"
+range: "Loin"
+damage: "4d10+10 mag"
+motives_and_tactics: "Briser l’esprit des incroyants, préparer ce monde à l’arrivée du Titan cephilith, chanter ses louanges"
+experience: "Royaumes extérieurs +4"
+features:
+  - "Déflagration psychique - Action"
+  - "Incursion cérébrale - Action"
+  - "Poigne télékinétique - Réaction"
 ---
 
 # Prêtre cephilith

@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Haunted City"
+tags:
+  - "daggerheart/environment"
+name: "Cité hantée"
+tier: 2
+type: "Exploration"
+description: "Une cité abandonnée peuplée par les esprits agités d’époques révolues."
+difficulty: 14
+impulses: "égarer et désorienter, rejouer des apocalypses, publiques comme privées"
+potential_adversaries: "Fantômes (Archer spectral, Capitaine spectral, Gardien spectral), versions fantomatiques d’autres adversaires (voir « Forme fantomatique »)"
+features:
+  - "Savoir enfoui - Passif"
+  - "Forme fantomatique - Passif"
+  - "Impasses - Action"
+  - "Apocalypse d’autrefois - Action"
 ---
 
 # Cité hantée

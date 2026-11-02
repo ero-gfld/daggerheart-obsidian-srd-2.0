@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Aquatic Scout"
+tags:
+  - "daggerheart/beastform"
+name: "Éclaireur aquatique"
+tier: 1
+examples: "Anguille, poisson, pieuvre, etc."
+trait_bonus: "Agilité +1"
+evasion: "+2"
+attack: "Mêlée Agilité d4 phy"
+advantages: "s’orienter, se faufiler, nager"
+features:
+  - "Aquatique"
+  - "Fragile"
 ---
 
 # Éclaireur aquatique

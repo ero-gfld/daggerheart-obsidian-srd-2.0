@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Sensory Projection"
+tags:
+  - "daggerheart/domain-card"
+name: "Projection sensorielle"
+domain: "Arcanes"
+level: 9
+type: "Sort"
+recall: 0
 ---
 
 # Projection sensorielle

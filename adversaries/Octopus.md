@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Octopus"
+tags:
+  - "daggerheart/adversary"
+name: "Pieuvre"
+tier: 1
+type: "Furtif"
+description: "Un mollusque aquatique au corps mou, doté de huit bras garnis de ventouses et d'une mâchoire dure en forme de bec."
+difficulty: 12
+thresholds: "3/Aucun"
+hp: 2
+stress: 3
+atk: "-1"
+attack: "Bec"
+range: "Mêlée"
+damage: "1d6 phy"
+motives_and_tactics: "Ramper sur le fond marin, manger du poisson, projeter de l'encre pour s'échapper"
+experience: "Dextérité +3, Eau +3"
+features:
+  - "Agrippement - Action"
+  - "Jet d'encre - Action"
 ---
 
 # Pieuvre

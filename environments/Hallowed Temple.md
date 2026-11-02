@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Hallowed Temple"
+tags:
+  - "daggerheart/environment"
+name: "Temple sacré"
+tier: 2
+type: "Social"
+description: "Un temple animé mais bien entretenu, qui soigne les malades et accueille des offices réguliers, placé sous la direction d’un prêtre ou d’un séraphin."
+difficulty: 13
+impulses: "relier le Royaume mortel aux Hallows d’en haut, montrer la puissance du divin, offrir aide et secours aux fidèles"
+potential_adversaries: "Gardes (Garde archer, Garde à lames, Garde en chef)"
+features:
+  - "Un lieu de guérison - Passif"
+  - "Guidance divine - Passif"
+  - "Espoir implacable - Réaction"
+  - "Censure divine - Réaction"
 ---
 
 # Temple sacré

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Pain Priest"
+tags:
+  - "daggerheart/adversary"
+name: "Prêtre de la douleur"
+tier: 3
+type: "Social"
+description: "Membre d'un ordre religieux venu d'une autre dimension, dévoué à l'exploration des frontières de la souffrance et de l'extase mortelles."
+difficulty: 16
+thresholds: "16/32"
+hp: 6
+stress: 5
+atk: "+0"
+attack: "Instruments de torture"
+range: "Mêlée"
+damage: "3d6+4 phy"
+motives_and_tactics: "Se nourrir des émotions, repérer les innocents ou les curieux, les tenter avec leurs désirs les plus profonds"
+experience: "Expérimentation +4"
+features:
+  - "Marcher entre les mondes - Action"
+  - "Plaisir et douleur - Réaction"
 ---
 
 # Prêtre de la douleur

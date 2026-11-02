@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Skykin"
+tags:
+  - "daggerheart/ancestry"
+name: "Enfant du ciel"
+description: "Les enfants du ciel sont des humanoïdes dont le corps est fait de chair et d’air."
+features:
+  - "Rafale"
+  - "Œil du cyclone"
 ---
 
 # Enfant du ciel

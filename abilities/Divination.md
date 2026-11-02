@@ -2,9 +2,9 @@
 tags:
   - "daggerheart/domain-card"
 name: "Divination"
-domain: "Splendor"
+domain: "Splendeur"
 level: 4
-type: "Spell"
+type: "Sort"
 recall: 1
 ---
 

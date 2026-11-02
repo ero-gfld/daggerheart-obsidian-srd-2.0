@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dread-Touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par l’Effroi"
+domain: "Effroi"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par l’Effroi

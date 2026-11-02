@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Tyrannosaurus"
+tags:
+  - "daggerheart/adversary"
+name: "Tyrannosaure"
+tier: 2
+type: "Cogneur"
+description: "Un énorme dinosaure carnivore qui marche sur deux pattes."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Mâchoires puissantes"
+range: "Très proche"
+damage: "2d10+4 phy"
+motives_and_tactics: "Percer la lisière des bois, manger, piétiner"
+experience: "Prédateur +3"
+features:
+  - "Rugissement qui fait trembler la terre - Action"
+  - "Piétinement - Action"
+  - "Morsure écrasante - Réaction"
 ---
 
 # Tyrannosaure

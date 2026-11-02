@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Gambeson Armor"
+tags:
+  - "daggerheart/armor"
+name: "Gambison"
+tier: 1
+thresholds: "5/11"
+score: 3
+feature: "Souple : +1 à l’Évasion"
 ---
 
 # Gambison

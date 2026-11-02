@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Imperial Court"
+tags:
+  - "daggerheart/environment"
+name: "Cour impériale"
+tier: 4
+type: "Social"
+description: "Le domaine majestueux d’un empire puissant, somptueusement décoré de trésors volés."
+difficulty: 20
+impulses: "Justifier et perpétuer le pouvoir impérial, séduire les rivaux par des promesses de puissance et de confort"
+potential_adversaries: "Garde à lames, Courtisane, Chevalier du royaume, Monarque, Espion"
+features:
+  - "Toutes les routes mènent ici - Passif"
+  - "Vassaux rivaux - Passif"
+  - "La gravité de l’empire - Action"
+  - "Décret impérial - Action"
+  - "Des yeux partout - Réaction"
 ---
 
 # Cour impériale

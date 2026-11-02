@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Voice of Reason"
+tags:
+  - "daggerheart/domain-card"
+name: "Voix de la raison"
+domain: "Splendeur"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Voix de la raison

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Healing Strike"
+tags:
+  - "daggerheart/domain-card"
+name: "Frappe guérisseuse"
+domain: "Splendeur"
+level: 7
+type: "Sort"
+recall: 1
 ---
 
 # Frappe guérisseuse

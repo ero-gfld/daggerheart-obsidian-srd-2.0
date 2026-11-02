@@ -4,24 +4,24 @@ tags:
 name: "Cipactli"
 tier: 4
 type: "Solo"
-description: "A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths."
+description: "Crocodile gigantesque, au corps couvert d’un patchwork d’écailles de poisson, de peau de crapaud et de dizaines de gueules affamées."
 difficulty: 20
 thresholds: "35/60"
 hp: 8
 stress: 5
 atk: "+8"
-attack: "Bite"
-range: "Close"
+attack: "Morsure"
+range: "Proche"
 damage: "4d8+12 phy"
-motives_and_tactics: "Consume, reshape the land, trample"
-experience: "Hungry +3, Primordial +3"
+motives_and_tactics: "Consommer, remodeler la terre, piétiner"
+experience: "Affamé +3, Primordial +3"
 features:
-  - "Relentless (3) - Passive"
-  - "Many Mouths - Action"
-  - "Frenzied Feeding - Action"
-  - "Quaking Footfalls - Action"
-  - "Lifeblooded - Reaction"
-  - "Verdant Explosion - Reaction"
+  - "Implacable (3) - Passif"
+  - "Gueules multiples - Action"
+  - "Festin frénétique - Action"
+  - "Pas qui font trembler le sol - Action"
+  - "Sang vivace - Réaction"
+  - "Explosion verdoyante - Réaction"
 ---
 
 # Cipactli

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Dual-Ended Sword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée à double extrémité"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+9 phy"
+burden: "À deux mains"
+feature: "Rapide : Quand vous effectuez une attaque, vous pouvez marquer un Stress pour cibler une autre créature à portée."
 ---
 
 # Épée à double extrémité

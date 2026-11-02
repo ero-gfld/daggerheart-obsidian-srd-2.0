@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Hammer of Wrath"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau de la colère"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+7 phy"
+burden: "À deux mains"
+feature: "Dévastateur : Avant de faire un jet d’attaque, vous pouvez marquer un Stress pour utiliser un d20 comme dé de dégâts."
 ---
 
 # Marteau de la colère

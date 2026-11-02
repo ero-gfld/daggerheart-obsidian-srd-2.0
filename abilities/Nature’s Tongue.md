@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Nature’s Tongue"
+tags:
+  - "daggerheart/domain-card"
+name: "Langue de la nature"
+domain: "Nature"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Langue de la nature

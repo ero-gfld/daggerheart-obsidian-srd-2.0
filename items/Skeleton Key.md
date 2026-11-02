@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Skeleton Key"
+tags:
+  - "daggerheart/item"
+name: "Passe-partout"
+effect: "Quand vous utilisez cette clé pour ouvrir une porte verrouillée, vous gagnez un avantage au jet de Finesse."
 ---
 
 # Passe-partout

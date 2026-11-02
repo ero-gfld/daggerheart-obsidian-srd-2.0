@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Plant Dominion"
+tags:
+  - "daggerheart/domain-card"
+name: "Emprise végétale"
+domain: "Nature"
+level: 9
+type: "Sort"
+recall: 1
 ---
 
 # Emprise végétale

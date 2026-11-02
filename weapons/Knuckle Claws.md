@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Knuckle Claws"
+tags:
+  - "daggerheart/weapon"
+name: "Griffes de poing"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d6+8 phy"
+burden: "À une main"
+feature: "En double : Quand vous faites une attaque avec votre arme principale, vous pouvez infliger des dégâts à une autre cible à portée de Mêlée."
 ---
 
 # Griffes de poing

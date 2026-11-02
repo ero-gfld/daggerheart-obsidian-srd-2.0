@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Snap Powder"
+tags:
+  - "daggerheart/consumable"
+name: "Poudre crépitante"
+effect: "Marquez un Stress et libérez un PV."
 ---
 
 # Poudre crépitante

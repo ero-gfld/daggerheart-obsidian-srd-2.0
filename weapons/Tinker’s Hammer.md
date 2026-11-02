@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Tinker’s Hammer"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau du rétameur"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
+feature: "Fidèle : +1 aux jets d’attaque faits avec votre arme principale"
 ---
 
 # Marteau du rétameur

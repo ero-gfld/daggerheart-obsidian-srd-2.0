@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Ravenous Mockery"
+tags:
+  - "daggerheart/adversary"
+name: "Moquerie vorace"
+tier: 2
+type: "Standard"
+description: "Un prédateur métamorphe qui prend l'apparence d'objets inanimés pour attirer les proies imprudentes dans sa zone d'attaque."
+difficulty: 14
+thresholds: "8/19"
+hp: 4
+stress: 4
+atk: "+1"
+attack: "Dents grinçantes"
+range: "Mêlée"
+damage: "2d6+4 phy"
+motives_and_tactics: "Embuscader, guetter, avaler sans mâcher, prendre une forme anodine"
+experience: "Mimétisme +5, Affamée +3"
+features:
+  - "Attaque de langue - Action"
+  - "Dévorer - Action"
+  - "Jamais un seul - Action"
 ---
 
 # Moquerie vorace

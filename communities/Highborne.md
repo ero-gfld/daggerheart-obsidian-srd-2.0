@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Highborne"
+tags:
+  - "daggerheart/community"
+name: "Bien-né"
+description: "Faire partie d’une communauté de Bien-nés, c’est avoir l’habitude d’une vie d’élégance, d’opulence et de prestige au sommet de la société."
+traits: "aimables, francs, intrigants, entreprenants, ostentatoires et imperturbables"
+features:
+  - "Privilège"
 ---
 
 # Bien-né

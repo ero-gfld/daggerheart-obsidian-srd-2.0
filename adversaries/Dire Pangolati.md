@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Dire Pangolati"
+tags:
+  - "daggerheart/adversary"
+name: "Pangolati redoutable"
+tier: 2
+type: "Cogneur"
+description: "Pangolin-coati hybride de la taille d’un chariot, couvert de plaques d’armure. Une queue tranchante lui sert à projeter des écailles acérées."
+difficulty: 14
+thresholds: "14/28"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Coup de queue"
+range: "Très proche"
+damage: "2d12+3 phy"
+motives_and_tactics: "S’enfuir avec un repas, découper en morceaux, se jeter dans le danger"
+experience: "Escalade +3, Pistage olfactif +3"
+features:
+  - "Mangeur d’armure - Passif"
+  - "Tourbillon de lames - Action"
+  - "Lancer de lames - Action"
+  - "Écailles de kératine - Réaction"
 ---
 
 # Pangolati redoutable

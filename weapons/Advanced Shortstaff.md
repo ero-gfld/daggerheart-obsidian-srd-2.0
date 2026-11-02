@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Shortstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton court avancé"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d8+7 mag"
+burden: "À une main"
 ---
 
 # Bâton court avancé

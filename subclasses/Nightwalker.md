@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Nightwalker"
+tags:
+  - "daggerheart/subclass"
+name: "Marcheur de nuit"
+class: "Roublard"
+spellcast_trait: "Finesse"
+description: "Jouez le Marcheur de nuit si vous voulez manipuler les ombres pour vous faufiler dans l’environnement."
+features:
+  - "Pas d’ombre"
+  - "Nuage sombre"
+  - "Adrénaline"
+  - "Ombre fugace"
+  - "Tour de disparition"
 ---
 
 # Marcheur de nuit

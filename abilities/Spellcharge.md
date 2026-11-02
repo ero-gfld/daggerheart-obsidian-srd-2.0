@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Spellcharge"
+tags:
+  - "daggerheart/domain-card"
+name: "Charge de sortilège"
+domain: "Minuit"
+level: 8
+type: "Sort"
+recall: 1
 ---
 
 # Charge de sortilège

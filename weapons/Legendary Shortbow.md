@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Shortbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc court légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+12 phy"
+burden: "À deux mains"
 ---
 
 # Arc court légendaire

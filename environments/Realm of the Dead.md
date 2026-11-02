@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Realm of the Dead"
+tags:
+  - "daggerheart/environment"
+name: "Royaume des morts"
+tier: 4
+type: "Traversée"
+description: "Une étendue apparemment infinie d’eau immobile, sans couleur ni rire."
+difficulty: 20
+impulses: "Noyer dans le désespoir, drainer la vie, attirer vers un sommeil sans fin"
+potential_adversaries: "Tous (voir « Habitants touchés par la mort »)"
+features:
+  - "Mer de brume - Passif"
+  - "Le poids de l’éveil - Passif"
+  - "Habitants touchés par la mort - Passif"
+  - "Le froid de la mort - Action"
+  - "Abandonner tout Espoir - Réaction"
 ---
 
 # Royaume des morts

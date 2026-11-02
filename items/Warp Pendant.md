@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Warp Pendant"
+tags:
+  - "daggerheart/item"
+name: "Pendentif de distorsion"
+effect: "Une fois par repos, marquez un Stress pour vous téléporter vers un lieu que vous voyez clairement."
 ---
 
 # Pendentif de distorsion

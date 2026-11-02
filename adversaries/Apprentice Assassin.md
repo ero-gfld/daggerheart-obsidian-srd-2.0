@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Apprentice Assassin"
+tags:
+  - "daggerheart/adversary"
+name: "Apprenti assassin"
+tier: 2
+type: "Sbire"
+description: "Un jeune apprenti impatient de faire ses preuves."
+difficulty: 13
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Poignard de lancer"
+range: "Très proche"
+damage: "4 phy"
+motives_and_tactics: "Agir sans réfléchir, tuer, prouver sa valeur, se faire remarquer"
+experience: "Intrusion +2"
+features:
+  - "Sbire (6) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Apprenti assassin

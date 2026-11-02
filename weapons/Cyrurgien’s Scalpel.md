@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Cyrurgien’s Scalpel"
+tags:
+  - "daggerheart/weapon"
+name: "Scalpel du Cyrurgien"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Effrayant : sur une attaque réussie, la cible doit marquer un Stress."
 ---
 
 # Scalpel du Cyrurgien

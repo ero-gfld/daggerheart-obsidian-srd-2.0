@@ -1,6 +1,12 @@
 ---
 aliases:
   - "Leather Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de cuir"
+tier: 1
+thresholds: "6/13"
+score: 3
 ---
 
 # Armure de cuir

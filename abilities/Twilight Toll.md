@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Twilight Toll"
+tags:
+  - "daggerheart/domain-card"
+name: "Glas du crépuscule"
+domain: "Minuit"
+level: 9
+type: "Capacité"
+recall: 1
 ---
 
 # Glas du crépuscule

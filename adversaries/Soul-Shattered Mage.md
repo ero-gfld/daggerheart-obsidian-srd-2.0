@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Soul-Shattered Mage"
+tags:
+  - "daggerheart/adversary"
+name: "Mage à l’âme brisée"
+tier: 1
+type: "Solo"
+description: "Un lanceur de sorts dont l’esprit a été brisé par un savoir qu’il aurait mieux valu garder caché."
+difficulty: 12
+thresholds: "8/15"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Bâton d’armoise"
+range: "Loin"
+damage: "1d12 mag"
+motives_and_tactics: "Baragouiner dans une langue inconnue, rire d’un rire glaçant, manier un pouvoir qui lui échappe"
+experience: "Savoir interdit +2"
+features:
+  - "Implacable (3) - Passif"
+  - "Magie brisée - Action"
+  - "Souffre avec moi - Réaction"
 ---
 
 # Mage à l’âme brisée

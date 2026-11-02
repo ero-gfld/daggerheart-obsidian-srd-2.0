@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Harrowbone Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure d’os tourmentés"
+tier: 2
+thresholds: "9/21"
+score: 4
+feature: "Résistant : Avant de marquer votre dernier Emplacement d’armure, lancez un d6. Sur un résultat de 6, réduisez la gravité d’un seuil sans marquer d’Emplacement d’armure."
 ---
 
 # Armure d’os tourmentés

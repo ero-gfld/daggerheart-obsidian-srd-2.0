@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rosewild Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de rose sauvage"
+tier: 2
+thresholds: "11/23"
+score: 5
+feature: "Plein d’Espoir : Lorsque vous devriez dépenser de l’Espoir, vous pouvez marquer un Emplacement d’armure à la place."
 ---
 
 # Armure de rose sauvage

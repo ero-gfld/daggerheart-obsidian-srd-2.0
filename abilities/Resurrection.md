@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Resurrection"
+tags:
+  - "daggerheart/domain-card"
+name: "Résurrection"
+domain: "Splendeur"
+level: 10
+type: "Sort"
+recall: 2
 ---
 
 # Résurrection

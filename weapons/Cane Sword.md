@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Cane Sword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée-canne"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
+feature: "Rétractable : la lame peut être cachée dans la canne pour éviter d’être repérée."
 ---
 
 # Épée-canne

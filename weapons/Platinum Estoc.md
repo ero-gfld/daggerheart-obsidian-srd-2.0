@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Platinum Estoc"
+tags:
+  - "daggerheart/weapon"
+name: "Estoc de platine"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+7 phy"
+burden: "À une main"
+feature: "Perforant : Les dégâts infligés avec cette arme traitent le seuil de dégâts majeurs de la cible comme ayant un malus de −2."
 ---
 
 # Estoc de platine

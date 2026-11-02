@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Gilded Falchion"
+tags:
+  - "daggerheart/weapon"
+name: "Fauchon doré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+4 phy"
+burden: "À une main"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Fauchon doré

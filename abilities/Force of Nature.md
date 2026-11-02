@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Force of Nature"
+tags:
+  - "daggerheart/domain-card"
+name: "Force de la nature"
+domain: "Nature"
+level: 10
+type: "Sort"
+recall: 2
 ---
 
 # Force de la nature

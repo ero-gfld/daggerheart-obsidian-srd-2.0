@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Spear"
+tags:
+  - "daggerheart/weapon"
+name: "Lance améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+6 phy"
+burden: "À deux mains"
 ---
 
 # Lance améliorée

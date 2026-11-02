@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Offhand Brass Knuckles"
+tags:
+  - "daggerheart/weapon"
+name: "Coups-de-poing en laiton secondaires améliorés"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+2 phy"
+burden: "À une main"
+feature: "Jumelé : +3 aux dégâts de l’arme principale contre les cibles à portée Mêlée"
 ---
 
 # Coups-de-poing en laiton secondaires améliorés

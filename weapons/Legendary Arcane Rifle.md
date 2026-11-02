@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Arcane Rifle"
+tags:
+  - "daggerheart/weapon"
+name: "Fusil arcanique légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d10+12 mag"
+burden: "À deux mains"
+feature: "Visée : Votre attaque a un désavantage si la cible se trouve à portée Très proche de vous ou à portée de Mêlée de l’un de vos alliés. Vous pouvez marquer un Stress pour ignorer cette pénalité."
 ---
 
 # Fusil arcanique légendaire

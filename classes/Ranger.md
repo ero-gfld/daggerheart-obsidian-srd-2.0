@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Ranger"
+tags:
+  - "daggerheart/class"
+name: "Rôdeur"
+domains:
+  - "Os & Nature"
+evasion: 12
+hp: 6
+subclasses:
+  - "Lié aux bêtes"
+  - "Éclaireur"
+items: "Un trophée de votre première chasse ou une boussole apparemment cassée"
+description: "Les rôdeurs sont des chasseurs très habiles qui, malgré leurs talents martiaux, mettent rarement leurs compétences au service d’une armée."
 ---
 
 # Rôdeur

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Courtier"
+tags:
+  - "daggerheart/adversary"
+name: "Courtisan"
+tier: 1
+type: "Social"
+description: "Mondain ambitieux, vêtu avec une ostentation affichée."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 4
+atk: "-4"
+attack: "Dagues"
+range: "Mêlée"
+damage: "1d4+2 phy"
+motives_and_tactics: "Discréditer, gagner des faveurs, manœuvrer, comploter"
+experience: "Mondanité +3"
+features:
+  - "Moquerie - Action"
+  - "Bouc émissaire - Action"
 ---
 
 # Courtisan

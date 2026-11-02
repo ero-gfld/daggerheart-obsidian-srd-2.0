@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Lance"
+tags:
+  - "daggerheart/weapon"
+name: "Lance de cavalerie"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d10+5 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 à Finesse"
 ---
 
 # Lance de cavalerie

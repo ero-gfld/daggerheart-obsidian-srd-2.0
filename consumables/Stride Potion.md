@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Stride Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de foulée"
+effect: "Vous gagnez un bonus de +1 à votre prochain jet d’Agilité."
 ---
 
 # Potion de foulée

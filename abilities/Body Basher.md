@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Body Basher"
+tags:
+  - "daggerheart/domain-card"
+name: "Fracasse-corps"
+domain: "Vaillance"
+level: 2
+type: "Capacité"
+recall: 1
 ---
 
 # Fracasse-corps

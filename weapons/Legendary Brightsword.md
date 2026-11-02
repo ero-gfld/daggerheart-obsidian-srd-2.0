@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Brightsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée brillante légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+12 mag"
+burden: "À deux mains"
 ---
 
 # Épée brillante légendaire

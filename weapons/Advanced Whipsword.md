@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Whipsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée-fouet avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+6 phy"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces valeurs : Finesse, Mêlée, d10+6."
 ---
 
 # Épée-fouet avancée

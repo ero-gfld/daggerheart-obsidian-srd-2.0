@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Centaur Warden"
+tags:
+  - "daggerheart/adversary"
+name: "Centaure gardien"
+tier: 2
+type: "Tireur"
+description: "Un gardien mi-humain, mi-cheval, qui patrouille aux frontières de contrées idylliques préservées du contact de la civilisation."
+difficulty: 14
+thresholds: "10/19"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Arc récurvé"
+range: "Loin"
+damage: "2d8+4 phy"
+motives_and_tactics: "Vivre en harmonie avec la nature, protéger la nature sauvage, utiliser la mobilité et la distance pour repousser les intrus"
+experience: "Nature +2, Philosophie +2"
+features:
+  - "Manœuvre de flanc - Passif"
+  - "Œil du sage - Action"
+  - "Piétinement - Action"
+  - "Volée rapide - Réaction"
 ---
 
 # Centaure gardien

@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Agile Scout"
+tags:
+  - "daggerheart/beastform"
+name: "Éclaireur agile"
+tier: 1
+examples: "Renard, souris, belette, etc."
+trait_bonus: "Agilité +1"
+evasion: "+2"
+attack: "Mêlée Agilité d4 phy"
+advantages: "tromper, repérer, se faufiler"
+features:
+  - "Agile"
+  - "Fragile"
 ---
 
 # Éclaireur agile

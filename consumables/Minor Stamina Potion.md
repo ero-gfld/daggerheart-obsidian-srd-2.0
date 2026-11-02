@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Minor Stamina Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion d’endurance mineure"
+effect: "Évacuez 1d4 Stress."
 ---
 
 # Potion d’endurance mineure

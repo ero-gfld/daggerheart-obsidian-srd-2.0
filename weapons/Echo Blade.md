@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Echo Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame d’écho"
+tier: 4
+category: "Secondaire"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d4+6 mag"
+burden: "À une main"
+feature: "En double : Quand vous réussissez une attaque avec votre arme principale, vous pouvez infliger des dégâts à une autre cible à portée de Mêlée."
 ---
 
 # Lame d’écho

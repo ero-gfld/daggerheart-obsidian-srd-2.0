@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Elk"
+tags:
+  - "daggerheart/adversary"
+name: "Wapiti"
+tier: 1
+type: "Furtif"
+description: "Un grand cerf."
+difficulty: 13
+thresholds: "4/8"
+hp: 3
+stress: 2
+atk: "+0"
+attack: "Bois"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "S’éloigner d’un bond, brouter, se battre pendant le rut, pressentir le danger"
+experience: "Sens aiguisés +3, Course +3"
+features:
+  - "Coup de tête - Passif"
+  - "Fuite - Réaction"
 ---
 
 # Wapiti

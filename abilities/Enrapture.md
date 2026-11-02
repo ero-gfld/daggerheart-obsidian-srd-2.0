@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Enrapture"
+tags:
+  - "daggerheart/domain-card"
+name: "Ravissement"
+domain: "Grâce"
+level: 1
+type: "Sort"
+recall: 0
 ---
 
 # Ravissement

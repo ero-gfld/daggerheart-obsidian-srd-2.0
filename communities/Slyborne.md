@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Slyborne"
+tags:
+  - "daggerheart/community"
+name: "Né de la pègre"
+description: "Faire partie d’une communauté de Nés de la pègre, c’est venir d’un groupe qui agit en marge de la loi : criminels en tout genre, escrocs et filous."
+traits: "calculateurs, malins, redoutables, perspicaces, rusés et tenaces"
+features:
+  - "Canaille"
 ---
 
 # Né de la pègre

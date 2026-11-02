@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Redcap Skinner"
+tags:
+  - "daggerheart/adversary"
+name: "Écorcheur bonnet-rouge"
+tier: 1
+type: "Sbire"
+description: "Une créature féerique de la taille d'un chat, qui brandit un rasoir droit et porte un bonnet rouge conique scellé à la cire de bougie."
+difficulty: 9
+thresholds: "aucun"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Rasoir"
+range: "Mêlée"
+damage: "2 phy"
+motives_and_tactics: "Écorcher, glousser, racler, taillader"
+experience: "Travail du cuir +3"
+features:
+  - "Sbire (4) - Passif"
+  - "Entailles superficielles - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Écorcheur bonnet-rouge

@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Call of the Slayer"
+tags:
+  - "daggerheart/subclass"
+name: "Appel du tueur"
+class: "Guerrier"
+description: "Jouez l’Appel du tueur si vous voulez abattre des adversaires avec une force colossale."
+features:
+  - "Tueur"
+  - "Spécialiste des armes"
+  - "Préparation martiale"
 ---
 
 # Appel du tueur

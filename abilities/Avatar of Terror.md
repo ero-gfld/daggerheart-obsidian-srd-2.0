@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Avatar of Terror"
+tags:
+  - "daggerheart/domain-card"
+name: "Avatar de l’Effroi"
+domain: "Effroi"
+level: 10
+type: "Sort"
+recall: 2
 ---
 
 # Avatar de l’Effroi

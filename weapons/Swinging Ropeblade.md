@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Swinging Ropeblade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame à corde pendulaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Proche"
+damage: "d8+9 phy"
+burden: "À deux mains"
+feature: "Agrippant : Sur une attaque réussie, vous pouvez dépenser un Espoir pour entraver la cible ou l’attirer avec vous à portée de Mêlée."
 ---
 
 # Lame à corde pendulaire

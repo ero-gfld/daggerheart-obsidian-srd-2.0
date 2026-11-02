@@ -1,6 +1,13 @@
 ---
 aliases:
   - "On the Brink"
+tags:
+  - "daggerheart/domain-card"
+name: "Au bord du gouffre"
+domain: "Os"
+level: 9
+type: "Capacité"
+recall: 1
 ---
 
 # Au bord du gouffre

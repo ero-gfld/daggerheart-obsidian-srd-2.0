@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Entombed Stonemason"
+tags:
+  - "daggerheart/adversary"
+name: "Maçon des tombes"
+tier: 2
+type: "Sbire"
+description: "Un malheureux ouvrier mort-vivant, tiré au sort pour murer de l’intérieur la tombe de son impératrice."
+difficulty: 12
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Marteau et ciseau"
+range: "Mêlée"
+damage: "5 phy"
+motives_and_tactics: "Ne jamais cesser de travailler, se sacrifier pour l’impératrice"
+experience: "Bâtisseur +2"
+features:
+  - "Sbire (5) - Passif"
+  - "Attaque de groupe - Action"
+  - "Le travail ne finit jamais - Réaction"
 ---
 
 # Maçon des tombes

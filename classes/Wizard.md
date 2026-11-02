@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Wizard"
+tags:
+  - "daggerheart/class"
+name: "Magicien"
+domains:
+  - "Codex & Splendeur"
+evasion: 11
+hp: 5
+subclasses:
+  - "École du Savoir"
+  - "École de la Guerre"
+items: "Un livre que vous essayez de traduire ou un minuscule élémentaire de compagnie, inoffensif"
+description: "Que ce soit par une institution ou par l’étude personnelle, ceux qu’on appelle magiciens acquièrent et perfectionnent d’immenses pouvoirs magiques au fil d’années d’apprentissage, à l’aide d’outils…"
 ---
 
 # Magicien

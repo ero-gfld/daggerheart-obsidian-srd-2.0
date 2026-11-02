@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Stealth Expertise"
+tags:
+  - "daggerheart/domain-card"
+name: "Expertise de la discrétion"
+domain: "Minuit"
+level: 4
+type: "Capacité"
+recall: 0
 ---
 
 # Expertise de la discrétion

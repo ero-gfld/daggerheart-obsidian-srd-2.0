@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Call of the Brave"
+tags:
+  - "daggerheart/subclass"
+name: "Appel du brave"
+class: "Guerrier"
+description: "Jouez l’Appel du brave si vous voulez puiser dans la puissance de vos ennemis pour alimenter la vôtre."
+features:
+  - "Courage"
+  - "Rituel de bataille"
+  - "Relever le défi"
+  - "Camaraderie"
 ---
 
 # Appel du brave

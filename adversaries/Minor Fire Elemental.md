@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Minor Fire Elemental"
+tags:
+  - "daggerheart/adversary"
+name: "Petit élémentaire de feu"
+tier: 1
+type: "Solo"
+description: "Une flamme vivante de la taille d'un grand feu de joie."
+difficulty: 13
+thresholds: "7/15"
+hp: 9
+stress: 3
+atk: "+3"
+attack: "Souffle élémentaire"
+range: "Loin"
+damage: "1d10+4 mag"
+motives_and_tactics: "Encercler les ennemis, grandir, intimider, allumer des incendies"
+features:
+  - "Implacable (2) - Passif"
+  - "Terre brûlée - Action"
+  - "Explosion - Action"
+  - "Consommer l'amadou - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Petit élémentaire de feu

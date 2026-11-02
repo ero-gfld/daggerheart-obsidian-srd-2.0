@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Yarrow"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Yarrow"
+domain: "Codex"
+level: 10
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Yarrow

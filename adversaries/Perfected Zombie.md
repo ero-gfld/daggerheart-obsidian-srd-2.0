@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Perfected Zombie"
+tags:
+  - "daggerheart/adversary"
+name: "Zombie parfait"
+tier: 4
+type: "Cogneur"
+description: "Un zombie colossal et musclé, dont la force et l'habileté sont imprégnées de magie."
+difficulty: 20
+thresholds: "40/70"
+hp: 9
+stress: 4
+atk: "+4"
+attack: "Grande hache"
+range: "Très proche"
+damage: "4d12+15 phy"
+motives_and_tactics: "Consommer, traquer, mutiler, terroriser"
+features:
+  - "Terrifiant - Passif"
+  - "Présence redoutable - Passif"
+  - "Frappe parfaite - Action"
+  - "Opportuniste aguerri - Réaction"
 ---
 
 # Zombie parfait

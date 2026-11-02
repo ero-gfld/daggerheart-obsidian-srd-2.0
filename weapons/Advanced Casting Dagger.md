@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Casting Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague d’incantation avancée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+6 mag"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces statistiques : Instinct, Mêlée, d8+6."
 ---
 
 # Dague d’incantation avancée

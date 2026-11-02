@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Know Thy Enemy"
+tags:
+  - "daggerheart/domain-card"
+name: "Connais ton ennemi"
+domain: "Os"
+level: 5
+type: "Capacité"
+recall: 1
 ---
 
 # Connais ton ennemi

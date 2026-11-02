@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bone‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par l’Os"
+domain: "Os"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par l’Os

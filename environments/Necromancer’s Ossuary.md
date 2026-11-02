@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Necromancer’s Ossuary"
+tags:
+  - "daggerheart/environment"
+name: "Ossuaire du nécromancien"
+tier: 4
+type: "Exploration"
+description: "Une crypte poussiéreuse avec une bibliothèque, des couloirs sinueux et de nombreux sarcophages, éclaboussés du sang d’envahisseurs infortunés."
+difficulty: 19
+impulses: "déconcerter les intrus, fouiller des secrets qu’il vaut mieux laisser enfouis, manifester la non-vie, déchaîner une marée de morts-vivants"
+potential_adversaries: "Armée de l’Archinécromant (Zombie parfait, Légion de zombies)"
+features:
+  - "Pas de place pour les vivants - Passif"
+  - "Des siècles de connaissances - Passif"
+  - "Explosion d’ossements - Action"
+  - "Aura de mort - Action"
+  - "Ils ne cessent d’arriver ! - Action"
 ---
 
 # Ossuaire du nécromancien

@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Harbinger of War"
+tags:
+  - "daggerheart/adversary"
+name: "Avant-coureur de la Guerre"
+tier: 4
+type: "Cogneur"
+description: "Un guerrier vêtu d’une armure noire, coiffé d’un casque cornu, qui brandit une bannière ensanglantée."
+difficulty: 21
+thresholds: "40/70"
+hp: 9
+stress: 4
+atk: "+5"
+attack: "Hache de bataille"
+range: "Très proche"
+damage: "4d20 phy"
+motives_and_tactics: "Détruire totalement, combattre avec honneur, savourer le combat, frapper du bouclier, frapper avec puissance"
+experience: "Armure lourde +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Monture - Passif"
+  - "Dés de fer - Action"
+  - "Commandant suprême - Action"
+  - "Bélier - Réaction"
 ---
 
 # Avant-coureur de la Guerre

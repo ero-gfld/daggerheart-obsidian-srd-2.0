@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Extended Polearm"
+tags:
+  - "daggerheart/weapon"
+name: "Arme d’hast allongée"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+10 phy"
+burden: "À deux mains"
+feature: "Long : L’attaque de cette arme cible tous les adversaires situés sur une ligne à portée."
 ---
 
 # Arme d’hast allongée

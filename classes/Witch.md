@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Witch"
+tags:
+  - "daggerheart/class"
+name: "Sorcière"
+domains:
+  - "Nature & Effroi"
+evasion: 10
+hp: 6
+subclasses:
+  - "Sorcière des haies"
+  - "Sorcière de la lune"
+items: "Un petit animal de compagnie inoffensif ou une pierre de divination"
+description: "Les sorcières sont des praticiennes de la magie qui communient avec les forces de la nature et avec des entités de royaumes lointains."
 ---
 
 # Sorcière

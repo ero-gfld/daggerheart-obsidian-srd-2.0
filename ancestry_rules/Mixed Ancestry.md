@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Mixed Ancestry"
+tags:
+  - "daggerheart/rules"
+name: "Ascendance mixte"
+description: "Dans l’univers de Daggerheart, les familles sont aussi singulières que les peuples et les cultures qui l’habitent."
 ---
 
 # Ascendance mixte

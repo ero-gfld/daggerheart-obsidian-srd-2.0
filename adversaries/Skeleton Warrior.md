@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Skeleton Warrior"
+tags:
+  - "daggerheart/adversary"
+name: "Squelette guerrier"
+tier: 1
+type: "Standard"
+description: "Un squelette couvert de terre, armé d’une lame rouillée."
+difficulty: 10
+thresholds: "4/8"
+hp: 3
+stress: 2
+atk: "+0"
+attack: "Épée"
+range: "Mêlée"
+damage: "1d6+2 phy"
+motives_and_tactics: "Simuler la mort, se regrouper, voler la peau"
+features:
+  - "Que des os - Passif"
+  - "Ne reste pas mort - Réaction"
 ---
 
 # Squelette guerrier

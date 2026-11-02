@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Hand Runes"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de main avancées"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d10+6 mag"
+burden: "À une main"
 ---
 
 # Runes de main avancées

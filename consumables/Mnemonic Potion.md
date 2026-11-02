@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Mnemonic Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion mnémonique"
+effect: "Vous pouvez boire cette potion pour Utiliser une Expérience sans dépenser d’Espoir."
 ---
 
 # Potion mnémonique

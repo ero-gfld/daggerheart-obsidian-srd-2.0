@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Bear"
+tags:
+  - "daggerheart/adversary"
+name: "Ours"
+tier: 1
+type: "Cogneur"
+description: "Un grand ours au pelage épais et aux griffes puissantes."
+difficulty: 14
+thresholds: "9/17"
+hp: 7
+stress: 2
+atk: "+1"
+attack: "Griffes"
+range: "Mêlée"
+damage: "1d8+3 phy"
+motives_and_tactics: "Grimper, défendre son territoire, marteler, pister"
+experience: "Embuscade +3, Sens aiguisés +2"
+features:
+  - "Force écrasante - Passif"
+  - "Morsure - Action"
+  - "Élan - Réaction"
 ---
 
 # Ours

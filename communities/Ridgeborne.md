@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Ridgeborne"
+tags:
+  - "daggerheart/community"
+name: "Né des crêtes"
+description: "Faire partie d’une communauté de Nés des crêtes, c’est avoir fait son foyer sur les pics rocheux et les falaises abruptes des montagnes."
+traits: "audacieux, endurants, indomptables, loyaux, réservés et têtus"
+features:
+  - "Pas assuré"
 ---
 
 # Né des crêtes

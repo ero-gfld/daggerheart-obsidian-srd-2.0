@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Bladed Fan"
+tags:
+  - "daggerheart/weapon"
+name: "Éventail à lames"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Parade : lorsque vous êtes attaqué, lancez les dés de dégâts de cette arme. Si des dés de dégâts de l’attaquant affichent la même valeur que l’un de vos dés, ces résultats identiques sont retirés des dés de dégâts de l’attaquant avant que les dégâts que vous subissez soient totalisés."
 ---
 
 # Éventail à lames

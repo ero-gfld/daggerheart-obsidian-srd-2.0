@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Spectral Mist"
+tags:
+  - "daggerheart/domain-card"
+name: "Brume spectrale"
+domain: "Effroi"
+level: 5
+type: "Sort"
+recall: 0
 ---
 
 # Brume spectrale

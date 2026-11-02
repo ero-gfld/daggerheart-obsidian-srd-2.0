@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Shortbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc court"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+3 phy"
+burden: "À deux mains"
 ---
 
 # Arc court

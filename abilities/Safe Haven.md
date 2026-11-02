@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Safe Haven"
+tags:
+  - "daggerheart/domain-card"
+name: "Havre sûr"
+domain: "Codex"
+level: 8
+type: "Sort"
+recall: 3
 ---
 
 # Havre sûr

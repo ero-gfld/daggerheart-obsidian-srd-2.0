@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Share the Burden"
+tags:
+  - "daggerheart/domain-card"
+name: "Partager le fardeau"
+domain: "Grâce"
+level: 6
+type: "Sort"
+recall: 0
 ---
 
 # Partager le fardeau

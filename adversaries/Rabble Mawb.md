@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Rabble Mawb"
+tags:
+  - "daggerheart/adversary"
+name: "Populace mawb"
+tier: 1
+type: "Horde"
+horde: 3
+description: "Ces boules de poils, de membres et de dents, grosses comme des chats, voyagent en « mawb » d'une douzaine."
+difficulty: 8
+thresholds: "4/8"
+hp: 4
+stress: 2
+atk: "-2"
+attack: "Mastication"
+range: "Mêlée"
+damage: "1d6+3 phy"
+motives_and_tactics: "Glapir et mastiquer, se regrouper, rouler sur soi-même"
+experience: "Souterrain +2"
+features:
+  - "Horde (1d4+1) - Passif"
+  - "Revenir pire - Réaction"
 ---
 
 # Populace mawb

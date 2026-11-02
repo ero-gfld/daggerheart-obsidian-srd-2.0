@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Temporal Sanctuary"
+tags:
+  - "daggerheart/item"
+name: "Sanctuaire temporel"
+effect: "Un PJ qui se repose dans le sanctuaire temporel peut choisir une action de repos supplémentaire."
 ---
 
 # Sanctuaire temporel

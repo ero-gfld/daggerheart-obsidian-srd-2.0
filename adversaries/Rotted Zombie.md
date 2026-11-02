@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Rotted Zombie"
+tags:
+  - "daggerheart/adversary"
+name: "Zombie pourri"
+tier: 1
+type: "Sbire"
+description: "Un cadavre en décomposition qui avance vers sa proie."
+difficulty: 8
+thresholds: "aucun"
+hp: 1
+stress: 1
+atk: "-3"
+attack: "Morsure"
+range: "Mêlée"
+damage: "2 phy"
+motives_and_tactics: "Dévorer la chair, avoir faim, mutiler, encercler"
+features:
+  - "Sbire (3) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Zombie pourri

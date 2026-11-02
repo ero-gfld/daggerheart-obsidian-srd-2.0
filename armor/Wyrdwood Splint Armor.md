@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wyrdwood Splint Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure d’éclisses en Wyrdwood"
+tier: 2
+thresholds: "10/21"
+score: 5
+feature: "Pas rapide : Vous ne pouvez pas être Entravé et pouvez vous déplacer jusqu’à portée Loin dans le cadre d’un jet d’action."
 ---
 
 # Armure d’éclisses en Wyrdwood

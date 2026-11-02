@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Hallowed Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache sacrée avancée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+7 mag"
+burden: "À une main"
 ---
 
 # Hache sacrée avancée

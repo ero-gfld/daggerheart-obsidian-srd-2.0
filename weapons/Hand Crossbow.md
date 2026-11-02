@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Hand Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète de poing"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+1 phy"
+burden: "À une main"
 ---
 
 # Arbalète de poing

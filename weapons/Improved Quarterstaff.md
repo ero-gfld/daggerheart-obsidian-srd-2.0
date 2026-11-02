@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Quarterstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton de combat amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d10+6 phy"
+burden: "À deux mains"
 ---
 
 # Bâton de combat amélioré

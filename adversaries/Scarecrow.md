@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Scarecrow"
+tags:
+  - "daggerheart/adversary"
+name: "Épouvantail"
+tier: 2
+type: "Standard"
+description: "Une botte de paille liée en forme humaine, vêtue de haillons et animée par une âme prisonnière."
+difficulty: 15
+thresholds: "7/15"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Faucille"
+range: "Mêlée"
+damage: "2d6+1 phy"
+motives_and_tactics: "Reprends-toi, griffer et lacérer"
+experience: "Oiseaux +2, Champs +2"
+features:
+  - "Fait de paille - Passif"
+  - "Vision terrifiante - Action"
 ---
 
 # Épouvantail

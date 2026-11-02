@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Fungispunj Sporophore"
+tags:
+  - "daggerheart/adversary"
+name: "Sporophore fungispunj"
+tier: 2
+type: "Meneur"
+description: "Une créature champignon géante capable de commander les morts."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Poing spongieux"
+range: "Très proche"
+damage: "2d8+4 phy"
+motives_and_tactics: "Réveiller les tombés, défendre la colonie, répandre les spores"
+experience: "Commandement +5, Gardien +4"
+features:
+  - "Nuage de spores neurotoxiques - Action"
+  - "Réanimateur - Action"
+  - "Colonie - Action"
+  - "Esprit commun - Réaction"
 ---
 
 # Sporophore fungispunj

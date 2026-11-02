@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Blunderbuss"
+tags:
+  - "daggerheart/weapon"
+name: "Tromblon"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Proche"
+damage: "d8+6 phy"
+burden: "À deux mains"
+feature: "Rechargement : après une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un Stress pour recharger cette arme avant de pouvoir tirer à nouveau."
 ---
 
 # Tromblon

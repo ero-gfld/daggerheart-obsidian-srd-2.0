@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Casting Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague d’incantation"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6 mag"
+burden: "À une main"
+feature: "Polyvalent : cette arme peut aussi être utilisée avec ces valeurs : Instinct, Mêlée, d8."
 ---
 
 # Dague d’incantation

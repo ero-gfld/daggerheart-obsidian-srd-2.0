@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Ciscan Fog Bottle"
+tags:
+  - "daggerheart/consumable"
+name: "Fiole de brume ciscane"
+effect: "Vous pouvez briser ce pot pour remplir la zone à portée Proche d’une brume magique. Une créature qui entre dans la brume évacue un Stress et devient Cachée."
 ---
 
 # Fiole de brume ciscane

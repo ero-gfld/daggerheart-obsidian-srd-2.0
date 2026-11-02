@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Enchanted Chakram"
+tags:
+  - "daggerheart/weapon"
+name: "Chakram enchanté légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d6+10 mag"
+burden: "À une main"
+feature: "Ricochet : Quand vous lancez cette arme, elle revient dans votre main. Quand vous faites une attaque, vous pouvez marquer un Stress pour viser avec cette attaque une autre créature à portée Très proche de la première cible."
 ---
 
 # Chakram enchanté légendaire

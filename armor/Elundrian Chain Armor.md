@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Elundrian Chain Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de mailles elundrienne"
+tier: 2
+thresholds: "9/21"
+score: 4
+feature: "Protégé : Vous réduisez les dégâts magiques reçus de votre Score d’armure avant de les appliquer à vos seuils de dégâts."
 ---
 
 # Cotte de mailles elundrienne

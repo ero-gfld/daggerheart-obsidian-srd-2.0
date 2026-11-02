@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/rules"
 name: "Introduction"
-description: "This is the Daggerheart SRD (System Reference Document)."
+description: "Voici le SRD (System Reference Document, ou document de référence du système) de Daggerheart."
 sections:
-  - "WHAT IS THIS?"
-  - "THE BASICS"
+  - "DE QUOI S’AGIT-IL ?"
+  - "LES BASES"
 ---
 
 # Introduction

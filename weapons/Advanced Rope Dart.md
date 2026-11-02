@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Rope Dart"
+tags:
+  - "daggerheart/weapon"
+name: "Dard à corde avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+7 phy"
+burden: "À deux mains"
 ---
 
 # Dard à corde avancé

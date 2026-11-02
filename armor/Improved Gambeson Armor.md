@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Improved Gambeson Armor"
+tags:
+  - "daggerheart/armor"
+name: "Gambison amélioré"
+tier: 2
+thresholds: "7/16"
+score: 4
+feature: "Souple : +1 à l’Évasion"
 ---
 
 # Gambison amélioré

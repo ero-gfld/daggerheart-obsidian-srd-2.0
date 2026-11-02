@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Elemental Origin"
+tags:
+  - "daggerheart/subclass"
+name: "Origine élémentaire"
+class: "Ensorceleur"
+spellcast_trait: "Instinct"
+description: "Jouez l’Origine élémentaire si vous voulez canaliser la magie brute pour prendre la forme d’un élément particulier."
+features:
+  - "Élémentaliste"
+  - "Esquive naturelle"
+  - "Transcendance"
 ---
 
 # Origine élémentaire

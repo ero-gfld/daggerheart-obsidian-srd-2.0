@@ -4,25 +4,25 @@ tags:
 name: "Roc"
 tier: 3
 type: "Solo"
-description: "A giant falcon that nests in the mountains and unleashes storms."
+description: "Un faucon géant qui niche dans les montagnes et déchaîne les tempêtes."
 difficulty: 18
 thresholds: "20/35"
 hp: 12
 stress: 6
 atk: "+3"
-attack: "Beak & Talons"
-range: "Very Close"
+attack: "Bec et serres"
+range: "Très proche"
 damage: "3d12+8 phy"
-motives_and_tactics: "Breathe lightning and speak thunder, protect eggs, rake with talons, spy from afar"
-experience: "Craggy Peaks +3"
+motives_and_tactics: "Cracher la foudre et parler le tonnerre, protéger ses œufs, lacérer de ses serres, espionner de loin"
+experience: "Pics escarpés +3"
 features:
-  - "Relentless (3) - Passive"
-  - "Bird of Prey - Passive"
-  - "Here Comes the Boom - Action"
-  - "Crushing Grasp - Reaction"
-  - "Nest Warden - Evolution"
-  - "Wrathful - Passive"
-  - "Electrifying Aura - Passive"
+  - "Implacable (3) - Passif"
+  - "Oiseau de proie - Passif"
+  - "Voilà le coup de tonnerre - Action"
+  - "Étreinte broyante - Réaction"
+  - "Gardien du nid - Évolution"
+  - "Courroucé - Passif"
+  - "Aura électrifiante - Passif"
 ---
 
 # Roc

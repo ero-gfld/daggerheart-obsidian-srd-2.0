@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Major Enlighten Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion d’illumination majeure"
+effect: "Vous gagnez un bonus de +1 à votre Savoir jusqu’à votre prochain repos."
 ---
 
 # Potion d’illumination majeure

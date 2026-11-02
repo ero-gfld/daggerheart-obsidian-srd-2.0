@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Spectral Guardian"
+tags:
+  - "daggerheart/adversary"
+name: "Gardien spectral"
+tier: 2
+type: "Standard"
+description: "Un guerrier fantomatique armé de lances et d’épées, retenu par son devoir."
+difficulty: 15
+thresholds: "7/15"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Lance"
+range: "Très proche"
+damage: "2d8+1 phy"
+motives_and_tactics: "Traverser les objets solides, protéger un trésor, rejouer de vieilles batailles"
+experience: "Savoir ancien +2"
+features:
+  - "Fantôme - Passif"
+  - "Lame funèbre - Action"
 ---
 
 # Gardien spectral

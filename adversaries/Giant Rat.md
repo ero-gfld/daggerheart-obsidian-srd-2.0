@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Giant Rat"
+tags:
+  - "daggerheart/adversary"
+name: "Rat géant"
+tier: 1
+type: "Sbire"
+description: "Un rongeur de la taille d’un chat, habile à se nourrir de restes et à survivre."
+difficulty: 10
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-4"
+attack: "Griffes"
+range: "Mêlée"
+damage: "1 phy"
+motives_and_tactics: "Creuser, avoir faim, fouiller les restes, user l’adversaire"
+experience: "Sens aiguisés +3"
+features:
+  - "Sbire (3) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Rat géant

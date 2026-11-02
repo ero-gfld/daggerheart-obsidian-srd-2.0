@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Entombed Cat Beast"
+tags:
+  - "daggerheart/adversary"
+name: "Bête-chat des tombes"
+tier: 2
+type: "Solo"
+description: "Grand squelette humanoïde animé, à la tête de crâne de panthère."
+difficulty: 15
+thresholds: "12/23"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Griffes acérées"
+range: "Très proche"
+damage: "2d12+2 phy"
+motives_and_tactics: "Charger, lacérer, terrifier"
+experience: "Féroce +2"
+features:
+  - "Implacable (3) - Passif"
+  - "Frappe sanglante - Passif"
+  - "Miaulement strident - Action"
+  - "Je suis seul - Réaction"
+  - "Représailles féroces - Réaction"
 ---
 
 # Bête-chat des tombes

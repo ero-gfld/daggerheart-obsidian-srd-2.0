@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Starmetal Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame d’acier stellaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+10 mag"
+burden: "À une main"
+feature: "Dentelée : Quand vous obtenez un 1 sur un dé de dégâts, cette arme inflige 8 dégâts à la place."
 ---
 
 # Lame d’acier stellaire

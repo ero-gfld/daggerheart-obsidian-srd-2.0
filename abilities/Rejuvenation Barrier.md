@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rejuvenation Barrier"
+tags:
+  - "daggerheart/domain-card"
+name: "Barrière de jouvence"
+domain: "Nature"
+level: 8
+type: "Sort"
+recall: 1
 ---
 
 # Barrière de jouvence

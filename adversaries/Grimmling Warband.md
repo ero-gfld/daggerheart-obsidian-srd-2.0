@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Grimmling Warband"
+tags:
+  - "daggerheart/adversary"
+name: "Bande de grimmlings"
+tier: 1
+type: "Horde"
+horde: 4
+description: "Un amas de petites créatures étranges, vêtues d’armures faites de déchets et d’ustensiles de ménage volés."
+difficulty: 12
+thresholds: "5/11"
+hp: 3
+stress: 2
+atk: "+1"
+attack: "Cisailles de tailleur"
+range: "Mêlée"
+damage: "1d8+2 phy"
+motives_and_tactics: "Tendre des embuscades, fêter sa victoire trop tôt, frapper puis fuir, se battre entre elles, saboter, semer le chaos"
+experience: "Pièges +3"
+features:
+  - "Horde (1d4+1) - Passif"
+  - "Lâche - Réaction"
 ---
 
 # Bande de grimmlings

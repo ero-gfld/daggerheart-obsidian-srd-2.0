@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Battle Monster"
+tags:
+  - "daggerheart/domain-card"
+name: "Monstre de guerre"
+domain: "Lame"
+level: 10
+type: "Capacité"
+recall: 0
 ---
 
 # Monstre de guerre

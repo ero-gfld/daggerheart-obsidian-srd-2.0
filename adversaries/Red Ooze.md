@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Red Ooze"
+tags:
+  - "daggerheart/adversary"
+name: "Gelée rouge"
+tier: 1
+type: "Furtif"
+description: "Un monticule mouvant de boue rouge flamboyante et translucide."
+difficulty: 10
+thresholds: "6/11"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Appendice visqueux"
+range: "Mêlée"
+damage: "1d8+3 mag"
+motives_and_tactics: "Se camoufler, consommer et se multiplier, s'enflammer, allumer des incendies"
+experience: "Camouflage +3"
+features:
+  - "Feu rampant - Passif"
+  - "Enflammer - Action"
+  - "Scission - Réaction"
 ---
 
 # Gelée rouge

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Sword of Light & Flame"
+tags:
+  - "daggerheart/weapon"
+name: "Épée de lumière et de flamme"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+11 mag"
+burden: "À deux mains"
+feature: "Brûlant : Cette arme traverse les matériaux solides."
 ---
 
 # Épée de lumière et de flamme

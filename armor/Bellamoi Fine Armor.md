@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bellamoi Fine Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure fine de Bellamoi"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Doré : +1 à la Présence"
 ---
 
 # Armure fine de Bellamoi

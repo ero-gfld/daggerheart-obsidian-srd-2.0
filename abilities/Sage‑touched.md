@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Sage‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par la Nature"
+domain: "Nature"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par la Nature

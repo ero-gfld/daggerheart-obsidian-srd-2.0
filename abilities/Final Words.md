@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Final Words"
+tags:
+  - "daggerheart/domain-card"
+name: "Dernières paroles"
+domain: "Splendeur"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Dernières paroles

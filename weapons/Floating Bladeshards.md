@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Floating Bladeshards"
+tags:
+  - "daggerheart/weapon"
+name: "Éclats de lame flottants"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d8+9 mag"
+burden: "À une main"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Éclats de lame flottants

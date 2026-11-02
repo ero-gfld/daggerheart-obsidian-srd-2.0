@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Thistlebow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc-chardon"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+13 mag"
+burden: "À deux mains"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Arc-chardon

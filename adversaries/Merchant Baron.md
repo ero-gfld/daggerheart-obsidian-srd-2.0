@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Merchant Baron"
+tags:
+  - "daggerheart/adversary"
+name: "Baron marchand"
+tier: 2
+type: "Social"
+description: "Un marchand accompli, qui dirige une vaste entreprise."
+difficulty: 15
+thresholds: "9/19"
+hp: 5
+stress: 3
+atk: "-2"
+attack: "Rapière"
+range: "Mêlée"
+damage: "1d6+2 phy"
+motives_and_tactics: "Abuser du pouvoir, accumuler des ressources, mobiliser ses hommes de main"
+experience: "Noblesse +2, Commerce +2"
+features:
+  - "Tout a un prix - Action"
+  - "Les meilleurs bras que l’argent puisse acheter - Action"
 ---
 
 # Baron marchand

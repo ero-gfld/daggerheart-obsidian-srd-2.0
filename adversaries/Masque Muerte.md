@@ -4,23 +4,23 @@ tags:
 name: "Masque Muerte"
 tier: 1
 type: "Solo"
-description: "The raging soul of a villainous masked wrestler."
+description: "L’âme furieuse d’un catcheur masqué et vil."
 difficulty: 13
 thresholds: "7/14"
 hp: 8
 stress: 4
 atk: "+4"
-attack: "Open-Handed Strike"
-range: "Melee"
+attack: "Frappe à mains nues"
+range: "Mêlée"
 damage: "1d12+2 mag"
-motives_and_tactics: "Call out, embarrass, energize the audience, pin opponents to the ground"
-experience: "Grappler +3, Showboat +3"
+motives_and_tactics: "Interpeller, humilier, galvaniser le public, plaquer ses adversaires au sol"
+experience: "Lutteur +3, Cabotinage +3"
 features:
-  - "Libre - Passive"
-  - "Heel Turn - Action"
-  - "Spectral Suplex - Action"
-  - "Unmasking Death - Action"
-  - "Tag Team - Reaction"
+  - "Libre - Passif"
+  - "Retournement de veste - Action"
+  - "Suplex spectral - Action"
+  - "Démasquage mortel - Action"
+  - "Tandem - Réaction"
 ---
 
 # Masque Muerte

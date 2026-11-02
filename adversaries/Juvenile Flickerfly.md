@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Juvenile Flickerfly"
+tags:
+  - "daggerheart/adversary"
+name: "Papillon scintillant juvénile"
+tier: 2
+type: "Solo"
+description: "Un insecte de la taille d’un cheval, aux écailles irisées et aux ailes de cristal qui se déplacent plus vite que l’œil ne peut suivre."
+difficulty: 14
+thresholds: "13/26"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Coup d’aile"
+range: "Très proche"
+damage: "2d10+4 phy"
+motives_and_tactics: "Collectionner les objets brillants, chasser, fondre sur les proies"
+features:
+  - "Implacable (3) - Passif"
+  - "Précision irréprochable - Passif"
+  - "Danse de l’esprit - Action"
+  - "Souffle hallucinatoire - Réaction"
 ---
 
 # Papillon scintillant juvénile

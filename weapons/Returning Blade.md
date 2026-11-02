@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Returning Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame revenante"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d8 mag"
+burden: "À une main"
+feature: "Revenant : Quand vous lancez cette arme à portée, elle revient immédiatement dans votre main après l’attaque."
 ---
 
 # Lame revenante

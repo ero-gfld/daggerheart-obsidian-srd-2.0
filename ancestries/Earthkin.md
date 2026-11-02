@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Earthkin"
+tags:
+  - "daggerheart/ancestry"
+name: "Enfant de la terre"
+description: "Les enfants de la terre sont des humanoïdes dont le corps est fait de chair et de terre."
+features:
+  - "Peau de pierre"
+  - "Ancré"
 ---
 
 # Enfant de la terre

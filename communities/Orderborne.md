@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Orderborne"
+tags:
+  - "daggerheart/community"
+name: "Assermenté"
+description: "Faire partie d’une communauté d’Assermentés, c’est venir d’un collectif centré sur la discipline ou la foi, et défendre un ensemble de principes qui reflètent ce que vous y avez vécu."
+traits: "ambitieux, bienveillants, songeurs, prudents, sardoniques et stoïques"
+features:
+  - "Dévoué"
 ---
 
 # Assermenté

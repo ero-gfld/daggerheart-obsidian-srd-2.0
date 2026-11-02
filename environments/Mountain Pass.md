@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Mountain Pass"
+tags:
+  - "daggerheart/environment"
+name: "Col de montagne"
+tier: 2
+type: "Traversée"
+description: "Des pics rocailleux qui percent les nuages, avec un sentier sinueux qui grimpe et serpente en lacets jusqu’au sommet."
+difficulty: 15
+impulses: "Prélever un tribut glacial en vivres et en endurance, révéler des manipulations magiques, ralentir les déplacements"
+potential_adversaries: "Bêtes (Ours, Aigle géant, Serpent de verre), Crâne du chaos, Minotaure destructeur, Chasseur mortel"
+features:
+  - "Glyphes gravés - Passif"
+  - "Avalanche - Action"
+  - "Nid de rapaces - Réaction"
+  - "Vents glacés - Réaction"
 ---
 
 # Col de montagne

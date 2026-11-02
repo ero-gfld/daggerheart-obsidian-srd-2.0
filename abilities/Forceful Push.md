@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Forceful Push"
+tags:
+  - "daggerheart/domain-card"
+name: "Poussée puissante"
+domain: "Vaillance"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Poussée puissante

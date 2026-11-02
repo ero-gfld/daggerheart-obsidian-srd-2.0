@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Full Surge"
+tags:
+  - "daggerheart/domain-card"
+name: "Déferlement total"
+domain: "Vaillance"
+level: 8
+type: "Capacité"
+recall: 1
 ---
 
 # Déferlement total

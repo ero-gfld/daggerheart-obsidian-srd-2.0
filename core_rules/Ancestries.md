@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Ancestries"
+tags:
+  - "daggerheart/rules"
+name: "Ascendances"
+description: "Les ascendances représentent la lignée de votre personnage, qui détermine son apparence physique et l’accès à certaines capacités spéciales."
 ---
 
 # Ascendances

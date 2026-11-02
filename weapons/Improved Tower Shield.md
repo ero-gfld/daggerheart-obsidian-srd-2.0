@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Tower Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Pavois amélioré"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d6+2 phy"
+burden: "À une main"
+feature: "Barrière : +3 au Score d’armure ; −1 à l’Évasion"
 ---
 
 # Pavois amélioré

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Cloverweave Cloak"
+tags:
+  - "daggerheart/armor"
+name: "Cape tissée de trèfle"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Favorisé par la chance : Une fois par scène, vous pouvez transformer un échec avec Espoir en succès avec la Peur."
 ---
 
 # Cape tissée de trèfle

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Arcane Prism"
+tags:
+  - "daggerheart/item"
+name: "Prisme arcanique"
+effect: "Placez ce prisme à l’endroit de votre choix, puis activez-le. Tous les alliés à portée Proche de lui gagnent un bonus de +1 à leurs jets d’Incantation. Tant qu’il est activé, le prisme ne peut pas être déplacé. Une fois le prisme désactivé, il ne peut plus être activé avant votre prochain repos long."
 ---
 
 # Prisme arcanique

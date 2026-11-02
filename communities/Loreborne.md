@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Loreborne"
+tags:
+  - "daggerheart/community"
+name: "Lettré"
+description: "Faire partie d’une communauté de Lettrés, c’est venir d’une société qui privilégie la maîtrise du savoir ou de la politique."
+traits: "directs, éloquents, curieux, patients, exaltés et spirituels"
+features:
+  - "Grand lecteur"
 ---
 
 # Lettré

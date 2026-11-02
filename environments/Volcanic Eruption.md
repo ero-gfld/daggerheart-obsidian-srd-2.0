@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Volcanic Eruption"
+tags:
+  - "daggerheart/environment"
+name: "Éruption volcanique"
+tier: 3
+type: "Événement"
+description: "Une explosion de chaleur et de roche en fusion qui ne laisse derrière elle qu’une désolation calcinée."
+difficulty: 16
+impulses: "Semer la panique alentour, couper les issues, isoler, pousser à se ruer vers l’abri, diviser le groupe"
+potential_adversaries: "Étincelle élémentaire, Élémentaire de lave (Grand élémentaire de terre), Dragon volcanique"
+features:
+  - "Sol instable - Passif"
+  - "Éruption violente - Action"
+  - "Libérer du gaz toxique - Action"
 ---
 
 # Éruption volcanique

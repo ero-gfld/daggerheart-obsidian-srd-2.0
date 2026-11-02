@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Thought Delver"
+tags:
+  - "daggerheart/domain-card"
+name: "Fouilleur de pensées"
+domain: "Grâce"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Fouilleur de pensées

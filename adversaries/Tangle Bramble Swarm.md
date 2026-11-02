@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Tangle Bramble Swarm"
+tags:
+  - "daggerheart/adversary"
+name: "Essaim de ronces entremêlées"
+tier: 1
+type: "Horde"
+horde: 3
+description: "Un amas de boules de ronces animées qui boivent le sang, chacune de la taille d’une grosse calebasse."
+difficulty: 12
+thresholds: "6/11"
+hp: 6
+stress: 3
+atk: "+0"
+attack: "Épines"
+range: "Mêlée"
+damage: "1d6+3 phy"
+motives_and_tactics: "Digérer, enchevêtrer, immobiliser"
+experience: "Camouflage +2"
+features:
+  - "Horde (1d4+2) - Passif"
+  - "Écrasement - Action"
+  - "Enchevêtrement - Réaction"
 ---
 
 # Essaim de ronces entremêlées

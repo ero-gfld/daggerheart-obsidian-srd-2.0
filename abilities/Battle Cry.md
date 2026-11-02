@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Battle Cry"
+tags:
+  - "daggerheart/domain-card"
+name: "Cri de guerre"
+domain: "Lame"
+level: 8
+type: "Capacité"
+recall: 2
 ---
 
 # Cri de guerre

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hideous Retribution"
+tags:
+  - "daggerheart/domain-card"
+name: "Châtiment hideux"
+domain: "Effroi"
+level: 2
+type: "Sort"
+recall: 2
 ---
 
 # Châtiment hideux

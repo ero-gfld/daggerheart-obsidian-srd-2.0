@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Berserker Initiate"
+tags:
+  - "daggerheart/adversary"
+name: "Berserker initié"
+tier: 2
+type: "Standard"
+description: "Un guerrier furieux qui absorbe des breuvages rituels pour donner à son corps des traits d’une bête prédatrice."
+difficulty: 13
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Dents et griffes"
+range: "Mêlée"
+damage: "2d10 phy"
+motives_and_tactics: "Se coordonner avec la meute, danser autour du feu, hurler à la lune"
+experience: "Chasse +3"
+features:
+  - "Fureur de meute - Passif"
+  - "Rage du berserker - Réaction"
 ---
 
 # Berserker initié

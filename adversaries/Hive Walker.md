@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Hive Walker"
+tags:
+  - "daggerheart/adversary"
+name: "Marcheur de la ruche"
+tier: 2
+type: "Standard"
+description: "Un cadavre rempli et animé par une colonie d’abeilles nécrophages."
+difficulty: 12
+thresholds: "11/24"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Poing pourrissant"
+range: "Mêlée"
+damage: "2d6+3 phy"
+motives_and_tactics: "Enfermer les proies dans le miel, protéger la ruche"
+experience: "Mangeur de chair +2"
+features:
+  - "Miel sanglant - Action"
+  - "Éruption d’abeilles - Réaction"
 ---
 
 # Marcheur de la ruche

@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Vast Desert"
+tags:
+  - "daggerheart/environment"
+name: "Désert immense"
+tier: 2
+type: "Traversée"
+description: "Une étendue desséchée de dunes de sable, de plats salins désolés et de formations rocheuses sculptées par le vent."
+difficulty: 14
+impulses: "Déshydrater, montrer une beauté désolée, faire planer le danger à l’horizon"
+potential_adversaries: "Fouisseur acide, Pillards du désert (Bandits des Lames dentelées), Requin terrestre, Ver des sables"
+features:
+  - "Sables sans fin - Passif"
+  - "Réserve d’eau - Passif"
+  - "Sables mouvants - Passif"
+  - "Orage - Action"
+  - "Tempête de sable - Action"
 ---
 
 # Désert immense

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Get Back Up"
+tags:
+  - "daggerheart/domain-card"
+name: "Se relever"
+domain: "Lame"
+level: 1
+type: "Capacité"
+recall: 1
 ---
 
 # Se relever

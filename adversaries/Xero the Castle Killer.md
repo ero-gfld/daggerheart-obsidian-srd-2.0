@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Xero the Castle Killer"
+tags:
+  - "daggerheart/adversary"
+name: "Xero le Tueur de châteaux"
+tier: 4
+type: "Solo"
+description: "Un reptile bipède de la taille d’un château."
+difficulty: 20
+thresholds: "35/70"
+hp: 12
+stress: 10
+atk: "+8"
+attack: "Coup de queue"
+range: "Proche"
+damage: "4d12+6 phy"
+motives_and_tactics: "Laisser un sillage de destruction, raser les bâtiments, piétiner les agglomérations"
+experience: "Destruction +5"
+features:
+  - "Implacable (X) - Passif"
+  - "Dommages collatéraux - Passif"
+  - "Piétinement gigantesque - Action"
+  - "Glissade de puissance - Action"
+  - "Souffle radioactif - Action"
+  - "Régénération - Action"
 ---
 
 # Xero le Tueur de châteaux

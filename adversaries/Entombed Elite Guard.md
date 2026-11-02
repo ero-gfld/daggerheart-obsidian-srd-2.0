@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Entombed Elite Guard"
+tags:
+  - "daggerheart/adversary"
+name: "Garde d’élite des tombes"
+tier: 2
+type: "Standard"
+description: "Soldat mort-vivant d’élite, enterré avec son impératrice pour défendre la tombe contre le vol et la profanation."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Lame courbe"
+range: "Mêlée"
+damage: "2d10+2 phy"
+motives_and_tactics: "Former les rangs, protéger l’impératrice, frapper d’un seul mouvement"
+experience: "Soldat +3"
+features:
+  - "Formation de combat - Passif"
+  - "Javelot - Action"
 ---
 
 # Garde d’élite des tombes

@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Juggernaut"
+tags:
+  - "daggerheart/subclass"
+name: "Mastodonte"
+class: "Bagarreur"
+description: "Jouez le Mastodonte si vous voulez pulvériser vos adversaires à coups écrasants."
+features:
+  - "Robuste"
+  - "Submerger"
+  - "Encerclé"
+  - "Œil pour œil"
+  - "Joie de cogner"
+  - "Pas fini"
 ---
 
 # Mastodonte

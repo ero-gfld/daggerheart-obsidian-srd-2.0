@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Lean on Me"
+tags:
+  - "daggerheart/domain-card"
+name: "Appuie-toi sur moi"
+domain: "Vaillance"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Appuie-toi sur moi

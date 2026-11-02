@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shield Aura"
+tags:
+  - "daggerheart/domain-card"
+name: "Aura protectrice"
+domain: "Splendeur"
+level: 8
+type: "Sort"
+recall: 2
 ---
 
 # Aura protectrice

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Axe of Fortunis"
+tags:
+  - "daggerheart/weapon"
+name: "Hache de Fortunis"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+8 mag"
+burden: "À deux mains"
+feature: "Chanceux : Sur une attaque ratée, vous pouvez marquer un Stress pour relancer votre attaque."
 ---
 
 # Hache de Fortunis

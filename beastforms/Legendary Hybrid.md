@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Hybrid"
+tags:
+  - "daggerheart/beastform"
+name: "Hybride légendaire"
+tier: 3
+examples: "Griffon, sphinx, etc."
+trait_bonus: "Force +2"
+evasion: "+3"
+attack: "Mêlée Force d10+8 phy"
+features:
+  - "Aptitudes hybrides"
 ---
 
 # Hybride légendaire

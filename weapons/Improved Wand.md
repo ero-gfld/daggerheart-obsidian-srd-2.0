@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Wand"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette améliorée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+4 mag"
+burden: "À une main"
 ---
 
 # Baguette améliorée

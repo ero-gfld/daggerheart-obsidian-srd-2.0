@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Mythic Beast"
+tags:
+  - "daggerheart/beastform"
+name: "Bête mythique"
+tier: 4
+examples: "Options de rang 1 ou rang 2 améliorées"
+features:
+  - "Évolué"
 ---
 
 # Bête mythique

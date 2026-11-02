@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Greatstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Grand bâton"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Très loin"
+damage: "d6 mag"
+burden: "À deux mains"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Grand bâton

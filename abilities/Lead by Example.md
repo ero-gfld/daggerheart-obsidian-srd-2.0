@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Lead by Example"
+tags:
+  - "daggerheart/domain-card"
+name: "Montrer l’exemple"
+domain: "Vaillance"
+level: 9
+type: "Capacité"
+recall: 3
 ---
 
 # Montrer l’exemple

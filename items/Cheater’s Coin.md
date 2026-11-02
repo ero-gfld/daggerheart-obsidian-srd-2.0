@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Cheater’s Coin"
+tags:
+  - "daggerheart/item"
+name: "Pièce truquée"
+effect: "Lorsque vous lancez cette pièce, vous pouvez dépenser un Espoir pour choisir la face sur laquelle elle tombe."
 ---
 
 # Pièce truquée

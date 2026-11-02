@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Overwhelming Aura"
+tags:
+  - "daggerheart/domain-card"
+name: "Aura écrasante"
+domain: "Splendeur"
+level: 9
+type: "Sort"
+recall: 2
 ---
 
 # Aura écrasante

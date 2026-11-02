@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Blighting Strike"
+tags:
+  - "daggerheart/domain-card"
+name: "Frappe pourrissante"
+domain: "Effroi"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Frappe pourrissante

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Brace"
+tags:
+  - "daggerheart/domain-card"
+name: "Se raidir"
+domain: "Os"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Se raidir

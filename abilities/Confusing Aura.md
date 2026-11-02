@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Confusing Aura"
+tags:
+  - "daggerheart/domain-card"
+name: "Aura déroutante"
+domain: "Arcanes"
+level: 8
+type: "Sort"
+recall: 2
 ---
 
 # Aura déroutante

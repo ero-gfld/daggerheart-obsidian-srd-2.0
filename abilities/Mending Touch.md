@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Mending Touch"
+tags:
+  - "daggerheart/domain-card"
+name: "Toucher réparateur"
+domain: "Splendeur"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Toucher réparateur

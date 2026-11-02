@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Whipsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée-fouet améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces statistiques : Finesse, Mêlée, d10+3."
 ---
 
 # Épée-fouet améliorée

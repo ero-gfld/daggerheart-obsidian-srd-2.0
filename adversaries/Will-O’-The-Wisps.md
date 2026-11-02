@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Will-O’-The-Wisps"
+tags:
+  - "daggerheart/adversary"
+name: "Feux follets"
+tier: 1
+type: "Horde"
+horde: 8
+description: "Des orbes de lumière changeante qui flottent paresseusement, aux couleurs mouvantes."
+difficulty: 9
+thresholds: "5/9"
+hp: 4
+stress: 2
+atk: "-3"
+attack: "Éclair"
+range: "Proche"
+damage: "1d4+2 mag"
+motives_and_tactics: "Éblouir et distraire, désorienter, égarer"
+experience: "Obscurité +3"
+features:
+  - "Horde (1d4−1) - Passif"
+  - "Kaléidoscopique - Passif"
+  - "Fascinant - Action"
 ---
 
 # Feux follets

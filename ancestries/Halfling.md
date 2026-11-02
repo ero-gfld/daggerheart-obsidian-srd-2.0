@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Halfling"
+tags:
+  - "daggerheart/ancestry"
+name: "Halfelin"
+description: "Les halfelins sont des humanoïdes de petite taille aux grands pieds poilus et aux oreilles rondes et saillantes."
+features:
+  - "Porte-bonheur"
+  - "Boussole intérieure"
 ---
 
 # Halfelin

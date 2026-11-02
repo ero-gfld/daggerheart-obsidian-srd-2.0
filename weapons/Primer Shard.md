@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Primer Shard"
+tags:
+  - "daggerheart/weapon"
+name: "Éclat d’amorce"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d4 phy"
+burden: "À une main"
+feature: "Verrouillage : Après une attaque réussie, votre attaque suivante contre la même cible avec votre arme principale réussit automatiquement."
 ---
 
 # Éclat d’amorce

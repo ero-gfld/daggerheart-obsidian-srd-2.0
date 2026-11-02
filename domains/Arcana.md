@@ -1,6 +1,14 @@
 ---
 aliases:
   - "Arcana"
+tags:
+  - "daggerheart/domain"
+name: "Arcanes"
+description: "Les Arcanes sont le domaine de la magie innée et instinctive."
+classes:
+  - "Druide"
+  - "Ensorceleur"
+cards: 21
 ---
 
 # Arcanes

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Grace‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par la Grâce"
+domain: "Grâce"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par la Grâce

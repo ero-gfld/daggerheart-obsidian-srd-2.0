@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Focus Runes"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de focalisation améliorées"
+tier: 2
+category: "Secondaire"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d6+2 mag"
+burden: "À une main"
+feature: "Concentré : +1 aux dégâts de l’arme principale contre les cibles à portée Très proche"
 ---
 
 # Runes de focalisation améliorées

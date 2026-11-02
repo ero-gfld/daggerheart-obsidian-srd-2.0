@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Glowing Rings"
+tags:
+  - "daggerheart/weapon"
+name: "Anneaux luisants"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+2 mag"
+burden: "À deux mains"
 ---
 
 # Anneaux luisants

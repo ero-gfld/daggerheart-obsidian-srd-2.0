@@ -2,9 +2,9 @@
 tags:
   - "daggerheart/domain-card"
 name: "Damnation"
-domain: "Dread"
+domain: "Effroi"
 level: 9
-type: "Spell"
+type: "Sort"
 recall: 2
 ---
 

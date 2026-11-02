@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Full Plate Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de plates complète légendaire"
+tier: 4
+thresholds: "17/44"
+score: 7
+feature: "Très lourd : −2 à l’Évasion ; −1 à l’Agilité"
 ---
 
 # Armure de plates complète légendaire

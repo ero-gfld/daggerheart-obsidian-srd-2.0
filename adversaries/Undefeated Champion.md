@@ -1,6 +1,30 @@
 ---
 aliases:
   - "Undefeated Champion"
+tags:
+  - "daggerheart/adversary"
+name: "Champion invaincu"
+tier: 4
+type: "Solo"
+description: "Ce que seuls les plus redoutés ont une chance de craindre."
+difficulty: 18
+thresholds: "35/58"
+hp: 11
+stress: 5
+atk: "+8"
+attack: "Épée brise-cœur"
+range: "Très proche"
+damage: "4d12+13 phy"
+motives_and_tactics: "Donner une mort sans pitié, punir les insoumis, assurer la victoire à tout prix"
+experience: "Conquête +3, Histoire +2, Intimidation +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Armure vacillante - Passif"
+  - "Frappe brisante - Action"
+  - "Légions sans fin - Action"
+  - "Cercle de souillure - Réaction"
+  - "Élan - Réaction"
+  - "Porte-malheur - Réaction"
 ---
 
 # Champion invaincu

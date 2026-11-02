@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Skeleton Knight"
+tags:
+  - "daggerheart/adversary"
+name: "Squelette chevalier"
+tier: 1
+type: "Cogneur"
+description: "Un grand squelette en armure, qui brandit une lame énorme."
+difficulty: 13
+thresholds: "7/13"
+hp: 5
+stress: 2
+atk: "+2"
+attack: "Grande épée rouillée"
+range: "Mêlée"
+damage: "1d10+2 phy"
+motives_and_tactics: "Abattre les vivants, voler la peau, semer le chaos"
+features:
+  - "Terrifiant - Passif"
+  - "Jusqu’à l’os - Action"
+  - "Creuser deux tombes - Réaction"
 ---
 
 # Squelette chevalier

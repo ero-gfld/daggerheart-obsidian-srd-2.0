@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Storm Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan de tempête"
+tier: 3
+type: "Solo"
+description: "Un colosse ancien, sage et capricieux, dont les cheveux sont faits de brume et dont la peau est parcourue d’électricité crépitante."
+difficulty: 20
+thresholds: "35/70"
+hp: 11
+stress: 8
+atk: "+7"
+attack: "Éclair de foudre"
+range: "Loin"
+damage: "3d20+10 mag"
+motives_and_tactics: "Éclater violemment, attendre, observer"
+experience: "Puissance de la tempête +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Élan - Passif"
+  - "Foudre globulaire - Action"
+  - "Faiseur de tempête - Action"
+  - "Coup de tonnerre - Action"
 ---
 
 # Titan de tempête

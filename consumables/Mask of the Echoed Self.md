@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Mask of the Echoed Self"
+tags:
+  - "daggerheart/consumable"
+name: "Masque du soi résonnant"
+effect: "Vous pouvez porter ce masque lors de votre prochaine montée de niveau pour échanger les valeurs de n’importe laquelle de vos caractéristiques. Lorsque vous le faites, le masque devient votre visage permanent."
 ---
 
 # Masque du soi résonnant

@@ -4,24 +4,24 @@ tags:
 name: "Manticore"
 tier: 3
 type: "Solo"
-description: "A legendary beast that has a human’s face, lion’s body, scorpion’s tail, and dragon’s wings."
+description: "Une bête légendaire au visage humain, au corps de lion, à la queue de scorpion et aux ailes de dragon."
 difficulty: 17
 thresholds: "20/35"
 hp: 12
 stress: 6
 atk: "+6"
-attack: "Teeth & Claws"
-range: "Very Close"
+attack: "Crocs et griffes"
+range: "Très proche"
 damage: "3d12+6 phy"
-motives_and_tactics: "Bite, claw, pounce, riddle, swipe, swoop, trick"
-experience: "Overgrowth +3, Riddles +3"
+motives_and_tactics: "Mordre, griffer, bondir, poser des énigmes, balayer d’un coup de patte, fondre sur ses proies, duper"
+experience: "Croissance sauvage +3, Énigmes +3"
 features:
-  - "Relentless (3) - Passive"
-  - "Riddle Me This - Passive"
-  - "Winged - Passive"
-  - "Pouncing Attack - Action"
-  - "Paralyzing Tail Spike - Action"
-  - "Locking Jaws - Reaction"
+  - "Implacable (3) - Passif"
+  - "Devine donc ! - Passif"
+  - "Ailée - Passif"
+  - "Attaque bondissante - Action"
+  - "Dard paralysant - Action"
+  - "Mâchoires verrouillées - Réaction"
 ---
 
 # Manticore

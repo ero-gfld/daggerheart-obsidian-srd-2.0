@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Viper"
+tags:
+  - "daggerheart/adversary"
+name: "Vipère"
+tier: 1
+type: "Sbire"
+description: "Un petit serpent qui injecte son venin à ses proies grâce à des crochets articulés."
+difficulty: 11
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Morsure"
+range: "Mêlée"
+damage: "1 phy"
+motives_and_tactics: "Guetter, ramper, frapper"
+experience: "Ancré +4"
+features:
+  - "Sbire (4) - Passif"
+  - "Venimeux - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Vipère

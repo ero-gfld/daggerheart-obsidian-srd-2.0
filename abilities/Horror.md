@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Horror"
+tags:
+  - "daggerheart/domain-card"
+name: "Horreur"
+domain: "Effroi"
+level: 4
+type: "Sort"
+recall: 2
 ---
 
 # Horreur

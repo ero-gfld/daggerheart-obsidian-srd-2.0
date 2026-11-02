@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Greater Earth Elemental"
+tags:
+  - "daggerheart/adversary"
+name: "Grand élémentaire de terre"
+tier: 3
+type: "Cogneur"
+description: "Un glissement de terrain vivant, fait de rochers et de poussière, aussi grand qu’une maison."
+difficulty: 17
+thresholds: "22/40"
+hp: 10
+stress: 4
+atk: "+7"
+attack: "Poing de rocher"
+range: "Très proche"
+damage: "3d10+1 phy"
+motives_and_tactics: "Provoquer une avalanche, faire tomber, pilonner"
+features:
+  - "Lenteur - Passif"
+  - "Coups écrasants - Passif"
+  - "Objet inamovible - Passif"
+  - "Éboulement - Action"
+  - "Élan - Réaction"
 ---
 
 # Grand élémentaire de terre

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Emberkin"
+tags:
+  - "daggerheart/ancestry"
+name: "Enfant du feu"
+description: "Les enfants du feu sont des humanoïdes dont le corps est fait de chair et de feu."
+features:
+  - "Ignifugé"
+  - "Embrasement"
 ---
 
 # Enfant du feu

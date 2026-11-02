@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Cinder Grasp"
+tags:
+  - "daggerheart/domain-card"
+name: "Étreinte de braise"
+domain: "Arcanes"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Étreinte de braise

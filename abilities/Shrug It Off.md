@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shrug It Off"
+tags:
+  - "daggerheart/domain-card"
+name: "Encaisser sans broncher"
+domain: "Vaillance"
+level: 7
+type: "Capacité"
+recall: 1
 ---
 
 # Encaisser sans broncher

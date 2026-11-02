@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dwarf"
+tags:
+  - "daggerheart/ancestry"
+name: "Nain"
+description: "Les nains sont des humanoïdes de petite taille que l’on reconnaît à leur carrure carrée, leur musculature dense et leur épaisse pilosité."
+features:
+  - "Peau épaisse"
+  - "Robustesse accrue"
 ---
 
 # Nain

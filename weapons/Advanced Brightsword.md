@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Brightsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée brillante avancée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+9 mag"
+burden: "À deux mains"
 ---
 
 # Épée brillante avancée

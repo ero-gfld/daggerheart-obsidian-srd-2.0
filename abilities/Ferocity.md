@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Ferocity"
+tags:
+  - "daggerheart/domain-card"
+name: "Férocité"
+domain: "Os"
+level: 2
+type: "Capacité"
+recall: 2
 ---
 
 # Férocité

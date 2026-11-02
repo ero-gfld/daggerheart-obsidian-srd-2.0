@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Harbinger of Famine"
+tags:
+  - "daggerheart/adversary"
+name: "Avant-coureur de la Famine"
+tier: 4
+type: "Soutien"
+description: "La carcasse desséchée d’un corps, chevauchant un cheval blanc flétri. Il est couvert de bouches et entouré de mouches bourdonnantes."
+difficulty: 18
+thresholds: "26/42"
+hp: 6
+stress: 5
+atk: "+4"
+attack: "Fouet barbelé"
+range: "Proche"
+damage: "4d8+10 phy"
+motives_and_tactics: "Drainer, appauvrir, affaiblir, dépérir"
+experience: "Faim +2, Soif +2"
+features:
+  - "Implacable (2) - Passif"
+  - "Monture - Passif"
+  - "Tiraillements de la faim - Passif"
+  - "Drain d’essence - Action"
+  - "Trop de bouches - Action"
+  - "Toucher flétrissant - Action"
 ---
 
 # Avant-coureur de la Famine

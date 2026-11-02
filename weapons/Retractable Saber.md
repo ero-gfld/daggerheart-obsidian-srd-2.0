@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Retractable Saber"
+tags:
+  - "daggerheart/weapon"
+name: "Sabre rétractable"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d10+7 phy"
+burden: "À une main"
+feature: "Rétractable : La lame peut être cachée dans la poignée pour échapper à la détection."
 ---
 
 # Sabre rétractable

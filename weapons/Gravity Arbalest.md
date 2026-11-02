@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Gravity Arbalest"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète gravitique"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d8+6 mag"
+burden: "À deux mains"
+feature: "Magnétique : Quand vous effectuez une attaque avec cette arme, vous pouvez dépenser un Espoir pour forcer tous les adversaires situés à portée de Très proche de la cible à effectuer un jet de réaction (16). Les créatures qui échouent doivent marquer un Stress et sont attirées à portée de Mêlée de la cible."
 ---
 
 # Arbalète gravitique

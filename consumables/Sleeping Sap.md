@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Sleeping Sap"
+tags:
+  - "daggerheart/consumable"
+name: "Sève dormante"
+effect: "Vous pouvez boire cette potion pour vous endormir pour une nuit de repos complète. Vous évacuez tout le Stress à votre réveil."
 ---
 
 # Sève dormante

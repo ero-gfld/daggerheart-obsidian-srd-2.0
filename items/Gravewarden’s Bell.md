@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Gravewarden’s Bell"
+tags:
+  - "daggerheart/item"
+name: "Cloche du gardien des tombes"
+effect: "Cette cloche sonne lorsqu’un fantôme ou une créature morte-vivante se déplace à portée Loin d’elle."
 ---
 
 # Cloche du gardien des tombes

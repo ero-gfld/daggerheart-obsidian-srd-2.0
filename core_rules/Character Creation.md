@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Character Creation"
+tags:
+  - "daggerheart/rules"
+name: "Création de personnage"
+description: "À moins que leur table ne choisisse d’utiliser des personnages prétirés, chaque joueur crée son propre PJ en faisant une série de choix guidés."
 ---
 
 # Création de personnage

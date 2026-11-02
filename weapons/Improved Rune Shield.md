@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Rune Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier runique amélioré"
+tier: 2
+category: "Secondaire"
+type: "Magique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d4+2 mag"
+burden: "À une main"
+feature: "Protecteur : +2 au Score d’armure"
 ---
 
 # Bouclier runique amélioré

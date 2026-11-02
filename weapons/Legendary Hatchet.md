@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Hatchet"
+tags:
+  - "daggerheart/weapon"
+name: "Hachette légendaire"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+6 phy"
+burden: "À une main"
+feature: "Enchaînement : Sur une attaque réussie avec votre arme principale à portée de Mêlée, vous pouvez marquer un Stress pour gagner un bonus de +1 à votre Maîtrise pour cette attaque."
 ---
 
 # Hachette légendaire

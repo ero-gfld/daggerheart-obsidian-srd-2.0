@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Javelins"
+tags:
+  - "daggerheart/weapon"
+name: "Javelots"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d6+6 phy"
+burden: "À une main"
+feature: "Approvisionné : Vous pouvez lancer cette arme sur une cible à portée Loin en faisant un jet d’attaque avec Agilité, sans avoir à la récupérer, car vous en avez toujours une autre sous la main."
 ---
 
 # Javelots

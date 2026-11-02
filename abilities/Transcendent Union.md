@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Transcendent Union"
+tags:
+  - "daggerheart/domain-card"
+name: "Union transcendante"
+domain: "Codex"
+level: 10
+type: "Sort"
+recall: 1
 ---
 
 # Union transcendante

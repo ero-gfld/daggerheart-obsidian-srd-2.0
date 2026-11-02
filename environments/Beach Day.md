@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Beach Day"
+tags:
+  - "daggerheart/environment"
+name: "Journée à la plage"
+tier: 2
+type: "Social"
+description: "Le groupe s’accorde une pause dans son aventure pour se reposer et profiter d’une station balnéaire."
+difficulty: 14
+impulses: "Évoquer le sable et le ressac, leur offrir un répit, les préparer au combat à venir"
+potential_adversaries: "Aucun"
+features:
+  - "Repos et détente - Passif"
+  - "« Notre histoire jusqu’ici… » - Passif"
+  - "Ennuis locaux - Action"
+  - "Défilé de mode - Réaction"
 ---
 
 # Journée à la plage

@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Ruby Dragon"
+tags:
+  - "daggerheart/adversary"
+name: "Dragon de rubis"
+tier: 4
+type: "Standard"
+description: "Un immense dragon ailé dont les flammes visibles brûlent sous des écailles scintillantes et incrustées de gemmes. La chaleur de son corps fait fondre la pierre."
+difficulty: 19
+thresholds: "30/50"
+hp: 6
+stress: 4
+atk: "+6"
+attack: "Crocs et griffes"
+range: "Proche"
+damage: "4d10+8 phy"
+motives_and_tactics: "Fendre la terre, faire fondre, protéger son trésor"
+experience: "Montagnes +4"
+features:
+  - "Implacable (3) - Passif"
+  - "Redoutable - Passif"
+  - "Souffle fondant - Action"
+  - "Fissure volcanique - Action"
+  - "Sang chaud - Réaction"
 ---
 
 # Dragon de rubis

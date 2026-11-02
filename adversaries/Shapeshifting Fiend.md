@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Shapeshifting Fiend"
+tags:
+  - "daggerheart/adversary"
+name: "Démon métamorphe"
+tier: 3
+type: "Social"
+description: "Une entité malveillante qui se fait passer pour une figure de confiance."
+difficulty: 17
+thresholds: "20/32"
+hp: 4
+stress: 8
+atk: "+3"
+attack: "Lame cachée"
+range: "Mêlée"
+damage: "3d8+3 phy"
+motives_and_tactics: "Usurper une identité, semer la discorde, tenter à la trahison"
+experience: "Manipulation +3, Imitation +2"
+features:
+  - "Nature infernale - Passif"
+  - "Usurpation - Action"
+  - "Disparaître à la vue - Action"
+  - "Guidage hypocrite - Réaction"
+  - "Démasqué ! (Changement de phase) - Réaction"
 ---
 
 # Démon métamorphe

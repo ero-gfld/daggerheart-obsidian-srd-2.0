@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+10 phy"
+burden: "À une main"
 ---
 
 # Arbalète légendaire

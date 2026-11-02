@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Never Upstaged"
+tags:
+  - "daggerheart/domain-card"
+name: "Jamais éclipsé"
+domain: "Grâce"
+level: 6
+type: "Capacité"
+recall: 2
 ---
 
 # Jamais éclipsé

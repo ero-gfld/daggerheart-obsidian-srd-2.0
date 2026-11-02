@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Guahalan Alebrujo"
+tags:
+  - "daggerheart/adversary"
+name: "Alebrujo guahalan"
+tier: 2
+type: "Solo"
+description: "Une immense bête chimérique et colorée, formée de nombreux animaux."
+difficulty: 14
+thresholds: "13/26"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Dents et griffes"
+range: "Très proche"
+damage: "2d10+4 mag"
+motives_and_tactics: "Détruire, ne faire aucun quartier, ravager"
+experience: "Brutal +2, Vif +2"
+features:
+  - "La bête déchaînée - Passif"
+  - "Sacrifice guahalan - Action"
+  - "Hurlement de la Guahala - Action"
+  - "Déchirer et arracher - Action"
+  - "Spectacle brutal - Réaction"
 ---
 
 # Alebrujo guahalan

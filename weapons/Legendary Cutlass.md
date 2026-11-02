@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Cutlass"
+tags:
+  - "daggerheart/weapon"
+name: "Coutelas légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+10 phy"
+burden: "À une main"
 ---
 
 # Coutelas légendaire

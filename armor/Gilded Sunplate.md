@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Gilded Sunplate"
+tags:
+  - "daggerheart/armor"
+name: "Plate-soleil dorée"
+tier: 2
+thresholds: "12/26"
+score: 5
+feature: "Resplendissant : Une fois par scène, lorsque vous dépensez de l’Espoir, vous pouvez évacuer un Emplacement d’armure."
 ---
 
 # Plate-soleil dorée

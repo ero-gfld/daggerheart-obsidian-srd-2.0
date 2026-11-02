@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Greater Water Elemental"
+tags:
+  - "daggerheart/adversary"
+name: "Grand élémentaire d’eau"
+tier: 3
+type: "Soutien"
+description: "Une immense vague vivante qui s’abat sur ses ennemis."
+difficulty: 17
+thresholds: "17/34"
+hp: 5
+stress: 5
+atk: "+3"
+attack: "Vague déferlante"
+range: "Très proche"
+damage: "3d4+1 mag"
+motives_and_tactics: "Déluge, se disperser, noyer"
+features:
+  - "Jet d’eau - Action"
+  - "Étreinte noyante - Action"
+  - "Marée haute - Réaction"
 ---
 
 # Grand élémentaire d’eau

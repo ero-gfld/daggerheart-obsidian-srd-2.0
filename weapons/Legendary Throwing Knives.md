@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Throwing Knives"
+tags:
+  - "daggerheart/weapon"
+name: "Couteaux de lancer légendaires"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+6 phy"
+burden: "À une main"
+feature: "Approvisionné : Vous pouvez lancer cette arme à portée Proche en faisant un jet d’attaque avec Finesse. Vous n’avez pas besoin de la récupérer, car vous en avez toujours un autre sous la main."
 ---
 
 # Couteaux de lancer légendaires

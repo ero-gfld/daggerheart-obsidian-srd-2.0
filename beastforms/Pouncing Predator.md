@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Pouncing Predator"
+tags:
+  - "daggerheart/beastform"
+name: "Prédateur bondissant"
+tier: 2
+examples: "Guépard, lion, panthère, etc."
+trait_bonus: "Instinct +1"
+evasion: "+3"
+attack: "Mêlée Instinct d8+6 phy"
+advantages: "attaquer, grimper, se faufiler"
+features:
+  - "Véloce"
+  - "Plaquage"
 ---
 
 # Prédateur bondissant

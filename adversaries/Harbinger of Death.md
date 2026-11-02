@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Harbinger of Death"
+tags:
+  - "daggerheart/adversary"
+name: "Avant-coureur de la Mort"
+tier: 4
+type: "Furtif"
+description: "Un cadavre desséché, chevauchant un cheval squelettique. Ses yeux sont cousus et son corps est enveloppé d’un linceul de poussière et de cendres."
+difficulty: 18
+thresholds: "28/52"
+hp: 6
+stress: 6
+atk: "+8"
+attack: "Grande faux"
+range: "Proche"
+damage: "4d10+10 phy"
+motives_and_tactics: "Rendre le jugement, abattre, se déplacer vite, traquer sans relâche, prendre des âmes"
+experience: "Jugement +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Monture - Passif"
+  - "La mort fauche - Passif"
+  - "Décapitation - Action"
+  - "Réveiller les morts - Action"
+  - "Cendres aux cendres, poussière à la poussière - Réaction"
 ---
 
 # Avant-coureur de la Mort

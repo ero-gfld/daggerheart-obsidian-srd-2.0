@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Spellblade"
+tags:
+  - "daggerheart/adversary"
+name: "Lame-sort"
+tier: 1
+type: "Meneur"
+description: "Un mercenaire qui allie escrime et magie, avec des effets meurtriers."
+difficulty: 14
+thresholds: "8/14"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Épée longue renforcée"
+range: "Mêlée"
+damage: "1d8+4 phy/mag"
+motives_and_tactics: "Frapper, commander, tenir bon"
+experience: "Savoir magique +2"
+features:
+  - "Acier arcanique - Passif"
+  - "Salve écrasante - Action"
+  - "Agir en unité - Action"
+  - "Élan - Réaction"
 ---
 
 # Lame-sort

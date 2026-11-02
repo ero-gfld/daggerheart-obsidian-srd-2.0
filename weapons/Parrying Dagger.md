@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Parrying Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague de parade"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d6+2 phy"
+burden: "À une main"
+feature: "Parade : Quand vous êtes attaqué, lancez les dés de dégâts de cette arme. Si un dé de dégâts de l’attaquant a obtenu la même valeur que l’un de vos dés, les résultats identiques sont écartés des dés de dégâts de l’attaquant avant que les dégâts que vous subissez ne soient additionnés."
 ---
 
 # Dague de parade

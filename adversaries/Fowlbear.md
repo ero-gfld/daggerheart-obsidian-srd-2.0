@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Fowlbear"
+tags:
+  - "daggerheart/adversary"
+name: "Ours-volaille"
+tier: 2
+type: "Cogneur"
+description: "Un ours grizzly à la peau couverte de plumes, avec la tête d’une oie géante."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Dents d’oie et griffes d’ours"
+range: "Très proche"
+damage: "2d12+2 phy"
+motives_and_tactics: "Pousser les proies dans une embuscade, combattre jusqu’à la mort, chasser par deux"
+experience: "Sens aiguisés +3, Mares +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Double frappe - Action"
+  - "Cri terrifiant - Action"
 ---
 
 # Ours-volaille

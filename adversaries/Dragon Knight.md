@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Dragon Knight"
+tags:
+  - "daggerheart/adversary"
+name: "Chevalier dragon"
+tier: 2
+type: "Cogneur"
+description: "Chevalier revêtu d’une armure de plaques de dragon et d’un heaume en forme de tête de dragon."
+difficulty: 15
+thresholds: "15/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Lance"
+range: "Très proche"
+damage: "2d12+3 phy"
+motives_and_tactics: "Profiter d’une ouverture, prendre de la distance, déstabiliser les ennemis, frapper d’en haut"
+experience: "Joutes +2"
+features:
+  - "Position haute - Passif"
+  - "Bond offensif - Action"
+  - "Riposte - Réaction"
 ---
 
 # Chevalier dragon

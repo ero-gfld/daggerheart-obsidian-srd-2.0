@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Sage"
+tags:
+  - "daggerheart/domain"
+name: "Nature"
+description: "La Nature est le domaine du monde naturel."
+classes:
+  - "Druide"
+  - "Rôdeur"
+  - "Sorcière"
+cards: 21
 ---
 
 # Nature

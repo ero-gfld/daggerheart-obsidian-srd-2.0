@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Ghost"
+tags:
+  - "daggerheart/transformation"
+name: "Fantôme"
+description: "Les fantômes sont les esprits d’anciens vivants liés au Royaume mortel."
+features:
+  - "Affaires inachevées"
+  - "Éphémère"
 ---
 
 # Fantôme

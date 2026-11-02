@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bolt Beacon"
+tags:
+  - "daggerheart/domain-card"
+name: "Balise de foudre"
+domain: "Splendeur"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Balise de foudre

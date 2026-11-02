@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Unleash Chaos"
+tags:
+  - "daggerheart/domain-card"
+name: "Déchaîner le chaos"
+domain: "Arcanes"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Déchaîner le chaos

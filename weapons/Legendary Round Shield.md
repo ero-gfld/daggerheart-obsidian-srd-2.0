@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Round Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier rond légendaire"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d4+6 phy"
+burden: "À une main"
+feature: "Protecteur : +4 au Score d’armure"
 ---
 
 # Bouclier rond légendaire

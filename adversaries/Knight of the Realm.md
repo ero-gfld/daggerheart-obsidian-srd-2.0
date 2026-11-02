@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Knight of the Realm"
+tags:
+  - "daggerheart/adversary"
+name: "Chevalier du royaume"
+tier: 2
+type: "Meneur"
+description: "Un soldat décoré, revêtu d’une armure lourde et monté sur une puissante monture."
+difficulty: 15
+thresholds: "13/26"
+hp: 6
+stress: 4
+atk: "+4"
+attack: "Épée longue"
+range: "Mêlée"
+damage: "2d10+4 phy"
+motives_and_tactics: "Écraser, chercher la gloire, affirmer sa domination"
+experience: "Savoir ancien +3, Haute société +2, Tactique +2"
+features:
+  - "Chevalier - Passif"
+  - "Lourdement armuré - Passif"
+  - "Charge de cavalerie - Action"
+  - "Pour le royaume ! - Action"
 ---
 
 # Chevalier du royaume

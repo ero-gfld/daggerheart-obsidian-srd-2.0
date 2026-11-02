@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wildborne"
+tags:
+  - "daggerheart/community"
+name: "Né sauvage"
+description: "Faire partie d’une communauté de Nés sauvages, c’est avoir vécu au cœur de la forêt."
+traits: "endurants, loyaux, attentionnés, reclus, sagaces et pleins de vie"
+features:
+  - "Pas feutré"
 ---
 
 # Né sauvage

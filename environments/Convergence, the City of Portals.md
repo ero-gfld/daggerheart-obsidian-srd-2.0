@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Convergence, the City of Portals"
+tags:
+  - "daggerheart/environment"
+name: "Convergence, la cité des portails"
+tier: 4
+type: "Social"
+description: "Une métropole tentaculaire au nexus de la création, où se réunissent des figures influentes venues de tous les royaumes."
+difficulty: 20
+impulses: "les confronter à des coutumes étrangères, les éblouir par une variété infinie, les tenter avec l’impossible"
+potential_adversaries: "Grands puissants (Archinécromant, Seigneur-démon Berzug, Seigneur de guerre titan de feu, Haut séraphin, Monarque, Oracle de la perdition, Seigneur vampire), Voyageurs et résidents (au choix)"
+features:
+  - "Impossibilités à foison - Passif"
+  - "Dans le multivers - Passif"
+  - "Inventaire infini - Passif"
+  - "Ne faites pas de vagues - Passif"
+  - "Une offre impossible à refuser - Action"
 ---
 
 # Convergence, la cité des portails

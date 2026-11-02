@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Mythic Hybrid"
+tags:
+  - "daggerheart/beastform"
+name: "Hybride mythique"
+tier: 4
+examples: "Chimère, cockatrice, manticore, etc."
+trait_bonus: "Force +3"
+evasion: "+2"
+attack: "Force Mêlée d12+10 phy"
+features:
+  - "Aptitudes hybrides"
 ---
 
 # Hybride mythique

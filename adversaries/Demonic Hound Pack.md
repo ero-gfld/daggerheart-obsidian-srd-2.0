@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Demonic Hound Pack"
+tags:
+  - "daggerheart/adversary"
+name: "Meute de chiens démoniaques"
+tier: 2
+type: "Horde"
+horde: 1
+description: "Molosses surnaturels éclairés de l’intérieur par le feu infernal."
+difficulty: 15
+thresholds: "11/23"
+hp: 6
+stress: 3
+atk: "+0"
+attack: "Griffes et crocs"
+range: "Mêlée"
+damage: "2d8+2 phy"
+motives_and_tactics: "Semer la peur, consumer la chair, plaire à leurs maîtres"
+experience: "Pistage olfactif +3"
+features:
+  - "Horde (2d4+1) - Passif"
+  - "Hurlement d’effroi - Action"
+  - "Élan - Réaction"
 ---
 
 # Meute de chiens démoniaques

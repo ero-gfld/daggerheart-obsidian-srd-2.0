@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Battleaxe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache de bataille avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+9 phy"
+burden: "À deux mains"
 ---
 
 # Hache de bataille avancée

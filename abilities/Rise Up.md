@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rise Up"
+tags:
+  - "daggerheart/domain-card"
+name: "Debout"
+domain: "Vaillance"
+level: 6
+type: "Capacité"
+recall: 2
 ---
 
 # Debout

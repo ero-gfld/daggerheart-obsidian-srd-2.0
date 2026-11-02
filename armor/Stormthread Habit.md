@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Stormthread Habit"
+tags:
+  - "daggerheart/armor"
+name: "Habit de fil de tempête"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Absorbant : Une fois par scène, lorsque vous subissez des dégâts magiques, vous pouvez évacuer un Emplacement d’armure."
 ---
 
 # Habit de fil de tempête

@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Wand"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+1 mag"
+burden: "À une main"
 ---
 
 # Baguette

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Unbreakable"
+tags:
+  - "daggerheart/domain-card"
+name: "Incassable"
+domain: "Vaillance"
+level: 10
+type: "Capacité"
+recall: 4
 ---
 
 # Incassable

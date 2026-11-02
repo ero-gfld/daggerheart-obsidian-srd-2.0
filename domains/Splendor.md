@@ -1,6 +1,14 @@
 ---
 aliases:
   - "Splendor"
+tags:
+  - "daggerheart/domain"
+name: "Splendeur"
+description: "La Splendeur est le domaine de la vie."
+classes:
+  - "Séraphin"
+  - "Magicien"
+cards: 21
 ---
 
 # Splendeur

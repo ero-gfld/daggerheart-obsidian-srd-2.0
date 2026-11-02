@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Valor"
+tags:
+  - "daggerheart/domain"
+name: "Vaillance"
+description: "La Vaillance est le domaine de la protection."
+classes:
+  - "Bagarreur"
+  - "Gardien"
+  - "Séraphin"
+cards: 21
 ---
 
 # Vaillance

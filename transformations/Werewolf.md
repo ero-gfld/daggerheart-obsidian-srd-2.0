@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Werewolf"
+tags:
+  - "daggerheart/transformation"
+name: "Loup-garou"
+description: "Les loups-garous sont des créatures qui se transforment en grands loups surnaturels."
+features:
+  - "Forme de loup"
+  - "Déchaînement hurlant"
 ---
 
 # Loup-garou

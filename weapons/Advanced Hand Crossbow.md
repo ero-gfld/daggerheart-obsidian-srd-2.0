@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Hand Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète de poing avancée"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+5 phy"
+burden: "À une main"
 ---
 
 # Arbalète de poing avancée

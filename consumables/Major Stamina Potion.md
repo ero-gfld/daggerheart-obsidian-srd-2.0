@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Major Stamina Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion d’endurance majeure"
+effect: "Évacuez 1d4+2 Stress."
 ---
 
 # Potion d’endurance majeure

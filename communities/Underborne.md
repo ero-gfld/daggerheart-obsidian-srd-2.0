@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Underborne"
+tags:
+  - "daggerheart/community"
+name: "Né des profondeurs"
+description: "Faire partie d’une communauté de Nés des profondeurs, c’est venir d’une société souterraine."
+traits: "posés, insaisissables, indomptables, novateurs, débrouillards et sans prétention"
+features:
+  - "Vie dans la pénombre"
 ---
 
 # Né des profondeurs

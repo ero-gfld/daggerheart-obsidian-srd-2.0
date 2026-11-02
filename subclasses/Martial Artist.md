@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Martial Artist"
+tags:
+  - "daggerheart/subclass"
+name: "Artiste martial"
+class: "Bagarreur"
+description: "Jouez l’Artiste martial si vous voulez recourir à une variété de styles de combat pour éliminer vos ennemis."
+features:
+  - "Combattant de posture"
+  - "Défenses acérées"
+  - "Canon de concentration"
+  - "Dépassement des limites"
+  - "État de flux"
 ---
 
 # Artiste martial

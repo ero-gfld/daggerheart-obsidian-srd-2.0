@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Astral Raiment"
+tags:
+  - "daggerheart/armor"
+name: "Atour astral"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Stellaire : Marquez un Stress pour obtenir un avantage sur un jet d’Incantation."
 ---
 
 # Atour astral

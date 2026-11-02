@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Gem of Insight"
+tags:
+  - "daggerheart/item"
+name: "Gemme de perspicacité"
+effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Instinct lorsque vous attaquez avec cette arme."
 ---
 
 # Gemme de perspicacité

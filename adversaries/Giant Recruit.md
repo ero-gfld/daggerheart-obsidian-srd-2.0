@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Giant Recruit"
+tags:
+  - "daggerheart/adversary"
+name: "Recrue géante"
+tier: 2
+type: "Sbire"
+description: "Un combattant géant, vêtu d’une armure empruntée."
+difficulty: 13
+thresholds: "Aucun"
+hp: 1
+stress: 2
+atk: "+1"
+attack: "Marteau de guerre"
+range: "Très proche"
+damage: "5 phy"
+motives_and_tactics: "Frapper, gagner sa vie, submerger, terroriser"
+features:
+  - "Sbire (7) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Recrue géante

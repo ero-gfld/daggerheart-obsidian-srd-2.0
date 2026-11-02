@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Full Fortified Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure entièrement fortifiée"
+tier: 4
+thresholds: "15/40"
+score: 4
+feature: "Fortifié : Lorsque vous marquez un Emplacement d’armure, vous réduisez de deux seuils la gravité d’une attaque au lieu d’un."
 ---
 
 # Armure entièrement fortifiée

@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Shapeshifting Fiend Revealed"
+tags:
+  - "daggerheart/adversary"
+name: "Démon métamorphe dévoilé"
+tier: 3
+type: "Solo"
+description: "Un humanoïde gigantesque, à tête d'insecte, portant plusieurs paires d'yeux rouges et luisants."
+difficulty: 17
+thresholds: "20/32"
+hp: 10
+stress: 8
+atk: "+3"
+attack: "Griffes de mante"
+range: "Très proche"
+damage: "3d12+5 phy"
+motives_and_tactics: "Réclamer des âmes, semer la confusion et induire en erreur, s'enfuir vers les Cercles inférieurs, se téléporter"
+experience: "Voué aux Enfers +3, Immortel +2"
+features:
+  - "Implacable (3) - Passif"
+  - "Résistance infernale - Passif"
+  - "Rage démoniaque - Action"
+  - "Salle des miroirs - Action"
+  - "Griffe éclair - Action"
+  - "Jeux d'esprit - Réaction"
 ---
 
 # Démon métamorphe dévoilé

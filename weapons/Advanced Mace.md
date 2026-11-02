@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Mace"
+tags:
+  - "daggerheart/weapon"
+name: "Masse d’armes avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+7 phy"
+burden: "À une main"
 ---
 
 # Masse d’armes avancée

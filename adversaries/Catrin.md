@@ -4,21 +4,21 @@ tags:
 name: "Catrin"
 tier: 3
 type: "Social"
-description: "A lavishly adorned skeleton that has an endless appetite for gold."
+description: "Un squelette richement paré, qui a un appétit sans fin pour l’or."
 difficulty: 17
 thresholds: "20/32"
 hp: 5
 stress: 6
 atk: "+3"
-attack: "Spirit Flame"
-range: "Far"
+attack: "Flamme spectrale"
+range: "Loin"
 damage: "3d8+5 mag"
-motives_and_tactics: "Dominate the conversation, seek attention, steal everything"
-experience: "Opulence +2, Storyteller +2"
+motives_and_tactics: "Dominer la conversation, chercher l’attention, tout voler"
+experience: "Opulence +2, Conteur +2"
 features:
-  - "Attracted to Wealth - Passive"
-  - "The Weight of Opulence - Action"
-  - "Expensive Failure - Reaction"
+  - "Attirée par la richesse - Passif"
+  - "Le poids de l’opulence - Action"
+  - "Échec coûteux - Réaction"
 ---
 
 # Catrin

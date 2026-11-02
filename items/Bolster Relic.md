@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Bolster Relic"
+tags:
+  - "daggerheart/item"
+name: "Relique de renfort"
+effect: "Vous gagnez un bonus de +1 à votre Force. Vous ne pouvez porter qu’une seule relique."
 ---
 
 # Relique de renfort

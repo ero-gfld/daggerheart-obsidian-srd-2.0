@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shapeshifter"
+tags:
+  - "daggerheart/transformation"
+name: "Métamorphe"
+description: "Les métamorphes sont des créatures capables de changer de forme physique."
+features:
+  - "Changer de forme"
+  - "Simple apparence"
 ---
 
 # Métamorphe

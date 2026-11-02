@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shadowhunter"
+tags:
+  - "daggerheart/domain-card"
+name: "Chasseur d’ombres"
+domain: "Minuit"
+level: 8
+type: "Capacité"
+recall: 2
 ---
 
 # Chasseur d’ombres

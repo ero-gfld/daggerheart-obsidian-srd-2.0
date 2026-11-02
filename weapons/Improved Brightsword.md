@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Brightsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée brillante améliorée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+6 mag"
+burden: "À deux mains"
 ---
 
 # Épée brillante améliorée

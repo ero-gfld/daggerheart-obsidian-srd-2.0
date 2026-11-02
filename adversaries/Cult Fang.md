@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Cult Fang"
+tags:
+  - "daggerheart/adversary"
+name: "Croc du culte"
+tier: 2
+type: "Furtif"
+description: "Tueur à gages passé au culte."
+difficulty: 15
+thresholds: "9/17"
+hp: 4
+stress: 4
+atk: "+2"
+attack: "Long couteau"
+range: "Mêlée"
+damage: "2d8+4 phy"
+motives_and_tactics: "Capturer des sacrifices, isoler les proies, gravir les échelons"
+features:
+  - "Étreinte de l’ombre - Passif"
+  - "S’en prendre au traînard - Action"
 ---
 
 # Croc du culte

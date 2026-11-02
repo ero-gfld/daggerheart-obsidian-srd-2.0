@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Ghoulskin Gloves"
+tags:
+  - "daggerheart/item"
+name: "Gants de peau de goule"
+effect: "Lorsque vous attaquez avec une arme physique en portant ces gants, les dégâts sont considérés à la fois comme physiques et magiques."
 ---
 
 # Gants de peau de goule

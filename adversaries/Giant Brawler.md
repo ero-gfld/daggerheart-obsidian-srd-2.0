@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Giant Brawler"
+tags:
+  - "daggerheart/adversary"
+name: "Bagarreur géant"
+tier: 2
+type: "Cogneur"
+description: "Un géant particulièrement musclé, qui manie un marteau de guerre plus grand qu’un humain."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Marteau de guerre"
+range: "Très proche"
+damage: "2d12+3 phy"
+motives_and_tactics: "Gagner sa vie, submerger, fracasser, renverser"
+experience: "Intrusion +2"
+features:
+  - "Bélier - Action"
+  - "Représailles sanglantes - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Bagarreur géant

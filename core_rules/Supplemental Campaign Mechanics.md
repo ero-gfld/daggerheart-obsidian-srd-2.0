@@ -1,6 +1,22 @@
 ---
 aliases:
   - "Supplemental Campaign Mechanics"
+tags:
+  - "daggerheart/rules"
+name: "Mécaniques de campagne complémentaires"
+description: "Vous pouvez utiliser les mécaniques facultatives suivantes pour enrichir vos campagnes."
+sections:
+  - "SUIVI DES FACTIONS"
+  - "ÉQUIPEMENT DE DÉPART DU HÉROS ORDINAIRE"
+  - "FESTINS"
+  - "CAMPAGNES GRIMDARK"
+  - "CAMPAGNES TECHNOLOGIQUES"
+  - "CAMPAGNES WESTERN"
+  - "ADVERSAIRES COLOSSAUX"
+  - "CAMPAGNES D’ÉCOLE DE MAGIE FLOTTANTE"
+  - "CAMPAGNES DE CONTES DE FÉES"
+  - "CAMPAGNES DE CHASSE AUX MONSTRES"
+  - "CAMPAGNES D’EXPLORATION HEXAGONALE"
 ---
 
 # Mécaniques de campagne complémentaires

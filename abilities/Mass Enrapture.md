@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Mass Enrapture"
+tags:
+  - "daggerheart/domain-card"
+name: "Ravissement collectif"
+domain: "Grâce"
+level: 8
+type: "Sort"
+recall: 3
 ---
 
 # Ravissement collectif

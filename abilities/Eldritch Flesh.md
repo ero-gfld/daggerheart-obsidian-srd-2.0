@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Eldritch Flesh"
+tags:
+  - "daggerheart/domain-card"
+name: "Chair d’outre-monde"
+domain: "Effroi"
+level: 8
+type: "Sort"
+recall: 1
 ---
 
 # Chair d’outre-monde

@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Time Court"
+tags:
+  - "daggerheart/environment"
+name: "Cour du temps"
+tier: 4
+type: "Événement"
+description: "Un ou plusieurs PJ sont arrachés de force à la ligne du temps et jugés pour des crimes contre la continuité."
+difficulty: 20
+impulses: "Trouver la vérité, rendre la justice, annuler leurs pouvoirs"
+potential_adversaries: "Juge (Monarque), Jury (Chœur sanctifié), Bourreaux (Exécuteurs temporels)"
+features:
+  - "Hors du temps - Passif"
+  - "Procès devant jury - Passif"
+  - "Avocat de la défense - Passif"
+  - "Avocat de l’accusation - Action"
+  - "« Silence dans la cour ! » - Réaction"
 ---
 
 # Cour du temps

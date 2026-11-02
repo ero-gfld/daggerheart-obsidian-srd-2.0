@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Shark"
+tags:
+  - "daggerheart/adversary"
+name: "Requin"
+tier: 2
+type: "Cogneur"
+description: "Un grand prédateur aquatique, toujours en mouvement."
+difficulty: 14
+thresholds: "14/28"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Gueule dentée"
+range: "Très proche"
+damage: "2d12+1 phy"
+motives_and_tactics: "Trouver le sang, isoler la proie, s'en prendre aux faibles"
+experience: "Odorat +3"
+features:
+  - "Terrifiant - Passif"
+  - "Morsure déchirante - Passif"
+  - "Du sang dans l'eau - Réaction"
 ---
 
 # Requin

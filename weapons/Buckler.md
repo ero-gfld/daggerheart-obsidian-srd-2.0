@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Buckler"
+tags:
+  - "daggerheart/weapon"
+name: "Targe"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d4+4 phy"
+burden: "À une main"
+feature: "Déviation : lorsque vous êtes attaqué, vous pouvez marquer un emplacement d’armure pour gagner un bonus à votre Évasion égal à votre score d’armure disponible contre cette attaque."
 ---
 
 # Targe

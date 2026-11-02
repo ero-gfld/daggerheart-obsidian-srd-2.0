@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Forager"
+tags:
+  - "daggerheart/domain-card"
+name: "Glaneur"
+domain: "Nature"
+level: 6
+type: "Capacité"
+recall: 1
 ---
 
 # Glaneur

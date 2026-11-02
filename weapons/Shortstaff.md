@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Shortstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton court"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d8+1 mag"
+burden: "À une main"
 ---
 
 # Bâton court

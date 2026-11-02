@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Widogast Pendant"
+tags:
+  - "daggerheart/weapon"
+name: "Pendentif de Widogast"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Proche"
+damage: "d10+5 mag"
+burden: "À une main"
+feature: "Distorsion temporelle : Vous choisissez la cible de votre attaque après avoir fait votre jet d’attaque."
 ---
 
 # Pendentif de Widogast

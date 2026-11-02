@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Hallowed Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache sacrée légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+10 mag"
+burden: "À une main"
 ---
 
 # Hache sacrée légendaire

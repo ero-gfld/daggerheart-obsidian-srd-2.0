@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Health Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de soins"
+effect: "Libérez 1d4+1 PV."
 ---
 
 # Potion de soins

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Zombie Pack"
+tags:
+  - "daggerheart/adversary"
+name: "Meute de zombies"
+tier: 1
+type: "Horde"
+horde: 2
+description: "Un groupe de cadavres titubants qui se déplacent instinctivement ensemble."
+difficulty: 8
+thresholds: "6/12"
+hp: 6
+stress: 3
+atk: "-1"
+attack: "Morsure"
+range: "Mêlée"
+damage: "1d10+2 phy"
+motives_and_tactics: "Dévorer la chair, faim, malmener"
+features:
+  - "Horde (1d4+2) - Passif"
+  - "Submersion - Réaction"
 ---
 
 # Meute de zombies

@@ -1,6 +1,22 @@
 ---
 aliases:
   - "Divine Usurpation"
+tags:
+  - "daggerheart/environment"
+name: "Usurpation divine"
+tier: 4
+type: "Événement"
+description: "Un rituel gigantesque destiné à forcer les portes des Hallows d’en haut et à renverser les Nouveaux Dieux eux-mêmes."
+difficulty: 20
+impulses: "accumuler le pouvoir, écraser par la majesté, faire taire la dissidence"
+potential_adversaries: "Archinécromant, Troupes de choc déchues, Chasseur mortel, Oracle de la perdition, Zombie parfait"
+features:
+  - "Préparatifs finaux - Passif"
+  - "Bénédiction divine - Passif"
+  - "Profanateurs partout - Action"
+  - "Tueur de dieux - Action"
+  - "Le début de la fin - Réaction"
+  - "Nexus rituel - Réaction"
 ---
 
 # Usurpation divine

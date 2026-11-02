@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Warden of the Elements"
+tags:
+  - "daggerheart/subclass"
+name: "Veilleur des éléments"
+class: "Druide"
+spellcast_trait: "Instinct"
+description: "Jouez le Veilleur des éléments si vous voulez incarner les éléments naturels du monde sauvage."
+features:
+  - "Incarnation élémentaire"
+  - "Aura élémentaire"
+  - "Domination élémentaire"
 ---
 
 # Veilleur des éléments

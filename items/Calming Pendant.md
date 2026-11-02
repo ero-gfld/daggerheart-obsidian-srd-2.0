@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Calming Pendant"
+tags:
+  - "daggerheart/item"
+name: "Pendentif apaisant"
+effect: "Lorsque vous devriez marquer votre dernier Stress, lancez un d6. Sur un résultat de 5 ou plus, ne le marquez pas."
 ---
 
 # Pendentif apaisant

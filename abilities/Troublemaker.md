@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Troublemaker"
+tags:
+  - "daggerheart/domain-card"
+name: "Fauteur de troubles"
+domain: "Grâce"
+level: 2
+type: "Capacité"
+recall: 2
 ---
 
 # Fauteur de troubles

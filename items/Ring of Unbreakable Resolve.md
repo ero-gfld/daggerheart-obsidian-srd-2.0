@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Ring of Unbreakable Resolve"
+tags:
+  - "daggerheart/item"
+name: "Anneau de résolution inébranlable"
+effect: "Une fois par session, quand le MJ dépense une Peur, vous pouvez dépenser 4 Espoir pour annuler les effets de cette Peur dépensée."
 ---
 
 # Anneau de résolution inébranlable

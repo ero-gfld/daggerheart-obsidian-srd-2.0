@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Hedge Witch"
+tags:
+  - "daggerheart/subclass"
+name: "Sorcière des haies"
+class: "Sorcière"
+spellcast_trait: "Savoir"
+description: "Jouez la Sorcière des haies si vous voulez utiliser votre art pour vous renforcer, vous et votre groupe."
+features:
+  - "Remèdes à base de plantes"
+  - "Talisman enchanté"
+  - "Marcher entre les mondes"
+  - "Malédiction tenace"
+  - "Cercle de pouvoir"
 ---
 
 # Sorcière des haies

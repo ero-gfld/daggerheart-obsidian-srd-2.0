@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Inspirational Words"
+tags:
+  - "daggerheart/domain-card"
+name: "Paroles inspirantes"
+domain: "Grâce"
+level: 1
+type: "Capacité"
+recall: 1
 ---
 
 # Paroles inspirantes

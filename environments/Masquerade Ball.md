@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Masquerade Ball"
+tags:
+  - "daggerheart/environment"
+name: "Bal masqué"
+tier: 2
+type: "Social"
+description: "Un gala de la haute société où des convives masqués échangent secrets et faveurs."
+difficulty: 14
+impulses: "Danser toute la nuit, manger et boire, conclure des accords secrets, échanger des informations précieuses"
+potential_adversaries: "Agents (Voleur masqué, Maître assassin, Espion), Convives (Courtisane, Baron marchand, Conseiller royal)"
+features:
+  - "Déguisement obligatoire - Passif"
+  - "« Vous dansez ? » - Passif"
+  - "Confusion d’identité - Action"
+  - "Cape et dague - Action"
 ---
 
 # Bal masqué

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Skywarden’s Lamellar"
+tags:
+  - "daggerheart/armor"
+name: "Lamellaire du gardien du ciel"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Vigilant : +2 à l’Évasion"
 ---
 
 # Lamellaire du gardien du ciel

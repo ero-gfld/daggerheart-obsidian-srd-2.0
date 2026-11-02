@@ -4,20 +4,20 @@ tags:
 name: "Vampire"
 tier: 3
 type: "Standard"
-description: "An intelligent undead with blood-stained lips and a predator’s smile."
+description: "Un mort-vivant intelligent aux lèvres tachées de sang et au sourire de prédateur."
 difficulty: 16
 thresholds: "18/35"
 hp: 5
 stress: 4
 atk: "+3"
-attack: "Rapier"
-range: "Melee"
+attack: "Rapière"
+range: "Mêlée"
 damage: "3d8 phy"
-motives_and_tactics: "Bite, charm, deceive, feed, intimidate"
-experience: "Nocturnal Hunter +3"
+motives_and_tactics: "Mordre, charmer, tromper, se nourrir, intimider"
+experience: "Chasseur nocturne +3"
 features:
-  - "Draining Bite - Action"
-  - "Mistform - Reaction"
+  - "Morsure vampirique - Action"
+  - "Forme brumeuse - Réaction"
 ---
 
 # Vampire

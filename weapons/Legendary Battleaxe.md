@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Battleaxe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache de bataille légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+12 phy"
+burden: "À deux mains"
 ---
 
 # Hache de bataille légendaire

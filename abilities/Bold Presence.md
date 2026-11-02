@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bold Presence"
+tags:
+  - "daggerheart/domain-card"
+name: "Présence audacieuse"
+domain: "Vaillance"
+level: 2
+type: "Capacité"
+recall: 0
 ---
 
 # Présence audacieuse

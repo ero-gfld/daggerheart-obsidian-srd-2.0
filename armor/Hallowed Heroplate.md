@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hallowed Heroplate"
+tags:
+  - "daggerheart/armor"
+name: "Plate héroïque consacrée"
+tier: 4
+thresholds: "13/35"
+score: 7
+feature: "Béni : Une fois par repos long, vous pouvez dépenser autant d’Espoir que vous le voulez avant de faire le choix de mort « Tout risquer ». Vous gagnez un bonus au résultat de votre dé d’Espoir égal au nombre d’Espoir dépensé."
 ---
 
 # Plate héroïque consacrée

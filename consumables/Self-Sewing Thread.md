@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Self-Sewing Thread"
+tags:
+  - "daggerheart/consumable"
+name: "Fil auto-cousant"
+effect: "Vous pouvez utiliser ce fil pour libérer soit un Point de vie, soit 2 emplacements d’armure."
 ---
 
 # Fil auto-cousant

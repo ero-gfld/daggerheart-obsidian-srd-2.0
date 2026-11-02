@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Hallowed Soldier"
+tags:
+  - "daggerheart/adversary"
+name: "Soldat sanctifié"
+tier: 4
+type: "Sbire"
+description: "Des âmes de fidèles, élevées par des armes divines."
+difficulty: 18
+thresholds: "Aucun"
+hp: 1
+stress: 2
+atk: "+2"
+attack: "Épée et bouclier"
+range: "Mêlée"
+damage: "10 phy"
+motives_and_tactics: "Obéir, déjouer, punir, submerger"
+features:
+  - "Sbire (13) - Passif"
+  - "Vol divin - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Soldat sanctifié

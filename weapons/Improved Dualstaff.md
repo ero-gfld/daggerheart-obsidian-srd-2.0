@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Dualstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton double amélioré"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+6 mag"
+burden: "À deux mains"
 ---
 
 # Bâton double amélioré

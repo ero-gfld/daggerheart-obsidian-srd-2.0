@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Voice of Dread"
+tags:
+  - "daggerheart/domain-card"
+name: "Voix de l’Effroi"
+domain: "Effroi"
+level: 1
+type: "Sort"
+recall: 0
 ---
 
 # Voix de l’Effroi

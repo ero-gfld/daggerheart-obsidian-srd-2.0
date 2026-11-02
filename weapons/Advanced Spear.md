@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Spear"
+tags:
+  - "daggerheart/weapon"
+name: "Lance avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+9 phy"
+burden: "À deux mains"
 ---
 
 # Lance avancée

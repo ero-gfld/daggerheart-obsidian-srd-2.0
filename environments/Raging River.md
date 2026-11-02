@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Raging River"
+tags:
+  - "daggerheart/environment"
+name: "Rivière furieuse"
+tier: 1
+type: "Traversée"
+description: "Une rivière au courant rapide, sans pont, assez profonde pour emporter la plupart des gens."
+difficulty: 10
+impulses: "barrer la traversée, emporter les imprudents, diviser les terres"
+potential_adversaries: "Bêtes (Ours, Serpent de verre), Bandits des Lames dentelées (Envoûteur, Casse-genoux, Laquais, Lieutenant, Ombre, Tireur d’élite)"
+features:
+  - "Traversée périlleuse - Passif"
+  - "Ressac - Action"
+  - "Chasseur patient - Action"
 ---
 
 # Rivière furieuse

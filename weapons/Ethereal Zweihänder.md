@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Ethereal Zweihänder"
+tags:
+  - "daggerheart/weapon"
+name: "Zweihänder éthéré"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d10+9 mag"
+burden: "À deux mains"
+feature: "Éthéré : Vous devez marquer un Stress pour faire apparaître cette arme. Elle dure jusqu’à la fin de la scène."
 ---
 
 # Zweihänder éthéré

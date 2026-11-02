@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Longbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc long"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d8+3 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Arc long

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wall Walk"
+tags:
+  - "daggerheart/domain-card"
+name: "Marche sur les murs"
+domain: "Arcanes"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Marche sur les murs

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Grappler"
+tags:
+  - "daggerheart/weapon"
+name: "Grappin"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Proche"
+damage: "d6 phy"
+burden: "À une main"
+feature: "Accroché : Sur une attaque réussie, vous pouvez attirer la cible à portée de Mêlée."
 ---
 
 # Grappin

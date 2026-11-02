@@ -1,6 +1,19 @@
 ---
 aliases:
   - "School of War"
+tags:
+  - "daggerheart/subclass"
+name: "École de la Guerre"
+class: "Magicien"
+spellcast_trait: "Savoir"
+description: "Jouez l’École de la Guerre si vous voulez mettre une magie savamment entraînée au service de la violence."
+features:
+  - "Mage de guerre"
+  - "Affrontez votre peur"
+  - "Bouclier conjuré"
+  - "Nourri par la peur"
+  - "Prospérer dans le chaos"
+  - "N’ayez pas peur"
 ---
 
 # École de la Guerre

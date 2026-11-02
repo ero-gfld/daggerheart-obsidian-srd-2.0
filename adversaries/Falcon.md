@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Falcon"
+tags:
+  - "daggerheart/adversary"
+name: "Faucon"
+tier: 1
+type: "Furtif"
+description: "Un rapace aux longues ailes pointues et au bec échancré."
+difficulty: 12
+thresholds: "5/8"
+hp: 3
+stress: 3
+atk: "+2"
+attack: "Serres"
+range: "Mêlée"
+damage: "1d6+1 phy"
+motives_and_tactics: "Tourner en cercle, agripper, piquer, espionner"
+experience: "Sens aiguisés +4, Vol +3"
+features:
+  - "Volant agile - Passif"
+  - "Piqué - Action"
 ---
 
 # Faucon

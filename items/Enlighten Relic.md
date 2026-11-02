@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Enlighten Relic"
+tags:
+  - "daggerheart/item"
+name: "Relique d’illumination"
+effect: "Vous gagnez un bonus de +1 à votre Savoir. Vous ne pouvez porter qu’une seule relique."
 ---
 
 # Relique d’illumination

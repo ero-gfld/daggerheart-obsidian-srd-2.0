@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Drakona"
-description: "Drakona resemble wingless dragons in humanoid form and possess a powerful elemental breath."
+description: "Les drakona ressemblent à des dragons sans ailes sous forme humanoïde et possèdent un puissant souffle élémentaire."
 features:
-  - "Scales"
-  - "Elemental Breath"
+  - "Écailles"
+  - "Souffle élémentaire"
 ---
 
 # Drakona

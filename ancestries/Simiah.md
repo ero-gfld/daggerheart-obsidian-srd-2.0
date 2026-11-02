@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Simiah"
-description: "Simiah resemble anthropomorphic monkeys and apes with long limbs and prehensile feet."
+description: "Les simiah ressemblent à des singes et à des grands singes anthropomorphes, aux membres longs et aux pieds préhensiles."
 features:
-  - "Natural Climber"
-  - "Nimble"
+  - "Grimpeur né"
+  - "Leste"
 ---
 
 # Simiah

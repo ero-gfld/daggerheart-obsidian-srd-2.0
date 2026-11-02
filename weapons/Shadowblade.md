@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Shadowblade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame d’ombre"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8 phy/mag"
+burden: "À une main"
+feature: "D’outre-monde : Après une attaque réussie, vous pouvez infliger des dégâts physiques ou magiques."
 ---
 
 # Lame d’ombre

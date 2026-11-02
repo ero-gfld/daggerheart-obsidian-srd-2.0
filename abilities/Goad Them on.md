@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Goad Them on"
+tags:
+  - "daggerheart/domain-card"
+name: "Les aiguillonner"
+domain: "Vaillance"
+level: 4
+type: "Capacité"
+recall: 1
 ---
 
 # Les aiguillonner

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Wyrmlings"
+tags:
+  - "daggerheart/adversary"
+name: "Vermisseaux"
+tier: 4
+type: "Horde"
+horde: 3
+description: "Une couvée de dragons fraîchement éclos. À la naissance, ils sont furieux, affamés et stupides."
+difficulty: 17
+thresholds: "25/45"
+hp: 8
+stress: 5
+atk: "+2"
+attack: "Petites mâchoires et griffes"
+range: "Mêlée"
+damage: "4d6+10 phy"
+motives_and_tactics: "Dévorer, déchiqueter, submerger"
+experience: "Lien draconique +2"
+features:
+  - "Horde (2d6+5) - Passif"
+  - "Vorace - Réaction"
+  - "Submersion - Réaction"
 ---
 
 # Vermisseaux

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wild Surge"
+tags:
+  - "daggerheart/domain-card"
+name: "Déferlement sauvage"
+domain: "Nature"
+level: 7
+type: "Sort"
+recall: 2
 ---
 
 # Déferlement sauvage

@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Crimson Lepus"
+tags:
+  - "daggerheart/adversary"
+name: "Lièvre cramoisi"
+tier: 3
+type: "Solo"
+description: "Lapin aux yeux rouges qui ne pense qu’au meurtre."
+difficulty: 18
+thresholds: "20/35"
+hp: 10
+stress: 6
+atk: "+3"
+attack: "Morsure bondissante"
+range: "Très proche"
+damage: "3d20 phy"
+motives_and_tactics: "Faire le mignon, viser la gorge, sautiller"
+experience: "Féroce +4"
+features:
+  - "Implacable (3) - Passif"
+  - "« Oh, qu’il est mignon… » - Passif"
+  - "Terrifiant - Passif"
+  - "Bond jugulaire - Action"
+  - "Esquive - Réaction"
+  - "« Fuyez ! » - Réaction"
 ---
 
 # Lièvre cramoisi

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Additional GM Guidance"
+tags:
+  - "daggerheart/rules"
+name: "Conseils supplémentaires pour le MJ"
+description: "Cette section propose des conseils supplémentaires pour préparer et mener une séance de Daggerheart."
 ---
 
 # Conseils supplémentaires pour le MJ

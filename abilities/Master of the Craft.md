@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Master of the Craft"
+tags:
+  - "daggerheart/domain-card"
+name: "Maître artisan"
+domain: "Grâce"
+level: 9
+type: "Capacité"
+recall: 0
 ---
 
 # Maître artisan

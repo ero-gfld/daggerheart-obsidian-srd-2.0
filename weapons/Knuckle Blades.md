@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Knuckle Blades"
+tags:
+  - "daggerheart/weapon"
+name: "Lames de poing"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+6 phy"
+burden: "À deux mains"
+feature: "Brutal : Quand vous obtenez la valeur maximale sur un dé de dégâts, lancez un dé de dégâts supplémentaire."
 ---
 
 # Lames de poing

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Jagged Knife Lieutenant"
+tags:
+  - "daggerheart/adversary"
+name: "Lieutenant des Lames dentelées"
+tier: 1
+type: "Meneur"
+description: "Un bandit aguerri, vêtu de cuir de qualité, à la voix forte et au regard malin."
+difficulty: 13
+thresholds: "7/14"
+hp: 6
+stress: 3
+atk: "+2"
+attack: "Javeline"
+range: "Proche"
+damage: "1d8+3 phy"
+motives_and_tactics: "Brutaliser, commander, faire du profit, renforcer ses rangs"
+experience: "Savoir local +2"
+features:
+  - "Tacticien - Action"
+  - "Il y en a d’autres - Action"
+  - "Coup de grâce - Action"
+  - "Élan - Réaction"
 ---
 
 # Lieutenant des Lames dentelées

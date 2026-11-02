@@ -1,6 +1,30 @@
 ---
 aliases:
   - "Volcanic Dragon: Ashen Tyrant"
+tags:
+  - "daggerheart/adversary"
+name: "Dragon volcanique : tyran des cendres"
+tier: 4
+type: "Solo"
+description: "Aucun ennemi n’a jamais eu l’insolence de blesser ainsi le dragon. Quand la lave retombe, il est réduit en cendres, comme ses anciens adversaires."
+difficulty: 18
+thresholds: "29/55"
+hp: 8
+stress: 5
+atk: "+10"
+attack: "Griffes et crocs"
+range: "Proche"
+damage: "4d12+15 phy"
+motives_and_tactics: "Étrangler, voler, intimider, tuer ou être tué"
+experience: "Chasse depuis les airs +5"
+features:
+  - "Implacable (4) - Passif"
+  - "Acculé - Passif"
+  - "Ailes blessées - Passif"
+  - "De la cendre à la cendre - Passif"
+  - "Déchaînement désespéré - Action"
+  - "Nuée de cendres - Action"
+  - "Convulsions apocalyptiques - Action : Compte à rebours (1d12)"
 ---
 
 # Dragon volcanique : tyran des cendres

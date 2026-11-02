@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Heist"
+tags:
+  - "daggerheart/environment"
+name: "Casse"
+tier: 2
+type: "Événement"
+description: "Le groupe doit pénétrer dans un lieu caché ou bien protégé pour s’emparer des informations ou des objets qu’il renferme."
+difficulty: 14
+impulses: "faire préparer le groupe, le diviser, dresser des obstacles, l’enfermer, épuiser ses ressources"
+potential_adversaries: "Garde en chef, Minotaure destructeur, Gardien des secrets, Gardien spectral"
+features:
+  - "Préparatifs - Passif"
+  - "Infiltration - Passif"
+  - "Je l’avais prévu - Passif"
+  - "Exfiltration - Réaction"
+  - "Donner l’alerte - Réaction"
 ---
 
 # Casse

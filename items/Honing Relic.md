@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Honing Relic"
+tags:
+  - "daggerheart/item"
+name: "Relique d’affûtage"
+effect: "Vous gagnez un bonus de +1 à une Expérience de votre choix. Vous ne pouvez porter qu’une seule relique."
 ---
 
 # Relique d’affûtage

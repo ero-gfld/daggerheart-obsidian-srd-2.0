@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Tell No Lies"
+tags:
+  - "daggerheart/domain-card"
+name: "Pas de mensonge"
+domain: "Grâce"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Pas de mensonge

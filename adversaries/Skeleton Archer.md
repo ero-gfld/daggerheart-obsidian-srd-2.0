@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Skeleton Archer"
+tags:
+  - "daggerheart/adversary"
+name: "Squelette archer"
+tier: 1
+type: "Tireur"
+description: "Un squelette fragile armé d'un arc court et de flèches."
+difficulty: 9
+thresholds: "4/7"
+hp: 3
+stress: 2
+atk: "+2"
+attack: "Arc court"
+range: "Loin"
+damage: "1d8+1 phy"
+motives_and_tactics: "Percer les cibles distraites, faire le mort, voler la peau"
+features:
+  - "Opportuniste - Passif"
+  - "Tir mortel - Action"
 ---
 
 # Squelette archer

@@ -1,6 +1,14 @@
 ---
 aliases:
   - "The Witherwild"
+tags:
+  - "daggerheart/campaign-frame"
+name: "La Friche flétrie"
+description: "Lorsqu’une nation conquérante s’en prend à une antique divinité de la forêt, une prolifération virulente se répand sur toute la contrée."
+complexity: 1
+tone: "Aventureux, Dynamique, Épique, Héroïque, Palpitant, Étrange, Fantasque"
+themes: "Choc des cultures, La fin justifie les moyens, Deuil, L’humain contre la nature, Transformation et changement, Survie"
+touchstones: "Princesse Mononoké, The Legend of Zelda, Dark Crystal, Nausicaä de la Vallée du Vent"
 ---
 
 # La Friche flétrie

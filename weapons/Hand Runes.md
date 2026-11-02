@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Hand Runes"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de main"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d10 mag"
+burden: "À une main"
 ---
 
 # Runes de main

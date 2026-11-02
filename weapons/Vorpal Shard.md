@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Vorpal Shard"
+tags:
+  - "daggerheart/weapon"
+name: "Éclat vorpal"
+tier: 3
+category: "Secondaire"
+type: "Magique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d4 mag"
+burden: "À une main"
+feature: "Ciblé : Quand vous ratez une attaque avec une arme, vous pouvez dépenser un Espoir pour réussir votre prochaine attaque avec une arme."
 ---
 
 # Éclat vorpal

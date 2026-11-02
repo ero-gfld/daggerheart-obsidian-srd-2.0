@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Invisibility"
+tags:
+  - "daggerheart/domain-card"
+name: "Invisibilité"
+domain: "Grâce"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Invisibilité

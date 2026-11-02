@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bloodstone Plate Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de plates en pierre de sang"
+tier: 3
+thresholds: "13/35"
+score: 6
+feature: "Sanguinaire : Lorsque vous obtenez un succès critique sur une attaque avec une arme à portée de Mêlée, évacuez un Point de vie."
 ---
 
 # Armure de plates en pierre de sang

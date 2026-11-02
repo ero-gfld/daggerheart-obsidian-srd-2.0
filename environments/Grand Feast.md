@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Grand Feast"
+tags:
+  - "daggerheart/environment"
+name: "Grand festin"
+tier: 1
+type: "Social"
+description: "Une fête communautaire, avec bien trop à boire, à manger et à s’amuser."
+difficulty: 11
+impulses: "rassembler tout le monde, célébrer un moment mémorable, encourager l’abandon festif"
+potential_adversaries: "Apprenti assassin, Garde, Marchand, Petit noble, Mercenaire, Espion"
+features:
+  - "Langues déliées, amis vite faits - Passif"
+  - "Le divertissement du soir - Action"
+  - "« Il y en a toujours un… » - Action"
+  - "Dernier verre - Réaction"
 ---
 
 # Grand festin

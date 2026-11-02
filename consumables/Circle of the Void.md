@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Circle of the Void"
+tags:
+  - "daggerheart/consumable"
+name: "Cercle du vide"
+effect: "Marquez un Stress pour créer un vide qui s’étend jusqu’à portée Loin. Aucune magie ne peut être lancée à l’intérieur du vide, et les créatures qui s’y trouvent bénéficient de l’immunité contre les dégâts magiques."
 ---
 
 # Cercle du vide

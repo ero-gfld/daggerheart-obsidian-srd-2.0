@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Fallen Warlord: Realm-Breaker"
+tags:
+  - "daggerheart/adversary"
+name: "Seigneur de guerre déchu : briseur de royaumes"
+tier: 4
+type: "Solo"
+description: "Un Dieu déchu, enveloppé de rage et de ressentiment, qui porte des millénaires d’expérience à briser l’esprit des héros."
+difficulty: 20
+thresholds: "36/66"
+hp: 8
+stress: 5
+atk: "+7"
+attack: "Fouet barbelé"
+range: "Proche"
+damage: "4d8+7 phy"
+motives_and_tactics: "Corrompre, dominer, punir, briser les faibles"
+experience: "Conquête +3, Histoire +2, Intimidation +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Armure de plates Firespite - Passif"
+  - "Fouet tourmenteur - Action"
+  - "Rage dévorante - Réaction : compte à rebours décroissant (8)"
+  - "Porteur de perdition - Réaction"
+  - "Je n’ai jamais connu la défaite (changement de phase) - Réaction"
 ---
 
 # Seigneur de guerre déchu : briseur de royaumes

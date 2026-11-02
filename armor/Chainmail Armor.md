@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Chainmail Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de mailles"
+tier: 1
+thresholds: "7/15"
+score: 4
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Cotte de mailles

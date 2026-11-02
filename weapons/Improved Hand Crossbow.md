@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Hand Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète de poing améliorée"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+3 phy"
+burden: "À une main"
 ---
 
 # Arbalète de poing améliorée

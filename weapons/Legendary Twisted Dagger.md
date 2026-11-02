@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Twisted Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague tordue légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d8+9 phy"
+burden: "À une main"
+feature: "Perforant : Les dégâts infligés avec cette arme traitent le seuil de dégâts majeurs de la cible comme ayant un malus de −2."
 ---
 
 # Dague tordue légendaire

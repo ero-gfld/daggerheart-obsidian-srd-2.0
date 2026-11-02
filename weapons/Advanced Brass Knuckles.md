@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Brass Knuckles"
+tags:
+  - "daggerheart/weapon"
+name: "Coups-de-poing en laiton avancés"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+7 phy"
+burden: "À une main"
 ---
 
 # Coups-de-poing en laiton avancés

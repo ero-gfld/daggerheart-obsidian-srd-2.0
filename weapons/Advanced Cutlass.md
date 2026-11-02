@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Cutlass"
+tags:
+  - "daggerheart/weapon"
+name: "Coutelas avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+7 phy"
+burden: "À une main"
 ---
 
 # Coutelas avancé

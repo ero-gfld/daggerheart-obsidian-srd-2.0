@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Quarterstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton de combat"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d10+3 phy"
+burden: "À deux mains"
 ---
 
 # Bâton de combat

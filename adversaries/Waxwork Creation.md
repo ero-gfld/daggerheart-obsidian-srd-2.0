@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Waxwork Creation"
+tags:
+  - "daggerheart/adversary"
+name: "Créature de cire"
+tier: 1
+type: "Solo"
+description: "Une construction de cire de bougie semi-solide (et semi-consciente), haute de trois mètres."
+difficulty: 13
+thresholds: "8/15"
+hp: 10
+stress: 3
+atk: "+2"
+attack: "Poings"
+range: "Très proche"
+damage: "1d20 phy"
+motives_and_tactics: "Avancer d’un pas lourd et menaçant, gémir sous la douleur de sa non-vie, étouffer"
+experience: "De taille géante +2"
+features:
+  - "Implacable (2) - Passif"
+  - "Aucun organe vital - Passif"
+  - "Boule de cire - Action"
+  - "Schlouk ! - Réaction"
+  - "Étreinte étouffante - Réaction"
 ---
 
 # Créature de cire

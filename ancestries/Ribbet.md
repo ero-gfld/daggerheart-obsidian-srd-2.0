@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Ribbet"
-description: "Ribbets resemble anthropomorphic frogs with protruding eyes and webbed hands and feet."
+description: "Les ribbets ressemblent à des grenouilles anthropomorphes aux yeux globuleux et aux mains et aux pieds palmés."
 features:
-  - "Amphibious"
-  - "Long Tongue"
+  - "Amphibie"
+  - "Longue langue"
 ---
 
 # Ribbet

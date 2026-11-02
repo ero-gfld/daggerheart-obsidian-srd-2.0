@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Clank"
-description: "Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone."
+description: "Les clanks sont des êtres mécaniques doués de conscience, construits dans des matériaux variés, dont le métal, le bois et la pierre."
 features:
-  - "Purposeful Design"
-  - "Efficient"
+  - "Conception réfléchie"
+  - "Efficace"
 ---
 
 # Clank

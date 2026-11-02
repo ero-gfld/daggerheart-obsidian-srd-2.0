@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Premonition"
+tags:
+  - "daggerheart/domain-card"
+name: "Prémonition"
+domain: "Arcanes"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Prémonition

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Steelforged Halberd"
+tags:
+  - "daggerheart/weapon"
+name: "Hallebarde forgée en acier"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Très proche"
+damage: "d8+4 phy"
+burden: "À deux mains"
+feature: "Effrayant : Sur une attaque réussie, la cible doit marquer un Stress."
 ---
 
 # Hallebarde forgée en acier

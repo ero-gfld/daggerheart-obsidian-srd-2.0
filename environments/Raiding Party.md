@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Raiding Party"
+tags:
+  - "daggerheart/environment"
+name: "Troupe de pillards"
+tier: 1
+type: "Événement"
+description: "Un navire pirate déverse son équipage sur une ville portuaire ou un village du littoral, pour piller et saccager."
+difficulty: 11
+impulses: "Y mettre le feu, submerger par la vitesse et le nombre, emporter tout ce qui n’est pas cloué"
+potential_adversaries: "Équipage du navire (Capitaine corsaire, Maraudeurs corsaires, Costaud corsaire)"
+features:
+  - "Rassembler les habitants - Passif"
+  - "Parlementer - Passif"
+  - "« Feu aux canons ! » - Action"
+  - "Prendre des captifs - Réaction"
 ---
 
 # Troupe de pillards

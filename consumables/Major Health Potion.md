@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Major Health Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de soins majeure"
+effect: "Libérez 1d4+2 PV."
 ---
 
 # Potion de soins majeure

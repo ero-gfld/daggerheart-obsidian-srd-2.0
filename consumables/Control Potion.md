@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Control Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de contrôle"
+effect: "Vous gagnez un bonus de +1 à votre prochain jet de Finesse."
 ---
 
 # Potion de contrôle

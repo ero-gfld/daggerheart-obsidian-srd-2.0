@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Volcanic Dragon: Obsidian Predator"
+tags:
+  - "daggerheart/adversary"
+name: "Dragon volcanique : prédateur d’obsidienne"
+tier: 4
+type: "Solo"
+description: "Une créature ailée massive aux écailles d’obsidienne et aux griffes d’une acuité effrayante."
+difficulty: 19
+thresholds: "33/65"
+hp: 6
+stress: 5
+atk: "+8"
+attack: "Griffes d’obsidienne"
+range: "Proche"
+damage: "4d10+4 phy"
+motives_and_tactics: "Défendre son repaire, piquer en chute, voler, chasser, intimider"
+experience: "Chasse depuis les airs +5"
+features:
+  - "Implacable (2) - Passif"
+  - "Vol - Passif"
+  - "Écailles d’obsidienne - Passif"
+  - "Queue d’avalanche - Action"
+  - "Plongée bombardière - Action"
+  - "Rage éruptive (changement de phase) - Réaction"
 ---
 
 # Dragon volcanique : prédateur d’obsidienne

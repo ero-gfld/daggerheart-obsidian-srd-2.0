@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Flock of Feather Fiends"
+tags:
+  - "daggerheart/adversary"
+name: "Volée de démons à plumes"
+tier: 2
+type: "Horde"
+horde: 3
+description: "Une volée de cadavres de corbeaux, les yeux brillant d’une lumière nécroplasmique."
+difficulty: 14
+thresholds: "10/20"
+hp: 5
+stress: 3
+atk: "+0"
+attack: "Bec et griffes"
+range: "Mêlée"
+damage: "2d6+2 mag"
+motives_and_tactics: "Croasser sans relâche, griffer les visages, voleter dans les airs, crever les yeux"
+experience: "Vol +2, Essaim +2"
+features:
+  - "Horde (1d6+1) - Passif"
+  - "Cacophonie démente - Action"
 ---
 
 # Volée de démons à plumes

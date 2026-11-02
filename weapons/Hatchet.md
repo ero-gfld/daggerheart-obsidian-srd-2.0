@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Hatchet"
+tags:
+  - "daggerheart/weapon"
+name: "Hachette"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8 phy"
+burden: "À une main"
+feature: "Enchaînement : Sur une attaque réussie avec votre arme principale à portée Mêlée, vous pouvez marquer un Stress pour gagner un bonus de +1 à votre Maîtrise pour cette attaque."
 ---
 
 # Hachette

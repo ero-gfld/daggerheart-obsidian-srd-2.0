@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Vial of Darksmoke Recipe"
+tags:
+  - "daggerheart/item"
+name: "Recette de fiole de fumée noire"
+effect: "En tant qu’action de repos, vous pouvez marquer un Stress pour fabriquer une fiole de fumée noire."
 ---
 
 # Recette de fiole de fumée noire

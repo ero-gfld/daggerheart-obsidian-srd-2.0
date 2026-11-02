@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Trollhide Cuirass"
+tags:
+  - "daggerheart/armor"
+name: "Cuirasse de peau de troll"
+tier: 2
+thresholds: "11/23"
+score: 5
+feature: "Autoguérissant : Lorsque vous prenez un repos, évacuez un Emplacement d’armure."
 ---
 
 # Cuirasse de peau de troll

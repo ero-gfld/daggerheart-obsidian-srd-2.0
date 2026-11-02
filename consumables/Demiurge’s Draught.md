@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Demiurge’s Draught"
+tags:
+  - "daggerheart/consumable"
+name: "Philtre du démiurge"
+effect: "Vous pouvez boire ce philtre pour gagner un bonus de +1 à votre Maîtrise pour votre prochain jet d’attaque réussi."
 ---
 
 # Philtre du démiurge

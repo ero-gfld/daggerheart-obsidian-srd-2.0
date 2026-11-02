@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Frostborne"
+tags:
+  - "daggerheart/community"
+name: "Né du givre"
+description: "Faire partie d’une communauté de Nés du givre, c’est venir d’un pays de neige et de glace."
+traits: "rusés, sociables, intrépides, déterminés, discrets et chaleureux"
+features:
+  - "Endurci"
 ---
 
 # Né du givre

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Darkweave Crawler"
+tags:
+  - "daggerheart/adversary"
+name: "Rampeur tisse-ténèbres"
+tier: 1
+type: "Sbire"
+description: "Araignée de la taille d’une tête humaine, tissée dans une soie d’ombre."
+difficulty: 10
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-2"
+attack: "Morsure"
+range: "Mêlée"
+damage: "2 phy"
+motives_and_tactics: "Se cacher dans l’ombre, frapper les imprudents, attendre une ouverture"
+experience: "Ténèbres +3"
+features:
+  - "Sbire (3) - Passif"
+  - "Frisson rampant - Action"
+  - "Attaque de groupe - Action"
+  - "Venin tisse-ténèbres - Réaction"
 ---
 
 # Rampeur tisse-ténèbres

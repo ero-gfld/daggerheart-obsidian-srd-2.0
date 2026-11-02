@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Greatstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Grand bâton légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Très loin"
+damage: "d6+9 mag"
+burden: "À deux mains"
+feature: "Puissant : En cas d’attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible."
 ---
 
 # Grand bâton légendaire

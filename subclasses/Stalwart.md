@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Stalwart"
+tags:
+  - "daggerheart/subclass"
+name: "Inébranlable"
+class: "Gardien"
+description: "Jouez l’Inébranlable si vous voulez encaisser de lourds coups et continuer à vous battre."
+features:
+  - "Constant"
+  - "Volonté de fer"
+  - "Opiniâtre"
+  - "Frères d’armes"
+  - "Intrépide"
+  - "Protecteur loyal"
 ---
 
 # Inébranlable

@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Spellbound Bangles"
+tags:
+  - "daggerheart/weapon"
+name: "Bracelets envoûtés"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d10+6 mag"
+burden: "À deux mains"
 ---
 
 # Bracelets envoûtés

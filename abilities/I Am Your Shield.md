@@ -1,6 +1,13 @@
 ---
 aliases:
   - "I Am Your Shield"
+tags:
+  - "daggerheart/domain-card"
+name: "Je suis ton bouclier"
+domain: "Vaillance"
+level: 1
+type: "Capacité"
+recall: 1
 ---
 
 # Je suis ton bouclier

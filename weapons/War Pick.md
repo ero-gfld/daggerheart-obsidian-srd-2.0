@@ -1,6 +1,17 @@
 ---
 aliases:
   - "War Pick"
+tags:
+  - "daggerheart/weapon"
+name: "Pic de guerre"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Mortel : Quand vous infligez des dégâts sévères, la cible doit marquer un Point de vie supplémentaire."
 ---
 
 # Pic de guerre

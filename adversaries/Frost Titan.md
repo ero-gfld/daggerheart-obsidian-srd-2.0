@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Frost Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan de givre"
+tier: 3
+type: "Cogneur"
+description: "Un goliath à la peau bleue et aux cheveux couverts de givre, qui porte les trophées de ses anciens combats."
+difficulty: 17
+thresholds: "22/40"
+hp: 10
+stress: 4
+atk: "+7"
+attack: "Deux haches"
+range: "Très proche"
+damage: "3d10+2 phy"
+motives_and_tactics: "Réclamer des trophées, piller et ravager, éprouver la valeur des autres"
+experience: "Froid +3, Guerre +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Cor de guerre - Action"
+  - "Charge brutale - Action"
+  - "Frappe tranchante - Réaction"
+  - "Chasseur de trophées - Réaction"
 ---
 
 # Titan de givre

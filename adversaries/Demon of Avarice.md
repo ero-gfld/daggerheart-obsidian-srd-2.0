@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Demon of Avarice"
+tags:
+  - "daggerheart/adversary"
+name: "Démon de l’Avarice"
+tier: 3
+type: "Soutien"
+description: "Monstruosité royale drapée d’une cape, aux cornes circulaires ornées de trésors."
+difficulty: 17
+thresholds: "15/29"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Gueule vorace"
+range: "Mêlée"
+damage: "3d6+5 mag"
+motives_and_tactics: "Consumer, attiser la cupidité, semer la discorde"
+experience: "Manipulation +3"
+features:
+  - "L’argent parle - Passif"
+  - "Les chiffres doivent monter - Passif"
+  - "L’argent, c’est du temps - Action"
 ---
 
 # Démon de l’Avarice

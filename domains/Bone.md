@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Bone"
+tags:
+  - "daggerheart/domain"
+name: "Os"
+description: "L’Os est le domaine de la tactique et du corps."
+classes:
+  - "Bagarreur"
+  - "Rôdeur"
+  - "Guerrier"
+cards: 21
 ---
 
 # Os

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "InfernIs"
+tags:
+  - "daggerheart/ancestry"
+name: "Infernis"
+description: "Les infernis sont des humanoïdes aux canines acérées, aux oreilles pointues et aux cornes."
+features:
+  - "Sans peur"
+  - "Visage d’effroi"
 ---
 
 # Infernis

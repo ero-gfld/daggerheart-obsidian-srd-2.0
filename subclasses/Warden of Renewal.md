@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Warden of Renewal"
+tags:
+  - "daggerheart/subclass"
+name: "Veilleur du renouveau"
+class: "Druide"
+spellcast_trait: "Instinct"
+description: "Jouez le Veilleur du renouveau si vous voulez user d’une puissante magie pour soigner votre groupe."
+features:
+  - "Clarté de la nature"
+  - "Régénération"
+  - "Régénération à distance"
+  - "Protection du veilleur"
+  - "Défenseur"
 ---
 
 # Veilleur du renouveau

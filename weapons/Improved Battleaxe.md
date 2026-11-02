@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Battleaxe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache de bataille améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+6 phy"
+burden: "À deux mains"
 ---
 
 # Hache de bataille améliorée

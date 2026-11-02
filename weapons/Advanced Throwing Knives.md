@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Throwing Knives"
+tags:
+  - "daggerheart/weapon"
+name: "Couteaux de lancer avancés"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
+feature: "Approvisionné : Vous pouvez lancer cette arme à portée Proche en faisant un jet d’attaque avec Finesse. Vous n’avez pas besoin de la récupérer, car vous en avez toujours une autre en main."
 ---
 
 # Couteaux de lancer avancés

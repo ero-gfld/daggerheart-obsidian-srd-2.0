@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Second Wind"
+tags:
+  - "daggerheart/domain-card"
+name: "Second souffle"
+domain: "Splendeur"
+level: 3
+type: "Capacité"
+recall: 2
 ---
 
 # Second souffle

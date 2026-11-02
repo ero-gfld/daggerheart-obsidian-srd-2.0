@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Disintegration Wave"
+tags:
+  - "daggerheart/domain-card"
+name: "Vague désintégrante"
+domain: "Codex"
+level: 9
+type: "Sort"
+recall: 4
 ---
 
 # Vague désintégrante

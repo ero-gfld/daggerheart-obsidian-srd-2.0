@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Stonewraith"
+tags:
+  - "daggerheart/adversary"
+name: "Spectre de pierre"
+tier: 2
+type: "Furtif"
+description: "Un chasseur aux aguets, qui se glisse comme un lion de montagne, au corps de pierre gris ardoise."
+difficulty: 13
+thresholds: "11/22"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Morsure et griffes"
+range: "Mêlée"
+damage: "2d8+6 phy"
+motives_and_tactics: "Défendre son territoire, isoler sa proie, traquer"
+experience: "Sens de la pierre +3"
+features:
+  - "Marcheur de pierre - Passif"
+  - "Embuscade rocheuse - Action"
+  - "Rugissement d’avalanche - Action"
+  - "Élan - Réaction"
 ---
 
 # Spectre de pierre

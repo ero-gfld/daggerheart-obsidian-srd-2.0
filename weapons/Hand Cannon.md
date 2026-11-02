@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Hand Cannon"
+tags:
+  - "daggerheart/weapon"
+name: "Canon de main"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très loin"
+damage: "d6+12 phy"
+burden: "À une main"
+feature: "Rechargement : Après une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un Stress pour recharger cette arme avant de pouvoir tirer à nouveau."
 ---
 
 # Canon de main

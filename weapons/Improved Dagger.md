@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
 ---
 
 # Dague améliorée

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Stamina Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion d’endurance"
+effect: "Évacuez 1d4+1 Stress."
 ---
 
 # Potion d’endurance

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Salvation Beam"
+tags:
+  - "daggerheart/domain-card"
+name: "Rayon de salut"
+domain: "Splendeur"
+level: 9
+type: "Sort"
+recall: 2
 ---
 
 # Rayon de salut

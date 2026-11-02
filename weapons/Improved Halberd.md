@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Halberd"
+tags:
+  - "daggerheart/weapon"
+name: "Hallebarde améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Très proche"
+damage: "d10+5 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 en Finesse"
 ---
 
 # Hallebarde améliorée

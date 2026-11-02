@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Duneborne"
+tags:
+  - "daggerheart/community"
+name: "Né des dunes"
+description: "Faire partie d’une communauté de Nés des dunes, c’est avoir fait son foyer parmi les sables mouvants et sous le climat aride du désert."
+traits: "adaptables, posés, coopératifs, dévoués, joyeux et observateurs"
+features:
+  - "Oasis"
 ---
 
 # Né des dunes

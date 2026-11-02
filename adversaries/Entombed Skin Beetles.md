@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Entombed Skin Beetles"
+tags:
+  - "daggerheart/adversary"
+name: "Scarabées de peau des tombes"
+tier: 2
+type: "Horde"
+horde: 5
+description: "Scarabées mangeurs de chair qui creusent sous la peau."
+difficulty: 14
+thresholds: "10/20"
+hp: 5
+stress: 3
+atk: "+0"
+attack: "Pinces"
+range: "Mêlée"
+damage: "2d8+2 phy"
+motives_and_tactics: "Recouvrir le sol, consumer les vivants, ramper sous les vêtements"
+experience: "Tombes +3"
+features:
+  - "Horde (2d4+1) - Passif"
+  - "Élan - Passif"
+  - "Omophagie - Action"
 ---
 
 # Scarabées de peau des tombes

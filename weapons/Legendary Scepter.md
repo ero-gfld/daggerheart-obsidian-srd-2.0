@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Scepter"
+tags:
+  - "daggerheart/weapon"
+name: "Sceptre légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Loin"
+damage: "d6+9 mag"
+burden: "À deux mains"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces statistiques : Présence, Mêlée, d8+6."
 ---
 
 # Sceptre légendaire

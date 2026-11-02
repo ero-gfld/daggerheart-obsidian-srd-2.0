@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Scepter of Elias"
+tags:
+  - "daggerheart/weapon"
+name: "Sceptre d’Elias"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Loin"
+damage: "d6+3 mag"
+burden: "À une main"
+feature: "Revigorant : Après une attaque réussie, lancez un d4. Sur un résultat de 4, évacuez un Stress."
 ---
 
 # Sceptre d’Elias

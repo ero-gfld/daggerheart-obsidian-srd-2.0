@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Longbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc long amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d8+6 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 en Finesse"
 ---
 
 # Arc long amélioré

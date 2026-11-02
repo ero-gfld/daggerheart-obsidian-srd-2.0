@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Treant Sapling"
+tags:
+  - "daggerheart/adversary"
+name: "Jeune ent"
+tier: 3
+type: "Sbire"
+description: "Un petit arbre sensible, encore jeune."
+difficulty: 14
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Branches"
+range: "Mêlée"
+damage: "8 phy"
+motives_and_tactics: "Se fondre dans le décor, protéger la forêt, rouer de coups, encercler"
+features:
+  - "Sbire (6) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Jeune ent

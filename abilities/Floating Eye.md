@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Floating Eye"
+tags:
+  - "daggerheart/domain-card"
+name: "Œil flottant"
+domain: "Arcanes"
+level: 2
+type: "Sort"
+recall: 0
 ---
 
 # Œil flottant

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Improved Mage Robes"
+tags:
+  - "daggerheart/armor"
+name: "Robes de mage améliorées"
+tier: 2
+thresholds: "6/15"
+score: 3
+feature: "Enchanté : Gagnez un bonus à vos seuils de dégâts égal à votre caractéristique d’Incantation."
 ---
 
 # Robes de mage améliorées

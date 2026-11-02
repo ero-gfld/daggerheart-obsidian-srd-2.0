@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Advanced Chainmail Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de mailles avancée"
+tier: 3
+thresholds: "13/31"
+score: 6
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Cotte de mailles avancée

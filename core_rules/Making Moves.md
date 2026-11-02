@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Making Moves"
+tags:
+  - "daggerheart/rules"
+name: "Les actions du MJ"
+description: "En tant que MJ, vous disposez d’actions du MJ qui font évoluer l’histoire en réponse aux actes des joueurs."
 ---
 
 # Les actions du MJ

@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Giant Scorpion"
+tags:
+  - "daggerheart/adversary"
+name: "Scorpion géant"
+tier: 1
+type: "Cogneur"
+description: "Un arachnide de la taille d’un humain, aux griffes déchirantes et à la queue venimeuse."
+difficulty: 13
+thresholds: "7/13"
+hp: 6
+stress: 3
+atk: "+1"
+attack: "Pinces"
+range: "Mêlée"
+damage: "1d12+2 phy"
+motives_and_tactics: "Tendre une embuscade, se nourrir, agripper, empoisonner"
+experience: "Camouflage +2"
+features:
+  - "Double frappe - Action"
+  - "Dard venimeux - Action"
+  - "Élan - Réaction"
 ---
 
 # Scorpion géant

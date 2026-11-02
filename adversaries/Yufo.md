@@ -4,22 +4,22 @@ tags:
 name: "Yufo"
 tier: 1
 type: "Social"
-description: "A large, interdimensional jellyfishlike creature that floats in and out of the timestream."
+description: "Une grande créature interdimensionnelle, semblable à une méduse, qui flotte dans le flux du temps et en sort."
 difficulty: 14
 thresholds: "6/10"
 hp: 3
 stress: 5
 atk: "-3"
-attack: "Tentacle Lash"
-range: "Very Close"
+attack: "Fouet tentaculaire"
+range: "Très proche"
 damage: "1d6+3 phy"
-motives_and_tactics: "Exchange information about possible timelines, feed on heightened emotions, watch from the shadows"
-experience: "Secrets +3, Floating Oddity +3"
+motives_and_tactics: "Échanger des informations sur les lignes temporelles possibles, se nourrir des émotions exacerbées, observer depuis l’ombre"
+experience: "Secrets +3, Curiosité flottante +3"
 features:
-  - "Telepathic - Passive"
-  - "Psychic Strongbox - Passive"
-  - "Glitch Wave - Action"
-  - "Temporal Corrosion - Reaction"
+  - "Télépathe - Passif"
+  - "Coffre psychique - Passif"
+  - "Vague de dérèglement - Action"
+  - "Corrosion temporelle - Réaction"
 ---
 
 # Yufo

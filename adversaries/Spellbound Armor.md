@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Spellbound Armor"
+tags:
+  - "daggerheart/adversary"
+name: "Armure ensorcelée"
+tier: 1
+type: "Cogneur"
+description: "Une armure de plates complète et vide, qui luit d’une faible auréole de lumière spectrale."
+difficulty: 10
+thresholds: "9/17"
+hp: 6
+stress: "Aucun"
+atk: "+0"
+attack: "Zweihänder"
+range: "Très proche"
+damage: "1d10+1 phy"
+motives_and_tactics: "Cliqueter bruyamment, se mouvoir comme un mécanisme d’horlogerie, observer en silence"
+experience: "Gardien +2"
+features:
+  - "Infatigable - Passif"
+  - "Cliquetis et remise en place - Réaction"
 ---
 
 # Armure ensorcelée

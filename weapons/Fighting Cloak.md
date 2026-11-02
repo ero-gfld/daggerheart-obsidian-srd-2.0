@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Fighting Cloak"
+tags:
+  - "daggerheart/weapon"
+name: "Cape de combat"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d4 phy"
+burden: "À une main"
+feature: "Rembourré : +2 aux seuils de dégâts"
 ---
 
 # Cape de combat

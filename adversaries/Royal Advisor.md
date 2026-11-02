@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Royal Advisor"
+tags:
+  - "daggerheart/adversary"
+name: "Conseiller royal"
+tier: 2
+type: "Social"
+description: "Un courtisan de haut rang, à l'oreille de la noblesse locale."
+difficulty: 14
+thresholds: "8/15"
+hp: 3
+stress: 3
+atk: "-3"
+attack: "Baguette"
+range: "Loin"
+damage: "1d4+3 phy"
+motives_and_tactics: "Flatter pour gagner des faveurs, fabriquer des preuves, comploter"
+experience: "Administration +3, Courtisan +3"
+features:
+  - "Réplique cinglante - Passif"
+  - "Oreilles attentives - Action"
+  - "Bouc émissaire - Action"
 ---
 
 # Conseiller royal

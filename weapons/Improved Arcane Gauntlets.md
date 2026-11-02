@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Arcane Gauntlets"
+tags:
+  - "daggerheart/weapon"
+name: "Gantelets arcaniques améliorés"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+6 mag"
+burden: "À deux mains"
 ---
 
 # Gantelets arcaniques améliorés

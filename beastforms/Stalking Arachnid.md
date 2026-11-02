@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Stalking Arachnid"
+tags:
+  - "daggerheart/beastform"
+name: "Arachnide traqueur"
+tier: 1
+examples: "Tarentule, lycose, etc."
+trait_bonus: "Finesse +1"
+evasion: "+2"
+attack: "Mêlée Finesse d6+1 phy"
+advantages: "attaquer, grimper, se faufiler"
+features:
+  - "Morsure venimeuse"
+  - "Tisseur de toile"
 ---
 
 # Arachnide traqueur

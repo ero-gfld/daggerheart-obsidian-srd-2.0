@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Jagged Knife Hexer"
+tags:
+  - "daggerheart/adversary"
+name: "Envoûteur des Lames dentelées"
+tier: 1
+type: "Soutien"
+description: "Un bandit au bâton, vêtu d’une cape ornée d’objets magiques, qui use de malédictions pour tourmenter ses ennemis."
+difficulty: 13
+thresholds: "5/9"
+hp: 4
+stress: 4
+atk: "+2"
+attack: "Bâton"
+range: "Loin"
+damage: "1d6+2 mag"
+motives_and_tactics: "Commander, maudire, faire du profit"
+experience: "Savoir magique +2"
+features:
+  - "Malédiction - Action"
+  - "Flux chaotique - Action"
 ---
 
 # Envoûteur des Lames dentelées

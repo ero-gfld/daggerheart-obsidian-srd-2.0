@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Valor‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par la Vaillance"
+domain: "Vaillance"
+level: 7
+type: "Capacité"
+recall: 1
 ---
 
 # Touché par la Vaillance

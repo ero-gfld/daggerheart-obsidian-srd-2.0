@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Earthquake"
+tags:
+  - "daggerheart/domain-card"
+name: "Séisme"
+domain: "Arcanes"
+level: 9
+type: "Sort"
+recall: 2
 ---
 
 # Séisme

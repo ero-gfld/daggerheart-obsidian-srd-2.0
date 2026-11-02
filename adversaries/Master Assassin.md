@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Master Assassin"
+tags:
+  - "daggerheart/adversary"
+name: "Maître assassin"
+tier: 2
+type: "Meneur"
+description: "Un tueur aguerri à la voix menaçante et à la lame mortelle."
+difficulty: 15
+thresholds: "12/25"
+hp: 7
+stress: 5
+atk: "+5"
+attack: "Dague dentelée"
+range: "Proche"
+damage: "2d10+2 phy"
+motives_and_tactics: "Tendre une embuscade, s’en sortir vivant, tuer, se préparer à tous les scénarios"
+experience: "Commandement +3, Intrusion +3"
+features:
+  - "Il ne le verra pas venir - Passif"
+  - "Frapper ensemble - Action"
+  - "La lame subtile - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Maître assassin

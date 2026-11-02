@@ -1,6 +1,30 @@
 ---
 aliases:
   - "Volcanic Dragon: Molten Scourge"
+tags:
+  - "daggerheart/adversary"
+name: "Dragon volcanique : fléau en fusion"
+tier: 4
+type: "Solo"
+description: "Enragé par ses blessures, le dragon jaillit en une coulée de lave en fusion."
+difficulty: 20
+thresholds: "30/58"
+hp: 7
+stress: 5
+atk: "+9"
+attack: "Griffes enduites de lave"
+range: "Proche"
+damage: "4d12+4 phy"
+motives_and_tactics: "Arroser de lave, incinérer, repousser les Envahisseurs, se repositionner"
+experience: "Chasse depuis les airs +5"
+features:
+  - "Implacable (3) - Passif"
+  - "Écailles fendillées - Passif"
+  - "Puissance fracassante - Action"
+  - "Éruption - Action"
+  - "Souffle volcanique - Réaction"
+  - "Éclaboussure de lave - Réaction"
+  - "Vengeance des cendres (changement de phase) - Réaction"
 ---
 
 # Dragon volcanique : fléau en fusion

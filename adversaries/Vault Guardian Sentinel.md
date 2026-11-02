@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Vault Guardian Sentinel"
+tags:
+  - "daggerheart/adversary"
+name: "Sentinelle de la Voûte"
+tier: 3
+type: "Cogneur"
+description: "Un construct doré et couvert de poussière, aux membres carrés et à la main remplacée par une énorme masse."
+difficulty: 17
+thresholds: "21/40"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Masse chargée"
+range: "Très proche"
+damage: "2d12+1 phy"
+motives_and_tactics: "Détruire à tout prix, anéantir, protéger"
+features:
+  - "Frappe cinétique - Passif"
+  - "Encercler - Action"
+  - "Éclair de mana - Action"
+  - "Élan - Réaction"
 ---
 
 # Sentinelle de la Voûte

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Copycat"
+tags:
+  - "daggerheart/domain-card"
+name: "Imitateur"
+domain: "Grâce"
+level: 9
+type: "Sort"
+recall: 3
 ---
 
 # Imitateur

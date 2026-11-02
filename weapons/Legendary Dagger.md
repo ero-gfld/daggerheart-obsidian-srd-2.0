@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+10 phy"
+burden: "À une main"
 ---
 
 # Dague légendaire

@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Redcap Biters"
+tags:
+  - "daggerheart/adversary"
+name: "Mordeurs bonnet-rouge"
+tier: 1
+type: "Horde"
+horde: 3
+description: "Une troupe de créatures féeriques, grosses comme un poing, aux dents aussi pointues que des aiguilles, coiffées de bonnets rouges coniques scellés à la cire de bougie."
+difficulty: 10
+thresholds: "6/11"
+hp: 5
+stress: 3
+atk: "-1"
+attack: "Mastication"
+range: "Mêlée"
+damage: "1d8+4 phy"
+motives_and_tactics: "Les abattre, se réjouir de petites victoires, glousser et glapir, se faufiler entre les murs"
+experience: "Recoins et fissures +3"
+features:
+  - "Horde (1d4+2) - Passif"
+  - "Poids aux chevilles - Passif"
 ---
 
 # Mordeurs bonnet-rouge

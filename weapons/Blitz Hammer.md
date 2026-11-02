@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Blitz Hammer"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau éclair"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+7 phy"
+burden: "À deux mains"
+feature: "Accélérateur : une fois par scène, marquez un Stress pour vous déplacer jusqu’à portée Loin, puis effectuez une attaque. Gagnez un bonus de +1 à votre Maîtrise pour cette attaque."
 ---
 
 # Marteau éclair

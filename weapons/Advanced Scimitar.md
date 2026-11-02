@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Scimitar"
+tags:
+  - "daggerheart/weapon"
+name: "Cimeterre avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+7 phy"
+burden: "À une main"
 ---
 
 # Cimeterre avancé

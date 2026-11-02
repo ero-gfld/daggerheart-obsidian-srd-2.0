@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Labrys Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache labrys"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+7 phy"
+burden: "À deux mains"
+feature: "Protecteur : +1 au Score d’armure"
 ---
 
 # Hache labrys

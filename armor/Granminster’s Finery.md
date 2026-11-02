@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Granminster’s Finery"
+tags:
+  - "daggerheart/armor"
+name: "Atours de Granminster"
+tier: 3
+thresholds: "11/27"
+score: 2
+feature: "Magnifique : Gagnez un bonus à votre Score d’armure égal à votre Présence."
 ---
 
 # Atours de Granminster

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Fire Jar"
+tags:
+  - "daggerheart/item"
+name: "Jarre de feu"
+effect: "Vous pouvez verser le liquide étrange contenu dans cette jarre pour produire instantanément du feu. Le contenu se régénère lorsque vous prenez un repos long."
 ---
 
 # Jarre de feu

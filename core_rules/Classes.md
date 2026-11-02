@@ -2,7 +2,7 @@
 tags:
   - "daggerheart/rules"
 name: "Classes"
-description: "A class is a role-based archetype that determines a PC’s:"
+description: "Une classe est un archétype fondé sur un rôle, qui détermine pour un PJ :"
 ---
 
 # Classes

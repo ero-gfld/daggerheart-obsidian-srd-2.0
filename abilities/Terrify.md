@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Terrify"
+tags:
+  - "daggerheart/domain-card"
+name: "Terrifier"
+domain: "Effroi"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Terrifier

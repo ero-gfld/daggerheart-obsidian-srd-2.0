@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Communities"
+tags:
+  - "daggerheart/rules"
+name: "Communautés"
+description: "Les communautés représentent l’aspect clé de la culture, de la condition sociale ou de l’environnement d’origine qui a eu le plus d’influence sur l’éducation de votre personnage."
 ---
 
 # Communautés

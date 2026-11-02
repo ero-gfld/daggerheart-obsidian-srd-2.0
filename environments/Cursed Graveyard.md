@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Cursed Graveyard"
+tags:
+  - "daggerheart/environment"
+name: "Cimetière maudit"
+tier: 1
+type: "Exploration"
+description: "Un cimetière immense, rempli de pierres tombales effritées, d’arbres tordus possédés par les morts et de cryptes envahies de mousse et de lierre."
+difficulty: 11
+impulses: "les enterrer bien profond, étouffer sous le brouillard, attirer avec la promesse d’un trésor scellé, libérer les morts agités"
+potential_adversaries: "Esprits corrompus (Défenseur des racines profondes, Fantôme), Morts-vivants (Squelette guerrier, Meute de zombies, Zombie colosse rapiécé)"
+features:
+  - "Il reste de la place - Passif"
+  - "Terre sacrée - Passif"
+  - "Miasme brumeux - Action"
+  - "Les morts se lèvent - Action"
+  - "Les morts ne meurent pas facilement - Réaction"
 ---
 
 # Cimetière maudit

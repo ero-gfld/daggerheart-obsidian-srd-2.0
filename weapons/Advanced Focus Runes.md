@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Focus Runes"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de focalisation avancées"
+tier: 3
+category: "Secondaire"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d6+4 mag"
+burden: "À une main"
+feature: "Concentré : +1 aux dégâts de l’arme principale contre les cibles à portée Très proche"
 ---
 
 # Runes de focalisation avancées

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hawkguard’s Mantle"
+tags:
+  - "daggerheart/armor"
+name: "Manteau du garde-faucon"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Planant : Vous pouvez planer jusqu’à portée Loin et vous êtes immunisé contre les dégâts de chute."
 ---
 
 # Manteau du garde-faucon

@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Glowing Rings"
+tags:
+  - "daggerheart/weapon"
+name: "Anneaux luisants avancés"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+8 mag"
+burden: "À deux mains"
 ---
 
 # Anneaux luisants avancés

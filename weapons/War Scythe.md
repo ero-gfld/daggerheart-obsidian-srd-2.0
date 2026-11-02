@@ -1,6 +1,17 @@
 ---
 aliases:
   - "War Scythe"
+tags:
+  - "daggerheart/weapon"
+name: "Faux de guerre"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+5 phy"
+burden: "À deux mains"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Faux de guerre

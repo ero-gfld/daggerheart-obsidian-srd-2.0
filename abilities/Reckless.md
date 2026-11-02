@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Reckless"
+tags:
+  - "daggerheart/domain-card"
+name: "Téméraire"
+domain: "Lame"
+level: 2
+type: "Capacité"
+recall: 1
 ---
 
 # Téméraire

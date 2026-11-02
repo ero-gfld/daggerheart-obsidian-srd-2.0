@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rune Ward"
+tags:
+  - "daggerheart/domain-card"
+name: "Garde runique"
+domain: "Arcanes"
+level: 1
+type: "Sort"
+recall: 0
 ---
 
 # Garde runique

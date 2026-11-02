@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Exota"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre d’Exota"
+domain: "Codex"
+level: 4
+type: "Grimoire"
+recall: 3
 ---
 
 # Livre d’Exota

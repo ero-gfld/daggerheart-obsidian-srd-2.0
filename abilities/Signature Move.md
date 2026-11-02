@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Signature Move"
+tags:
+  - "daggerheart/domain-card"
+name: "Coup signature"
+domain: "Os"
+level: 5
+type: "Capacité"
+recall: 1
 ---
 
 # Coup signature

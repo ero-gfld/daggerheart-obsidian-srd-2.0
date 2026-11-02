@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Mortal Hunter"
+tags:
+  - "daggerheart/adversary"
+name: "Chasseur mortel"
+tier: 2
+type: "Meneur"
+description: "Une silhouette morte-vivante vêtue d'un lourd manteau de cuir, aux yeux scrutateurs et à la cruauté désinvolte."
+difficulty: 16
+thresholds: "15/27"
+hp: 6
+stress: 4
+atk: "+5"
+attack: "Arrache-chair"
+range: "Très proche"
+damage: "2d12+1 phy"
+motives_and_tactics: "Dévorer, traquer, pister"
+experience: "Limier +3"
+features:
+  - "Terrifiant - Passif"
+  - "Verrou mortel - Action"
+  - "Mort inéluctable - Action"
+  - "Déchaînement - Réaction"
 ---
 
 # Chasseur mortel

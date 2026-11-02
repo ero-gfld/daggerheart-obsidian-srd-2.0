@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Basilisk"
+tags:
+  - "daggerheart/adversary"
+name: "Basilic"
+tier: 2
+type: "Standard"
+description: "Un lézard varan à six pattes, doté d’une tête de vautour, d’une colonne vertébrale hérissée de pointes et d’un regard pétrifiant."
+difficulty: 14
+thresholds: "8/19"
+hp: 4
+stress: 4
+atk: "+1"
+attack: "Mâchoires et griffes"
+range: "Mêlée"
+damage: "2d6+4 phy"
+motives_and_tactics: "Avancer lentement et sûrement, savourer les proies pétrifiées, changer tout le monde en pierre, observer et attendre"
+features:
+  - "Pétrification - Action"
+  - "CROQUE ! - Action"
 ---
 
 # Basilic

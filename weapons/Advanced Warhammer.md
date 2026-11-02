@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Warhammer"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau de guerre avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d12+9 phy"
+burden: "À deux mains"
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Marteau de guerre avancé

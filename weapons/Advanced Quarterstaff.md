@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Quarterstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton de combat avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d10+9 phy"
+burden: "À deux mains"
 ---
 
 # Bâton de combat avancé

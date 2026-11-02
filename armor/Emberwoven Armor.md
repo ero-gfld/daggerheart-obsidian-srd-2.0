@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Emberwoven Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure tissée de braise"
+tier: 4
+thresholds: "13/36"
+score: 6
+feature: "Embrasement : Lorsqu’un adversaire vous attaque à portée de Mêlée, il marque un Stress."
 ---
 
 # Armure tissée de braise

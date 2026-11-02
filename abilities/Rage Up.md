@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rage Up"
+tags:
+  - "daggerheart/domain-card"
+name: "Monter en rage"
+domain: "Lame"
+level: 6
+type: "Capacité"
+recall: 1
 ---
 
 # Monter en rage

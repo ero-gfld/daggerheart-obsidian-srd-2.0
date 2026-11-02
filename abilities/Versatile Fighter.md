@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Versatile Fighter"
+tags:
+  - "daggerheart/domain-card"
+name: "Combattant polyvalent"
+domain: "Lame"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Combattant polyvalent

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Windup Toy"
+tags:
+  - "daggerheart/item"
+name: "Jouet à remonter"
+effect: "Ce petit appareil mécanique a la forme d’un louveteau strix et peut être programmé pour exécuter de simples tours."
 ---
 
 # Jouet à remonter

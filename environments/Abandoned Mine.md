@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Abandoned Mine"
+tags:
+  - "daggerheart/environment"
+name: "Mine abandonnée"
+tier: 1
+type: "Traversée"
+description: "Un dédale tortueux de galeries désaffectées, creusées dans la roche nue par une compagnie minière condamnée."
+difficulty: 11
+impulses: "Empoisonner le groupe avec des gaz mortels, faire gronder et s’effondrer, séparer le groupe, le faire rebrousser chemin"
+potential_adversaries: "Araignées tisse-ténèbres (Rampeur tisse-ténèbres, Fileur tisse-ténèbres, Essaim de jeunes tisse-ténèbres), Fantômes de mineurs (Poltergeist, Feux follets)"
+features:
+  - "Noirceur absolue - Passif"
+  - "Labyrinthe - Passif"
+  - "Dans la toile de l’araignée - Action"
+  - "Effondrement imminent - Réaction"
 ---
 
 # Mine abandonnée

@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Minotaur Wrecker"
+tags:
+  - "daggerheart/adversary"
+name: "Minotaure destructeur"
+tier: 2
+type: "Cogneur"
+description: "Un firbolg massif à tête de taureau, au tempérament vif."
+difficulty: 16
+thresholds: "14/27"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Hache de bataille"
+range: "Très proche"
+damage: "2d8+5 phy"
+motives_and_tactics: "Consommer, éventrer, se frayer un chemin, écraser, poursuivre"
+experience: "Navigation +2"
+features:
+  - "Montée en puissance - Passif"
+  - "Charge du taureau - Action"
+  - "Éventration - Action"
 ---
 
 # Minotaure destructeur

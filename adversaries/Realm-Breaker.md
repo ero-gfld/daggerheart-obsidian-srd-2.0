@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Realm-Breaker"
+tags:
+  - "daggerheart/adversary"
+name: "Briseur de royaumes"
+tier: 4
+type: "Solo"
+description: "Un Dieu déchu, enveloppé de colère et de ressentiment, qui a des millénaires d'expérience dans l'art de briser l'esprit des héros."
+difficulty: 20
+thresholds: "36/66"
+hp: 8
+stress: 5
+atk: "+7"
+attack: "Fouet barbelé"
+range: "Proche"
+damage: "4d8+7 phy"
+motives_and_tactics: "Corrompre, dominer, punir, briser les faibles"
+experience: "Conquête +3, Histoire +2, Intimidation +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Armure de plaques Firespite - Passif"
+  - "Fouet tourmenteur - Action"
+  - "Rage consumante - Réaction"
+  - "Porteur de fin - Réaction"
+  - "Je n'ai jamais connu la défaite (Changement de phase) - Réaction"
 ---
 
 # Briseur de royaumes

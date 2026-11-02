@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Eclipse Coin"
+tags:
+  - "daggerheart/item"
+name: "Pièce d’éclipse"
+effect: "Une fois par repos, lancez une pièce. Si elle tombe sur face, vous gagnez un bonus de +1 aux jets d’attaque jusqu’à votre prochaine attaque réussie. Si elle tombe sur pile, vous gagnez +1 à votre Évasion jusqu’à ce qu’une attaque vous rate."
 ---
 
 # Pièce d’éclipse

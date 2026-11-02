@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rune-Forged Exosuit"
+tags:
+  - "daggerheart/armor"
+name: "Exosquelette forgé aux runes"
+tier: 4
+thresholds: "12/39"
+score: 7
+feature: "Accordé : Le nombre maximum de cartes de domaine dans votre main est réduit d’une unité, mais vous gagnez un bonus à vos seuils de dégâts égal à votre rang."
 ---
 
 # Exosquelette forgé aux runes

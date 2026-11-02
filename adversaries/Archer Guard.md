@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Archer Guard"
+tags:
+  - "daggerheart/adversary"
+name: "Garde archer"
+tier: 1
+type: "Tireur"
+description: "Un grand garde armé d’un arc long et d’un carquois aux flèches empennées aux couleurs de la localité."
+difficulty: 10
+thresholds: "4/8"
+hp: 3
+stress: 2
+atk: "+1"
+attack: "Arc long"
+range: "Loin"
+damage: "1d8+3 phy"
+motives_and_tactics: "Arrêter, fermer les portes, tenir jusqu’au soir, clouer sur place"
+experience: "Savoir local +3"
+features:
+  - "Tir qui fait boiter - Action"
 ---
 
 # Garde archer

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Minor Health Potion Recipe"
+tags:
+  - "daggerheart/item"
+name: "Recette de potion de soins mineure"
+effect: "Comme action de repos, vous pouvez utiliser une fiole de sang pour fabriquer une potion de soins mineure."
 ---
 
 # Recette de potion de soins mineure

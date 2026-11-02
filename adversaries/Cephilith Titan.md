@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Cephilith Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan cephilith"
+tier: 4
+type: "Solo"
+description: "Entité transdimensionnelle qui prend la forme d’un humanoïde ailé d’une taille impossible, à tête de pieuvre et aux rangées d’yeux luisants."
+difficulty: 20
+thresholds: "38/68"
+hp: 10
+stress: 10
+atk: "+8"
+attack: "Pseudo-griffe"
+range: "Proche"
+damage: "4d8+10 mag"
+motives_and_tactics: "Appeler et dévorer ses fidèles, corrompre la réalité, envahir le Royaume mortel, répandre le chaos"
+experience: "Chaos +5, Psychique +5"
+features:
+  - "Implacable (X) - Passif"
+  - "Terrifiant - Passif"
+  - "Simple projection - Passif"
+  - "Cri psychique - Action"
+  - "Invocation d’adorateurs - Action"
+  - "« Il est là… » - Évolution"
 ---
 
 # Titan cephilith

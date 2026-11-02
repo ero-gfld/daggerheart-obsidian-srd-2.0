@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Gadiman’s Backpack"
+tags:
+  - "daggerheart/item"
+name: "Sac à dos de Gadiman"
+effect: "Une fois par repos, vous pouvez dépenser un Espoir pour faire apparaître dans ce sac un objet ordinaire d’un pied cube au maximum."
 ---
 
 # Sac à dos de Gadiman

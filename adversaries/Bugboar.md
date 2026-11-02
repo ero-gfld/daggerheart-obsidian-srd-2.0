@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Bugboar"
+tags:
+  - "daggerheart/adversary"
+name: "Sanglier-bogue"
+tier: 1
+type: "Cogneur"
+description: "Une grande créature bipède au museau muni de défenses et au pelage grossier."
+difficulty: 13
+thresholds: "8/15"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Masse hérissée de pointes"
+range: "Très proche"
+damage: "1d8+6 phy"
+motives_and_tactics: "Embusquer, brutaliser, chercher le carnage et les objets brillants"
+experience: "Pièges +3"
+features:
+  - "Surprise ! - Passif"
+  - "Brutal - Réaction"
+  - "Cœur de guerre - Réaction"
 ---
 
 # Sanglier-bogue

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Swift Step"
+tags:
+  - "daggerheart/domain-card"
+name: "Pas vif"
+domain: "Os"
+level: 10
+type: "Capacité"
+recall: 2
 ---
 
 # Pas vif

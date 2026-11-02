@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Grappler"
+tags:
+  - "daggerheart/weapon"
+name: "Grappin avancé"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Proche"
+damage: "d6+4 phy"
+burden: "À une main"
+feature: "Accroché : Sur une attaque réussie, vous pouvez attirer la cible à portée Mêlée."
 ---
 
 # Grappin avancé

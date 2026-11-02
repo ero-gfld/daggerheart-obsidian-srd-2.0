@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Deadly Dungeon"
+tags:
+  - "daggerheart/environment"
+name: "Donjon mortel"
+tier: 2
+type: "Exploration"
+description: "Un réseau souterrain sombre et mal éclairé, de tunnels et de salles remplis de monstres, de pièges et de trésors."
+difficulty: 14
+impulses: "dévorer les ressources du groupe, déclencher les pièges, tenter avec des trésors, lancer des monstres contre lui, le faire tourner en rond"
+potential_adversaries: "Habitants du donjon (Traqueur gobelin, Gelée verte, Moquerie vorace, Mangeur de rouille), Aventuriers rivaux (Bagarreur géant, Voleur masqué, Magicien de guerre)"
+features:
+  - "Détours et virages - Passif"
+  - "Poches profondes - Passif"
+  - "Monstre errant - Réaction"
+  - "Pièges - Réaction"
 ---
 
 # Donjon mortel

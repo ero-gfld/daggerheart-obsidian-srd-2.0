@@ -3,22 +3,22 @@ tags:
   - "daggerheart/adversary"
 name: "Ahuizotl"
 tier: 1
-type: "Skulk"
-description: "A doglike ambush predator that has a clawed hand on the end of a long prehensile tail and drags victims into rivers to drown them."
+type: "Furtif"
+description: "Un prédateur d’embuscade semblable à un chien, doté d’une main griffue au bout d’une longue queue préhensile, qui traîne ses proies dans les rivières pour les noyer."
 difficulty: 12
 thresholds: "5/9"
 hp: 4
 stress: 3
 atk: "+2"
-attack: "Bite"
-range: "Melee"
+attack: "Morsure"
+range: "Mêlée"
 damage: "1d6+2 phy"
-motives_and_tactics: "Ambush, drown, restrain"
-experience: "Stealth +2, Swimming +2"
+motives_and_tactics: "Embusquer, noyer, entraver"
+experience: "Discrétion +2, Natation +2"
 features:
-  - "Aquatic Attacker - Passive"
-  - "Tail Swat - Action"
-  - "Drag and Bag - Action"
+  - "Attaquant aquatique - Passif"
+  - "Coup de queue - Action"
+  - "Traîner et ensacher - Action"
 ---
 
 # Ahuizotl

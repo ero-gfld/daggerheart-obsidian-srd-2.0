@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Common Ruffian"
+tags:
+  - "daggerheart/adversary"
+name: "Voyou ordinaire"
+tier: 1
+type: "Standard"
+description: "Ouvrier ou artisan du coin, poussé par les circonstances à s’en prendre aux autres."
+difficulty: 12
+thresholds: "6/10"
+hp: 4
+stress: 4
+atk: "+0"
+attack: "Arme de fortune"
+range: "Mêlée"
+damage: "1d8 phy"
+motives_and_tactics: "Faire le mal, chercher la sécurité et la survie"
+experience: "Désespéré +3"
+features:
+  - "Attaque de groupe - Action"
+  - "Instinct de survie - Réaction"
 ---
 
 # Voyou ordinaire

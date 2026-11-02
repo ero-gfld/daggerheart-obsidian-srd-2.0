@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Gifted Tracker"
+tags:
+  - "daggerheart/domain-card"
+name: "Pisteur doué"
+domain: "Nature"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Pisteur doué

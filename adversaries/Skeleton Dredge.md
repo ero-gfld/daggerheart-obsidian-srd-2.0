@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Skeleton Dredge"
+tags:
+  - "daggerheart/adversary"
+name: "Squelette rampant"
+tier: 1
+type: "Sbire"
+description: "Un tas d’os qui cliquettent."
+difficulty: 8
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Griffes d’os"
+range: "Mêlée"
+damage: "1 phy"
+motives_and_tactics: "S’effondrer, submerger, faire le mort, voler la peau"
+features:
+  - "Sbire (4) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Squelette rampant

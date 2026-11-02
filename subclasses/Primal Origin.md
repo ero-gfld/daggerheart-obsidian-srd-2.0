@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Primal Origin"
+tags:
+  - "daggerheart/subclass"
+name: "Origine primordiale"
+class: "Ensorceleur"
+spellcast_trait: "Instinct"
+description: "Jouez l’Origine primordiale si vous voulez étendre la polyvalence de vos sorts de façon spectaculaire."
+features:
+  - "Manipuler la magie"
+  - "Aide enchantée"
+  - "Charge arcanique"
 ---
 
 # Origine primordiale

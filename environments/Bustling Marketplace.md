@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Bustling Marketplace"
+tags:
+  - "daggerheart/environment"
+name: "Marché animé"
+tier: 1
+type: "Social"
+description: "Le cœur économique de la localité, avec ses artisans, ses marchands itinérants et ses clients de toutes les classes sociales."
+difficulty: 10
+impulses: "Acheter bon marché et revendre cher, tenter et allécher avec des marchandises venues de près comme de loin"
+potential_adversaries: "Gardes (Garde à lames, Garde en chef), Voleur masqué, Marchand"
+features:
+  - "Faire pencher la balance - Passif"
+  - "Trouvaille inattendue - Action"
+  - "Doigts crochus - Action"
+  - "Foule qui se referme - Réaction"
 ---
 
 # Marché animé

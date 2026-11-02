@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Gourmet Granules"
+tags:
+  - "daggerheart/item"
+name: "Granulés gourmets"
+effect: "Cette poudre savoureuse rend délicieux et sain tout aliment sur lequel on la saupoudre, qu’il soit fade ou avarié."
 ---
 
 # Granulés gourmets

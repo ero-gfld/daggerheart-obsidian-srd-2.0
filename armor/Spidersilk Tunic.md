@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Spidersilk Tunic"
+tags:
+  - "daggerheart/armor"
+name: "Tunique de soie d’araignée"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Escalade murale : +1 à l’Évasion ; vous pouvez marcher sur les murs aussi facilement que sur le sol."
 ---
 
 # Tunique de soie d’araignée

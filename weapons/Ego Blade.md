@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Ego Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame de l’ego"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d12+4 mag"
+burden: "À une main"
+feature: "Pompeuse : Pour utiliser cette arme, vous devez avoir une Présence de 0 ou moins."
 ---
 
 # Lame de l’ego

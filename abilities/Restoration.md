@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Restoration"
+tags:
+  - "daggerheart/domain-card"
+name: "Restauration"
+domain: "Splendeur"
+level: 6
+type: "Sort"
+recall: 2
 ---
 
 # Restauration

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Phantom Retreat"
+tags:
+  - "daggerheart/domain-card"
+name: "Retraite fantôme"
+domain: "Minuit"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Retraite fantôme

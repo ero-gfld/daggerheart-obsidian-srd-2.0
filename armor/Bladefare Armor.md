@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bladefare Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure Bladefare"
+tier: 3
+thresholds: "16/39"
+score: 6
+feature: "Physique : Vous ne pouvez pas marquer un Emplacement d’armure pour réduire des dégâts magiques."
 ---
 
 # Armure Bladefare

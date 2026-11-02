@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Jump Scare"
+tags:
+  - "daggerheart/domain-card"
+name: "Surgissement"
+domain: "Effroi"
+level: 6
+type: "Sort"
+recall: 1
 ---
 
 # Surgissement

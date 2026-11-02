@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Sprite"
+tags:
+  - "daggerheart/adversary"
+name: "Lutin"
+tier: 2
+type: "Sbire"
+description: "Un minuscule guerrier ailé qui attaque les intrus avec des flèches enduites de poison."
+difficulty: 13
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Flèches aiguisées comme des aiguilles"
+range: "Proche"
+damage: "5 phy"
+motives_and_tactics: "Éviter d’être repéré, laisser le poison faire son œuvre, protéger la nature sauvage"
+experience: "Discrétion +2, Vengeance +2"
+features:
+  - "Sbire (5) - Passif"
+  - "Art de l’invisibilité - Action"
+  - "Poison des pétales de rêve - Action"
 ---
 
 # Lutin

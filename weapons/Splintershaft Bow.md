@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Splintershaft Bow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc à hampe éclatée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+6 mag"
+burden: "À deux mains"
+feature: "Salve : Dépensez un Espoir pour cibler un groupe de créatures à portée. Les cibles que vous réussissez à toucher subissent la moitié des dégâts."
 ---
 
 # Arc à hampe éclatée

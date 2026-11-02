@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Winged Sentinel"
+tags:
+  - "daggerheart/subclass"
+name: "Sentinelle ailée"
+class: "Séraphin"
+spellcast_trait: "Force"
+description: "Jouez la Sentinelle ailée si vous voulez prendre votre envol et frapper des coups écrasants depuis le ciel."
+features:
+  - "Ailes de lumière"
+  - "Visage éthéré"
+  - "Ascendant"
+  - "Puissance des dieux"
 ---
 
 # Sentinelle ailée

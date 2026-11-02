@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Reaper’s Strike"
+tags:
+  - "daggerheart/domain-card"
+name: "Frappe du faucheur"
+domain: "Lame"
+level: 9
+type: "Capacité"
+recall: 3
 ---
 
 # Frappe du faucheur

@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Fellmounted Shadow King"
+tags:
+  - "daggerheart/adversary"
+name: "Roi des ombres monté"
+tier: 3
+type: "Soutien"
+description: "L’ombre d’un souverain oublié, condamné à patrouiller dans les cieux sur une anguille ailée, au service d’un mal plus grand encore."
+difficulty: 15
+thresholds: "24/38"
+hp: 8
+stress: 5
+atk: "+4"
+attack: "Lance maudite"
+range: "Proche"
+damage: "3d10+6 mag"
+motives_and_tactics: "Trouver des objets magiques, inspirer la peur, patrouiller dans les cieux"
+experience: "Quête +3"
+features:
+  - "Monture - Passif"
+  - "Lumière et ombre - Passif"
+  - "Chasseur de reliques - Passif"
+  - "Chant infernal - Action"
+  - "Frappe aérienne - Réaction"
 ---
 
 # Roi des ombres monté

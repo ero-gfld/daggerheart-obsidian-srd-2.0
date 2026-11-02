@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Glass Snake"
+tags:
+  - "daggerheart/adversary"
+name: "Serpent de verre"
+tier: 1
+type: "Standard"
+description: "Un serpent translucide à la tête massive, qui laisse derrière lui une traînée d’éclats de verre partout où il passe."
+difficulty: 14
+thresholds: "6/10"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Crocs de verre"
+range: "Très proche"
+damage: "1d8+2 phy"
+motives_and_tactics: "Grimper, se nourrir, garder ses distances, effrayer"
+features:
+  - "Éclats déchire-armure - Passif"
+  - "Serpent tournoyant - Action"
+  - "Crachat - Action"
 ---
 
 # Serpent de verre

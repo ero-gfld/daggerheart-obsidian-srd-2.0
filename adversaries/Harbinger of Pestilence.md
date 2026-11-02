@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Harbinger of Pestilence"
+tags:
+  - "daggerheart/adversary"
+name: "Avant-coureur de la Pestilence"
+tier: 4
+type: "Meneur"
+description: "Un amas humanoïde, gonflé et pourrissant, fait d’insectes et de limaces grouillants, qui chevauche un cheval rongé par les vers."
+difficulty: 18
+thresholds: "37/70"
+hp: 7
+stress: 8
+atk: "+8"
+attack: "Contact corrupteur"
+range: "Mêlée"
+damage: "4d10+10 mag"
+motives_and_tactics: "Corrompre les purs, infecter les faibles, invoquer la peste et la maladie"
+experience: "Pourriture +3"
+features:
+  - "Halo de contagion - Passif"
+  - "Monture - Passif"
+  - "Nuée de sauterelles - Action"
+  - "Frai de grenouilles - Action"
+  - "Porteur de peste - Action"
 ---
 
 # Avant-coureur de la Pestilence

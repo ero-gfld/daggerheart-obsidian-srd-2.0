@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Yutari Bloodbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc sanguin yutari"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+4 mag"
+burden: "À deux mains"
+feature: "Brutal : Quand vous obtenez la valeur maximale sur un dé de dégâts, lancez un dé de dégâts supplémentaire."
 ---
 
 # Arc sanguin yutari

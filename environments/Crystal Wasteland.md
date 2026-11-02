@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Crystal Wasteland"
+tags:
+  - "daggerheart/environment"
+name: "Désert de cristal"
+tier: 3
+type: "Traversée"
+description: "Un paysage rude et étranger, qui scintille de tours de cristal chatoyant."
+difficulty: 16
+impulses: "les réduire à leur noyau, fissurer leur psyché, leur montrer leur reflet véritable"
+potential_adversaries: "Papillon scintillant adulte, Automates, Étincelle élémentaire, Gardiens de la Voûte, Spectres murmurants"
+features:
+  - "Résonance harmonique - Passif"
+  - "Anomalies gravitationnelles - Action"
+  - "Reflet arcanique - Action"
+  - "Terrain tranchant comme un rasoir - Réaction"
+  - "Brassage psychique - Réaction"
 ---
 
 # Désert de cristal

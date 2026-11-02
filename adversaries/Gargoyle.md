@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Gargoyle"
+tags:
+  - "daggerheart/adversary"
+name: "Gargouille"
+tier: 2
+type: "Cogneur"
+description: "Une statue animée par la magie, qui prend la forme d’une bête ou d’un démon terrifiant."
+difficulty: 13
+thresholds: "14/28"
+hp: 8
+stress: 2
+atk: "+2"
+attack: "Griffes de pierre"
+range: "Mêlée"
+damage: "2d10+3 phy"
+motives_and_tactics: "Se cacher à la vue de tous, guetter, fondre sur les proies"
+experience: "Camouflage +4, Ruines +3"
+features:
+  - "Non-vivante - Passif"
+  - "Frappe en piqué - Action"
+  - "Entaille pétrifiante - Réaction"
 ---
 
 # Gargouille

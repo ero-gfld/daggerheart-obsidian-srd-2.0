@@ -1,6 +1,30 @@
 ---
 aliases:
   - "Young Ice Dragon"
+tags:
+  - "daggerheart/adversary"
+name: "Jeune dragon de glace"
+tier: 3
+type: "Solo"
+description: "Un dragon bleu glacier aux quatre membres puissants et aux ailes givrées."
+difficulty: 18
+thresholds: "21/41"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Morsure et griffes"
+range: "Proche"
+damage: "4d10 phy"
+motives_and_tactics: "Avalanche, défendre la tanière, voler, geler, défendre ce qui lui appartient, malmener"
+experience: "Protéger ce qui lui appartient +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Déchirer et broyer - Passif"
+  - "Sans espoir - Passif"
+  - "Souffle blizzard - Action"
+  - "Avalanche - Action"
+  - "Écailles gelées - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Jeune dragon de glace

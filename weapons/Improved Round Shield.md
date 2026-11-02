@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Round Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier rond amélioré"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d4+2 phy"
+burden: "À une main"
+feature: "Protecteur : +2 au Score d’armure"
 ---
 
 # Bouclier rond amélioré

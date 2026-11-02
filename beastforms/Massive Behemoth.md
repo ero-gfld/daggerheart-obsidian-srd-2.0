@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Massive Behemoth"
+tags:
+  - "daggerheart/beastform"
+name: "Béhémoth massif"
+tier: 4
+examples: "Éléphant, mammouth, rhinocéros, etc."
+trait_bonus: "Force +3"
+evasion: "+1"
+attack: "Mêlée Force d12+12 phy"
+advantages: "repérer, protéger, effrayer, piquer un sprint"
+features:
+  - "Porteur"
+  - "Démolition"
+  - "Intrépide"
 ---
 
 # Béhémoth massif

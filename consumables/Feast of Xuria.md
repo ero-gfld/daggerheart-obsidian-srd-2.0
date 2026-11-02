@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Feast of Xuria"
+tags:
+  - "daggerheart/consumable"
+name: "Festin de Xuria"
+effect: "Vous pouvez manger ce repas pour libérer tous vos PV, évacuer tout le Stress et gagner 1d4 Espoir."
 ---
 
 # Festin de Xuria

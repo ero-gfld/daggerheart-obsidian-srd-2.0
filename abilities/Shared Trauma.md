@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shared Trauma"
+tags:
+  - "daggerheart/domain-card"
+name: "Traumatisme partagé"
+domain: "Effroi"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Traumatisme partagé

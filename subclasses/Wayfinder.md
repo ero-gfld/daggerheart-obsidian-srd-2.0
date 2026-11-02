@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Wayfinder"
+tags:
+  - "daggerheart/subclass"
+name: "Éclaireur"
+class: "Rôdeur"
+spellcast_trait: "Agilité"
+description: "Jouez l’Éclaireur si vous voulez traquer votre proie et frapper avec une force mortelle."
+features:
+  - "Prédateur impitoyable"
+  - "Voie toute tracée"
+  - "Prédateur insaisissable"
+  - "Prédateur ultime"
 ---
 
 # Éclaireur

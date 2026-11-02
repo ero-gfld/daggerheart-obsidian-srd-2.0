@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Glowing Rings"
+tags:
+  - "daggerheart/weapon"
+name: "Anneaux luisants légendaires"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+11 mag"
+burden: "À deux mains"
 ---
 
 # Anneaux luisants légendaires

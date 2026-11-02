@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Chains of Affliction"
+tags:
+  - "daggerheart/domain-card"
+name: "Chaînes de l’affliction"
+domain: "Effroi"
+level: 4
+type: "Sort"
+recall: 2
 ---
 
 # Chaînes de l’affliction

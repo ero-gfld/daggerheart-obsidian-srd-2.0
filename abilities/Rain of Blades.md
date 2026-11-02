@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rain of Blades"
+tags:
+  - "daggerheart/domain-card"
+name: "Pluie de lames"
+domain: "Minuit"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Pluie de lames

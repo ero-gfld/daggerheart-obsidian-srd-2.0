@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Mythic Aerial Hunter"
+tags:
+  - "daggerheart/beastform"
+name: "Chasseur aérien mythique"
+tier: 4
+examples: "Dragon, ptérodactyle, rokh, wyverne, etc."
+trait_bonus: "Finesse +3"
+evasion: "+4"
+attack: "Mêlée Finesse d10+11 phy"
+advantages: "attaquer, tromper, repérer, s’orienter"
+features:
+  - "Porteur"
+  - "Rapace mortel"
 ---
 
 # Chasseur aérien mythique

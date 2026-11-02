@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Entombed Empress"
+tags:
+  - "daggerheart/adversary"
+name: "Impératrice des tombes"
+tier: 2
+type: "Meneur"
+description: "La souveraine morte-vivante d’un royaume oublié. On lui a fait des rites funéraires blasphématoires pour empêcher son âme de passer dans l’au-delà."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Balayage"
+range: "Mêlée"
+damage: "2d8+2 phy"
+motives_and_tactics: "Commander les inférieurs, maudire les envahisseurs"
+experience: "Souveraine +4, Mort-vivante +2"
+features:
+  - "Coquille vide - Passif"
+  - "Organes manquants - Passif"
+  - "Chaînes d’agrippement - Action"
+  - "Obéissance éternelle - Action"
+  - "Caresse maudite - Réaction"
+  - "Transformation finale (changement de phase) - Réaction"
 ---
 
 # Impératrice des tombes

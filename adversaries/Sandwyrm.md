@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Sandwyrm"
+tags:
+  - "daggerheart/adversary"
+name: "Ver des sables"
+tier: 3
+type: "Cogneur"
+description: "Un ver fouisseur gigantesque, doté d'une carapace de plaques et de mâchoires grinçantes. Ce chasseur intelligent et opportuniste peut nager dans le sable aussi vite qu'un guépard court sur la terre ferme."
+difficulty: 17
+thresholds: "21/40"
+hp: 6
+stress: 3
+atk: "+1"
+attack: "Morsure"
+range: "Très proche"
+damage: "3d8+4 phy"
+motives_and_tactics: "Embuscader depuis le dessous, manger puis partir, creuser un tunnel et jaillir, se servir des deux extrémités"
+experience: "Perception des vibrations +4"
+features:
+  - "Dard venimeux de queue - Action"
+  - "Dévorer - Action"
+  - "Affamé, mais pas idiot - Réaction"
 ---
 
 # Ver des sables

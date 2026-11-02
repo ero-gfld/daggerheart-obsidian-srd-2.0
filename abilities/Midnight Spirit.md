@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Midnight Spirit"
+tags:
+  - "daggerheart/domain-card"
+name: "Esprit de Minuit"
+domain: "Minuit"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Esprit de Minuit

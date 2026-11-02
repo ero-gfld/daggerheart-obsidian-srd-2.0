@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Hydra"
+tags:
+  - "daggerheart/adversary"
+name: "Hydre"
+tier: 3
+type: "Solo"
+description: "Une bête quadrupède couverte d’écailles, aux multiples têtes sur de longs cous, chacune hérissée de crocs menaçants."
+difficulty: 18
+thresholds: "19/35"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Morsure"
+range: "Proche"
+damage: "2d12+2 phy"
+motives_and_tactics: "Dévorer, se régénérer, terrifier"
+features:
+  - "Menace aux têtes multiples - Passif"
+  - "Implacable (X) - Passif"
+  - "Régénération - Action"
+  - "Chœur terrifiant - Action"
+  - "Faiblesse magique - Réaction"
 ---
 
 # Hydre

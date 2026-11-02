@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Halberd"
+tags:
+  - "daggerheart/weapon"
+name: "Hallebarde avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Très proche"
+damage: "d10+8 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Hallebarde avancée

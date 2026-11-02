@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Invigoration"
+tags:
+  - "daggerheart/domain-card"
+name: "Regain de vigueur"
+domain: "Splendeur"
+level: 10
+type: "Sort"
+recall: 3
 ---
 
 # Regain de vigueur

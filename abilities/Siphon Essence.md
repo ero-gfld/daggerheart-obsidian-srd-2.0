@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Siphon Essence"
+tags:
+  - "daggerheart/domain-card"
+name: "Siphonner l’essence"
+domain: "Effroi"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Siphonner l’essence

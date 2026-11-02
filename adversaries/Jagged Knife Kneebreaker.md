@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Jagged Knife Kneebreaker"
+tags:
+  - "daggerheart/adversary"
+name: "Casse-genoux des Lames dentelées"
+tier: 1
+type: "Cogneur"
+description: "Une brute imposante, armée d’une grosse massue."
+difficulty: 12
+thresholds: "7/14"
+hp: 7
+stress: 4
+atk: "-3"
+attack: "Massue"
+range: "Mêlée"
+damage: "1d4+6 phy"
+motives_and_tactics: "Agripper, intimider, faire du profit, voler"
+experience: "Voleur +2, Menaces dévoilées +3"
+features:
+  - "Je les tiens - Passif"
+  - "Les maintenir au sol - Action"
 ---
 
 # Casse-genoux des Lames dentelées

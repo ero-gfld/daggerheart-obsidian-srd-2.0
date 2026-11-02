@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Masked Thief"
+tags:
+  - "daggerheart/adversary"
+name: "Voleur masqué"
+tier: 2
+type: "Furtif"
+description: "Un voleur rusé, doué d’acrobaties et qui aime le spectacle."
+difficulty: 14
+thresholds: "8/17"
+hp: 4
+stress: 5
+atk: "+3"
+attack: "Sabre"
+range: "Mêlée"
+damage: "2d8+3 phy"
+motives_and_tactics: "Esquiver, se cacher, dérober, faire du profit"
+experience: "Acrobaties +3"
+features:
+  - "Mains rapides - Action"
+  - "Plan d’évasion - Action"
 ---
 
 # Voleur masqué

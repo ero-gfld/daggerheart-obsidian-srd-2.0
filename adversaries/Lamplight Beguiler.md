@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Lamplight Beguiler"
+tags:
+  - "daggerheart/adversary"
+name: "Enjôleur à la lanterne"
+tier: 3
+type: "Furtif"
+description: "Une énorme créature aquatique qui attire les proies imprudentes à portée de ses mâchoires grâce à un long pédoncule pendant et changeant de forme."
+difficulty: 16
+thresholds: "16/32"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Mâchoires"
+range: "Mêlée"
+damage: "3d8+2 phy"
+motives_and_tactics: "Séduire par un savoir secret, refermer le piège, parler à travers un pédoncule métamorphosé"
+experience: "Charme +3, Secrets +3"
+features:
+  - "Double-Pendeur - Action"
+  - "Séduction - Action"
+  - "Avalement - Réaction"
 ---
 
 # Enjôleur à la lanterne

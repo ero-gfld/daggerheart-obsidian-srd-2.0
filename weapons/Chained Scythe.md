@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Chained Scythe"
+tags:
+  - "daggerheart/weapon"
+name: "Faux enchaînée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d10+5 phy"
+burden: "À deux mains"
+feature: "Rapide : lorsque vous attaquez, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Faux enchaînée

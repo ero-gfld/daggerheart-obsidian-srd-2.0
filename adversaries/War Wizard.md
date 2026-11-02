@@ -1,6 +1,28 @@
 ---
 aliases:
   - "War Wizard"
+tags:
+  - "daggerheart/adversary"
+name: "Magicien de guerre"
+tier: 2
+type: "Tireur"
+description: "Un mage aguerri, formé à la magie destructrice."
+difficulty: 16
+thresholds: "11/23"
+hp: 5
+stress: 6
+atk: "+4"
+attack: "Bâton"
+range: "Loin"
+damage: "2d10+4 mag"
+motives_and_tactics: "Élaborer de nouveaux sorts, rechercher le pouvoir, briser les formations"
+experience: "Savoir magique +2, Stratégie +2"
+features:
+  - "Téléportation de bataille - Passif"
+  - "Rafraîchir la sphère de protection - Action"
+  - "Éruption - Action"
+  - "Artillerie arcanique - Action"
+  - "Sphère de protection - Réaction"
 ---
 
 # Magicien de guerre

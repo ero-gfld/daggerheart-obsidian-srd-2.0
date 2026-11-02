@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Patchwork Zombie Hulk"
+tags:
+  - "daggerheart/adversary"
+name: "Zombie colosse rapiécé"
+tier: 1
+type: "Solo"
+description: "Une gigantesque agglomération de cadavres qui se meuvent d'un seul corps, avec des membres aussi épais qu'un torse et des poings aussi gros qu'un halfelin adulte."
+difficulty: 13
+thresholds: "8/15"
+hp: 10
+stress: 3
+atk: "+4"
+attack: "Trop de bras"
+range: "Très proche"
+damage: "1d20 phy"
+motives_and_tactics: "Absorber des cadavres, faire tournoyer ses membres, avoir faim, terroriser"
+experience: "Intimidation +2, Déchiqueter +2"
+features:
+  - "Destructible - Passif"
+  - "Membres battants - Passif"
+  - "Un de plus pour le tas - Action"
+  - "Cris tourmentés - Action"
 ---
 
 # Zombie colosse rapiécé

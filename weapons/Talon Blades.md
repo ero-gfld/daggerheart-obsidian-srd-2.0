@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Talon Blades"
+tags:
+  - "daggerheart/weapon"
+name: "Lames-serres"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Proche"
+damage: "d10+7 phy"
+burden: "À deux mains"
+feature: "Brutal : Quand vous obtenez la valeur maximale sur un dé de dégâts, lancez un dé de dégâts supplémentaire."
 ---
 
 # Lames-serres

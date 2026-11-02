@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Freeborne"
+tags:
+  - "daggerheart/community"
+name: "Né libre"
+description: "Faire partie d’une communauté de Nés libres, c’est venir d’un collectif qui a longtemps vécu sous une domination tyrannique et qui est aujourd’hui libéré."
+traits: "optimistes, méfiants, courageux, joyeux, subversifs et marqués par les traumatismes"
+features:
+  - "Affranchi"
 ---
 
 # Né libre

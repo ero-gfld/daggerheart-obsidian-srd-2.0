@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Onslaught"
+tags:
+  - "daggerheart/domain-card"
+name: "Assaut"
+domain: "Lame"
+level: 10
+type: "Capacité"
+recall: 3
 ---
 
 # Assaut

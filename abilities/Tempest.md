@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Tempest"
+tags:
+  - "daggerheart/domain-card"
+name: "Tempête"
+domain: "Nature"
+level: 10
+type: "Sort"
+recall: 2
 ---
 
 # Tempête

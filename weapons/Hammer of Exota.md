@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Hammer of Exota"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau d’Exota"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d8+6 mag"
+burden: "À deux mains"
+feature: "Éruptif : Sur une attaque réussie contre une cible à portée Mêlée, tous les autres adversaires à portée Très proche doivent réussir un jet de réaction (14) ou subir la moitié des dégâts."
 ---
 
 # Marteau d’Exota

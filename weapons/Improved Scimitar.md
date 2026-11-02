@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Scimitar"
+tags:
+  - "daggerheart/weapon"
+name: "Cimeterre amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
 ---
 
 # Cimeterre amélioré

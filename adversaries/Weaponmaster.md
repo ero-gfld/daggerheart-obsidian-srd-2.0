@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Weaponmaster"
+tags:
+  - "daggerheart/adversary"
+name: "Maître d’armes"
+tier: 1
+type: "Cogneur"
+description: "Un maître d’armes qui manie une épée deux fois plus grande que lui."
+difficulty: 14
+thresholds: "8/15"
+hp: 6
+stress: 3
+atk: "+2"
+attack: "Claymore"
+range: "Très proche"
+damage: "1d12+2 phy"
+motives_and_tactics: "Agir en premier, viser le plus faible, intimider"
+features:
+  - "Frappe provocatrice - Action"
+  - "Poussée d’adrénaline - Action"
+  - "Élan - Réaction"
 ---
 
 # Maître d’armes

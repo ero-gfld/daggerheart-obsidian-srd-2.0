@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Fortified Armor"
+tags:
+  - "daggerheart/domain-card"
+name: "Armure renforcée"
+domain: "Lame"
+level: 4
+type: "Capacité"
+recall: 0
 ---
 
 # Armure renforcée

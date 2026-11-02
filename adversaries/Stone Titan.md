@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Stone Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan de pierre"
+tier: 2
+type: "Solo"
+description: "Un colosse à la peau grise qui vit sous terre et se spécialise dans la fabrication d’objets puissants incrustés de runes magiques."
+difficulty: 17
+thresholds: "17/32"
+hp: 5
+stress: 5
+atk: "+3"
+attack: "Marteau de pierre"
+range: "Très proche"
+damage: "3d6+8 phy"
+motives_and_tactics: "Se fondre dans les rochers, fabriquer et méditer, poursuivre une prophétie, cultiver la solitude"
+experience: "Artisanat +3, Runes +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Frappe habile - Passif"
+  - "Mal du soleil - Passif"
+  - "Coup de marteau - Action"
 ---
 
 # Titan de pierre

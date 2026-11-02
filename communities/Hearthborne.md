@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hearthborne"
+tags:
+  - "daggerheart/community"
+name: "Né du foyer"
+description: "Faire partie d’une communauté de Nés du foyer, c’est venir d’origines modestes, d’un petit village ou d’une campagne paisible."
+traits: "prudents, généreux, repliés sur eux-mêmes, bavards, souriants et attachés aux traditions"
+features:
+  - "Soudés"
 ---
 
 # Né du foyer

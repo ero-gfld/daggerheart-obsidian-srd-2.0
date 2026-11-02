@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Armorer"
+tags:
+  - "daggerheart/domain-card"
+name: "Armurier"
+domain: "Vaillance"
+level: 5
+type: "Capacité"
+recall: 1
 ---
 
 # Armurier

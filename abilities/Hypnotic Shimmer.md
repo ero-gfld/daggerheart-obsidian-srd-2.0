@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hypnotic Shimmer"
+tags:
+  - "daggerheart/domain-card"
+name: "Chatoiement hypnotique"
+domain: "Grâce"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Chatoiement hypnotique

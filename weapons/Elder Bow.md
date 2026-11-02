@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Elder Bow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc ancien"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d6+4 mag"
+burden: "À deux mains"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Arc ancien

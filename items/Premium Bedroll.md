@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Premium Bedroll"
+tags:
+  - "daggerheart/item"
+name: "Couchage de luxe"
+effect: "Pendant le temps de repos, vous évacuez automatiquement un Stress."
 ---
 
 # Couchage de luxe

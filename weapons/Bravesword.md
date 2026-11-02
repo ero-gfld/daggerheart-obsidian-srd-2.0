@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Bravesword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée du brave"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d12+7 phy"
+burden: "À deux mains"
+feature: "Brave : −1 à l’Évasion ; +3 au seuil de dégâts sévères"
 ---
 
 # Épée du brave

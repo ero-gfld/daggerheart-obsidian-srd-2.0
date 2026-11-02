@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Brass Knuckles"
+tags:
+  - "daggerheart/weapon"
+name: "Coups-de-poing en laiton améliorés"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
 ---
 
 # Coups-de-poing en laiton améliorés

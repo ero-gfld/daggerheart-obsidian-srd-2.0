@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Wand"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette avancée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+7 mag"
+burden: "À une main"
 ---
 
 # Baguette avancée

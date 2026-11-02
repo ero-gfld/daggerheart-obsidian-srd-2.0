@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Bare Bones"
+tags:
+  - "daggerheart/domain-card"
+name: "Os à nu"
+domain: "Vaillance"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Os à nu

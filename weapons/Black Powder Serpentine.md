@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Black Powder Serpentine"
+tags:
+  - "daggerheart/weapon"
+name: "Serpentine à poudre noire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Loin"
+damage: "d8+12 phy"
+burden: "À deux mains"
+feature: "Incendiaire : −1 à l’Agilité ; sur une attaque réussie, toutes les créatures à portée Très proche de la cible doivent marquer un point de vie."
 ---
 
 # Serpentine à poudre noire

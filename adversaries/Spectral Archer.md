@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Spectral Archer"
+tags:
+  - "daggerheart/adversary"
+name: "Archer spectral"
+tier: 2
+type: "Tireur"
+description: "Un guerrier fantomatique à l’arc éthéré, incapable de trouver le repos tant que ceux qu’il garde sont en danger."
+difficulty: 13
+thresholds: "6/14"
+hp: 3
+stress: 3
+atk: "+3"
+attack: "Arc long"
+range: "Loin"
+damage: "2d10+2 phy"
+motives_and_tactics: "Traverser les objets solides, rester à l’écart de la mêlée, rejouer de vieilles batailles"
+experience: "Savoir ancien +2"
+features:
+  - "Fantôme - Passif"
+  - "Choisir sa cible - Action"
 ---
 
 # Archer spectral

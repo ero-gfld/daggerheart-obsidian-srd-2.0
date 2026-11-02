@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Rocket Maul"
+tags:
+  - "daggerheart/weapon"
+name: "Maillet-fusée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+7 mag"
+burden: "À deux mains"
+feature: "Commotion : Après une attaque réussie, vous pouvez dépenser un Espoir pour repousser la cible jusqu’à portée Loin."
 ---
 
 # Maillet-fusée

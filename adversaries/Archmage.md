@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Archmage"
+tags:
+  - "daggerheart/adversary"
+name: "Archimage"
+tier: 3
+type: "Solo"
+description: "Un chercheur de savoirs secrets, caché dans une tour remplie de grimoires."
+difficulty: 18
+thresholds: "24/45"
+hp: 5
+stress: 8
+atk: "+5"
+attack: "Grand bâton de l’Archimage"
+range: "Loin"
+damage: "3d10 mag"
+motives_and_tactics: "Corrompre, détruire, submerger par un pouvoir maléfique"
+experience: "Ésotérisme +4"
+features:
+  - "Implacable (3) - Passif"
+  - "Égide orbitante - Passif"
+  - "Salve de force - Action"
+  - "Boule de feu - Action"
+  - "Contresort - Réaction"
 ---
 
 # Archimage

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Arcane Reflection"
+tags:
+  - "daggerheart/domain-card"
+name: "Reflet arcanique"
+domain: "Arcanes"
+level: 8
+type: "Sort"
+recall: 1
 ---
 
 # Reflet arcanique

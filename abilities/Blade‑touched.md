@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Blade‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par la Lame"
+domain: "Lame"
+level: 7
+type: "Capacité"
+recall: 1
 ---
 
 # Touché par la Lame

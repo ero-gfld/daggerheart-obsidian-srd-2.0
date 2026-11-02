@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Head Vampire"
+tags:
+  - "daggerheart/adversary"
+name: "Vampire-chef"
+tier: 3
+type: "Meneur"
+description: "Un mort-vivant envoûtant, vêtu d’atours aristocratiques."
+difficulty: 17
+thresholds: "22/42"
+hp: 6
+stress: 6
+atk: "+5"
+attack: "Rapière"
+range: "Mêlée"
+damage: "2d20+4 phy"
+motives_and_tactics: "Créer des esclaves, charmer, commander, voler, intimider"
+experience: "Aristocrate +3"
+features:
+  - "Terrifiant - Passif"
+  - "Regardez-moi dans les yeux - Passif"
+  - "Se nourrir des suivants - Action"
+  - "La chasse est ouverte - Action"
+  - "Succion vitale - Réaction"
 ---
 
 # Vampire-chef

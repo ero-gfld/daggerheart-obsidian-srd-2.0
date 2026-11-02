@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wanderborne"
+tags:
+  - "daggerheart/community"
+name: "Né errant"
+description: "Faire partie d’une communauté de Nés errants, c’est avoir vécu en nomade, sans foyer permanent, au contact d’une grande variété de cultures."
+traits: "impénétrables, magnanimes, enjoués, fiables, avisés et peu orthodoxes"
+features:
+  - "Paquetage nomade"
 ---
 
 # Né errant

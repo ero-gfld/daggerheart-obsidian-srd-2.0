@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Gobstalker"
+tags:
+  - "daggerheart/adversary"
+name: "Traqueur gobelin"
+tier: 2
+type: "Solo"
+description: "Une boule charnue et flottante, hérissée de dents, couverte de nombreux yeux et dotée d’un faisceau de tentacules à bouche qui lancent des rayons magiques."
+difficulty: 15
+thresholds: "10/20"
+hp: 8
+stress: 6
+atk: "+2"
+attack: "Tentacules à bouche"
+range: "Très proche"
+damage: "2d6+3 phy"
+motives_and_tactics: "Tendre des embuscades aux rivaux, chercher des richesses, tirer des rayons"
+experience: "Magie +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Halitose anti-magique - Passif"
+  - "Rayons tentaculaires - Action"
+  - "Ventouse de sangsue - Réaction"
 ---
 
 # Traqueur gobelin

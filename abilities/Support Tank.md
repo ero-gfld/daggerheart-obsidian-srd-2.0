@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Support Tank"
+tags:
+  - "daggerheart/domain-card"
+name: "Rempart de soutien"
+domain: "Vaillance"
+level: 4
+type: "Capacité"
+recall: 2
 ---
 
 # Rempart de soutien

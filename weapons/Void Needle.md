@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Void Needle"
+tags:
+  - "daggerheart/weapon"
+name: "Aiguille du vide"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d4+6 phy"
+burden: "À une main"
+feature: "Inversé : Quand vous faites un jet d’attaque avec la Peur, vous gagnez un Espoir."
 ---
 
 # Aiguille du vide

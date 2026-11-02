@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Enchanted Chakram"
+tags:
+  - "daggerheart/weapon"
+name: "Chakram enchanté amélioré"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d6+4 mag"
+burden: "À une main"
+feature: "Ricochet : Quand vous lancez cette arme, elle revient dans votre main. Quand vous faites une attaque, vous pouvez marquer un Stress pour viser avec cette attaque une autre cible à portée Très proche de la première."
 ---
 
 # Chakram enchanté amélioré

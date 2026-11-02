@@ -1,6 +1,19 @@
 ---
 aliases:
   - "School of Knowledge"
+tags:
+  - "daggerheart/subclass"
+name: "École du Savoir"
+class: "Magicien"
+spellcast_trait: "Savoir"
+description: "Jouez l’École du Savoir si vous voulez comprendre finement le monde qui vous entoure."
+features:
+  - "Préparé"
+  - "Adepte"
+  - "Accompli"
+  - "Rappel parfait"
+  - "Brillant"
+  - "Expertise affûtée"
 ---
 
 # École du Savoir

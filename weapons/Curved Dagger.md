@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Curved Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague courbe"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+9 phy"
+burden: "À une main"
+feature: "Dentelée : lorsque vous obtenez un 1 sur un dé de dégâts, celui-ci inflige 8 dégâts à la place."
 ---
 
 # Dague courbe

@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Berserker Alpha"
+tags:
+  - "daggerheart/adversary"
+name: "Berserker alpha"
+tier: 2
+type: "Meneur"
+description: "Un commandant aguerri qui avale des élixirs magiques pour se transformer en bête et mener sa meute à la chasse."
+difficulty: 14
+thresholds: "13/26"
+hp: 6
+stress: 4
+atk: "+3"
+attack: "Dents et griffes"
+range: "Mêlée"
+damage: "2d10+2 phy"
+motives_and_tactics: "Accepter la transformation, hurler à la lune, mener la meute, rattraper les ennemis"
+experience: "Chasse +3, Sens aiguisés +2"
+features:
+  - "Fureur de meute - Passif"
+  - "Hurler à la lune - Action"
+  - "Rage du berserker - Réaction"
 ---
 
 # Berserker alpha

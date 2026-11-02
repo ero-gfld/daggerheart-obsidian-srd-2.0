@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Katari"
-description: "Katari are feline humanoids with retractable claws, vertically slit pupils, and high, triangular ears."
+description: "Les katari sont des humanoïdes félins aux griffes rétractiles, aux pupilles en fente verticale et aux hautes oreilles triangulaires."
 features:
-  - "Feline Instincts"
-  - "Retracting Claws"
+  - "Instincts félins"
+  - "Griffes rétractiles"
 ---
 
 # Katari

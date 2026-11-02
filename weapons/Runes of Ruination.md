@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Runes of Ruination"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de ruine"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Très proche"
+damage: "d20+4 mag"
+burden: "À une main"
+feature: "Douloureux : Chaque fois que vous réussissez une attaque, vous devez marquer un Stress."
 ---
 
 # Runes de ruine

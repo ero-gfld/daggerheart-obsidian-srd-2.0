@@ -1,6 +1,17 @@
 ---
 aliases:
   - "War Dart"
+tags:
+  - "daggerheart/weapon"
+name: "Dard de guerre"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+5 phy"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec les statistiques suivantes : Agilité, Mêlée, d8+5."
 ---
 
 # Dard de guerre

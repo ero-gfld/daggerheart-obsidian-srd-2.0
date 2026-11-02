@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Head Guard"
+tags:
+  - "daggerheart/adversary"
+name: "Garde en chef"
+tier: 1
+type: "Meneur"
+description: "Un garde chevronné, armé d’une masse, d’un sifflet et d’une voix de stentor."
+difficulty: 15
+thresholds: "7/13"
+hp: 7
+stress: 3
+atk: "+4"
+attack: "Masse"
+range: "Mêlée"
+damage: "1d10+4 phy"
+motives_and_tactics: "Arrêter, fermer les portes, clouer sur place, chercher la gloire"
+experience: "Commandement +2, Savoir local +2"
+features:
+  - "Rallier les gardes - Action"
+  - "À mon signal - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Garde en chef

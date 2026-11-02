@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Sorcerer"
+tags:
+  - "daggerheart/class"
+name: "Ensorceleur"
+domains:
+  - "Arcanes & Minuit"
+evasion: 10
+hp: 6
+subclasses:
+  - "Origine élémentaire"
+  - "Origine primordiale"
+items: "Une orbe chuchotante ou un héritage de famille"
+description: "Tous les utilisateurs de magie innée ne choisissent pas de perfectionner leur art, mais ceux qui le font peuvent devenir de puissants ensorceleurs."
 ---
 
 # Ensorceleur

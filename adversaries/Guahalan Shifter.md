@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Guahalan Shifter"
+tags:
+  - "daggerheart/adversary"
+name: "Métamorphe guahalan"
+tier: 2
+type: "Standard"
+description: "Un guerrier masqué et métamorphe, aux traits animaux."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Massue de guerre"
+range: "Mêlée"
+damage: "2d8+4 phy"
+motives_and_tactics: "S’échapper, profiter, lancer des fumigènes"
+experience: "Chasseur +2, Piégeur +2"
+features:
+  - "Libérer la bête - Action"
+  - "Attaque de meute - Action"
 ---
 
 # Métamorphe guahalan

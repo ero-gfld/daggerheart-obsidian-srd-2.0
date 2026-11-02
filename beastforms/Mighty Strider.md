@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Mighty Strider"
+tags:
+  - "daggerheart/beastform"
+name: "Arpenteur puissant"
+tier: 2
+examples: "Chameau, cheval, zèbre, etc."
+trait_bonus: "Agilité +1"
+evasion: "+2"
+attack: "Mêlée Agilité d8+1 phy"
+advantages: "bondir, s’orienter, piquer un sprint"
+features:
+  - "Porteur"
+  - "Piétinement"
 ---
 
 # Arpenteur puissant

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Fury Gem"
+tags:
+  - "daggerheart/weapon"
+name: "Gemme de fureur"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d8+3 mag"
+burden: "À une main"
+feature: "Embrasement : Quand vous obtenez le résultat maximal sur un dé de dégâts, la cible doit marquer un Stress."
 ---
 
 # Gemme de fureur

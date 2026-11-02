@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Hallowed Archer"
+tags:
+  - "daggerheart/adversary"
+name: "Archer sanctifié"
+tier: 4
+type: "Tireur"
+description: "Des soldats esprits aux arcs sanctifiés."
+difficulty: 19
+thresholds: "25/45"
+hp: 3
+stress: 2
+atk: "+4"
+attack: "Long arc sanctifié"
+range: "Loin"
+damage: "4d8+8 phy"
+motives_and_tactics: "Concentrer le tir, obéir, se repositionner, tirer en salve"
+features:
+  - "Punir les coupables - Passif"
+  - "Salve divine - Action"
 ---
 
 # Archer sanctifié

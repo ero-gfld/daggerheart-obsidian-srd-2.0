@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Falling Sky"
+tags:
+  - "daggerheart/domain-card"
+name: "Ciel qui tombe"
+domain: "Arcanes"
+level: 10
+type: "Sort"
+recall: 1
 ---
 
 # Ciel qui tombe

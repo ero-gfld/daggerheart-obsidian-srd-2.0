@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Mossmantle Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de manteau de mousse"
+effect: "Vous pouvez boire cette tisane pour vous fondre parfaitement dans les environnements naturels jusqu’à votre prochain repos."
 ---
 
 # Potion de manteau de mousse

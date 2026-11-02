@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Electric Eels"
+tags:
+  - "daggerheart/adversary"
+name: "Anguilles électriques"
+tier: 2
+type: "Horde"
+horde: 2
+description: "Un essaim d’anguilles qui encerclent et électrocutent."
+difficulty: 14
+thresholds: "10/20"
+hp: 5
+stress: 3
+atk: "+0"
+attack: "Morsure électrique"
+range: "Mêlée"
+damage: "2d6+4 phy"
+motives_and_tactics: "Éviter les grands prédateurs, électrocuter les proies, déchiqueter"
+features:
+  - "Horde (2d4+1) - Passif"
+  - "Décharge paralysante - Action"
 ---
 
 # Anguilles électriques

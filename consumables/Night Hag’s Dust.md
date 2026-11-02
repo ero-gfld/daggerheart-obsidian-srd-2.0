@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Night Hag’s Dust"
+tags:
+  - "daggerheart/consumable"
+name: "Poussière de guenaude nocturne"
+effect: "Vous pouvez souffler cette poussière au visage d’un adversaire pour l’empêcher d’évacuer du Stress jusqu’à votre prochain repos long."
 ---
 
 # Poussière de guenaude nocturne

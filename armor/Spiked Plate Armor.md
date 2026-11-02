@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Spiked Plate Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de plates à pointes"
+tier: 3
+thresholds: "10/25"
+score: 5
+feature: "Tranchant : Sur une attaque réussie contre une cible à portée de Mêlée, ajoutez un d4 au jet de dégâts."
 ---
 
 # Armure de plates à pointes

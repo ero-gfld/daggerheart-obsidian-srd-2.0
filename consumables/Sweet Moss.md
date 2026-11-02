@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Sweet Moss"
+tags:
+  - "daggerheart/consumable"
+name: "Mousse douce"
+effect: "Vous pouvez consommer cette mousse pendant un repos pour libérer 1d10 PV ou évacuer 1d10 Stress."
 ---
 
 # Mousse douce

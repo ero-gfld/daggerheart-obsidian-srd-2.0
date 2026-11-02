@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Spear"
+tags:
+  - "daggerheart/weapon"
+name: "Lance légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d8+12 phy"
+burden: "À deux mains"
 ---
 
 # Lance légendaire

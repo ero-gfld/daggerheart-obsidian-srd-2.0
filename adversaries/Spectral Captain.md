@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Spectral Captain"
+tags:
+  - "daggerheart/adversary"
+name: "Capitaine spectral"
+tier: 2
+type: "Meneur"
+description: "Un commandant fantomatique qui mène ses troupes au-delà de la mort."
+difficulty: 16
+thresholds: "13/26"
+hp: 6
+stress: 4
+atk: "+3"
+attack: "Arc long"
+range: "Loin"
+damage: "2d10+3 phy"
+motives_and_tactics: "Traverser les objets solides, rallier les troupes, rejouer de vieilles batailles"
+experience: "Savoir ancien +3"
+features:
+  - "Fantôme - Passif"
+  - "Bataille sans fin - Action"
+  - "Tenir bon - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Capitaine spectral

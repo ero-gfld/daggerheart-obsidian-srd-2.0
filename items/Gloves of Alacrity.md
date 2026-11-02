@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Gloves of Alacrity"
+tags:
+  - "daggerheart/item"
+name: "Gants de célérité"
+effect: "Lorsque vous devriez marquer un Stress pour recharger une arme, vous ne le marquez pas."
 ---
 
 # Gants de célérité

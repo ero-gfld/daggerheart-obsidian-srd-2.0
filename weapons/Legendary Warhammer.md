@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Warhammer"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau de guerre légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d12+12 phy"
+burden: "À deux mains"
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Marteau de guerre légendaire

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Night Terror"
+tags:
+  - "daggerheart/domain-card"
+name: "Terreur nocturne"
+domain: "Minuit"
+level: 9
+type: "Sort"
+recall: 2
 ---
 
 # Terreur nocturne

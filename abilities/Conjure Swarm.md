@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Conjure Swarm"
+tags:
+  - "daggerheart/domain-card"
+name: "Invoquer un essaim"
+domain: "Nature"
+level: 2
+type: "Sort"
+recall: 1
 ---
 
 # Invoquer un essaim

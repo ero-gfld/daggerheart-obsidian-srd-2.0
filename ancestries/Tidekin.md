@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Tidekin"
+tags:
+  - "daggerheart/ancestry"
+name: "Enfant des eaux"
+description: "Les enfants des eaux sont des humanoïdes dont le corps est fait de chair et d’eau."
+features:
+  - "Amphibie"
+  - "Source de vie"
 ---
 
 # Enfant des eaux

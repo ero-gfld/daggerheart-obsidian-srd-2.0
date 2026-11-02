@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Broadsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée large améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Épée large améliorée

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Guahalan Fang Lord"
+tags:
+  - "daggerheart/adversary"
+name: "Seigneur des crocs guahalan"
+tier: 2
+type: "Meneur"
+description: "Un seigneur de guerre métamorphe, qui mène un groupe de guerriers au combat."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Lance"
+range: "Très proche"
+damage: "2d8+4 phy"
+motives_and_tactics: "Soutenir les alliés, mener la meute, rallier les troupes"
+experience: "Savoir ancien +2, Chasseur +2"
+features:
+  - "Meute alpha - Passif"
+  - "Libérer la bête - Action"
+  - "Appel de la Guahala - Action"
+  - "Forme sauvage (changement de phase) - Réaction"
 ---
 
 # Seigneur des crocs guahalan

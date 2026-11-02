@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Ambushed"
+tags:
+  - "daggerheart/environment"
+name: "Pris en embuscade"
+tier: 1
+type: "Événement"
+description: "Une embuscade est tendue pour surprendre un groupe qui ne se méfie pas."
+difficulty: "Spéciale (voir « Force relative »)"
+impulses: "Submerger, disperser, encercler"
+potential_adversaries: "Tous"
+features:
+  - "Force relative - Passif"
+  - "Surprise ! - Action"
 ---
 
 # Pris en embuscade

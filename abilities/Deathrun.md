@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Deathrun"
+tags:
+  - "daggerheart/domain-card"
+name: "Course à la mort"
+domain: "Os"
+level: 10
+type: "Capacité"
+recall: 1
 ---
 
 # Course à la mort

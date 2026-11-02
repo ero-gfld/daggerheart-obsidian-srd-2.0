@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Rust Eater"
+tags:
+  - "daggerheart/adversary"
+name: "Mangeur de rouille"
+tier: 2
+type: "Standard"
+description: "Un cafard de la taille d'un poney, recouvert d'une chitine corrosive qui transforme le métal en rouille."
+difficulty: 12
+thresholds: "10/18"
+hp: 5
+stress: 2
+atk: "+1"
+attack: "Morsure"
+range: "Mêlée"
+damage: "2d6+4 phy"
+motives_and_tactics: "Éviter la détection, manger la rouille, flairer le métal"
+experience: "Reniflement +3"
+features:
+  - "Phéromones étouffantes - Passif"
+  - "Toucher rouillé - Passif"
 ---
 
 # Mangeur de rouille

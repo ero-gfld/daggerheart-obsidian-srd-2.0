@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Fallen Sorcerer"
+tags:
+  - "daggerheart/adversary"
+name: "Sorcier déchu"
+tier: 4
+type: "Soutien"
+description: "Un puissant mage lié par les marchés conclus de son vivant."
+difficulty: 19
+thresholds: "26/42"
+hp: 6
+stress: 5
+atk: "+4"
+attack: "Bâton corrompu"
+range: "Loin"
+damage: "4d6+10 mag"
+motives_and_tactics: "Acquérir, décourager, dominer, tourmenter"
+experience: "Savoir ancien +2"
+features:
+  - "Embrasement - Action"
+  - "Tableau cauchemardesque - Action"
+  - "Insaisissable - Réaction"
+  - "Chaînes de culpabilité - Réaction"
 ---
 
 # Sorcier déchu

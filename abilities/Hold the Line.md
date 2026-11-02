@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hold the Line"
+tags:
+  - "daggerheart/domain-card"
+name: "Tenir la ligne"
+domain: "Vaillance"
+level: 9
+type: "Capacité"
+recall: 1
 ---
 
 # Tenir la ligne

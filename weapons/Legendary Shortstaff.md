@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Shortstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton court légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d8+10 mag"
+burden: "À une main"
 ---
 
 # Bâton court légendaire

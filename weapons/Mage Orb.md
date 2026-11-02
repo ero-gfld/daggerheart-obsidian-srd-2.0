@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Mage Orb"
+tags:
+  - "daggerheart/weapon"
+name: "Orbe de mage"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+7 mag"
+burden: "À une main"
+feature: "Puissant : En cas d’attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible."
 ---
 
 # Orbe de mage

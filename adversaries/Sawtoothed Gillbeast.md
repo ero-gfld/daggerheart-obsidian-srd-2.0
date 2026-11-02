@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Sawtoothed Gillbeast"
+tags:
+  - "daggerheart/adversary"
+name: "Bête branchiale dentelée"
+tier: 1
+type: "Standard"
+description: "Une créature-poisson trapue, aux rangées de dents tranchantes comme des rasoirs."
+difficulty: 12
+thresholds: "5/10"
+hp: 4
+stress: 2
+atk: "+1"
+attack: "Armement détrempé"
+range: "Proche"
+damage: "1d8+1 phy"
+motives_and_tactics: "Grimper sur la rive, frapper puis fuir, guetter au ras de la surface"
+experience: "Aquatique +2"
+features:
+  - "Croc-claquement - Action"
+  - "Frénésie alimentaire - Réaction"
+  - "Écailleuse - Réaction"
 ---
 
 # Bête branchiale dentelée

@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Corrupted Swamp"
+tags:
+  - "daggerheart/environment"
+name: "Marais corrompu"
+tier: 1
+type: "Traversée"
+description: "Une étendue misérable d’eau visqueuse, de créatures toxiques et de pourriture."
+difficulty: 11
+impulses: "corrompre, mettre en avant la putréfaction, révéler le tordu et le contre-nature, rendre malade"
+potential_adversaries: "Tout mort-vivant (Squelette, Zombie, Gardien spectral), Rat géant, Gelée verte, Ronce entremêlée"
+features:
+  - "Mal du marais - Passif"
+  - "Trempé et englué - Passif"
+  - "Floraison pourrie - Action"
+  - "Lumières dansantes - Action"
 ---
 
 # Marais corrompu

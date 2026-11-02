@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Landshark"
+tags:
+  - "daggerheart/adversary"
+name: "Requin terrestre"
+tier: 2
+type: "Cogneur"
+description: "Un requin à quatre pattes qui nage à travers le sol."
+difficulty: 14
+thresholds: "14/25"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Gueule dentée"
+range: "Très proche"
+damage: "2d10+2 phy"
+motives_and_tactics: "S’enfouir, jaillir du sol, encercler ses proies"
+experience: "Souterrain +3, Sanguinaire +2"
+features:
+  - "Fouissement - Passif"
+  - "Peau épaisse - Passif"
+  - "Morsure déchirante - Réaction"
 ---
 
 # Requin terrestre

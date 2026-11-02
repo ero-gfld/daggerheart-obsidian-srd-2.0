@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Razor Wire"
+tags:
+  - "daggerheart/weapon"
+name: "Fil rasoir"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Très proche"
+damage: "d6+3 phy"
+burden: "À une main"
+feature: "Enchevêtrement : Après une attaque réussie avec votre arme principale contre une cible à portée Très proche, vous pouvez dépenser un Espoir pour rendre la cible temporairement Vulnérable."
 ---
 
 # Fil rasoir

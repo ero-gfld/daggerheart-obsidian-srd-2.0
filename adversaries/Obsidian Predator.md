@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Obsidian Predator"
+tags:
+  - "daggerheart/adversary"
+name: "Prédateur d'obsidienne"
+tier: 4
+type: "Solo"
+description: "Une immense créature ailée aux écailles d'obsidienne et aux griffes d'une acuité invraisemblable."
+difficulty: 19
+thresholds: "33/65"
+hp: 6
+stress: 5
+atk: "+8"
+attack: "Griffes d'obsidienne"
+range: "Proche"
+damage: "4d10+4 phy"
+motives_and_tactics: "Défendre sa tanière, piquer en piqué, voler, chasser, intimider"
+experience: "Chasse d'en haut +5"
+features:
+  - "Implacable (2) - Passif"
+  - "Vol - Passif"
+  - "Écailles d'obsidienne - Passif"
+  - "Queue avalanche - Action"
+  - "Piqué bombardier - Action"
+  - "Rage éruptive (Changement de phase) - Réaction"
 ---
 
 # Prédateur d'obsidienne

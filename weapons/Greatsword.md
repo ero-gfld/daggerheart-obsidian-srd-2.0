@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Greatsword"
+tags:
+  - "daggerheart/weapon"
+name: "Espadon"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+3 phy"
+burden: "À deux mains"
+feature: "Massif : −1 à l’Évasion ; sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus bas."
 ---
 
 # Espadon

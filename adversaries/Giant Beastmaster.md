@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Giant Beastmaster"
+tags:
+  - "daggerheart/adversary"
+name: "Maître-dresseur géant"
+tier: 2
+type: "Meneur"
+description: "Un guerrier vêtu de cuir, armé d’un fouet et d’un immense arc."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Arc long"
+range: "Loin"
+damage: "2d8+4 phy"
+motives_and_tactics: "Commander, gagner sa vie, manœuvrer, immobiliser, protéger les animaux de compagnie"
+experience: "Dressage +3"
+features:
+  - "Deux en un - Passif"
+  - "Frappe clouante - Action"
+  - "Compagnon mortel - Action"
 ---
 
 # Maître-dresseur géant

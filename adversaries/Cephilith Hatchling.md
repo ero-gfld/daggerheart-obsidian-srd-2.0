@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Cephilith Hatchling"
+tags:
+  - "daggerheart/adversary"
+name: "Éclos cephilith"
+tier: 4
+type: "Sbire"
+description: "Parasite semblable à une pieuvre, qui s’accroche au crâne de sa proie et baigne le cerveau de la victime dans des neurotoxines extradimensionnelles."
+difficulty: 18
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Ventouses barbelées"
+range: "Mêlée"
+damage: "9 phy"
+motives_and_tactics: "Grimper, se nourrir, éclore, engourdir, détaler"
+experience: "Psychique +2"
+features:
+  - "Sbire (12) - Passif"
+  - "Engourdissement - Action"
+  - "Attaque de groupe - Action"
 ---
 
 # Éclos cephilith

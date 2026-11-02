@@ -2,13 +2,13 @@
 tags:
   - "daggerheart/subclass"
 name: "Vengeance"
-class: "Guardian"
-description: "Play the Vengeance if you want to strike down enemies who harm you or your allies."
+class: "Gardien"
+description: "Jouez la Vengeance si vous voulez abattre les ennemis qui vous font du mal, à vous ou à vos alliés."
 features:
-  - "At Ease"
-  - "Revenge"
-  - "Act of Reprisal"
-  - "Nemesis"
+  - "Serein"
+  - "Revanche"
+  - "Acte de représailles"
+  - "Némésis"
 ---
 
 # Vengeance

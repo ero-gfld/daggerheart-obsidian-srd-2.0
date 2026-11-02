@@ -1,6 +1,23 @@
 ---
 aliases:
   - "Tiny Red Ooze"
+tags:
+  - "daggerheart/adversary"
+name: "Minuscule gelée rouge"
+tier: 1
+type: "Furtif"
+description: "Un petit monticule mouvant de glu rouge flamboyante et translucide"
+difficulty: 11
+thresholds: "5/Aucun"
+hp: 2
+stress: 1
+atk: "-1"
+attack: "Pseudopode"
+range: "Mêlée"
+damage: "1d4+2 mag"
+motives_and_tactics: "Embraser, se camoufler"
+features:
+  - "Brûlure - Réaction"
 ---
 
 # Minuscule gelée rouge

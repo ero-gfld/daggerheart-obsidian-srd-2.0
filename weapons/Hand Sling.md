@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Hand Sling"
+tags:
+  - "daggerheart/weapon"
+name: "Fronde de poing"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Très loin"
+damage: "d6+4 phy"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces caractéristiques : Finesse, Proche, d8+4."
 ---
 
 # Fronde de poing

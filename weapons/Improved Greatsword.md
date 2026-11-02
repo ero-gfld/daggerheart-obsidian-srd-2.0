@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Greatsword"
+tags:
+  - "daggerheart/weapon"
+name: "Espadon amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+6 phy"
+burden: "À deux mains"
+feature: "Massif : −1 à l’Évasion ; sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible."
 ---
 
 # Espadon amélioré

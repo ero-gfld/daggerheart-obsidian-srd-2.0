@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Shambling Zombie"
+tags:
+  - "daggerheart/adversary"
+name: "Zombie traînant"
+tier: 1
+type: "Standard"
+description: "Un cadavre animé qui avance d'un pas chancelant, mû par la seule faim."
+difficulty: 10
+thresholds: "4/6"
+hp: 4
+stress: 1
+atk: "+0"
+attack: "Morsure"
+range: "Mêlée"
+damage: "1d6+1 phy"
+motives_and_tactics: "Dévorer, avoir faim, assaillir l'ennemi en meute, déchiqueter la chair"
+features:
+  - "Trop nombreux pour être gérés - Passif"
+  - "Effroyable - Passif"
 ---
 
 # Zombie traînant

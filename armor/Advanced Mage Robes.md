@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Advanced Mage Robes"
+tags:
+  - "daggerheart/armor"
+name: "Robes de mage avancées"
+tier: 3
+thresholds: "8/22"
+score: 4
+feature: "Enchanté : Gagnez un bonus à vos seuils de dégâts égal à votre caractéristique d’Incantation."
 ---
 
 # Robes de mage avancées

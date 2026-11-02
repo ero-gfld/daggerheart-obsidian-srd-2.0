@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Corrector Sprite"
+tags:
+  - "daggerheart/item"
+name: "Lutin correcteur"
+effect: "Ce minuscule lutin se loge dans le creux de votre conduit auditif et vous glisse des conseils utiles pendant les combats. Une fois par repos court, vous pouvez obtenir un avantage à un jet d’attaque."
 ---
 
 # Lutin correcteur

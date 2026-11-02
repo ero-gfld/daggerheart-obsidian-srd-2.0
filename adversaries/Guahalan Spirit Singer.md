@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Guahalan Spirit Singer"
+tags:
+  - "daggerheart/adversary"
+name: "Chanteur d’esprits guahalan"
+tier: 2
+type: "Soutien"
+description: "Un invocateur métamorphe, aux traits animaux."
+difficulty: 14
+thresholds: "9/18"
+hp: 4
+stress: 6
+atk: "+2"
+attack: "Flamme spirituelle"
+range: "Proche"
+damage: "2d6+4 mag"
+motives_and_tactics: "Abjurer, soutenir, invoquer"
+experience: "Rituel +3, Histoire ancienne +2"
+features:
+  - "Libérer la bête - Action"
+  - "Appel des bêtes - Action"
+  - "Rage des esprits - Action"
+  - "Sacrifice spirituel - Réaction"
 ---
 
 # Chanteur d’esprits guahalan

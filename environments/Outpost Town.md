@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Outpost Town"
+tags:
+  - "daggerheart/environment"
+name: "Bourg avant-poste"
+tier: 1
+type: "Social"
+description: "Une petite ville aux confins d’une nation ou d’une région, près d’un donjon, de tombeaux ou d’autres destinations d’aventuriers."
+difficulty: 12
+impulses: "conduire les désespérés vers une perte certaine, profiter d’un espoir en lambeaux"
+potential_adversaries: "Bandits des Lames dentelées (Envoûteur, Casse-genoux, Laquais, Lieutenant, Ombre, Tireur d’élite), Voleur masqué, Marchand"
+features:
+  - "Les rumeurs abondent - Passif"
+  - "Société de la boussole brisée - Passif"
+  - "Groupe rival - Passif"
+  - "Ce serait dommage qu’il arrive quelque chose à votre boutique - Action"
+  - "Au mauvais endroit, au mauvais moment - Réaction"
 ---
 
 # Bourg avant-poste

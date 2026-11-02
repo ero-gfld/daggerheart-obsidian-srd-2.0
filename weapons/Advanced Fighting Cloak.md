@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Fighting Cloak"
+tags:
+  - "daggerheart/weapon"
+name: "Cape de combat avancée"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d4+4 phy"
+burden: "À une main"
+feature: "Rembourré : +4 aux seuils de dégâts"
 ---
 
 # Cape de combat avancée

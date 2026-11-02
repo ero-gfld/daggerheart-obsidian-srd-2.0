@@ -3,15 +3,15 @@ tags:
   - "daggerheart/class"
 name: "Assassin"
 domains:
-  - "Blade"
-  - "Midnight"
+  - "Lame"
+  - "Minuit"
 evasion: 12
 hp: 5
 subclasses:
-  - "Executioners Guild"
-  - "Poisoners Guild"
-items: "A list of names with several marked off or a rusted blade inscribed with an insignia"
-description: "Assassins are masters at inflicting deadly injuries with precise strikes."
+  - "Guilde des bourreaux"
+  - "Guilde des empoisonneurs"
+items: "Une liste de noms dont plusieurs sont rayés, ou une lame rouillée gravée d’un emblème"
+description: "Les assassins sont passés maîtres dans l’art d’infliger des blessures mortelles par des coups précis."
 ---
 
 # Assassin

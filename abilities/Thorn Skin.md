@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Thorn Skin"
+tags:
+  - "daggerheart/domain-card"
+name: "Peau d’épines"
+domain: "Nature"
+level: 5
+type: "Sort"
+recall: 1
 ---
 
 # Peau d’épines

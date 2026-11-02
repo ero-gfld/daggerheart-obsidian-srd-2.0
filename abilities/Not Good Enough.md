@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Not Good Enough"
+tags:
+  - "daggerheart/domain-card"
+name: "Pas assez bien"
+domain: "Lame"
+level: 1
+type: "Capacité"
+recall: 1
 ---
 
 # Pas assez bien

@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Construct"
+tags:
+  - "daggerheart/adversary"
+name: "Automate"
+tier: 1
+type: "Solo"
+description: "Être à peu près humanoïde, fait de pierre et d’acier, assemblé et animé par la magie."
+difficulty: 13
+thresholds: "7/15"
+hp: 9
+stress: 4
+atk: "+4"
+attack: "Coup de poing"
+range: "Mêlée"
+damage: "1d20 phy"
+motives_and_tactics: "Détruire l’environnement, servir son créateur, écraser sa cible, piétiner les groupes"
+features:
+  - "Implacable (2) - Passif"
+  - "Structure fragile - Passif"
+  - "Piétinement - Action"
+  - "Surcharge - Réaction"
+  - "Séisme mortel - Réaction"
 ---
 
 # Automate

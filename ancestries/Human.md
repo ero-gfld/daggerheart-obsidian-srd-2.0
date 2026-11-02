@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Human"
+tags:
+  - "daggerheart/ancestry"
+name: "Humain"
+description: "Les humains se reconnaissent surtout à leurs mains habiles, leurs oreilles rondes et leur corps fait pour l’endurance."
+features:
+  - "Grande endurance"
+  - "Adaptabilité"
 ---
 
 # Humain

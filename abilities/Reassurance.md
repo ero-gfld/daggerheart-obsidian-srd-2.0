@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Reassurance"
+tags:
+  - "daggerheart/domain-card"
+name: "Réconfort"
+domain: "Splendeur"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Réconfort

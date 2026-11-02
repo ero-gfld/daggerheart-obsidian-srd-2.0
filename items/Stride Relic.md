@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Stride Relic"
+tags:
+  - "daggerheart/item"
+name: "Relique de foulée"
+effect: "Vous gagnez un bonus de +1 à votre Agilité. Vous ne pouvez porter qu’une seule relique."
 ---
 
 # Relique de foulée

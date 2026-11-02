@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Round Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier rond avancé"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d4+4 phy"
+burden: "À une main"
+feature: "Protecteur : +3 au Score d’armure"
 ---
 
 # Bouclier rond avancé

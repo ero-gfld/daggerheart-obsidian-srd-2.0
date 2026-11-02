@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Shadowblade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame d’ombre avancée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+6 phy/mag"
+burden: "À une main"
+feature: "D’outre-monde : Sur une attaque réussie, vous pouvez infliger des dégâts magiques ou physiques."
 ---
 
 # Lame d’ombre avancée

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Soul Chain"
+tags:
+  - "daggerheart/weapon"
+name: "Chaîne d’âme"
+tier: 3
+category: "Secondaire"
+type: "Magique"
+trait: "Présence"
+range: "Très proche"
+damage: "d6+5 mag"
+burden: "À une main"
+feature: "Drainant : Sur une attaque réussie, vous pouvez dépenser un Espoir pour forcer la cible à marquer un Stress. Si elle le fait, vous évacuez un Stress."
 ---
 
 # Chaîne d’âme

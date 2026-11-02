@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rapid Riposte"
+tags:
+  - "daggerheart/domain-card"
+name: "Riposte rapide"
+domain: "Os"
+level: 6
+type: "Capacité"
+recall: 0
 ---
 
 # Riposte rapide

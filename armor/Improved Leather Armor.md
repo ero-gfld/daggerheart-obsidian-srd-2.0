@@ -1,6 +1,12 @@
 ---
 aliases:
   - "Improved Leather Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de cuir améliorée"
+tier: 2
+thresholds: "9/20"
+score: 4
 ---
 
 # Armure de cuir améliorée

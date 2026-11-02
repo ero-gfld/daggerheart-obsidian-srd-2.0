@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Shortsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée courte"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8 phy"
+burden: "À une main"
+feature: "Jumelé : +2 aux dégâts de l’arme principale contre les cibles à portée de Mêlée"
 ---
 
 # Épée courte

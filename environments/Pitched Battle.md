@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Pitched Battle"
+tags:
+  - "daggerheart/environment"
+name: "Bataille rangée"
+tier: 3
+type: "Événement"
+description: "Un combat massif entre deux grands groupes de combattants armés."
+difficulty: 17
+impulses: "s’emparer des gens, des terres et des richesses, verser le sang par cupidité et par gloire"
+potential_adversaries: "Mercenaires (Mercenaire, Harceleur, Lame-sort, Maître d’armes), Forces nobles (Escadron d’archers, Conscrit, Soldat d’élite, Chevalier du royaume)"
+features:
+  - "À la dérive sur une mer d’acier - Passif"
+  - "Raser et piller - Action"
+  - "Magie de guerre - Action"
+  - "Renforts ! - Action"
 ---
 
 # Bataille rangée

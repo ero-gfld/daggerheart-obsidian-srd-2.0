@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Vyola"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Vyola"
+domain: "Codex"
+level: 8
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Vyola

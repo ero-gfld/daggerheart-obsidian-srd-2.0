@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Fire Titan Warlord"
+tags:
+  - "daggerheart/adversary"
+name: "Seigneur de guerre titan de feu"
+tier: 4
+type: "Meneur"
+description: "Un goliath fumant et obsédé par la bataille, vêtu d’une armure sur mesure et brandissant un énorme maillet."
+difficulty: 21
+thresholds: "33/66"
+hp: 9
+stress: 8
+atk: "+6"
+attack: "Maillet"
+range: "Très proche"
+damage: "4d10+10 phy"
+motives_and_tactics: "Rivaliser avec ses adversaires, conquérir les faibles, forger des machines de guerre colossales"
+experience: "Tactique +4"
+features:
+  - "Implacable (2) - Passif"
+  - "Bâtisseur de colosses - Passif"
+  - "Lâcher les chiens - Action"
+  - "Frappe tournoyante - Action"
+  - "Fracasser le sol - Action"
 ---
 
 # Seigneur de guerre titan de feu

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Gilded Bow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc doré"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+7 mag"
+burden: "À deux mains"
+feature: "Autocorrection : Quand vous obtenez un 1 sur un dé de dégâts, ce dé inflige 6 dégâts à la place."
 ---
 
 # Arc doré

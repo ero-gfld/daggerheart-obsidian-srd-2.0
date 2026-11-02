@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Alchemist’s Abandoned Workshop"
+tags:
+  - "daggerheart/environment"
+name: "Atelier abandonné de l’alchimiste"
+tier: 1
+type: "Exploration"
+description: "Un laboratoire alimenté par la foudre, bâti par un savant en quête du secret de l’immortalité."
+difficulty: 11
+impulses: "Abattre la frontière entre la vie et la mort, attirer la foudre du ciel, surcharger les machines"
+potential_adversaries: "Restes de laboratoire (Automate, Petit élémentaire de feu, Zombie colosse rapiécé, Nuée de rats)"
+features:
+  - "Cabinet de curiosités - Passif"
+  - "Machinerie étrange - Passif"
+  - "Il est vivant ! - Action"
 ---
 
 # Atelier abandonné de l’alchimiste

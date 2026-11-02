@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Unyielding Armor"
+tags:
+  - "daggerheart/domain-card"
+name: "Armure inflexible"
+domain: "Vaillance"
+level: 10
+type: "Capacité"
+recall: 1
 ---
 
 # Armure inflexible

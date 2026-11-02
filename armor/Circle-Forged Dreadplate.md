@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Circle-Forged Dreadplate"
+tags:
+  - "daggerheart/armor"
+name: "Plate d’effroi forgée en cercle"
+tier: 4
+thresholds: "14/38"
+score: 6
+feature: "Maudit : Lorsque vous marquez des Points de vie à cause d’une attaque, quel que soit leur nombre, lancez un d4. Sur un résultat de 4, l’attaquant doit marquer autant de Stress que de Points de vie ainsi marqués."
 ---
 
 # Plate d’effroi forgée en cercle

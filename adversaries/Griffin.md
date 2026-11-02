@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Griffin"
+tags:
+  - "daggerheart/adversary"
+name: "Griffon"
+tier: 4
+type: "Standard"
+description: "Une grande créature léonine, à la tête, aux serres et aux ailes d’aigle."
+difficulty: 18
+thresholds: "30/45"
+hp: 6
+stress: 4
+atk: "+4"
+attack: "Bec et serres"
+range: "Très proche"
+damage: "4d8+4 phy"
+motives_and_tactics: "Chasser, guetter une ouverture, piquer en piqué"
+experience: "Richesse +5, Sens aiguisés +3"
+features:
+  - "Accapareur de trésors - Passif"
+  - "Piqué en fauchant - Action"
 ---
 
 # Griffon

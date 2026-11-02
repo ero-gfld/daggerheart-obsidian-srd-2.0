@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Archer Squadron"
+tags:
+  - "daggerheart/adversary"
+name: "Escadron d’archers"
+tier: 2
+type: "Horde"
+horde: 2
+description: "Un groupe d’archers entraînés, armés d’arcs gigantesques."
+difficulty: 13
+thresholds: "8/16"
+hp: 4
+stress: 3
+atk: "+0"
+attack: "Arc long"
+range: "Loin"
+damage: "2d6+3 phy"
+motives_and_tactics: "Rester groupés, survivre, tirer en salve"
+features:
+  - "Horde (1d6+3) - Passif"
+  - "Tir en salve ciblé - Action"
+  - "Tir de couverture - Action"
 ---
 
 # Escadron d’archers

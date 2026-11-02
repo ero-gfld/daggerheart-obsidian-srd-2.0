@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Escher’s Mirrorball"
+tags:
+  - "daggerheart/item"
+name: "Boule à facettes d’Escher"
+effect: "Une fois par repos long, vous pouvez ordonner à cette sphère d’argent de la taille d’un poing de capturer à sa surface une image panoramique de ses alentours. Cette image persiste jusqu’à votre prochain repos long."
 ---
 
 # Boule à facettes d’Escher

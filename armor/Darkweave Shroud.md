@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Darkweave Shroud"
+tags:
+  - "daggerheart/armor"
+name: "Linceul tissé d’ombre"
+tier: 4
+thresholds: "13/36"
+score: 5
+feature: "Marche-fantôme : Une fois par repos, marquez un Stress pour vous déplacer jusqu’à portée Proche à travers les objets solides."
 ---
 
 # Linceul tissé d’ombre

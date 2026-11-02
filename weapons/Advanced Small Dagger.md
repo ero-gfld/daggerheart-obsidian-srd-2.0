@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Small Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Petite dague avancée"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+4 phy"
+burden: "À une main"
+feature: "Jumelé : +4 aux dégâts de l’arme principale contre les cibles à portée de Mêlée"
 ---
 
 # Petite dague avancée

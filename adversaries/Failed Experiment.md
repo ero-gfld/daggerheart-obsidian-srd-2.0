@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Failed Experiment"
+tags:
+  - "daggerheart/adversary"
+name: "Expérience ratée"
+tier: 2
+type: "Standard"
+description: "Une expérience de nécromancie magique tournée au désastre, qui les a déformés et rendus maladroits."
+difficulty: 13
+thresholds: "12/23"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Morsure et griffes"
+range: "Mêlée"
+damage: "2d6+5 phy"
+motives_and_tactics: "Dévorer, traquer, pister"
+experience: "Imitation +3"
+features:
+  - "Vigueur déformée - Passif"
+  - "Submersion - Passif"
+  - "Bond titubant - Action"
 ---
 
 # Expérience ratée

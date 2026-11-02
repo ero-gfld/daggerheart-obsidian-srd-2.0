@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+7 phy"
+burden: "À une main"
 ---
 
 # Dague avancée

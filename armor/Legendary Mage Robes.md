@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Mage Robes"
+tags:
+  - "daggerheart/armor"
+name: "Robes de mage légendaires"
+tier: 4
+thresholds: "10/31"
+score: 5
+feature: "Enchanté : Gagnez un bonus à vos seuils de dégâts égal à votre caractéristique d’Incantation."
 ---
 
 # Robes de mage légendaires

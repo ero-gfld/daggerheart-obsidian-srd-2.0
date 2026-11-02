@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Young Dryad"
+tags:
+  - "daggerheart/adversary"
+name: "Jeune dryade"
+tier: 1
+type: "Meneur"
+description: "Une personne-arbre impérieuse qui dirige les défenses de sa forêt."
+difficulty: 11
+thresholds: "6/11"
+hp: 6
+stress: 2
+atk: "+0"
+attack: "Faux"
+range: "Mêlée"
+damage: "1d8+5 phy"
+motives_and_tactics: "Commander, nourrir, élaguer les indésirables"
+experience: "Commandement +3"
+features:
+  - "Voix de la forêt - Action"
+  - "Cage d’épines - Action"
+  - "Élan - Réaction"
 ---
 
 # Jeune dryade

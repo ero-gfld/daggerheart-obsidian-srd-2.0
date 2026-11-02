@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Guahalan Spirit Beast"
+tags:
+  - "daggerheart/adversary"
+name: "Bête-esprit guahalan"
+tier: 2
+type: "Sbire"
+description: "Un esprit aux couleurs vives, qui a pris la forme d’un animal."
+difficulty: 13
+thresholds: "Aucun"
+hp: 1
+stress: 2
+atk: "+1"
+attack: "Morsure et griffes"
+range: "Mêlée"
+damage: "5 mag"
+motives_and_tactics: "Protéger, se sacrifier, encercler"
+features:
+  - "Sbire (5) - Passif"
+  - "Forme éthérée - Passif"
+  - "Attaque de groupe - Action"
+  - "Bombe bestiale - Réaction"
 ---
 
 # Bête-esprit guahalan

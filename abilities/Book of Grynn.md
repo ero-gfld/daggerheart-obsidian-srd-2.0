@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Grynn"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Grynn"
+domain: "Codex"
+level: 4
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Grynn

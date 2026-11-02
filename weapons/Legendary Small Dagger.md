@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Small Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Petite dague légendaire"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+6 phy"
+burden: "À une main"
+feature: "Jumelé : +5 aux dégâts de l’arme principale contre les cibles à portée de Mêlée"
 ---
 
 # Petite dague légendaire

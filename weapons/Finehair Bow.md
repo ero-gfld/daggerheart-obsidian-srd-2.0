@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Finehair Bow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc de crin fin"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d6+5 phy"
+burden: "À deux mains"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Arc de crin fin

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Glancing Blow"
+tags:
+  - "daggerheart/domain-card"
+name: "Coup effleurant"
+domain: "Lame"
+level: 7
+type: "Capacité"
+recall: 1
 ---
 
 # Coup effleurant

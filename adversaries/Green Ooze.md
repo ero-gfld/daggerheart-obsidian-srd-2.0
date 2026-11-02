@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Green Ooze"
+tags:
+  - "daggerheart/adversary"
+name: "Gelée verte"
+tier: 1
+type: "Furtif"
+description: "Un monticule mouvant de glu verte et translucide."
+difficulty: 8
+thresholds: "5/10"
+hp: 5
+stress: 2
+atk: "+1"
+attack: "Appendice gluant"
+range: "Mêlée"
+damage: "1d6+1 mag"
+motives_and_tactics: "Se camoufler, consommer et se multiplier, s’approcher en silence, envelopper"
+experience: "Camouflage +3"
+features:
+  - "Lenteur - Passif"
+  - "Forme acide - Passif"
+  - "Enveloppement - Action"
+  - "Scission - Réaction"
 ---
 
 # Gelée verte

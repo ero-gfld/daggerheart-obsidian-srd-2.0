@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Demon of Jealousy"
+tags:
+  - "daggerheart/adversary"
+name: "Démon de la Jalousie"
+tier: 3
+type: "Tireur"
+description: "Créature capricieuse aux membres filiformes et aux désirs insatiables."
+difficulty: 17
+thresholds: "17/30"
+hp: 6
+stress: 6
+atk: "+4"
+attack: "Assaut psychique"
+range: "Loin"
+damage: "3d8+3 mag"
+motives_and_tactics: "Se joindre au succès des autres, prendre ce qui appartient à autrui, nourrir des rancunes"
+experience: "Manipulation +3"
+features:
+  - "Esprit sans défense - Passif"
+  - "À mon tour - Réaction"
+  - "Rivalité - Réaction"
+  - "Ce qui est à vous est à moi - Réaction"
 ---
 
 # Démon de la Jalousie

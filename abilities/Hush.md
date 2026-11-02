@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Hush"
+tags:
+  - "daggerheart/domain-card"
+name: "Silence"
+domain: "Minuit"
+level: 5
+type: "Sort"
+recall: 1
 ---
 
 # Silence

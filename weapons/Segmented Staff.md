@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Segmented Staff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton segmenté"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d6+4 phy"
+burden: "À une main"
+feature: "Double emploi : +1 au Score d’armure ; +1 aux dégâts de l’arme principale à portée de Mêlée"
 ---
 
 # Bâton segmenté

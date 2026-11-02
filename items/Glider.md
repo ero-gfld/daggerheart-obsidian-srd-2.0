@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Glider"
+tags:
+  - "daggerheart/item"
+name: "Planeur"
+effect: "En chute libre, vous pouvez marquer un Stress pour déployer ce petit parachute et atterrir en sécurité."
 ---
 
 # Planeur

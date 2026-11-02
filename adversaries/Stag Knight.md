@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Stag Knight"
+tags:
+  - "daggerheart/adversary"
+name: "Chevalier-cerf"
+tier: 3
+type: "Standard"
+description: "Un chevalier aux ramures immenses et majestueuses, vêtu d’une armure faite d’épines dangereuses."
+difficulty: 17
+thresholds: "19/36"
+hp: 7
+stress: 5
+atk: "+3"
+attack: "Épée de ronces"
+range: "Mêlée"
+damage: "3d8+3 phy"
+motives_and_tactics: "Isoler, manœuvrer, protéger la forêt, éliminer les intrus"
+experience: "Savoir de la forêt +3"
+features:
+  - "Depuis les hauteurs - Passif"
+  - "Lame de la forêt - Action"
+  - "Armure épineuse - Réaction"
 ---
 
 # Chevalier-cerf

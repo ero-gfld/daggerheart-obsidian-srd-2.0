@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Armored Sentry"
+tags:
+  - "daggerheart/beastform"
+name: "Sentinelle cuirassée"
+tier: 2
+examples: "Tatou, pangolin, tortue, etc."
+trait_bonus: "Force +1"
+evasion: "+1"
+attack: "Mêlée Force d8+2 phy"
+advantages: "creuser, repérer, protéger"
+features:
+  - "Carapace cuirassée"
+  - "Boulet de canon"
 ---
 
 # Sentinelle cuirassée

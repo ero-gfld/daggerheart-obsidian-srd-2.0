@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Gargantuan Sea Turtle"
+tags:
+  - "daggerheart/adversary"
+name: "Tortue de mer gigantesque"
+tier: 3
+type: "Solo"
+description: "Une tortue de mer monstrueuse à la carapace et au bec d’adamantium."
+difficulty: 18
+thresholds: "21/41"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Mâchoires broyeuses"
+range: "Très proche"
+damage: "3d12+7 phy"
+motives_and_tactics: "Amasser des richesses, faire chavirer les navires marchands, guetter en embuscade, utiliser les vagues comme couvert"
+experience: "Haute mer +5"
+features:
+  - "Implacable (3) - Passif"
+  - "Morsure perçante - Passif"
+  - "Coup de queue - Action"
+  - "Éclaboussure gigatonne - Action"
+  - "Souffle de vapeur - Action"
 ---
 
 # Tortue de mer gigantesque

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Uncanny Disguise"
+tags:
+  - "daggerheart/domain-card"
+name: "Déguisement troublant"
+domain: "Minuit"
+level: 1
+type: "Sort"
+recall: 0
 ---
 
 # Déguisement troublant

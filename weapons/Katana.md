@@ -3,13 +3,13 @@ tags:
   - "daggerheart/weapon"
 name: "Katana"
 tier: 1
-category: "Primary"
-type: "Physical"
-trait: "Agility"
-range: "Melee"
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
 damage: "d10+3 phy"
-burden: "Two-Handed"
-feature: "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+burden: "À deux mains"
+feature: "Rapide : Quand vous faites une attaque, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Katana

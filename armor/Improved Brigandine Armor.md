@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Improved Brigandine Armor"
+tags:
+  - "daggerheart/armor"
+name: "Brigandine améliorée"
+tier: 2
+thresholds: "9/19"
+score: 4
+feature: "Doublé : Marquez un Stress pour annuler des dégâts mineurs."
 ---
 
 # Brigandine améliorée

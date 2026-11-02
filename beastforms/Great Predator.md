@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Great Predator"
+tags:
+  - "daggerheart/beastform"
+name: "Grand prédateur"
+tier: 3
+examples: "Loup redoutable, vélociraptor, tigre à dents de sabre, etc."
+trait_bonus: "Force +2"
+evasion: "+2"
+attack: "Mêlée Force d12+8 phy"
+advantages: "attaquer, se faufiler, piquer un sprint"
+features:
+  - "Porteur"
+  - "Déchiquetage vicieux"
 ---
 
 # Grand prédateur

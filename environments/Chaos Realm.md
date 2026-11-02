@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Chaos Realm"
+tags:
+  - "daggerheart/environment"
+name: "Royaume du Chaos"
+tier: 4
+type: "Traversée"
+description: "Un espace d’un autre monde, où les lois de la réalité sont instables et dangereuses."
+difficulty: 20
+impulses: "anéantir la certitude, consumer le pouvoir, défier la logique"
+potential_adversaries: "Monstruosités des royaumes extérieurs (Abomination, Corrupteur, Serviteur)"
+features:
+  - "Architecture impossible - Passif"
+  - "Tout ce que vous êtes, ce lieu vous le prendra - Action"
+  - "Anéantissement - Action"
+  - "Prédateurs des royaumes extérieurs - Action"
+  - "Réalité déroutante - Réaction"
 ---
 
 # Royaume du Chaos

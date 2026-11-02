@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Guardian"
+tags:
+  - "daggerheart/class"
+name: "Gardien"
+domains:
+  - "Vaillance"
+  - "Lame"
+evasion: 9
+hp: 7
+subclasses:
+  - "Inébranlable"
+  - "Vengeance"
+items: "Un totem offert par votre mentor ou une clé secrète"
+description: "Le titre de gardien recouvre tout un éventail de professions martiales : il dit davantage la boussole morale et la fermeté inébranlable de ceux qui le portent que leur façon de se battre."
 ---
 
 # Gardien

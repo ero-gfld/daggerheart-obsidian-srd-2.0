@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Wordsmith"
+tags:
+  - "daggerheart/subclass"
+name: "Orfèvre des mots"
+class: "Barde"
+spellcast_trait: "Présence"
+description: "Jouez l’Orfèvre des mots si vous voulez manier le jeu de mots avec brio et captiver les foules."
+features:
+  - "Discours enflammé"
+  - "Cœur de poète"
 ---
 
 # Orfèvre des mots

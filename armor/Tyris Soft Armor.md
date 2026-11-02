@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Tyris Soft Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure souple de Tyris"
+tier: 2
+thresholds: "8/18"
+score: 5
+feature: "Silencieux : Vous gagnez un bonus de +2 aux jets pour vous déplacer en silence."
 ---
 
 # Armure souple de Tyris

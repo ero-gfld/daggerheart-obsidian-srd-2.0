@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Major Control Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de contrôle majeure"
+effect: "Vous gagnez un bonus de +1 à votre Finesse jusqu’à votre prochain repos."
 ---
 
 # Potion de contrôle majeure

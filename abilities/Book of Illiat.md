@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Illiat"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre d’Illiat"
+domain: "Codex"
+level: 1
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre d’Illiat

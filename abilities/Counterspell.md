@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Counterspell"
+tags:
+  - "daggerheart/domain-card"
+name: "Contresort"
+domain: "Arcanes"
+level: 3
+type: "Sort"
+recall: 2
 ---
 
 # Contresort

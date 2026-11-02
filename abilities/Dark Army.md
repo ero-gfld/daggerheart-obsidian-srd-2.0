@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dark Army"
+tags:
+  - "daggerheart/domain-card"
+name: "Armée des ténèbres"
+domain: "Effroi"
+level: 8
+type: "Sort"
+recall: 2
 ---
 
 # Armée des ténèbres

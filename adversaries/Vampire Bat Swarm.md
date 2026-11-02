@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Vampire Bat Swarm"
+tags:
+  - "daggerheart/adversary"
+name: "Essaim de chauves-souris vampires"
+tier: 3
+type: "Horde"
+horde: 5
+description: "Un nuage de chauves-souris suceuses de sang."
+difficulty: 15
+thresholds: "16/30"
+hp: 8
+stress: 3
+atk: "+1"
+attack: "Crocs"
+range: "Mêlée"
+damage: "3d6+6 phy"
+motives_and_tactics: "Obscurcir la lune, murmurer, propager la maladie"
+experience: "Sang +3"
+features:
+  - "Horde (2d6) - Passif"
+  - "Multitude aveuglante - Passif"
+  - "Suceurs de sang - Réaction"
 ---
 
 # Essaim de chauves-souris vampires

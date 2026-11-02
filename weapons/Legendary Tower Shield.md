@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Tower Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Pavois légendaire"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d6+6 phy"
+burden: "À une main"
+feature: "Barrière : +5 au Score d’armure ; −1 à l’Évasion."
 ---
 
 # Pavois légendaire

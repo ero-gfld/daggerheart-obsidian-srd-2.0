@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Collapsible Baton"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton télescopique"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8 phy"
+burden: "À une main"
+feature: "Non létal : lorsqu’une cible devrait marquer un nombre quelconque de points de vie à cause d’une attaque avec cette arme, elle marque à la place autant de Stress."
 ---
 
 # Bâton télescopique

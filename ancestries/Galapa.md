@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Galapa"
-description: "Galapa resemble anthropomorphic turtles with large, domed shells into which they can retract."
+description: "Les galapa ressemblent à des tortues anthropomorphes dotées d’une grande carapace bombée dans laquelle elles peuvent se rétracter."
 features:
-  - "Shell"
-  - "Retract"
+  - "Carapace"
+  - "Rétraction"
 ---
 
 # Galapa

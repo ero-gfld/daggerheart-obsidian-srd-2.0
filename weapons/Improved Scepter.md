@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Scepter"
+tags:
+  - "daggerheart/weapon"
+name: "Sceptre amélioré"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Loin"
+damage: "d6+3 mag"
+burden: "À deux mains"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces statistiques : Présence, Mêlée, d8+3."
 ---
 
 # Sceptre amélioré

@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Outer Realms Abomination"
+tags:
+  - "daggerheart/adversary"
+name: "Abomination des royaumes extérieurs"
+tier: 4
+type: "Cogneur"
+description: "Une parodie chaotique de la vie, en perpétuelle mutation."
+difficulty: 19
+thresholds: "35/71"
+hp: 7
+stress: 5
+atk: "+2d4"
+attack: "Pseudopode massif"
+range: "Très proche"
+damage: "4d6+13 mag"
+motives_and_tactics: "Démolir, dévorer, saper"
+features:
+  - "Forme chaotique - Passif"
+  - "Présence désorientante - Passif"
+  - "Secousse du réel - Action"
+  - "Forme irréelle - Réaction"
 ---
 
 # Abomination des royaumes extérieurs

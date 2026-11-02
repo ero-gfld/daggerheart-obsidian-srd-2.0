@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Scramble"
+tags:
+  - "daggerheart/domain-card"
+name: "Se disperser"
+domain: "Lame"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Se disperser

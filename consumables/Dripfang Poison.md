@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Dripfang Poison"
+tags:
+  - "daggerheart/consumable"
+name: "Poison de Gouttecroc"
+effect: "Une créature qui ingère ce poison subit 8d10 dégâts magiques directs."
 ---
 
 # Poison de Gouttecroc

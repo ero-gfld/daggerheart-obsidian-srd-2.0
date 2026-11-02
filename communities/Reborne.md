@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Reborne"
+tags:
+  - "daggerheart/community"
+name: "Re-né"
+description: "Vous apparteniez autrefois à une autre communauté dont vous ne faites plus partie."
+traits: "curieux, pleins d’espoir, innocents, isolés, endeuillés et troublants"
+features:
+  - "Famille choisie"
 ---
 
 # Re-né

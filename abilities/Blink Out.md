@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Blink Out"
+tags:
+  - "daggerheart/domain-card"
+name: "S’évanouir"
+domain: "Arcanes"
+level: 4
+type: "Sort"
+recall: 1
 ---
 
 # S’évanouir

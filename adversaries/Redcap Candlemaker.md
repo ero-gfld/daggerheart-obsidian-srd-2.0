@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Redcap Candlemaker"
+tags:
+  - "daggerheart/adversary"
+name: "Cirier bonnet-rouge"
+tier: 1
+type: "Meneur"
+description: "Un chef de secte pâle et décharné, coiffé d'un bonnet rouge conique scellé à la cire de bougie. Il manie une longue tige surmontée d'une chandelle faite de la main d'un criminel pendu."
+difficulty: 13
+thresholds: "7/13"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Chandelier ardent"
+range: "Très proche"
+damage: "1d10+2 mag"
+motives_and_tactics: "Projeter de longues ombres, rester à l'écart de la mêlée, montrer la lumière aux autres"
+experience: "Vigilance +3"
+features:
+  - "Main de gloire - Passif"
+  - "Porte-flambeau - Passif"
+  - "Danse dans les flammes - Action"
 ---
 
 # Cirier bonnet-rouge

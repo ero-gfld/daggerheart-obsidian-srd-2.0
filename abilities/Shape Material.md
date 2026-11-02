@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Shape Material"
+tags:
+  - "daggerheart/domain-card"
+name: "Modeler la matière"
+domain: "Splendeur"
+level: 5
+type: "Sort"
+recall: 1
 ---
 
 # Modeler la matière

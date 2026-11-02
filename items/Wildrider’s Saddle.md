@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Wildrider’s Saddle"
+tags:
+  - "daggerheart/item"
+name: "Selle du chevaucheur sauvage"
+effect: "Cette selle permet à tout animal qui la porte de comprendre les ordres de son cavalier."
 ---
 
 # Selle du chevaucheur sauvage

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Deeproot Defender"
+tags:
+  - "daggerheart/adversary"
+name: "Défenseur des racines profondes"
+tier: 1
+type: "Cogneur"
+description: "Colosse à l’apparence de légume, aux vrilles préhensiles."
+difficulty: 10
+thresholds: "8/14"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Vrilles"
+range: "Proche"
+damage: "1d8+3 phy"
+motives_and_tactics: "Embusquer, saisir, protéger, rouer de coups"
+experience: "Imposant +3"
+features:
+  - "Frappe au sol - Action"
+  - "Saisir et traîner - Action"
 ---
 
 # Défenseur des racines profondes

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Storm God’s Greataxe"
+tags:
+  - "daggerheart/weapon"
+name: "Grande hache du dieu de la tempête"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Très proche"
+damage: "d10+9 mag"
+burden: "À deux mains"
+feature: "Rebond : Marquez autant de Stress que vous voulez pour cibler autant de créatures supplémentaires à portée de l’attaque."
 ---
 
 # Grande hache du dieu de la tempête

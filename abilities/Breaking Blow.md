@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Breaking Blow"
+tags:
+  - "daggerheart/domain-card"
+name: "Coup fracassant"
+domain: "Os"
+level: 8
+type: "Capacité"
+recall: 3
 ---
 
 # Coup fracassant

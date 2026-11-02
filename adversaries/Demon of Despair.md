@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Demon of Despair"
+tags:
+  - "daggerheart/adversary"
+name: "Démon du Désespoir"
+tier: 3
+type: "Furtif"
+description: "Démon encapuchonné aux membres longs, d’où suintent des ombres."
+difficulty: 17
+thresholds: "18/35"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Trait de miasme"
+range: "Loin"
+damage: "3d6+1 mag"
+motives_and_tactics: "Rendre la peur contagieuse, rester dans l’ombre, saper la résolution"
+experience: "Manipulation +3"
+features:
+  - "Profondeurs du désespoir - Passif"
+  - "Votre lutte est vaine - Action"
+  - "Vos amis vous trahiront - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Démon du Désespoir

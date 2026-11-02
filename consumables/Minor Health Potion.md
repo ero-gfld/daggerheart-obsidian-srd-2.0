@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Minor Health Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de soins mineure"
+effect: "Libérez 1d4 PV."
 ---
 
 # Potion de soins mineure

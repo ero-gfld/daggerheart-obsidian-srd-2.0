@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Tangle Bramble"
+tags:
+  - "daggerheart/adversary"
+name: "Ronce entremêlée"
+tier: 1
+type: "Sbire"
+description: "Une boule de ronces animée qui boit le sang."
+difficulty: 11
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Épines"
+range: "Mêlée"
+damage: "2 phy"
+motives_and_tactics: "Se réunir, drainer, enchevêtrer"
+features:
+  - "Sbire (4) - Passif"
+  - "Attaque de groupe - Action"
+  - "Drainer et multiplier - Réaction"
 ---
 
 # Ronce entremêlée

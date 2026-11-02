@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Wand of Essek"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette d’Essek"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d8+13 mag"
+burden: "À une main"
+feature: "Distorsion temporelle : Vous pouvez choisir la cible de votre attaque après avoir fait votre jet d’attaque."
 ---
 
 # Baguette d’Essek

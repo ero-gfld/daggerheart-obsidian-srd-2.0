@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Bard"
+tags:
+  - "daggerheart/class"
+name: "Barde"
+domains:
+  - "Grâce"
+  - "Codex"
+evasion: 10
+hp: 5
+subclasses:
+  - "Troubadour"
+  - "Orfèvre des mots"
+items: "Un roman d’amour ou une lettre jamais ouverte"
+description: "Les bardes sont les gens les plus charismatiques de tous les royaumes."
 ---
 
 # Barde

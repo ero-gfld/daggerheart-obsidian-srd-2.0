@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Rime Scepter"
+tags:
+  - "daggerheart/weapon"
+name: "Sceptre de givre"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Proche"
+damage: "d8+6 mag"
+burden: "À une main"
+feature: "Gel : Quand une attaque avec cette arme fait marquer 2 PV ou plus à une cible, celle-ci est temporairement Entravée."
 ---
 
 # Sceptre de givre

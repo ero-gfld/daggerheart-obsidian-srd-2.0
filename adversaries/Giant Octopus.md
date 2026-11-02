@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Giant Octopus"
+tags:
+  - "daggerheart/adversary"
+name: "Pieuvre géante"
+tier: 2
+type: "Solo"
+description: "Un mollusque aquatique monstrueux, aux huit bras garnis de ventouses et à la mâchoire dure en forme de bec."
+difficulty: 14
+thresholds: "13/26"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Fouet de bras"
+range: "Proche"
+damage: "2d10 phy"
+motives_and_tactics: "Broyer et mordre, agripper, harceler les navires à voile, chasser ses proies"
+experience: "Intelligence +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Armée et redoutable - Passif"
+  - "Agrippement - Action"
+  - "Écrasement - Action"
 ---
 
 # Pieuvre géante

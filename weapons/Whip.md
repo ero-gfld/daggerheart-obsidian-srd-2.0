@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Whip"
+tags:
+  - "daggerheart/weapon"
+name: "Fouet"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Présence"
+range: "Très proche"
+damage: "d6 phy"
+burden: "À une main"
+feature: "Stupéfiant : Marquez un Stress pour faire claquer le fouet et forcer tous les adversaires à portée de Mêlée à reculer jusqu’à portée Proche."
 ---
 
 # Fouet

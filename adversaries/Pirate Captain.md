@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Pirate Captain"
+tags:
+  - "daggerheart/adversary"
+name: "Capitaine corsaire"
+tier: 1
+type: "Meneur"
+description: "Un loup de mer charismatique au chapeau impressionnant, impatient de razzier et de piller."
+difficulty: 14
+thresholds: "7/14"
+hp: 7
+stress: 5
+atk: "+4"
+attack: "Sabre d'abordage"
+range: "Mêlée"
+damage: "1d12+2 phy"
+motives_and_tactics: "Commander, faire passer les prisonniers par la planche, piller, razzier"
+experience: "Commandant +2, Marin +3"
+features:
+  - "Bretteur - Passif"
+  - "Renforts - Action"
+  - "Pas de quartier - Action"
+  - "Élan - Réaction"
 ---
 
 # Capitaine corsaire

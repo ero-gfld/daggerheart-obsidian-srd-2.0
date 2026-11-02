@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Pick and Pull"
+tags:
+  - "daggerheart/domain-card"
+name: "Tirer et arracher"
+domain: "Minuit"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Tirer et arracher

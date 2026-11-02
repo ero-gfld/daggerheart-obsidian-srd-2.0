@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rousing Strike"
+tags:
+  - "daggerheart/domain-card"
+name: "Frappe galvanisante"
+domain: "Vaillance"
+level: 5
+type: "Capacité"
+recall: 1
 ---
 
 # Frappe galvanisante

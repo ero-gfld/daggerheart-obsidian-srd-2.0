@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Knowledge Stone"
+tags:
+  - "daggerheart/consumable"
+name: "Pierre du savoir"
+effect: "Si vous mourez en tenant cette pierre, un allié peut prendre une carte de votre main pour la placer dans sa main ou sa réserve. Une fois ce savoir recueilli, la pierre s’effrite."
 ---
 
 # Pierre du savoir

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Umbral Veil"
+tags:
+  - "daggerheart/domain-card"
+name: "Voile d’ombre"
+domain: "Effroi"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Voile d’ombre

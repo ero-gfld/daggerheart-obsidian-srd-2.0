@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Gore and Glory"
+tags:
+  - "daggerheart/domain-card"
+name: "Carnage et gloire"
+domain: "Lame"
+level: 9
+type: "Capacité"
+recall: 2
 ---
 
 # Carnage et gloire

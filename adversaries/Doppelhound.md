@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Doppelhound"
+tags:
+  - "daggerheart/adversary"
+name: "Chien-double"
+tier: 2
+type: "Furtif"
+description: "Canidé magique et féroce aux yeux luisants et aux deux queues barbelées en forme de fouet. Il déroute ses ennemis en faisant surgir un double illusoire de lui-même."
+difficulty: 14
+thresholds: "9/17"
+hp: 4
+stress: 5
+atk: "+3"
+attack: "Coup de fouet caudal barbelé"
+range: "Très proche"
+damage: "2d8+2 phy"
+motives_and_tactics: "Tendre une embuscade aux proies, tuer pour le plaisir, jouer avec sa nourriture, tromper et leurrer"
+experience: "Ombres +3"
+features:
+  - "Bête-leurre - Passif"
+  - "Double frappe - Action"
 ---
 
 # Chien-double

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Longbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc long avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d8+9 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Arc long avancé

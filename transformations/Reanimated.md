@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Reanimated"
+tags:
+  - "daggerheart/transformation"
+name: "Réanimé"
+description: "Les réanimés sont des cadavres ramenés à la vie."
+features:
+  - "Cadavre"
+  - "Impossible à garder mort"
 ---
 
 # Réanimé

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Telekinesis"
+tags:
+  - "daggerheart/domain-card"
+name: "Télékinésie"
+domain: "Arcanes"
+level: 6
+type: "Sort"
+recall: 0
 ---
 
 # Télékinésie

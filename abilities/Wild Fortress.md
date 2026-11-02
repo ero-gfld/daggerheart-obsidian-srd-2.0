@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wild Fortress"
+tags:
+  - "daggerheart/domain-card"
+name: "Forteresse sauvage"
+domain: "Nature"
+level: 5
+type: "Sort"
+recall: 1
 ---
 
 # Forteresse sauvage

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Splintering Strike"
+tags:
+  - "daggerheart/domain-card"
+name: "Frappe fendante"
+domain: "Os"
+level: 9
+type: "Capacité"
+recall: 3
 ---
 
 # Frappe fendante

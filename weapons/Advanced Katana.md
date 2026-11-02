@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Katana"
+tags:
+  - "daggerheart/weapon"
+name: "Katana avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+9 phy"
+burden: "À deux mains"
+feature: "Rapide : Quand vous faites une attaque, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Katana avancé

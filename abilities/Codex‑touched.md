@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Codex‑touched"
+tags:
+  - "daggerheart/domain-card"
+name: "Touché par le Codex"
+domain: "Codex"
+level: 7
+type: "Capacité"
+recall: 2
 ---
 
 # Touché par le Codex

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Broadsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée large légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8+9 phy"
+burden: "À une main"
+feature: "Fiable : Gagnez un bonus de +1 à vos jets d’attaque"
 ---
 
 # Épée large légendaire

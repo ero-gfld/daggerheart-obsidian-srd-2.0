@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Elephant"
+tags:
+  - "daggerheart/adversary"
+name: "Éléphant"
+tier: 2
+type: "Cogneur"
+description: "Énorme pachyderme aux grandes oreilles et à la trompe préhensile."
+difficulty: 15
+thresholds: "14/28"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Pieds et défenses"
+range: "Très proche"
+damage: "2d12 phy"
+motives_and_tactics: "Brouter, protéger le troupeau, socialiser"
+experience: "Immense +2, Mémoire infaillible +2"
+features:
+  - "Piétinement - Action"
+  - "Projection - Réaction"
 ---
 
 # Éléphant

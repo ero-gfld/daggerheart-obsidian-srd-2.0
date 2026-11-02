@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Castle Siege"
+tags:
+  - "daggerheart/environment"
+name: "Siège du château"
+tier: 3
+type: "Événement"
+description: "Un siège en cours : une force d’attaque tente de forcer l’entrée d’un château fortifié."
+difficulty: 17
+impulses: "briser la volonté de combattre, percer les murailles, faire monter la tension"
+potential_adversaries: "Mercenaires (Harceleur, Mercenaire, Lame-sort, Maître d’armes), Forces nobles (Escadron d’archers, Conscrit, Soldat d’élite, Chevalier du royaume)"
+features:
+  - "Entrée secrète - Passif"
+  - "Engins de siège (changement d’environnement) - Action"
+  - "Renforts ! - Action"
+  - "Dommages collatéraux - Réaction"
 ---
 
 # Siège du château

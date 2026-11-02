@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Cliffside Ascent"
+tags:
+  - "daggerheart/environment"
+name: "Ascension de la falaise"
+tier: 1
+type: "Traversée"
+description: "Une paroi rocheuse abrupte, assez haute pour rendre la traversée dangereuse."
+difficulty: 12
+impulses: "précipiter les imprudents vers une fin rocheuse, attirer les gens avec la promesse de ce qui attend au sommet"
+potential_adversaries: "Automate, Défenseur des racines profondes, Scorpion géant, Serpent de verre"
+features:
+  - "L’escalade - Passif"
+  - "Pitons laissés sur place - Passif"
+  - "Chute - Action"
 ---
 
 # Ascension de la falaise

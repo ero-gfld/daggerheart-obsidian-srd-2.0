@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Swarm of Rats"
+tags:
+  - "daggerheart/adversary"
+name: "Nuée de rats"
+tier: 1
+type: "Horde"
+horde: 10
+description: "Une masse crépitante de rongeurs ordinaires, qui avance d’un seul bloc comme une vague affamée."
+difficulty: 10
+thresholds: "6/10"
+hp: 6
+stress: 2
+atk: "-3"
+attack: "Griffes"
+range: "Mêlée"
+damage: "1d8+2 phy"
+motives_and_tactics: "Consumer, obscurcir, déferler"
+features:
+  - "Horde (1d4+1) - Passif"
+  - "En pleine figure - Passif"
 ---
 
 # Nuée de rats

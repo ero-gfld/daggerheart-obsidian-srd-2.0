@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Powered Gauntlet"
+tags:
+  - "daggerheart/weapon"
+name: "Gantelet motorisé"
+tier: 3
+category: "Secondaire"
+type: "Physique"
+trait: "Savoir"
+range: "Proche"
+damage: "d6+4 phy"
+burden: "À une main"
+feature: "Chargé : Marquez un Stress pour gagner un bonus de +1 à votre Maîtrise lors d’une attaque avec une arme principale."
 ---
 
 # Gantelet motorisé

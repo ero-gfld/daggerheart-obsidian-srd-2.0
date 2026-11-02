@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Banish"
+tags:
+  - "daggerheart/domain-card"
+name: "Bannir"
+domain: "Codex"
+level: 6
+type: "Sort"
+recall: 0
 ---
 
 # Bannir

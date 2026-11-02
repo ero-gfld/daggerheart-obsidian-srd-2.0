@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Zombie Legion"
+tags:
+  - "daggerheart/adversary"
+name: "Légion de zombies"
+tier: 4
+type: "Horde"
+horde: 3
+description: "Une vaste meute de morts-vivants, encore redoutable malgré leur chair en décomposition."
+difficulty: 17
+thresholds: "25/45"
+hp: 8
+stress: 5
+atk: "+2"
+attack: "Mains de morts-vivants"
+range: "Proche"
+damage: "4d6+10 phy"
+motives_and_tactics: "Dévorer la cervelle, déchiqueter la chair, encercler"
+features:
+  - "Horde (2d6+5) - Passif"
+  - "Inflexible - Passif"
+  - "Implacable (2) - Passif"
+  - "Submersion - Réaction"
 ---
 
 # Légion de zombies

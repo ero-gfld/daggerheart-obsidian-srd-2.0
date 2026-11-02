@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Healing Field"
+tags:
+  - "daggerheart/domain-card"
+name: "Champ de guérison"
+domain: "Nature"
+level: 4
+type: "Sort"
+recall: 2
 ---
 
 # Champ de guérison

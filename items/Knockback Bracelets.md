@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Knockback Bracelets"
+tags:
+  - "daggerheart/item"
+name: "Bracelets de recul"
+effect: "En cas de réussite d’une attaque avec une arme, vous pouvez repousser votre cible jusqu’à une distance Proche de sa position."
 ---
 
 # Bracelets de recul

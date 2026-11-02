@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Harpy"
+tags:
+  - "daggerheart/adversary"
+name: "Harpie"
+tier: 1
+type: "Furtif"
+description: "Un oiseau féroce et malodorant, d’une envergure de près de deux mètres et demi, au buste et au visage d’humain."
+difficulty: 12
+thresholds: "3/7"
+hp: 3
+stress: 3
+atk: "+0"
+attack: "Serres"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "Défendre le nid, lâcher ses ennemis de très haut, piller depuis les airs, crier sans relâche"
+experience: "Îles +3"
+features:
+  - "Aura toxique - Passif"
+  - "Attaque en piqué - Action"
 ---
 
 # Harpie

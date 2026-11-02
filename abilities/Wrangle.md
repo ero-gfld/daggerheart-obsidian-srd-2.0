@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Wrangle"
+tags:
+  - "daggerheart/domain-card"
+name: "Dompter"
+domain: "Os"
+level: 8
+type: "Capacité"
+recall: 1
 ---
 
 # Dompter

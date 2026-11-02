@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Boost"
+tags:
+  - "daggerheart/domain-card"
+name: "Coup de pouce"
+domain: "Os"
+level: 4
+type: "Capacité"
+recall: 1
 ---
 
 # Coup de pouce

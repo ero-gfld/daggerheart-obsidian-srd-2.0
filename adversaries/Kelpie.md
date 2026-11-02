@@ -3,23 +3,23 @@ tags:
   - "daggerheart/adversary"
 name: "Kelpie"
 tier: 1
-type: "Skulk"
-description: "A river-dwelling shapeshifter who prefers an enchanting equine form in and out of the water."
+type: "Furtif"
+description: "Un métamorphe des rivières, qui préfère une forme chevaline enchanteresse, dans l’eau comme hors de l’eau."
 difficulty: 12
 thresholds: "4/8"
 hp: 3
 stress: 5
 atk: "-2"
-attack: "Hooves"
-range: "Very Close"
+attack: "Sabots"
+range: "Très proche"
 damage: "1d8+2 phy"
-motives_and_tactics: "Adopt an attractive or useful shape, drown and devour, entice unwary travelers"
-experience: "Entanglement +3, Mind Reader +3"
+motives_and_tactics: "Adopter une forme attirante ou utile, noyer et dévorer, attirer les voyageurs imprudents"
+experience: "Enchevêtrement +3, Lecteur de pensées +3"
 features:
-  - "Captivating - Passive"
-  - "Heart’s Desire - Passive"
-  - "Shapeshifter - Action"
-  - "Enchant - Action"
+  - "Envoûtant - Passif"
+  - "Désir du cœur - Passif"
+  - "Métamorphe - Action"
+  - "Enchantement - Action"
 ---
 
 # Kelpie

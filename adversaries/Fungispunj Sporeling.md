@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Fungispunj Sporeling"
+tags:
+  - "daggerheart/adversary"
+name: "Germe fungispunj"
+tier: 2
+type: "Sbire"
+description: "Une créature champignon de la taille d’un halfelin, qui se défend des attaquants en lâchant de petites bouffées de spores neurotoxiques."
+difficulty: 13
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Spore neurotoxique"
+range: "Très proche"
+damage: "4 mag"
+motives_and_tactics: "Éviter la violence, asperger les attaquants"
+experience: "Ténèbres +3"
+features:
+  - "Sbire (6) - Passif"
+  - "Attaque de groupe - Action"
+  - "Se regrouper - Action"
 ---
 
 # Germe fungispunj

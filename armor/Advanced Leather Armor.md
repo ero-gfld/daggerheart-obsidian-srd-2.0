@@ -1,6 +1,12 @@
 ---
 aliases:
   - "Advanced Leather Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de cuir avancée"
+tier: 3
+thresholds: "11/27"
+score: 5
 ---
 
 # Armure de cuir avancée

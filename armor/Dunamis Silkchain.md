@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dunamis Silkchain"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de soie Dunamis"
+tier: 4
+thresholds: "13/36"
+score: 7
+feature: "Ralentissement temporel : Marquez un Emplacement d’armure pour lancer un d4 et ajouter son résultat en bonus à votre Évasion contre une attaque entrante."
 ---
 
 # Cotte de soie Dunamis

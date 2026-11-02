@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Verglasian Seed"
+tags:
+  - "daggerheart/consumable"
+name: "Graine verglacienne"
+effect: "Vous pouvez utiliser cette graine pour geler instantanément une zone d’eau allant jusqu’à portée Proche."
 ---
 
 # Graine verglacienne

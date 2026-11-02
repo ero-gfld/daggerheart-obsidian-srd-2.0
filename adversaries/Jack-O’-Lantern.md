@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Jack-O’-Lantern"
+tags:
+  - "daggerheart/adversary"
+name: "Jack-o’-lantern"
+tier: 2
+type: "Sbire"
+description: "Une citrouille ou une autre courge flottante, sculptée d’un visage. L’âme prisonnière à l’intérieur émet une lueur sinistre."
+difficulty: 14
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+2"
+attack: "Coup de mâchoire"
+range: "Mêlée"
+damage: "6 phy"
+motives_and_tactics: "Mordre, flotter, rire, raconter des histoires qui font peur"
+features:
+  - "Sbire (4) - Passif"
+  - "Attaque de groupe - Action"
+  - "Ricanement glaçant - Réaction"
 ---
 
 # Jack-o’-lantern

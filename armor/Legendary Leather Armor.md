@@ -1,6 +1,12 @@
 ---
 aliases:
   - "Legendary Leather Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de cuir légendaire"
+tier: 4
+thresholds: "13/36"
+score: 6
 ---
 
 # Armure de cuir légendaire

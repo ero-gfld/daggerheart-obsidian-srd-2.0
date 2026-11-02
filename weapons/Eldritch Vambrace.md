@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Eldritch Vambrace"
+tags:
+  - "daggerheart/weapon"
+name: "Brassard d’outre-monde"
+tier: 2
+category: "Secondaire"
+type: "Magique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d8 mag"
+burden: "À une main"
+feature: "Déviation : Quand vous êtes attaqué, vous pouvez marquer un Emplacement d’armure pour gagner un bonus à votre Évasion égal à votre Score d’armure contre cette attaque."
 ---
 
 # Brassard d’outre-monde

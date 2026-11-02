@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Sellsword"
+tags:
+  - "daggerheart/adversary"
+name: "Mercenaire"
+tier: 1
+type: "Sbire"
+description: "Un mercenaire armé qui met sa chance à l'épreuve."
+difficulty: 10
+thresholds: "aucun"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Épée longue"
+range: "Mêlée"
+damage: "3 phy"
+motives_and_tactics: "Charger, lacérer, submerger, profiter"
+features:
+  - "Sbire (4) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Mercenaire

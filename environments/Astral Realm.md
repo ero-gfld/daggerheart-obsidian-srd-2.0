@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Astral Realm"
+tags:
+  - "daggerheart/environment"
+name: "Royaume astral"
+tier: 3
+type: "Traversée"
+description: "Un royaume psychique d’énergie et d’émotions, où les esprits les plus forts peuvent remodeler les lois de la réalité."
+difficulty: 16
+impulses: "Attaquer leurs psychés, faire remonter leurs peurs enfouies, déformer leur perception"
+potential_adversaries: "Démon du Désespoir, Étincelle élémentaire, Prêtre de la douleur, Vampires psychiques (Vampire-chef, Enfants de la nuit)"
+features:
+  - "Expérience hors du corps - Passif"
+  - "Manifestations mentales - Passif"
+  - "La matière n’est qu’illusion - Passif"
+  - "Adversaires astraux - Passif"
 ---
 
 # Royaume astral

@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Fungril"
-description: "Fungril resemble humanoid mushrooms."
+description: "Les fungril ressemblent à des champignons humanoïdes."
 features:
-  - "Fungril Network"
-  - "Death Connection"
+  - "Réseau fungril"
+  - "Lien avec la mort"
 ---
 
 # Fungril

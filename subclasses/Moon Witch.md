@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Moon Witch"
+tags:
+  - "daggerheart/subclass"
+name: "Sorcière de la lune"
+class: "Sorcière"
+spellcast_trait: "Instinct"
+description: "Jouez la Sorcière de la lune si vous voulez incarner une puissance céleste pour amplifier votre magie."
+features:
+  - "Mirage de la nuit"
+  - "Rayon de lune"
+  - "Courroux de la lueur pâle"
+  - "Phases lunaires"
 ---
 
 # Sorcière de la lune

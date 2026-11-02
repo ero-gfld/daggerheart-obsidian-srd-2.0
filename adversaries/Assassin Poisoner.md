@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Assassin Poisoner"
+tags:
+  - "daggerheart/adversary"
+name: "Assassin empoisonneur"
+tier: 2
+type: "Furtif"
+description: "Un bandit rusé, habile à la fois dans l’art des poisons et dans celui de l’embuscade."
+difficulty: 14
+thresholds: "8/16"
+hp: 4
+stress: 4
+atk: "+3"
+attack: "Poignard de lancer empoisonné"
+range: "Proche"
+damage: "2d8+1 phy"
+motives_and_tactics: "Anticiper, se faire payer, tuer, souiller la nourriture et l’eau"
+experience: "Intrusion +2"
+features:
+  - "Venin Dent-de-meule - Passif"
+  - "Surgi de nulle part - Passif"
+  - "Fumigène - Action"
 ---
 
 # Assassin empoisonneur

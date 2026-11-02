@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Ghastly Legion"
+tags:
+  - "daggerheart/adversary"
+name: "Légion macabre"
+tier: 4
+type: "Horde"
+horde: 10
+description: "Une armée grouillante de fantômes, arrachés à un sommeil sans rêves pour accomplir leur serment ancien."
+difficulty: 17
+thresholds: "25/45"
+hp: 8
+stress: 5
+atk: "+2"
+attack: "Armes spectrales"
+range: "Proche"
+damage: "4d6+10 mag"
+motives_and_tactics: "Submerger, servir, assaillir en nuée"
+experience: "Tactique +2"
+features:
+  - "Horde (2d6+5) - Passif"
+  - "Nécroplasmique - Passif"
+  - "Dernier acte - Réaction"
 ---
 
 # Légion macabre

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Improved Banded Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure à bandes améliorée"
+tier: 2
+thresholds: "13/27"
+score: 5
+feature: "Volumineux : −1 à l’Évasion ; lorsque vous subissez des dégâts sévères, vous devez marquer un Stress."
 ---
 
 # Armure à bandes améliorée

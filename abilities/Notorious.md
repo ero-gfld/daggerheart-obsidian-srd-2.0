@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Notorious"
+tags:
+  - "daggerheart/domain-card"
+name: "Notoire"
+domain: "Grâce"
+level: 10
+type: "Capacité"
+recall: 0
 ---
 
 # Notoire

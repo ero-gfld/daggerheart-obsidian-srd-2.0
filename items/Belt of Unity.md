@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Belt of Unity"
+tags:
+  - "daggerheart/item"
+name: "Ceinture de l’union"
+effect: "Une fois par session, vous pouvez dépenser 5 Espoir pour diriger un jet en tandem à trois PJ au lieu de deux."
 ---
 
 # Ceinture de l’union

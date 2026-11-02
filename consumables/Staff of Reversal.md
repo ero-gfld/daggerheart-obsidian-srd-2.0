@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Staff of Reversal"
+tags:
+  - "daggerheart/consumable"
+name: "Bâton d’inversion"
+effect: "Vous pouvez briser ce bâton contre le sol pour inverser une transformation magique ou un effet à portée Loin."
 ---
 
 # Bâton d’inversion

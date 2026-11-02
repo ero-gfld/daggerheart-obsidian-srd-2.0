@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Fighting Cloak"
+tags:
+  - "daggerheart/weapon"
+name: "Cape de combat légendaire"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d4+6 phy"
+burden: "À une main"
+feature: "Rembourré : +5 aux seuils de dégâts"
 ---
 
 # Cape de combat légendaire

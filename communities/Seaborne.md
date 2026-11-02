@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Seaborne"
+tags:
+  - "daggerheart/community"
+name: "Né des flots"
+description: "Faire partie d’une communauté de Nés des flots, c’est avoir vécu sur ou près d’une vaste étendue d’eau."
+traits: "francs, coopératifs, exubérants, féroces, résolus et burinés"
+features:
+  - "Lire la marée"
 ---
 
 # Né des flots

@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Pact of the Endless"
+tags:
+  - "daggerheart/subclass"
+name: "Pacte de l’Infini"
+class: "Occultiste"
+spellcast_trait: "Présence"
+description: "Jouez le Pacte de l’Infini si vous voulez tenir bon face à vos ennemis et échapper à la mort."
+features:
+  - "Manteau du Patron"
+  - "Étreinte immortelle"
+  - "Invocation terrifiante"
+  - "Puits de dégâts"
+  - "Égide sombre"
+  - "Fléau drainant"
 ---
 
 # Pacte de l’Infini

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Singing Sword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée chantante"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Très proche"
+damage: "d8+5 phy"
+burden: "À une main"
+feature: "Galvanisante : Quand vous obtenez une réussite critique sur une attaque, tous les PJ à portée Proche gagnent un Espoir."
 ---
 
 # Épée chantante

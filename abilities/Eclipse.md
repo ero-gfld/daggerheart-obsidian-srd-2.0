@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Eclipse"
+tags:
+  - "daggerheart/domain-card"
+name: "Éclipse"
+domain: "Minuit"
+level: 10
+type: "Sort"
+recall: 2
 ---
 
 # Éclipse

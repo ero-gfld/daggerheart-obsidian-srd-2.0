@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Spiked Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier à pointes"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d6+2 phy"
+burden: "À une main"
+feature: "Double emploi : +1 au Score d’armure ; +1 aux dégâts de l’arme principale à portée de Mêlée"
 ---
 
 # Bouclier à pointes

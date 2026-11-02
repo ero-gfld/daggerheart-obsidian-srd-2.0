@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Jagged Knife Sniper"
+tags:
+  - "daggerheart/adversary"
+name: "Tireur d’élite des Lames dentelées"
+tier: 1
+type: "Tireur"
+description: "Un bandit efflanqué qui frappe depuis un couvert, armé d’un arc court."
+difficulty: 13
+thresholds: "4/7"
+hp: 3
+stress: 2
+atk: "-1"
+attack: "Arc court"
+range: "Loin"
+damage: "1d10+2 phy"
+motives_and_tactics: "Tendre une embuscade, se cacher, faire du profit, changer de position"
+experience: "Discrétion +2"
+features:
+  - "Frappe invisible - Passif"
 ---
 
 # Tireur d’élite des Lames dentelées

@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Gargantuan War Machine"
+tags:
+  - "daggerheart/adversary"
+name: "Machine de guerre gigantesque"
+tier: 4
+type: "Solo"
+description: "Un automate d’adamantium haut de 100 pieds (environ 30 mètres), aux yeux de gemmes, animé par un creuset de flamme élémentaire logé dans sa poitrine."
+difficulty: 20
+thresholds: "48/88"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Poings de fer"
+range: "Proche"
+damage: "4d12+10 phy"
+motives_and_tactics: "Écraser, détruire"
+experience: "Indestructible +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Taille démesurée - Passif"
+  - "Coup de poing-fusée - Action"
+  - "Piétinement destructeur - Action"
+  - "Surchargée - Réaction"
 ---
 
 # Machine de guerre gigantesque

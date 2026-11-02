@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Petty Noble"
+tags:
+  - "daggerheart/adversary"
+name: "Petit noble"
+tier: 1
+type: "Social"
+description: "Un aristocrate richement vêtu et paré, débordant d'orgueil."
+difficulty: 14
+thresholds: "6/10"
+hp: 3
+stress: 5
+atk: "-3"
+attack: "Rapière"
+range: "Mêlée"
+damage: "1d6+1 phy"
+motives_and_tactics: "Abuser du pouvoir, rassembler des ressources, mobiliser des sbires"
+experience: "Aristocrate +3"
+features:
+  - "Mes terres, mes lois - Passif"
+  - "Gardes, saisissez-les ! - Action"
+  - "Exil - Action"
 ---
 
 # Petit noble

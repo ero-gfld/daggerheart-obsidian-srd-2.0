@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Molepaw Mittens"
+tags:
+  - "daggerheart/item"
+name: "Mitaines pattes-de-taupe"
+effect: "Dépensez un Espoir pour nager à travers la terre comme si c’était de l’eau, pendant 10 minutes."
 ---
 
 # Mitaines pattes-de-taupe

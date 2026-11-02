@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Local Tavern"
+tags:
+  - "daggerheart/environment"
+name: "Taverne locale"
+tier: 1
+type: "Social"
+description: "Une taverne animée qui sert de lieu de rencontre à la ville."
+difficulty: 10
+impulses: "Offrir des occasions aux aventuriers, nourrir la vie communautaire"
+potential_adversaries: "Gardes (Garde à lames, Garde en chef), Combattants à louer (Harceleur, Mercenaire, Lame-sort, Maître d’armes), Marchand"
+features:
+  - "Que dit-on en ville ? - Passif"
+  - "Chanter pour son souper - Passif"
+  - "Étranger mystérieux - Action"
+  - "Quelqu’un arrive en ville - Action"
+  - "Bagarre à la taverne ! - Action"
 ---
 
 # Taverne locale

@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Outer Realms Thrall"
+tags:
+  - "daggerheart/adversary"
+name: "Serviteur des royaumes extérieurs"
+tier: 4
+type: "Sbire"
+description: "Une forme vaguement humanoïde, dépouillée de sa mémoire et de son identité."
+difficulty: 17
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Griffes et crocs"
+range: "Très proche"
+damage: "11 phy"
+motives_and_tactics: "Détruire, dégoûter, désorienter, intimider"
+features:
+  - "Sbire (13) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Serviteur des royaumes extérieurs

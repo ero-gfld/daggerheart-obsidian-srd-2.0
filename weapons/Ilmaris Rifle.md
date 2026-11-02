@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Ilmari's Rifle"
+tags:
+  - "daggerheart/weapon"
+name: "Fusil d’Ilmari"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Très loin"
+damage: "d6+6 mag"
+burden: "À une main"
+feature: "Rechargement : Après avoir fait une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un Stress pour recharger cette arme avant de pouvoir de nouveau tirer."
 ---
 
 # Fusil d’Ilmari

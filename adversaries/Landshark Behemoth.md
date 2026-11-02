@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Landshark Behemoth"
+tags:
+  - "daggerheart/adversary"
+name: "Béhémoth requin terrestre"
+tier: 2
+type: "Solo"
+description: "Un requin terrestre qui a vécu assez longtemps pour devenir un monstre fouisseur imposant, à la peau d’acier et aux dents tranchantes comme des rasoirs."
+difficulty: 15
+thresholds: "15/28"
+hp: 10
+stress: 4
+atk: "+2"
+attack: "Gueule dentée"
+range: "Très proche"
+damage: "2d12+6 phy"
+motives_and_tactics: "Mordre, creuser, jaillir du sol"
+experience: "Souterrain +4, Sanguinaire +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Plongeur des profondeurs - Passif"
+  - "Peau d’acier - Passif"
+  - "Éruption violente - Action"
 ---
 
 # Béhémoth requin terrestre

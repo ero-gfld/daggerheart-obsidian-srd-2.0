@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dark Whispers"
+tags:
+  - "daggerheart/domain-card"
+name: "Murmures sombres"
+domain: "Minuit"
+level: 6
+type: "Sort"
+recall: 0
 ---
 
 # Murmures sombres

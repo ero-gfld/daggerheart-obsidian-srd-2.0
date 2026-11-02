@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Hand Runes"
+tags:
+  - "daggerheart/weapon"
+name: "Runes de main légendaires"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Très proche"
+damage: "d10+9 mag"
+burden: "À une main"
 ---
 
 # Runes de main légendaires

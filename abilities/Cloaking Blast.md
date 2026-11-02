@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Cloaking Blast"
+tags:
+  - "daggerheart/domain-card"
+name: "Déflagration occultante"
+domain: "Arcanes"
+level: 7
+type: "Sort"
+recall: 2
 ---
 
 # Déflagration occultante

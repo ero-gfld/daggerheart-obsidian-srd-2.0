@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Savior Chainmail"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de mailles du sauveur"
+tier: 4
+thresholds: "18/48"
+score: 8
+feature: "Difficile : −1 à toutes les caractéristiques et à l’Évasion"
 ---
 
 # Cotte de mailles du sauveur

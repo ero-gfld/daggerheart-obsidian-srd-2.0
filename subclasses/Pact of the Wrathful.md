@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Pact of the Wrathful"
+tags:
+  - "daggerheart/subclass"
+name: "Pacte du Courroux"
+class: "Occultiste"
+spellcast_trait: "Présence"
+description: "Jouez le Pacte du Courroux si vous voulez détruire ceux qui agissent contre vous."
+features:
+  - "Fureur du Patron"
+  - "Vengeance mortelle"
+  - "Allonge menaçante"
+  - "Amoindrir mes ennemis"
+  - "Attaque redoutable"
+  - "Ire d’outre-monde"
 ---
 
 # Pacte du Courroux

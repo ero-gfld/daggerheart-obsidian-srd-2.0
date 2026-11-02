@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Shortbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc court avancé"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+9 phy"
+burden: "À deux mains"
 ---
 
 # Arc court avancé

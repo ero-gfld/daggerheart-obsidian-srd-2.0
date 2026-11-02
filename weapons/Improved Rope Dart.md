@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Improved Rope Dart"
+tags:
+  - "daggerheart/weapon"
+name: "Dard à corde amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+4 phy"
+burden: "À deux mains"
 ---
 
 # Dard à corde amélioré

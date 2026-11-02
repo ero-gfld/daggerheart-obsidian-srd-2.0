@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Fallen Shock Troop"
+tags:
+  - "daggerheart/adversary"
+name: "Troupe de choc déchue"
+tier: 4
+type: "Sbire"
+description: "Une âme maudite liée à la volonté des Déchus."
+difficulty: 18
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+2"
+attack: "Hache maudite"
+range: "Très proche"
+damage: "12 phy"
+motives_and_tactics: "Écraser, dominer, gagner du répit, punir"
+features:
+  - "Sbire (12) - Passif"
+  - "Aura funeste - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Troupe de choc déchue

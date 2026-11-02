@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Demon’s Edge"
+tags:
+  - "daggerheart/weapon"
+name: "Tranchant du démon"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+10 mag"
+burden: "À une main"
+feature: "Troublant : lorsque vous vainquez une créature avec cette arme, tous les adversaires à portée Proche doivent marquer un Stress."
 ---
 
 # Tranchant du démon

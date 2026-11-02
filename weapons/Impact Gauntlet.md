@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Impact Gauntlet"
+tags:
+  - "daggerheart/weapon"
+name: "Gantelet de choc"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+11 phy"
+burden: "À une main"
+feature: "Commotion : Sur une attaque réussie, vous pouvez dépenser un Espoir pour repousser la cible jusqu’à portée Loin."
 ---
 
 # Gantelet de choc

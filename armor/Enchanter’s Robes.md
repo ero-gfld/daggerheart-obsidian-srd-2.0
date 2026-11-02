@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Enchanter’s Robes"
+tags:
+  - "daggerheart/armor"
+name: "Robes de l’enchanteur"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Mnémonique : Une fois par scène, vous pouvez rappeler une carte de domaine de votre réserve sans payer son Coût de rappel."
 ---
 
 # Robes de l’enchanteur

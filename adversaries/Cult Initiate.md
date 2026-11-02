@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Cult Initiate"
+tags:
+  - "daggerheart/adversary"
+name: "Initié du culte"
+tier: 2
+type: "Sbire"
+description: "Adepte de bas rang, en robe simple, impatient de gagner en pouvoir."
+difficulty: 13
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Dague rituelle"
+range: "Mêlée"
+damage: "5 phy"
+motives_and_tactics: "Obéir aux ordres, gagner en pouvoir, chercher un savoir interdit"
+features:
+  - "Sbire (6) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Initié du culte

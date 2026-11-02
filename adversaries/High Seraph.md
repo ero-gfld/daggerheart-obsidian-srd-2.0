@@ -1,6 +1,28 @@
 ---
 aliases:
   - "High Seraph"
+tags:
+  - "daggerheart/adversary"
+name: "Haut séraphin"
+tier: 4
+type: "Meneur"
+description: "Un champion divin, à la tête d’une troupe sacrée de guerriers qui font respecter la volonté de leur dieu."
+difficulty: 20
+thresholds: "37/70"
+hp: 7
+stress: 5
+atk: "+8"
+attack: "Épée sacrée"
+range: "Très proche"
+damage: "4d10+10 phy"
+motives_and_tactics: "Faire respecter le dogme, voler, rendre son jugement, châtier"
+experience: "Savoir divin +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Vol divin - Passif"
+  - "Jugement - Action"
+  - "Rayons divins - Action"
+  - "Nous ne faisons qu’un - Action"
 ---
 
 # Haut séraphin

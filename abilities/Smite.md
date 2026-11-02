@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Smite"
+tags:
+  - "daggerheart/domain-card"
+name: "Châtier"
+domain: "Splendeur"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Châtier

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Black Powder Revolver"
+tags:
+  - "daggerheart/weapon"
+name: "Revolver à poudre noire"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+8 phy"
+burden: "À une main"
+feature: "Rechargement : Après avoir fait une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un Stress pour recharger cette arme avant de pouvoir tirer à nouveau."
 ---
 
 # Revolver à poudre noire

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Whirlwind"
+tags:
+  - "daggerheart/domain-card"
+name: "Tourbillon"
+domain: "Lame"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Tourbillon

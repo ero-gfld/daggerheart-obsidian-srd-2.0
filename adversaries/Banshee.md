@@ -3,23 +3,23 @@ tags:
   - "daggerheart/adversary"
 name: "Banshee"
 tier: 2
-type: "Skulk"
-description: "A corrupted fey spirit that haunts the night in the form of a willowy specter wearing a luminous gossamer gown."
+type: "Furtif"
+description: "Un esprit féerique corrompu qui hante la nuit sous la forme d’un spectre élancé vêtu d’une robe de gaze lumineuse."
 difficulty: 14
 thresholds: "9/18"
 hp: 5
 stress: 3
 atk: "+2"
-attack: "Fingernails"
-range: "Melee"
+attack: "Ongles"
+range: "Mêlée"
 damage: "2d6+1 mag"
-motives_and_tactics: "Ambush from inside solid objects, frighten to death, mourn life and beauty lost, scream balefully"
-experience: "Vain +3, Wrathful +3"
+motives_and_tactics: "Embusquer depuis l’intérieur d’objets solides, effrayer à mort, pleurer la vie et la beauté perdues, hurler sinistrement"
+experience: "Vanité +3, Colère +3"
 features:
-  - "Specter - Passive"
-  - "Terrifying - Passive"
-  - "Scare Tactic - Action"
-  - "Wail of Despair - Action"
+  - "Spectre - Passif"
+  - "Terrifiant - Passif"
+  - "Tactique d’effroi - Action"
+  - "Gémissement de désespoir - Action"
 ---
 
 # Banshee

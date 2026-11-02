@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Chainmail Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de mailles légendaire"
+tier: 4
+thresholds: "15/40"
+score: 7
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Cotte de mailles légendaire

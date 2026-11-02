@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Bladed Guard"
+tags:
+  - "daggerheart/adversary"
+name: "Garde à lames"
+tier: 1
+type: "Standard"
+description: "Un garde cuirassé, armé d’une épée et d’un bouclier peints aux couleurs de la localité."
+difficulty: 12
+thresholds: "5/9"
+hp: 5
+stress: 2
+atk: "+1"
+attack: "Épée longue"
+range: "Mêlée"
+damage: "1d6+1 phy"
+motives_and_tactics: "Arrêter, fermer les portes, tenir jusqu’au soir, clouer sur place"
+experience: "Savoir local +3"
+features:
+  - "Muraille de boucliers - Passif"
+  - "Retenir - Action"
 ---
 
 # Garde à lames

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Jagged Knife Shadow"
+tags:
+  - "daggerheart/adversary"
+name: "Ombre des Lames dentelées"
+tier: 1
+type: "Furtif"
+description: "Un vaurien agile, armé d’une dague redoutable, qui use de magie des ombres pour isoler ses cibles."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Dagues"
+range: "Mêlée"
+damage: "1d4+4 phy"
+motives_and_tactics: "Tendre une embuscade, dissimuler, diviser, faire du profit"
+experience: "Intrusion +3"
+features:
+  - "Coup dans le dos - Passif"
+  - "Dissimulée - Action"
 ---
 
 # Ombre des Lames dentelées

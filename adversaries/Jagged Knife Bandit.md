@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Jagged Knife Bandit"
+tags:
+  - "daggerheart/adversary"
+name: "Bandit des Lames dentelées"
+tier: 1
+type: "Standard"
+description: "Un malfrat rusé, vêtu d’une cape ornée d’une des dagues emblématiques du gang."
+difficulty: 12
+thresholds: "8/14"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Dagues"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "Fuir, faire du profit, voler, lancer des écrans de fumée"
+experience: "Voleur +2"
+features:
+  - "Grimpeur - Passif"
+  - "En surplomb - Passif"
 ---
 
 # Bandit des Lames dentelées

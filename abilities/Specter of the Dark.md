@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Specter of the Dark"
+tags:
+  - "daggerheart/domain-card"
+name: "Spectre des ténèbres"
+domain: "Minuit"
+level: 10
+type: "Sort"
+recall: 1
 ---
 
 # Spectre des ténèbres

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Using Environments"
+tags:
+  - "daggerheart/rules"
+name: "Utiliser les environnements"
+description: "Les environnements représentent tout ce qui compose une scène en dehors des PJ et des adversaires, comme l’espace physique, les PNJ d’arrière-plan et les forces de la nature."
 ---
 
 # Utiliser les environnements

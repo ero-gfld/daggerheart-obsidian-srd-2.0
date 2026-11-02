@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Merchant"
+tags:
+  - "daggerheart/adversary"
+name: "Marchand"
+tier: 1
+type: "Social"
+description: "Un négociant élégamment vêtu, à l’œil vif pour le profit."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 3
+atk: "-4"
+attack: "Massue"
+range: "Mêlée"
+damage: "1d4+1 phy"
+motives_and_tactics: "Acheter bas et vendre haut, créer la demande, gonfler les prix, chercher le profit"
+experience: "Négociateur avisé +3"
+features:
+  - "Traitement de faveur - Passif"
+  - "Le détour - Passif"
 ---
 
 # Marchand

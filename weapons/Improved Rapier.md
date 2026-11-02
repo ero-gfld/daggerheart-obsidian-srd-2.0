@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Rapier"
+tags:
+  - "daggerheart/weapon"
+name: "Rapière améliorée"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Rapide : Quand vous faites une attaque, vous pouvez marquer un Stress pour viser une autre créature à portée."
 ---
 
 # Rapière améliorée

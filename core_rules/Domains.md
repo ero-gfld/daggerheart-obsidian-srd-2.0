@@ -1,6 +1,12 @@
 ---
 aliases:
   - "Domains"
+tags:
+  - "daggerheart/rules"
+name: "Domaines"
+description: "Il existe dix domaines, chacun composé d’un ensemble de cartes qui confèrent des aptitudes ou des capacités spéciales exprimant un thème particulier."
+sections:
+  - "DOMAINES DE CLASSE"
 ---
 
 # Domaines

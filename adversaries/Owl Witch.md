@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Owl Witch"
+tags:
+  - "daggerheart/adversary"
+name: "Sorcière-hibou"
+tier: 4
+type: "Soutien"
+description: "Une chouette effraie géante et vengeresse, à l'envergure de 4,5 mètres et au visage humain."
+difficulty: 19
+thresholds: "27/47"
+hp: 4
+stress: 3
+atk: "+7"
+attack: "Serres rasoirs"
+range: "Très proche"
+damage: "4d8+5 phy"
+motives_and_tactics: "Consumer l'essence, maudire, prédire la mort"
+experience: "Magie +2, Traqueur nocturne +2"
+features:
+  - "Mauvais présage - Passif"
+  - "Barrière de sorcière - Passif"
+  - "Mimétisme vocal - Action"
+  - "Regard cauchemardesque - Action"
+  - "Visions d'une fin violente - Réaction"
 ---
 
 # Sorcière-hibou

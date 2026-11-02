@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Entombed Necropriest"
+tags:
+  - "daggerheart/adversary"
+name: "Nécroprêtre des tombes"
+tier: 2
+type: "Soutien"
+description: "Un nécromancien chargé de préserver la vie de l’impératrice au-delà de la mort."
+difficulty: 13
+thresholds: "8/16"
+hp: 3
+stress: 7
+atk: "+2"
+attack: "Trait mortel"
+range: "Loin"
+damage: "2d6+2 mag"
+motives_and_tactics: "Renforcer les alliés, vaincre le temps, maîtriser les ennemis, servir l’impératrice, manier la mort comme une arme"
+experience: "Magie noire +4, Protection +2"
+features:
+  - "Revigoration - Action"
+  - "Dernière étreinte - Action"
+  - "Toucher glacial - Action"
 ---
 
 # Nécroprêtre des tombes

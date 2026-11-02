@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Spiked Bow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc à pointes"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d6+7 phy"
+burden: "À deux mains"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec les statistiques suivantes : Agilité, Mêlée, d10+5."
 ---
 
 # Arc à pointes

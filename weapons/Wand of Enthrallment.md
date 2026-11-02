@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Wand of Enthrallment"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette d’asservissement"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Loin"
+damage: "d6+4 mag"
+burden: "À une main"
+feature: "Persuasif : Avant un jet de Présence, vous pouvez marquer un Stress pour gagner un bonus de +2 au résultat."
 ---
 
 # Baguette d’asservissement

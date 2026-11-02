@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Conscript"
+tags:
+  - "daggerheart/adversary"
+name: "Conscrit"
+tier: 2
+type: "Sbire"
+description: "Civil mal entraîné, enrôlé de force dans la guerre."
+difficulty: 12
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Lances"
+range: "Très proche"
+damage: "6 phy"
+motives_and_tactics: "Obéir aux ordres, se regrouper, survivre"
+features:
+  - "Sbire (6) - Passif"
+  - "Attaque de groupe - Action"
 ---
 
 # Conscrit

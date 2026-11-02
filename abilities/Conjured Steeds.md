@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Conjured Steeds"
+tags:
+  - "daggerheart/domain-card"
+name: "Destriers invoqués"
+domain: "Nature"
+level: 6
+type: "Sort"
+recall: 0
 ---
 
 # Destriers invoqués

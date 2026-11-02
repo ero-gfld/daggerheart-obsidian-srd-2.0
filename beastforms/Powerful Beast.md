@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Powerful Beast"
+tags:
+  - "daggerheart/beastform"
+name: "Bête puissante"
+tier: 2
+examples: "Ours, taureau, élan, etc."
+trait_bonus: "Force +3"
+evasion: "+1"
+attack: "Mêlée Force d10+4 phy"
+advantages: "s’orienter, protéger, effrayer"
+features:
+  - "Déchaînement"
+  - "Cuir épais"
 ---
 
 # Bête puissante

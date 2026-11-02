@@ -1,6 +1,23 @@
 ---
 aliases:
   - "Tiny Green Ooze"
+tags:
+  - "daggerheart/adversary"
+name: "Minuscule gelée verte"
+tier: 1
+type: "Furtif"
+description: "Un petit monticule mouvant de glu verte translucide."
+difficulty: 14
+thresholds: "4/Aucun"
+hp: 2
+stress: 1
+atk: "-1"
+attack: "Pseudopode"
+range: "Mêlée"
+damage: "1d4+1 mag"
+motives_and_tactics: "Se camoufler, se glisser à pas de loup"
+features:
+  - "Forme acide - Passif"
 ---
 
 # Minuscule gelée verte

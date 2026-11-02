@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Core Mechanics"
+tags:
+  - "daggerheart/rules"
+name: "Mécaniques de base"
+description: "Daggerheart est une conversation."
+sections:
+  - "LE DÉROULEMENT DU JEU"
+  - "LA BOUCLE DE JEU FONDAMENTALE"
+  - "LES PROJECTEURS"
+  - "ORDRE DES TOURS ET ÉCONOMIE D’ACTIONS"
+  - "FAIRE DES ACTIONS ET PASSER À L’ACTE"
+  - "COMBAT"
+  - "STRESS"
+  - "ATTAQUER"
+  - "CARTES, PORTÉE ET DÉPLACEMENT"
+  - "ÉTATS"
+  - "TEMPS DE REPOS"
+  - "MORT"
+  - "RÈGLES COMPLÉMENTAIRES"
+  - "MONTER DE NIVEAU"
+  - "MULTICLASSAGE"
 ---
 
 # Mécaniques de base

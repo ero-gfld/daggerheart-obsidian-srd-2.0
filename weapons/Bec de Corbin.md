@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Bec de Corbin"
+tags:
+  - "daggerheart/weapon"
+name: "Bec-de-corbin"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+9 phy"
+burden: "À deux mains"
+feature: "Dévastateur : Avant de faire un jet d’attaque, vous pouvez marquer un Stress pour utiliser un d20 comme dé de dégâts."
 ---
 
 # Bec-de-corbin

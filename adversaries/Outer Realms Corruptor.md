@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Outer Realms Corruptor"
+tags:
+  - "daggerheart/adversary"
+name: "Corrupteur des royaumes extérieurs"
+tier: 4
+type: "Soutien"
+description: "Une masse informe et changeante, qui semble faite de lumière chromatique."
+difficulty: 19
+thresholds: "27/47"
+hp: 4
+stress: 3
+atk: "+7"
+attack: "Pseudopode corrosif"
+range: "Très proche"
+damage: "4d8+5 mag"
+motives_and_tactics: "Troubler, distraire, submerger"
+features:
+  - "Toucher brise-volonté - Passif"
+  - "Régurgiter les débris du réel - Action"
 ---
 
 # Corrupteur des royaumes extérieurs

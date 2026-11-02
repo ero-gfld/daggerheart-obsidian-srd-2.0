@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Longsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée longue légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+12 phy"
+burden: "À deux mains"
 ---
 
 # Épée longue légendaire

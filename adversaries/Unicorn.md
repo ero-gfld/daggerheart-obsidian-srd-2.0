@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Unicorn"
+tags:
+  - "daggerheart/adversary"
+name: "Licorne"
+tier: 3
+type: "Standard"
+description: "Un avatar céleste de bonté, sous la forme d’un cheval d’une beauté surnaturelle, avec une longue corne en spirale qui jaillit de son front."
+difficulty: 17
+thresholds: "19/36"
+hp: 7
+stress: 5
+atk: "+3"
+attack: "Sabot et corne"
+range: "Mêlée"
+damage: "3d10+3 mag"
+motives_and_tactics: "Tenir le mal à distance, protéger le sacré, sentir les émotions et les intentions"
+experience: "Magie +3, Nature +3"
+features:
+  - "Lance céleste - Passif"
+  - "Toucher guérisseur - Action"
+  - "Aura protectrice - Action"
+  - "Téléportation - Action"
 ---
 
 # Licorne

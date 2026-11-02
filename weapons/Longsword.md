@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Longsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée longue"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+3 phy"
+burden: "À deux mains"
 ---
 
 # Épée longue

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Mechanorb"
+tags:
+  - "daggerheart/adversary"
+name: "Mécanorbe"
+tier: 1
+type: "Standard"
+description: "Une sphère mécanique flottante, aux membres télescopiques, venue d’un royaume de machines et de métal."
+difficulty: 12
+thresholds: "5/10"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Aiguille"
+range: "Mêlée"
+damage: "1d10+1 phy"
+motives_and_tactics: "Se coordonner, (dés)assembler, se déplacer orthogonalement, parler en binaire"
+experience: "Machines +2"
+features:
+  - "Esprit de ruche - Passif"
+  - "Tactiques adaptatives - Passif"
 ---
 
 # Mécanorbe

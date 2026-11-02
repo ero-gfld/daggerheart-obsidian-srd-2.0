@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Resonant Harness"
+tags:
+  - "daggerheart/armor"
+name: "Harnais résonnant"
+tier: 4
+thresholds: "15/40"
+score: 7
+feature: "Vitreux : Lorsque vous devriez subir des dégâts sévères ou plus, vous pouvez marquer 2 Emplacements d’armure pour annuler ces dégâts. Si vous le faites, vous subissez une pénalité de −5 à vos seuils de dégâts jusqu’à ce que vous choisissiez de réparer votre armure comme action de repos."
 ---
 
 # Harnais résonnant

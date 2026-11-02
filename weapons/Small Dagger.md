@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Small Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Petite dague"
+tier: 1
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8 phy"
+burden: "À une main"
+feature: "Jumelé : +2 aux dégâts de l’arme principale contre les cibles à portée de Mêlée"
 ---
 
 # Petite dague

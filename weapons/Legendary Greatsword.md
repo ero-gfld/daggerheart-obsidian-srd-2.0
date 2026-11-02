@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Greatsword"
+tags:
+  - "daggerheart/weapon"
+name: "Espadon légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+12 phy"
+burden: "À deux mains"
+feature: "Massif : −1 à l’Évasion ; en cas d’attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible."
 ---
 
 # Espadon légendaire

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Teleport"
+tags:
+  - "daggerheart/domain-card"
+name: "Téléportation"
+domain: "Codex"
+level: 5
+type: "Sort"
+recall: 2
 ---
 
 # Téléportation

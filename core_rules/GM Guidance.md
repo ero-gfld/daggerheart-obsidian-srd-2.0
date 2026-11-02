@@ -1,6 +1,12 @@
 ---
 aliases:
   - "GM Guidance"
+tags:
+  - "daggerheart/rules"
+name: "Conseils pour le MJ"
+description: "Ces trois sections posent des bases pour vous aider à tirer le meilleur de ce jeu."
+sections:
+  - "MÉCANIQUES DE BASE DU MJ"
 ---
 
 # Conseils pour le MJ

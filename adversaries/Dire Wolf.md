@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Dire Wolf"
+tags:
+  - "daggerheart/adversary"
+name: "Loup redoutable"
+tier: 1
+type: "Furtif"
+description: "Grand loup aux dents menaçantes, rarement rencontré seul."
+difficulty: 12
+thresholds: "5/9"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Griffes"
+range: "Mêlée"
+damage: "1d6+2 phy"
+motives_and_tactics: "Défendre son territoire, harceler, protéger la meute, encercler, traquer"
+experience: "Sens aiguisés +3"
+features:
+  - "Tactique de meute - Passif"
+  - "Coup handicapant - Action"
 ---
 
 # Loup redoutable

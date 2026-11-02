@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Hill Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan des collines"
+tier: 2
+type: "Solo"
+description: "Un goliath vêtu de peaux de bêtes et entouré d’un essaim d’insectes."
+difficulty: 14
+thresholds: "13/26"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Souche d’arbre"
+range: "Très proche"
+damage: "2d10+4 phy"
+motives_and_tactics: "Manger, faire du désordre, patrouiller sur son territoire"
+experience: "Survie +3, Revanche +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Élan - Passif"
+  - "Crédule - Passif"
+  - "Nuée d’insectes - Passif"
+  - "Balayage puissant - Action"
 ---
 
 # Titan des collines

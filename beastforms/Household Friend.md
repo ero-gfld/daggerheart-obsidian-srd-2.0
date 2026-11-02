@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Household Friend"
+tags:
+  - "daggerheart/beastform"
+name: "Compagnon domestique"
+tier: 1
+examples: "Chat, chien, lapin, etc."
+trait_bonus: "Instinct +1"
+evasion: "+2"
+attack: "Mêlée Instinct d6 phy"
+advantages: "grimper, repérer, protéger"
+features:
+  - "Compagnon"
+  - "Fragile"
 ---
 
 # Compagnon domestique

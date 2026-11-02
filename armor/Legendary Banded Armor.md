@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Banded Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure à bandes légendaire"
+tier: 4
+thresholds: "17/43"
+score: 7
+feature: "Volumineux : −1 à l’Évasion ; lorsque vous subissez des dégâts sévères, vous devez marquer un Stress."
 ---
 
 # Armure à bandes légendaire

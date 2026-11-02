@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Acid Burrower"
+tags:
+  - "daggerheart/adversary"
+name: "Fouisseur acide"
+tier: 1
+type: "Solo"
+description: "Un insecte de la taille d’un cheval, pourvu de griffes fouisseuses et d’un sang acide."
+difficulty: 14
+thresholds: "8/15"
+hp: 8
+stress: 3
+atk: "+3"
+attack: "Griffes"
+range: "Très proche"
+damage: "1d12+2 phy"
+motives_and_tactics: "Creuser, traîner au loin, se nourrir, se repositionner"
+experience: "Sens des vibrations +2"
+features:
+  - "Implacable (3) - Passif"
+  - "Éruption du sol - Action"
+  - "Crachat d’acide - Action"
+  - "Bain acide - Réaction"
 ---
 
 # Fouisseur acide

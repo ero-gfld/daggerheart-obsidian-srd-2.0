@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Urok Broadsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée large d’Urok"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+3 phy"
+burden: "À une main"
+feature: "Mortel : Quand vous infligez des dégâts sévères, la cible doit marquer un Point de vie supplémentaire."
 ---
 
 # Épée large d’Urok

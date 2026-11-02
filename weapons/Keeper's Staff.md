@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Keeper's Staff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton du gardien"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+4 mag"
+burden: "À deux mains"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Bâton du gardien

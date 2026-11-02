@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Harrier"
+tags:
+  - "daggerheart/adversary"
+name: "Harceleur"
+tier: 1
+type: "Standard"
+description: "Un combattant agile, armé de javelots."
+difficulty: 12
+thresholds: "5/9"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Javelot"
+range: "Proche"
+damage: "1d6+2 phy"
+motives_and_tactics: "Prendre à revers, harceler, tenir à distance, profiter"
+experience: "Camouflage +2"
+features:
+  - "Garder ses distances - Passif"
+  - "Repli - Réaction"
 ---
 
 # Harceleur

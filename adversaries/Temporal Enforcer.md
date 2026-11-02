@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Temporal Enforcer"
+tags:
+  - "daggerheart/adversary"
+name: "Exécuteur temporel"
+tier: 4
+type: "Cogneur"
+description: "Un être mécanique géant venu d’une dimension hors du temps, construit par les Gardiens du temps pour préserver le Continuum sacré."
+difficulty: 20
+thresholds: "42/68"
+hp: 8
+stress: 5
+atk: "+4"
+attack: "Marteau d’adamantium"
+range: "Très proche"
+damage: "40 phy direct"
+motives_and_tactics: "Réparer la chronologie, traquer les hérétiques temporels, servir les Seigneurs de la Continuité"
+experience: "Anomalies temporelles +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Boucle temporelle - Passif"
+  - "Franchir les instants - Action"
+  - "Retour arrière instantané - Réaction"
+  - "Inverser la polarité - Réaction"
 ---
 
 # Exécuteur temporel

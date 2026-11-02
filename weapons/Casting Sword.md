@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Casting Sword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée d’incantation"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+4 mag"
+burden: "À deux mains"
+feature: "Polyvalent : cette arme peut aussi être utilisée avec ces valeurs : Savoir, Loin, d6+3."
 ---
 
 # Épée d’incantation

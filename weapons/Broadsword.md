@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Broadsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée large"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d8 phy"
+burden: "À une main"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Épée large

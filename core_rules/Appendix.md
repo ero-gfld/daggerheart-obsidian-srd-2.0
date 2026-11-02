@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Appendix"
+tags:
+  - "daggerheart/rules"
+name: "Annexe"
+description: "Cette section contient des informations complémentaires et des documents de référence."
 ---
 
 # Annexe

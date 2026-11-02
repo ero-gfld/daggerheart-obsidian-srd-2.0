@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Untouchable"
+tags:
+  - "daggerheart/domain-card"
+name: "Intouchable"
+domain: "Os"
+level: 1
+type: "Capacité"
+recall: 1
 ---
 
 # Intouchable

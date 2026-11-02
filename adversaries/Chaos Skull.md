@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Chaos Skull"
+tags:
+  - "daggerheart/adversary"
+name: "Crâne du chaos"
+tier: 2
+type: "Tireur"
+description: "Crâne humanoïde flottant, animé par une magie scintillante."
+difficulty: 15
+thresholds: "8/16"
+hp: 5
+stress: 4
+atk: "+2"
+attack: "Décharge d’énergie"
+range: "Proche"
+damage: "2d8+3 mag"
+motives_and_tactics: "Ricaner, consommer la magie, servir son créateur"
+features:
+  - "Lévitation - Passif"
+  - "Protections - Passif"
+  - "Déferlement magique - Action"
+  - "Siphon magique - Action"
 ---
 
 # Crâne du chaos

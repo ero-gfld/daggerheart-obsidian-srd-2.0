@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Ocean Voyage"
+tags:
+  - "daggerheart/environment"
+name: "Traversée océanique"
+tier: 2
+type: "Traversée"
+description: "Les PJ obtiennent un passage vers une destination lointaine en offrant leur travail en échange."
+difficulty: 14
+impulses: "révéler ce qui rôde sous les vagues, les envoyer dans la mauvaise direction, faire couler le navire, épuiser leurs ressources"
+potential_adversaries: "Habitants des abysses (Anguilles électriques, Kraken, Requin, Sirène), Pirates (Capitaine corsaire, Maraudeurs corsaires)"
+features:
+  - "Haute mer - Passif"
+  - "Vivres en baisse - Passif"
+  - "« Pirates ! » - Action"
+  - "Mauvais temps - Réaction"
+  - "Ici vivent des monstres - Réaction"
 ---
 
 # Traversée océanique

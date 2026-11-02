@@ -3,16 +3,16 @@ tags:
   - "daggerheart/environment"
 name: "Duel"
 tier: 2
-type: "Event"
-description: "An adversary challenges one of the PCs to single combat as the rest of the party aids them from the sidelines."
-difficulty: "Special (see “Relative Strength”)"
-impulses: "Focus on one PC, goad them into overcommitting, inflict an embarrassing defeat, sideline the rest of the party"
-potential_adversaries: "Any"
+type: "Événement"
+description: "Un adversaire défie l’un des PJ en combat singulier, tandis que le reste du groupe l’aide depuis les marges."
+difficulty: "Spéciale (voir « Force relative »)"
+impulses: "se concentrer sur un PJ, le pousser à trop s’engager, lui infliger une défaite humiliante, écarter le reste du groupe"
+potential_adversaries: "Tous"
 features:
-  - "“I Demand Satisfaction.” - Passive"
-  - "Relative Strength - Passive"
-  - "Rules of Engagement - Passive"
-  - "Dirty Tricks - Action"
+  - "« J’exige réparation. » - Passif"
+  - "Force relative - Passif"
+  - "Règles du combat - Passif"
+  - "Coups bas - Action"
 ---
 
 # Duel

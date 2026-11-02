@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Abandoned Grove"
+tags:
+  - "daggerheart/environment"
+name: "Bosquet abandonné"
+tier: 1
+type: "Exploration"
+description: "Un ancien bosquet druidique, en friche et entièrement repris par la nature."
+difficulty: 11
+impulses: "Attirer les curieux, faire écho au passé"
+potential_adversaries: "Bêtes (Ours, Loup redoutable, Serpent de verre), Gardiens du bosquet (Petit ent, Soldat sylvain, Jeune dryade)"
+features:
+  - "Champ de bataille envahi - Passif"
+  - "Lianes barbelées - Action"
+  - "Vous n’êtes pas les bienvenus ici - Action"
+  - "Profanateur - Action"
 ---
 
 # Bosquet abandonné

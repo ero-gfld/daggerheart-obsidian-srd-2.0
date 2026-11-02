@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Adjust Reality"
+tags:
+  - "daggerheart/domain-card"
+name: "Retoucher la réalité"
+domain: "Arcanes"
+level: 10
+type: "Sort"
+recall: 1
 ---
 
 # Retoucher la réalité

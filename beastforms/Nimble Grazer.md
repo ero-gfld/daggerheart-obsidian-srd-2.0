@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Nimble Grazer"
+tags:
+  - "daggerheart/beastform"
+name: "Brouteur agile"
+tier: 1
+examples: "Cerf, gazelle, chèvre, etc."
+trait_bonus: "Agilité +1"
+evasion: "+3"
+attack: "Mêlée Agilité d6 phy"
+advantages: "bondir, se faufiler, piquer un sprint"
+features:
+  - "Proie insaisissable"
+  - "Fragile"
 ---
 
 # Brouteur agile

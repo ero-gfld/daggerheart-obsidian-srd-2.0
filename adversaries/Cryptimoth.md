@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Cryptimoth"
+tags:
+  - "daggerheart/adversary"
+name: "Phalène des cryptes"
+tier: 3
+type: "Furtif"
+description: "Grande créature phalène aux yeux rouges, qui marche debout et annonce des événements mystérieux ou maléfiques."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Griffes"
+range: "Mêlée"
+damage: "3d8+5 phy"
+motives_and_tactics: "Écholocaliser, voler en silence, se fondre dans les ombres"
+experience: "Présages sinistres +3"
+features:
+  - "Terrifiant - Passif"
+  - "Cri psychique - Action"
+  - "Essaim d’ombres - Action"
+  - "Regard paranoïaque - Action"
 ---
 
 # Phalène des cryptes

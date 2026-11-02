@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Dragon Mother Mitera"
+tags:
+  - "daggerheart/adversary"
+name: "Mère-dragon Mitera"
+tier: 4
+type: "Solo"
+description: "Dragon gigantesque à sept têtes, couvert d’écailles de diamant éblouissantes qui scintillent de toutes les couleurs de l’arc-en-ciel."
+difficulty: 16
+thresholds: "35/65"
+hp: 12
+stress: 10
+atk: "+8"
+attack: "Morsure et entaille"
+range: "Proche"
+damage: "4d10+10 phy"
+motives_and_tactics: "Enfanter la destruction, contrôler le champ de bataille, voler, repousser les envahisseurs, utiliser toutes les options disponibles"
+experience: "Ancienne +5"
+features:
+  - "Implacable (3) - Passif"
+  - "Peau de diamant - Passif"
+  - "Souffle élémentaire - Action"
+  - "Coup de queue - Action"
+  - "Redoutable - Réaction"
+  - "Sept têtes - Réaction"
 ---
 
 # Mère-dragon Mitera

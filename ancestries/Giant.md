@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Giant"
+tags:
+  - "daggerheart/ancestry"
+name: "Géant"
+description: "Les géants sont des humanoïdes colossaux aux épaules larges, aux longs bras et dotés d’un à trois yeux."
+features:
+  - "Endurance"
+  - "Allonge"
 ---
 
 # Géant

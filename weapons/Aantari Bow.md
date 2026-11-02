@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Aantari Bow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc aantari"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+11 phy"
+burden: "À deux mains"
+feature: "Fiable : +1 aux jets d’attaque"
 ---
 
 # Arc aantari

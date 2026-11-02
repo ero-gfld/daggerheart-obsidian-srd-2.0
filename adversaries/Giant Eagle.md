@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Giant Eagle"
+tags:
+  - "daggerheart/adversary"
+name: "Aigle géant"
+tier: 2
+type: "Furtif"
+description: "Un oiseau de proie géant aux serres tachées de sang."
+difficulty: 14
+thresholds: "8/19"
+hp: 4
+stress: 4
+atk: "+1"
+attack: "Serres et bec"
+range: "Très proche"
+damage: "2d6+3 phy"
+motives_and_tactics: "Chasser les proies, rester mobile, frapper sans hésiter"
+features:
+  - "Vol - Passif"
+  - "Piqué meurtrier - Action"
+  - "Envol - Action"
+  - "Lâcher mortel - Action"
 ---
 
 # Aigle géant

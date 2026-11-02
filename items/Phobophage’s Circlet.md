@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Phobophage’s Circlet"
+tags:
+  - "daggerheart/item"
+name: "Diadème du phobophage"
+effect: "Lorsque le MJ dépense une Peur, lancez un d4. Une fois par scène, sur un résultat de 4, vous évacuez un Stress."
 ---
 
 # Diadème du phobophage

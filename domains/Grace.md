@@ -1,6 +1,15 @@
 ---
 aliases:
   - "Grace"
+tags:
+  - "daggerheart/domain"
+name: "Grâce"
+description: "La Grâce est le domaine du charisme."
+classes:
+  - "Barde"
+  - "Roublard"
+  - "Occultiste"
+cards: 21
 ---
 
 # Grâce

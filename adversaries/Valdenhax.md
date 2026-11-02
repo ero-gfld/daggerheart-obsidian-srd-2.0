@@ -3,23 +3,23 @@ tags:
   - "daggerheart/adversary"
 name: "Valdenhax"
 tier: 2
-type: "Leader"
-description: "A malevolent forest hag who has long, mossy hair and flies through the air with an oversized mortar and pestle."
+type: "Meneur"
+description: "Une sorcière malveillante de la forêt, aux longs cheveux couverts de mousse, qui vole dans les airs avec un mortier et un pilon démesurés."
 difficulty: 16
 thresholds: "12/24"
 hp: 6
 stress: 4
 atk: "+2"
-attack: "Giant Stone Pestle"
-range: "Melee"
+attack: "Pilon de pierre géant"
+range: "Mêlée"
 damage: "2d8+2 phy"
-motives_and_tactics: "Collect souls, fly, vex trespassers"
-experience: "Witchcraft +3"
+motives_and_tactics: "Collecter des âmes, voler, tourmenter les intrus"
+experience: "Sorcellerie +3"
 features:
-  - "To Me, My Pretties - Action"
-  - "Shadow Strangler - Action"
-  - "Corpse Whisperer - Action"
-  - "Vexing Word - Reaction"
+  - "À moi, mes jolies ! - Action"
+  - "L’Étrangleur de l’ombre - Action"
+  - "Murmures aux cadavres - Action"
+  - "Parole vexatoire - Réaction"
 ---
 
 # Valdenhax

@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Hold the Line"
+tags:
+  - "daggerheart/environment"
+name: "Tenir la ligne"
+tier: 1
+type: "Événement"
+description: "Le groupe doit repousser plusieurs vagues d’ennemis assez longtemps pour qu’un allié puisse accomplir un objectif important."
+difficulty: 11
+impulses: "lancer des vagues d’ennemis contre les rivages du groupe, ne jamais lui laisser de répit, viser leur charge"
+potential_adversaries: "Gardes, Lames dentelées, Corsaires, Squelettes, Zombies"
+features:
+  - "Gardes du corps - Passif"
+  - "« Je ne dois pas échouer ! » - Passif"
+  - "Multitudes envahissantes - Passif"
+  - "Vagues sur vagues - Réaction"
 ---
 
 # Tenir la ligne

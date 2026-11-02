@@ -1,6 +1,20 @@
 ---
 aliases:
   - "Witch’s Hut"
+tags:
+  - "daggerheart/environment"
+name: "Cabane de sorcière"
+tier: 2
+type: "Exploration"
+description: "Une cabane rustique sans fenêtre, perchée sur deux énormes pattes de poule."
+difficulty: 14
+impulses: "Les effrayer, les retarder jusqu’au retour de la sorcière, les enfermer, changer de lieu, les tenter avec des curiosités magiques"
+potential_adversaries: "Hutte aux pattes de poule, Défenses enchantées (Gargouille, Moquerie vorace, Épouvantail), Valdenhax, Les victimes de la sorcière (Jack-o’-lanterns, Mordeurs bonnet-rouge)"
+features:
+  - "Plus grande à l’intérieur - Passif"
+  - "Collection de poupées effrayantes - Passif"
+  - "Breuvages de sorcière - Passif"
+  - "Déplacée - Réaction"
 ---
 
 # Cabane de sorcière

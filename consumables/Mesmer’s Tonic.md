@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Mesmer’s Tonic"
+tags:
+  - "daggerheart/consumable"
+name: "Tonique de Mesmer"
+effect: "Lorsque vous buvez ce tonique, la seule chose que vous puissiez entendre jusqu’à votre prochain repos sont les pensées superficielles des créatures à portée Très proche."
 ---
 
 # Tonique de Mesmer

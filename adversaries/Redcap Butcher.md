@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Redcap Butcher"
+tags:
+  - "daggerheart/adversary"
+name: "Boucher bonnet-rouge"
+tier: 1
+type: "Standard"
+description: "Une créature féerique de la taille d'un halfelin, qui taillade ses victimes en morceaux avec toutes sortes d'instruments tranchants. Elle porte un chapeau rouge conique scellé à la cire de bougie."
+difficulty: 12
+thresholds: "5/10"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Couperet de boucher"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "Sourire de façon dérangeante, hacher et lacérer, filer à toute allure"
+experience: "Détalement +2"
+features:
+  - "Hachoir enragé - Action"
+  - "Lanceur de couteaux - Action"
 ---
 
 # Boucher bonnet-rouge

@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Dualstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton double légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d8+12 mag"
+burden: "À deux mains"
 ---
 
 # Bâton double légendaire

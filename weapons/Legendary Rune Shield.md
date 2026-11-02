@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Rune Shield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier runique légendaire"
+tier: 4
+category: "Secondaire"
+type: "Magique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d4+6 mag"
+burden: "À une main"
+feature: "Protecteur : +4 au Score d’armure"
 ---
 
 # Bouclier runique légendaire

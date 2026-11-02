@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Demon Lord Berzug"
+tags:
+  - "daggerheart/adversary"
+name: "Seigneur-démon Berzug"
+tier: 4
+type: "Solo"
+description: "Souverain d’un cercle profond des Cercles d’en bas, bête hybride immense dotée d’une queue de serpent, de pattes arrière de lézard, de bras en pinces de crabe et d’une tête de loup à deux faces."
+difficulty: 20
+thresholds: "35/70"
+hp: 12
+stress: 8
+atk: "+8"
+attack: "Griffes abyssales"
+range: "Proche"
+damage: "4d12+10 phy"
+motives_and_tactics: "Détruire le bien, semer le chaos, renverser les rivaux"
+experience: "Savoir infernal +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Fouet du chaos - Action"
+  - "Plongée dans l’abîme - Action"
+  - "Frappe écrasante - Réaction"
+  - "Horrifiant - Réaction"
 ---
 
 # Seigneur-démon Berzug

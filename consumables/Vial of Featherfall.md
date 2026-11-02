@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Vial of Featherfall"
+tags:
+  - "daggerheart/consumable"
+name: "Fiole de chute plume"
+effect: "Vous pouvez boire cette potion pour ignorer les dégâts de chute pendant les 10 prochaines minutes."
 ---
 
 # Fiole de chute plume

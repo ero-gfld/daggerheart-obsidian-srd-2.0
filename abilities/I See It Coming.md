@@ -1,6 +1,13 @@
 ---
 aliases:
   - "I See It Coming"
+tags:
+  - "daggerheart/domain-card"
+name: "Je le vois venir"
+domain: "Os"
+level: 1
+type: "Capacité"
+recall: 1
 ---
 
 # Je le vois venir

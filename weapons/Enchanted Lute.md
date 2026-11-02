@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Enchanted Lute"
+tags:
+  - "daggerheart/weapon"
+name: "Luth enchanté"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Proche"
+damage: "d8+3 mag"
+burden: "À deux mains"
+feature: "Revigorant : Sur une attaque réussie, lancez un d4. Sur un résultat de 4, évacuez un Stress."
 ---
 
 # Luth enchanté

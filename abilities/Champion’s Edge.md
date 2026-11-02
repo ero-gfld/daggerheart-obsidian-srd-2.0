@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Champion’s Edge"
+tags:
+  - "daggerheart/domain-card"
+name: "Avantage du champion"
+domain: "Lame"
+level: 5
+type: "Capacité"
+recall: 1
 ---
 
 # Avantage du champion

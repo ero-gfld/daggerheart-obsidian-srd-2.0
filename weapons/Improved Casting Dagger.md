@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Casting Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague d’incantation améliorée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+3 mag"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces caractéristiques : Instinct, Mêlée, d8+3."
 ---
 
 # Dague d’incantation améliorée

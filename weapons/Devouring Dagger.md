@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Devouring Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague dévorante"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+4 mag"
+burden: "À une main"
+feature: "Effrayant : sur une attaque réussie, la cible doit marquer un Stress."
 ---
 
 # Dague dévorante

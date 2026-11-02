@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Scepter"
+tags:
+  - "daggerheart/weapon"
+name: "Sceptre"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Loin"
+damage: "d6 mag"
+burden: "À deux mains"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces valeurs : Présence, Mêlée, d8."
 ---
 
 # Sceptre

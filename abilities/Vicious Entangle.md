@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Vicious Entangle"
+tags:
+  - "daggerheart/domain-card"
+name: "Enlacement cruel"
+domain: "Nature"
+level: 1
+type: "Sort"
+recall: 1
 ---
 
 # Enlacement cruel

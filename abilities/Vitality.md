@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Vitality"
+tags:
+  - "daggerheart/domain-card"
+name: "Vitalité"
+domain: "Lame"
+level: 5
+type: "Capacité"
+recall: 0
 ---
 
 # Vitalité

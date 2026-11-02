@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Major Stride Potion"
+tags:
+  - "daggerheart/consumable"
+name: "Potion de foulée majeure"
+effect: "Vous gagnez un bonus de +1 à votre Agilité jusqu’à votre prochain repos."
 ---
 
 # Potion de foulée majeure

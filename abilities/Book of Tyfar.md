@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Tyfar"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Tyfar"
+domain: "Codex"
+level: 1
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Tyfar

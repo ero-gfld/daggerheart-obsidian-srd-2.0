@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Dryad"
+tags:
+  - "daggerheart/adversary"
+name: "Dryade"
+tier: 3
+type: "Meneur"
+description: "Esprit de la nature sous la forme d’un arbre humanoïde."
+difficulty: 16
+thresholds: "24/38"
+hp: 8
+stress: 5
+atk: "+4"
+attack: "Arc court en bois mort"
+range: "Loin"
+damage: "3d10+1 phy"
+motives_and_tactics: "Commander, cultiver, chasser les intrus, préserver la forêt"
+experience: "Savoir forestier +4"
+features:
+  - "Parterre de ronces - Action"
+  - "Faire pousser des jeunes arbres - Action"
+  - "Nous ne faisons qu’un - Réaction"
 ---
 
 # Dryade

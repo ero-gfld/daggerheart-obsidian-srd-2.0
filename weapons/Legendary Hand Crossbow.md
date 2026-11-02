@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Legendary Hand Crossbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arbalète de poing légendaire"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Loin"
+damage: "d6+7 phy"
+burden: "À une main"
 ---
 
 # Arbalète de poing légendaire

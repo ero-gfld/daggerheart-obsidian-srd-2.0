@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Twisted Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague tordue"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Savoir"
+range: "Mêlée"
+damage: "d8 phy"
+burden: "À une main"
+feature: "Perforant : Les dégâts infligés avec cette arme considèrent le seuil majeur de la cible comme ayant un malus de −2."
 ---
 
 # Dague tordue

@@ -1,6 +1,25 @@
 ---
 aliases:
   - "Darkweave Spinner"
+tags:
+  - "daggerheart/adversary"
+name: "Fileur tisse-ténèbres"
+tier: 1
+type: "Standard"
+description: "Arachnide de la taille d’un sanglier, tissée dans une soie d’ombre primordiale."
+difficulty: 12
+thresholds: "6/9"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Crocs"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "Mordre, rester dans l’obscurité"
+experience: "Trous +2, Toiles +2"
+features:
+  - "Enveloppé de soie d’ombre - Action"
+  - "Croc de l’ombre - Réaction"
 ---
 
 # Fileur tisse-ténèbres

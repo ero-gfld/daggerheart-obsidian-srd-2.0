@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Advanced Returning Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame revenante avancée"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d8+6 mag"
+burden: "À une main"
+feature: "Revenant : Quand cette arme est lancée à portée, elle revient dans votre main immédiatement après l’attaque."
 ---
 
 # Lame revenante avancée

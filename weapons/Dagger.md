@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+1 phy"
+burden: "À une main"
 ---
 
 # Dague

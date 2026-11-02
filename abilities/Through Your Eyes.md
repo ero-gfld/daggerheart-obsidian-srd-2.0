@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Through Your Eyes"
+tags:
+  - "daggerheart/domain-card"
+name: "Par tes yeux"
+domain: "Grâce"
+level: 4
+type: "Sort"
+recall: 1
 ---
 
 # Par tes yeux

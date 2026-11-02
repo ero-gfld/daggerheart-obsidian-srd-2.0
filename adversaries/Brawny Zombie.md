@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Brawny Zombie"
+tags:
+  - "daggerheart/adversary"
+name: "Zombie balèze"
+tier: 1
+type: "Cogneur"
+description: "Un grand cadavre gonflé par la décomposition, et furieux."
+difficulty: 10
+thresholds: "8/15"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Écrasement"
+range: "Très proche"
+damage: "1d12+3 phy"
+motives_and_tactics: "Écraser, détruire, faire pleuvoir des débris, fracasser"
+experience: "Dommages collatéraux +2, Lancer +4"
+features:
+  - "Lent - Passif"
+  - "Déchirer en deux - Action"
+  - "Arracher et déchirer - Réaction"
 ---
 
 # Zombie balèze

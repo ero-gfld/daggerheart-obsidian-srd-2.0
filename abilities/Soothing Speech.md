@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Soothing Speech"
+tags:
+  - "daggerheart/domain-card"
+name: "Discours apaisant"
+domain: "Grâce"
+level: 4
+type: "Capacité"
+recall: 1
 ---
 
 # Discours apaisant

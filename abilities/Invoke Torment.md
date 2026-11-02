@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Invoke Torment"
+tags:
+  - "daggerheart/domain-card"
+name: "Invoquer le tourment"
+domain: "Effroi"
+level: 10
+type: "Capacité"
+recall: 2
 ---
 
 # Invoquer le tourment

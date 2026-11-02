@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Advanced Banded Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure à bandes avancée"
+tier: 3
+thresholds: "15/34"
+score: 6
+feature: "Volumineux : −1 à l’Évasion ; lorsque vous subissez des dégâts sévères, vous devez marquer un Stress."
 ---
 
 # Armure à bandes avancée

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Arquebus"
+tags:
+  - "daggerheart/weapon"
+name: "Arquebuse"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Savoir"
+range: "Loin"
+damage: "d8+10 phy"
+burden: "À deux mains"
+feature: "Rechargement : Après avoir fait une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un Stress pour recharger cette arme avant de pouvoir tirer à nouveau."
 ---
 
 # Arquebuse

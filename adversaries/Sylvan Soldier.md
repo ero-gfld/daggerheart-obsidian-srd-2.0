@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Sylvan Soldier"
+tags:
+  - "daggerheart/adversary"
+name: "Soldat sylvain"
+tier: 1
+type: "Standard"
+description: "Un guerrier féerique, vêtu d’une armure de feuilles et d’écorce."
+difficulty: 11
+thresholds: "6/11"
+hp: 4
+stress: 2
+atk: "+0"
+attack: "Faux"
+range: "Mêlée"
+damage: "1d8+1 phy"
+motives_and_tactics: "Tendre une embuscade, se cacher, submerger, protéger, pister"
+experience: "Pistage +2"
+features:
+  - "Tactique de meute - Passif"
+  - "Contrôle de la forêt - Action"
+  - "Se fondre dans le décor - Réaction"
 ---
 
 # Soldat sylvain

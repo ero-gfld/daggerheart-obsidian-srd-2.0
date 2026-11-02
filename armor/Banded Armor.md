@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Banded Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure à bandes"
+tier: 1
+thresholds: "8/16"
+score: 4
+feature: "Volumineux : −1 à l’Évasion ; lorsque vous subissez des dégâts sévères, vous devez marquer un Stress."
 ---
 
 # Armure à bandes

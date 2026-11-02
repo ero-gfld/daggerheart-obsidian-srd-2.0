@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Brawler"
+tags:
+  - "daggerheart/class"
+name: "Bagarreur"
+domains:
+  - "Vaillance"
+  - "Os"
+evasion: 10
+hp: 6
+subclasses:
+  - "Mastodonte"
+  - "Artiste martial"
+items: "Des bandages de mains offerts par un mentor, ou un livre sur votre passe-temps secret"
+description: "Experts du combat à mains nues, les bagarreurs façonnent leur corps pour en faire une arme mortelle."
 ---
 
 # Bagarreur

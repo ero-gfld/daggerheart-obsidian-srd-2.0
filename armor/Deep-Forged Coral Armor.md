@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Deep-Forged Coral Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de corail forgée en profondeur"
+tier: 3
+thresholds: "13/35"
+score: 6
+feature: "Aquatique : Vous pouvez respirer sous l’eau et obtenez un avantage aux jets d’Agilité lorsque vous êtes immergé."
 ---
 
 # Armure de corail forgée en profondeur

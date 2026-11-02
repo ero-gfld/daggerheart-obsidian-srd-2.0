@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Darkfire"
+tags:
+  - "daggerheart/domain-card"
+name: "Feu noir"
+domain: "Effroi"
+level: 6
+type: "Sort"
+recall: 2
 ---
 
 # Feu noir

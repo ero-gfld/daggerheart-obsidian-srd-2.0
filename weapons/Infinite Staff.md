@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Infinite Staff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton infini"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d10+9 phy"
+burden: "À deux mains"
+feature: "Allonge : Vous pouvez augmenter la portée de cette arme jusqu’à Très loin. Vous subissez un malus de −1 aux jets d’attaque pour chaque cran dont vous augmentez la portée (par exemple de Mêlée à Très proche, de Très proche à Proche, ou de Proche à Loin)."
 ---
 
 # Bâton infini

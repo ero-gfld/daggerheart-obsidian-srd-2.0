@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Small Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Petite dague améliorée"
+tier: 2
+category: "Secondaire"
+type: "Physique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+2 phy"
+burden: "À une main"
+feature: "Jumelé : +3 aux dégâts de l’arme principale contre les cibles à portée de Mêlée"
 ---
 
 # Petite dague améliorée

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Rift Walker"
+tags:
+  - "daggerheart/domain-card"
+name: "Arpenteur des failles"
+domain: "Arcanes"
+level: 6
+type: "Sort"
+recall: 2
 ---
 
 # Arpenteur des failles

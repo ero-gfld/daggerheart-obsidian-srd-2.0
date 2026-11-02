@@ -1,6 +1,30 @@
 ---
 aliases:
   - "Molten Scourge"
+tags:
+  - "daggerheart/adversary"
+name: "Fléau en fusion"
+tier: 4
+type: "Solo"
+description: "Enragé par ses blessures, le dragon se change en lave en fusion."
+difficulty: 20
+thresholds: "30/58"
+hp: 7
+stress: 5
+atk: "+9"
+attack: "Griffes couvertes de lave"
+range: "Proche"
+damage: "4d12+4 phy"
+motives_and_tactics: "Arroser de lave, incinérer, repousser les envahisseurs, se repositionner"
+experience: "Chasse d'en haut +5"
+features:
+  - "Implacable (3) - Passif"
+  - "Écailles fêlées - Passif"
+  - "Puissance brisante - Action"
+  - "Éruption - Action"
+  - "Souffle volcanique - Réaction"
+  - "Éclaboussure de lave - Réaction"
+  - "Vengeance des cendres (Changement de phase) - Réaction"
 ---
 
 # Fléau en fusion

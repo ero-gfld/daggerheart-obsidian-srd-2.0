@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Sitil"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Sitil"
+domain: "Codex"
+level: 2
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Sitil

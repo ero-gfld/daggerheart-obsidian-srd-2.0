@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Demon of Hubris"
+tags:
+  - "daggerheart/adversary"
+name: "Démon de l’Orgueil"
+tier: 3
+type: "Meneur"
+description: "Démon d’une beauté parfaite et d’une cruauté infinie, armé d’une lance étincelante et vêtu de robes élégantes."
+difficulty: 18
+thresholds: "18/36"
+hp: 7
+stress: 5
+atk: "+4"
+attack: "Lance parfaite"
+range: "Très proche"
+damage: "3d10 phy"
+motives_and_tactics: "Condescendre, déclarer la victoire trop tôt, prouver sa supériorité"
+experience: "Manipulation +2"
+features:
+  - "Terrifiant - Passif"
+  - "Tout ou rien - Passif"
+  - "Talent sans égal - Action"
+  - "La racine du mal - Action"
+  - "Vous faites pâle figure - Réaction"
 ---
 
 # Démon de l’Orgueil

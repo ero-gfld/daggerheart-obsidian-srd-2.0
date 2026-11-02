@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Arc Wand"
+tags:
+  - "daggerheart/weapon"
+name: "Baguette d’arc"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Proche"
+damage: "d8+6 mag"
+burden: "À une main"
+feature: "Rebond : Marquez autant de Stress que vous voulez pour cibler autant de créatures supplémentaires à portée de l’attaque."
 ---
 
 # Baguette d’arc

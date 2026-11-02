@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Runetan Floating Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure flottante runetane"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Mouvant : Lorsqu’une attaque vous vise, vous pouvez marquer un Emplacement d’armure pour imposer un désavantage au jet d’attaque contre vous."
 ---
 
 # Armure flottante runetane

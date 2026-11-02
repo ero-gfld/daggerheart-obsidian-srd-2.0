@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Phantom"
+tags:
+  - "daggerheart/adversary"
+name: "Phantasme"
+tier: 1
+type: "Standard"
+description: "L'écho d'une âme perdue, sous la forme d'une ombre ectoplasmique."
+difficulty: 11
+thresholds: "5/Aucun"
+hp: 2
+stress: 1
+atk: "-1"
+attack: "Toucher glacial"
+range: "Mêlée"
+damage: "1d6+2 mag"
+motives_and_tactics: "Créer des points froids, fondre dans les airs, murmurer de sombres nouvelles"
+experience: "Spectral +3"
+features:
+  - "Incorporel - Passif"
+  - "Aura de peur - Passif"
+  - "Hantise persistante - Réaction"
 ---
 
 # Phantasme

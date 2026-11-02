@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Homet"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Homet"
+domain: "Codex"
+level: 7
+type: "Grimoire"
+recall: 0
 ---
 
 # Livre de Homet

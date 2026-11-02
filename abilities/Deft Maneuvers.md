@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Deft Maneuvers"
+tags:
+  - "daggerheart/domain-card"
+name: "Manœuvres habiles"
+domain: "Os"
+level: 1
+type: "Capacité"
+recall: 0
 ---
 
 # Manœuvres habiles

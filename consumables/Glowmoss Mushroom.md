@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Glowmoss Mushroom"
+tags:
+  - "daggerheart/consumable"
+name: "Champignon lumimousse"
+effect: "Vous pouvez briser ce champignon en morceaux, ce qui le fait luire d’un bleu vif jusqu’à votre prochain repos long."
 ---
 
 # Champignon lumimousse

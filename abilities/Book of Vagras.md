@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Vagras"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Vagras"
+domain: "Codex"
+level: 2
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Vagras

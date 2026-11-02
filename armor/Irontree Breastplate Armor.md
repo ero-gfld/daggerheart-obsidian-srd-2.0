@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Irontree Breastplate Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cuirasse d’arbre de fer"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Renforcé : Lorsque vous marquez votre dernier Emplacement d’armure, augmentez vos seuils de dégâts de +2 jusqu’à ce que vous évacuiez au moins 1 Emplacement d’armure."
 ---
 
 # Cuirasse d’arbre de fer

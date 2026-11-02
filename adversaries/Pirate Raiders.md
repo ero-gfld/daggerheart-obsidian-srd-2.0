@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Pirate Raiders"
+tags:
+  - "daggerheart/adversary"
+name: "Maraudeurs corsaires"
+tier: 1
+type: "Horde"
+horde: 3
+description: "Des vauriens des mers qui avancent en meute ravageuse."
+difficulty: 12
+thresholds: "5/11"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Sabre d'abordage"
+range: "Mêlée"
+damage: "1d8+2 phy"
+motives_and_tactics: "Se liguer, piller, razzier"
+experience: "Marin +3"
+features:
+  - "Horde (1d4+1) - Passif"
+  - "Bretteur - Passif"
 ---
 
 # Maraudeurs corsaires

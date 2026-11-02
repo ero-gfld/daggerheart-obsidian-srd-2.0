@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Terrible Lizard"
+tags:
+  - "daggerheart/beastform"
+name: "Lézard redoutable"
+tier: 4
+examples: "Brachiosaure, tyrannosaure, etc."
+trait_bonus: "Force +3"
+evasion: "+2"
+attack: "Mêlée Force d12+10 phy"
+advantages: "attaquer, tromper, effrayer, pister"
+features:
+  - "Frappes dévastatrices"
+  - "Foulée colossale"
 ---
 
 # Lézard redoutable

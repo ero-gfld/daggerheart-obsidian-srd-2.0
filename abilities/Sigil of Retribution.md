@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Sigil of Retribution"
+tags:
+  - "daggerheart/domain-card"
+name: "Sceau de représailles"
+domain: "Codex"
+level: 6
+type: "Sort"
+recall: 2
 ---
 
 # Sceau de représailles

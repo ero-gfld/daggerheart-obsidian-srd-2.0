@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Sledge Axe"
+tags:
+  - "daggerheart/weapon"
+name: "Hache-masse"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d12+13 phy"
+burden: "À deux mains"
+feature: "Destructif : −1 à l’Agilité ; après une attaque réussie, tous les adversaires à portée Très proche doivent marquer un Stress."
 ---
 
 # Hache-masse

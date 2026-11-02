@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Runelock Pistol"
+tags:
+  - "daggerheart/weapon"
+name: "Pistolet à serrure runique"
+tier: 1
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Loin"
+damage: "d6+3 mag"
+burden: "À une main"
+feature: "Rechargement : Après une attaque, lancez un d6. Sur un résultat de 1, vous devez marquer un Stress pour recharger cette arme avant de pouvoir tirer à nouveau."
 ---
 
 # Pistolet à serrure runique

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Siphoning Gauntlets"
+tags:
+  - "daggerheart/weapon"
+name: "Gantelets siphonneurs"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d10+9 mag"
+burden: "À deux mains"
+feature: "Vol de vie : Après une attaque réussie, lancez un d6. Sur un résultat de 6, effacez un PV marqué ou évacuez un Stress."
 ---
 
 # Gantelets siphonneurs

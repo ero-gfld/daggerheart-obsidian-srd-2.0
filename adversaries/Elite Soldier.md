@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Elite Soldier"
+tags:
+  - "daggerheart/adversary"
+name: "Soldat d’élite"
+tier: 2
+type: "Standard"
+description: "Un écuyer cuirassé ou un roturier expérimenté qui cherche à s’élever."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Lance"
+range: "Très proche"
+damage: "2d8+4 phy"
+motives_and_tactics: "Gagner en gloire, maintenir l’ordre, nouer des alliances"
+features:
+  - "Renfort - Action"
+  - "Loyauté du vassal - Réaction"
 ---
 
 # Soldat d’élite

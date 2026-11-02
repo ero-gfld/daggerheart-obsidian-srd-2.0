@@ -1,6 +1,29 @@
 ---
 aliases:
   - "Cloud Titan"
+tags:
+  - "daggerheart/adversary"
+name: "Titan des nuages"
+tier: 4
+type: "Social"
+description: "Goliath à la peau bleue, d’une beauté confondante, vêtu des soieries les plus fines et couvert de bijoux. Il savoure les plaisirs raffinés et vit dans un palais céleste rempli de trésors."
+difficulty: 18
+thresholds: "26/42"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Lame incrustée de joyaux"
+range: "Très proche"
+damage: "4d6+8 phy"
+motives_and_tactics: "Acquérir des choses rares et précieuses, célébrer la beauté, ne jamais refuser un pari intéressant"
+experience: "Luxe +3, Noblesse +3"
+features:
+  - "Frappe de foudre - Action"
+  - "Tisseur de brume - Action"
+  - "Transformation nébuleuse - Action"
+  - "Déchaîner la ménagerie - Action"
+  - "Maîtrise du vent - Action"
+  - "Double ou rien - Réaction"
 ---
 
 # Titan des nuages

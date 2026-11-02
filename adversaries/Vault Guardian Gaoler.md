@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Vault Guardian Gaoler"
+tags:
+  - "daggerheart/adversary"
+name: "Geôlier de la Voûte"
+tier: 3
+type: "Soutien"
+description: "Un construct carré et couvert de poussière, avec de lourdes portes métalliques battantes sur le torse."
+difficulty: 16
+thresholds: "19/33"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Coup de corps"
+range: "Très proche"
+damage: "3d6+2 phy"
+motives_and_tactics: "Emporter, enfermer, protéger, rouer de coups"
+features:
+  - "Bouclier bloquant - Passif"
+  - "Enfermer - Action"
 ---
 
 # Geôlier de la Voûte

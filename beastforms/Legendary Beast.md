@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Beast"
+tags:
+  - "daggerheart/beastform"
+name: "Bête légendaire"
+tier: 3
+examples: "Options de rang 1 améliorées"
+features:
+  - "Évolué"
 ---
 
 # Bête légendaire

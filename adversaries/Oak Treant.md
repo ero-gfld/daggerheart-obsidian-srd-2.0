@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Oak Treant"
+tags:
+  - "daggerheart/adversary"
+name: "Ent-chêne"
+tier: 3
+type: "Cogneur"
+description: "Un vieil arbre ancestral animé, robuste et solide."
+difficulty: 17
+thresholds: "22/40"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Branche"
+range: "Très proche"
+damage: "3d8+2 phy"
+motives_and_tactics: "Se cacher au vu de tous, préserver la forêt, prendre racine, balancer ses branches"
+experience: "Savoir de la forêt +3"
+features:
+  - "Juste un arbre - Passif"
+  - "Volée de graines - Action"
+  - "Prendre racine - Action"
 ---
 
 # Ent-chêne

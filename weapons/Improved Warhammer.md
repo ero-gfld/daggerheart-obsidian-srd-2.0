@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Warhammer"
+tags:
+  - "daggerheart/weapon"
+name: "Marteau de guerre amélioré"
+tier: 2
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d12+6 phy"
+burden: "À deux mains"
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Marteau de guerre amélioré

@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Mirror of Marigold"
+tags:
+  - "daggerheart/consumable"
+name: "Miroir de Marigold"
+effect: "Lorsque vous subissez des dégâts, vous pouvez dépenser un Espoir pour annuler ces dégâts, après quoi le miroir se brise."
 ---
 
 # Miroir de Marigold

@@ -1,6 +1,12 @@
 ---
 aliases:
   - "Running an Adventure"
+tags:
+  - "daggerheart/rules"
+name: "Mener une aventure"
+description: "Le MJ a la charge de guider le récit et d’incarner le monde où vivent les PJ."
+sections:
+  - "INTRODUCTION"
 ---
 
 # Mener une aventure

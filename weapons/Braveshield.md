@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Braveshield"
+tags:
+  - "daggerheart/weapon"
+name: "Bouclier du brave"
+tier: 4
+category: "Secondaire"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d4+6 phy"
+burden: "À une main"
+feature: "Abri : lorsque vous marquez un emplacement d’armure, cela réduit les dégâts pour vous et pour tous les alliés à portée Mêlée de vous qui ont subi les mêmes dégâts."
 ---
 
 # Bouclier du brave

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Displacement Razor"
+tags:
+  - "daggerheart/weapon"
+name: "Rasoir de déplacement"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Mêlée"
+damage: "d8+3 mag"
+burden: "À deux mains"
+feature: "Omniprésent : Vous pouvez attaquer des cibles situées à portée Très loin, mais vous devez le faire avec désavantage."
 ---
 
 # Rasoir de déplacement

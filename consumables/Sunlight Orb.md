@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Sunlight Orb"
+tags:
+  - "daggerheart/consumable"
+name: "Orbe de lumière solaire"
+effect: "Vous pouvez briser cette orbe pour donner à la zone à portée Très loin l’apparence d’une journée ensoleillée pendant les 24 prochaines heures."
 ---
 
 # Orbe de lumière solaire

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Longbow"
+tags:
+  - "daggerheart/weapon"
+name: "Arc long légendaire"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très loin"
+damage: "d8+12 phy"
+burden: "À deux mains"
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Arc long légendaire

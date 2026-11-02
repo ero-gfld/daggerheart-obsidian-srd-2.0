@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Secret-Keeper"
+tags:
+  - "daggerheart/adversary"
+name: "Gardien des secrets"
+tier: 2
+type: "Meneur"
+description: "Un chef clandestin, en contact direct avec les Dieux déchus."
+difficulty: 16
+thresholds: "13/26"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Bâton couvert de sceaux"
+range: "Loin"
+damage: "2d12 mag"
+motives_and_tactics: "Amasser un grand pouvoir, comploter, prendre le commandement"
+experience: "Coercition +2, Savoir déchu +2"
+features:
+  - "Saisir son moment - Action"
+  - "La volonté de notre maître - Réaction"
+  - "Rituel d'invocation - Réaction"
+  - "Chiens déchus - Réaction"
 ---
 
 # Gardien des secrets

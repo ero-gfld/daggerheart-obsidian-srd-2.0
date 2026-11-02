@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Executioners Guild"
+tags:
+  - "daggerheart/subclass"
+name: "Guilde des bourreaux"
+class: "Assassin"
+spellcast_trait: "Agilité"
+description: "Jouez la Guilde des bourreaux si vous voulez abattre vos cibles avec une précision mortelle."
+features:
+  - "Première frappe"
+  - "Embuscade"
+  - "Coup mortel"
+  - "Aplomb du scorpion"
+  - "Frappe infaillible"
+  - "Coup dans le dos"
 ---
 
 # Guilde des bourreaux

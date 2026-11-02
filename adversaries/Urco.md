@@ -4,22 +4,22 @@ tags:
 name: "Urco"
 tier: 2
 type: "Standard"
-description: "A black-furred hound from beyond the veil of death that portends death and feeds on fear."
+description: "Un limier au pelage noir venu de l’autre côté du voile de la mort, qui annonce la mort et se nourrit de peur."
 difficulty: 15
 thresholds: "9/18"
 hp: 4
 stress: 3
 atk: "+1"
-attack: "Black Fang"
-range: "Melee"
+attack: "Croc noir"
+range: "Mêlée"
 damage: "2d8+4 mag"
-motives_and_tactics: "Feed, frighten, hunt"
-experience: "Omens +3, Stealth +3"
+motives_and_tactics: "Se nourrir, effrayer, chasser"
+experience: "Présages +3, Discrétion +3"
 features:
-  - "Fearmonger - Passive"
-  - "Terror-Fueled - Passive"
-  - "Fear Eater - Action"
-  - "Baleful Gaze - Reaction"
+  - "Semeur d’effroi - Passif"
+  - "Nourri de terreur - Passif"
+  - "Mangeur de peur - Action"
+  - "Regard funeste - Réaction"
 ---
 
 # Urco

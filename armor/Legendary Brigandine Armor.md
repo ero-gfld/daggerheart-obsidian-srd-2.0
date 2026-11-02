@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Brigandine Armor"
+tags:
+  - "daggerheart/armor"
+name: "Brigandine légendaire"
+tier: 4
+thresholds: "13/35"
+score: 6
+feature: "Doublé : Marquez un Stress pour annuler des dégâts mineurs."
 ---
 
 # Brigandine légendaire

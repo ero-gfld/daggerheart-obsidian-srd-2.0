@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Book of Norai"
+tags:
+  - "daggerheart/domain-card"
+name: "Livre de Norai"
+domain: "Codex"
+level: 3
+type: "Grimoire"
+recall: 2
 ---
 
 # Livre de Norai

@@ -1,6 +1,21 @@
 ---
 aliases:
   - "Megastorm"
+tags:
+  - "daggerheart/environment"
+name: "Mégatempête"
+tier: 3
+type: "Événement"
+description: "Un phénomène météorologique extrême se déclare soudain et force le groupe à arbitrer entre sa propre survie et la sécurité des autres."
+difficulty: 16
+impulses: "Souffler des vents d’ouragan, étouffer sous des coulées de boue, faire s’effondrer les structures, inonder, lancer des débris, illuminer le ciel"
+potential_adversaries: "Grand élémentaire d’eau, Titan de tempête"
+features:
+  - "Front de tempête - Passif"
+  - "Conditions dangereuses - Passif"
+  - "Cyclone explosif - Action"
+  - "Cœur de la tempête - Action"
+  - "Panique dans les rues - Action"
 ---
 
 # Mégatempête

@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Ambushers"
+tags:
+  - "daggerheart/environment"
+name: "Les embusqueurs"
+tier: 1
+type: "Événement"
+description: "Une embuscade est tendue par les PJ pour surprendre des adversaires qui ne se méfient pas."
+difficulty: "Spéciale (voir « Force relative »)"
+impulses: "Fuir, se regrouper, protéger les plus vulnérables"
+potential_adversaries: "Tous"
+features:
+  - "Force relative - Passif"
+  - "D’où viennent-ils ? - Réaction"
 ---
 
 # Les embusqueurs

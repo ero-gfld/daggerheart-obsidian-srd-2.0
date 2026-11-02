@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Severed Dragon Claw"
+tags:
+  - "daggerheart/weapon"
+name: "Griffe de dragon sectionnée"
+tier: 4
+category: "Principale"
+type: "Physique"
+trait: "Instinct"
+range: "Mêlée"
+damage: "d10+11 phy"
+burden: "À une main"
+feature: "Destructif : −1 à l’Agilité ; après une attaque réussie, tous les adversaires à portée Très proche doivent marquer un Stress."
 ---
 
 # Griffe de dragon sectionnée

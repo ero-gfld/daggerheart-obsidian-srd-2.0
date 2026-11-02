@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Longsword"
+tags:
+  - "daggerheart/weapon"
+name: "Épée longue avancée"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Mêlée"
+damage: "d10+9 phy"
+burden: "À deux mains"
 ---
 
 # Épée longue avancée

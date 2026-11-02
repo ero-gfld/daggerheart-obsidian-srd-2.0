@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Bridge Seed"
+tags:
+  - "daggerheart/consumable"
+name: "Graine de pont"
+effect: "D’épaisses vignes poussent depuis votre position jusqu’à un point de votre choix à portée Loin, vous permettant de grimper dessus ou de les traverser. Les vignes se dissipent à votre prochain repos court."
 ---
 
 # Graine de pont

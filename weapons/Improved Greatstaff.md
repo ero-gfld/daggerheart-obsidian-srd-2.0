@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Greatstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Grand bâton amélioré"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Savoir"
+range: "Très loin"
+damage: "d6+3 mag"
+burden: "À deux mains"
+feature: "Puissant : Sur une attaque réussie, lancez un dé de dégâts supplémentaire et écartez le résultat le plus faible."
 ---
 
 # Grand bâton amélioré

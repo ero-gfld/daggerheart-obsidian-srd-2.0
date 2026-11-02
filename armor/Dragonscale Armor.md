@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Dragonscale Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure d’écailles de dragon"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Impénétrable : Une fois par repos court, lorsque vous devriez marquer votre dernier Point de vie, vous pouvez à la place marquer un Stress."
 ---
 
 # Armure d’écailles de dragon

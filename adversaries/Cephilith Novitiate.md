@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Cephilith Novitiate"
+tags:
+  - "daggerheart/adversary"
+name: "Novice cephilith"
+tier: 4
+type: "Sbire"
+description: "Personnage éminent du Royaume mortel, qui a offert son esprit à des entités extradimensionnelles en échange de capacités occultes."
+difficulty: 16
+thresholds: "Aucun"
+hp: 1
+stress: 1
+atk: "+2"
+attack: "Puissance occulte"
+range: "Mêlée"
+damage: "12 phy"
+motives_and_tactics: "Faire voir la Vérité aux autres, préparer Sa venue, chercher un savoir interdit"
+experience: "Visions +2"
+features:
+  - "Sbire (12) - Passif"
+  - "Attaque de groupe - Action"
+  - "Sacrifice de soi - Action"
 ---
 
 # Novice cephilith

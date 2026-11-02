@@ -1,6 +1,32 @@
 ---
 aliases:
   - "Vampire Lord"
+tags:
+  - "daggerheart/adversary"
+name: "Seigneur vampire"
+tier: 3
+type: "Solo"
+description: "Un cruel seigneur vampire d’un âge depuis longtemps oublié, maudit par l’immortalité."
+difficulty: 18
+thresholds: "24/45"
+hp: 7
+stress: 7
+atk: "+5"
+attack: "Griffes"
+range: "Mêlée"
+damage: "3d10+2 phy"
+motives_and_tactics: "Corrompre, détruire, submerger de pouvoir maléfique"
+experience: "Malveillance +3, Noble +3"
+features:
+  - "Implacable (3) - Passif"
+  - "Cœur de minuit - Passif"
+  - "Terrifiant - Passif"
+  - "Déchaîner l’enfer - Action"
+  - "Résurgence - Réaction"
+  - "Se fondre dans l’ombre - Réaction"
+  - "Aile infernale - Évolution"
+  - "Sur des ailes cramoisies - Passif"
+  - "Bain de sang - Réaction"
 ---
 
 # Seigneur vampire

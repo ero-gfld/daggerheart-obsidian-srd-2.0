@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Goblin"
+tags:
+  - "daggerheart/ancestry"
+name: "Gobelin"
+description: "Les gobelins sont des humanoïdes de petite taille que l’on reconnaît facilement à leurs grands yeux et à leurs énormes oreilles membraneuses."
+features:
+  - "Pied sûr"
+  - "Sens du danger"
 ---
 
 # Gobelin

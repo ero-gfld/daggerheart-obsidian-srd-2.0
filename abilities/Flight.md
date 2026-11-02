@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Flight"
+tags:
+  - "daggerheart/domain-card"
+name: "Vol"
+domain: "Arcanes"
+level: 3
+type: "Sort"
+recall: 1
 ---
 
 # Vol

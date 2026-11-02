@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Improved Chainmail Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte de mailles améliorée"
+tier: 2
+thresholds: "11/24"
+score: 5
+feature: "Lourd : −1 à l’Évasion"
 ---
 
 # Cotte de mailles améliorée

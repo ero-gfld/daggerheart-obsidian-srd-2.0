@@ -1,6 +1,28 @@
 ---
 aliases:
   - "Gorgon"
+tags:
+  - "daggerheart/adversary"
+name: "Gorgone"
+tier: 2
+type: "Solo"
+description: "Un humanoïde couvert d’écailles, à tête de serpent, armé d’un arc doré, furieux que sa tranquillité ait été troublée."
+difficulty: 15
+thresholds: "13/25"
+hp: 9
+stress: 3
+atk: "+4"
+attack: "Arc court solaire"
+range: "Loin"
+damage: "2d20+3 mag"
+motives_and_tactics: "Acculer, frapper puis fuir, pétrifier, chercher vengeance"
+experience: "Discrétion +3"
+features:
+  - "Implacable (2) - Passif"
+  - "Flèches solaires - Passif"
+  - "Couronne de serpents - Action"
+  - "Regard pétrifiant - Réaction"
+  - "Élan - Réaction"
 ---
 
 # Gorgone

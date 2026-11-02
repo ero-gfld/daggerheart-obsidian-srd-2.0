@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Demon of Wrath"
+tags:
+  - "daggerheart/adversary"
+name: "Démon du Courroux"
+tier: 3
+type: "Cogneur"
+description: "Démon massif aux poings gros comme des rochers, mû par une colère sans fin."
+difficulty: 17
+thresholds: "22/40"
+hp: 7
+stress: 5
+atk: "+3"
+attack: "Poings"
+range: "Très proche"
+damage: "3d8+1 mag"
+motives_and_tactics: "Attiser la colère, impressionner les rivaux, semer le ravage"
+experience: "Intimidation +2"
+features:
+  - "Colère implacable - Passif"
+  - "Soif de bataille - Action"
+  - "Représailles - Réaction"
+  - "Sang et âmes - Réaction"
 ---
 
 # Démon du Courroux

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Recovery"
+tags:
+  - "daggerheart/domain-card"
+name: "Rétablissement"
+domain: "Os"
+level: 6
+type: "Capacité"
+recall: 1
 ---
 
 # Rétablissement

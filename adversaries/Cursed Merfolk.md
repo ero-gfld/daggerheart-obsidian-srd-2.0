@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Cursed Merfolk"
+tags:
+  - "daggerheart/adversary"
+name: "Homme-poisson maudit"
+tier: 3
+type: "Standard"
+description: "Créature mi-poisson, mi-humaine, liée psychiquement au service des Habitants des abysses."
+difficulty: 16
+thresholds: "18/35"
+hp: 5
+stress: 4
+atk: "+3"
+attack: "Trident enchaîné"
+range: "Loin"
+damage: "3d6 phy"
+motives_and_tactics: "Séparer les ennemis, frapper depuis l’ombre, tirer parti de l’environnement aquatique pour prendre l’avantage"
+experience: "Aquatique +3"
+features:
+  - "Queue de poisson - Passif"
+  - "En meute - Passif"
+  - "« Viens ici ! » - Réaction"
 ---
 
 # Homme-poisson maudit

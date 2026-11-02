@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Aquatic Predator"
+tags:
+  - "daggerheart/beastform"
+name: "Prédateur aquatique"
+tier: 3
+examples: "Dauphin, orque, requin, etc."
+trait_bonus: "Agilité +2"
+evasion: "+4"
+attack: "Mêlée Agilité d10+6 phy"
+advantages: "attaquer, nager, pister"
+features:
+  - "Aquatique"
+  - "Déchiquetage vicieux"
 ---
 
 # Prédateur aquatique

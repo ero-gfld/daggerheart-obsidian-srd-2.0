@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Syndicate"
+tags:
+  - "daggerheart/subclass"
+name: "Syndicat"
+class: "Roublard"
+spellcast_trait: "Finesse"
+description: "Jouez le Syndicat si vous voulez avoir un réseau de contacts partout où vous allez."
+features:
+  - "Bien connecté"
+  - "Contacts partout"
+  - "Renfort fiable"
 ---
 
 # Syndicat

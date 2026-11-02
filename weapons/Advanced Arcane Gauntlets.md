@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Advanced Arcane Gauntlets"
+tags:
+  - "daggerheart/weapon"
+name: "Gantelets arcaniques avancés"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Force"
+range: "Mêlée"
+damage: "d10+9 mag"
+burden: "À deux mains"
 ---
 
 # Gantelets arcaniques avancés

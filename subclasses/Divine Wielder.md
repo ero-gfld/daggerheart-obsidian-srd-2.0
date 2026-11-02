@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Divine Wielder"
+tags:
+  - "daggerheart/subclass"
+name: "Porteur divin"
+class: "Séraphin"
+spellcast_trait: "Force"
+description: "Jouez le Porteur divin si vous voulez dominer le champ de bataille grâce à une arme légendaire."
+features:
+  - "Arme spirituelle"
+  - "Toucher clément"
+  - "Dévot"
+  - "Résonance sacrée"
 ---
 
 # Porteur divin

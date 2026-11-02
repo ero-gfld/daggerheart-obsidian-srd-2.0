@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Pack Predator"
+tags:
+  - "daggerheart/beastform"
+name: "Prédateur de meute"
+tier: 1
+examples: "Coyote, hyène, loup, etc."
+trait_bonus: "Force +2"
+evasion: "+1"
+attack: "Mêlée Force d8+2 phy"
+advantages: "attaquer, piquer un sprint, pister"
+features:
+  - "Frappe entravante"
+  - "Chasse en meute"
 ---
 
 # Prédateur de meute

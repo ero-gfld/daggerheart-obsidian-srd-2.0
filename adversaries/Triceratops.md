@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Triceratops"
+tags:
+  - "daggerheart/adversary"
+name: "Tricératops"
+tier: 2
+type: "Cogneur"
+description: "Un grand dinosaure à la collerette cuirassée et aux trois cornes."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Cornes"
+range: "Très proche"
+damage: "2d10+4 phy"
+motives_and_tactics: "Brouter les fougères, se déplacer en troupeau pour se protéger, patrouiller près du point d’eau"
+experience: "Défenseur +3"
+features:
+  - "Peau coriace - Passif"
+  - "Coup de queue - Action"
+  - "Charge - Action"
 ---
 
 # Tricératops

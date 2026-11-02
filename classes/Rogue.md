@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Rogue"
+tags:
+  - "daggerheart/class"
+name: "Roublard"
+domains:
+  - "Minuit & Grâce"
+evasion: 12
+hp: 6
+subclasses:
+  - "Marcheur de nuit"
+  - "Syndicat"
+items: "Un jeu d’outils de faussaire ou un grappin"
+description: "Les roublards sont des canailles, souvent par leur attitude comme par leur pratique."
 ---
 
 # Roublard

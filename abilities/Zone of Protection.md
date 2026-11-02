@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Zone of Protection"
+tags:
+  - "daggerheart/domain-card"
+name: "Zone de protection"
+domain: "Splendeur"
+level: 6
+type: "Sort"
+recall: 2
 ---
 
 # Zone de protection

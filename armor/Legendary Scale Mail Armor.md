@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Legendary Scale Mail Armor"
+tags:
+  - "daggerheart/armor"
+name: "Cotte d’écailles légendaire"
+tier: 4
+thresholds: "15/39"
+score: 6
+feature: "Encombrant : −1 à la Finesse"
 ---
 
 # Cotte d’écailles légendaire

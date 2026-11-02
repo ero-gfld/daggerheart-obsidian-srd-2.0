@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Legendary Casting Dagger"
+tags:
+  - "daggerheart/weapon"
+name: "Dague d’incantation légendaire"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Proche"
+damage: "d6+9 mag"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec les statistiques suivantes : Instinct, Mêlée, d8+9."
 ---
 
 # Dague d’incantation légendaire

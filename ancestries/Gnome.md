@@ -2,10 +2,10 @@
 tags:
   - "daggerheart/ancestry"
 name: "Gnome"
-description: "Gnomes are typically small humanoids with conical heads and the ability to teleport short distances."
+description: "Les gnomes sont généralement des humanoïdes de petite taille, à la tête conique, capables de se téléporter sur de courtes distances."
 features:
-  - "Nimble Fingers"
-  - "Flicker Step"
+  - "Doigts agiles"
+  - "Pas vacillant"
 ---
 
 # Gnome

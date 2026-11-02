@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Cave Ogre"
+tags:
+  - "daggerheart/adversary"
+name: "Ogre des cavernes"
+tier: 1
+type: "Solo"
+description: "Un humanoïde massif qui voit toute vie intelligente comme de la nourriture."
+difficulty: 13
+thresholds: "8/15"
+hp: 8
+stress: 3
+atk: "+1"
+attack: "Massue"
+range: "Très proche"
+damage: "1d10+2 phy"
+motives_and_tactics: "Arracher les têtes, festoyer, arracher les membres, piétiner, lancer les ennemis"
+experience: "Lancer +2"
+features:
+  - "Montée en puissance - Passif"
+  - "Briseur d’os - Passif"
+  - "Pluie de rochers - Action"
+  - "Fureur déchaînée - Réaction"
 ---
 
 # Ogre des cavernes

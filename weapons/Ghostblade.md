@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Ghostblade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame fantôme"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Présence"
+range: "Mêlée"
+damage: "d10+7 phy ou mag"
+burden: "À une main"
+feature: "D’outre-monde : Sur une attaque réussie, vous pouvez infliger des dégâts physiques ou magiques."
 ---
 
 # Lame fantôme

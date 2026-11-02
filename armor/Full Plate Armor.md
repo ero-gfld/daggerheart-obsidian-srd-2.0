@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Full Plate Armor"
+tags:
+  - "daggerheart/armor"
+name: "Armure de plates complète"
+tier: 1
+thresholds: "8/17"
+score: 4
+feature: "Très lourd : −2 à l’Évasion ; −1 à l’Agilité"
 ---
 
 # Armure de plates complète

@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Improved Returning Blade"
+tags:
+  - "daggerheart/weapon"
+name: "Lame revenante améliorée"
+tier: 2
+category: "Principale"
+type: "Magique"
+trait: "Finesse"
+range: "Proche"
+damage: "d8+3 mag"
+burden: "À une main"
+feature: "Revenant : Quand cette arme est lancée à portée, elle apparaît immédiatement dans votre main après l’attaque."
 ---
 
 # Lame revenante améliorée

@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Runes of Fortification"
+tags:
+  - "daggerheart/armor"
+name: "Runes de fortification"
+tier: 3
+thresholds: "17/43"
+score: 6
+feature: "Douloureux : Chaque fois que vous marquez un Emplacement d’armure, vous devez marquer un Stress."
 ---
 
 # Runes de fortification

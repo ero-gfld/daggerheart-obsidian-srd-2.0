@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Ground Pound"
+tags:
+  - "daggerheart/domain-card"
+name: "Martèlement du sol"
+domain: "Vaillance"
+level: 8
+type: "Capacité"
+recall: 2
 ---
 
 # Martèlement du sol

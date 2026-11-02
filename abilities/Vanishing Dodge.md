@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Vanishing Dodge"
+tags:
+  - "daggerheart/domain-card"
+name: "Esquive évanescente"
+domain: "Minuit"
+level: 7
+type: "Sort"
+recall: 1
 ---
 
 # Esquive évanescente

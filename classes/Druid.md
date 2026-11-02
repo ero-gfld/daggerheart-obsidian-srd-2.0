@@ -1,6 +1,19 @@
 ---
 aliases:
   - "Druid"
+tags:
+  - "daggerheart/class"
+name: "Druide"
+domains:
+  - "Nature"
+  - "Arcanes"
+evasion: 10
+hp: 6
+subclasses:
+  - "Veilleur des éléments"
+  - "Veilleur du renouveau"
+items: "Une petite bourse de pierres et d’os, ou un étrange pendentif trouvé dans la terre"
+description: "Devenir druide est plus qu’un métier : c’est une vocation pour ceux qui souhaitent apprendre de la magie des terres sauvages et la protéger."
 ---
 
 # Druide

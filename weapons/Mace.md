@@ -1,6 +1,16 @@
 ---
 aliases:
   - "Mace"
+tags:
+  - "daggerheart/weapon"
+name: "Masse d’armes"
+tier: 1
+category: "Principale"
+type: "Physique"
+trait: "Force"
+range: "Mêlée"
+damage: "d8+1 phy"
+burden: "À une main"
 ---
 
 # Masse d’armes

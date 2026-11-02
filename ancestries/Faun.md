@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Faun"
+tags:
+  - "daggerheart/ancestry"
+name: "Faune"
+description: "Les faunes ressemblent à des humanoïdes-chèvres, avec des cornes recourbées, des pupilles rectangulaires et des sabots fendus."
+features:
+  - "Bond caprin"
+  - "Ruade"
 ---
 
 # Faune

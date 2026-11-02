@@ -1,6 +1,27 @@
 ---
 aliases:
   - "Night Children"
+tags:
+  - "daggerheart/adversary"
+name: "Enfants de la nuit"
+tier: 3
+type: "Horde"
+horde: 2
+description: "Une foule grouillante de démons nocturnes sous l'emprise d'un mal ancien."
+difficulty: 16
+thresholds: "17/32"
+hp: 7
+stress: 4
+atk: "+1"
+attack: "Crocs et griffes"
+range: "Mêlée"
+damage: "3d6+8 phy"
+motives_and_tactics: "Ramener les victimes à leur maître, submerger les colonies, se faufiler dans l'ombre"
+experience: "Terreur +3"
+features:
+  - "Horde (2d6+2) - Passif"
+  - "Rangs grossis - Action"
+  - "Submersion - Réaction"
 ---
 
 # Enfants de la nuit

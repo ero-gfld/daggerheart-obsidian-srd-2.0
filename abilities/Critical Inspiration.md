@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Critical Inspiration"
+tags:
+  - "daggerheart/domain-card"
+name: "Inspiration critique"
+domain: "Vaillance"
+level: 3
+type: "Capacité"
+recall: 1
 ---
 
 # Inspiration critique

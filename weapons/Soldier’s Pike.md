@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Soldier’s Pike"
+tags:
+  - "daggerheart/weapon"
+name: "Pique du soldat"
+tier: 3
+category: "Principale"
+type: "Physique"
+trait: "Agilité"
+range: "Très proche"
+damage: "d10+5 phy"
+burden: "À deux mains"
+feature: "Arc-bouté : Quand un adversaire à portée de cette arme vous inflige des dégâts, vous pouvez marquer 2 Stress pour le forcer à marquer un Point de vie."
 ---
 
 # Pique du soldat

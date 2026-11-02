@@ -1,6 +1,24 @@
 ---
 aliases:
   - "Courtesan"
+tags:
+  - "daggerheart/adversary"
+name: "Courtisane"
+tier: 2
+type: "Social"
+description: "Manipulatrice accomplie, maîtresse des arts mondains."
+difficulty: 13
+thresholds: "7/13"
+hp: 3
+stress: 4
+atk: "-3"
+attack: "Dague"
+range: "Mêlée"
+damage: "1d4+3 phy"
+motives_and_tactics: "Séduire, manœuvrer, s’assurer des protecteurs"
+experience: "Manipulation +3, Mondanité +3"
+features:
+  - "Regard brûlant - Réaction"
 ---
 
 # Courtisane

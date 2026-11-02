@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Gunblade"
+tags:
+  - "daggerheart/weapon"
+name: "Épée-fusil"
+tier: 3
+category: "Principale"
+type: "Magique"
+trait: "Agilité"
+range: "Loin"
+damage: "d6+6 mag"
+burden: "À une main"
+feature: "Polyvalent : Cette arme peut aussi être utilisée avec ces caractéristiques : Agilité, Mêlée, d8+6 phy."
 ---
 
 # Épée-fusil

@@ -1,6 +1,26 @@
 ---
 aliases:
   - "Darkweave Swarmlings"
+tags:
+  - "daggerheart/adversary"
+name: "Essaim de jeunes tisse-ténèbres"
+tier: 1
+type: "Horde"
+horde: 8
+description: "Grouillement de minuscules araignées tissées dans une soie d’ombre."
+difficulty: 9
+thresholds: "4/8"
+hp: 8
+stress: 4
+atk: "+0"
+attack: "Morsure"
+range: "Mêlée"
+damage: "1d8 phy"
+motives_and_tactics: "Surgir des trous, grimper le long des jambes, se glisser dans les oreilles, filer sous les vêtements"
+experience: "Escalade +2"
+features:
+  - "Horde (1d4) - Passif"
+  - "« Enlevez-les, enlevez-les ! » - Réaction"
 ---
 
 # Essaim de jeunes tisse-ténèbres

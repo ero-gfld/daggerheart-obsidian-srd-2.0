@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Brigandine Armor"
+tags:
+  - "daggerheart/armor"
+name: "Brigandine"
+tier: 1
+thresholds: "6/12"
+score: 3
+feature: "Doublé : Marquez un Stress pour annuler des dégâts mineurs."
 ---
 
 # Brigandine

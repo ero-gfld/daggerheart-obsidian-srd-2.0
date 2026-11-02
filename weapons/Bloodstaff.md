@@ -1,6 +1,17 @@
 ---
 aliases:
   - "Bloodstaff"
+tags:
+  - "daggerheart/weapon"
+name: "Bâton de sang"
+tier: 4
+category: "Principale"
+type: "Magique"
+trait: "Instinct"
+range: "Loin"
+damage: "d20+7 mag"
+burden: "À deux mains"
+feature: "Douloureux : chaque fois que vous réussissez une attaque, vous devez marquer un Stress."
 ---
 
 # Bâton de sang

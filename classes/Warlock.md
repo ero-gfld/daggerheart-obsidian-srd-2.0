@@ -1,6 +1,18 @@
 ---
 aliases:
   - "Warlock"
+tags:
+  - "daggerheart/class"
+name: "Occultiste"
+domains:
+  - "Effroi & Grâce"
+evasion: 11
+hp: 5
+subclasses:
+  - "Pacte de l’Infini"
+  - "Pacte du Courroux"
+items: "Une sculpture qui symbolise votre patron ou une bague que vous ne pouvez pas retirer"
+description: "Ceux qui ont échangé leur vie, voire leur âme, auprès d’un patron venu d’ailleurs en échange d’un pouvoir extraordinaire sont appelés occultistes."
 ---
 
 # Occultiste

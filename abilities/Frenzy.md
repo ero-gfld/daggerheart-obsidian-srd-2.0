@@ -1,6 +1,13 @@
 ---
 aliases:
   - "Frenzy"
+tags:
+  - "daggerheart/domain-card"
+name: "Frénésie"
+domain: "Lame"
+level: 8
+type: "Capacité"
+recall: 3
 ---
 
 # Frénésie
