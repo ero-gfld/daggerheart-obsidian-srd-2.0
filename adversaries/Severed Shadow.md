@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Severed Shadow"
+tier: 4
+type: "Minion"
+description: "A two-dimensional living shadow bound to flat planes and surfaces."
+difficulty: 19
+thresholds: "None"
+hp: 1
+stress: 2
+atk: "+3"
+attack: "Strangle"
+range: "Close"
+damage: "10 mag"
+motives_and_tactics: "Curse the light, slip between the cracks, split and reform"
+features:
+  - "Minion (12) - Passive"
+  - "Shadow Grapple - Action"
+  - "Group Attack - Action"
+---
+
 # Severed Shadow
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Centaur Warden"
+tier: 2
+type: "Ranged"
+description: "A half-human, half-horse guardian who patrols the borders of idyllic lands uncorrupted by the touch of civilization."
+difficulty: 14
+thresholds: "10/19"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Recurved Bow"
+range: "Far"
+damage: "2d8+4 phy"
+motives_and_tactics: "Live in harmony with nature, protect the wilderness, use mobility and distance to drive off intruders"
+experience: "Nature +2, Philosophy +2"
+features:
+  - "Flanking Maneuver - Passive"
+  - "Eye of the Sage - Action"
+  - "Trample - Action"
+  - "Quick Volley - Reaction"
+---
+
 # Centaur Warden
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

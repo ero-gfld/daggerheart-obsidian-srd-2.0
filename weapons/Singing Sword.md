@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Singing Sword"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Presence"
+range: "Very Close"
+damage: "d8+5 phy"
+burden: "One-Handed"
+feature: "Bolstering: When you critically succeed on an attack, all PCs within Close range gain a Hope."
+---
+
 # Singing Sword
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

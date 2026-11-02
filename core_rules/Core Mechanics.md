@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Core Mechanics"
+description: "Daggerheart is a conversation."
+sections:
+  - "FLOW OF THE GAME"
+  - "CORE GAMEPLAY LOOP"
+  - "THE SPOTLIGHT"
+  - "TURN ORDER & ACTION ECONOMY"
+  - "MAKING MOVES & TAKING ACTION"
+  - "COMBAT"
+  - "STRESS"
+  - "ATTACKING"
+  - "MAPS, RANGE, AND MOVEMENT"
+  - "CONDITIONS"
+  - "DOWNTIME"
+  - "DEATH"
+  - "ADDITIONAL RULES"
+  - "LEVELING UP"
+  - "MULTICLASSING"
+---
+
 # Core Mechanics
 
 ## FLOW OF THE GAME

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Shape Material"
+domain: "Splendor"
+level: 5
+type: "Spell"
+recall: 1
+---
+
 # Shape Material
 
 ***[Level 5](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Splendor](../domains/Splendor.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*

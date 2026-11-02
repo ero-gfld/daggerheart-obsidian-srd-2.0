@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Book of Homet"
+domain: "Codex"
+level: 7
+type: "Grimoire"
+recall: 0
+---
+
 # Book of Homet
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*

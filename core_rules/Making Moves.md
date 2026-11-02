@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Making Moves"
+description: "As the GM, you have GM moves that change the story in response to the players’ actions."
+---
+
 # Making Moves
 
 As the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F), you have **GM moves** that change the story in response to the players’ actions. GM moves aren’t bound by specific spells or effects—when you make a GM move, you can describe the action in whatever way the fiction demands.

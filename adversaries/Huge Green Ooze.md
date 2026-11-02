@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Huge Green Ooze"
+tier: 3
+type: "Skulk"
+description: "A translucent green mound of acid taller than most humans."
+difficulty: 15
+thresholds: "15/30"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Ooze Appendage"
+range: "Melee"
+damage: "3d8+1 mag"
+motives_and_tactics: "Camouflage, creep up, envelop, multiply"
+experience: "Blend In +3"
+features:
+  - "Slow - Passive"
+  - "Acidic Form - Passive"
+  - "Envelop - Action"
+  - "Split - Reaction"
+---
+
 # Huge Green Ooze
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

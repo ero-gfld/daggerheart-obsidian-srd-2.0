@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Epic Aquatic Beast"
+tier: 4
+examples: "Giant Squid, Whale, etc."
+trait_bonus: "Agility +3"
+evasion: "+3"
+attack: "Melee Agility d10+10 phy"
+advantages: "locate, protect, scare, track"
+features:
+  - "Ocean Master"
+  - "Unyielding"
+---
+
 # Epic Aquatic Beast
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Giant Squid, Whale, etc.)

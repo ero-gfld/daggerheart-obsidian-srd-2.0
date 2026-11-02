@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Deeproot Defender"
+tier: 1
+type: "Bruiser"
+description: "A burly vegetable-person with grasping vines."
+difficulty: 10
+thresholds: "8/14"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Vines"
+range: "Close"
+damage: "1d8+3 phy"
+motives_and_tactics: "Ambush, grab, protect, pummel"
+experience: "Huge +3"
+features:
+  - "Ground Slam - Action"
+  - "Grab and Drag - Action"
+---
+
 # Deeproot Defender
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

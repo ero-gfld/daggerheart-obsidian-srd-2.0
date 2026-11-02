@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Master Assassin"
+tier: 2
+type: "Leader"
+description: "A seasoned killer with a threatening voice and a deadly blade."
+difficulty: 15
+thresholds: "12/25"
+hp: 7
+stress: 5
+atk: "+5"
+attack: "Serrated Dagger"
+range: "Close"
+damage: "2d10+2 phy"
+motives_and_tactics: "Ambush, get out alive, kill, prepare for all scenarios"
+experience: "Command +3, Intrusion +3"
+features:
+  - "Won’t See It Coming - Passive"
+  - "Strike as One - Action"
+  - "The Subtle Blade - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Master Assassin
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Catrin"
+tier: 3
+type: "Social"
+description: "A lavishly adorned skeleton that has an endless appetite for gold."
+difficulty: 17
+thresholds: "20/32"
+hp: 5
+stress: 6
+atk: "+3"
+attack: "Spirit Flame"
+range: "Far"
+damage: "3d8+5 mag"
+motives_and_tactics: "Dominate the conversation, seek attention, steal everything"
+experience: "Opulence +2, Storyteller +2"
+features:
+  - "Attracted to Wealth - Passive"
+  - "The Weight of Opulence - Action"
+  - "Expensive Failure - Reaction"
+---
+
 # Catrin
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

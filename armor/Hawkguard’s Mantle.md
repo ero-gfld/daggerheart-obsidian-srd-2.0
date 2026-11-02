@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Hawkguard’s Mantle"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Gliding: You can glide up to Far range and are immune to damage from falling."
+---
+
 # Hawkguard’s Mantle
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

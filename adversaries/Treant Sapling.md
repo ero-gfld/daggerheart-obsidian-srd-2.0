@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Treant Sapling"
+tier: 3
+type: "Minion"
+description: "A small, sentient tree sapling."
+difficulty: 14
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Branches"
+range: "Melee"
+damage: "8 phy"
+motives_and_tactics: "Blend in, preserve the forest, pummel, surround"
+features:
+  - "Minion (6) - Passive"
+  - "Group Attack - Action"
+---
+
 # Treant Sapling
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

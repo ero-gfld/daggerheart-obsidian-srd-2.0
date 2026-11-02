@@ -1,3 +1,12 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Running an Adventure"
+description: "The GM is responsible for guiding the narrative and roleplaying the world the PCs inhabit."
+sections:
+  - "INTRODUCTION"
+---
+
 # Running an Adventure
 
 ## INTRODUCTION

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Tower Shield"
+tier: 1
+category: "Secondary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d6 phy"
+burden: "One-Handed"
+feature: "Barrier: +2 to Armor Score; −1 to Evasion"
+---
+
 # Tower Shield
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

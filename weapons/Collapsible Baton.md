@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Collapsible Baton"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d8 phy"
+burden: "One-Handed"
+feature: "Nonlethal: When a target would mark any number of Hit Points from an attack with this weapon, they mark an equal number of Stress instead."
+---
+
 # Collapsible Baton
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

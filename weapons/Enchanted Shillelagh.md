@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Enchanted Shillelagh"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Melee"
+damage: "d8+3 mag"
+burden: "One-Handed"
+feature: "Protective: +1 to your Armor Score"
+---
+
 # Enchanted Shillelagh
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

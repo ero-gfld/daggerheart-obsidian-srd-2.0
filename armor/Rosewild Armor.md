@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Rosewild Armor"
+tier: 2
+thresholds: "11/23"
+score: 5
+feature: "Hopeful: When you would spend a Hope, you can mark an Armor Slot instead."
+---
+
 # Rosewild Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

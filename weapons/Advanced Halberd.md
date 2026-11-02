@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Halberd"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Very Close"
+damage: "d10+8 phy"
+burden: "Two-Handed"
+feature: "Cumbersome: −1 to Finesse"
+---
+
 # Advanced Halberd
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

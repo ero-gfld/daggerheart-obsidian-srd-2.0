@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Sawtoothed Gillbeast"
+tier: 1
+type: "Standard"
+description: "A stocky fish creature that has rows of razor-sharp teeth."
+difficulty: 12
+thresholds: "5/10"
+hp: 4
+stress: 2
+atk: "+1"
+attack: "Waterlogged Weaponry"
+range: "Close"
+damage: "1d8+1 phy"
+motives_and_tactics: "Clamber ashore, hit and run, peek above the waterline"
+experience: "Aquatic +2"
+features:
+  - "Ka-Chomp - Action"
+  - "Feeding Frenzy - Reaction"
+  - "Scaly - Reaction"
+---
+
 # Sawtoothed Gillbeast
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cult Initiate"
+tier: 2
+type: "Minion"
+description: "A low-ranking cultist in simple robes, eager to gain power."
+difficulty: 13
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Ritual Dagger"
+range: "Melee"
+damage: "5 phy"
+motives_and_tactics: "Follow orders, gain power, seek forbidden knowledge"
+features:
+  - "Minion (6) - Passive"
+  - "Group Attack - Action"
+---
+
 # Cult Initiate
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

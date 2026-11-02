@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Ricochet Axes"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Far"
+damage: "d6+11 phy"
+burden: "Two-Handed"
+feature: "Bouncing: Mark 1 or more Stress to hit that many targets in range of the attack."
+---
+
 # Ricochet Axes
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

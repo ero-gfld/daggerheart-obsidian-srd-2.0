@@ -1,3 +1,22 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Divine Usurpation"
+tier: 4
+type: "Event"
+description: "A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves."
+difficulty: 20
+impulses: "Collect power, overawe, silence dissent"
+potential_adversaries: "Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie"
+features:
+  - "Final Preparations - Passive"
+  - "Divine Blessing - Passive"
+  - "Defilers Abound - Action"
+  - "Godslayer - Action"
+  - "Beginning of the End - Reaction"
+  - "Ritual Nexus - Reaction"
+---
+
 # Divine Usurpation
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

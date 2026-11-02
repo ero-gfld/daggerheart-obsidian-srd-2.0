@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Mountain Pass"
+tier: 2
+type: "Traversal"
+description: "Stony peaks that pierce the clouds, with a twisting path winding its way up and over through many switchbacks."
+difficulty: 15
+impulses: "Exact a chilling toll in supplies and stamina, reveal magical tampering, slow down travel"
+potential_adversaries: "Beasts (Bear, Giant Eagle, Glass Snake), Chaos Skull, Minotaur Wrecker, Mortal Hunter"
+features:
+  - "Engraved Sigils - Passive"
+  - "Avalanche - Action"
+  - "Raptor Nest - Reaction"
+  - "Icy Winds - Reaction"
+---
+
 # Mountain Pass
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

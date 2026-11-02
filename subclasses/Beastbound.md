@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Beastbound"
+class: "Ranger"
+spellcast_trait: "Agility"
+description: "Play the Beastbound if you want to form a deep bond with an animal ally."
+features:
+  - "Companion"
+  - "Expert Training"
+  - "Battle-Bonded"
+  - "Advanced Training"
+  - "Loyal Friend"
+---
+
 # Beastbound
 
 Play the Beastbound if you want to form a deep bond with an animal ally.

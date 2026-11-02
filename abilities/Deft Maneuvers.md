@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Deft Maneuvers"
+domain: "Bone"
+level: 1
+type: "Ability"
+recall: 0
+---
+
 # Deft Maneuvers
 
 ***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Bone](../domains/Bone.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*

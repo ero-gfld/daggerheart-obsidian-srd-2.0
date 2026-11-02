@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Book of Yarrow"
+domain: "Codex"
+level: 10
+type: "Grimoire"
+recall: 2
+---
+
 # Book of Yarrow
 
 ***[Level 10](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

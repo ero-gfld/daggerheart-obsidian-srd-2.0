@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Harbinger of War"
+tier: 4
+type: "Bruiser"
+description: "A warrior clad in black armor and a horned helmet and bearing a bloody banner."
+difficulty: 21
+thresholds: "40/70"
+hp: 9
+stress: 4
+atk: "+5"
+attack: "Battle Axe"
+range: "Very Close"
+damage: "4d20 phy"
+motives_and_tactics: "Destroy utterly, fight honorably, relish combat, shield-bash, strike powerfully"
+experience: "Heavy Armor +3"
+features:
+  - "Relentless (2) - Passive"
+  - "Mount - Passive"
+  - "Iron Dice - Action"
+  - "Supreme Commander - Action"
+  - "Battering Ram - Reaction"
+---
+
 # Harbinger of War
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

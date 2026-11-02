@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demon of Hubris"
+tier: 3
+type: "Leader"
+description: "A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes."
+difficulty: 18
+thresholds: "18/36"
+hp: 7
+stress: 5
+atk: "+4"
+attack: "Perfect Spear"
+range: "Very Close"
+damage: "3d10 phy"
+motives_and_tactics: "Condescend, declare premature victory, prove superiority"
+experience: "Manipulation +2"
+features:
+  - "Terrifying - Passive"
+  - "Double or Nothing - Passive"
+  - "Unparalleled Skill - Action"
+  - "The Root of Villainy - Action"
+  - "You Pale in Comparison - Reaction"
+---
+
 # Demon of Hubris
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

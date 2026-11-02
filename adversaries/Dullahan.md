@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dullahan"
+tier: 3
+type: "Bruiser"
+description: "A horse-mounted specter holding their own severed head in one hand and wielding a whip fashioned from a human spine in the other."
+difficulty: 17
+thresholds: "22/40"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Spine Whip"
+range: "Very Close"
+damage: "3d10+1 mag"
+motives_and_tactics: "Doom with a glance, gallop across water, kick with heavy hooves"
+experience: "Nocturnal +3"
+features:
+  - "Specter - Passive"
+  - "Spectral Mount - Passive"
+  - "Bone Whip Strike - Action"
+  - "Death Glare - Action"
+---
+
 # Dullahan
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

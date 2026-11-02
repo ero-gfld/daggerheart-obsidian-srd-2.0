@@ -1,3 +1,14 @@
+---
+tags:
+  - "daggerheart/domain"
+name: "Arcana"
+description: "Arcana is the domain of innate and instinctual magic."
+classes:
+  - "Druid"
+  - "Sorcerer"
+cards: 21
+---
+
 # Arcana
 
 Arcana is the domain of **innate and instinctual magic.** Those who choose this path tap into the raw, enigmatic forces of the realms to manipulate both their own energy and the elements. Arcana offers wielders a volatile power, but it is incredibly potent when correctly channeled. The Arcana domain can be accessed by the **[Druid](../classes/Druid.md)** and **[Sorcerer](../classes/Sorcerer.md)** classes.

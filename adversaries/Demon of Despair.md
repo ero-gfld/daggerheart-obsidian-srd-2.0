@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demon of Despair"
+tier: 3
+type: "Skulk"
+description: "A cloaked demon-creature with long limbs, seeping shadows."
+difficulty: 17
+thresholds: "18/35"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Miasma Bolt"
+range: "Far"
+damage: "3d6+1 mag"
+motives_and_tactics: "Make fear contagious, stick to the shadows, undermine resolve"
+experience: "Manipulation +3"
+features:
+  - "Depths of Despair - Passive"
+  - "Your Struggle Is Pointless - Action"
+  - "Your Friends Will Fail You - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Demon of Despair
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

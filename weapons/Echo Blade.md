@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Echo Blade"
+tier: 4
+category: "Secondary"
+type: "Magical"
+trait: "Presence"
+range: "Melee"
+damage: "d4+6 mag"
+burden: "One-Handed"
+feature: "Doubled Up: When you succeed on an attack with your primary weapon, you can deal damage to another target within Melee range."
+---
+
 # Echo Blade
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

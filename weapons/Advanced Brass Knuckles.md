@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Brass Knuckles"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d8+7 phy"
+burden: "One-Handed"
+---
+
 # Advanced Brass Knuckles
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

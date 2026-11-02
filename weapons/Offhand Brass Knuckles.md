@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Offhand Brass Knuckles"
+tier: 1
+category: "Secondary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d8 phy"
+burden: "One-Handed"
+feature: "Paired: +2 to primary weapon damage to targets within Melee range"
+---
+
 # Offhand Brass Knuckles
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

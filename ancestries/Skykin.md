@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Skykin"
+description: "Skykin are humanoids whose bodies are made of flesh and air."
+features:
+  - "Gale Force"
+  - "Eye of the Storm"
+---
+
 # Skykin
 
 Skykin are humanoids whose bodies are made of flesh and air. Descended from air elementals, skykin have color-shifting skin that reflects the pale grays and blues of a clear morning sky, the smoldering oranges and fuchsias of the setting sun, or the deep sables and purples of a star-dappled night. These kin often have semitranslucent skin, floating hair of wispy smoke or clouds, or small breezes constantly fluttering their clothing. The intensity of these characteristics heightens or lessens based on the strength of their emotions. Skykin grow to be 5½ to 7 feet on average, and some have elongated features, including their pointed ears, necks, hands, feet, or limbs.

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Winged Sentinel"
+class: "Seraph"
+spellcast_trait: "Strength"
+description: "Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky."
+features:
+  - "Wings of Light"
+  - "Ethereal Visage"
+  - "Ascendant"
+  - "Power of the Gods"
+---
+
 # Winged Sentinel
 
 Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.

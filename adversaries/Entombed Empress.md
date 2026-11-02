@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Entombed Empress"
+tier: 2
+type: "Leader"
+description: "The undead ruler of a forgotten realm. She’s been given blasphemous funeral rites to prevent her soul from moving on."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Swipe"
+range: "Melee"
+damage: "2d8+2 phy"
+motives_and_tactics: "Command inferiors, curse the invaders"
+experience: "Ruler +4, Undead +2"
+features:
+  - "Empty Husk - Passive"
+  - "Missing Organs - Passive"
+  - "Grasping Chains - Action"
+  - "Deathless Obedience - Action"
+  - "Accursed Caress - Reaction"
+  - "Final Transformation (Phase Change) - Reaction"
+---
+
 # Entombed Empress
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

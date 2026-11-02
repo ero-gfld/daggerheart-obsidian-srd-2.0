@@ -1,3 +1,15 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Wordsmith"
+class: "Bard"
+spellcast_trait: "Presence"
+description: "Play the Wordsmith if you want to use clever wordplay and captivate crowds."
+features:
+  - "Rousing Speech"
+  - "Heart of a Poet"
+---
+
 # Wordsmith
 
 Play the Wordsmith if you want to use clever wordplay and captivate crowds.

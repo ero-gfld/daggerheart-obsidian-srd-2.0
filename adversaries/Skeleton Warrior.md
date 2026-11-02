@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Skeleton Warrior"
+tier: 1
+type: "Standard"
+description: "A dirt-covered skeleton armed with a rusted blade."
+difficulty: 10
+thresholds: "4/8"
+hp: 3
+stress: 2
+atk: "+0"
+attack: "Sword"
+range: "Melee"
+damage: "1d6+2 phy"
+motives_and_tactics: "Feign death, gang up, steal skin"
+features:
+  - "Only Bones - Passive"
+  - "Won’t Stay Dead - Reaction"
+---
+
 # Skeleton Warrior
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

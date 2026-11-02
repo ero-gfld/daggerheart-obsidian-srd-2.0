@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Midas Scythe"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d10+9 mag"
+burden: "Two-Handed"
+feature: "Greedy: Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll."
+---
+
 # Midas Scythe
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

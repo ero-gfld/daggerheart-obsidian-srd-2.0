@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Head Guard"
+tier: 1
+type: "Leader"
+description: "A seasoned guard with a mace, a whistle, and a bellowing voice."
+difficulty: 15
+thresholds: "7/13"
+hp: 7
+stress: 3
+atk: "+4"
+attack: "Mace"
+range: "Melee"
+damage: "1d10+4 phy"
+motives_and_tactics: "Arrest, close gates, pin down, seek glory"
+experience: "Commander +2, Local Knowledge +2"
+features:
+  - "Rally Guards - Action"
+  - "On My Signal - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Head Guard
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

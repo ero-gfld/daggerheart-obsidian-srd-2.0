@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Battle‑hardened"
+domain: "Blade"
+level: 6
+type: "Ability"
+recall: 2
+---
+
 # Battle‑hardened
 
 ***[Level 6](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

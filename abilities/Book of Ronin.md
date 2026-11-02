@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Book of Ronin"
+domain: "Codex"
+level: 9
+type: "Grimoire"
+recall: 4
+---
+
 # Book of Ronin
 
 ***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Grimoire](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *4.*

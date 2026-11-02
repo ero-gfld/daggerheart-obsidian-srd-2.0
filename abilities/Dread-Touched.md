@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Dread-Touched"
+domain: "Dread"
+level: 7
+type: "Ability"
+recall: 2
+---
+
 # Dread-Touched
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Dread [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

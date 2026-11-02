@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Deep Dweller"
+tier: 3
+type: "Leader"
+description: "A huge psychic lamprey that has pitch-black eyes and toxic tentacles."
+difficulty: 17
+thresholds: "22/42"
+hp: 6
+stress: 6
+atk: "+5"
+attack: "Teeth & Tentacles"
+range: "Close"
+damage: "3d10+4 phy"
+motives_and_tactics: "Abuse power, seek worship, stalk sunken ruins"
+experience: "Ancient Mysteries +2, Dark Water +2"
+features:
+  - "Psychic Blast - Action"
+  - "Brain Drain - Action"
+  - "Call of the Deep - Action"
+  - "Mucosal Contamination - Action"
+---
+
 # Deep Dweller
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

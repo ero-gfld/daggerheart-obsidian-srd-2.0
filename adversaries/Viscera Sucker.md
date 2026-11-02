@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Viscera Sucker"
+tier: 3
+type: "Skulk"
+description: "A vampiric demon whose upper body detaches at sundown to fly through nearby villages in search of victims. It has a winged upper body with hanging entrails."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Long Nails"
+range: "Melee"
+damage: "2d6+7 phy"
+motives_and_tactics: "Clamp onto prey, suck blood, tear in half"
+experience: "Flying +3"
+features:
+  - "Join or Die - Passive"
+  - "Entangling Entrails - Action"
+  - "Lifesuck - Action"
+---
+
 # Viscera Sucker
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

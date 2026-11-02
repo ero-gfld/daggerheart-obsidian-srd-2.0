@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demon Lord Berzug"
+tier: 4
+type: "Solo"
+description: "The ruler of a deep circle in the Circles Below and a huge hybrid beast with a serpent’s tail, a lizard’s hind legs, a crab’s claw arms, and a two-faced wolf’s head."
+difficulty: 20
+thresholds: "35/70"
+hp: 12
+stress: 8
+atk: "+8"
+attack: "Abyssal Claws"
+range: "Close"
+damage: "4d12+10 phy"
+motives_and_tactics: "Destroy goodness, sow chaos, unseat rivals"
+experience: "Infernal Knowledge +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Chaos Lash - Action"
+  - "Gaze into the Abyss - Action"
+  - "Crushing Strike - Reaction"
+  - "Horrifying - Reaction"
+---
+
 # Demon Lord Berzug
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

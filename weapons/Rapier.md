@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Rapier"
+tier: 1
+category: "Primary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d8 phy"
+burden: "One-Handed"
+feature: "Quick: When you make an attack, you can mark a Stress to target another creature within range."
+---
+
 # Rapier
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

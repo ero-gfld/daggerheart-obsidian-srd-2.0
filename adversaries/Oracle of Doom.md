@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Oracle of Doom"
+tier: 4
+type: "Solo"
+description: "A towering immortal and incarnation of fate, cursed to only see bad outcomes."
+difficulty: 20
+thresholds: "38/68"
+hp: 11
+stress: 10
+atk: "+8"
+attack: "Psychic Attack"
+range: "Far"
+damage: "4d8+9 mag"
+motives_and_tactics: "Change environment, condemn, dishearten, toss aside"
+experience: "Boundless Knowledge +4"
+features:
+  - "Terrifying - Passive"
+  - "Walls Closing In - Passive"
+  - "Pronounce Fate - Action"
+  - "Summon Tormentors - Action"
+  - "Ominous Knowledge - Reaction"
+  - "Vengeful Fate - Reaction"
+---
+
 # Oracle of Doom
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Mythic Hybrid"
+tier: 4
+examples: "Chimera, Cockatrice, Manticore, etc."
+trait_bonus: "Strength +3"
+evasion: "+2"
+attack: "Strength Melee d12+10 phy"
+features:
+  - "Hybrid Features"
+---
+
 # Mythic Hybrid
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Chimera, Cockatrice, Manticore, etc.)

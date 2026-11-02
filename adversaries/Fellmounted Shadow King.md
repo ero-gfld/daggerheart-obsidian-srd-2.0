@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fellmounted Shadow King"
+tier: 3
+type: "Support"
+description: "The shade of a forgotten ruler, cursed to patrol the skies atop a winged eel in the service of an even greater evil."
+difficulty: 15
+thresholds: "24/38"
+hp: 8
+stress: 5
+atk: "+4"
+attack: "Cursed Lance"
+range: "Close"
+damage: "3d10+6 mag"
+motives_and_tactics: "Find magic items, inspire fear, patrol skies"
+experience: "Seeker +3"
+features:
+  - "Fellmount - Passive"
+  - "Light and Shadow - Passive"
+  - "Relic Hunter - Passive"
+  - "Hellsong - Action"
+  - "Air Support - Reaction"
+---
+
 # Fellmounted Shadow King
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

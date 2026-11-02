@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Quarterstaff"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Instinct"
+range: "Melee"
+damage: "d10+9 phy"
+burden: "Two-Handed"
+---
+
 # Advanced Quarterstaff
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

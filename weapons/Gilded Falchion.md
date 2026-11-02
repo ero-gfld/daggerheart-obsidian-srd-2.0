@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Gilded Falchion"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+4 phy"
+burden: "One-Handed"
+feature: "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+---
+
 # Gilded Falchion
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Owl Witch"
+tier: 4
+type: "Support"
+description: "A giant, vengeful barn owl that has a 15-foot wingspan and a human face."
+difficulty: 19
+thresholds: "27/47"
+hp: 4
+stress: 3
+atk: "+7"
+attack: "Razor Talons"
+range: "Very Close"
+damage: "4d8+5 phy"
+motives_and_tactics: "Consume essence, curse, predict death"
+experience: "Magic +2, Night Stalker +2"
+features:
+  - "Ill Omen - Passive"
+  - "Witch Barrier - Passive"
+  - "Voice Mimicry - Action"
+  - "Nightmare Stare - Action"
+  - "Visions of a Violent End - Reaction"
+---
+
 # Owl Witch
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

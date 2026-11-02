@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Outer Realms Thrall"
+tier: 4
+type: "Minion"
+description: "A vaguely humanoid form stripped of memory and identity."
+difficulty: 17
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Claws and Teeth"
+range: "Very Close"
+damage: "11 phy"
+motives_and_tactics: "Destroy, disgust, disorient, intimidate"
+features:
+  - "Minion (13) - Passive"
+  - "Group Attack - Action"
+---
+
 # Outer Realms Thrall
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

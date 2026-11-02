@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Temporal Enforcer"
+tier: 4
+type: "Bruiser"
+description: "A giant mechanical being from a dimension outside time, built by the Time Keepers to preserve the Holy Continuum."
+difficulty: 20
+thresholds: "42/68"
+hp: 8
+stress: 5
+atk: "+4"
+attack: "Adamantine Hammer"
+range: "Very Close"
+damage: "40 direct phy"
+motives_and_tactics: "Repair the timeline, seek out temporal heretics, serve the Lords of Continuity"
+experience: "Temporal Anomalies +3"
+features:
+  - "Relentless (2) - Passive"
+  - "Time Looper - Passive"
+  - "Move Between Moments - Action"
+  - "Instant Rewind - Reaction"
+  - "Invert Polarity - Reaction"
+---
+
 # Temporal Enforcer
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

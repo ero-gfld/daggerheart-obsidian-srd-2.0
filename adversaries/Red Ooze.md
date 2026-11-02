@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Red Ooze"
+tier: 1
+type: "Skulk"
+description: "A moving mound of translucent flaming red slime."
+difficulty: 10
+thresholds: "6/11"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Ooze Appendage"
+range: "Melee"
+damage: "1d8+3 mag"
+motives_and_tactics: "Camouflage, consume and multiply, ignite, start fires"
+experience: "Camouflage +3"
+features:
+  - "Creeping Fire - Passive"
+  - "Ignite - Action"
+  - "Split - Reaction"
+---
+
 # Red Ooze
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

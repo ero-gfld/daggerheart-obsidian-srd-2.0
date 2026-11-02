@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Drake"
+tier: 3
+type: "Skulk"
+description: "A clawed quadruped that has a scaled, serpentine body and a willingness to serve its cousins, the dragons."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+4"
+attack: "Claws & Teeth"
+range: "Melee"
+damage: "3d8+5 phy"
+motives_and_tactics: "Coil and crush, protect master, slither around lairs and ruins, strike first"
+experience: "Vicious +3"
+features:
+  - "Relentless (2) - Passive"
+  - "Guard Dog - Reaction"
+---
+
 # Drake
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

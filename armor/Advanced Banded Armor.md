@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Advanced Banded Armor"
+tier: 3
+thresholds: "15/34"
+score: 6
+feature: "Bulky: −1 to Evasion; when you take Severe damage, you must mark a Stress."
+---
+
 # Advanced Banded Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

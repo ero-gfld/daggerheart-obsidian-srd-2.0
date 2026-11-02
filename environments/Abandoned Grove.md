@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Abandoned Grove"
+tier: 1
+type: "Exploration"
+description: "A former druidic grove lying fallow and fully reclaimed by nature."
+difficulty: 11
+impulses: "Draw in the curious, echo the past"
+potential_adversaries: "Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)"
+features:
+  - "Overgrown Battlefield - Passive"
+  - "Barbed Vines - Action"
+  - "You Are Not Welcome Here - Action"
+  - "Defiler - Action"
+---
+
 # Abandoned Grove
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

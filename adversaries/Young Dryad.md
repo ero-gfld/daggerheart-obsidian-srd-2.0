@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Young Dryad"
+tier: 1
+type: "Leader"
+description: "An imperious tree-person leading their forest’s defenses."
+difficulty: 11
+thresholds: "6/11"
+hp: 6
+stress: 2
+atk: "+0"
+attack: "Scythe"
+range: "Melee"
+damage: "1d8+5 phy"
+motives_and_tactics: "Command, nurture, prune the unwelcome"
+experience: "Leadership +3"
+features:
+  - "Voice of the Forest - Action"
+  - "Thorny Cage - Action"
+  - "Momentum - Reaction"
+---
+
 # Young Dryad
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

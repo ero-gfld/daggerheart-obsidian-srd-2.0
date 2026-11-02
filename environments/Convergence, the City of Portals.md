@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Convergence, the City of Portals"
+tier: 4
+type: "Social"
+description: "A sprawling metropolis at the nexus of creation, where influential figures from across the realms gather."
+difficulty: 20
+impulses: "Confront them with alien customs, dazzle them with infinite variety, tempt them with the impossible"
+potential_adversaries: "Power Players (Arch-Necromancer, Demon Lord Berzug, Fire Titan Warlord, High Seraph, Monarch, Oracle of Doom, Vampire Lord), Travelers and Residents (Any)"
+features:
+  - "Impossibilities Abound - Passive"
+  - "Into the Multiverse - Passive"
+  - "Infinite Inventory - Passive"
+  - "Don’t Make Waves - Passive"
+  - "An Offer You Can’t Refuse - Action"
+---
+
 # Convergence, the City of Portals
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

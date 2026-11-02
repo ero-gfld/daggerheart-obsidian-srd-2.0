@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Bustling Marketplace"
+tier: 1
+type: "Social"
+description: "The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes."
+difficulty: 10
+impulses: "Buy low, and sell high, tempt and tantalize with wares from near and far"
+potential_adversaries: "Guards (Bladed Guard, Head Guard), Masked Thief, Merchant"
+features:
+  - "Tip the Scales - Passive"
+  - "Unexpected Find - Action"
+  - "Sticky Fingers - Action"
+  - "Crowd Closes In - Reaction"
+---
+
 # Bustling Marketplace
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

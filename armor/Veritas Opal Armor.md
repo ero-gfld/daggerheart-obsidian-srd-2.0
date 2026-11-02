@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Veritas Opal Armor"
+tier: 4
+thresholds: "13/36"
+score: 6
+feature: "Truthseeking: This armor glows when another creature within Close range tells a lie."
+---
+
 # Veritas Opal Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Juggernaut"
+class: "Brawler"
+description: "Play the Juggernaut if you want to pulverize your opponents with crushing blows."
+features:
+  - "Rugged"
+  - "Overwhelm"
+  - "Surrounded"
+  - "Eye for an Eye"
+  - "Pummeljoy"
+  - "Not Done Yet"
+---
+
 # Juggernaut
 
 Play the Juggernaut if you want to pulverize your opponents with crushing blows.

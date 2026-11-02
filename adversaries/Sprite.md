@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Sprite"
+tier: 2
+type: "Minion"
+description: "A tiny winged warrior that attacks trespassers with poison-tipped arrows."
+difficulty: 13
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Needle-Sharp Arrows"
+range: "Close"
+damage: "5 phy"
+motives_and_tactics: "Avoid detection, let the poison do its work, protect the wilderness"
+experience: "Stealth +2, Vengeance +2"
+features:
+  - "Minion (5) - Passive"
+  - "Art of Invisibility - Action"
+  - "Dream Petal Poison - Action"
+---
+
 # Sprite
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

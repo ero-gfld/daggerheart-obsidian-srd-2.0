@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Midnight‑touched"
+domain: "Midnight"
+level: 7
+type: "Ability"
+recall: 2
+---
+
 # Midnight‑touched
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Midnight [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

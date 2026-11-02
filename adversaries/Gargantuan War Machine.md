@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Gargantuan War Machine"
+tier: 4
+type: "Solo"
+description: "A 100-foot-tall adamantine construct that has gemstone eyes, powered by a chest crucible of elemental flame."
+difficulty: 20
+thresholds: "48/88"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Fists of Iron"
+range: "Close"
+damage: "4d12+10 phy"
+motives_and_tactics: "Crush, destroy"
+experience: "Unbreakable +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Awesome Size - Passive"
+  - "Rocket Punch - Action"
+  - "Ground-Breaking Stomp - Action"
+  - "Supercharged - Reaction"
+---
+
 # Gargantuan War Machine
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

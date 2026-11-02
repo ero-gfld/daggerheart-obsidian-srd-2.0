@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Stalwart"
+class: "Guardian"
+description: "Play the Stalwart if you want to take heavy blows and keep fighting."
+features:
+  - "Unwavering"
+  - "Iron Will"
+  - "Unrelenting"
+  - "Partners-in-Arms"
+  - "Undaunted"
+  - "Loyal Protector"
+---
+
 # Stalwart
 
 Play the Stalwart if you want to take heavy blows and keep fighting.

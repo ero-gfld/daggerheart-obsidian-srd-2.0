@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Advanced Mage Robes"
+tier: 3
+thresholds: "8/22"
+score: 4
+feature: "Enchanted: Gain a bonus to your damage thresholds equal to your Spellcast trait."
+---
+
 # Advanced Mage Robes
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

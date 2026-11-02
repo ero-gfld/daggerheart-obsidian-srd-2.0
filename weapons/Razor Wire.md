@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Razor Wire"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Finesse"
+range: "Very Close"
+damage: "d6+3 phy"
+burden: "One-Handed"
+feature: "Entangling: On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily Vulnerable."
+---
+
 # Razor Wire
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

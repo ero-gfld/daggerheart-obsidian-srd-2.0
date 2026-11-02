@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Panther"
+tier: 1
+type: "Skulk"
+description: "A large feline predator that stalks its prey from the shadows."
+difficulty: 14
+thresholds: "5/10"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Teeth and Claws"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Climb trees, pounce, stalk"
+experience: "Keen Senses +3, Slink +3"
+features:
+  - "Shadow Stalker - Passive"
+  - "Pouncing Strike - Action"
+---
+
 # Panther
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

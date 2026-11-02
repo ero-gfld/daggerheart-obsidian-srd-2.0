@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Divine Wielder"
+class: "Seraph"
+spellcast_trait: "Strength"
+description: "Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon."
+features:
+  - "Spirit Weapon"
+  - "Sparing Touch"
+  - "Devout"
+  - "Sacred Resonance"
+---
+
 # Divine Wielder
 
 Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.

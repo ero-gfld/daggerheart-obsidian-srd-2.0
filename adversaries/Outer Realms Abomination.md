@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Outer Realms Abomination"
+tier: 4
+type: "Bruiser"
+description: "A chaotic mockery of life, constantly in flux."
+difficulty: 19
+thresholds: "35/71"
+hp: 7
+stress: 5
+atk: "+2d4"
+attack: "Massive Pseudopod"
+range: "Very Close"
+damage: "4d6+13 mag"
+motives_and_tactics: "Demolish, devour, undermine"
+features:
+  - "Chaotic Form - Passive"
+  - "Disorienting Presence - Passive"
+  - "Reality Quake - Action"
+  - "Unreal Form - Reaction"
+---
+
 # Outer Realms Abomination
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

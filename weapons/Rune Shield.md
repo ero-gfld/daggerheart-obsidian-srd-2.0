@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Rune Shield"
+tier: 1
+category: "Secondary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d4 mag"
+burden: "One-Handed"
+feature: "Protective: +1 to Armor Score"
+---
+
 # Rune Shield
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

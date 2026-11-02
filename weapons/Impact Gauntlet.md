@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Impact Gauntlet"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+11 phy"
+burden: "One-Handed"
+feature: "Concussive: On a successful attack, you can spend a Hope to knock the target back to Far range."
+---
+
 # Impact Gauntlet
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

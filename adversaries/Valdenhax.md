@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Valdenhax"
+tier: 2
+type: "Leader"
+description: "A malevolent forest hag who has long, mossy hair and flies through the air with an oversized mortar and pestle."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 4
+atk: "+2"
+attack: "Giant Stone Pestle"
+range: "Melee"
+damage: "2d8+2 phy"
+motives_and_tactics: "Collect souls, fly, vex trespassers"
+experience: "Witchcraft +3"
+features:
+  - "To Me, My Pretties - Action"
+  - "Shadow Strangler - Action"
+  - "Corpse Whisperer - Action"
+  - "Vexing Word - Reaction"
+---
+
 # Valdenhax
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

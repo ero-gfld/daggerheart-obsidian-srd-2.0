@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dire Wolf"
+tier: 1
+type: "Skulk"
+description: "A large wolf with menacing teeth, seldom encountered alone."
+difficulty: 12
+thresholds: "5/9"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Claws"
+range: "Melee"
+damage: "1d6+2 phy"
+motives_and_tactics: "Defend territory, harry, protect pack, surround, trail"
+experience: "Keen Senses +3"
+features:
+  - "Pack Tactics - Passive"
+  - "Hobbling Strike - Action"
+---
+
 # Dire Wolf
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

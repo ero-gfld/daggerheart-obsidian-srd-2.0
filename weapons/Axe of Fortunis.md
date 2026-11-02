@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Axe of Fortunis"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+8 mag"
+burden: "Two-Handed"
+feature: "Lucky: On a failed attack, you can mark a Stress to reroll your attack."
+---
+
 # Axe of Fortunis
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

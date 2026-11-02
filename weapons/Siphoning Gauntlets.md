@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Siphoning Gauntlets"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Melee"
+damage: "d10+9 mag"
+burden: "Two-Handed"
+feature: "Lifestealing: On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress."
+---
+
 # Siphoning Gauntlets
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

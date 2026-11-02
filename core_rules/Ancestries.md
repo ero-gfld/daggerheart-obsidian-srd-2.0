@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Ancestries"
+description: "Ancestries represent your character’s lineage, which affects their physical appearance and access to certain special abilities."
+---
+
 # Ancestries
 
 **Ancestries** represent your character’s lineage, which affects their physical appearance and access to certain special abilities. The following section describes each ancestry in Daggerheart and the characteristics generally shared by members of that ancestry, however, each player decides how much their character aligns with the “standard” or “average” expression of their ancestry.

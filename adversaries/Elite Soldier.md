@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Elite Soldier"
+tier: 2
+type: "Standard"
+description: "An armored squire or experienced commoner looking to advance."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Spear"
+range: "Very Close"
+damage: "2d8+4 phy"
+motives_and_tactics: "Gain glory, keep order, make alliances"
+features:
+  - "Reinforce - Action"
+  - "Vassal’s Loyalty - Reaction"
+---
+
 # Elite Soldier
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

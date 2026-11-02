@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Harbinger of Famine"
+tier: 4
+type: "Support"
+description: "A dried-out husk of a body riding atop a withered white horse. They are covered in mouths and surrounded by swarming flies."
+difficulty: 18
+thresholds: "26/42"
+hp: 6
+stress: 5
+atk: "+4"
+attack: "Barbed Lash"
+range: "Close"
+damage: "4d8+10 phy"
+motives_and_tactics: "Drain, impoverish, weaken, wither"
+experience: "Hunger +2, Thirst +2"
+features:
+  - "Relentless (2) - Passive"
+  - "Mount - Passive"
+  - "Hunger Pangs - Passive"
+  - "Drain Essence - Action"
+  - "Too Many Mouths - Action"
+  - "Withering Touch - Action"
+---
+
 # Harbinger of Famine
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

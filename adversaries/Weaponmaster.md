@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Weaponmaster"
+tier: 1
+type: "Bruiser"
+description: "A master-at-arms wielding a sword twice their size."
+difficulty: 14
+thresholds: "8/15"
+hp: 6
+stress: 3
+atk: "+2"
+attack: "Claymore"
+range: "Very Close"
+damage: "1d12+2 phy"
+motives_and_tactics: "Act first, aim for the weakest, intimidate"
+features:
+  - "Goading Strike - Action"
+  - "Adrenaline Burst - Action"
+  - "Momentum - Reaction"
+---
+
 # Weaponmaster
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

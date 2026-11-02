@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Legendary Beast"
+tier: 3
+examples: "Upgraded Tier 1 Options"
+features:
+  - "Evolved"
+---
+
 # Legendary Beast
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Upgraded [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) Options)

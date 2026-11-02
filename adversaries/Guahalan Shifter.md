@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Guahalan Shifter"
+tier: 2
+type: "Standard"
+description: "A shapeshifting masked warrior who has animalistic features."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Warclub"
+range: "Melee"
+damage: "2d8+4 phy"
+motives_and_tactics: "Escape, profit, throw smoke"
+experience: "Hunter +2, Trapper +2"
+features:
+  - "Unleash the Beast - Action"
+  - "Pack Attack - Action"
+---
+
 # Guahalan Shifter
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

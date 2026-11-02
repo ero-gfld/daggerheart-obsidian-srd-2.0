@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Ghostblade"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Melee"
+damage: "d10+7 phy or mag"
+burden: "One-Handed"
+feature: "Otherworldly: On a successful attack, you can deal physical or magic damage."
+---
+
 # Ghostblade
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Shortstaff"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Close"
+damage: "d8+7 mag"
+burden: "One-Handed"
+---
+
 # Advanced Shortstaff
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

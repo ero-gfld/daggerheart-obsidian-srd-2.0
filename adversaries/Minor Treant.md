@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Minor Treant"
+tier: 1
+type: "Minion"
+description: "An ambulatory sapling rising up to defend their forest."
+difficulty: 10
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-2"
+attack: "Clawed Branch"
+range: "Melee"
+damage: "4 phy"
+motives_and_tactics: "Crush, overwhelm, protect"
+features:
+  - "Minion (5) - Passive"
+  - "Group Attack - Action"
+---
+
 # Minor Treant
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

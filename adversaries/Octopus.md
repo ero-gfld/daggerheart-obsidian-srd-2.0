@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Octopus"
+tier: 1
+type: "Skulk"
+description: "An aquatic, soft-bodied mollusk that has eight sucker-bearing arms and a hard, beaklike jaw."
+difficulty: 12
+thresholds: "3/None"
+hp: 2
+stress: 3
+atk: "-1"
+attack: "Beak"
+range: "Melee"
+damage: "1d6 phy"
+motives_and_tactics: "Crawl along the ocean floor, eat fish, squirt ink to escape"
+experience: "Dexterity +3, Water +3"
+features:
+  - "Grapple - Action"
+  - "Squirt Ink - Action"
+---
+
 # Octopus
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

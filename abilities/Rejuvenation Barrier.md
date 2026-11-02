@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Rejuvenation Barrier"
+domain: "Sage"
+level: 8
+type: "Spell"
+recall: 1
+---
+
 # Rejuvenation Barrier
 
 ***[Level 8](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Sage](../domains/Sage.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Returning Axe"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Agility"
+range: "Close"
+damage: "d6+4 phy"
+burden: "One-Handed"
+feature: "Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+---
+
 # Returning Axe
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

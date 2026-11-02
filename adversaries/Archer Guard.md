@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Archer Guard"
+tier: 1
+type: "Ranged"
+description: "A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors."
+difficulty: 10
+thresholds: "4/8"
+hp: 3
+stress: 2
+atk: "+1"
+attack: "Longbow"
+range: "Far"
+damage: "1d8+3 phy"
+motives_and_tactics: "Arrest, close gates, make it through the day, pin down"
+experience: "Local Knowledge +3"
+features:
+  - "Hobbling Shot - Action"
+---
+
 # Archer Guard
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

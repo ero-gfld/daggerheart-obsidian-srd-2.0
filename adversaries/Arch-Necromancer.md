@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Arch-Necromancer"
+tier: 4
+type: "Leader"
+description: "A decaying mage adorned in dark, tattered robes."
+difficulty: 21
+thresholds: "33/66"
+hp: 9
+stress: 8
+atk: "+6"
+attack: "Necrotic Blast"
+range: "Far"
+damage: "4d12+8 mag"
+motives_and_tactics: "Corrupt, decay, flee to fight another day, resurrect"
+experience: "Forbidden Knowledge +3, Wisdom of Centuries +3"
+features:
+  - "Dance of Death - Action"
+  - "Beam of Decay - Action"
+  - "Open the Gates of Death - Action"
+  - "Not Today, My Dears - Reaction"
+  - "Your Life Is Mine - Reaction"
+---
+
 # Arch-Necromancer
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

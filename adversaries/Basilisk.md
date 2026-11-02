@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Basilisk"
+tier: 2
+type: "Standard"
+description: "A six-legged monitor lizard that has the head of a vulture, a spiked backbone, and a petrifying gaze."
+difficulty: 14
+thresholds: "8/19"
+hp: 4
+stress: 4
+atk: "+1"
+attack: "Jaws & Claws"
+range: "Melee"
+damage: "2d6+4 phy"
+motives_and_tactics: "Move slow and steady, savor petrified prey, turn everyone to stone, watch and wait"
+features:
+  - "Petrify - Action"
+  - "CRONCH! - Action"
+---
+
 # Basilisk
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

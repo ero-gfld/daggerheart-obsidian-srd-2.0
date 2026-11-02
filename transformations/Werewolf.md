@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/transformation"
+name: "Werewolf"
+description: "Werewolves are creatures who transform into large supernatural wolves."
+features:
+  - "Wolf Form"
+  - "Howling Rampage"
+---
+
 # Werewolf
 
 Werewolves are creatures who transform into large supernatural wolves. While some are born werewolves, others undergo this [transformation](../core_rules/Transformations.md) because of a curse, an infection through another werewolf’s bite, or another unnatural cause. Werewolves look like typical members of their ancestry until they shift, whereupon they transform into a massive otherworldly wolf. Some might even take on a shape that is an amalgamation of their ancestry and their wolf form. Stories describe werewolves shifting with the phases of the moon, though an individual’s experience with this change varies based on the cause of their transformation.

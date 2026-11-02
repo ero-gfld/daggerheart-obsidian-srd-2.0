@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cipactli"
+tier: 4
+type: "Solo"
+description: "A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths."
+difficulty: 20
+thresholds: "35/60"
+hp: 8
+stress: 5
+atk: "+8"
+attack: "Bite"
+range: "Close"
+damage: "4d8+12 phy"
+motives_and_tactics: "Consume, reshape the land, trample"
+experience: "Hungry +3, Primordial +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Many Mouths - Action"
+  - "Frenzied Feeding - Action"
+  - "Quaking Footfalls - Action"
+  - "Lifeblooded - Reaction"
+  - "Verdant Explosion - Reaction"
+---
+
 # Cipactli
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

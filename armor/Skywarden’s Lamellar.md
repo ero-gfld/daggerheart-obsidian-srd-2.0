@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Skywarden’s Lamellar"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Vigilant: +2 to Evasion"
+---
+
 # Skywarden’s Lamellar
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

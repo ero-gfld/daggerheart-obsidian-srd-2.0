@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Powerful Beast"
+tier: 2
+examples: "Bear, Bull, Moose, etc."
+trait_bonus: "Strength +3"
+evasion: "+1"
+attack: "Melee Strength d10+4 phy"
+advantages: "navigate, protect, scare"
+features:
+  - "Rampage"
+  - "Thick Hide"
+---
+
 # Powerful Beast
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Bear, Bull, Moose, etc.)

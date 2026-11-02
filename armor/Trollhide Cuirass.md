@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Trollhide Cuirass"
+tier: 2
+thresholds: "11/23"
+score: 5
+feature: "Self-Healing: When you take a rest, clear an Armor Slot."
+---
+
 # Trollhide Cuirass
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

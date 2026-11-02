@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Shortstaff"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Close"
+damage: "d8+10 mag"
+burden: "One-Handed"
+---
+
 # Legendary Shortstaff
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

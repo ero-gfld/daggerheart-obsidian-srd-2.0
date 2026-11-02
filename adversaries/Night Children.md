@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Night Children"
+tier: 3
+type: "Horde"
+horde: 2
+description: "A teeming assortment of nocturnal fiends under the thrall of an ancient evil."
+difficulty: 16
+thresholds: "17/32"
+hp: 7
+stress: 4
+atk: "+1"
+attack: "Fangs & Claws"
+range: "Melee"
+damage: "3d6+8 phy"
+motives_and_tactics: "Carry victims back to master, overrun settlements, slither through shadow"
+experience: "Terrorize +3"
+features:
+  - "Horde (2d6+2) - Passive"
+  - "Swell Ranks - Action"
+  - "Overwhelm - Reaction"
+---
+
 # Night Children
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (2/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

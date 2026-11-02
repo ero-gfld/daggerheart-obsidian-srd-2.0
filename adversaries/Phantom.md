@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Phantom"
+tier: 1
+type: "Standard"
+description: "The echo of a lost soul in the form of an ectoplasmic shadow."
+difficulty: 11
+thresholds: "5/None"
+hp: 2
+stress: 1
+atk: "-1"
+attack: "Chill Touch"
+range: "Melee"
+damage: "1d6+2 mag"
+motives_and_tactics: "Create cold spots, swoop through the air, whisper dark tidings"
+experience: "Spooky +3"
+features:
+  - "Incorporeal - Passive"
+  - "Fear Aura - Passive"
+  - "Lingering Haunt - Reaction"
+---
+
 # Phantom
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Guahalan Fang Lord"
+tier: 2
+type: "Leader"
+description: "A shapeshifting warlord who leads a group of warriors into battle."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Spear"
+range: "Very Close"
+damage: "2d8+4 phy"
+motives_and_tactics: "Bolster allies, lead the pack, rally the troops"
+experience: "Ancient Knowledge +2, Hunter +2"
+features:
+  - "Pack Alpha - Passive"
+  - "Unleash the Beast - Action"
+  - "Call of the Guahala - Action"
+  - "Feral Form (Phase Change) - Reaction"
+---
+
 # Guahalan Fang Lord
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

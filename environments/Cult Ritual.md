@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Cult Ritual"
+tier: 2
+type: "Event"
+description: "A Fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green."
+difficulty: 14
+impulses: "Profane the land, unite the Mortal Realm with the Circles Below"
+potential_adversaries: "Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)"
+features:
+  - "Desecrated Ground - Passive"
+  - "Blasphemous Might - Action"
+  - "The Summoning - Reaction"
+  - "Complete the Ritual - Reaction"
+---
+
 # Cult Ritual
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

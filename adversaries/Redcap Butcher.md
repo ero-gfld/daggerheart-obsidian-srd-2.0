@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Redcap Butcher"
+tier: 1
+type: "Standard"
+description: "A halfling-sized fey creature who hacks their victims apart with a variety of cutting implements. They wear a conical red hat sealed on their head with candle wax."
+difficulty: 12
+thresholds: "5/10"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Meat Cleaver"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Grin disconcertingly, hack and slash, scramble"
+experience: "Scurry +2"
+features:
+  - "Chop Happy - Action"
+  - "Knife Thrower - Action"
+---
+
 # Redcap Butcher
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

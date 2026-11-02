@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Mighty Lizard"
+tier: 3
+examples: "Alligator, Crocodile, Gila Monster, etc."
+trait_bonus: "Instinct +2"
+evasion: "+1"
+attack: "Melee Instinct d10+7 phy"
+advantages: "attack, sneak, track"
+features:
+  - "Physical Defense"
+  - "Snapping Strike"
+---
+
 # Mighty Lizard
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Alligator, Crocodile, Gila Monster, etc.)

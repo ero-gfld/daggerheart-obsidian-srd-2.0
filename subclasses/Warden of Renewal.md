@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Warden of Renewal"
+class: "Druid"
+spellcast_trait: "Instinct"
+description: "Play the Warden of Renewal if you want to use powerful magic to heal your party."
+features:
+  - "Clarity of Nature"
+  - "Regeneration"
+  - "Regenerative Reach"
+  - "Warden’s Protection"
+  - "Defender"
+---
+
 # Warden of Renewal
 
 Play the Warden of Renewal if you want to use powerful magic to heal your party.

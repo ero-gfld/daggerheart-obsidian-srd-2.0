@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jagged Knife Lieutenant"
+tier: 1
+type: "Leader"
+description: "A seasoned bandit in quality leathers with a strong voice and cunning eyes."
+difficulty: 13
+thresholds: "7/14"
+hp: 6
+stress: 3
+atk: "+2"
+attack: "Javelin"
+range: "Close"
+damage: "1d8+3 phy"
+motives_and_tactics: "Bully, command, profit, reinforce"
+experience: "Local Knowledge +2"
+features:
+  - "Tactician - Action"
+  - "More Where That Came From - Action"
+  - "Coup de Grace - Action"
+  - "Momentum - Reaction"
+---
+
 # Jagged Knife Lieutenant
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

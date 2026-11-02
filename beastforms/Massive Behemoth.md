@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Massive Behemoth"
+tier: 4
+examples: "Elephant, Mammoth, Rhinoceros, etc."
+trait_bonus: "Strength +3"
+evasion: "+1"
+attack: "Melee Strength d12+12 phy"
+advantages: "locate, protect, scare, sprint"
+features:
+  - "Carrier"
+  - "Demolish"
+  - "Undaunted"
+---
+
 # Massive Behemoth
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Elephant, Mammoth, Rhinoceros, etc.)

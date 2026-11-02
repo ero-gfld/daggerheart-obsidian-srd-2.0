@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Focus Runes"
+tier: 3
+category: "Secondary"
+type: "Magical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d6+4 mag"
+burden: "One-Handed"
+feature: "Focused: +1 to primary weapon damage to targets within Very Close range"
+---
+
 # Advanced Focus Runes
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

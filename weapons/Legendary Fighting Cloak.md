@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Fighting Cloak"
+tier: 4
+category: "Secondary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d4+6 phy"
+burden: "One-Handed"
+feature: "Padded: +5 to damage thresholds"
+---
+
 # Legendary Fighting Cloak
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

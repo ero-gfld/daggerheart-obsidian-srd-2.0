@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Glowing Rings"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Very Close"
+damage: "d10+11 mag"
+burden: "Two-Handed"
+---
+
 # Legendary Glowing Rings
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

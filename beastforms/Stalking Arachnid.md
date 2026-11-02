@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Stalking Arachnid"
+tier: 1
+examples: "Tarantula, Wolf Spider, etc."
+trait_bonus: "Finesse +1"
+evasion: "+2"
+attack: "Melee Finesse d6+1 phy"
+advantages: "attack, climb, sneak"
+features:
+  - "Venomous Bite"
+  - "Webslinger"
+---
+
 # Stalking Arachnid
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Tarantula, Wolf Spider, etc.)

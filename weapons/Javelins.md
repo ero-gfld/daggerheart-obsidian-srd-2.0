@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Javelins"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Very Close"
+damage: "d6+6 phy"
+burden: "One-Handed"
+feature: "Stockpiled: You can throw this weapon at a target within Far range by making an attack roll using Agility without having to retrieve it, as you always have another one on hand."
+---
+
 # Javelins
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

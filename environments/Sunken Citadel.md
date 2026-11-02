@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Sunken Citadel"
+tier: 3
+type: "Exploration"
+description: "The sunken ruins of a long-lost civilization filled with ancient technology and dark magic."
+difficulty: 16
+impulses: "Draw them deep, drown them, reveal ancient wonders"
+potential_adversaries: "Cursed Merfolk, Deep Dweller, Plesiosaurus"
+features:
+  - "Underwater Environment - Passive"
+  - "Air Pockets - Passive"
+  - "Lost Technology - Passive"
+  - "Deepwater Denizens - Action"
+---
+
 # Sunken Citadel
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

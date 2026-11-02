@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Adder’s Fang"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Finesse"
+range: "Melee"
+damage: "d8+9 mag"
+burden: "One-Handed"
+feature: "Venomous: When you deal Major or greater damage with this weapon, the target becomes temporarily Vulnerable."
+---
+
 # Adder’s Fang
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Realm of the Dead"
+tier: 4
+type: "Traversal"
+description: "A seemingly infinite expanse of still water without color or laughter."
+difficulty: 20
+impulses: "Drown in despair, leech life, tempt into endless slumber"
+potential_adversaries: "Any (see “Death-Touched Denizens”)"
+features:
+  - "Sea of Gloom - Passive"
+  - "The Burden of Wakefulness - Passive"
+  - "Death-Touched Denizens - Passive"
+  - "The Chill of Death - Action"
+  - "Abandon All Hope - Reaction"
+---
+
 # Realm of the Dead
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

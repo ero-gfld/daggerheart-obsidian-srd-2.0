@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Megastorm"
+tier: 3
+type: "Event"
+description: "An extreme weather event suddenly manifests, forcing the party to balance their own survival against the safety of others."
+difficulty: 16
+impulses: "Blow hurricane winds, choke with mudslides, crumble structures, flood, throw debris, light up the sky"
+potential_adversaries: "Greater Water Elemental, Storm Titan"
+features:
+  - "Stormfront - Passive"
+  - "Hazardous Conditions - Passive"
+  - "Bomb Cyclone - Action"
+  - "Stormheart - Action"
+  - "Panic in the Streets - Action"
+---
+
 # Megastorm
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

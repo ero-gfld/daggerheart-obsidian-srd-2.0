@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Shark"
+tier: 2
+type: "Bruiser"
+description: "A large aquatic predator, always on the move."
+difficulty: 14
+thresholds: "14/28"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Toothy Maw"
+range: "Very Close"
+damage: "2d12+1 phy"
+motives_and_tactics: "Find the blood, isolate prey, target the weak"
+experience: "Sense of Smell +3"
+features:
+  - "Terrifying - Passive"
+  - "Rending Bite - Passive"
+  - "Blood in the Water - Reaction"
+---
+
 # Shark
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

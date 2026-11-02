@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Runes of Ruination"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Very Close"
+damage: "d20+4 mag"
+burden: "One-Handed"
+feature: "Painful: Each time you make a successful attack, you must mark a Stress."
+---
+
 # Runes of Ruination
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

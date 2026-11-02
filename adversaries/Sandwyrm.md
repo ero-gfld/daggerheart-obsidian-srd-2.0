@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Sandwyrm"
+tier: 3
+type: "Bruiser"
+description: "A gargantuan burrowing worm that has armor plating and gnashing jaws. This intelligent and opportunistic hunter can swim through sand as quickly as a cheetah runs on land."
+difficulty: 17
+thresholds: "21/40"
+hp: 6
+stress: 3
+atk: "+1"
+attack: "Bite"
+range: "Very Close"
+damage: "3d8+4 phy"
+motives_and_tactics: "Ambush from below, eat and leave, tunnel and erupt, use both ends"
+experience: "Tremor Sense +4"
+features:
+  - "Venomous Tail Stinger - Action"
+  - "Devour - Action"
+  - "Hungry, Not Stupid - Reaction"
+---
+
 # Sandwyrm
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

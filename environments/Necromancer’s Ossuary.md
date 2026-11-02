@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Necromancer’s Ossuary"
+tier: 4
+type: "Exploration"
+description: "A dusty crypt with a library, twisting corridors, and abundant sarcophagi, spattered with the blood of ill-fated invaders."
+difficulty: 19
+impulses: "Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead"
+potential_adversaries: "Arch-Necromancer’s Host (Perfected Zombie, Zombie Legion)"
+features:
+  - "No Place for the Living - Passive"
+  - "Centuries of Knowledge - Passive"
+  - "Skeletal Burst - Action"
+  - "Aura of Death - Action"
+  - "They Just Keep Coming! - Action"
+---
+
 # Necromancer’s Ossuary
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

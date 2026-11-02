@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Berserker Alpha"
+tier: 2
+type: "Leader"
+description: "A veteran commander who quaffs magic elixirs to change into a beast and lead their packmates on a hunt."
+difficulty: 14
+thresholds: "13/26"
+hp: 6
+stress: 4
+atk: "+3"
+attack: "Tooth & Claw"
+range: "Melee"
+damage: "2d10+2 phy"
+motives_and_tactics: "Embrace the change, howl at the moon, lead the pack, run down enemies"
+experience: "Hunt +3, Keen Senses +2"
+features:
+  - "Pack Fury - Passive"
+  - "Bark at the Moon - Action"
+  - "Berserker Rage - Reaction"
+---
+
 # Berserker Alpha
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

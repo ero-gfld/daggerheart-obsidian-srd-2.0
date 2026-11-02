@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Using Adversaries"
+description: "All the information required to run an adversary is contained in their stat block."
+---
+
 # Using Adversaries
 
 #### ADVERSARY STAT BLOCKS

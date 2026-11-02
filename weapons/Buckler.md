@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Buckler"
+tier: 3
+category: "Secondary"
+type: "Physical"
+trait: "Agility"
+range: "Melee"
+damage: "d4+4 phy"
+burden: "One-Handed"
+feature: "Deflecting: When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Score against the attack."
+---
+
 # Buckler
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

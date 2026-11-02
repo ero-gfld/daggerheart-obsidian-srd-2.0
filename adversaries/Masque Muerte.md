@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Masque Muerte"
+tier: 1
+type: "Solo"
+description: "The raging soul of a villainous masked wrestler."
+difficulty: 13
+thresholds: "7/14"
+hp: 8
+stress: 4
+atk: "+4"
+attack: "Open-Handed Strike"
+range: "Melee"
+damage: "1d12+2 mag"
+motives_and_tactics: "Call out, embarrass, energize the audience, pin opponents to the ground"
+experience: "Grappler +3, Showboat +3"
+features:
+  - "Libre - Passive"
+  - "Heel Turn - Action"
+  - "Spectral Suplex - Action"
+  - "Unmasking Death - Action"
+  - "Tag Team - Reaction"
+---
+
 # Masque Muerte
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

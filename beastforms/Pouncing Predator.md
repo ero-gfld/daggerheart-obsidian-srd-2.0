@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Pouncing Predator"
+tier: 2
+examples: "Cheetah, Lion, Panther, etc."
+trait_bonus: "Instinct +1"
+evasion: "+3"
+attack: "Melee Instinct d8+6 phy"
+advantages: "attack, climb, sneak"
+features:
+  - "Fleet"
+  - "Takedown"
+---
+
 # Pouncing Predator
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Cheetah, Lion, Panther, etc.)

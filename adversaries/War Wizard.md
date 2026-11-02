@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "War Wizard"
+tier: 2
+type: "Ranged"
+description: "A battle-hardened mage trained in destructive magic."
+difficulty: 16
+thresholds: "11/23"
+hp: 5
+stress: 6
+atk: "+4"
+attack: "Staff"
+range: "Far"
+damage: "2d10+4 mag"
+motives_and_tactics: "Develop new spells, seek power, shatter formations"
+experience: "Magical Knowledge +2, Strategize +2"
+features:
+  - "Battle Teleport - Passive"
+  - "Refresh Warding Sphere - Action"
+  - "Eruption - Action"
+  - "Arcane Artillery - Action"
+  - "Warding Sphere - Reaction"
+---
+
 # War Wizard
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

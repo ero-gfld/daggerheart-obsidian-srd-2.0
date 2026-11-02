@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Severed Dragon Claw"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Instinct"
+range: "Melee"
+damage: "d10+11 phy"
+burden: "One-Handed"
+feature: "Destructive: −1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress."
+---
+
 # Severed Dragon Claw
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

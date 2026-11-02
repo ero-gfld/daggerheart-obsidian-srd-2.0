@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Courtesan"
+tier: 2
+type: "Social"
+description: "An accomplished manipulator and master of the social arts."
+difficulty: 13
+thresholds: "7/13"
+hp: 3
+stress: 4
+atk: "-3"
+attack: "Dagger"
+range: "Melee"
+damage: "1d4+3 phy"
+motives_and_tactics: "Entice, maneuver, secure patrons"
+experience: "Manipulation +3, Socialite +3"
+features:
+  - "Searing Glance - Reaction"
+---
+
 # Courtesan
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

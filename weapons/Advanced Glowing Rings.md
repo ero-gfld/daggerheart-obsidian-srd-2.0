@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Glowing Rings"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Very Close"
+damage: "d10+8 mag"
+burden: "Two-Handed"
+---
+
 # Advanced Glowing Rings
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

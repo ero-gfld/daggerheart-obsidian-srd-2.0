@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Frost Titan"
+tier: 3
+type: "Bruiser"
+description: "A blue-skinned goliath who has rimed hair and wears trophies of past battles."
+difficulty: 17
+thresholds: "22/40"
+hp: 10
+stress: 4
+atk: "+7"
+attack: "Dual Axes"
+range: "Very Close"
+damage: "3d10+2 phy"
+motives_and_tactics: "Claim trophies, raid and pillage, test mettle"
+experience: "Cold +3, War +3"
+features:
+  - "Relentless (2) - Passive"
+  - "War Horn - Action"
+  - "Bull Rush - Action"
+  - "Cleaving Strike - Reaction"
+  - "Trophy Hunter - Reaction"
+---
+
 # Frost Titan
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

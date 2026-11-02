@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Stag Knight"
+tier: 3
+type: "Standard"
+description: "A knight with huge, majestic antlers wearing armor made of dangerous thorns."
+difficulty: 17
+thresholds: "19/36"
+hp: 7
+stress: 5
+atk: "+3"
+attack: "Bramble Sword"
+range: "Melee"
+damage: "3d8+3 phy"
+motives_and_tactics: "Isolate, maneuver, protect the forest, weed the unwelcome"
+experience: "Forest Knowledge +3"
+features:
+  - "From Above - Passive"
+  - "Blade of the Forest - Action"
+  - "Thorny Armor - Reaction"
+---
+
 # Stag Knight
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

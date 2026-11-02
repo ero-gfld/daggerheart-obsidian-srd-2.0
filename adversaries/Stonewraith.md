@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Stonewraith"
+tier: 2
+type: "Skulk"
+description: "A prowling hunter, like a slinking mountain lion, with a slate-gray stone body."
+difficulty: 13
+thresholds: "11/22"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Bite and Claws"
+range: "Melee"
+damage: "2d8+6 phy"
+motives_and_tactics: "Defend territory, isolate prey, stalk"
+experience: "Stonesense +3"
+features:
+  - "Stonestrider - Passive"
+  - "Rocky Ambush - Action"
+  - "Avalanche Roar - Action"
+  - "Momentum - Reaction"
+---
+
 # Stonewraith
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

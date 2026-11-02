@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Winged Beast"
+tier: 2
+examples: "Hawk, Owl, Raven, etc."
+trait_bonus: "Finesse +1"
+evasion: "+3"
+attack: "Melee Finesse d4+2 phy"
+advantages: "deceive, locate, scare"
+features:
+  - "Bird’s-Eye View"
+  - "Hollow Bones"
+---
+
 # Winged Beast
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Hawk, Owl, Raven, etc.)

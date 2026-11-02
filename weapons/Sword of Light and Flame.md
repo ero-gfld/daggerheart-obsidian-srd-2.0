@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Sword of Light & Flame"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+11 mag"
+burden: "Two-Handed"
+feature: "Hot: This weapon cuts through solid material."
+---
+
 # Sword of Light & Flame
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

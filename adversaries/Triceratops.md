@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Triceratops"
+tier: 2
+type: "Bruiser"
+description: "A large dinosaur that has an armored frill and three horns."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Horns"
+range: "Very Close"
+damage: "2d10+4 phy"
+motives_and_tactics: "Eat ferns, move in herds for protection, patrol the watering hole"
+experience: "Defender +3"
+features:
+  - "Leathery Hide - Passive"
+  - "Tail Swipe - Action"
+  - "Bull Rush - Action"
+---
+
 # Triceratops
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

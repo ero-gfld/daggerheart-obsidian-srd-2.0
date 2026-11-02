@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Knuckle Blades"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+6 phy"
+burden: "Two-Handed"
+feature: "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+---
+
 # Knuckle Blades
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demonic Hound Pack"
+tier: 2
+type: "Horde"
+horde: 1
+description: "Unnatural hounds lit from within by hellfire."
+difficulty: 15
+thresholds: "11/23"
+hp: 6
+stress: 3
+atk: "+0"
+attack: "Claws and Fangs"
+range: "Melee"
+damage: "2d8+2 phy"
+motives_and_tactics: "Cause fear, consume flesh, please masters"
+experience: "Scent Tracking +3"
+features:
+  - "Horde (2d4+1) - Passive"
+  - "Dreadhowl - Action"
+  - "Momentum - Reaction"
+---
+
 # Demonic Hound Pack
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (1/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Syndicate"
+class: "Rogue"
+spellcast_trait: "Finesse"
+description: "Play the Syndicate if you want to have a web of contacts everywhere you go."
+features:
+  - "Well-Connected"
+  - "Contacts Everywhere"
+  - "Reliable Backup"
+---
+
 # Syndicate
 
 Play the Syndicate if you want to have a web of contacts everywhere you go.

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Wyvern"
+tier: 3
+type: "Standard"
+description: "A two-legged dragon that flies from its mountaintop aerie to devour livestock."
+difficulty: 16
+thresholds: "18/35"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Teeth & Claws"
+range: "Very Close"
+damage: "3d8+5 phy"
+motives_and_tactics: "Cast a long shadow, snatch and grab, wheel through the air"
+experience: "Death from Above +4"
+features:
+  - "Double Strike - Action"
+  - "Terrifying Shriek - Action"
+  - "Clutch - Reaction"
+---
+
 # Wyvern
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

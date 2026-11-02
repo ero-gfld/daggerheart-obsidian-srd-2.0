@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Rune Shield"
+tier: 3
+category: "Secondary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d4+4 mag"
+burden: "One-Handed"
+feature: "Protective: +3 to Armor Score"
+---
+
 # Advanced Rune Shield
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

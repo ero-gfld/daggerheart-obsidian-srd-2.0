@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Minor Demon"
+tier: 1
+type: "Solo"
+description: "A crimson-hued creature from the Circles Below, consumed by rage against all mortals."
+difficulty: 14
+thresholds: "8/15"
+hp: 8
+stress: 4
+atk: "+3"
+attack: "Claws"
+range: "Melee"
+damage: "1d8+6 phy"
+motives_and_tactics: "Act erratically, corral targets, relish pain, torment"
+features:
+  - "Relentless (2) - Passive"
+  - "All Must Fall - Passive"
+  - "Hellfire - Action"
+  - "Reaper - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Minor Demon
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

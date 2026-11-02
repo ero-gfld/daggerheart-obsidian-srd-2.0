@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fowlbear"
+tier: 2
+type: "Bruiser"
+description: "A grizzly bear with a feathery hide and the head of a giant goose."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Goose Teeth & Bear Claws"
+range: "Very Close"
+damage: "2d12+2 phy"
+motives_and_tactics: "Drive prey into an ambush, fight to the death, hunt in pairs"
+experience: "Keen Senses +3, Ponds +3"
+features:
+  - "Relentless (2) - Passive"
+  - "Double Strike - Action"
+  - "Dread Honk - Action"
+---
+
 # Fowlbear
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Common Ruffian"
+tier: 1
+type: "Standard"
+description: "A local laborer or artisan pushed by circumstances to assail others."
+difficulty: 12
+thresholds: "6/10"
+hp: 4
+stress: 4
+atk: "+0"
+attack: "Improvised Weapon"
+range: "Melee"
+damage: "1d8 phy"
+motives_and_tactics: "Do violence, seek security and survival"
+experience: "Desperate +3"
+features:
+  - "Group Attack - Action"
+  - "Survival Instinct - Reaction"
+---
+
 # Common Ruffian
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

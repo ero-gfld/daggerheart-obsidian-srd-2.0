@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Yufo"
+tier: 1
+type: "Social"
+description: "A large, interdimensional jellyfishlike creature that floats in and out of the timestream."
+difficulty: 14
+thresholds: "6/10"
+hp: 3
+stress: 5
+atk: "-3"
+attack: "Tentacle Lash"
+range: "Very Close"
+damage: "1d6+3 phy"
+motives_and_tactics: "Exchange information about possible timelines, feed on heightened emotions, watch from the shadows"
+experience: "Secrets +3, Floating Oddity +3"
+features:
+  - "Telepathic - Passive"
+  - "Psychic Strongbox - Passive"
+  - "Glitch Wave - Action"
+  - "Temporal Corrosion - Reaction"
+---
+
 # Yufo
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

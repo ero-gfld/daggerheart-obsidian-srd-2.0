@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Bloodstone Plate Armor"
+tier: 3
+thresholds: "13/35"
+score: 6
+feature: "Bloodthirsty: When you critically succeed on a weapon attack within Melee range, clear a Hit Point."
+---
+
 # Bloodstone Plate Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

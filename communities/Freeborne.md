@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/community"
+name: "Freeborne"
+description: "Being part of a freeborne community means you’re from a collective that once lived under tyrannical rule but is now liberated."
+traits: "optimistic, guarded, courageous, joyful, subversive, and traumatized"
+features:
+  - "Unbound"
+---
+
 # Freeborne
 
 Being part of a freeborne community means you’re from a collective that once lived under tyrannical rule but is now liberated. Though no two freeborne enclaves are the same, all are unified by the experience of fighting to preserve their culture while others tried to eradicate it. Whether due to their religion, resources, location, or culture, freeborne groups were once subjugated by another community. For some, this subjugation might have only recently ended; for others, even if their freedom has been long-won, the [scars](../core_rules/Core%20Mechanics.md#DEATH) of tyranny can last, bonding together families and neighbors for decades or even generations. Many freeborne collectives unify in and rebuild the lands reclaimed from their oppressors or in a homeland they were taken from. Others see “home” as a collection of people who care for one another, no matter where they reside.

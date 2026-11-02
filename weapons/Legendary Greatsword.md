@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Greatsword"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+12 phy"
+burden: "Two-Handed"
+feature: "Massive: −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+---
+
 # Legendary Greatsword
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

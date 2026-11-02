@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fire Titan"
+tier: 3
+type: "Solo"
+description: "An armor-clad goliath who has ash-gray skin and fiery hair and wields a masterwork greatsword crafted in their own smithy."
+difficulty: 18
+thresholds: "19/35"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Greatsword"
+range: "Close"
+damage: "3d12+4 phy"
+motives_and_tactics: "Act valorously, make war, think tactically"
+experience: "Smithing +5, Tactics +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Masterwork Armor - Passive"
+  - "Momentum - Passive"
+  - "Hurl Rock - Action"
+  - "Skull Splitter - Action"
+  - "Blazing Heart - Reaction"
+---
+
 # Fire Titan
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

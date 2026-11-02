@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Hold the Line"
+tier: 1
+type: "Event"
+description: "The party must fend off multiple waves of enemies long enough for an ally to complete an important objective."
+difficulty: 11
+impulses: "Crash waves of enemies upon the party’s shores, never let them breathe, target their charge"
+potential_adversaries: "Guards, Jagged Knives, Pirates, Skeletons, Zombies"
+features:
+  - "Bodyguards - Passive"
+  - "“I Must Not Fail!” - Passive"
+  - "Swarming Multitudes - Passive"
+  - "Waves upon Waves - Reaction"
+---
+
 # Hold the Line
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

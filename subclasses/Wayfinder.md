@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Wayfinder"
+class: "Ranger"
+spellcast_trait: "Agility"
+description: "Play the Wayfinder if you want to hunt your prey and strike with deadly force."
+features:
+  - "Ruthless Predator"
+  - "Path Forward"
+  - "Elusive Predator"
+  - "Apex Predator"
+---
+
 # Wayfinder
 
 Play the Wayfinder if you want to hunt your prey and strike with deadly force.

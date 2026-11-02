@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jagged Knife Bandit"
+tier: 1
+type: "Standard"
+description: "A cunning criminal in a cloak bearing one of the gang’s iconic knives."
+difficulty: 12
+thresholds: "8/14"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Daggers"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Escape, profit, steal, throw smoke"
+experience: "Thief +2"
+features:
+  - "Climber - Passive"
+  - "From Above - Passive"
+---
+
 # Jagged Knife Bandit
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

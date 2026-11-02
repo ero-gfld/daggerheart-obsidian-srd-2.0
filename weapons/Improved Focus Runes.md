@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Focus Runes"
+tier: 2
+category: "Secondary"
+type: "Magical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d6+2 mag"
+burden: "One-Handed"
+feature: "Focused: +1 to primary weapon damage to targets within Very Close range"
+---
+
 # Improved Focus Runes
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

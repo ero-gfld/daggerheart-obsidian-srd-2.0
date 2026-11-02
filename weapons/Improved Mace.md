@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Mace"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d8+4 phy"
+burden: "One-Handed"
+---
+
 # Improved Mace
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

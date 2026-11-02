@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Young Fire Dragon"
+tier: 3
+type: "Solo"
+description: "A crimson dragon with four powerful limbs and smoldering wings."
+difficulty: 18
+thresholds: "21/34"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Bite & Claws"
+range: "Close"
+damage: "4d10 phy"
+motives_and_tactics: "Burn, defend lair, erupt, fly, shred, take"
+experience: "Burning Rage +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Intimidating - Passive"
+  - "Flame Breath - Action"
+  - "Eruption - Action"
+  - "Blazing Scales - Reaction"
+  - "Slash and Burn - Reaction"
+---
+
 # Young Fire Dragon
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

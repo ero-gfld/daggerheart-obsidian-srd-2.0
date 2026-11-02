@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Improved Brigandine Armor"
+tier: 2
+thresholds: "9/19"
+score: 4
+feature: "Lined: Mark a Stress to negate Minor damage."
+---
+
 # Improved Brigandine Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

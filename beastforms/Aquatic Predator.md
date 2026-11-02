@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Aquatic Predator"
+tier: 3
+examples: "Dolphin, Orca, Shark, etc."
+trait_bonus: "Agility +2"
+evasion: "+4"
+attack: "Melee Agility d10+6 phy"
+advantages: "attack, swim, track"
+features:
+  - "Aquatic"
+  - "Vicious Maul"
+---
+
 # Aquatic Predator
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Dolphin, Orca, Shark, etc.)

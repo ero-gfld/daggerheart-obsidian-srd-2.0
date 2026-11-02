@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Small Dagger"
+tier: 4
+category: "Secondary"
+type: "Physical"
+trait: "Finesse"
+range: "Melee"
+damage: "d8+6 phy"
+burden: "One-Handed"
+feature: "Paired: +5 to primary weapon damage to targets within Melee range"
+---
+
 # Legendary Small Dagger
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

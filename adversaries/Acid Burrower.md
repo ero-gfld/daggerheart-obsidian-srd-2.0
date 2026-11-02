@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Acid Burrower"
+tier: 1
+type: "Solo"
+description: "A horse-sized insect with digging claws and acidic blood."
+difficulty: 14
+thresholds: "8/15"
+hp: 8
+stress: 3
+atk: "+3"
+attack: "Claws"
+range: "Very Close"
+damage: "1d12+2 phy"
+motives_and_tactics: "Burrow, drag away, feed, reposition"
+experience: "Tremor Sense +2"
+features:
+  - "Relentless (3) - Passive"
+  - "Earth Eruption - Action"
+  - "Spit Acid - Action"
+  - "Acid Bath - Reaction"
+---
+
 # Acid Burrower
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

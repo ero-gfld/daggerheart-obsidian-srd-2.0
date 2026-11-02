@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Cyrurgien’s Scalpel"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d8+3 phy"
+burden: "One-Handed"
+feature: "Scary: On a successful attack, the target must mark a Stress."
+---
+
 # Cyrurgien’s Scalpel
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

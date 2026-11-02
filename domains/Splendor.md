@@ -1,3 +1,14 @@
+---
+tags:
+  - "daggerheart/domain"
+name: "Splendor"
+description: "Splendor is the domain of life."
+classes:
+  - "Seraph"
+  - "Wizard"
+cards: 21
+---
+
 # Splendor
 
 Splendor is the domain of **life.** Through this magic, followers gain the ability to heal and, to an extent, control death. Splendor offers its disciples the magnificent ability to both give and end life. The Splendor domain can be accessed by the **[Seraph](../classes/Seraph.md)** and **[Wizard](../classes/Wizard.md)** classes.

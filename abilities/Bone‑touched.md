@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Bone‑touched"
+domain: "Bone"
+level: 7
+type: "Ability"
+recall: 2
+---
+
 # Bone‑touched
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Bone [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

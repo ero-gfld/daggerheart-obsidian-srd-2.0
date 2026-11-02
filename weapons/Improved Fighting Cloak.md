@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Fighting Cloak"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d4+2 phy"
+burden: "One-Handed"
+feature: "Padded: +3 to damage thresholds"
+---
+
 # Improved Fighting Cloak
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

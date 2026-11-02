@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "War Dart"
+tier: 3
+category: "Secondary"
+type: "Physical"
+trait: "Agility"
+range: "Far"
+damage: "d6+5 phy"
+burden: "One-Handed"
+feature: "Versatile: This weapon can also be used with these statistics—Agility, Melee, d8+5."
+---
+
 # War Dart
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Banshee"
+tier: 2
+type: "Skulk"
+description: "A corrupted fey spirit that haunts the night in the form of a willowy specter wearing a luminous gossamer gown."
+difficulty: 14
+thresholds: "9/18"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Fingernails"
+range: "Melee"
+damage: "2d6+1 mag"
+motives_and_tactics: "Ambush from inside solid objects, frighten to death, mourn life and beauty lost, scream balefully"
+experience: "Vain +3, Wrathful +3"
+features:
+  - "Specter - Passive"
+  - "Terrifying - Passive"
+  - "Scare Tactic - Action"
+  - "Wail of Despair - Action"
+---
+
 # Banshee
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

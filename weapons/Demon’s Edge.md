@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Demon’s Edge"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Melee"
+damage: "d8+10 mag"
+burden: "One-Handed"
+feature: "Disturbing: When you defeat a creature with this weapon, all adversaries within Close range must mark a Stress."
+---
+
 # Demon’s Edge
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

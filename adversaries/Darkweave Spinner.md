@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Darkweave Spinner"
+tier: 1
+type: "Standard"
+description: "A boar-sized arachnid woven from primordial shadow-silk."
+difficulty: 12
+thresholds: "6/9"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Fangs"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Bite, stick to the darkness"
+experience: "Holes +2, Webs +2"
+features:
+  - "Wrap in Shadow-Silk - Action"
+  - "Shadow Fang - Reaction"
+---
+
 # Darkweave Spinner
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

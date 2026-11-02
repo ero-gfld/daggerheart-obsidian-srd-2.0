@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Octopus"
+tier: 2
+type: "Solo"
+description: "A monstrous, aquatic mollusk that has eight sucker-bearing arms and a hard, beaklike jaw."
+difficulty: 14
+thresholds: "13/26"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Arm Whip"
+range: "Close"
+damage: "2d10 phy"
+motives_and_tactics: "Crush and bite, grapple, harry sailing vessels, hunt prey"
+experience: "Intelligent +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Armed and Dangerous - Passive"
+  - "Grapple - Action"
+  - "Crush - Action"
+---
+
 # Giant Octopus
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

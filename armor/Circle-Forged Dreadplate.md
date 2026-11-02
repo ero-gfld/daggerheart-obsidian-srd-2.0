@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Circle-Forged Dreadplate"
+tier: 4
+thresholds: "14/38"
+score: 6
+feature: "Accursed: When you mark any number of Hit Points from an attack, roll a d4. On a result of 4, the attacker must mark an equal number of Stress."
+---
+
 # Circle-Forged Dreadplate
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

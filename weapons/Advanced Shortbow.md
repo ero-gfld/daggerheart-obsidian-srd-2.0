@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Shortbow"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Far"
+damage: "d6+9 phy"
+burden: "Two-Handed"
+---
+
 # Advanced Shortbow
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

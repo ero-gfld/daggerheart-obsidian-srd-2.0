@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Mage Orb"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Far"
+damage: "d6+7 mag"
+burden: "One-Handed"
+feature: "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+---
+
 # Mage Orb
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

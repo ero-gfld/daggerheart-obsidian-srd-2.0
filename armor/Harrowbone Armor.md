@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Harrowbone Armor"
+tier: 2
+thresholds: "9/21"
+score: 4
+feature: "Resilient: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot."
+---
+
 # Harrowbone Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Dragonscale Armor"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Impenetrable: Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress."
+---
+
 # Dragonscale Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

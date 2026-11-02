@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Floating Bladeshards"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Close"
+damage: "d8+9 mag"
+burden: "One-Handed"
+feature: "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+---
+
 # Floating Bladeshards
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

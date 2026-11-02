@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Rune-Forged Exosuit"
+tier: 4
+thresholds: "12/39"
+score: 7
+feature: "Attuned: The maximum number of domain cards in your loadout is reduced by one, but you gain a bonus to your damage thresholds equal to your tier."
+---
+
 # Rune-Forged Exosuit
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

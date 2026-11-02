@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jagged Knife Shadow"
+tier: 1
+type: "Skulk"
+description: "A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Daggers"
+range: "Melee"
+damage: "1d4+4 phy"
+motives_and_tactics: "Ambush, conceal, divide, profit"
+experience: "Intrusion +3"
+features:
+  - "Backstab - Passive"
+  - "Cloaked - Action"
+---
+
 # Jagged Knife Shadow
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

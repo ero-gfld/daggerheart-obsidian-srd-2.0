@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Tidekin"
+description: "Tidekin are humanoids whose bodies are made of flesh and water."
+features:
+  - "Amphibious"
+  - "Lifespring"
+---
+
 # Tidekin
 
 Tidekin are humanoids whose bodies are made of flesh and water. Descended from water elementals, tidekin possess finlike ears and webbing between their digits. The color of their skin, hair, and eyes reflects that of water’s many forms, with some exhibiting bright shades of aquas, greens, and seafoams like shallow rivers or tropical oceans, while others display dark blues and purples from the deepest oceans. For some, these colors shift beneath semitranslucent skin like waves. Tidekin might have water formations that adorn their heads like hair or waves that shift and move across their body. Instead of expressing emotions through tears, their water formations change with their emotional state, and they can purposefully or accidentally use their shifting colors or water formations as a method of nonverbal communication.

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Brawler"
+tier: 2
+type: "Bruiser"
+description: "An especially muscular giant wielding a warhammer larger than a human."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Warhammer"
+range: "Very Close"
+damage: "2d12+3 phy"
+motives_and_tactics: "Make a living, overwhelm, slam, topple"
+experience: "Intrusion +2"
+features:
+  - "Battering Ram - Action"
+  - "Bloody Reprisal - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Giant Brawler
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

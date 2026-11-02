@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "School of Knowledge"
+class: "Wizard"
+spellcast_trait: "Knowledge"
+description: "Play the School of Knowledge if you want a keen understanding of the world around you."
+features:
+  - "Prepared"
+  - "Adept"
+  - "Accomplished"
+  - "Perfect Recall"
+  - "Brilliant"
+  - "Honed Expertise"
+---
+
 # School of Knowledge
 
 Play the School of Knowledge if you want a keen understanding of the world around you.

@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Falcon"
+tier: 1
+type: "Skulk"
+description: "A bird of prey that has long, pointed wings and a notched beak."
+difficulty: 12
+thresholds: "5/8"
+hp: 3
+stress: 3
+atk: "+2"
+attack: "Talons"
+range: "Melee"
+damage: "1d6+1 phy"
+motives_and_tactics: "Circle, clutch, dive, spy"
+experience: "Keen Senses +4, Fly +3"
+features:
+  - "Nimble Flyer - Passive"
+  - "Dive Bomb - Action"
+---
+
 # Falcon
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

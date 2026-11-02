@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Vast Desert"
+tier: 2
+type: "Traversal"
+description: "A parched expanse of sandy dunes, desolate salt flats, and windblown rock formations."
+difficulty: 14
+impulses: "Dehydrate, show desolate beauty, threaten danger on the horizon"
+potential_adversaries: "Acid Burrower, Desert Raiders (Jagged Knife Bandits), Landshark, Sandwyrm"
+features:
+  - "Endless Sands - Passive"
+  - "Water Supply - Passive"
+  - "Shifting Sands - Passive"
+  - "Thunderstorm - Action"
+  - "Sandstorm - Action"
+---
+
 # Vast Desert
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

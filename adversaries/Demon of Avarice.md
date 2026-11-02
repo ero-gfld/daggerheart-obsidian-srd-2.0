@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demon of Avarice"
+tier: 3
+type: "Support"
+description: "A regal cloaked monstrosity with circular horns adorned with treasure."
+difficulty: 17
+thresholds: "15/29"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Hungry Maw"
+range: "Melee"
+damage: "3d6+5 mag"
+motives_and_tactics: "Consume, fuel greed, sow dissent"
+experience: "Manipulation +3"
+features:
+  - "Money Talks - Passive"
+  - "Numbers Must Go Up - Passive"
+  - "Money Is Time - Action"
+---
+
 # Demon of Avarice
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

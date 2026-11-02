@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Rabble Mawb"
+tier: 1
+type: "Horde"
+horde: 3
+description: "These cat-sized balls of hair, limbs, and teeth travel in a “mawb” of a dozen."
+difficulty: 8
+thresholds: "4/8"
+hp: 4
+stress: 2
+atk: "-2"
+attack: "Chomp"
+range: "Melee"
+damage: "1d6+3 phy"
+motives_and_tactics: "Chitter and chew, clump together, roll around"
+experience: "Underground +2"
+features:
+  - "Horde (1d4+1) - Passive"
+  - "Come Back Worse - Reaction"
+---
+
 # Rabble Mawb
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

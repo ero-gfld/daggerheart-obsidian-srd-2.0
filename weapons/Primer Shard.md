@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Primer Shard"
+tier: 4
+category: "Secondary"
+type: "Physical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d4 phy"
+burden: "One-Handed"
+feature: "Locked On: On a successful attack, your next attack against the same target with your primary weapon automatically succeeds."
+---
+
 # Primer Shard
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

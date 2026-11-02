@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Guahalan Spirit Beast"
+tier: 2
+type: "Minion"
+description: "A brightly colored spirit in the shape of an animal."
+difficulty: 13
+thresholds: "None"
+hp: 1
+stress: 2
+atk: "+1"
+attack: "Bite & Claw"
+range: "Melee"
+damage: "5 mag"
+motives_and_tactics: "Protect, sacrifice, surround"
+features:
+  - "Minion (5) - Passive"
+  - "Ethereal Form - Passive"
+  - "Group Attack - Action"
+  - "Beast Bomb - Reaction"
+---
+
 # Guahalan Spirit Beast
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

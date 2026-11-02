@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Crossbow"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+4 phy"
+burden: "One-Handed"
+---
+
 # Improved Crossbow
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

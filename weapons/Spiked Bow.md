@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Spiked Bow"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Very Far"
+damage: "d6+7 phy"
+burden: "Two-Handed"
+feature: "Versatile: This weapon can also be used with these statistics—Agility, Melee, d10+5."
+---
+
 # Spiked Bow
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

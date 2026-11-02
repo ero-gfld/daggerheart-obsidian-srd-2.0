@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Glass Snake"
+tier: 1
+type: "Standard"
+description: "A clear serpent with a massive head that leaves behind a glass shard trail wherever they go."
+difficulty: 14
+thresholds: "6/10"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Glass Fangs"
+range: "Very Close"
+damage: "1d8+2 phy"
+motives_and_tactics: "Climb, feed, keep distance, scare"
+features:
+  - "Armor-Shredding Shards - Passive"
+  - "Spinning Serpent - Action"
+  - "Spitter - Action"
+---
+
 # Glass Snake
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

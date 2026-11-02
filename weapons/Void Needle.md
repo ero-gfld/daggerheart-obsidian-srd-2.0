@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Void Needle"
+tier: 4
+category: "Secondary"
+type: "Physical"
+trait: "Finesse"
+range: "Melee"
+damage: "d4+6 phy"
+burden: "One-Handed"
+feature: "Inverted: When you roll a weapon attack with Fear, you gain a Hope."
+---
+
 # Void Needle
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

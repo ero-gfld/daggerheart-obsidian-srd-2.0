@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Greatsword"
+tier: 1
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+3 phy"
+burden: "Two-Handed"
+feature: "Massive: −1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+---
+
 # Greatsword
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

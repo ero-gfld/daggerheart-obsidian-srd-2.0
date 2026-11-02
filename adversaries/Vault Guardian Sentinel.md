@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Vault Guardian Sentinel"
+tier: 3
+type: "Bruiser"
+description: "A dust-covered golden construct with boxy limbs and a huge mace for a hand."
+difficulty: 17
+thresholds: "21/40"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Charged Mace"
+range: "Very Close"
+damage: "2d12+1 phy"
+motives_and_tactics: "Destroy at any cost, expunge, protect"
+features:
+  - "Kinetic Slam - Passive"
+  - "Box In - Action"
+  - "Mana Bolt - Action"
+  - "Momentum - Reaction"
+---
+
 # Vault Guardian Sentinel
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

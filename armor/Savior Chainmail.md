@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Savior Chainmail"
+tier: 4
+thresholds: "18/48"
+score: 8
+feature: "Difficult: −1 to all character traits and Evasion"
+---
+
 # Savior Chainmail
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

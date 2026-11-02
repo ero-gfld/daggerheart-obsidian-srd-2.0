@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Greater Earth Elemental"
+tier: 3
+type: "Bruiser"
+description: "A living landslide of boulders and dust, as large as a house."
+difficulty: 17
+thresholds: "22/40"
+hp: 10
+stress: 4
+atk: "+7"
+attack: "Boulder Fist"
+range: "Very Close"
+damage: "3d10+1 phy"
+motives_and_tactics: "Avalanche, knock over, pummel"
+features:
+  - "Slow - Passive"
+  - "Crushing Blows - Passive"
+  - "Immovable Object - Passive"
+  - "Rockslide - Action"
+  - "Momentum - Reaction"
+---
+
 # Greater Earth Elemental
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

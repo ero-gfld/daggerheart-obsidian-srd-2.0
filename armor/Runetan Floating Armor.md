@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Runetan Floating Armor"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Shifting: When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage."
+---
+
 # Runetan Floating Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

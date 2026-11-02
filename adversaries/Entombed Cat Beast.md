@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Entombed Cat Beast"
+tier: 2
+type: "Solo"
+description: "A large undead humanoid skeleton with a panther’s skull for a head."
+difficulty: 15
+thresholds: "12/23"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Razor Claws"
+range: "Very Close"
+damage: "2d12+2 phy"
+motives_and_tactics: "Rush attack, shred, terrify"
+experience: "Feral +2"
+features:
+  - "Relentless (3) - Passive"
+  - "Bloody Strike - Passive"
+  - "Screeching Caterwaul - Action"
+  - "I Alone - Reaction"
+  - "Vicious Reprisal - Reaction"
+---
+
 # Entombed Cat Beast
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Harbinger of Pestilence"
+tier: 4
+type: "Leader"
+description: "A bloated and rotting agglomeration of wriggling insects and slugs formed into a single humanoid mass riding a worm-eaten horse."
+difficulty: 18
+thresholds: "37/70"
+hp: 7
+stress: 8
+atk: "+8"
+attack: "Touch of Corruption"
+range: "Melee"
+damage: "4d10+10 mag"
+motives_and_tactics: "Corrupt the pure, infect the weak, summon plague and disease"
+experience: "Rot +3"
+features:
+  - "Halo of Contagion - Passive"
+  - "Mount - Passive"
+  - "Locust Swarm - Action"
+  - "Frog Spawn - Action"
+  - "Plague Bringer - Action"
+---
+
 # Harbinger of Pestilence
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

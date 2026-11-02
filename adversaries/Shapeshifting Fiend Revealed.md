@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Shapeshifting Fiend Revealed"
+tier: 3
+type: "Solo"
+description: "A towering humanoid who has an insectile head and multiple sets of glowing red eyes."
+difficulty: 17
+thresholds: "20/32"
+hp: 10
+stress: 8
+atk: "+3"
+attack: "Mantis Claws"
+range: "Very Close"
+damage: "3d12+5 phy"
+motives_and_tactics: "Claim souls, confuse and misdirect, escape to the Circles Below, teleport"
+experience: "Hellbound +3, Immortal +2"
+features:
+  - "Relentless (3) - Passive"
+  - "Fiendish Resistance - Passive"
+  - "Demonic Rage - Action"
+  - "Hall of Mirrors - Action"
+  - "Flash Claw - Action"
+  - "Mind Games - Reaction"
+---
+
 # Shapeshifting Fiend Revealed
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

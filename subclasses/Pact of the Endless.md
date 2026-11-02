@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Pact of the Endless"
+class: "Warlock"
+spellcast_trait: "Presence"
+description: "Play the Pact of the Endless if you want to stand strong against enemies and avoid death."
+features:
+  - "Patron’s Mantle"
+  - "Deathless Embrace"
+  - "Harrowing Invocation"
+  - "Damage Sink"
+  - "Dark Aegis"
+  - "Draining Bane"
+---
+
 # Pact of the Endless
 
 Play the Pact of the Endless if you want to stand strong against enemies and avoid death.

@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dragon Mother Mitera"
+tier: 4
+type: "Solo"
+description: "A gargantuan seven-headed dragon with dazzling diamond scales that shine with every color of the rainbow."
+difficulty: 16
+thresholds: "35/65"
+hp: 12
+stress: 10
+atk: "+8"
+attack: "Bite & Slash"
+range: "Close"
+damage: "4d10+10 phy"
+motives_and_tactics: "Birth destruction, control the battlefield, fly, repel invaders, use all available options"
+experience: "Ancient +5"
+features:
+  - "Relentless (3) - Passive"
+  - "Diamond Hide - Passive"
+  - "Elemental Breath - Action"
+  - "Tail Swipe - Action"
+  - "Fearsome - Reaction"
+  - "Seven-Headed - Reaction"
+---
+
 # Dragon Mother Mitera
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

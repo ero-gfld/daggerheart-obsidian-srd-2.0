@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Atototl"
+tier: 1
+type: "Standard"
+description: "A majestic green water bird that has a ten-foot wingspan and is hunted for the fortune-telling stone inside their stomach."
+difficulty: 12
+thresholds: "8/12"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Talons"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Avoid, escape, misdirect"
+experience: "Flight +3, Jungles +3"
+features:
+  - "Wind Lord - Passive"
+  - "Stone of Omens - Passive"
+  - "Archer’s Bane - Reaction"
+---
+
 # Atototl
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Dragon’s Lair"
+tier: 3
+type: "Exploration"
+description: "A collection of gold, jewels, and artifacts in the heart of an active volcano."
+difficulty: 16
+impulses: "Lure into the levels below, make escape impossible, tempt with treasure, wake the dragon"
+potential_adversaries: "The Dragon’s Minions (Drake, Wyvern), Young Fire Dragon"
+features:
+  - "The Dragon Wakes - Passive"
+  - "Treasure Hoard - Passive"
+  - "Volcanic Activity - Action"
+  - "Watchdogs - Reaction"
+---
+
 # Dragon’s Lair
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

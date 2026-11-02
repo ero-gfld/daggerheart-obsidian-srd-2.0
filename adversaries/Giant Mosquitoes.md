@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Mosquitoes"
+tier: 1
+type: "Horde"
+horde: 5
+description: "Dozens of fist-sized mosquitoes, flying together for protection."
+difficulty: 10
+thresholds: "5/9"
+hp: 6
+stress: 3
+atk: "-2"
+attack: "Proboscis"
+range: "Melee"
+damage: "1d8+3 phy"
+motives_and_tactics: "Fly away, harass, steal blood"
+experience: "Camouflage +2"
+features:
+  - "Horde (1d4+1) - Passive"
+  - "Flying - Passive"
+  - "Bloodsucker - Reaction"
+---
+
 # Giant Mosquitoes
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (5/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

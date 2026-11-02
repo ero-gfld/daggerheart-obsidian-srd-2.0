@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Archer Squadron"
+tier: 2
+type: "Horde"
+horde: 2
+description: "A group of trained archers bearing massive bows."
+difficulty: 13
+thresholds: "8/16"
+hp: 4
+stress: 3
+atk: "+0"
+attack: "Longbow"
+range: "Far"
+damage: "2d6+3 phy"
+motives_and_tactics: "Stick together, survive, volley fire"
+features:
+  - "Horde (1d6+3) - Passive"
+  - "Focused Volley - Action"
+  - "Suppressing Fire - Action"
+---
+
 # Archer Squadron
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (2/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

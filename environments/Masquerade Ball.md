@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Masquerade Ball"
+tier: 2
+type: "Social"
+description: "A high society gala where masked revelers trade secrets and favors."
+difficulty: 14
+impulses: "Dance the night away, eat and be merry, make secret deals, trade valuable information"
+potential_adversaries: "Operatives (Masked Thief, Master Assassin, Spy), Revelers (Courtesan, Merchant Baron, Royal Advisor)"
+features:
+  - "Costumes Required - Passive"
+  - "“Care to Dance?” - Passive"
+  - "Mistaken Identity - Action"
+  - "Cloak and Dagger - Action"
+---
+
 # Masquerade Ball
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

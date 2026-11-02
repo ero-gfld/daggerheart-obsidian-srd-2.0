@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Supreme Demiurge Adonix"
+tier: 4
+type: "Solo"
+description: "The four-faced angel from the Hallows Above who manifests in the Mortal Realm as a floating tetrahedron with numerous eyes and multiple sets of metallic feathered wings."
+difficulty: 20
+thresholds: "35/70"
+hp: 12
+stress: 10
+atk: "+8"
+attack: "Wing Strike"
+range: "Close"
+damage: "4d12+10 phy"
+motives_and_tactics: "Establish dominion, exile from reality, float above it all, speak into being"
+experience: "Omnipotence +10, Be Not Afraid +5"
+features:
+  - "Relentless (4) - Passive"
+  - "Elemental Archon - Action"
+  - "Alpha to Omega - Evolution"
+  - "Forsaken - Action"
+  - "Armageddon - Reaction"
+---
+
 # Supreme Demiurge Adonix
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Pact of the Wrathful"
+class: "Warlock"
+spellcast_trait: "Presence"
+description: "Play the Pact of the Wrathful if you want to destroy those who act against you."
+features:
+  - "Patron’s Fury"
+  - "Deadly Vengeance"
+  - "Menacing Reach"
+  - "Diminish My Foes"
+  - "Fearsome Attack"
+  - "Otherworldly Ire"
+---
+
 # Pact of the Wrathful
 
 Play the Pact of the Wrathful if you want to destroy those who act against you.

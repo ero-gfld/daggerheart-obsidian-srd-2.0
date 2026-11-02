@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cephilith Titan"
+tier: 4
+type: "Solo"
+description: "A transdimensional entity in the form of an impossibly large, winged humanoid with an octopus-shaped head and rows of glowing eyes."
+difficulty: 20
+thresholds: "38/68"
+hp: 10
+stress: 10
+atk: "+8"
+attack: "Pseudoclaw"
+range: "Close"
+damage: "4d8+10 mag"
+motives_and_tactics: "Call and consume followers, corrupt reality, invade the Mortal Realm, spew forth chaos"
+experience: "Chaos +5, Psychic +5"
+features:
+  - "Relentless (X) - Passive"
+  - "Terrifying - Passive"
+  - "Merely a Projection - Passive"
+  - "Psychic Scream - Action"
+  - "Summon Worshippers - Action"
+  - "“It’s Here…” - Evolution"
+---
+
 # Cephilith Titan
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

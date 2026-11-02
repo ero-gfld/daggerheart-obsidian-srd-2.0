@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Ahuizotl"
+tier: 1
+type: "Skulk"
+description: "A doglike ambush predator that has a clawed hand on the end of a long prehensile tail and drags victims into rivers to drown them."
+difficulty: 12
+thresholds: "5/9"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Bite"
+range: "Melee"
+damage: "1d6+2 phy"
+motives_and_tactics: "Ambush, drown, restrain"
+experience: "Stealth +2, Swimming +2"
+features:
+  - "Aquatic Attacker - Passive"
+  - "Tail Swat - Action"
+  - "Drag and Bag - Action"
+---
+
 # Ahuizotl
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

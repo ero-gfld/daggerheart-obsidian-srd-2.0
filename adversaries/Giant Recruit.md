@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Recruit"
+tier: 2
+type: "Minion"
+description: "A giant fighter wearing borrowed armor."
+difficulty: 13
+thresholds: "None"
+hp: 1
+stress: 2
+atk: "+1"
+attack: "Warhammer"
+range: "Very Close"
+damage: "5 phy"
+motives_and_tactics: "Batter, make a living, overwhelm, terrify"
+features:
+  - "Minion (7) - Passive"
+  - "Group Attack - Action"
+---
+
 # Giant Recruit
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

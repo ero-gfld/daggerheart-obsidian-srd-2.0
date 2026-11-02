@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Abandoned Mine"
+tier: 1
+type: "Traversal"
+description: "A twisting warren of disused tunnels carved out of the bedrock by a doomed mining outfit."
+difficulty: 11
+impulses: "Poison the party with deadly gasses, rumble and collapse, split the party, turn them around"
+potential_adversaries: "Darkweave Spiders (Darkweave Crawler, Darkweave Spinner, Darkweave Swarmlings), Miner Ghosts (Poltergeist, Will-o’-the-Wisps)"
+features:
+  - "Pitch Black - Passive"
+  - "Labyrinth - Passive"
+  - "Into the Spider’s Web - Action"
+  - "Impending Collapse - Reaction"
+---
+
 # Abandoned Mine
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

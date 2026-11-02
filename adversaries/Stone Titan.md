@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Stone Titan"
+tier: 2
+type: "Solo"
+description: "A gray-skinned goliath who lives underground and specializes in crafting powerful items inlaid with magical runes."
+difficulty: 17
+thresholds: "17/32"
+hp: 5
+stress: 5
+atk: "+3"
+attack: "Stone Hammer"
+range: "Very Close"
+damage: "3d6+8 phy"
+motives_and_tactics: "Blend into the rocks, craft and contemplate, pursue prophecy and solitude"
+experience: "Crafting +3, Runes +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Skillful Strike - Passive"
+  - "Sunlight Sickness - Passive"
+  - "Hammer Smash - Action"
+---
+
 # Stone Titan
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

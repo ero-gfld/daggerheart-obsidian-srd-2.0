@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Legendary Scale Mail Armor"
+tier: 4
+thresholds: "15/39"
+score: 6
+feature: "Cumbersome: −1 to Finesse"
+---
+
 # Legendary Scale Mail Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

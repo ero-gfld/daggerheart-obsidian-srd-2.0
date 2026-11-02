@@ -1,3 +1,30 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Volcanic Dragon: Molten Scourge"
+tier: 4
+type: "Solo"
+description: "Enraged by their wounds, the dragon bursts into molten lava."
+difficulty: 20
+thresholds: "30/58"
+hp: 7
+stress: 5
+atk: "+9"
+attack: "Lava-Coated Claws"
+range: "Close"
+damage: "4d12+4 phy"
+motives_and_tactics: "Douse with lava, incinerate, repel Invaders, reposition"
+experience: "Hunt from Above +5"
+features:
+  - "Relentless (3) - Passive"
+  - "Cracked Scales - Passive"
+  - "Shattering Might - Action"
+  - "Eruption - Action"
+  - "Volcanic Breath - Reaction"
+  - "Lava Splash - Reaction"
+  - "Ashen Vengeance (Phase Change) - Reaction"
+---
+
 # Volcanic Dragon: Molten Scourge
 
 **_[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)._** _Enraged by their wounds, the dragon bursts into molten lava._

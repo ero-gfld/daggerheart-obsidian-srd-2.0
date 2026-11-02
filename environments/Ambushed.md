@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Ambushed"
+tier: 1
+type: "Event"
+description: "An ambush is set to catch an unsuspecting party off-guard."
+difficulty: "Special (see “Relative Strength”)"
+impulses: "Overwhelm, scatter, surround"
+potential_adversaries: "Any"
+features:
+  - "Relative Strength - Passive"
+  - "Surprise! - Action"
+---
+
 # Ambushed
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

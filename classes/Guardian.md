@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/class"
+name: "Guardian"
+domains:
+  - "Valor"
+  - "Blade"
+evasion: 9
+hp: 7
+subclasses:
+  - "Stalwart"
+  - "Vengeance"
+items: "A totem from your mentor or a secret key"
+description: "The title of guardian represents an array of martial professions, speaking more to their moral compass and unshakeable fortitude than the means by which they fight."
+---
+
 # Guardian
 
 The title of guardian represents an array of martial professions, speaking more to their moral compass and unshakeable fortitude than the means by which they fight. While many guardians join groups of militants for either a country or cause, they’re more likely to follow those few they truly care for, majority be damned. Guardians are known for fighting with remarkable ferocity even against overwhelming odds, defending their cohort above all else. Woe betide those who harm the ally of a guardian, as the guardian will answer this injury in kind.

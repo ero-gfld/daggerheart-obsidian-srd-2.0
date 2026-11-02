@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Vault Guardian Gaoler"
+tier: 3
+type: "Support"
+description: "A boxy, dust-covered construct with thick metallic swinging doors on their torso."
+difficulty: 16
+thresholds: "19/33"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Body Bash"
+range: "Very Close"
+damage: "3d6+2 phy"
+motives_and_tactics: "Carry away, entrap, protect, pummel"
+features:
+  - "Blocking Shield - Passive"
+  - "Lock Up - Action"
+---
+
 # Vault Guardian Gaoler
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

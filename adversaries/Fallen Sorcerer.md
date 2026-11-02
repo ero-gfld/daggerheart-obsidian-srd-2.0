@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fallen Sorcerer"
+tier: 4
+type: "Support"
+description: "A powerful mage bound by the bargains they made in life."
+difficulty: 19
+thresholds: "26/42"
+hp: 6
+stress: 5
+atk: "+4"
+attack: "Corrupted Staff"
+range: "Far"
+damage: "4d6+10 mag"
+motives_and_tactics: "Acquire, dishearten, dominate, torment"
+experience: "Ancient Knowledge +2"
+features:
+  - "Conflagration - Action"
+  - "Nightmare Tableau - Action"
+  - "Slippery - Reaction"
+  - "Shackles of Guilt - Reaction"
+---
+
 # Fallen Sorcerer
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

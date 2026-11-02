@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Splendor‑touched"
+domain: "Splendor"
+level: 7
+type: "Ability"
+recall: 2
+---
+
 # Splendor‑touched
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Splendor [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

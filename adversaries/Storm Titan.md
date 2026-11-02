@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Storm Titan"
+tier: 3
+type: "Solo"
+description: "An ancient, wise, and temperamental goliath who has hair made of mist and electricity crackling across their skin."
+difficulty: 20
+thresholds: "35/70"
+hp: 11
+stress: 8
+atk: "+7"
+attack: "Lightning Bolt"
+range: "Far"
+damage: "3d20+10 mag"
+motives_and_tactics: "Erupt violently, wait, watch"
+experience: "Power of the Storm +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Momentum - Passive"
+  - "Ball Lightning - Action"
+  - "Storm Bringer - Action"
+  - "Thunderclap - Action"
+---
+
 # Storm Titan
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

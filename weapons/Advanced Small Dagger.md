@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Small Dagger"
+tier: 3
+category: "Secondary"
+type: "Physical"
+trait: "Finesse"
+range: "Melee"
+damage: "d8+4 phy"
+burden: "One-Handed"
+feature: "Paired: +4 to primary weapon damage to targets within Melee range"
+---
+
 # Advanced Small Dagger
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

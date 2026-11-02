@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Unicorn"
+tier: 3
+type: "Standard"
+description: "A celestial avatar of goodness in the form of a preternaturally beautiful horse with a long, spiraled horn emerging from its head."
+difficulty: 17
+thresholds: "19/36"
+hp: 7
+stress: 5
+atk: "+3"
+attack: "Hoof & Horn"
+range: "Melee"
+damage: "3d10+3 mag"
+motives_and_tactics: "Keep evil at bay, protect the sacred, sense emotions and intent"
+experience: "Magic +3, Nature +3"
+features:
+  - "Celestial Lance - Passive"
+  - "Healing Touch - Action"
+  - "Protective Aura - Action"
+  - "Teleport - Action"
+---
+
 # Unicorn
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Secret-Keeper"
+tier: 2
+type: "Leader"
+description: "A clandestine leader with a direct channel to the Fallen Gods."
+difficulty: 16
+thresholds: "13/26"
+hp: 7
+stress: 4
+atk: "+3"
+attack: "Sigil-laden Staff"
+range: "Far"
+damage: "2d12 mag"
+motives_and_tactics: "Amass great power, plot, take command"
+experience: "Coercion +2, Fallen Lore +2"
+features:
+  - "Seize Your Moment - Action"
+  - "Our Master’s Will - Reaction"
+  - "Summoning Ritual - Reaction"
+  - "Fallen Hounds - Reaction"
+---
+
 # Secret-Keeper
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

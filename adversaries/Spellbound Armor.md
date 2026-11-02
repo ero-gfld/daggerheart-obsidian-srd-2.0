@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Spellbound Armor"
+tier: 1
+type: "Bruiser"
+description: "An empty suit of full plate armor that glows with a faint corona of ghostly light."
+difficulty: 10
+thresholds: "9/17"
+hp: 6
+stress: "None"
+atk: "+0"
+attack: "Zweihänder"
+range: "Very Close"
+damage: "1d10+1 phy"
+motives_and_tactics: "Clank noisily, move like clockwork, watch silently"
+experience: "Guardian +2"
+features:
+  - "Tireless - Passive"
+  - "Clatter & Recombobulate - Reaction"
+---
+
 # Spellbound Armor
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

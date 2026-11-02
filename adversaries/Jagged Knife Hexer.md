@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jagged Knife Hexer"
+tier: 1
+type: "Support"
+description: "A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes."
+difficulty: 13
+thresholds: "5/9"
+hp: 4
+stress: 4
+atk: "+2"
+attack: "Staff"
+range: "Far"
+damage: "1d6+2 mag"
+motives_and_tactics: "Command, hex, profit"
+experience: "Magical Knowledge +2"
+features:
+  - "Curse - Action"
+  - "Chaotic Flux - Action"
+---
+
 # Jagged Knife Hexer
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

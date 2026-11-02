@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Gilded Sunplate"
+tier: 2
+thresholds: "12/26"
+score: 5
+feature: "Resplendent: Once per scene when you spend Hope, you can clear an Armor Slot."
+---
+
 # Gilded Sunplate
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

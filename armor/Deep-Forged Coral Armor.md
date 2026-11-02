@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Deep-Forged Coral Armor"
+tier: 3
+thresholds: "13/35"
+score: 6
+feature: "Aquatic: You can breathe underwater and gain advantage on Agility Rolls while submerged."
+---
+
 # Deep-Forged Coral Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

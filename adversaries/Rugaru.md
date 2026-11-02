@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Rugaru"
+tier: 1
+type: "Solo"
+description: "A wolf-headed humanoid cursed by the gods to prowl the swamps in search of blood."
+difficulty: 14
+thresholds: "7/14"
+hp: 8
+stress: 4
+atk: "+4"
+attack: "Snapping Jaws"
+range: "Melee"
+damage: "2d8+4 phy"
+motives_and_tactics: "Blaspheme, go for the throat, stalk, terrorize"
+experience: "Swamps +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Child of Night - Passive"
+  - "Bloodthirsty - Passive"
+  - "Howl at the Moon - Action"
+  - "Flesh Ripper - Action"
+---
+
 # Rugaru
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

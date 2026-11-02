@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Hive Walker"
+tier: 2
+type: "Standard"
+description: "A corpse filled with and puppeted by a colony of carrion-eating bees."
+difficulty: 12
+thresholds: "11/24"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Rotting Fist"
+range: "Melee"
+damage: "2d6+3 phy"
+motives_and_tactics: "Encase prey in honey, protect the hive"
+experience: "Meat Eater +2"
+features:
+  - "Blood Honey - Action"
+  - "Bee-Ruption - Reaction"
+---
+
 # Hive Walker
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

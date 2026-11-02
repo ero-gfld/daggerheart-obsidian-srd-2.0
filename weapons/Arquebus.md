@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Arquebus"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Knowledge"
+range: "Far"
+damage: "d8+10 phy"
+burden: "Two-Handed"
+feature: "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+---
+
 # Arquebus
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

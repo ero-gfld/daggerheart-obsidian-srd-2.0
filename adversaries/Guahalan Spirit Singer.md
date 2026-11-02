@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Guahalan Spirit Singer"
+tier: 2
+type: "Support"
+description: "A shapeshifting summoner who has animalistic features."
+difficulty: 14
+thresholds: "9/18"
+hp: 4
+stress: 6
+atk: "+2"
+attack: "Spirit Flame"
+range: "Close"
+damage: "2d6+4 mag"
+motives_and_tactics: "Abjure, bolster, summon"
+experience: "Ritual +3, Ancient History +2"
+features:
+  - "Unleash the Beast - Action"
+  - "Beast-Caller - Action"
+  - "Rage of Spirits - Action"
+  - "Spiritual Sacrifice - Reaction"
+---
+
 # Guahalan Spirit Singer
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

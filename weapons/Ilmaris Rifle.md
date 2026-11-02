@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Ilmari's Rifle"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Finesse"
+range: "Very Far"
+damage: "d6+6 mag"
+burden: "One-Handed"
+feature: "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+---
+
 # Ilmari's Rifle
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

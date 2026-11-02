@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cephilith Abomination"
+tier: 4
+type: "Bruiser"
+description: "A lumbering, bog-grown frog beast that has tadpolelike leeches visibly wriggling underneath their translucent skin."
+difficulty: 19
+thresholds: "35/70"
+hp: 7
+stress: 5
+atk: "+4"
+attack: "Meaty Fists"
+range: "Melee"
+damage: "4d10+10 phy"
+motives_and_tactics: "Do the heavy lifting, leap menacingly, move surprisingly fast, smash and grab"
+experience: "Brute +3"
+features:
+  - "Toxic Skin - Passive"
+  - "Bear Hug - Action"
+  - "Crunch! - Action"
+  - "Tongue Attack - Action"
+  - "Burrowing Leechpoles - Reaction"
+---
+
 # Cephilith Abomination
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

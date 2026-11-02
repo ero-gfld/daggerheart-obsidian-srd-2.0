@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Wyrmlings"
+tier: 4
+type: "Horde"
+horde: 3
+description: "A clutch of newly hatched dragons. As newborns, they’re furious, hungry, and stupid."
+difficulty: 17
+thresholds: "25/45"
+hp: 8
+stress: 5
+atk: "+2"
+attack: "Tiny Jaws & Claws"
+range: "Melee"
+damage: "4d6+10 phy"
+motives_and_tactics: "Consume, shred, swarm"
+experience: "Dragon Bond +2"
+features:
+  - "Horde (2d6+5) - Passive"
+  - "Ravenous - Reaction"
+  - "Overwhelm - Reaction"
+---
+
 # Wyrmlings
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

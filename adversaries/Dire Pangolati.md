@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dire Pangolati"
+tier: 2
+type: "Bruiser"
+description: "A carriage-sized pangolin-coati hybrid covered in armor plating. It has a bladed tail it uses to fling razor-sharp scales."
+difficulty: 14
+thresholds: "14/28"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Tail Slash"
+range: "Very Close"
+damage: "2d12+3 phy"
+motives_and_tactics: "Escape with a meal, slice and dice, wade into danger"
+experience: "Climbing +3, Scent Tracking +3"
+features:
+  - "Armor Eater - Passive"
+  - "Blade Spin - Action"
+  - "Blade Fling - Action"
+  - "Keratin Scales - Reaction"
+---
+
 # Dire Pangolati
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

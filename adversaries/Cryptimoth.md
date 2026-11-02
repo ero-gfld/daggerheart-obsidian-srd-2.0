@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cryptimoth"
+tier: 3
+type: "Skulk"
+description: "A large red-eyed moth creature that walks upright and portends mysterious or evil events."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Claws"
+range: "Melee"
+damage: "3d8+5 phy"
+motives_and_tactics: "Echolocate, fly silently, melt into the shadows"
+experience: "Dark Omens +3"
+features:
+  - "Terrifying - Passive"
+  - "Psychic Screech - Action"
+  - "Shadow Swarm - Action"
+  - "Paranoia Glare - Action"
+---
+
 # Cryptimoth
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

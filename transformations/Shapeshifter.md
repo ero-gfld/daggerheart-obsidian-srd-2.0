@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/transformation"
+name: "Shapeshifter"
+description: "Shapeshifters are creatures who can change their physical form."
+features:
+  - "Change Shape"
+  - "Only Skin Deep"
+---
+
 # Shapeshifter
 
 Shapeshifters are creatures who can change their physical form. Whether they were born with this ability, gained it as a result of magical craft or a curse, or received this power from an otherworldly entity, shapeshifters have a unique relationship with their identity. Because shapeshifters can transform into any ancestry—one moment living as a small and nimble faerie and the next as a large and tough galapa— their experiences with the outside world can vary greatly from day to day.

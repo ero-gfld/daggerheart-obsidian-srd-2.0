@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Shapeshifting Fiend"
+tier: 3
+type: "Social"
+description: "An evil entity who impersonates a trusted figure."
+difficulty: 17
+thresholds: "20/32"
+hp: 4
+stress: 8
+atk: "+3"
+attack: "Hidden Blade"
+range: "Melee"
+damage: "3d8+3 phy"
+motives_and_tactics: "Impersonate, sow discord, tempt betrayal"
+experience: "Manipulate +3, Mimic +2"
+features:
+  - "Fiendish Nature - Passive"
+  - "Impersonate - Action"
+  - "Turn Invisible - Action"
+  - "Backhanded Guidance - Reaction"
+  - "Exposed! (Phase Change) - Reaction"
+---
+
 # Shapeshifting Fiend
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

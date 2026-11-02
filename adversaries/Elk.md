@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Elk"
+tier: 1
+type: "Skulk"
+description: "A large deer."
+difficulty: 13
+thresholds: "4/8"
+hp: 3
+stress: 2
+atk: "+0"
+attack: "Antlers"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Bound away, graze, rut, sense danger"
+experience: "Keen Senses +3, Run +3"
+features:
+  - "Headbutt - Passive"
+  - "Bolt - Reaction"
+---
+
 # Elk
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

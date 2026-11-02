@@ -1,3 +1,15 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Equipment"
+description: "Your equipped weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet."
+sections:
+  - "WEAPONS"
+  - "ARMOR"
+  - "LOOT"
+  - "GOLD"
+---
+
 # Equipment
 
 Your **equipped** weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can’t equip weapons or armor with a higher [tier](Core%20Mechanics.md#LEVELING%20UP) than you.

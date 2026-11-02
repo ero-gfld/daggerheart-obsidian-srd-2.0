@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Kelpie"
+tier: 1
+type: "Skulk"
+description: "A river-dwelling shapeshifter who prefers an enchanting equine form in and out of the water."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 5
+atk: "-2"
+attack: "Hooves"
+range: "Very Close"
+damage: "1d8+2 phy"
+motives_and_tactics: "Adopt an attractive or useful shape, drown and devour, entice unwary travelers"
+experience: "Entanglement +3, Mind Reader +3"
+features:
+  - "Captivating - Passive"
+  - "Heart’s Desire - Passive"
+  - "Shapeshifter - Action"
+  - "Enchant - Action"
+---
+
 # Kelpie
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

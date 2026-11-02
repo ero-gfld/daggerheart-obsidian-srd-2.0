@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Runes of Fortification"
+tier: 3
+thresholds: "17/43"
+score: 6
+feature: "Painful: Each time you mark an Armor Slot, you must mark a Stress."
+---
+
 # Runes of Fortification
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Entombed Skin Beetles"
+tier: 2
+type: "Horde"
+horde: 5
+description: "Flesh-eating beetles that burrow beneath the skin."
+difficulty: 14
+thresholds: "10/20"
+hp: 5
+stress: 3
+atk: "+0"
+attack: "Pincers"
+range: "Melee"
+damage: "2d8+2 phy"
+motives_and_tactics: "Carpet the ground, consume the living, crawl under clothing"
+experience: "Tombs +3"
+features:
+  - "Horde (2d4+1) - Passive"
+  - "Momentum - Passive"
+  - "Omophagous - Action"
+---
+
 # Entombed Skin Beetles
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (5/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

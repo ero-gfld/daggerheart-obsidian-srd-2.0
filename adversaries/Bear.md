@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Bear"
+tier: 1
+type: "Bruiser"
+description: "A large bear with thick fur and powerful claws."
+difficulty: 14
+thresholds: "9/17"
+hp: 7
+stress: 2
+atk: "+1"
+attack: "Claws"
+range: "Melee"
+damage: "1d8+3 phy"
+motives_and_tactics: "Climb, defend territory, pummel, track"
+experience: "Ambusher +3, Keen Senses +2"
+features:
+  - "Overwhelming Force - Passive"
+  - "Bite - Action"
+  - "Momentum - Reaction"
+---
+
 # Bear
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

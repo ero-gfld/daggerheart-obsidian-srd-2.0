@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Entombed Elite Guard"
+tier: 2
+type: "Standard"
+description: "An elite undead soldier buried with their empress to defend the tomb from theft and desecration."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+2"
+attack: "Curved Blade"
+range: "Melee"
+damage: "2d10+2 phy"
+motives_and_tactics: "Form up, protect the empress, strike as one"
+experience: "Soldier +3"
+features:
+  - "Battle Formation - Passive"
+  - "Javelin - Action"
+---
+
 # Entombed Elite Guard
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

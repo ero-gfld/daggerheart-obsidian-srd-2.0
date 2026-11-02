@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Great Predator"
+tier: 3
+examples: "Dire Wolf, Velociraptor, Sabertooth Tiger, etc."
+trait_bonus: "Strength +2"
+evasion: "+2"
+attack: "Melee Strength d12+8 phy"
+advantages: "attack, sneak, sprint"
+features:
+  - "Carrier"
+  - "Vicious Maul"
+---
+
 # Great Predator
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** ([Dire Wolf](../adversaries/Dire%20Wolf.md), Velociraptor, Sabertooth Tiger, etc.)

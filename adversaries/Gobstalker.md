@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Gobstalker"
+tier: 2
+type: "Solo"
+description: "A fleshy, floating ball of teeth that has numerous eyes and a bundle of questing mouth tentacles that shoot magic beams."
+difficulty: 15
+thresholds: "10/20"
+hp: 8
+stress: 6
+atk: "+2"
+attack: "Mouth Tentacles"
+range: "Very Close"
+damage: "2d6+3 phy"
+motives_and_tactics: "Ambush rivals, seek riches, shoot beams"
+experience: "Magic +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Anti-Mystica-Halitosis - Passive"
+  - "Tentacle Rays - Action"
+  - "Leech Lick - Reaction"
+---
+
 # Gobstalker
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

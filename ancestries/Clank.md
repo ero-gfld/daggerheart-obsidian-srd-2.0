@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Clank"
+description: "Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone."
+features:
+  - "Purposeful Design"
+  - "Efficient"
+---
+
 # Clank
 
 Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone. They can resemble humanoids, animals, or even inanimate objects. Like organic beings, their bodies come in a wide array of sizes. Because of their bespoke construction, many clanks have highly specialized physical configurations. Examples include clawed hands for grasping, wheels for movement, or built-in weaponry.

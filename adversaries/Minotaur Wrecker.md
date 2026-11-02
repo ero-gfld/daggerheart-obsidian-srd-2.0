@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Minotaur Wrecker"
+tier: 2
+type: "Bruiser"
+description: "A massive bull-headed firbolg with a quick temper."
+difficulty: 16
+thresholds: "14/27"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Battleaxe"
+range: "Very Close"
+damage: "2d8+5 phy"
+motives_and_tactics: "Consume, gore, navigate, overpower, pursue"
+experience: "Navigation +2"
+features:
+  - "Ramp Up - Passive"
+  - "Charging Bull - Action"
+  - "Gore - Action"
+---
+
 # Minotaur Wrecker
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

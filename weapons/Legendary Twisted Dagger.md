@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Twisted Dagger"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d8+9 phy"
+burden: "One-Handed"
+feature: "Piercing: Damage dealt with this weapon treats the target’s Major threshold as having a −2 penalty."
+---
+
 # Legendary Twisted Dagger
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

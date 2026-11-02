@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Legendary Brigandine Armor"
+tier: 4
+thresholds: "13/35"
+score: 6
+feature: "Lined: Mark a Stress to negate Minor damage."
+---
+
 # Legendary Brigandine Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

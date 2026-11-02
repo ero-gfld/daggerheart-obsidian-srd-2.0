@@ -1,3 +1,30 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Young Ice Dragon"
+tier: 3
+type: "Solo"
+description: "A glacier-blue dragon with four powerful limbs and frost-tinged wings."
+difficulty: 18
+thresholds: "21/41"
+hp: 10
+stress: 6
+atk: "+7"
+attack: "Bite and Claws"
+range: "Close"
+damage: "4d10 phy"
+motives_and_tactics: "Avalanche, defend lair, fly, freeze, defend what is mine, maul"
+experience: "Protect What Is Mine +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Rend and Crush - Passive"
+  - "No Hope - Passive"
+  - "Blizzard Breath - Action"
+  - "Avalanche - Action"
+  - "Frozen Scales - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Young Ice Dragon
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

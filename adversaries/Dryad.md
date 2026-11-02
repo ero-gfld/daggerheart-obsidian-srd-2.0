@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dryad"
+tier: 3
+type: "Leader"
+description: "A nature spirit in the form of a humanoid tree."
+difficulty: 16
+thresholds: "24/38"
+hp: 8
+stress: 5
+atk: "+4"
+attack: "Deadfall Shortbow"
+range: "Far"
+damage: "3d10+1 phy"
+motives_and_tactics: "Command, cultivate, drive out, preserve the forest"
+experience: "Forest Knowledge +4"
+features:
+  - "Bramble Patch - Action"
+  - "Grow Saplings - Action"
+  - "We Are All One - Reaction"
+---
+
 # Dryad
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

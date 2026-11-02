@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Legendary Hybrid"
+tier: 3
+examples: "Griffon, Sphinx, etc."
+trait_bonus: "Strength +2"
+evasion: "+3"
+attack: "Melee Strength d10+8 phy"
+features:
+  - "Hybrid Features"
+---
+
 # Legendary Hybrid
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Griffon, Sphinx, etc.)

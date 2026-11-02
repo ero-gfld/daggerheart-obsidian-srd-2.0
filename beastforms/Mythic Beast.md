@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Mythic Beast"
+tier: 4
+examples: "Upgraded Tier 1 or Tier 2 Options"
+features:
+  - "Evolved"
+---
+
 # Mythic Beast
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Upgraded [Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP) or [Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP) Options)

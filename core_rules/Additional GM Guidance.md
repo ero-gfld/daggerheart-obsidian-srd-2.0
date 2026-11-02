@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Additional GM Guidance"
+description: "This section provides additional guidance for preparing and running a session of Daggerheart."
+---
+
 # Additional GM Guidance
 
 *This section provides additional guidance for preparing and* *running a session of Daggerheart.*

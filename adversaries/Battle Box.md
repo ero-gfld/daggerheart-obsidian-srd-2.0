@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Battle Box"
+tier: 2
+type: "Solo"
+description: "A cube-shaped construct with a different rune on each of their six sides."
+difficulty: 15
+thresholds: "10/20"
+hp: 8
+stress: 6
+atk: "+2"
+attack: "Slam"
+range: "Melee"
+damage: "2d6+3 phy"
+motives_and_tactics: "Change tactics, trample foes, wait in disguise"
+experience: "Camouflage +2"
+features:
+  - "Relentless (2) - Passive"
+  - "Randomized Tactics - Action"
+  - "Overcharge - Reaction"
+  - "Death Quake - Reaction"
+---
+
 # Battle Box
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

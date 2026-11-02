@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Phoenix"
+tier: 3
+type: "Ranged"
+description: "A huge eagle that’s made of magical flame, impossible to kill, and hunted for its healing plumage."
+difficulty: 18
+thresholds: "19/30"
+hp: 6
+stress: 6
+atk: "+4"
+attack: "Fire Bolt"
+range: "Very Far"
+damage: "3d10+3 mag"
+motives_and_tactics: "Flee pursuers, live brilliantly, soar through the heavens, wield light and flame"
+experience: "Bright +4, Legendary +3"
+features:
+  - "Purifying Aura - Passive"
+  - "Fireseed - Reaction"
+  - "Resurrection - Evolution"
+---
+
 # Phoenix
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

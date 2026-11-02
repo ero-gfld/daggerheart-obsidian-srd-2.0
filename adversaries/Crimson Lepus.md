@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Crimson Lepus"
+tier: 3
+type: "Solo"
+description: "A red-eyed rabbit that thinks only of murder."
+difficulty: 18
+thresholds: "20/35"
+hp: 10
+stress: 6
+atk: "+3"
+attack: "Leaping Bite"
+range: "Very Close"
+damage: "3d20 phy"
+motives_and_tactics: "Be cute, go for the throat, hop around"
+experience: "Vicious +4"
+features:
+  - "Relentless (3) - Passive"
+  - "“Awww...” - Passive"
+  - "Terrifying - Passive"
+  - "Leaping Jugular Strike - Action"
+  - "Evasive - Reaction"
+  - "“Run Away!” - Reaction"
+---
+
 # Crimson Lepus
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

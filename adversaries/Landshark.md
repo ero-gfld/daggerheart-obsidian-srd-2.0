@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Landshark"
+tier: 2
+type: "Bruiser"
+description: "A quadrupedal shark that swims through the ground."
+difficulty: 14
+thresholds: "14/25"
+hp: 7
+stress: 3
+atk: "+2"
+attack: "Toothy Maw"
+range: "Very Close"
+damage: "2d10+2 phy"
+motives_and_tactics: "Burrow, burst out of the ground, circle prey"
+experience: "Subterranean +3, Bloodthirsty +2"
+features:
+  - "Burrowing - Passive"
+  - "Thick-Skinned - Passive"
+  - "Rending Chomp - Reaction"
+---
+
 # Landshark
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

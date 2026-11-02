@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Elemental Origin"
+class: "Sorcerer"
+spellcast_trait: "Instinct"
+description: "Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element."
+features:
+  - "Elementalist"
+  - "Natural Evasion"
+  - "Transcendence"
+---
+
 # Elemental Origin
 
 Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.

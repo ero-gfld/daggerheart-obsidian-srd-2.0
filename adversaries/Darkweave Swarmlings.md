@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Darkweave Swarmlings"
+tier: 1
+type: "Horde"
+horde: 8
+description: "A teeming swarm of tiny spiders woven out of shadow-silk."
+difficulty: 9
+thresholds: "4/8"
+hp: 8
+stress: 4
+atk: "+0"
+attack: "Nibble"
+range: "Melee"
+damage: "1d8 phy"
+motives_and_tactics: "Burst out of holes, climb up legs, crawl into ears, scuttle under clothes"
+experience: "Climb +2"
+features:
+  - "Horde (1d4) - Passive"
+  - "“Get ’em Off, Get ’em Off!” - Reaction"
+---
+
 # Darkweave Swarmlings
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (8/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

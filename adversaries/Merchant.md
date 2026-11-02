@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Merchant"
+tier: 1
+type: "Social"
+description: "A finely dressed trader with a keen eye for financial gain."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 3
+atk: "-4"
+attack: "Club"
+range: "Melee"
+damage: "1d4+1 phy"
+motives_and_tactics: "Buy low and sell high, create demand, inflate prices, seek profit"
+experience: "Shrewd Negotiator +3"
+features:
+  - "Preferential Treatment - Passive"
+  - "The Runaround - Passive"
+---
+
 # Merchant
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

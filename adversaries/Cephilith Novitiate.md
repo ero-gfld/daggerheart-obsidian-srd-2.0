@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cephilith Novitiate"
+tier: 4
+type: "Minion"
+description: "A luminary of the Mortal Realm who has given their mind to extradimensional entities in exchange for eldritch abilities."
+difficulty: 16
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+2"
+attack: "Eldritch Might"
+range: "Melee"
+damage: "12 phy"
+motives_and_tactics: "Help others see the Truth, make way for It, seek forbidden knowledge"
+experience: "Visions +2"
+features:
+  - "Minion (12) - Passive"
+  - "Group Attack - Action"
+  - "Sacrifice Self - Action"
+---
+
 # Cephilith Novitiate
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

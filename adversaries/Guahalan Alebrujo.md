@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Guahalan Alebrujo"
+tier: 2
+type: "Solo"
+description: "A huge, colorful, chimeric beast formed from many animals."
+difficulty: 14
+thresholds: "13/26"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Tooth & Claw"
+range: "Very Close"
+damage: "2d10+4 mag"
+motives_and_tactics: "Destroy, give no quarter, ravage"
+experience: "Brutal +2, Quick +2"
+features:
+  - "The Beast Unleashed - Passive"
+  - "Guahalan Sacrifice - Action"
+  - "Howl of the Guahala - Action"
+  - "Rip & Tear - Action"
+  - "Brutal Spectacle - Reaction"
+---
+
 # Guahalan Alebrujo
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

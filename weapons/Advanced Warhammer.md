@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Warhammer"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d12+9 phy"
+burden: "Two-Handed"
+feature: "Heavy: −1 to Evasion"
+---
+
 # Advanced Warhammer
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

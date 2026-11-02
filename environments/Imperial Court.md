@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Imperial Court"
+tier: 4
+type: "Social"
+description: "The majestic domain of a powerful empire, lavishly appointed with stolen treasures."
+difficulty: 20
+impulses: "Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort"
+potential_adversaries: "Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy"
+features:
+  - "All Roads Lead Here - Passive"
+  - "Rival Vassals - Passive"
+  - "The Gravity of Empire - Action"
+  - "Imperial Decree - Action"
+  - "Eyes Everywhere - Reaction"
+---
+
 # Imperial Court
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

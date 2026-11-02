@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/class"
+name: "Warrior"
+domains:
+  - "Blade"
+  - "Bone"
+evasion: 11
+hp: 6
+subclasses:
+  - "Call of the Brave"
+  - "Call of the Slayer"
+items: "The drawing of a lover or a sharpening stone"
+description: "Becoming a warrior requires years, often a lifetime, of training and dedication to the mastery of weapons and violence."
+---
+
 # Warrior
 
 Becoming a warrior requires years, often a lifetime, of training and dedication to the mastery of weapons and violence. While many who seek to fight hone only their strength, warriors understand the importance of an agile body and mind, making them some of the most sought-after fighters across the realms. Frequently, warriors find employment within an army, a band of mercenaries, or even a royal guard, but their potential is wasted in any position where they cannot continue to improve and expand their skills. Warriors are known to have a favored weapon; to come between them and their blade would be a grievous mistake.

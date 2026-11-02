@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Pack Predator"
+tier: 1
+examples: "Coyote, Hyena, Wolf, etc."
+trait_bonus: "Strength +2"
+evasion: "+1"
+attack: "Melee Strength d8+2 phy"
+advantages: "attack, sprint, track"
+features:
+  - "Hobbling Strike"
+  - "Pack Hunting"
+---
+
 # Pack Predator
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Coyote, Hyena, Wolf, etc.)

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Urco"
+tier: 2
+type: "Standard"
+description: "A black-furred hound from beyond the veil of death that portends death and feeds on fear."
+difficulty: 15
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Black Fang"
+range: "Melee"
+damage: "2d8+4 mag"
+motives_and_tactics: "Feed, frighten, hunt"
+experience: "Omens +3, Stealth +3"
+features:
+  - "Fearmonger - Passive"
+  - "Terror-Fueled - Passive"
+  - "Fear Eater - Action"
+  - "Baleful Gaze - Reaction"
+---
+
 # Urco
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

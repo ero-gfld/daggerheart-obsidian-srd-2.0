@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Moon Kingdom"
+tier: 4
+type: "Exploration"
+description: "The mysterious, luminous, and isolated ruins of a long-lost lunar kingdom that echoes with forgotten magic and ancient technology."
+difficulty: 20
+impulses: "Blur the line between dream and reality, let consciousness ebb and flow like the tide, whisper echoes of ancient opulence"
+potential_adversaries: "Local Fauna (Cryptimoths, Yufos), Moon Queen’s Spirit (Arch-Necromancer), Reawakened Relics (Constructs, Vault Guardians)"
+features:
+  - "Dreamlike Atmosphere - Passive"
+  - "Silent Ruins - Passive"
+  - "Lunar Astrologium - Passive"
+  - "The Moon Queen’s Tomb - Reaction"
+---
+
 # Moon Kingdom
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

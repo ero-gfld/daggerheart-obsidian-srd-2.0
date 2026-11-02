@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Poisoners Guild"
+class: "Assassin"
+spellcast_trait: "Knowledge"
+description: "Play the Poisoners Guild if you want to debilitate your targets with punishing afflictions."
+features:
+  - "Toxic Concoctions"
+  - "Poison Compendium"
+  - "Twin Fang"
+  - "Venomancer"
+  - "Adder’s Blessing"
+---
+
 # Poisoners Guild
 
 Play the Poisoners Guild if you want to debilitate your targets with punishing afflictions.

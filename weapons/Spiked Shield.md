@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Spiked Shield"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d6+2 phy"
+burden: "One-Handed"
+feature: "Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range"
+---
+
 # Spiked Shield
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

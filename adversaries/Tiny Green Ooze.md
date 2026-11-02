@@ -1,3 +1,23 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Tiny Green Ooze"
+tier: 1
+type: "Skulk"
+description: "A small moving mound of translucent green slime."
+difficulty: 14
+thresholds: "4/None"
+hp: 2
+stress: 1
+atk: "-1"
+attack: "Ooze Appendage"
+range: "Melee"
+damage: "1d4+1 mag"
+motives_and_tactics: "Camouflage, creep up"
+features:
+  - "Acidic Form - Passive"
+---
+
 # Tiny Green Ooze
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

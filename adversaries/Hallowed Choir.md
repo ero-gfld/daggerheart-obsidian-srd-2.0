@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Hallowed Choir"
+tier: 4
+type: "Horde"
+horde: 6
+description: "A heavenly host of winged humanoids whose song calls forth tears of religious awe."
+difficulty: 17
+thresholds: "24/48"
+hp: 7
+stress: 6
+atk: "+2"
+attack: "Choral Blast"
+range: "Far"
+damage: "4d10 mag"
+motives_and_tactics: "Drown out disbelief, raise voices"
+experience: "Music +2"
+features:
+  - "Horde (2d10) - Passive"
+  - "Celestial Coda - Passive"
+  - "Aural Assault - Action"
+---
+
 # Hallowed Choir
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (6/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

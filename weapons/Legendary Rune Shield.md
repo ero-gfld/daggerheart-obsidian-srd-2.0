@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Rune Shield"
+tier: 4
+category: "Secondary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d4+6 mag"
+burden: "One-Handed"
+feature: "Protective: +4 to Armor Score"
+---
+
 # Legendary Rune Shield
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Outpost Town"
+tier: 1
+type: "Social"
+description: "A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations."
+difficulty: 12
+impulses: "Drive the desperate to certain doom, profit off of ragged hope"
+potential_adversaries: "Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant"
+features:
+  - "Rumors Abound - Passive"
+  - "Society of the Broken Compass - Passive"
+  - "Rival Party - Passive"
+  - "It’d Be a Shame If Something Happened to Your Store - Action"
+  - "Wrong Place, Wrong Time - Reaction"
+---
+
 # Outpost Town
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

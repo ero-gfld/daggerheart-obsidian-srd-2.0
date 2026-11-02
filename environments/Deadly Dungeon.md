@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Deadly Dungeon"
+tier: 2
+type: "Exploration"
+description: "A dimly lit subterranean network of tunnels and chambers filled with monsters, traps, and treasure."
+difficulty: 14
+impulses: "Devour the party’s resources, spring the trap, tempt them with treasure, throw monsters at them, turn them around"
+potential_adversaries: "Dungeon Denizens (Gobstalker, Green Ooze, Ravenous Mockery, Rust Eater), Rival Adventurers (Giant Brawler, Masked Thief, War Wizard)"
+features:
+  - "Twists and Turns - Passive"
+  - "Deep Pockets - Passive"
+  - "Wandering Monster - Reaction"
+  - "Booby Traps - Reaction"
+---
+
 # Deadly Dungeon
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

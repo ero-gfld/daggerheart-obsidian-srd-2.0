@@ -1,3 +1,12 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Domains"
+description: "There are ten Domains, each comprising a collection of cards granting features or special abilities expressing a particular theme."
+sections:
+  - "CLASS DOMAINS"
+---
+
 # Domains
 
 There are ten Domains, each comprising a collection of cards granting features or special abilities expressing a particular theme. Please note the Daggerheart Core Set includes only the following nine domains: [Arcana](../domains/Arcana.md), [Blade](../domains/Blade.md), [Bone](../domains/Bone.md), [Codex](../domains/Codex.md), [Grace](../domains/Grace.md), [Midnight](../domains/Midnight.md), [Sage](../domains/Sage.md), [Splendor](../domains/Splendor.md), and [Valor](../domains/Valor.md).

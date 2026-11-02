@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Entombed Necropriest"
+tier: 2
+type: "Support"
+description: "A necromancer charged with preserving the empress’s life beyond death."
+difficulty: 13
+thresholds: "8/16"
+hp: 3
+stress: 7
+atk: "+2"
+attack: "Death Bolt"
+range: "Far"
+damage: "2d6+2 mag"
+motives_and_tactics: "Boost allies, conquer time, hold down enemies, serve the empress, wield death as a weapon"
+experience: "Dark Magic +4, Protect +2"
+features:
+  - "Invigorate - Action"
+  - "Last Grasp - Action"
+  - "Chill Touch - Action"
+---
+
 # Entombed Necropriest
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Scorpion"
+tier: 1
+type: "Bruiser"
+description: "A human-sized arachnid with tearing claws and a stinging tail."
+difficulty: 13
+thresholds: "7/13"
+hp: 6
+stress: 3
+atk: "+1"
+attack: "Pincers"
+range: "Melee"
+damage: "1d12+2 phy"
+motives_and_tactics: "Ambush, feed, grapple, poison"
+experience: "Camouflage +2"
+features:
+  - "Double Strike - Action"
+  - "Venomous Stinger - Action"
+  - "Momentum - Reaction"
+---
+
 # Giant Scorpion
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

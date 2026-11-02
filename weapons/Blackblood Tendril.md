@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Blackblood Tendril"
+tier: 4
+category: "Secondary"
+type: "Magical"
+trait: "Instinct"
+range: "Close"
+damage: "d6+8 mag"
+burden: "One-Handed"
+feature: "Poisonous: When a target marks any number of Hit Points from an attack you rolled with Fear, they mark an equal number of Stress."
+---
+
 # Blackblood Tendril
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

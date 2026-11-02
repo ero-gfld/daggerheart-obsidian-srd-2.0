@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Black Powder Serpentine"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Far"
+damage: "d8+12 phy"
+burden: "Two-Handed"
+feature: "Incendiary: −1 to Agility; on a successful attack, all creatures within Very Close range of the target must mark a Hit Point."
+---
+
 # Black Powder Serpentine
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

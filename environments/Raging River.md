@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Raging River"
+tier: 1
+type: "Traversal"
+description: "A swift-moving river without a bridge crossing, deep enough to sweep away most people."
+difficulty: 10
+impulses: "Bar crossing, carry away the unready, divide the land"
+potential_adversaries: "Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)"
+features:
+  - "Dangerous Crossing - Passive"
+  - "Undertow - Action"
+  - "Patient Hunter - Action"
+---
+
 # Raging River
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

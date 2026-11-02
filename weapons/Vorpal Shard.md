@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Vorpal Shard"
+tier: 3
+category: "Secondary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d4 mag"
+burden: "One-Handed"
+feature: "Targeted: When you fail a weapon attack, you can spend a Hope to succeed on your next weapon attack."
+---
+
 # Vorpal Shard
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

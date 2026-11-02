@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Communities"
+description: "Communities represent a key aspect of the culture, class, or environment of origin that has had the most influence over your character’s upbringing."
+---
+
 # Communities
 
 Communities represent a key aspect of the **culture, class,** or **[environment](Using%20Environments.md) of origin** that has had the most influence over your character’s upbringing.

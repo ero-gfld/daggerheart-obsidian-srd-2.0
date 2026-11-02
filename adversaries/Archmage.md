@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Archmage"
+tier: 3
+type: "Solo"
+description: "A seeker of secret knowledge hidden away in a tome-filled tower."
+difficulty: 18
+thresholds: "24/45"
+hp: 5
+stress: 8
+atk: "+5"
+attack: "Archmage’s Greatstaff"
+range: "Far"
+damage: "3d10 mag"
+motives_and_tactics: "Corrupt, destroy, overwhelm with evil power"
+experience: "Esoterica +4"
+features:
+  - "Relentless (3) - Passive"
+  - "Orbiting Aegis - Passive"
+  - "Force Salvo - Action"
+  - "Fireball - Action"
+  - "Counterspell - Reaction"
+---
+
 # Archmage
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

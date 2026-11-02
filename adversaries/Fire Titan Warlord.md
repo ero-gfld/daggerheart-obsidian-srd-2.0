@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fire Titan Warlord"
+tier: 4
+type: "Leader"
+description: "A smoldering, battle-obsessed goliath wearing bespoke armor and wielding a massive maul."
+difficulty: 21
+thresholds: "33/66"
+hp: 9
+stress: 8
+atk: "+6"
+attack: "Maul"
+range: "Very Close"
+damage: "4d10+10 phy"
+motives_and_tactics: "Compete against rivals, conquer the weak, craft colossal war machines"
+experience: "Tactics +4"
+features:
+  - "Relentless (2) - Passive"
+  - "Colossus Crafter - Passive"
+  - "Release the Hounds - Action"
+  - "Spinning Strike - Action"
+  - "Ground-Breaking - Action"
+---
+
 # Fire Titan Warlord
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Focus Runes"
+tier: 4
+category: "Secondary"
+type: "Magical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d6+6 mag"
+burden: "One-Handed"
+feature: "Focused: +1 to primary weapon damage to targets within Very Close range"
+---
+
 # Legendary Focus Runes
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

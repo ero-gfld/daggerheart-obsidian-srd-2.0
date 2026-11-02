@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Shadowblade"
+tier: 1
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Melee"
+damage: "d8 phy/mag"
+burden: "One-Handed"
+feature: "Otherworldly: On a successful attack, you can deal physical or magic damage."
+---
+
 # Shadowblade
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

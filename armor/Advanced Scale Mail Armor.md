@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Advanced Scale Mail Armor"
+tier: 3
+thresholds: "13/30"
+score: 5
+feature: "Cumbersome: −1 to Finesse"
+---
+
 # Advanced Scale Mail Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

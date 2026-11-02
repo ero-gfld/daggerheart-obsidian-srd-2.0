@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Lance"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d10+5 phy"
+burden: "Two-Handed"
+feature: "Cumbersome: −1 to Finesse"
+---
+
 # Lance
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

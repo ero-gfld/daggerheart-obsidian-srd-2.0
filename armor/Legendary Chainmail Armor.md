@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Legendary Chainmail Armor"
+tier: 4
+thresholds: "15/40"
+score: 7
+feature: "Heavy: −1 to Evasion"
+---
+
 # Legendary Chainmail Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

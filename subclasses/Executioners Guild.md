@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Executioners Guild"
+class: "Assassin"
+spellcast_trait: "Agility"
+description: "Play the Executioners Guild if you want to strike down your targets with lethal precision."
+features:
+  - "First Strike"
+  - "Ambush"
+  - "Death Strike"
+  - "Scorpion’s Poise"
+  - "True Strike"
+  - "Backstab"
+---
+
 # Executioners Guild
 
 Play the Executioners Guild if you want to strike down your targets with lethal precision.

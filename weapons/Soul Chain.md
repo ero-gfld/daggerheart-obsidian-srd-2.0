@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Soul Chain"
+tier: 3
+category: "Secondary"
+type: "Magical"
+trait: "Presence"
+range: "Very Close"
+damage: "d6+5 mag"
+burden: "One-Handed"
+feature: "Draining: On a successful attack, you can spend a Hope to force the target to mark a Stress. If they do, you clear a Stress."
+---
+
 # Soul Chain
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

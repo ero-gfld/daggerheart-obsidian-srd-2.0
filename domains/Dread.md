@@ -1,3 +1,14 @@
+---
+tags:
+  - "daggerheart/domain"
+name: "Dread"
+description: "Dread is the domain of nightmares and fear."
+classes:
+  - "Warlock"
+  - "Witch"
+cards: 21
+---
+
 # Dread
 
 Dread is the domain of **nightmares and fear.** Those who choose this path can call forth monstrosities, enfeeble their foes, and channel terrifying magic to destroy their enemies. Dread grants its adherents power over forces most are too afraid to employ. The Dread domain can be accessed by the **[Warlock](../classes/Warlock.md)** and **[Witch](../classes/Witch.md)** classes.

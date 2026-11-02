@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Harrier"
+tier: 1
+type: "Standard"
+description: "A nimble fighter armed with javelins."
+difficulty: 12
+thresholds: "5/9"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Javelin"
+range: "Close"
+damage: "1d6+2 phy"
+motives_and_tactics: "Flank, harry, kite, profit"
+experience: "Camouflage +2"
+features:
+  - "Maintain Distance - Passive"
+  - "Fall Back - Reaction"
+---
+
 # Harrier
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Scepter"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Far"
+damage: "d6+3 mag"
+burden: "Two-Handed"
+feature: "Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+3."
+---
+
 # Improved Scepter
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

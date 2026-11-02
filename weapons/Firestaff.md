@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Firestaff"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Far"
+damage: "d6+7 mag"
+burden: "Two-Handed"
+feature: "Burning: When you roll a 6 on a damage die, the target must mark a Stress."
+---
+
 # Firestaff
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

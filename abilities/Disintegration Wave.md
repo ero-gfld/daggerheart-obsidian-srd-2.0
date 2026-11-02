@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Disintegration Wave"
+domain: "Codex"
+level: 9
+type: "Spell"
+recall: 4
+---
+
 # Disintegration Wave
 
 ***[Level 9](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Codex](../domains/Codex.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *4.*

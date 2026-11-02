@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Vault Guardian Turret"
+tier: 3
+type: "Ranged"
+description: "A massive living turret with reinforced armor and twelve piston-driven mechanical legs."
+difficulty: 16
+thresholds: "20/32"
+hp: 5
+stress: 4
+atk: "+3"
+attack: "Magitech Cannon"
+range: "Far"
+damage: "3d10+3 mag"
+motives_and_tactics: "Concentrate fire, lock down, mark, protect"
+features:
+  - "Slow Firing - Passive"
+  - "Mark Target - Action"
+  - "Concentrate Fire - Reaction"
+  - "Detonation - Reaction"
+---
+
 # Vault Guardian Turret
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

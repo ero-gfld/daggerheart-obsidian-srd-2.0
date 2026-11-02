@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Hand Runes"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d10+3 mag"
+burden: "One-Handed"
+---
+
 # Improved Hand Runes
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

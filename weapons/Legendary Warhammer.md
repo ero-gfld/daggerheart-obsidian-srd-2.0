@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Warhammer"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d12+12 phy"
+burden: "Two-Handed"
+feature: "Heavy: −1 to Evasion"
+---
+
 # Legendary Warhammer
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

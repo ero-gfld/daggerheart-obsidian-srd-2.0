@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Redcap Skinner"
+tier: 1
+type: "Minion"
+description: "A cat-sized fey creature wielding a straight razor and wearing a conical red cap sealed on their head with candle wax."
+difficulty: 9
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Razor"
+range: "Melee"
+damage: "2 phy"
+motives_and_tactics: "Flense, giggle, scrape, slice"
+experience: "Leatherwork +3"
+features:
+  - "Minion (4) - Passive"
+  - "Shallow Cuts - Passive"
+  - "Group Attack - Action"
+---
+
 # Redcap Skinner
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

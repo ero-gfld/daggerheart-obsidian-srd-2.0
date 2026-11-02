@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Yutari Bloodbow"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+4 mag"
+burden: "Two-Handed"
+feature: "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+---
+
 # Yutari Bloodbow
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

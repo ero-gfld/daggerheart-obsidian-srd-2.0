@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Chainmail Armor"
+tier: 1
+thresholds: "7/15"
+score: 4
+feature: "Heavy: −1 to Evasion"
+---
+
 # Chainmail Armor
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

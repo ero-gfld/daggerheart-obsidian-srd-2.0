@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Elephant"
+tier: 2
+type: "Bruiser"
+description: "A huge pachyderm that has large ears and a prehensile trunk."
+difficulty: 15
+thresholds: "14/28"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Feet & Tusks"
+range: "Very Close"
+damage: "2d12 phy"
+motives_and_tactics: "Eat vegetation, protect the herd, socialize"
+experience: "Huge +2, Never Forgets +2"
+features:
+  - "Trample - Action"
+  - "Toss - Reaction"
+---
+
 # Elephant
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

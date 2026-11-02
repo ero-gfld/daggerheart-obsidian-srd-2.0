@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Time Court"
+tier: 4
+type: "Event"
+description: "One or more PCs are forcibly plucked from the timeline and put on trial for crimes against continuity."
+difficulty: 20
+impulses: "Find the truth, mete out justice, nullify their powers"
+potential_adversaries: "Judge (Monarch), Jury (Hallowed Choir), Executioners (Temporal Enforcers)"
+features:
+  - "Out of Time - Passive"
+  - "Trial by Jury - Passive"
+  - "Counsel for the Defense - Passive"
+  - "Counsel for the Prosecution - Action"
+  - "“Order in the Court!” - Reaction"
+---
+
 # Time Court
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/transformation"
+name: "Reanimated"
+description: "Reanimated are corpses who have been brought back to life."
+features:
+  - "Corpse"
+  - "Won’t Stay Dead"
+---
+
 # Reanimated
 
 Reanimated are corpses who have been brought back to life. Whether through a spell, a holy ritual, arcane experimentation, or other unnatural methods, these mortals have returned from beyond the veil of death as undead and are bound to their decaying bodies. Newly reanimated are more likely to look like a typical member of their ancestry, but as they go on, they must patch and repair their bodies with bones, flesh, and other materials harvested from the recently deceased. While some repair their wounds and decay with needle, thread, and herbs, others use magic to incorporate these materials into themselves.

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "A Soldier’s Bond"
+domain: "Blade"
+level: 2
+type: "Ability"
+recall: 1
+---
+
 # A Soldier’s Bond
 
 ***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Blade](../domains/Blade.md) [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*

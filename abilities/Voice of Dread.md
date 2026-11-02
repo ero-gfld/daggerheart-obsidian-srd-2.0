@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Voice of Dread"
+domain: "Dread"
+level: 1
+type: "Spell"
+recall: 0
+---
+
 # Voice of Dread
 
 ***[Level 1](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Dread [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *0.*

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Hydra"
+tier: 3
+type: "Solo"
+description: "A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs."
+difficulty: 18
+thresholds: "19/35"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Bite"
+range: "Close"
+damage: "2d12+2 phy"
+motives_and_tactics: "Devour, regenerate, terrify"
+features:
+  - "Many-Headed Menace - Passive"
+  - "Relentless (X) - Passive"
+  - "Regeneration - Action"
+  - "Terrifying Chorus - Action"
+  - "Magical Weakness - Reaction"
+---
+
 # Hydra
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

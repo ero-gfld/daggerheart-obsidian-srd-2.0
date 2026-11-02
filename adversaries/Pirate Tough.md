@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Pirate Tough"
+tier: 1
+type: "Bruiser"
+description: "A thickly muscled and tattooed pirate with melon-sized fists."
+difficulty: 13
+thresholds: "8/15"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Massive Fists"
+range: "Melee"
+damage: "2d6 phy"
+motives_and_tactics: "Plunder, raid, smash, terrorize"
+experience: "Sailor +2"
+features:
+  - "Swashbuckler - Passive"
+  - "Clear the Decks - Action"
+---
+
 # Pirate Tough
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

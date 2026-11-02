@@ -1,3 +1,12 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Improved Leather Armor"
+tier: 2
+thresholds: "9/20"
+score: 4
+---
+
 # Improved Leather Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

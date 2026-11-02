@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Darkweave Shroud"
+tier: 4
+thresholds: "13/36"
+score: 5
+feature: "Ghostwalker: Once per rest, mark a Stress to move up to Close range through solid objects."
+---
+
 # Darkweave Shroud
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

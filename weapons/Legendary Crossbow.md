@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Crossbow"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+10 phy"
+burden: "One-Handed"
+---
+
 # Legendary Crossbow
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

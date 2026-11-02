@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Tyrannosaurus"
+tier: 2
+type: "Bruiser"
+description: "A huge carnivorous dinosaur that walks on two legs."
+difficulty: 15
+thresholds: "14/28"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Mighty Jaws"
+range: "Very Close"
+damage: "2d10+4 phy"
+motives_and_tactics: "Break through the treeline, eat, stomp around"
+experience: "Predator +3"
+features:
+  - "Earth-Shaking Roar - Action"
+  - "Stomp - Action"
+  - "Crushing Bite - Reaction"
+---
+
 # Tyrannosaurus
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

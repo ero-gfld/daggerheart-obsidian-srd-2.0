@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Petty Noble"
+tier: 1
+type: "Social"
+description: "A richly dressed and adorned aristocrat brimming with hubris."
+difficulty: 14
+thresholds: "6/10"
+hp: 3
+stress: 5
+atk: "-3"
+attack: "Rapier"
+range: "Melee"
+damage: "1d6+1 phy"
+motives_and_tactics: "Abuse power, gather resources, mobilize minions"
+experience: "Aristocrat +3"
+features:
+  - "My Land, My Rules - Passive"
+  - "Guards, Seize Them! - Action"
+  - "Exile - Action"
+---
+
 # Petty Noble
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

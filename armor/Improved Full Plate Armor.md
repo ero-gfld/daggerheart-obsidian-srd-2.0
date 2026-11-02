@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Improved Full Plate Armor"
+tier: 2
+thresholds: "13/28"
+score: 5
+feature: "Very Heavy: −2 to Evasion; −1 to Agility"
+---
+
 # Improved Full Plate Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Elder Bow"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Far"
+damage: "d6+4 mag"
+burden: "Two-Handed"
+feature: "Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+---
+
 # Elder Bow
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Astral Raiment"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Stellar: Mark a Stress to gain advantage on a Spellcast roll."
+---
+
 # Astral Raiment
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

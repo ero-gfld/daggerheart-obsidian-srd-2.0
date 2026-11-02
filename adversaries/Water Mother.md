@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Water Mother"
+tier: 4
+type: "Solo"
+description: "A colossal fur-covered snake that hunts in large bodies of water."
+difficulty: 20
+thresholds: "40/70"
+hp: 12
+stress: 8
+atk: "+8"
+attack: "Bite"
+range: "Very Close"
+damage: "4d10+5 phy"
+motives_and_tactics: "Constrict the world, control the battlefield, draw enemies into the water"
+experience: "Rivers +4"
+features:
+  - "Segmented - Passive"
+  - "Eat the World - Action"
+  - "Constrict - Action"
+  - "Venom Surge - Reaction"
+---
+
 # Water Mother
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

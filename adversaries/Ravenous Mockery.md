@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Ravenous Mockery"
+tier: 2
+type: "Standard"
+description: "A shapeshifting predator that assumes the appearance of inanimate objects to lure unwary prey into its threat range."
+difficulty: 14
+thresholds: "8/19"
+hp: 4
+stress: 4
+atk: "+1"
+attack: "Gnashing Teeth"
+range: "Melee"
+damage: "2d6+4 phy"
+motives_and_tactics: "Ambush, lie in wait, swallow without chewing, take on an unassuming shape"
+experience: "Mimicry +5, Hungry +3"
+features:
+  - "Tongue Attack - Action"
+  - "Devour - Action"
+  - "Never Just One - Action"
+---
+
 # Ravenous Mockery
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

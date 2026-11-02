@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Brightsword"
+tier: 1
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+3 mag"
+burden: "Two-Handed"
+---
+
 # Brightsword
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

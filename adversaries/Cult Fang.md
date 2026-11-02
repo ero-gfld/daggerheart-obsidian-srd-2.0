@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cult Fang"
+tier: 2
+type: "Skulk"
+description: "A professional killer-turned-cultist."
+difficulty: 15
+thresholds: "9/17"
+hp: 4
+stress: 4
+atk: "+2"
+attack: "Long Knife"
+range: "Melee"
+damage: "2d8+4 phy"
+motives_and_tactics: "Capture sacrifices, isolate prey, rise in the ranks"
+features:
+  - "Shadow’s Embrace - Passive"
+  - "Pick Off the Straggler - Action"
+---
+
 # Cult Fang
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

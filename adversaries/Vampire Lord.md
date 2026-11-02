@@ -1,3 +1,32 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Vampire Lord"
+tier: 3
+type: "Solo"
+description: "A cruel vampire lord from a long-lost age, cursed with immortality."
+difficulty: 18
+thresholds: "24/45"
+hp: 7
+stress: 7
+atk: "+5"
+attack: "Claws"
+range: "Melee"
+damage: "3d10+2 phy"
+motives_and_tactics: "Corrupt, destroy, overwhelm with evil power"
+experience: "Evil +3, Noble +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Midnight Heart - Passive"
+  - "Terrifying - Passive"
+  - "Unleash Hellfire - Action"
+  - "Resurgence - Reaction"
+  - "Melt into Shadow - Reaction"
+  - "Hellwing - Evolution"
+  - "On Crimson Wings - Passive"
+  - "Bloodbath - Reaction"
+---
+
 # Vampire Lord
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

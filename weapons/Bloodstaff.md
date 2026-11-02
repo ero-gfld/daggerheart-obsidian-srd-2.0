@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Bloodstaff"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Far"
+damage: "d20+7 mag"
+burden: "Two-Handed"
+feature: "Painful: Each time you make a successful attack, you must mark a Stress."
+---
+
 # Bloodstaff
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

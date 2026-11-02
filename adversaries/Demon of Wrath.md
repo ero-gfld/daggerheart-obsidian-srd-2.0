@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demon of Wrath"
+tier: 3
+type: "Bruiser"
+description: "A hulking demon with boulder-sized fists, driven by endless rage."
+difficulty: 17
+thresholds: "22/40"
+hp: 7
+stress: 5
+atk: "+3"
+attack: "Fists"
+range: "Very Close"
+damage: "3d8+1 mag"
+motives_and_tactics: "Fuel anger, impress rivals, wreak havoc"
+experience: "Intimidation +2"
+features:
+  - "Anger Unrelenting - Passive"
+  - "Battle Lust - Action"
+  - "Retaliation - Reaction"
+  - "Blood and Souls - Reaction"
+---
+
 # Demon of Wrath
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

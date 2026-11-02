@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Eagle"
+tier: 2
+type: "Skulk"
+description: "A giant bird of prey with blood-stained talons."
+difficulty: 14
+thresholds: "8/19"
+hp: 4
+stress: 4
+atk: "+1"
+attack: "Claws and Beak"
+range: "Very Close"
+damage: "2d6+3 phy"
+motives_and_tactics: "Hunt prey, stay mobile, strike decisively"
+features:
+  - "Flight - Passive"
+  - "Deadly Dive - Action"
+  - "Take Off - Action"
+  - "Deadly Drop - Action"
+---
+
 # Giant Eagle
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

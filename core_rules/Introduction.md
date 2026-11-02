@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Introduction"
+description: "This is the Daggerheart SRD (System Reference Document)."
+sections:
+  - "WHAT IS THIS?"
+  - "THE BASICS"
+---
+
 # Introduction
 
 **Welcome to DAGGERHEART,** *a collaborative fantasy tabletop roleplaying game of incredible* *magic and heroic, heartfelt adventure.*

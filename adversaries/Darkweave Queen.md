@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Darkweave Queen"
+tier: 1
+type: "Solo"
+description: "A wagon-sized spider woven from shadow-silk by a long-forgotten god. Each of her many eyes bears the face of a different victim."
+difficulty: 14
+thresholds: "8/15"
+hp: 9
+stress: 4
+atk: "+3"
+attack: "Spider Bite"
+range: "Very Close"
+damage: "1d12+4 phy"
+motives_and_tactics: "Ambush prey, climb the walls and ceiling, misdirect, paralyze, stash bodies away for later, steal faces"
+experience: "Giant-Sized +3, Hunter +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Terrifying - Passive"
+  - "Den Mother - Action"
+  - "Quicker Than She Looks - Action"
+  - "Darkfang Envenomation - Reaction"
+---
+
 # Darkweave Queen
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

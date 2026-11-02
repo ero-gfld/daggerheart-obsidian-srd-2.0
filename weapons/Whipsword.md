@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Whipsword"
+tier: 1
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Very Close"
+damage: "d8 phy"
+burden: "One-Handed"
+feature: "Versatile: This weapon can also be used with these statistics—Finesse, Melee, d10."
+---
+
 # Whipsword
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

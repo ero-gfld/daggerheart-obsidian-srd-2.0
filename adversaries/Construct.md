@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Construct"
+tier: 1
+type: "Solo"
+description: "A roughly humanoid being of stone and steel, assembled and animated by magic."
+difficulty: 13
+thresholds: "7/15"
+hp: 9
+stress: 4
+atk: "+4"
+attack: "Fist Slam"
+range: "Melee"
+damage: "1d20 phy"
+motives_and_tactics: "Destroy environment, serve creator, smash target, trample groups"
+features:
+  - "Relentless (2) - Passive"
+  - "Weak Structure - Passive"
+  - "Trample - Action"
+  - "Overload - Reaction"
+  - "Death Quake - Reaction"
+---
+
 # Construct
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

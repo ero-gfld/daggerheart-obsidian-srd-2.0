@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cave Ogre"
+tier: 1
+type: "Solo"
+description: "A massive humanoid who sees all sapient life as food."
+difficulty: 13
+thresholds: "8/15"
+hp: 8
+stress: 3
+atk: "+1"
+attack: "Club"
+range: "Very Close"
+damage: "1d10+2 phy"
+motives_and_tactics: "Bite off heads, feast, rip limbs, stomp, throw enemies"
+experience: "Throw +2"
+features:
+  - "Ramp Up - Passive"
+  - "Bone Breaker - Passive"
+  - "Hail of Boulders - Action"
+  - "Rampaging Fury - Reaction"
+---
+
 # Cave Ogre
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

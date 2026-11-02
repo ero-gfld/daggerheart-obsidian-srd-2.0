@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Corrupted Swamp"
+tier: 1
+type: "Traversal"
+description: "A wretched stretch of slimy water, toxic creatures, and decay."
+difficulty: 11
+impulses: "Corrupt, emphasize putrescence, reveal the twisted and unnatural, sicken"
+potential_adversaries: "Any Undead (Skeleton, Zombie, Spectral Guardian), Giant Rat, Green Ooze, Tangle Bramble"
+features:
+  - "Swamp Sickness - Passive"
+  - "Soggy and Slogging It - Passive"
+  - "Rotbloom - Action"
+  - "Dancing Lights - Action"
+---
+
 # Corrupted Swamp
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

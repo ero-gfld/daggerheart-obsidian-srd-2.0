@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Midnight Spirit"
+domain: "Midnight"
+level: 2
+type: "Spell"
+recall: 1
+---
+
 # Midnight Spirit
 
 ***[Level 2](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Midnight [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*

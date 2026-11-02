@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Blessed Anlace"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Melee"
+damage: "d10+6 mag"
+burden: "One-Handed"
+feature: "Healing: During downtime, automatically clear a Hit Point."
+---
+
 # Blessed Anlace
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

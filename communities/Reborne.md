@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/community"
+name: "Reborne"
+description: "You were once a member of a different community that you’re no longer part of."
+traits: "curious, hopeful, innocent, isolated, mournful, and uncanny"
+features:
+  - "Found Family"
+---
+
 # Reborne
 
 You were once a member of a different community that you’re no longer part of. Unlike members of collectives who are allied by familiarity, shared location, history, and culture, reborne are individuals who might never meet and are unified only by their shared experience of solitude. Whether they left by choice or were ripped from their community, all reborne are disconnected from the place where they once belonged, and they carry that wound with them.

@@ -1,3 +1,15 @@
+---
+tags:
+  - "daggerheart/domain"
+name: "Bone"
+description: "Bone is the domain of tactics and the body."
+classes:
+  - "Brawler"
+  - "Ranger"
+  - "Warrior"
+cards: 21
+---
+
 # Bone
 
 Bone is the domain of **tactics and the body.** Practitioners of this domain have an uncanny control over their own physical abilities and an eye for predicting the behaviors of others in combat. Adherents to Bone gain an unparalleled understanding of bodies and their movements. The Bone domain can be accessed by the **[Brawler](../classes/Brawler.md)**, **[Ranger](../classes/Ranger.md)**, and **[Warrior](../classes/Warrior.md)** classes.

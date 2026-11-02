@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Granminster’s Finery"
+tier: 3
+thresholds: "11/27"
+score: 2
+feature: "Magnificent: Gain a bonus to your Armor Score equal to your Presence."
+---
+
 # Granminster’s Finery
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

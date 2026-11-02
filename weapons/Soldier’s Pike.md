@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Soldier’s Pike"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Very Close"
+damage: "d10+5 phy"
+burden: "Two-Handed"
+feature: "Braced: When an adversary within this weapon’s range deals damage to you, you can mark 2 Stress to force them to mark a Hit Point."
+---
+
 # Soldier’s Pike
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

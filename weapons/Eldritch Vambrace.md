@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Eldritch Vambrace"
+tier: 2
+category: "Secondary"
+type: "Magical"
+trait: "Instinct"
+range: "Melee"
+damage: "d8 mag"
+burden: "One-Handed"
+feature: "Deflecting: When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
+---
+
 # Eldritch Vambrace
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

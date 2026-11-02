@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Waxwork Creation"
+tier: 1
+type: "Solo"
+description: "A ten-foot-tall, semisolid (and semisentient) candle wax construct."
+difficulty: 13
+thresholds: "8/15"
+hp: 10
+stress: 3
+atk: "+2"
+attack: "Fists"
+range: "Very Close"
+damage: "1d20 phy"
+motives_and_tactics: "Lumber menacingly, moan with the pain of unlife, smother"
+experience: "Giant-Sized +2"
+features:
+  - "Relentless (2) - Passive"
+  - "No Vital Organs - Passive"
+  - "Wax Ball - Action"
+  - "Splutch! - Reaction"
+  - "Smothering Grapple - Reaction"
+---
+
 # Waxwork Creation
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

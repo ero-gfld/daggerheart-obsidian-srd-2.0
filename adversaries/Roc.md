@@ -1,3 +1,30 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Roc"
+tier: 3
+type: "Solo"
+description: "A giant falcon that nests in the mountains and unleashes storms."
+difficulty: 18
+thresholds: "20/35"
+hp: 12
+stress: 6
+atk: "+3"
+attack: "Beak & Talons"
+range: "Very Close"
+damage: "3d12+8 phy"
+motives_and_tactics: "Breathe lightning and speak thunder, protect eggs, rake with talons, spy from afar"
+experience: "Craggy Peaks +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Bird of Prey - Passive"
+  - "Here Comes the Boom - Action"
+  - "Crushing Grasp - Reaction"
+  - "Nest Warden - Evolution"
+  - "Wrathful - Passive"
+  - "Electrifying Aura - Passive"
+---
+
 # Roc
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Minor Fire Elemental"
+tier: 1
+type: "Solo"
+description: "A living flame the size of a large bonfire."
+difficulty: 13
+thresholds: "7/15"
+hp: 9
+stress: 3
+atk: "+3"
+attack: "Elemental Blast"
+range: "Far"
+damage: "1d10+4 mag"
+motives_and_tactics: "Encircle enemies, grow in size, intimidate, start fires"
+features:
+  - "Relentless (2) - Passive"
+  - "Scorched Earth - Action"
+  - "Explosion - Action"
+  - "Consume Kindling - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Minor Fire Elemental
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

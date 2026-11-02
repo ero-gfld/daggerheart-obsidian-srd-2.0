@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fungispunj Sporophore"
+tier: 2
+type: "Leader"
+description: "A giant mushroom creature that can command the dead."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Spongy Fist"
+range: "Very Close"
+damage: "2d8+4 phy"
+motives_and_tactics: "Awaken the fallen, defend the colony, spread spores"
+experience: "Commander +5, Guardian +4"
+features:
+  - "Neurotoxic Spore Cloud - Action"
+  - "Reanimator - Action"
+  - "Colony - Action"
+  - "Mind Meld - Reaction"
+---
+
 # Fungispunj Sporophore
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

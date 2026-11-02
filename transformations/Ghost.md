@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/transformation"
+name: "Ghost"
+description: "Ghosts are the spirits of the once-living who are bound to the Mortal Realm."
+features:
+  - "Unfinished Business"
+  - "Ephemeral"
+---
+
 # Ghost
 
 Ghosts are the spirits of the once-living who are bound to the Mortal Realm. They could be called forth after passing through the veil of death with necromantic rites, alchemical experimentation, the desperation of a loved one—or they may never have passed through the veil at all. Those who met a horrific end, were killed with a cursed weapon, or died in a place of power might have become trapped in the Mortal Realm instead of passing on.

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Splintershaft Bow"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Far"
+damage: "d6+6 mag"
+burden: "Two-Handed"
+feature: "Volleyed: Spend a Hope to target a group of creatures within range. Targets you succeed against take half damage."
+---
+
 # Splintershaft Bow
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

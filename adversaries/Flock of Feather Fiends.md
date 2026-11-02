@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Flock of Feather Fiends"
+tier: 2
+type: "Horde"
+horde: 3
+description: "A flock of undead crow corpses, eyes aglow with necroplasmic light."
+difficulty: 14
+thresholds: "10/20"
+hp: 5
+stress: 3
+atk: "+0"
+attack: "Peck and Claw"
+range: "Melee"
+damage: "2d6+2 mag"
+motives_and_tactics: "Caw incessantly, claw faces, flutter through the air, peck eyes"
+experience: "Fly +2, Swarm +2"
+features:
+  - "Horde (1d6+1) - Passive"
+  - "Maddening Cacophony - Action"
+---
+
 # Flock of Feather Fiends
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

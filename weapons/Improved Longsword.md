@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Longsword"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Melee"
+damage: "d10+6 phy"
+burden: "Two-Handed"
+---
+
 # Improved Longsword
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,15 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Call of the Slayer"
+class: "Warrior"
+description: "Play the Call of the Slayer if you want to strike down adversaries with immense force."
+features:
+  - "Slayer"
+  - "Weapon Specialist"
+  - "Martial Preparation"
+---
+
 # Call of the Slayer
 
 Play the Call of the Slayer if you want to strike down [adversaries](../core_rules/Using%20Adversaries.md) with immense force.

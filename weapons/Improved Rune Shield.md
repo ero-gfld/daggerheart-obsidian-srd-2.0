@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Rune Shield"
+tier: 2
+category: "Secondary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d4+2 mag"
+burden: "One-Handed"
+feature: "Protective: +2 to Armor Score"
+---
+
 # Improved Rune Shield
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

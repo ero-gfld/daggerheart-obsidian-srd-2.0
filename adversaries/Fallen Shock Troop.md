@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fallen Shock Troop"
+tier: 4
+type: "Minion"
+description: "A cursed soul bound to the Fallen’s will."
+difficulty: 18
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+2"
+attack: "Cursed Axe"
+range: "Very Close"
+damage: "12 phy"
+motives_and_tactics: "Crush, dominate, earn relief, punish"
+features:
+  - "Minion (12) - Passive"
+  - "Aura of Doom - Passive"
+  - "Group Attack - Action"
+---
+
 # Fallen Shock Troop
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

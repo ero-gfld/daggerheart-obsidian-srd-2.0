@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Call of the Brave"
+class: "Warrior"
+description: "Play the Call of the Brave if you want to use the might of your enemies to fuel your own power."
+features:
+  - "Courage"
+  - "Battle Ritual"
+  - "Rise to the Challenge"
+  - "Camaraderie"
+---
+
 # Call of the Brave
 
 Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.

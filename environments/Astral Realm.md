@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Astral Realm"
+tier: 3
+type: "Traversal"
+description: "A psychic realm of energy and emotion, where the strong in spirit can reshape the rules of reality."
+difficulty: 16
+impulses: "Attack their psyches, summon their subconscious fears, warp their perceptions"
+potential_adversaries: "Demon of Despair, Elemental Spark, Pain Priest, Psychic Vampires (Head Vampire, Night Children)"
+features:
+  - "Out-of-Body Experience - Passive"
+  - "Mental Manifestations - Passive"
+  - "Matter Is Illusion - Passive"
+  - "Astral Adversaries - Passive"
+---
+
 # Astral Realm
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

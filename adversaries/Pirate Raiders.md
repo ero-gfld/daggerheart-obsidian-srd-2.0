@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Pirate Raiders"
+tier: 1
+type: "Horde"
+horde: 3
+description: "Seafaring scoundrels moving in a ravaging pack."
+difficulty: 12
+thresholds: "5/11"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Cutlass"
+range: "Melee"
+damage: "1d8+2 phy"
+motives_and_tactics: "Gang up, plunder, raid"
+experience: "Sailor +3"
+features:
+  - "Horde (1d4+1) - Passive"
+  - "Swashbuckler - Passive"
+---
+
 # Pirate Raiders
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

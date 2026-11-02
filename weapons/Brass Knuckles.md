@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Brass Knuckles"
+tier: 1
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d8+1 phy"
+burden: "One-Handed"
+---
+
 # Brass Knuckles
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

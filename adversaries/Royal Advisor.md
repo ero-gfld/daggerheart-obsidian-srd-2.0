@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Royal Advisor"
+tier: 2
+type: "Social"
+description: "A high-ranking courtier with the ear of the local nobility."
+difficulty: 14
+thresholds: "8/15"
+hp: 3
+stress: 3
+atk: "-3"
+attack: "Wand"
+range: "Far"
+damage: "1d4+3 phy"
+motives_and_tactics: "Curry favor, manufacture evidence, scheme"
+experience: "Administration +3, Courtier +3"
+features:
+  - "Devastating Retort - Passive"
+  - "Bend Ears - Action"
+  - "Scapegoat - Action"
+---
+
 # Royal Advisor
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

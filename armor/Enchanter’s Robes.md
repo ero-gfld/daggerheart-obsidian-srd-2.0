@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Enchanter’s Robes"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Mnemonic: Once per scene, you can recall a domain card from your vault without paying its Recall Cost."
+---
+
 # Enchanter’s Robes
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

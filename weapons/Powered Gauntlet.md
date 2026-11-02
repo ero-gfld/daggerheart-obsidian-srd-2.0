@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Powered Gauntlet"
+tier: 3
+category: "Secondary"
+type: "Physical"
+trait: "Knowledge"
+range: "Close"
+damage: "d6+4 phy"
+burden: "One-Handed"
+feature: "Charged: Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack."
+---
+
 # Powered Gauntlet
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

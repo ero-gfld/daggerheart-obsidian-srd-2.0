@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Soul-Shattered Mage"
+tier: 1
+type: "Solo"
+description: "A spellcaster with a psyche broken by knowledge best left hidden."
+difficulty: 12
+thresholds: "8/15"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Wormwood Staff"
+range: "Far"
+damage: "1d12 mag"
+motives_and_tactics: "Babble in an unknown language, laugh unsettlingly, wield power beyond control"
+experience: "Forbidden Knowledge +2"
+features:
+  - "Relentless (3) - Passive"
+  - "Broken Magic - Action"
+  - "Feel My Pain - Reaction"
+---
+
 # Soul-Shattered Mage
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/community"
+name: "Underborne"
+description: "Being part of an underborne community means you’re from a subterranean society."
+traits: "composed, elusive, indomitable, innovative, resourceful, and unpretentious"
+features:
+  - "Low-Light Living"
+---
+
 # Underborne
 
 Being part of an underborne community means you’re from a subterranean society. Many underborne live right beneath the cities and villages of other collectives, while some live much deeper. These communities range from small family groups in burrows to massive metropolises in caverns of stone. In many locales, underborne are recognized for their incredible boldness and skill that enable great feats of architecture and engineering. Underborne are regularly hired for their bravery, as even the least daring among them has likely encountered formidable belowground beasts, and learning to dispatch such creatures is common practice amongst these societies. Because of the dangers of their [environment](../core_rules/Using%20Environments.md), many underborne communities develop unique nonverbal languages that prove equally useful on the surface.

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Legendary Full Plate Armor"
+tier: 4
+thresholds: "17/44"
+score: 7
+feature: "Very Heavy: −2 to Evasion; −1 to Agility"
+---
+
 # Legendary Full Plate Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

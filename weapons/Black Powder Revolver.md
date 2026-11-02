@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Black Powder Revolver"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+8 phy"
+burden: "One-Handed"
+feature: "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+---
+
 # Black Powder Revolver
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

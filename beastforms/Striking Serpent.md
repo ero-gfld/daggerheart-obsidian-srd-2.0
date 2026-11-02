@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Striking Serpent"
+tier: 2
+examples: "Cobra, Rattlesnake, Viper, etc."
+trait_bonus: "Finesse +1"
+evasion: "+2"
+attack: "Very Close Finesse d8+4 phy"
+advantages: "climb, deceive, sprint"
+features:
+  - "Venomous Strike"
+  - "Warning Hiss"
+---
+
 # Striking Serpent
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Cobra, Rattlesnake, Viper, etc.)

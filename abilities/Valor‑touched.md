@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Valor‑touched"
+domain: "Valor"
+level: 7
+type: "Ability"
+recall: 1
+---
+
 # Valor‑touched
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Valor [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*

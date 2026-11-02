@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Archmage’s Tower"
+tier: 3
+type: "Exploration"
+description: "An impossibly tall spire that pierces the heavens and resonates with immense power."
+difficulty: 16
+impulses: "Collect magical energy, exhaust intruders, reveal the unknown, unleash bursts of magical power"
+potential_adversaries: "Alchemical Creations (Chimera, Lamia, Manticore), Archmage"
+features:
+  - "Mystical Defenses - Passive"
+  - "Archmage’s Aerie - Passive"
+  - "Amalgamated Adversaries - Reaction"
+---
+
 # Archmage’s Tower
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

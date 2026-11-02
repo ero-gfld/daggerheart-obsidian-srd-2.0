@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Ambushers"
+tier: 1
+type: "Event"
+description: "An ambush is set by the PCs to catch unsuspecting adversaries off-guard."
+difficulty: "Special (see “Relative Strength”)"
+impulses: "Escape, group up, protect the most vulnerable"
+potential_adversaries: "Any"
+features:
+  - "Relative Strength - Passive"
+  - "Where Did They Come From? - Reaction"
+---
+
 # Ambushers
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

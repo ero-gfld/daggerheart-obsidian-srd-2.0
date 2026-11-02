@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Nightwalker"
+class: "Rogue"
+spellcast_trait: "Finesse"
+description: "Play the Nightwalker if you want to manipulate shadows to maneuver through the environment."
+features:
+  - "Shadow Stepper"
+  - "Dark Cloud"
+  - "Adrenaline"
+  - "Fleeting Shadow"
+  - "Vanishing Act"
+---
+
 # Nightwalker
 
 Play the Nightwalker if you want to manipulate shadows to maneuver through the [environment](../core_rules/Using%20Environments.md).

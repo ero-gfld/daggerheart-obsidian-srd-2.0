@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Arcane Rifle"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Very Far"
+damage: "d10+9 mag"
+burden: "Two-Handed"
+feature: "Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
+---
+
 # Advanced Arcane Rifle
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

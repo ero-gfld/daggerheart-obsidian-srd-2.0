@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Shortstaff"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Close"
+damage: "d8+4 mag"
+burden: "One-Handed"
+---
+
 # Improved Shortstaff
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

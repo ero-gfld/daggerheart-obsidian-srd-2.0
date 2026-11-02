@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Swarm of Rats"
+tier: 1
+type: "Horde"
+horde: 10
+description: "A skittering mass of ordinary rodents moving as one like a ravenous wave."
+difficulty: 10
+thresholds: "6/10"
+hp: 6
+stress: 2
+atk: "-3"
+attack: "Claws"
+range: "Melee"
+damage: "1d8+2 phy"
+motives_and_tactics: "Consume, obscure, swarm"
+features:
+  - "Horde (1d4+1) - Passive"
+  - "In Your Face - Passive"
+---
+
 # Swarm of Rats
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (10/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

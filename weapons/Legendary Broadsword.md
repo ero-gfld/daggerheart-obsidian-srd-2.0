@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Broadsword"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Melee"
+damage: "d8+9 phy"
+burden: "One-Handed"
+feature: "Reliable: +1 to attack rolls"
+---
+
 # Legendary Broadsword
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

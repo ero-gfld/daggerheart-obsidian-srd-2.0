@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Witch’s Hut"
+tier: 2
+type: "Exploration"
+description: "A rustic, windowless hut sitting atop two huge chicken legs."
+difficulty: 14
+impulses: "Creep them out, delay them until the witch’s return, lock them inside, move to a different location, tempt them with magical oddities"
+potential_adversaries: "Chicken-Foot Hut, Enchanted Defenses (Gargoyle, Ravenous Mockery, Scarecrow), Valdenhax, The Witch’s Victims (Jack-o’-Lanterns, Redcap Biters)"
+features:
+  - "Bigger on the Inside - Passive"
+  - "Creepy Doll Collection - Passive"
+  - "Witches’ Brew - Passive"
+  - "Dislocated - Reaction"
+---
+
 # Witch’s Hut
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

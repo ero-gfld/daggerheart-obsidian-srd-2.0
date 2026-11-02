@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Elemental Spark"
+tier: 3
+type: "Minion"
+description: "A blazing mote of elemental fire."
+difficulty: 15
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Bursts of Fire"
+range: "Close"
+damage: "5 mag"
+motives_and_tactics: "Blast, consume, gain mass"
+features:
+  - "Minion (9) - Passive"
+  - "Group Attack - Action"
+---
+
 # Elemental Spark
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Bellamoi Fine Armor"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Gilded: +1 to Presence"
+---
+
 # Bellamoi Fine Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

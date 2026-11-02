@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Adult Flickerfly"
+tier: 3
+type: "Solo"
+description: "A winged insect the size of a large house with iridescent scales and wings that move too fast to track."
+difficulty: 17
+thresholds: "20/35"
+hp: 12
+stress: 6
+atk: "+3"
+attack: "Wing Slash"
+range: "Very Close"
+damage: "3d20 phy"
+motives_and_tactics: "Collect shiny things, hunt, nest, swoop"
+features:
+  - "Relentless (4) - Passive"
+  - "Never Misses - Passive"
+  - "Deadly Flight - Passive"
+  - "Whirlwind - Action"
+  - "Mind Dance - Action"
+  - "Hallucinatory Breath - Reaction"
+  - "Uncanny Reflexes - Reaction"
+---
+
 # Adult Flickerfly
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

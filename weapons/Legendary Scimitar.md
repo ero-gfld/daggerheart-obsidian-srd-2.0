@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Scimitar"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d8+10 phy"
+burden: "One-Handed"
+---
+
 # Legendary Scimitar
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Head Vampire"
+tier: 3
+type: "Leader"
+description: "A captivating undead dressed in aristocratic finery."
+difficulty: 17
+thresholds: "22/42"
+hp: 6
+stress: 6
+atk: "+5"
+attack: "Rapier"
+range: "Melee"
+damage: "2d20+4 phy"
+motives_and_tactics: "Create thralls, charm, command, fly, intimidate"
+experience: "Aristocrat +3"
+features:
+  - "Terrifying - Passive"
+  - "Look into My Eyes - Passive"
+  - "Feed on Followers - Action"
+  - "The Hunt Is On - Action"
+  - "Lifesuck - Reaction"
+---
+
 # Head Vampire
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

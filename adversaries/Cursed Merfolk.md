@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cursed Merfolk"
+tier: 3
+type: "Standard"
+description: "A half-fish, half-human creature psychically bound to serve the Deep Dwellers."
+difficulty: 16
+thresholds: "18/35"
+hp: 5
+stress: 4
+atk: "+3"
+attack: "Chained Trident"
+range: "Far"
+damage: "3d6 phy"
+motives_and_tactics: "Separate enemies, strike from the shadows, use aquatic environment to advantage"
+experience: "Aquatic +3"
+features:
+  - "Fish-Tailed - Passive"
+  - "Gang Up - Passive"
+  - "“Get Over Here!” - Reaction"
+---
+
 # Cursed Merfolk
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

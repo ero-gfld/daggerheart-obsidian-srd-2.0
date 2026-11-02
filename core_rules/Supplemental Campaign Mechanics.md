@@ -1,3 +1,22 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Supplemental Campaign Mechanics"
+description: "You can use following optional mechanics to supplement your campaigns."
+sections:
+  - "FACTION TRACKING"
+  - "EVERYDAY HERO STARTING EQUIPMENT"
+  - "FEASTS"
+  - "GRIMDARK CAMPAIGNS"
+  - "TECH-BASED CAMPAIGNS"
+  - "WESTERN CAMPAIGNS"
+  - "COLOSSAL ADVERSARIES"
+  - "FLOATING MAGIC SCHOOL CAMPAIGNS"
+  - "FAIRY TALE CAMPAIGNS"
+  - "MONSTER HUNTING CAMPAIGNS"
+  - "HEX CRAWL CAMPAIGNS"
+---
+
 # Supplemental Campaign Mechanics
 
 *You can use following optional mechanics to supplement your campaigns.*

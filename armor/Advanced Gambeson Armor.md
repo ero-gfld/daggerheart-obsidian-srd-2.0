@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Advanced Gambeson Armor"
+tier: 3
+thresholds: "9/23"
+score: 5
+feature: "Flexible: +1 to Evasion"
+---
+
 # Advanced Gambeson Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

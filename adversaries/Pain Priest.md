@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Pain Priest"
+tier: 3
+type: "Social"
+description: "A member of an other-dimensional religious order devoted to exploring the boundaries of mortal suffering and ecstasy."
+difficulty: 16
+thresholds: "16/32"
+hp: 6
+stress: 5
+atk: "+0"
+attack: "Torture Implements"
+range: "Melee"
+damage: "3d6+4 phy"
+motives_and_tactics: "Feed on emotions, locate the innocent or curious, tempt them with their deepest desires"
+experience: "Experimentation +4"
+features:
+  - "Walk Between Worlds - Action"
+  - "Pleasure and Pain - Reaction"
+---
+
 # Pain Priest
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

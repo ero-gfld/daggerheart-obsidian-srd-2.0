@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Classes"
+description: "A class is a role-based archetype that determines a PC’s:"
+---
+
 # Classes
 
 A **class** is a role-based archetype that determines a [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F)’s:

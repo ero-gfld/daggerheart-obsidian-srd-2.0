@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Burning Heart of the Woods"
+tier: 3
+type: "Exploration"
+description: "Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue."
+difficulty: 16
+impulses: "Beat out an uncanny rhythm for all to follow, corrupt the woods"
+potential_adversaries: "Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)"
+features:
+  - "Chaos Magic Locus - Passive"
+  - "The Indigo Flame - Passive"
+  - "Grasping Vines - Action"
+  - "Charcoal Constructs - Action"
+  - "Choking Ash - Reaction"
+---
+
 # Burning Heart of the Woods
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jagged Knife Lackey"
+tier: 1
+type: "Minion"
+description: "A thief with simple clothes and small daggers, eager to prove themselves."
+difficulty: 9
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-2"
+attack: "Daggers"
+range: "Melee"
+damage: "2 phy"
+motives_and_tactics: "Escape, profit, throw smoke"
+experience: "Thief +2"
+features:
+  - "Minion (3) - Passive"
+  - "Group Attack - Action"
+---
+
 # Jagged Knife Lackey
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

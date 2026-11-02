@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Spiked Plate Armor"
+tier: 3
+thresholds: "10/25"
+score: 5
+feature: "Sharp: On a successful attack against a target within Melee range, add a d4 to the damage roll."
+---
+
 # Spiked Plate Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

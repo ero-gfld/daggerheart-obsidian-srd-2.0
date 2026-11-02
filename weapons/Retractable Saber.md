@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Retractable Saber"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d10+7 phy"
+burden: "One-Handed"
+feature: "Retractable: The blade can be hidden in the hilt to avoid detection."
+---
+
 # Retractable Saber
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

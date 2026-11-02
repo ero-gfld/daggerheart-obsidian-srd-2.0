@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Cliffside Ascent"
+tier: 1
+type: "Traversal"
+description: "A steep, rocky cliffside tall enough to make traversal dangerous."
+difficulty: 12
+impulses: "Cast the unready down to a rocky doom, draw people in with promise of what lies at the top"
+potential_adversaries: "Construct, Deeproot Defender, Giant Scorpion, Glass Snake"
+features:
+  - "The Climb - Passive"
+  - "Pitons Left Behind - Passive"
+  - "Fall - Action"
+---
+
 # Cliffside Ascent
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

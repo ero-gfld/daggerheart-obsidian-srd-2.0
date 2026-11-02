@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Vampire Bat Swarm"
+tier: 3
+type: "Horde"
+horde: 5
+description: "A cloud of blood-sucking bats."
+difficulty: 15
+thresholds: "16/30"
+hp: 8
+stress: 3
+atk: "+1"
+attack: "Fangs"
+range: "Melee"
+damage: "3d6+6 phy"
+motives_and_tactics: "Blot out the moon, murmur, spread disease"
+experience: "Blood +3"
+features:
+  - "Horde (2d6) - Passive"
+  - "Blinding Multitude - Passive"
+  - "Bloodsuckers - Reaction"
+---
+
 # Vampire Bat Swarm
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (5/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

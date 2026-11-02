@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Mountain Troll"
+tier: 1
+type: "Solo"
+description: "A hideous giant born out of a massive rock. They wear purloined armor and a belt of severed heads or skulls."
+difficulty: 14
+thresholds: "8/15"
+hp: 8
+stress: 3
+atk: "+2"
+attack: "Skull Flail"
+range: "Very Close"
+damage: "1d8+1 phy"
+motives_and_tactics: "Ambush, bellow, hurl large boulders, smash, stomp"
+experience: "Mountains +4"
+features:
+  - "Relentless (3) - Passive"
+  - "Stolen Armor - Passive"
+  - "Flail Swipe - Action"
+  - "Enraged Mountain Troll - Evolution"
+  - "Double Swipe - Action"
+---
+
 # Mountain Troll
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

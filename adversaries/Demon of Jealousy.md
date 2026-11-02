@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Demon of Jealousy"
+tier: 3
+type: "Ranged"
+description: "A fickle creature of spindly limbs and insatiable desires."
+difficulty: 17
+thresholds: "17/30"
+hp: 6
+stress: 6
+atk: "+4"
+attack: "Psychic Assault"
+range: "Far"
+damage: "3d8+3 mag"
+motives_and_tactics: "Join in on others’ success, take what belongs to others, hold grudges"
+experience: "Manipulation +3"
+features:
+  - "Unprotected Mind - Passive"
+  - "My Turn - Reaction"
+  - "Rivalry - Reaction"
+  - "What’s Yours Is Mine - Reaction"
+---
+
 # Demon of Jealousy
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

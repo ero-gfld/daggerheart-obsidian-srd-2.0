@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jagged Knife Kneebreaker"
+tier: 1
+type: "Bruiser"
+description: "An imposing brawler carrying a large club."
+difficulty: 12
+thresholds: "7/14"
+hp: 7
+stress: 4
+atk: "-3"
+attack: "Club"
+range: "Melee"
+damage: "1d4+6 phy"
+motives_and_tactics: "Grapple, intimidate, profit, steal"
+experience: "Thief +2, Unveiled Threats +3"
+features:
+  - "I’ve Got ’Em - Passive"
+  - "Hold Them Down - Action"
+---
+
 # Jagged Knife Kneebreaker
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

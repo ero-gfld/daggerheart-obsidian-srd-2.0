@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/community"
+name: "Warborne"
+description: "Being part of a warborne community means you come from a place that is, or was, ravaged by war."
+traits: "strategic, devastated, determined, calculating, unwavering, and devoted"
+features:
+  - "Brave Face"
+---
+
 # Warborne
 
 Being part of a warborne community means you come from a place that is, or was, ravaged by war. These groups might be composed of civilians who live in an active warzone, soldiers who served together in the armed forces, or citizens of nations that have been in conflict for decades. Whether civilian or military, warborne are typically skilled in self-defense, even if their tactics are focused on avoidance rather than offensive action.

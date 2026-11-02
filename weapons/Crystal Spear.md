@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Crystal Spear"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Finesse"
+range: "Very Close"
+damage: "d10+6 mag"
+burden: "One-Handed"
+feature: "Piercing: Damage dealt with this weapon treats the target’s Major threshold as having a −2 penalty."
+---
+
 # Crystal Spear
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

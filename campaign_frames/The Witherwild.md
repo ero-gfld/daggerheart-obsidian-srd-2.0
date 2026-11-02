@@ -1,3 +1,14 @@
+---
+tags:
+  - "daggerheart/campaign-frame"
+name: "The Witherwild"
+description: "When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land."
+complexity: 1
+tone: "Adventurous, Dynamic, Epic, Heroic, Thrilling, Uncanny, Whimsical"
+themes: "Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and Change, Survival"
+touchstones: "Princess Mononoke, The Legend of Zelda, The Dark Crystal, Nausicaä of the Valley of the Wind"
+---
+
 # The Witherwild
 
 *When an invading nation attacks an ancient* *forest deity, a virulent overgrowth spreads* *throughout the land.*

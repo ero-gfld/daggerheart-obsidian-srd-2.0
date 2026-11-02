@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Mighty Strider"
+tier: 2
+examples: "Camel, Horse, Zebra, etc."
+trait_bonus: "Agility +1"
+evasion: "+2"
+attack: "Melee Agility d8+1 phy"
+advantages: "leap, navigate, sprint"
+features:
+  - "Carrier"
+  - "Trample"
+---
+
 # Mighty Strider
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Camel, Horse, Zebra, etc.)

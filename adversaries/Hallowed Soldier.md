@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Hallowed Soldier"
+tier: 4
+type: "Minion"
+description: "Souls of the faithful, lifted up with divine weaponry."
+difficulty: 18
+thresholds: "None"
+hp: 1
+stress: 2
+atk: "+2"
+attack: "Sword and Shield"
+range: "Melee"
+damage: "10 phy"
+motives_and_tactics: "Obey, outmaneuver, punish, swarm"
+features:
+  - "Minion (13) - Passive"
+  - "Divine Flight - Passive"
+  - "Group Attack - Action"
+---
+
 # Hallowed Soldier
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

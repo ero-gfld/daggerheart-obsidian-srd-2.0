@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Quarterstaff"
+tier: 1
+category: "Primary"
+type: "Physical"
+trait: "Instinct"
+range: "Melee"
+damage: "d10+3 phy"
+burden: "Two-Handed"
+---
+
 # Quarterstaff
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

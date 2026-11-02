@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Shambling Zombie"
+tier: 1
+type: "Standard"
+description: "An animated corpse that moves shakily, driven only by hunger."
+difficulty: 10
+thresholds: "4/6"
+hp: 4
+stress: 1
+atk: "+0"
+attack: "Bite"
+range: "Melee"
+damage: "1d6+1 phy"
+motives_and_tactics: "Devour, hungry, mob enemy, shred flesh"
+features:
+  - "Too Many to Handle - Passive"
+  - "Horrifying - Passive"
+---
+
 # Shambling Zombie
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

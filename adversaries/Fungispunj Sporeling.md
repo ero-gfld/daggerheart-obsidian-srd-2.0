@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Fungispunj Sporeling"
+tier: 2
+type: "Minion"
+description: "A halfling-sized mushroom creature that defends itself from attackers with tiny puffs of neurotoxic spores."
+difficulty: 13
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Neuro Spore"
+range: "Very Close"
+damage: "4 mag"
+motives_and_tactics: "Avoid violence, spray attackers"
+experience: "Darkness +3"
+features:
+  - "Minion (6) - Passive"
+  - "Group Attack - Action"
+  - "Form Up - Action"
+---
+
 # Fungispunj Sporeling
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

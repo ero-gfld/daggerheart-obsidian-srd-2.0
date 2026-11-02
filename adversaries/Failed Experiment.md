@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Failed Experiment"
+tier: 2
+type: "Standard"
+description: "A magical necromantic experiment gone wrong, leaving them warped and ungainly."
+difficulty: 13
+thresholds: "12/23"
+hp: 3
+stress: 3
+atk: "+1"
+attack: "Bite and Claw"
+range: "Melee"
+damage: "2d6+5 phy"
+motives_and_tactics: "Devour, hunt, track"
+experience: "Copycat +3"
+features:
+  - "Warped Fortitude - Passive"
+  - "Overwhelm - Passive"
+  - "Lurching Lunge - Action"
+---
+
 # Failed Experiment
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

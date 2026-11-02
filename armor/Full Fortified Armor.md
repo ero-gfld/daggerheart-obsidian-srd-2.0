@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Full Fortified Armor"
+tier: 4
+thresholds: "15/40"
+score: 4
+feature: "Fortified: When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one."
+---
+
 # Full Fortified Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

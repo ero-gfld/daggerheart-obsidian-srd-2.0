@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/transformation"
+name: "Demigod"
+description: "Demigods are mortal creatures whose veins flow with the blood of the gods."
+features:
+  - "Gifted"
+  - "Weight of Divinity"
+---
+
 # Demigod
 
 Demigods are mortal creatures whose veins flow with the blood of the gods. They typically gain their power from divine parentage, accomplishing an incredible feat, or receiving a gift from a god. Many demigods appear as a typical member of their mortal ancestry, but all possess a subtle luminosity and a gleam in their eyes. They’re also known to have pearlescent or metallic skin, and they might grow in size or gain physical features related to their power when it reveals itself. Because they share the blood of a Faint Divinity, a Forgotten God, a New God, or any other deity, no two demigods look the same.

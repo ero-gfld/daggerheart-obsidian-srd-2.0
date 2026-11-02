@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Rust Eater"
+tier: 2
+type: "Standard"
+description: "A pony-sized cockroach coated in a corrosive chitin that turns metal into rust."
+difficulty: 12
+thresholds: "10/18"
+hp: 5
+stress: 2
+atk: "+1"
+attack: "Bite"
+range: "Melee"
+damage: "2d6+4 phy"
+motives_and_tactics: "Avoid detection, eat rust, sniff out metal"
+experience: "Snuffle +3"
+features:
+  - "Stifling Pheromones - Passive"
+  - "Rust Touch - Passive"
+---
+
 # Rust Eater
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

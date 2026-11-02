@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Grimmling Warband"
+tier: 1
+type: "Horde"
+horde: 4
+description: "A cluster of small, strange creatures wearing armor fashioned from trash and stolen housewares."
+difficulty: 12
+thresholds: "5/11"
+hp: 3
+stress: 2
+atk: "+1"
+attack: "Tailor’s Shears"
+range: "Melee"
+damage: "1d8+2 phy"
+motives_and_tactics: "Ambush, celebrate a little too early, hit and run, infight, sabotage, sow chaos"
+experience: "Traps +3"
+features:
+  - "Horde (1d4+1) - Passive"
+  - "Cowardly - Reaction"
+---
+
 # Grimmling Warband
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (4/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

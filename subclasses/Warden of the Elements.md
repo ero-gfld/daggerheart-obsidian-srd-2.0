@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Warden of the Elements"
+class: "Druid"
+spellcast_trait: "Instinct"
+description: "Play the Warden of the Elements if you want to embody the natural elements of the wild."
+features:
+  - "Elemental Incarnation"
+  - "Elemental Aura"
+  - "Elemental Dominion"
+---
+
 # Warden of the Elements
 
 Play the Warden of the Elements if you want to embody the natural elements of the wild.

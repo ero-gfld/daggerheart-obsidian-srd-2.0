@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Rat"
+tier: 1
+type: "Minion"
+description: "A cat-sized rodent skilled at scavenging and survival."
+difficulty: 10
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-4"
+attack: "Claws"
+range: "Melee"
+damage: "1 phy"
+motives_and_tactics: "Burrow, hunger, scavenge, wear down"
+experience: "Keen Senses +3"
+features:
+  - "Minion (3) - Passive"
+  - "Group Attack - Action"
+---
+
 # Giant Rat
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Armored Sentry"
+tier: 2
+examples: "Armadillo, Pangolin, Turtle, etc."
+trait_bonus: "Strength +1"
+evasion: "+1"
+attack: "Melee Strength d8+2 phy"
+advantages: "dig, locate, protect"
+features:
+  - "Armored Shell"
+  - "Cannonball"
+---
+
 # Armored Sentry
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Armadillo, Pangolin, Turtle, etc.)

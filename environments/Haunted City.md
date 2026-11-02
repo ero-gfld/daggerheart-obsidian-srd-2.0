@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Haunted City"
+tier: 2
+type: "Exploration"
+description: "An abandoned city populated by the restless spirits of eras past."
+difficulty: 14
+impulses: "Misdirect and disorient, replay apocalypses both public and personal"
+potential_adversaries: "Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), ghostly versions of other adversaries (see “Ghostly Form”)"
+features:
+  - "Buried Knowledge - Passive"
+  - "Ghostly Form - Passive"
+  - "Dead Ends - Action"
+  - "Apocalypse Then - Action"
+---
+
 # Haunted City
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

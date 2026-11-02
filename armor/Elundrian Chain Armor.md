@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Elundrian Chain Armor"
+tier: 2
+thresholds: "9/21"
+score: 4
+feature: "Warded: You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds."
+---
+
 # Elundrian Chain Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Harpy"
+tier: 1
+type: "Skulk"
+description: "A fierce and foul-smelling bird with an eight-foot wingspan and the upper body and face of a human."
+difficulty: 12
+thresholds: "3/7"
+hp: 3
+stress: 3
+atk: "+0"
+attack: "Talons"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Defend nest, drop enemies from a great height, maraud from the air, screech incessantly"
+experience: "Islands +3"
+features:
+  - "Toxic Aura - Passive"
+  - "Swooping Attack - Action"
+---
+
 # Harpy
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

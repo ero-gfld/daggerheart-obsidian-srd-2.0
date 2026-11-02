@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Poltergeist"
+tier: 1
+type: "Ranged"
+description: "A baleful, translucent spirit that possesses inanimate objects."
+difficulty: 9
+thresholds: "4/None"
+hp: 2
+stress: 2
+atk: "-1"
+attack: "Thrown Object"
+range: "Far"
+damage: "1d6+3 phy"
+motives_and_tactics: "Flicker candles, rattle chains, shake windows, throw people around the room"
+experience: "Spooky +3"
+features:
+  - "Specter - Passive"
+  - "Possessor - Action"
+  - "Ghost Storm - Action"
+---
+
 # Poltergeist
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

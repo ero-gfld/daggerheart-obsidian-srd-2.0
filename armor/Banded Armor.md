@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Banded Armor"
+tier: 1
+thresholds: "8/16"
+score: 4
+feature: "Bulky: −1 to Evasion; when you take Severe damage, you must mark a Stress."
+---
+
 # Banded Armor
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

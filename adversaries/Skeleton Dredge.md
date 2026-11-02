@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Skeleton Dredge"
+tier: 1
+type: "Minion"
+description: "A clattering pile of bones."
+difficulty: 8
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Bone Claws"
+range: "Melee"
+damage: "1 phy"
+motives_and_tactics: "Fall apart, overwhelm, play dead, steal skin"
+features:
+  - "Minion (4) - Passive"
+  - "Group Attack - Action"
+---
+
 # Skeleton Dredge
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

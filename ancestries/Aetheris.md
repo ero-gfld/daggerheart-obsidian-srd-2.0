@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Aetheris"
+description: "Aetheris are humanoids most easily recognized by their wings and sacred markings."
+features:
+  - "Hallowed Aura"
+  - "Celestial Wings"
+---
+
 # Aetheris
 
 Aetheris are humanoids most easily recognized by their wings and sacred markings. They are the descendants of angels from the Hallows Above. Aetheris are typically 5 to 7 feet tall, and some may have elongated limbs. They often have vibrantly colored eyes, hair, and skin, though their coloring can include earth tones and pastels. Many members of this ancestry are born with sacred markings—such as glowing sigils or intricate patterns of lines and symbols—but all aetheris develop them as they mature. These symbols change as they age, often because of prophecies, revelations, and divine guidance from the Hallows Above.

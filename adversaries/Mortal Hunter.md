@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Mortal Hunter"
+tier: 2
+type: "Leader"
+description: "An undead figure wearing a heavy leather coat, with searching eyes and a casually cruel demeanor."
+difficulty: 16
+thresholds: "15/27"
+hp: 6
+stress: 4
+atk: "+5"
+attack: "Tear at Flesh"
+range: "Very Close"
+damage: "2d12+1 phy"
+motives_and_tactics: "Devour, hunt, track"
+experience: "Bloodhound +3"
+features:
+  - "Terrifying - Passive"
+  - "Deathlock - Action"
+  - "Inevitable Death - Action"
+  - "Rampage - Reaction"
+---
+
 # Mortal Hunter
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

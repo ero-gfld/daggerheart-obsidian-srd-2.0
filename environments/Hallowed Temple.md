@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Hallowed Temple"
+tier: 2
+type: "Social"
+description: "A bustling but well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph."
+difficulty: 13
+impulses: "Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful"
+potential_adversaries: "Guards (Archer Guard, Bladed Guard, Head Guard)"
+features:
+  - "A Place of Healing - Passive"
+  - "Divine Guidance - Passive"
+  - "Relentless Hope - Reaction"
+  - "Divine Censure - Reaction"
+---
+
 # Hallowed Temple
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Gargoyle"
+tier: 2
+type: "Bruiser"
+description: "A magically animated statue resembling a terrifying beast or demon."
+difficulty: 13
+thresholds: "14/28"
+hp: 8
+stress: 2
+atk: "+2"
+attack: "Stone Claws"
+range: "Melee"
+damage: "2d10+3 phy"
+motives_and_tactics: "Hide in plain sight, overwatch, swoop down"
+experience: "Camouflage +4, Ruins +3"
+features:
+  - "Unliving - Passive"
+  - "Swooping Strike - Action"
+  - "Petrifying Slash - Reaction"
+---
+
 # Gargoyle
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

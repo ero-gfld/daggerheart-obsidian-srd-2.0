@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Arcana‑touched"
+domain: "Arcana"
+level: 7
+type: "Ability"
+recall: 2
+---
+
 # Arcana‑touched
 
 ***[Level 7](../core_rules/Domains.md#DOMAIN%20CARDS)*** *Arcana [Ability](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *2.*

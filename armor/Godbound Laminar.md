@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Godbound Laminar"
+tier: 4
+thresholds: "13/36"
+score: 6
+feature: "Divine: When you mark an Armor Slot, gain a Hope."
+---
+
 # Godbound Laminar
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

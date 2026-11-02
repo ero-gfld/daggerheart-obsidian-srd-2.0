@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Storm God’s Greataxe"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Very Close"
+damage: "d10+9 mag"
+burden: "Two-Handed"
+feature: "Bouncing: Mark any number of Stress to target that many additional creatures in range of the attack."
+---
+
 # Storm God’s Greataxe
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

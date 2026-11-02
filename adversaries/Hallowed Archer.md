@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Hallowed Archer"
+tier: 4
+type: "Ranged"
+description: "Spirit soldiers with sanctified bows."
+difficulty: 19
+thresholds: "25/45"
+hp: 3
+stress: 2
+atk: "+4"
+attack: "Sanctified Longbow"
+range: "Far"
+damage: "4d8+8 phy"
+motives_and_tactics: "Focus fire, obey, reposition, volley"
+features:
+  - "Punish the Guilty - Passive"
+  - "Divine Volley - Action"
+---
+
 # Hallowed Archer
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

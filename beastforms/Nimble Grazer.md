@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Nimble Grazer"
+tier: 1
+examples: "Deer, Gazelle, Goat, etc."
+trait_bonus: "Agility +1"
+evasion: "+3"
+attack: "Melee Agility d6 phy"
+advantages: "leap, sneak, sprint"
+features:
+  - "Elusive Prey"
+  - "Fragile"
+---
+
 # Nimble Grazer
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Deer, Gazelle, Goat, etc.)

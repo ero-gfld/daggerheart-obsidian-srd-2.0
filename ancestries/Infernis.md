@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "InfernIs"
+description: "Infernis are humanoids who possess sharp canine teeth, pointed ears, and horns."
+features:
+  - "Fearless"
+  - "Dread Visage"
+---
+
 # InfernIs
 
 Infernis are humanoids who possess sharp canine teeth, pointed ears, and horns. They are the descendants of demons from the Circles Below. On average, infernis range in height from 5 feet to 7 feet and are known to have long fingers and pointed nails. Some have long, thin, and smooth tails that end in points, forks, or arrowheads. It’s common for infernis to have two or four horns—though some have crowns of many horns, or only one. These horns can also grow asymmetrically, forming unique, often curving, shapes that infernis enhance with carving and ornamentation. Their skin, hair, and horns come in an assortment of colors that can include soft pastels, stark tones, or vibrant hues, such as rosy scarlet, deep purple, and pitch black.

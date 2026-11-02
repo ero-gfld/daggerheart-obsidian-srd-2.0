@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "High Seraph"
+tier: 4
+type: "Leader"
+description: "A divine champion, head of a hallowed host of warriors who enforce their god’s will."
+difficulty: 20
+thresholds: "37/70"
+hp: 7
+stress: 5
+atk: "+8"
+attack: "Holy Sword"
+range: "Very Close"
+damage: "4d10+10 phy"
+motives_and_tactics: "Enforce dogma, fly, pronounce judgment, smite"
+experience: "Divine Knowledge +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Divine Flight - Passive"
+  - "Judgment - Action"
+  - "God Rays - Action"
+  - "We Are One - Action"
+---
+
 # High Seraph
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

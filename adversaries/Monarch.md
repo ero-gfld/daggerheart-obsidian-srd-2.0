@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Monarch"
+tier: 3
+type: "Social"
+description: "The sovereign ruler of a nation, wreathed in the privilege of tradition and wielding unmatched power in their domain."
+difficulty: 16
+thresholds: "16/32"
+hp: 6
+stress: 5
+atk: "+0"
+attack: "Warhammer"
+range: "Melee"
+damage: "3d6+3 phy"
+motives_and_tactics: "Control vassals, destroy rivals, forge a legacy"
+experience: "History +3, Nobility +3"
+features:
+  - "Execute Them! - Action"
+  - "Crownsguard - Action"
+  - "Casus Belli - Reaction"
+---
+
 # Monarch
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Crossbow"
+tier: 1
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+1 phy"
+burden: "One-Handed"
+---
+
 # Crossbow
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

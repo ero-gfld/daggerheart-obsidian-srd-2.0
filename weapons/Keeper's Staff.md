@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Keeper's Staff"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Far"
+damage: "d6+4 mag"
+burden: "Two-Handed"
+feature: "Reliable: +1 to attack rolls"
+---
+
 # Keeper's Staff
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

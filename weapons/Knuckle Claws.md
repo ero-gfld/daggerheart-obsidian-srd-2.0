@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Knuckle Claws"
+tier: 4
+category: "Secondary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d6+8 phy"
+burden: "One-Handed"
+feature: "Doubled Up: When you make an attack with your primary weapon, you can deal damage to another target within Melee range."
+---
+
 # Knuckle Claws
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

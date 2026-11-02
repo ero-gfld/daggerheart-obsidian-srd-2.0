@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Tangle Bramble Swarm"
+tier: 1
+type: "Horde"
+horde: 3
+description: "A cluster of animate, blood-drinking tumbleweeds, each the size of a large gourd."
+difficulty: 12
+thresholds: "6/11"
+hp: 6
+stress: 3
+atk: "+0"
+attack: "Thorns"
+range: "Melee"
+damage: "1d6+3 phy"
+motives_and_tactics: "Digest, entangle, immobilize"
+experience: "Camouflage +2"
+features:
+  - "Horde (1d4+2) - Passive"
+  - "Crush - Action"
+  - "Encumber - Reaction"
+---
+
 # Tangle Bramble Swarm
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (3/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

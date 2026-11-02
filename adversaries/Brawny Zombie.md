@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Brawny Zombie"
+tier: 1
+type: "Bruiser"
+description: "A large corpse, decay-bloated and angry."
+difficulty: 10
+thresholds: "8/15"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Slam"
+range: "Very Close"
+damage: "1d12+3 phy"
+motives_and_tactics: "Crush, destroy, hail debris, slam"
+experience: "Collateral Damage +2, Throw +4"
+features:
+  - "Slow - Passive"
+  - "Rend Asunder - Action"
+  - "Rip and Tear - Reaction"
+---
+
 # Brawny Zombie
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

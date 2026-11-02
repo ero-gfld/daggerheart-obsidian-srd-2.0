@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Bugboar"
+tier: 1
+type: "Bruiser"
+description: "A large bipedal creature that has a tusked snout and coarse fur."
+difficulty: 13
+thresholds: "8/15"
+hp: 5
+stress: 3
+atk: "+1"
+attack: "Spiked Mace"
+range: "Very Close"
+damage: "1d8+6 phy"
+motives_and_tactics: "Ambush, bully, seek carnage and shiny things"
+experience: "Traps +3"
+features:
+  - "Surprise! - Passive"
+  - "Brutal - Reaction"
+  - "Warheart - Reaction"
+---
+
 # Bugboar
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

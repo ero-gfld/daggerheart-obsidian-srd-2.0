@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Improved Gambeson Armor"
+tier: 2
+thresholds: "7/16"
+score: 4
+feature: "Flexible: +1 to Evasion"
+---
+
 # Improved Gambeson Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

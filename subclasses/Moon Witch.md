@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Moon Witch"
+class: "Witch"
+spellcast_trait: "Instinct"
+description: "Play the Moon Witch if you want to embody celestial power to amplify your magic."
+features:
+  - "Night’s Glamour"
+  - "Moonbeam"
+  - "Ire of Pale Light"
+  - "Lunar Phases"
+---
+
 # Moon Witch
 
 Play the Moon Witch if you want to embody celestial power to amplify your magic.

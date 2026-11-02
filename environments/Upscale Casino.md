@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Upscale Casino"
+tier: 3
+type: "Social"
+description: "A glittering gambling hall where well-heeled merchants and nobles come to fritter away their fortunes."
+difficulty: 16
+impulses: "Dangle the jackpot just out of reach, dazzle them with spectacle, prey on their vices"
+potential_adversaries: "Automated Security (Vault Guardians), Gamblers (Courtesan, Merchant Baron, Petty Noble, Spy)"
+features:
+  - "Glitz & Glamor - Passive"
+  - "Fortune Favors the Bold - Passive"
+  - "The House Always Wins - Reaction"
+  - "Automated Security - Reaction"
+  - "The Devil’s Playground - Reaction"
+---
+
 # Upscale Casino
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

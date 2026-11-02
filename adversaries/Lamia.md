@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Lamia"
+tier: 3
+type: "Skulk"
+description: "A snake-tailed humanoid monster who stalks the night to absorb the life energy of sleeping people."
+difficulty: 17
+thresholds: "18/35"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Curved Dagger"
+range: "Melee"
+damage: "3d8+4 phy"
+motives_and_tactics: "Attack the unaware, avoid sunlight, leech life force, put to sleep, slither through tall grass"
+experience: "Snaky +3"
+features:
+  - "Constriction - Action"
+  - "Life Leech - Action"
+  - "Sleep Toxin - Reaction"
+---
+
 # Lamia
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

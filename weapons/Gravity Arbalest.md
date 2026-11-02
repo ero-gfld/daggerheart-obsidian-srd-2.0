@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Gravity Arbalest"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Far"
+damage: "d8+6 mag"
+burden: "Two-Handed"
+feature: "Magnetic: When you make an attack with this weapon, you can spend a Hope to force all adversaries within Very Close range of the target to make a Reaction Roll (16). Creatures who fail must mark a Stress and are pulled into Melee range of the target."
+---
+
 # Gravity Arbalest
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

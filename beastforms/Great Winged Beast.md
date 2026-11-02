@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Great Winged Beast"
+tier: 3
+examples: "Giant Eagle, Falcon, etc."
+trait_bonus: "Finesse +2"
+evasion: "+3"
+attack: "Melee Finesse d8+6 phy"
+advantages: "deceive, distract, locate"
+features:
+  - "Bird’s-Eye View"
+  - "Carrier"
+---
+
 # Great Winged Beast
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** ([Giant Eagle](../adversaries/Giant%20Eagle.md), Falcon, etc.)

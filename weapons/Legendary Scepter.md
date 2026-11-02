@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Scepter"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Far"
+damage: "d6+9 mag"
+burden: "Two-Handed"
+feature: "Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+6."
+---
+
 # Legendary Scepter
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

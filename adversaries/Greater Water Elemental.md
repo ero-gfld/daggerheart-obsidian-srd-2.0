@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Greater Water Elemental"
+tier: 3
+type: "Support"
+description: "A huge living wave that crashes down upon enemies."
+difficulty: 17
+thresholds: "17/34"
+hp: 5
+stress: 5
+atk: "+3"
+attack: "Crashing Wave"
+range: "Very Close"
+damage: "3d4+1 mag"
+motives_and_tactics: "Deluge, disperse, drown"
+features:
+  - "Water Jet - Action"
+  - "Drowning Embrace - Action"
+  - "High Tide - Reaction"
+---
+
 # Greater Water Elemental
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

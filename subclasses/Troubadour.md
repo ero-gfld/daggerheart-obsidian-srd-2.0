@@ -1,3 +1,14 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Troubadour"
+class: "Bard"
+spellcast_trait: "Presence"
+description: "Play the Troubadour if you want to play music to bolster your allies."
+features:
+  - "Gifted Performer"
+---
+
 # Troubadour
 
 Play the Troubadour if you want to play music to bolster your allies.

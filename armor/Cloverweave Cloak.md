@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Cloverweave Cloak"
+tier: 3
+thresholds: "11/27"
+score: 5
+feature: "Fortune-Favored: Once per scene, you can change a failure with Hope into a success with Fear."
+---
+
 # Cloverweave Cloak
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

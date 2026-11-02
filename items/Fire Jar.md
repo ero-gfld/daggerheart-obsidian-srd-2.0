@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/item"
+name: "Fire Jar"
+effect: "You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest."
+---
+
 # Fire Jar
 
 You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a [long rest](../core_rules/Core%20Mechanics.md#DOWNTIME).

@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Hand Runes"
+tier: 1
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d10 mag"
+burden: "One-Handed"
+---
+
 # Hand Runes
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

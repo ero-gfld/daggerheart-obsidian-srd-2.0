@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Hill Titan"
+tier: 2
+type: "Solo"
+description: "A goliath clad in animal skins and surrounded by a swarm of insects."
+difficulty: 14
+thresholds: "13/26"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Tree Stump"
+range: "Very Close"
+damage: "2d10+4 phy"
+motives_and_tactics: "Eat, make a mess, patrol stomping grounds"
+experience: "Survival +3, Vengeful +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Momentum - Passive"
+  - "Gullible - Passive"
+  - "Bug Swarm - Passive"
+  - "Mighty Swing - Action"
+---
+
 # Hill Titan
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

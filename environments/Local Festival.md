@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Local Festival"
+tier: 1
+type: "Social"
+description: "Commoners and nobles alike gather from the surrounding area for a weeklong celebration."
+difficulty: 11
+impulses: "Express local culture and history, forge new relationships, reinforce community"
+potential_adversaries: "Festival Security (Bladed Guard, Head Guard), Local Luminaries (Commoner, Merchant, Petty Noble), Sundry Ne’er-Do-Wells (Jagged Knife Bandit, Lackey)"
+features:
+  - "Remember, Remember - Passive"
+  - "Political Machinations - Passive"
+  - "“Let the Games Begin!” - Action"
+  - "Legendary Local - Action"
+---
+
 # Local Festival
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

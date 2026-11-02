@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Griffin"
+tier: 4
+type: "Standard"
+description: "A large leonine creature that has the head, talons, and wings of an eagle."
+difficulty: 18
+thresholds: "30/45"
+hp: 6
+stress: 4
+atk: "+4"
+attack: "Beak & Talons"
+range: "Very Close"
+damage: "4d8+4 phy"
+motives_and_tactics: "Hunt, look for an opening, swoop"
+experience: "Riches +5, Keen Senses +3"
+features:
+  - "Treasure Hoarder - Passive"
+  - "Swooping Slash - Action"
+---
+
 # Griffin
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

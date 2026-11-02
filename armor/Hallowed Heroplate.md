@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Hallowed Heroplate"
+tier: 4
+thresholds: "13/35"
+score: 7
+feature: "Blessed: Once per long rest, you can spend any number of Hope before you make the Risk It All death move. You gain a bonus to the result of your Hope Die equal to the number of Hope spent."
+---
+
 # Hallowed Heroplate
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

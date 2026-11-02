@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/transformation"
+name: "Vampire"
+description: "Vampires are undead creatures with sharp fangs who feed on the blood of the living."
+features:
+  - "Fangs"
+  - "Feed"
+---
+
 # Vampire
 
 Vampires are undead creatures with sharp fangs who feed on the blood of the living. They aren’t born, but created—sired by another vampire through a bite and exchange of blood, transformed through an occult ritual, or changed through other mysterious methods. Because those who become vampires die and come back as supernatural entities, they must consume the blood—the life essence—of others to survive.

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Redcap Candlemaker"
+tier: 1
+type: "Leader"
+description: "A pale, gaunt cult leader wearing a conical red cap sealed on their head with candle wax. They wield a long rod with a candle atop it made from a hanged criminal’s hand."
+difficulty: 13
+thresholds: "7/13"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Burning Candlestick"
+range: "Very Close"
+damage: "1d10+2 mag"
+motives_and_tactics: "Cast long shadows, keep out of the fray, show them the light"
+experience: "Vigilance +3"
+features:
+  - "Hand of Glory - Passive"
+  - "Torchbearer - Passive"
+  - "Dance in the Flames - Action"
+---
+
 # Redcap Candlemaker
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

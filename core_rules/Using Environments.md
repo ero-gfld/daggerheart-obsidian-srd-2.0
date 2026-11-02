@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Using Environments"
+description: "Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces."
+---
+
 # Using Environments
 
 *Environments represent everything in a scene beyond the [PCs](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) and [adversaries](Using%20Adversaries.md), such as the physical space, background [NPCs](Making%20Moves.md#RUNNING%20GM%20NPCS), and* *natural forces.*

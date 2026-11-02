@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Runelock Pistol"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Far"
+damage: "d6+12 mag"
+burden: "One-Handed"
+feature: "Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+---
+
 # Legendary Runelock Pistol
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

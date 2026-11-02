@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Bec de Corbin"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Very Close"
+damage: "d10+9 phy"
+burden: "Two-Handed"
+feature: "Devastating: Before you make an attack roll, you can mark a Stress to use a d20 as your damage die."
+---
+
 # Bec de Corbin
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

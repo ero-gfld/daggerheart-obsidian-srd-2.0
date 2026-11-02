@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Spectral Guardian"
+tier: 2
+type: "Standard"
+description: "A ghostly fighter with spears and swords, anchored by duty."
+difficulty: 15
+thresholds: "7/15"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Spear"
+range: "Very Close"
+damage: "2d8+1 phy"
+motives_and_tactics: "Move through solid objects, protect treasure, rehash old battles"
+experience: "Ancient Knowledge +2"
+features:
+  - "Ghost - Passive"
+  - "Grave Blade - Action"
+---
+
 # Spectral Guardian
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

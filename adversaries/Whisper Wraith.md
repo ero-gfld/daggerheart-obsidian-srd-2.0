@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Whisper Wraith"
+tier: 3
+type: "Skulk"
+description: "The echoes of broken promises and dreams unfulfilled, manifesting as a floating, translucent shroud of tattered black velvet in a vaguely humanoid shape."
+difficulty: 16
+thresholds: "20/32"
+hp: 6
+stress: 6
+atk: "+4"
+attack: "Shadow Touch"
+range: "Melee"
+damage: "3d8+4 mag"
+motives_and_tactics: "Bind limbs, drop from a great height, lift off the ground, swirl through the air, wrap around heads"
+experience: "Dreams +4"
+features:
+  - "Greater Specter - Passive"
+  - "Spooky - Passive"
+  - "Nightmare Shroud - Action"
+---
+
 # Whisper Wraith
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

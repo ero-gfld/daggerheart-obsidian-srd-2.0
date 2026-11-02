@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Irontree Breastplate Armor"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Reinforced: When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot."
+---
+
 # Irontree Breastplate Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

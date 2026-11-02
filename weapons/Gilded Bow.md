@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Gilded Bow"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+7 mag"
+burden: "Two-Handed"
+feature: "Self-Correcting: When you roll a 1 on a damage die, it deals 6 damage instead."
+---
+
 # Gilded Bow
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

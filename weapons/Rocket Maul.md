@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Rocket Maul"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+7 mag"
+burden: "Two-Handed"
+feature: "Concussive: On a successful attack, you can spend a Hope to knock the target back to Far range."
+---
+
 # Rocket Maul
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

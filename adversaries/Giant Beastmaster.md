@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Giant Beastmaster"
+tier: 2
+type: "Leader"
+description: "A leather-clad warrior bearing a whip and massive bow."
+difficulty: 16
+thresholds: "12/24"
+hp: 6
+stress: 5
+atk: "+2"
+attack: "Longbow"
+range: "Far"
+damage: "2d8+4 phy"
+motives_and_tactics: "Command, make a living, maneuver, pin down, protect companion animals"
+experience: "Animal Handling +3"
+features:
+  - "Two as One - Passive"
+  - "Pinning Strike - Action"
+  - "Deadly Companion - Action"
+---
+
 # Giant Beastmaster
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Stormthread Habit"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Absorbing: Once per scene when you take magic damage, you can clear an Armor Slot."
+---
+
 # Stormthread Habit
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

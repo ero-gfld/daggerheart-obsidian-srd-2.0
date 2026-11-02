@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Chaos Skull"
+tier: 2
+type: "Ranged"
+description: "A floating humanoid skull animated by scintillating magic."
+difficulty: 15
+thresholds: "8/16"
+hp: 5
+stress: 4
+atk: "+2"
+attack: "Energy Blast"
+range: "Close"
+damage: "2d8+3 mag"
+motives_and_tactics: "Cackle, consume magic, serve creator"
+features:
+  - "Levitation - Passive"
+  - "Wards - Passive"
+  - "Magic Burst - Action"
+  - "Siphon Magic - Action"
+---
+
 # Chaos Skull
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cephilith Priest"
+tier: 4
+type: "Leader"
+description: "A perpetually moist, faceless humanoid from the Outer Realms who has elongated fingers and translucent skin, under which one can see wriggling worms."
+difficulty: 20
+thresholds: "37/70"
+hp: 7
+stress: 5
+atk: "+8"
+attack: "Psychic Strike"
+range: "Far"
+damage: "4d10+10 mag"
+motives_and_tactics: "Break the unbelievers’ minds, prepare this world for the Cephilith Titan’s arrival, sing its praises"
+experience: "Outer Realms +4"
+features:
+  - "Psychic Blast - Action"
+  - "Cerebral Incursion - Action"
+  - "Telekinetic Grasp - Reaction"
+---
+
 # Cephilith Priest
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

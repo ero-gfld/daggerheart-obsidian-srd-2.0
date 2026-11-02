@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Siren"
+tier: 2
+type: "Skulk"
+description: "A half-fish person with shimmering scales and an irresistible voice."
+difficulty: 14
+thresholds: "9/18"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Distended Jaw Bite"
+range: "Melee"
+damage: "2d6+3 phy"
+motives_and_tactics: "Consume, lure prey, subdue with song"
+experience: "Song Repertoire +3"
+features:
+  - "Captive Audience - Passive"
+  - "Enchanting Song - Action"
+---
+
 # Siren
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

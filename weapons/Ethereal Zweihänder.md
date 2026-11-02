@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Ethereal Zweihänder"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Very Close"
+damage: "d10+9 mag"
+burden: "Two-Handed"
+feature: "Ethereal: You must mark a Stress to conjure this weapon. It lasts until the end of the scene."
+---
+
 # Ethereal Zweihänder
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

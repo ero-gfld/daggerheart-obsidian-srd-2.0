@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Castle Siege"
+tier: 3
+type: "Event"
+description: "An active siege with an attacking force fighting to gain entry to a fortified castle."
+difficulty: 17
+impulses: "Bleed out the will to fight, breach the walls, build tension"
+potential_adversaries: "Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)"
+features:
+  - "Secret Entrance - Passive"
+  - "Siege Weapons (Environment Change) - Action"
+  - "Reinforcements! - Action"
+  - "Collateral Damage - Reaction"
+---
+
 # Castle Siege
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

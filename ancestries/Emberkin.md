@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Emberkin"
+description: "Emberkin are humanoids whose bodies are made of flesh and fire."
+features:
+  - "Fireproof"
+  - "Ignition"
+---
+
 # Emberkin
 
 Emberkin are humanoids whose bodies are made of flesh and fire. Descended from fire elementals, emberkin might manifest their fiery heritage through flaming hair, eyes like embers, luminous streams that dance across their skin, a smoking exterior, or a glow flickering through their muscles, veins, organs, or fingertips. All these features are known to shift or flare with their emotions, and some individuals’ characteristics might be more changeable than another’s. The coloring of their skin and hair resembles the hues of fire: bright red, orange, yellow, charcoal, or even hints of blue. Their ears curve and point like a tongue of fire, and they tend to be warmer in temperature, either purposefully or innately, with some even being hot to the touch.

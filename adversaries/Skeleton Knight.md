@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Skeleton Knight"
+tier: 1
+type: "Bruiser"
+description: "A large armored skeleton with a huge blade."
+difficulty: 13
+thresholds: "7/13"
+hp: 5
+stress: 2
+atk: "+2"
+attack: "Rusty Greatsword"
+range: "Melee"
+damage: "1d10+2 phy"
+motives_and_tactics: "Cut down the living, steal skin, wreak havoc"
+features:
+  - "Terrifying - Passive"
+  - "Cut to the Bone - Action"
+  - "Dig Two Graves - Reaction"
+---
+
 # Skeleton Knight
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

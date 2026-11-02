@@ -1,3 +1,30 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Volcanic Dragon: Ashen Tyrant"
+tier: 4
+type: "Solo"
+description: "No enemy has ever had the insolence to wound the dragon so. As the lava settles, it's ground to ash like the dragon's past foes."
+difficulty: 18
+thresholds: "29/55"
+hp: 8
+stress: 5
+atk: "+10"
+attack: "Claws and Teeth"
+range: "Close"
+damage: "4d12+15 phy"
+motives_and_tactics: "Choke, fly, intimidate, kill or be killed"
+experience: "Hunt from Above +5"
+features:
+  - "Relentless (4) - Passive"
+  - "Cornered - Passive"
+  - "Injured Wings - Passive"
+  - "Ashes to Ashes - Passive"
+  - "Desperate Rampage - Action"
+  - "Ashen Cloud - Action"
+  - "Apocalyptic Thrashing - Action: Countdown (1d12)"
+---
+
 # Volcanic Dragon: Ashen Tyrant
 
 **_[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)._** _No enemy has ever had the insolence to wound the dragon so. As the lava settles, it's ground to ash like the dragon's past foes._

@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Bladed Guard"
+tier: 1
+type: "Standard"
+description: "An armored guard bearing a sword and shield painted in the settlement’s colors."
+difficulty: 12
+thresholds: "5/9"
+hp: 5
+stress: 2
+atk: "+1"
+attack: "Longsword"
+range: "Melee"
+damage: "1d6+1 phy"
+motives_and_tactics: "Arrest, close gates, make it through the day, pin down"
+experience: "Local Knowledge +3"
+features:
+  - "Shield Wall - Passive"
+  - "Detain - Action"
+---
+
 # Bladed Guard
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

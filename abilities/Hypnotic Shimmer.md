@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/domain-card"
+name: "Hypnotic Shimmer"
+domain: "Grace"
+level: 3
+type: "Spell"
+recall: 1
+---
+
 # Hypnotic Shimmer
 
 ***[Level 3](../core_rules/Domains.md#DOMAIN%20CARDS)*** *[Grace](../domains/Grace.md) [Spell](../core_rules/Domains.md#DOMAIN%20CARDS).* ***[Recall Cost](../core_rules/Domains.md#DOMAIN%20CARDS)*** *1.*

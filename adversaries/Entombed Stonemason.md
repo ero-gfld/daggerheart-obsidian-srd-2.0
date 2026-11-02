@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Entombed Stonemason"
+tier: 2
+type: "Minion"
+description: "An unfortunate undead laborer chosen by lottery to wall up their empress’s tomb from the inside."
+difficulty: 12
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Hammer and Chisel"
+range: "Melee"
+damage: "5 phy"
+motives_and_tactics: "Never stop working, sacrifice yourself for the empress"
+experience: "Builder +2"
+features:
+  - "Minion (5) - Passive"
+  - "Group Attack - Action"
+  - "The Work Never Ends - Reaction"
+---
+
 # Entombed Stonemason
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

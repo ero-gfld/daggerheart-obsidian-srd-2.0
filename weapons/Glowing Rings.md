@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Glowing Rings"
+tier: 1
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Very Close"
+damage: "d10+2 mag"
+burden: "Two-Handed"
+---
+
 # Glowing Rings
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

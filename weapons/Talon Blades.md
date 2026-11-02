@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Talon Blades"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Close"
+damage: "d10+7 phy"
+burden: "Two-Handed"
+feature: "Brutal: When you roll the maximum value on a damage die, roll an additional damage die."
+---
+
 # Talon Blades
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

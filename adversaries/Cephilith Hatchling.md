@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cephilith Hatchling"
+tier: 4
+type: "Minion"
+description: "A squidlike parasite that latches onto their prey’s skull, bathing the victim’s brain in extradimensional neurotoxins."
+difficulty: 18
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Barbed Suckers"
+range: "Melee"
+damage: "9 phy"
+motives_and_tactics: "Climb, feed, hatch, numb, scuttle"
+experience: "Psychic +2"
+features:
+  - "Minion (12) - Passive"
+  - "Comatize - Action"
+  - "Group Attack - Action"
+---
+
 # Cephilith Hatchling
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

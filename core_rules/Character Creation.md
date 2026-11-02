@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Character Creation"
+description: "Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices."
+---
+
 # Character Creation
 
 Unless their table chooses to use pre-generated characters, each player creates their own [PC](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Ghastly Legion"
+tier: 4
+type: "Horde"
+horde: 10
+description: "A teeming army of ghosts roused from dreamless slumber to fulfill their ancient oath."
+difficulty: 17
+thresholds: "25/45"
+hp: 8
+stress: 5
+atk: "+2"
+attack: "Spectral Armaments"
+range: "Close"
+damage: "4d6+10 mag"
+motives_and_tactics: "Overwhelm, serve, swarm"
+experience: "Tactics +2"
+features:
+  - "Horde (2d6+5) - Passive"
+  - "Necroplasmic - Passive"
+  - "Final Act - Reaction"
+---
+
 # Ghastly Legion
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (10/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

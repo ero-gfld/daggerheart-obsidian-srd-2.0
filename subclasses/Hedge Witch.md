@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Hedge Witch"
+class: "Witch"
+spellcast_trait: "Knowledge"
+description: "Play the Hedge Witch if you want to use your craft to empower yourself and your party."
+features:
+  - "Herbal Remedies"
+  - "Enchanted Talisman"
+  - "Walk Between Worlds"
+  - "Vexing Malison"
+  - "Circle of Power"
+---
+
 # Hedge Witch
 
 Play the Hedge Witch if you want to use your craft to empower yourself and your party.

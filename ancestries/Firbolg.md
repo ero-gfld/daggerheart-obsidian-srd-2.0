@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Firbolg"
+description: "Firbolgs are bovine humanoids typically recognized by their broad noses and long, drooping ears."
+features:
+  - "Charge"
+  - "Unshakable"
+---
+
 # Firbolg
 
 Firbolgs are bovine humanoids typically recognized by their broad noses and long, drooping ears. Some have faces that are a blend of humanoid and bison, ox, cow, or other bovine creatures. Others, often referred to as minotaurs, have heads that entirely resemble cattle. They are tall and muscular creatures, with heights ranging from around 5 feet to

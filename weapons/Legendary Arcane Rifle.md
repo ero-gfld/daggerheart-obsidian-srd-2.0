@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Arcane Rifle"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Very Far"
+damage: "d10+12 mag"
+burden: "Two-Handed"
+feature: "Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
+---
+
 # Legendary Arcane Rifle
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

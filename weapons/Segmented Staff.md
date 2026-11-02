@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Segmented Staff"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Agility"
+range: "Very Close"
+damage: "d6+4 phy"
+burden: "One-Handed"
+feature: "Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range"
+---
+
 # Segmented Staff
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

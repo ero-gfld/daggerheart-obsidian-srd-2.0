@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Bladefare Armor"
+tier: 3
+thresholds: "16/39"
+score: 6
+feature: "Physical: You can’t mark an Armor Slot to reduce magic damage."
+---
+
 # Bladefare Armor
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

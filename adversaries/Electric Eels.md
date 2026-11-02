@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Electric Eels"
+tier: 2
+type: "Horde"
+horde: 2
+description: "A swarm of eels that encircle and electrocute."
+difficulty: 14
+thresholds: "10/20"
+hp: 5
+stress: 3
+atk: "+0"
+attack: "Shocking Bite"
+range: "Melee"
+damage: "2d6+4 phy"
+motives_and_tactics: "Avoid larger predators, shock prey, tear apart"
+features:
+  - "Horde (2d4+1) - Passive"
+  - "Paralyzing Shock - Action"
+---
+
 # Electric Eels
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (2/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

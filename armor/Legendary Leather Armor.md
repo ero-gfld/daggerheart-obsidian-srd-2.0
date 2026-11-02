@@ -1,3 +1,12 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Legendary Leather Armor"
+tier: 4
+thresholds: "13/36"
+score: 6
+---
+
 # Legendary Leather Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

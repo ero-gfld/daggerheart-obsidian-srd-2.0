@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cloud Titan"
+tier: 4
+type: "Social"
+description: "A devastatingly attractive, blue-skinned goliath dressed in the finest silks and dripping with jewelry. They luxuriate in the finer things and dwell in a sky palace filled with treasure."
+difficulty: 18
+thresholds: "26/42"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Bejeweled Blade"
+range: "Very Close"
+damage: "4d6+8 phy"
+motives_and_tactics: "Acquire rare and valuable things, celebrate beauty, never pass up an interesting wager"
+experience: "Luxury +3, Nobility +3"
+features:
+  - "Lightning Strike - Action"
+  - "Mist Weaver - Action"
+  - "Nebulous Transformation - Action"
+  - "Unleash the Menagerie - Action"
+  - "Wind Worker - Action"
+  - "Double or Nothing - Reaction"
+---
+
 # Cloud Titan
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

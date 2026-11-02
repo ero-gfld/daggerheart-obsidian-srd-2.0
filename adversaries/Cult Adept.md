@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Cult Adept"
+tier: 2
+type: "Support"
+description: "An experienced mage wielding shadow and fear."
+difficulty: 14
+thresholds: "9/18"
+hp: 4
+stress: 6
+atk: "+2"
+attack: "Rune-Covered Rod"
+range: "Far"
+damage: "2d4+3 mag"
+motives_and_tactics: "Curry favor, hinder foes, uncover knowledge"
+experience: "Fallen Lore +2, Rituals +2"
+features:
+  - "Enervating Blast - Action"
+  - "Shroud of the Fallen - Action"
+  - "Shadow Shackles - Action"
+  - "Fear Is Fuel - Reaction"
+---
+
 # Cult Adept
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)***

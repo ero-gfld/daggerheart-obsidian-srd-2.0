@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dragon Knight"
+tier: 2
+type: "Bruiser"
+description: "A knight clad in dragonplate armor and a helmet in the shape of a dragon’s head."
+difficulty: 15
+thresholds: "15/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Lance"
+range: "Very Close"
+damage: "2d12+3 phy"
+motives_and_tactics: "Exploit an opening, get some distance, knock enemies off-balance, strike from above"
+experience: "Jousts +2"
+features:
+  - "High Ground - Passive"
+  - "Leaping Strike - Action"
+  - "Comeback - Reaction"
+---
+
 # Dragon Knight
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

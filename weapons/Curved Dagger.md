@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Curved Dagger"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Melee"
+damage: "d8+9 phy"
+burden: "One-Handed"
+feature: "Serrated: When you roll a 1 on a damage die, it deals 8 damage instead."
+---
+
 # Curved Dagger
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

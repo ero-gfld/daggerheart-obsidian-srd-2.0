@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Alchemist’s Abandoned Workshop"
+tier: 1
+type: "Exploration"
+description: "A lightning-powered laboratory built by a scientist searching for the secret to immortality."
+difficulty: 11
+impulses: "Break down the barrier between life and death, draw down lightning from the heavens, overclock the machinery"
+potential_adversaries: "Lab Leftovers (Construct, Minor Fire Elemental, Patchwork Zombie Hulk, Swarm of Rats)"
+features:
+  - "Cabinet of Curiosities - Passive"
+  - "Strange Machinery - Passive"
+  - "It’s Alive! - Action"
+---
+
 # Alchemist’s Abandoned Workshop
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

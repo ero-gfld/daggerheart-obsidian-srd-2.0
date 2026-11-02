@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Crystal Wasteland"
+tier: 3
+type: "Traversal"
+description: "A harsh and alien landscape that shines with towers of glittering crystal."
+difficulty: 16
+impulses: "Cut them to their core, fracture their psyches, show their true reflection"
+potential_adversaries: "Adult Flickerfly, Constructs, Elemental Spark, Vault Guardians, Whisper Wraiths"
+features:
+  - "Harmonic Resonance - Passive"
+  - "Gravitational Anomalies - Action"
+  - "Arcane Reflection - Action"
+  - "Razor-Sharp Terrain - Reaction"
+  - "Psychic Shuffle - Reaction"
+---
+
 # Crystal Wasteland
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

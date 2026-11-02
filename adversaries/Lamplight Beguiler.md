@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Lamplight Beguiler"
+tier: 3
+type: "Skulk"
+description: "A huge aquatic creature that lures unwary prey into eating range with its dangling, shapeshifting head stalk."
+difficulty: 16
+thresholds: "16/32"
+hp: 6
+stress: 5
+atk: "+3"
+attack: "Jaws"
+range: "Melee"
+damage: "3d8+2 phy"
+motives_and_tactics: "Entice with secret knowledge, snap the trap shut, speak through a shapeshifted head stalk"
+experience: "Charm +3, Secrets +3"
+features:
+  - "Doppel-Dangler - Action"
+  - "Entice - Action"
+  - "Gulp - Reaction"
+---
+
 # Lamplight Beguiler
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

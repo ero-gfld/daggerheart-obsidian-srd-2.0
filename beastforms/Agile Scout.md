@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Agile Scout"
+tier: 1
+examples: "Fox, Mouse, Weasel, etc."
+trait_bonus: "Agility +1"
+evasion: "+2"
+attack: "Melee Agility d4 phy"
+advantages: "deceive, locate, sneak"
+features:
+  - "Agile"
+  - "Fragile"
+---
+
 # Agile Scout
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Fox, Mouse, Weasel, etc.)

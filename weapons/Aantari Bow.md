@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Aantari Bow"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Finesse"
+range: "Far"
+damage: "d6+11 phy"
+burden: "Two-Handed"
+feature: "Reliable: +1 to attack rolls"
+---
+
 # Aantari Bow
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

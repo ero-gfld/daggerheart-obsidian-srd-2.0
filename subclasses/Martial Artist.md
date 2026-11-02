@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "Martial Artist"
+class: "Brawler"
+description: "Play the Martial Artist if you want to use a variety of fighting styles to eliminate your foes."
+features:
+  - "Stance Fighter"
+  - "Keen Defenses"
+  - "Focus Cannon"
+  - "Limit Breaker"
+  - "Flow State"
+---
+
 # Martial Artist
 
 Play the Martial Artist if you want to use a variety of fighting styles to eliminate your foes.

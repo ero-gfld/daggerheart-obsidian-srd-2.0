@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Will-O’-The-Wisps"
+tier: 1
+type: "Horde"
+horde: 8
+description: "Lazily floating orbs of color-shifting werelight."
+difficulty: 9
+thresholds: "5/9"
+hp: 4
+stress: 2
+atk: "-3"
+attack: "Flash"
+range: "Close"
+damage: "1d4+2 mag"
+motives_and_tactics: "Dazzle and distract, disorient, lead astray"
+experience: "Darkness +3"
+features:
+  - "Horde (1d4−1) - Passive"
+  - "Kaleidoscopic - Passive"
+  - "Fascinating - Action"
+---
+
 # Will-O’-The-Wisps
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (8/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

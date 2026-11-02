@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Bladed Star"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Knowledge"
+range: "Close"
+damage: "d8+7 phy"
+burden: "One-Handed"
+feature: "Rebounding: When you throw this weapon, it returns to your hand. On a failed attack, you can reroll your attack with disadvantage."
+---
+
 # Bladed Star
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

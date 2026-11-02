@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Elemental Kin"
+description: "Elemental kin are humanoid mortals descended from powerful supernatural entities known as elementals—embodiments of the fundamental forces that shape the Mortal Realm (such as earth, air, fire, and…"
+---
+
 # Elemental Kin
 
 Elemental kin are humanoid mortals descended from powerful supernatural entities known as elementals—embodiments of the fundamental forces that shape the Mortal Realm (such as earth, air, fire, and water). These “kin” manifest forces differently, with some appearing more or less humanoid than others, but they all have a lineage that grants them unique ways to harness and influence their elemental heritage.

@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Thistlebow"
+tier: 4
+category: "Primary"
+type: "Magical"
+trait: "Instinct"
+range: "Far"
+damage: "d6+13 mag"
+burden: "Two-Handed"
+feature: "Reliable: +1 to attack rolls"
+---
+
 # Thistlebow
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

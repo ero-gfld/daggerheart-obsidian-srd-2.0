@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Monett’s Cloak"
+tier: 3
+thresholds: "16/39"
+score: 6
+feature: "Magic: You can’t mark an Armor Slot to reduce physical damage."
+---
+
 # Monett’s Cloak
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

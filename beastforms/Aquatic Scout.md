@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Aquatic Scout"
+tier: 1
+examples: "Eel, Fish, Octopus, etc."
+trait_bonus: "Agility +1"
+evasion: "+2"
+attack: "Melee Agility d4 phy"
+advantages: "navigate, sneak, swim"
+features:
+  - "Aquatic"
+  - "Fragile"
+---
+
 # Aquatic Scout
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Eel, Fish, Octopus, etc.)

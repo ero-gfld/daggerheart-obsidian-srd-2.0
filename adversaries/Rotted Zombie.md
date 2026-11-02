@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Rotted Zombie"
+tier: 1
+type: "Minion"
+description: "A decaying corpse ambling toward their prey."
+difficulty: 8
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-3"
+attack: "Bite"
+range: "Melee"
+damage: "2 phy"
+motives_and_tactics: "Eat flesh, hunger, maul, surround"
+features:
+  - "Minion (3) - Passive"
+  - "Group Attack - Action"
+---
+
 # Rotted Zombie
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

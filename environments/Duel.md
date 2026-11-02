@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Duel"
+tier: 2
+type: "Event"
+description: "An adversary challenges one of the PCs to single combat as the rest of the party aids them from the sidelines."
+difficulty: "Special (see “Relative Strength”)"
+impulses: "Focus on one PC, goad them into overcommitting, inflict an embarrassing defeat, sideline the rest of the party"
+potential_adversaries: "Any"
+features:
+  - "“I Demand Satisfaction.” - Passive"
+  - "Relative Strength - Passive"
+  - "Rules of Engagement - Passive"
+  - "Dirty Tricks - Action"
+---
+
 # Duel
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

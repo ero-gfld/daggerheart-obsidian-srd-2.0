@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Scarecrow"
+tier: 2
+type: "Standard"
+description: "A bundle of straw bound into a humanoid shape, clothed in rags, and animated by a trapped soul."
+difficulty: 15
+thresholds: "7/15"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Sickle"
+range: "Melee"
+damage: "2d6+1 phy"
+motives_and_tactics: "Pull yourself together, scratch and claw"
+experience: "Birds +2, Fields +2"
+features:
+  - "Made of Straw - Passive"
+  - "Terror Vision - Action"
+---
+
 # Scarecrow
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

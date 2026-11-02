@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Halberd"
+tier: 4
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Very Close"
+damage: "d10+11 phy"
+burden: "Two-Handed"
+feature: "Cumbersome: −1 to Finesse"
+---
+
 # Legendary Halberd
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

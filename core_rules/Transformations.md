@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Transformations"
+description: "Transformations represent a fundamental shift in your character and how they interact with the world."
+---
+
 # Transformations
 
 Transformations represent a fundamental shift in your character and how they interact with the world. These are optional aspects of a character’s identity that the [GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) can give out during a campaign as part of the narrative or, at their discretion, present as an option during character creation.

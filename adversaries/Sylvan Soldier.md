@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Sylvan Soldier"
+tier: 1
+type: "Standard"
+description: "A faerie warrior adorned in armor made of leaves and bark."
+difficulty: 11
+thresholds: "6/11"
+hp: 4
+stress: 2
+atk: "+0"
+attack: "Scythe"
+range: "Melee"
+damage: "1d8+1 phy"
+motives_and_tactics: "Ambush, hide, overwhelm, protect, trail"
+experience: "Tracker +2"
+features:
+  - "Pack Tactics - Passive"
+  - "Forest Control - Action"
+  - "Blend In - Reaction"
+---
+
 # Sylvan Soldier
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

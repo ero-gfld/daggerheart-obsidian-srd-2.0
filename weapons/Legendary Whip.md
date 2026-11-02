@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Legendary Whip"
+tier: 4
+category: "Secondary"
+type: "Physical"
+trait: "Presence"
+range: "Very Close"
+damage: "d6+6 phy"
+burden: "One-Handed"
+feature: "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+---
+
 # Legendary Whip
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

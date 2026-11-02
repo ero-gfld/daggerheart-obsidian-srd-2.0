@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Perfected Zombie"
+tier: 4
+type: "Bruiser"
+description: "A towering, muscular zombie with magically infused strength and skill."
+difficulty: 20
+thresholds: "40/70"
+hp: 9
+stress: 4
+atk: "+4"
+attack: "Greataxe"
+range: "Very Close"
+damage: "4d12+15 phy"
+motives_and_tactics: "Consume, hound, maim, terrify"
+features:
+  - "Terrifying - Passive"
+  - "Fearsome Presence - Passive"
+  - "Perfect Strike - Action"
+  - "Skilled Opportunist - Reaction"
+---
+
 # Perfected Zombie
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

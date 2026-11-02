@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Resonant Harness"
+tier: 4
+thresholds: "15/40"
+score: 7
+feature: "Vitreous: When you would take Severe or greater damage, you can mark 2 Armor Slots to negate that damage. If you do, you gain a −5 penalty to your damage thresholds until you choose to repair your armor as a downtime move."
+---
+
 # Resonant Harness
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

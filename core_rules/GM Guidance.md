@@ -1,3 +1,12 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "GM Guidance"
+description: "These three sections provide a foundation to help you get the most out of this game."
+sections:
+  - "CORE GM MECHANICS"
+---
+
 # GM Guidance
 
 These three sections provide a foundation to help you get the most out of this game. The “[GM](Introduction.md#WHAT%20IS%20DAGGERHEART%3F) Principles” are your guiding star—when in doubt, return to these principles.

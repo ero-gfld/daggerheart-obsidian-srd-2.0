@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Scimitar"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d8+7 phy"
+burden: "One-Handed"
+---
+
 # Advanced Scimitar
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

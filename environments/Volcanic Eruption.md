@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Volcanic Eruption"
+tier: 3
+type: "Event"
+description: "An explosion of heat and molten rock that leaves behind only charred desolation."
+difficulty: 16
+impulses: "Create panic all around, cut off the exits, isolate, make them scramble for safety, split the party"
+potential_adversaries: "Elemental Spark, Lava Elemental (Greater Earth Elemental), Volcanic Dragon"
+features:
+  - "Unstable Ground - Passive"
+  - "Violent Eruption - Action"
+  - "Vent Toxic Gas - Action"
+---
+
 # Volcanic Eruption
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Viper"
+tier: 1
+type: "Minion"
+description: "A small serpent that envenomates its prey with hinged fangs."
+difficulty: 11
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Bite"
+range: "Melee"
+damage: "1 phy"
+motives_and_tactics: "Lie in wait, slither, strike"
+experience: "Grounded +4"
+features:
+  - "Minion (4) - Passive"
+  - "Venomous - Passive"
+  - "Group Attack - Action"
+---
+
 # Viper
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

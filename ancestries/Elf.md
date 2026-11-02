@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/ancestry"
+name: "Elf"
+description: "Elves are typically tall humanoids with pointed ears and acutely attuned senses."
+features:
+  - "Quick Reactions"
+  - "Celestial Trance"
+---
+
 # Elf
 
 Elves are typically tall humanoids with pointed ears and acutely attuned senses. Their ears vary in size and pointed shape, and as they age, the tips begin to droop. While elves come in a wide range of body types, they are all fairly tall, with heights ranging from about 6 to 6 ½ feet. All elves have the ability to drop into a celestial trance, rather than sleep. This allows them to rest effectively in a short amount of time.

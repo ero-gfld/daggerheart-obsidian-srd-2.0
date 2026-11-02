@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Conscript"
+tier: 2
+type: "Minion"
+description: "A poorly trained civilian pressed into war."
+difficulty: 12
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+0"
+attack: "Spears"
+range: "Very Close"
+damage: "6 phy"
+motives_and_tactics: "Follow orders, gang up, survive"
+features:
+  - "Minion (6) - Passive"
+  - "Group Attack - Action"
+---
+
 # Conscript
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Arcane Gauntlets"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Strength"
+range: "Melee"
+damage: "d10+9 mag"
+burden: "Two-Handed"
+---
+
 # Advanced Arcane Gauntlets
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

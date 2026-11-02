@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Outer Realms Corruptor"
+tier: 4
+type: "Support"
+description: "A shifting, formless mass seemingly made of chromatic light."
+difficulty: 19
+thresholds: "27/47"
+hp: 4
+stress: 3
+atk: "+7"
+attack: "Corroding Pseudopod"
+range: "Very Close"
+damage: "4d8+5 mag"
+motives_and_tactics: "Confuse, distract, overwhelm"
+features:
+  - "Will-Shattering Touch - Passive"
+  - "Disgorge Reality Flotsam - Action"
+---
+
 # Outer Realms Corruptor
 
 **_[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Support](../core_rules/Using%20Adversaries.md)._** _A shifting, formless mass seemingly made of chromatic light._

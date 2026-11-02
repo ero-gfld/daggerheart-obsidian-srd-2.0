@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Fighting Cloak"
+tier: 3
+category: "Secondary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d4+4 phy"
+burden: "One-Handed"
+feature: "Padded: +4 to damage thresholds"
+---
+
 # Advanced Fighting Cloak
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

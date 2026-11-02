@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Zombie Pack"
+tier: 1
+type: "Horde"
+horde: 2
+description: "A group of shambling corpses instinctively moving together."
+difficulty: 8
+thresholds: "6/12"
+hp: 6
+stress: 3
+atk: "-1"
+attack: "Bite"
+range: "Melee"
+damage: "1d10+2 phy"
+motives_and_tactics: "Consume flesh, hunger, maul"
+features:
+  - "Horde (1d4+2) - Passive"
+  - "Overwhelm - Reaction"
+---
+
 # Zombie Pack
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Horde](../core_rules/Using%20Adversaries.md) (2/[HP](../core_rules/Core%20Mechanics.md#HIT%20POINTS%20&%20DAMAGE%20THRESHOLDS))***

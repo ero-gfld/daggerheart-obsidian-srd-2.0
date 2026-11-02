@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Local Tavern"
+tier: 1
+type: "Social"
+description: "A lively tavern that serves as the social hub for its town."
+difficulty: 10
+impulses: "Provide opportunities for adventurers, nurture community"
+potential_adversaries: "Guards (Bladed Guard, Head Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Merchant"
+features:
+  - "What’s the Talk of the Town? - Passive"
+  - "Sing For Your Supper - Passive"
+  - "Mysterious Stranger - Action"
+  - "Someone Comes to Town - Action"
+  - "Bar Fight! - Action"
+---
+
 # Local Tavern
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

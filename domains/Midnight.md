@@ -1,3 +1,15 @@
+---
+tags:
+  - "daggerheart/domain"
+name: "Midnight"
+description: "Midnight is the domain of shadows and secrecy."
+classes:
+  - "Assassin"
+  - "Rogue"
+  - "Sorcerer"
+cards: 21
+---
+
 # Midnight
 
 Midnight is the domain of **shadows and secrecy.** Whether by clever tricks, deft magic, or the cloak of night, those who channel these forces practice the art of obscurity and can uncover sequestered treasures. Midnight offers practitioners the power to control and create enigmas. The Midnight domain can be accessed by the **[Assassin](../classes/Assassin.md)**, **[Rogue](../classes/Rogue.md)**, and **[Sorcerer](../classes/Sorcerer.md)** classes.

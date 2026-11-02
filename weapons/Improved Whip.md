@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Whip"
+tier: 2
+category: "Secondary"
+type: "Physical"
+trait: "Presence"
+range: "Very Close"
+damage: "d6+2 phy"
+burden: "One-Handed"
+feature: "Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range."
+---
+
 # Improved Whip
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

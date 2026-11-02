@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Spidersilk Tunic"
+tier: 2
+thresholds: "9/20"
+score: 4
+feature: "Wall-Crawling: +1 Evasion; you can walk on walls as easily as on the ground."
+---
+
 # Spidersilk Tunic
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

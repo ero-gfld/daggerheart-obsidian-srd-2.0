@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Berserker Initiate"
+tier: 2
+type: "Standard"
+description: "A raging warrior who imbibes ritualistic concoctions to enhance their form with aspects of a predatory beast."
+difficulty: 13
+thresholds: "9/18"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Tooth & Claw"
+range: "Melee"
+damage: "2d10 phy"
+motives_and_tactics: "Coordinate with packmates, dance around the fire, howl at the moon"
+experience: "Hunt +3"
+features:
+  - "Pack Fury - Passive"
+  - "Berserker Rage - Reaction"
+---
+
 # Berserker Initiate
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

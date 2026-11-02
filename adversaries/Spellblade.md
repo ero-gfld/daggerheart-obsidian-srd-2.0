@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Spellblade"
+tier: 1
+type: "Leader"
+description: "A mercenary combining swordplay and magic to deadly effect."
+difficulty: 14
+thresholds: "8/14"
+hp: 6
+stress: 3
+atk: "+3"
+attack: "Empowered Longsword"
+range: "Melee"
+damage: "1d8+4 phy/mag"
+motives_and_tactics: "Blast, command, endure"
+experience: "Magical Knowledge +2"
+features:
+  - "Arcane Steel - Passive"
+  - "Suppressing Blast - Action"
+  - "Move as a Unit - Action"
+  - "Momentum - Reaction"
+---
+
 # Spellblade
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

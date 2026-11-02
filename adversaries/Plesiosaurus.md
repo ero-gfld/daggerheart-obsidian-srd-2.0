@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Plesiosaurus"
+tier: 3
+type: "Standard"
+description: "A canoe-length marine lizard that has a long neck and four flippers."
+difficulty: 16
+thresholds: "18/35"
+hp: 7
+stress: 5
+atk: "+2"
+attack: "Bite"
+range: "Very Close"
+damage: "3d8+5 phy"
+motives_and_tactics: "Dive deeper, eat fish, swim peacefully"
+experience: "Lochs +3"
+features:
+  - "Only a Rumor - Passive"
+  - "Wall of Water - Action"
+---
+
 # Plesiosaurus
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

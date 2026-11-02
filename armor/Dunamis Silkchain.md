@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Dunamis Silkchain"
+tier: 4
+thresholds: "13/36"
+score: 7
+feature: "Timeslowing: Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack."
+---
+
 # Dunamis Silkchain
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

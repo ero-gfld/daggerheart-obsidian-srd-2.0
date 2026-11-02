@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Patchwork Zombie Hulk"
+tier: 1
+type: "Solo"
+description: "A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling."
+difficulty: 13
+thresholds: "8/15"
+hp: 10
+stress: 3
+atk: "+4"
+attack: "Too Many Arms"
+range: "Very Close"
+damage: "1d20 phy"
+motives_and_tactics: "Absorb corpses, flail, hunger, terrify"
+experience: "Intimidation +2, Tear Things Apart +2"
+features:
+  - "Destructible - Passive"
+  - "Flailing Limbs - Passive"
+  - "Another for the Pile - Action"
+  - "Tormented Screams - Action"
+---
+
 # Patchwork Zombie Hulk
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

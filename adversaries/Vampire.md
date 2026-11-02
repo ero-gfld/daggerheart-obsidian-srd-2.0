@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Vampire"
+tier: 3
+type: "Standard"
+description: "An intelligent undead with blood-stained lips and a predator’s smile."
+difficulty: 16
+thresholds: "18/35"
+hp: 5
+stress: 4
+atk: "+3"
+attack: "Rapier"
+range: "Melee"
+damage: "3d8 phy"
+motives_and_tactics: "Bite, charm, deceive, feed, intimidate"
+experience: "Nocturnal Hunter +3"
+features:
+  - "Draining Bite - Action"
+  - "Mistform - Reaction"
+---
+
 # Vampire
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

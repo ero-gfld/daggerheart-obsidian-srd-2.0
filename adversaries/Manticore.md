@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Manticore"
+tier: 3
+type: "Solo"
+description: "A legendary beast that has a human’s face, lion’s body, scorpion’s tail, and dragon’s wings."
+difficulty: 17
+thresholds: "20/35"
+hp: 12
+stress: 6
+atk: "+6"
+attack: "Teeth & Claws"
+range: "Very Close"
+damage: "3d12+6 phy"
+motives_and_tactics: "Bite, claw, pounce, riddle, swipe, swoop, trick"
+experience: "Overgrowth +3, Riddles +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Riddle Me This - Passive"
+  - "Winged - Passive"
+  - "Pouncing Attack - Action"
+  - "Paralyzing Tail Spike - Action"
+  - "Locking Jaws - Reaction"
+---
+
 # Manticore
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

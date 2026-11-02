@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Minor Chaos Elemental"
+tier: 1
+type: "Solo"
+description: "A coruscating mass of uncontrollable magic."
+difficulty: 14
+thresholds: "7/14"
+hp: 7
+stress: 3
+atk: "+3"
+attack: "Warp Blast"
+range: "Close"
+damage: "1d12+6 mag"
+motives_and_tactics: "Confound, destabilize, transmogrify"
+features:
+  - "Arcane Form - Passive"
+  - "Sickening Flux - Action"
+  - "Remake Reality - Action"
+  - "Magical Reflection - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Minor Chaos Elemental
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

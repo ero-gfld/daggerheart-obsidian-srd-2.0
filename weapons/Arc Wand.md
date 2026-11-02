@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Arc Wand"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Close"
+damage: "d8+6 mag"
+burden: "One-Handed"
+feature: "Bouncing: Mark any number of Stress to target that many additional creatures in range of the attack."
+---
+
 # Arc Wand
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

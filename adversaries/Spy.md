@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Spy"
+tier: 2
+type: "Social"
+description: "A skilled espionage agent with a knack for being in the right place to overhear secrets."
+difficulty: 15
+thresholds: "8/17"
+hp: 4
+stress: 3
+atk: "-2"
+attack: "Dagger"
+range: "Melee"
+damage: "2d6+3 phy"
+motives_and_tactics: "Cut and run, disguise appearance, eavesdrop"
+experience: "Espionage +3"
+features:
+  - "Gathering Secrets - Action"
+  - "Fly on the Wall - Reaction"
+---
+
 # Spy
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

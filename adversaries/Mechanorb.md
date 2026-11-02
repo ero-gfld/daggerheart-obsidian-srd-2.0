@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Mechanorb"
+tier: 1
+type: "Standard"
+description: "A floating clockwork sphere that has telescoping limbs and comes from a realm of machines and metal."
+difficulty: 12
+thresholds: "5/10"
+hp: 4
+stress: 3
+atk: "+1"
+attack: "Needle"
+range: "Melee"
+damage: "1d10+1 phy"
+motives_and_tactics: "Coordinate, (dis)assemble, move orthogonally, speak in binary"
+experience: "Machines +2"
+features:
+  - "Hive Mind - Passive"
+  - "Adaptive Tactics - Passive"
+---
+
 # Mechanorb
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

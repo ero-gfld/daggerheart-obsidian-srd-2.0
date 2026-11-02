@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Assassin Poisoner"
+tier: 2
+type: "Skulk"
+description: "A cunning scoundrel skilled in both poisons and ambushing."
+difficulty: 14
+thresholds: "8/16"
+hp: 4
+stress: 4
+atk: "+3"
+attack: "Poisoned Throwing Dagger"
+range: "Close"
+damage: "2d8+1 phy"
+motives_and_tactics: "Anticipate, get paid, kill, taint food and water"
+experience: "Intrusion +2"
+features:
+  - "Grindletooth Venom - Passive"
+  - "Out of Nowhere - Passive"
+  - "Fumigation - Action"
+---
+
 # Assassin Poisoner
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

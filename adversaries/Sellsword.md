@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Sellsword"
+tier: 1
+type: "Minion"
+description: "An armed mercenary testing their luck."
+difficulty: 10
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Longsword"
+range: "Melee"
+damage: "3 phy"
+motives_and_tactics: "Charge, lacerate, overwhelm, profit"
+features:
+  - "Minion (4) - Passive"
+  - "Group Attack - Action"
+---
+
 # Sellsword
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

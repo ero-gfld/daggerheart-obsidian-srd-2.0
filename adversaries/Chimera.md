@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Chimera"
+tier: 3
+type: "Bruiser"
+description: "A giant fire-breathing monster that has a lion’s head, a goat’s body, and a serpent’s tail."
+difficulty: 17
+thresholds: "22/40"
+hp: 9
+stress: 5
+atk: "+5"
+attack: "Claws"
+range: "Melee"
+damage: "3d12 phy"
+motives_and_tactics: "Play with food, prowl territory, slay cattle"
+experience: "Predator +3"
+features:
+  - "Rending Jaws - Passive"
+  - "Double Claw - Action"
+  - "Breath of Fire - Action"
+  - "Serpent Strike - Reaction"
+---
+
 # Chimera
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

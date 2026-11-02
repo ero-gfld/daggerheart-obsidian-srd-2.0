@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Beach Day"
+tier: 2
+type: "Social"
+description: "The party takes a break from their adventure for some rest and relaxation in a seaside settlement."
+difficulty: 14
+impulses: "Conjure images of sand and surf, give them a breather, prepare them for the conflict ahead"
+potential_adversaries: "None"
+features:
+  - "R&R - Passive"
+  - "“Our Story So Far…” - Passive"
+  - "Local Trouble - Action"
+  - "Fashion Show - Reaction"
+---
+
 # Beach Day
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

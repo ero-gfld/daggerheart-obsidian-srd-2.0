@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Tangle Bramble"
+tier: 1
+type: "Minion"
+description: "An animate, blood-drinking tumbleweed."
+difficulty: 11
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Thorns"
+range: "Melee"
+damage: "2 phy"
+motives_and_tactics: "Combine, drain, entangle"
+features:
+  - "Minion (4) - Passive"
+  - "Group Attack - Action"
+  - "Drain and Multiply - Reaction"
+---
+
 # Tangle Bramble
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

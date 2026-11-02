@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Spellbound Bangles"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Melee"
+damage: "d10+6 mag"
+burden: "Two-Handed"
+---
+
 # Spellbound Bangles
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

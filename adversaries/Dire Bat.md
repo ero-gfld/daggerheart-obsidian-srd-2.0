@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Dire Bat"
+tier: 3
+type: "Skulk"
+description: "A wide-winged pet endlessly loyal to their vampire owner."
+difficulty: 14
+thresholds: "16/30"
+hp: 5
+stress: 3
+atk: "+2"
+attack: "Claws and Teeth"
+range: "Melee"
+damage: "2d6+7 phy"
+motives_and_tactics: "Dive-bomb, hide, protect leader"
+experience: "Bloodthirsty +3"
+features:
+  - "Flying - Passive"
+  - "Screech - Action"
+  - "Guardian - Reaction"
+---
+
 # Dire Bat
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

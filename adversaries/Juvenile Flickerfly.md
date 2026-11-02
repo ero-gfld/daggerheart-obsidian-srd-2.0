@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Juvenile Flickerfly"
+tier: 2
+type: "Solo"
+description: "A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see."
+difficulty: 14
+thresholds: "13/26"
+hp: 10
+stress: 5
+atk: "+3"
+attack: "Wing Slash"
+range: "Very Close"
+damage: "2d10+4 phy"
+motives_and_tactics: "Collect shiny things, hunt, swoop"
+features:
+  - "Relentless (3) - Passive"
+  - "Peerless Accuracy - Passive"
+  - "Mind Dance - Action"
+  - "Hallucinatory Breath - Reaction"
+---
+
 # Juvenile Flickerfly
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

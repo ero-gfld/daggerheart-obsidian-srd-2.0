@@ -1,3 +1,10 @@
+---
+tags:
+  - "daggerheart/rules"
+name: "Mixed Ancestry"
+description: "Families within the world of Daggerheart are as unique as the peoples and cultures that inhabit it."
+---
+
 # Mixed Ancestry
 
 Families within the world of Daggerheart are as unique as the peoples and cultures that inhabit it. Anyone’s appearance and abilities can be shaped by blood, magic, proximity, or a variety of other factors.

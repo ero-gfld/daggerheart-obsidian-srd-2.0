@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Gorgon"
+tier: 2
+type: "Solo"
+description: "A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed."
+difficulty: 15
+thresholds: "13/25"
+hp: 9
+stress: 3
+atk: "+4"
+attack: "Sunsear Shortbow"
+range: "Far"
+damage: "2d20+3 mag"
+motives_and_tactics: "Corner, hit-and-run, petrify, seek vengeance"
+experience: "Stealth +3"
+features:
+  - "Relentless (2) - Passive"
+  - "Sunsear Arrows - Passive"
+  - "Crown of Serpents - Action"
+  - "Petrifying Gaze - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Gorgon
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

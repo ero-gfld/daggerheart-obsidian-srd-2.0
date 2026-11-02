@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Masked Thief"
+tier: 2
+type: "Skulk"
+description: "A cunning thief with acrobatic skill and a flair for the dramatic."
+difficulty: 14
+thresholds: "8/17"
+hp: 4
+stress: 5
+atk: "+3"
+attack: "Backsword"
+range: "Melee"
+damage: "2d8+3 phy"
+motives_and_tactics: "Evade, hide, pilfer, profit"
+experience: "Acrobatics +3"
+features:
+  - "Quick Hands - Action"
+  - "Escape Plan - Action"
+---
+
 # Masked Thief
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

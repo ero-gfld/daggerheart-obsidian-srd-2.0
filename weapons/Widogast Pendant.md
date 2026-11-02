@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Widogast Pendant"
+tier: 3
+category: "Primary"
+type: "Magical"
+trait: "Knowledge"
+range: "Close"
+damage: "d10+5 mag"
+burden: "One-Handed"
+feature: "Timebending: You choose the target of your attack after making your attack roll."
+---
+
 # Widogast Pendant
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

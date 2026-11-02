@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Heist"
+tier: 2
+type: "Event"
+description: "The party must gain access to a hidden or well-protected location to acquire the information or items secured within."
+difficulty: 14
+impulses: "Make the party prepare, split them up, throw up obstacles, trap them inside, use up their resources"
+potential_adversaries: "Head Guard, Minotaur Wrecker, Secret-Keeper, Spectral Guardian"
+features:
+  - "Prep Work - Passive"
+  - "Infiltration - Passive"
+  - "Saw This Coming - Passive"
+  - "Exfiltration - Reaction"
+  - "Sound the Alarm - Reaction"
+---
+
 # Heist
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

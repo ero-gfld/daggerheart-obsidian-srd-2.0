@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Tyris Soft Armor"
+tier: 2
+thresholds: "8/18"
+score: 5
+feature: "Quiet: You gain a +2 bonus to rolls you make to move silently."
+---
+
 # Tyris Soft Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

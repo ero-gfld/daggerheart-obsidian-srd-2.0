@@ -1,3 +1,24 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Skeleton Archer"
+tier: 1
+type: "Ranged"
+description: "A fragile skeleton with a shortbow and arrows."
+difficulty: 9
+thresholds: "4/7"
+hp: 3
+stress: 2
+atk: "+2"
+attack: "Shortbow"
+range: "Far"
+damage: "1d8+1 phy"
+motives_and_tactics: "Perforate distracted targets, play dead, steal skin"
+features:
+  - "Opportunist - Passive"
+  - "Deadly Shot - Action"
+---
+
 # Skeleton Archer
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Ranged](../core_rules/Using%20Adversaries.md)***

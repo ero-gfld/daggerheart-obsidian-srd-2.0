@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Cursed Graveyard"
+tier: 1
+type: "Exploration"
+description: "A sprawling cemetery filled with crumbling headstones, twisted trees possessed by the dead, and crypts overgrown with moss and ivy."
+difficulty: 11
+impulses: "Bury them six feet deep, choke with fog, lure with promises of entombed treasure, unleash the restless dead"
+potential_adversaries: "Corrupted Spirits (Deeproot Defender, Phantom), Living Dead (Skeleton Warrior, Zombie Pack, Patchwork Zombie Hulk)"
+features:
+  - "Room for One More - Passive"
+  - "Hallowed Ground - Passive"
+  - "Misty Miasma - Action"
+  - "The Dead Arise - Action"
+  - "The Dead Don’t Die Easy - Reaction"
+---
+
 # Cursed Graveyard
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Exploration](../core_rules/Using%20Environments.md)***

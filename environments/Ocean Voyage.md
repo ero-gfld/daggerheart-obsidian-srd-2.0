@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Ocean Voyage"
+tier: 2
+type: "Traversal"
+description: "The PCs gain passage to a far-off destination by offering their labor in exchange."
+difficulty: 14
+impulses: "Reveal what lurks beneath the waves, send them in the wrong direction, sink the ship, use up their resources"
+potential_adversaries: "Deep Sea Denizens (Electric Eels, Kraken, Shark, Siren), Pirates (Pirate Captain, Pirate Raiders)"
+features:
+  - "Open Water - Passive"
+  - "Rations Run Low - Passive"
+  - "“Pirates!” - Action"
+  - "Foul Weather - Reaction"
+  - "Here There Be Monsters - Reaction"
+---
+
 # Ocean Voyage
 
 ***[Tier 2](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

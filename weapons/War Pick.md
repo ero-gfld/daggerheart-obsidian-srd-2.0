@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "War Pick"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d8+3 phy"
+burden: "One-Handed"
+feature: "Deadly: When you deal Severe damage, the target must mark an additional HP."
+---
+
 # War Pick
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

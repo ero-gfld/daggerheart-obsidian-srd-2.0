@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Bravesword"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Strength"
+range: "Melee"
+damage: "d12+7 phy"
+burden: "Two-Handed"
+feature: "Brave: −1 to Evasion; +3 to Severe damage threshold"
+---
+
 # Bravesword
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Household Friend"
+tier: 1
+examples: "Cat, Dog, Rabbit, etc."
+trait_bonus: "Instinct +1"
+evasion: "+2"
+attack: "Melee Instinct d6 phy"
+advantages: "climb, locate, protect"
+features:
+  - "Companion"
+  - "Fragile"
+---
+
 # Household Friend
 
 **_[Tier 1](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Cat, Dog, Rabbit, etc.)

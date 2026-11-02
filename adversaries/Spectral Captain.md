@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Spectral Captain"
+tier: 2
+type: "Leader"
+description: "A ghostly commander leading their troops beyond death."
+difficulty: 16
+thresholds: "13/26"
+hp: 6
+stress: 4
+atk: "+3"
+attack: "Longbow"
+range: "Far"
+damage: "2d10+3 phy"
+motives_and_tactics: "Move through solid objects, rally troops, rehash old battles"
+experience: "Ancient Knowledge +3"
+features:
+  - "Ghost - Passive"
+  - "Unending Battle - Action"
+  - "Hold Fast - Reaction"
+  - "Momentum - Reaction"
+---
+
 # Spectral Captain
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

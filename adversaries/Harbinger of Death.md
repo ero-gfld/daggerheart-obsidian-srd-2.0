@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Harbinger of Death"
+tier: 4
+type: "Skulk"
+description: "A desiccated corpse riding atop a skeletal horse. Their eyes are sewn shut and their body is wrapped in a burial shroud of dust and ash."
+difficulty: 18
+thresholds: "28/52"
+hp: 6
+stress: 6
+atk: "+8"
+attack: "Great Scythe"
+range: "Close"
+damage: "4d10+10 phy"
+motives_and_tactics: "Bring judgment, cut them down, move swiftly, seek relentlessly, take souls"
+experience: "Judgment +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Mount - Passive"
+  - "Fear the Reaper - Passive"
+  - "Decapitate - Action"
+  - "Wake the Fallen - Action"
+  - "Ashes to Ashes, Dust to Dust - Reaction"
+---
+
 # Harbinger of Death
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

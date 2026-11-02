@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Wand of Enthrallment"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Presence"
+range: "Far"
+damage: "d6+4 mag"
+burden: "One-Handed"
+feature: "Persuasive: Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result."
+---
+
 # Wand of Enthrallment
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

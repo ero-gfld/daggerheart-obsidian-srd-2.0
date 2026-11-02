@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Merchant Baron"
+tier: 2
+type: "Social"
+description: "An accomplished merchant with a large operation under their command."
+difficulty: 15
+thresholds: "9/19"
+hp: 5
+stress: 3
+atk: "-2"
+attack: "Rapier"
+range: "Melee"
+damage: "1d6+2 phy"
+motives_and_tactics: "Abuse power, gather resources, mobilize minions"
+experience: "Nobility +2, Trade +2"
+features:
+  - "Everyone Has a Price - Action"
+  - "The Best Muscle Money Can Buy - Action"
+---
+
 # Merchant Baron
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

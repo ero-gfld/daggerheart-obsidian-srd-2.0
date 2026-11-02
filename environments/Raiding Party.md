@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Raiding Party"
+tier: 1
+type: "Event"
+description: "A pirate ship disgorges its crew into a port town or shoreline village to loot and plunder."
+difficulty: 11
+impulses: "Light it on fire, overwhelm with speed and numbers, take everything that isn’t nailed down"
+potential_adversaries: "Ship’s Crew (Pirate Captain, Pirate Raiders, Pirate Tough)"
+features:
+  - "Rally the Locals - Passive"
+  - "Parley - Passive"
+  - "“Fire the Cannons!” - Action"
+  - "Take Captives - Reaction"
+---
+
 # Raiding Party
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Wyrmfiend"
+tier: 4
+type: "Minion"
+description: "A reptilian biped created by mysterious and ancient dragon magic. Wyrmfiends exist more as extensions of their draconic master’s will than as individual beings."
+difficulty: 17
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+3"
+attack: "Weapons from the Hoard"
+range: "Melee"
+damage: "11 phy"
+motives_and_tactics: "Hold the line, sacrifice, serve, swarm"
+experience: "Dragon Bond +2"
+features:
+  - "Minion (13) - Passive"
+  - "Venomous Bite - Action"
+  - "Group Attack - Action"
+---
+
 # Wyrmfiend
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

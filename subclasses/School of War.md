@@ -1,3 +1,19 @@
+---
+tags:
+  - "daggerheart/subclass"
+name: "School of War"
+class: "Wizard"
+spellcast_trait: "Knowledge"
+description: "Play the School of War if you want to utilize trained magic for violence."
+features:
+  - "Battlemage"
+  - "Face Your Fear"
+  - "Conjure Shield"
+  - "Fueled by Fear"
+  - "Thrive in Chaos"
+  - "Have No Fear"
+---
+
 # School of War
 
 Play the School of War if you want to utilize trained magic for violence.

@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Redcap Breaker"
+tier: 1
+type: "Bruiser"
+description: "A large, brutish fey creature who has a conical red cap sealed on their head with candle wax."
+difficulty: 13
+thresholds: "8/15"
+hp: 6
+stress: 3
+atk: "+1"
+attack: "Wooden Mallet"
+range: "Melee"
+damage: "1d12+2 phy"
+motives_and_tactics: "Beat chest and bellow, ragdoll puny enemies, rush forward recklessly"
+experience: "Bones +2"
+features:
+  - "Backbreaker - Action"
+  - "Kneecapper - Reaction"
+---
+
 # Redcap Breaker
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

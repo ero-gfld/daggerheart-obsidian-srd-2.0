@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Pitched Battle"
+tier: 3
+type: "Event"
+description: "A massive combat between two large groups of armed combatants."
+difficulty: 17
+impulses: "Seize people, land, and wealth, spill blood for greed and glory"
+potential_adversaries: "Mercenaries (Sellsword, Harrier, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)"
+features:
+  - "Adrift on a Sea of Steel - Passive"
+  - "Raze and Pillage - Action"
+  - "War Magic - Action"
+  - "Reinforcements! - Action"
+---
+
 # Pitched Battle
 
 ***[Tier 3](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Event](../core_rules/Using%20Environments.md)***

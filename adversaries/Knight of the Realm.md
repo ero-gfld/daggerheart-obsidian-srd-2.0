@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Knight of the Realm"
+tier: 2
+type: "Leader"
+description: "A decorated soldier with heavy armor and a powerful steed."
+difficulty: 15
+thresholds: "13/26"
+hp: 6
+stress: 4
+atk: "+4"
+attack: "Longsword"
+range: "Melee"
+damage: "2d10+4 phy"
+motives_and_tactics: "Run down, seek glory, show dominance"
+experience: "Ancient Knowledge +3, High Society +2, Tactics +2"
+features:
+  - "Chevalier - Passive"
+  - "Heavily Armored - Passive"
+  - "Cavalry Charge - Action"
+  - "For the Realm! - Action"
+---
+
 # Knight of the Realm
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

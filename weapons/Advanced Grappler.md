@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Grappler"
+tier: 3
+category: "Secondary"
+type: "Physical"
+trait: "Finesse"
+range: "Close"
+damage: "d6+4 phy"
+burden: "One-Handed"
+feature: "Hooked: On a successful attack, you can pull the target into Melee range."
+---
+
 # Advanced Grappler
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Secondary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

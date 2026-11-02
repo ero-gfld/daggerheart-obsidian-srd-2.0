@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Courtier"
+tier: 1
+type: "Social"
+description: "An ambitious and ostentatiously dressed socialite."
+difficulty: 12
+thresholds: "4/8"
+hp: 3
+stress: 4
+atk: "-4"
+attack: "Daggers"
+range: "Melee"
+damage: "1d4+2 phy"
+motives_and_tactics: "Discredit, gain favor, maneuver, scheme"
+experience: "Socialite +3"
+features:
+  - "Mockery - Action"
+  - "Scapegoat - Action"
+---
+
 # Courtier
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

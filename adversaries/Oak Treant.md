@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Oak Treant"
+tier: 3
+type: "Bruiser"
+description: "A sturdy animate old-growth tree."
+difficulty: 17
+thresholds: "22/40"
+hp: 7
+stress: 4
+atk: "+2"
+attack: "Branch"
+range: "Very Close"
+damage: "3d8+2 phy"
+motives_and_tactics: "Hide in plain sight, preserve the forest, root down, swing branches"
+experience: "Forest Knowledge +3"
+features:
+  - "Just a Tree - Passive"
+  - "Seed Barrage - Action"
+  - "Take Root - Action"
+---
+
 # Oak Treant
 
 ***[Tier 3](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,28 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Ruby Dragon"
+tier: 4
+type: "Standard"
+description: "A huge winged dragon that has visible flames beneath its glittering, gem-encrusted scales. Its body heat melts stone."
+difficulty: 19
+thresholds: "30/50"
+hp: 6
+stress: 4
+atk: "+6"
+attack: "Tooth & Claw"
+range: "Close"
+damage: "4d10+8 phy"
+motives_and_tactics: "Crack the earth, melt, protect treasure"
+experience: "Mountains +4"
+features:
+  - "Relentless (3) - Passive"
+  - "Fearsome - Passive"
+  - "Melting Breath - Action"
+  - "Volcanic Fissure - Action"
+  - "Hot-Blooded - Reaction"
+---
+
 # Ruby Dragon
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Standard](../core_rules/Using%20Adversaries.md)***

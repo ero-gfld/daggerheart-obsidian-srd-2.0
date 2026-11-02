@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Ego Blade"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Agility"
+range: "Melee"
+damage: "d12+4 mag"
+burden: "One-Handed"
+feature: "Pompous: You must have a Presence of 0 or lower to use this weapon."
+---
+
 # Ego Blade
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

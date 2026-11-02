@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Obsidian Predator"
+tier: 4
+type: "Solo"
+description: "A massive winged creature with obsidian scales and impossibly sharp claws."
+difficulty: 19
+thresholds: "33/65"
+hp: 6
+stress: 5
+atk: "+8"
+attack: "Obsidian Claws"
+range: "Close"
+damage: "4d10+4 phy"
+motives_and_tactics: "Defend lair, dive-bomb, fly, hunt, intimidate"
+experience: "Hunt from Above +5"
+features:
+  - "Relentless (2) - Passive"
+  - "Flying - Passive"
+  - "Obsidian Scales - Passive"
+  - "Avalanche Tail - Action"
+  - "Dive-Bomb - Action"
+  - "Erupting Rage (Phase Change) - Reaction"
+---
+
 # Obsidian Predator
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

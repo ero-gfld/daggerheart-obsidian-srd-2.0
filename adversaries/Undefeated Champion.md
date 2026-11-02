@@ -1,3 +1,30 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Undefeated Champion"
+tier: 4
+type: "Solo"
+description: "That which only the most feared have a chance to fear."
+difficulty: 18
+thresholds: "35/58"
+hp: 11
+stress: 5
+atk: "+8"
+attack: "Heart-Shattering Sword"
+range: "Very Close"
+damage: "4d12+13 phy"
+motives_and_tactics: "Dispatch merciless death, punish the defiant, secure victory at any cost"
+experience: "Conquest +3, History +2, Intimidation +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Faltering Armor - Passive"
+  - "Shattering Strike - Action"
+  - "Endless Legions - Action"
+  - "Circle of Defilement - Reaction"
+  - "Momentum - Reaction"
+  - "Doombringer - Reaction"
+---
+
 # Undefeated Champion
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

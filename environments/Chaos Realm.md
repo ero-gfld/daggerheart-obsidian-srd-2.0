@@ -1,3 +1,21 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Chaos Realm"
+tier: 4
+type: "Traversal"
+description: "An otherworldly space where the laws of reality are unstable and dangerous."
+difficulty: 20
+impulses: "Annihilate certainty, consume power, defy logic"
+potential_adversaries: "Outer Realms Monstrosities (Abomination, Corruptor, Thrall)"
+features:
+  - "Impossible Architecture - Passive"
+  - "Everything You Are This Place Will Take from You - Action"
+  - "Unmaking - Action"
+  - "Outer Realms Predators - Action"
+  - "Disorienting Reality - Reaction"
+---
+
 # Chaos Realm
 
 ***[Tier 4](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Traversal](../core_rules/Using%20Environments.md)***

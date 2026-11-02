@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Mythic Aerial Hunter"
+tier: 4
+examples: "Dragon, Pterodactyl, Roc, Wyvern, etc."
+trait_bonus: "Finesse +3"
+evasion: "+4"
+attack: "Melee Finesse d10+11 phy"
+advantages: "attack, deceive, locate, navigate"
+features:
+  - "Carrier"
+  - "Deadly Raptor"
+---
+
 # Mythic Aerial Hunter
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Dragon, Pterodactyl, Roc, Wyvern, etc.)

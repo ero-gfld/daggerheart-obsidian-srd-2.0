@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Xero the Castle Killer"
+tier: 4
+type: "Solo"
+description: "A castle-sized, bipedal reptile."
+difficulty: 20
+thresholds: "35/70"
+hp: 12
+stress: 10
+atk: "+8"
+attack: "Tail Swipe"
+range: "Close"
+damage: "4d12+6 phy"
+motives_and_tactics: "Leave a wake of destruction, level buildings, stomp through settlements"
+experience: "Destruction +5"
+features:
+  - "Relentless (X) - Passive"
+  - "Collateral Damage - Passive"
+  - "Gigaton Stomp - Action"
+  - "Power Slide - Action"
+  - "Radioactive Breath - Action"
+  - "Regeneration - Action"
+---
+
 # Xero the Castle Killer
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

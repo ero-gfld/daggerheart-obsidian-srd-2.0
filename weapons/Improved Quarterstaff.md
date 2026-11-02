@@ -1,3 +1,16 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Quarterstaff"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Instinct"
+range: "Melee"
+damage: "d10+6 phy"
+burden: "Two-Handed"
+---
+
 # Improved Quarterstaff
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

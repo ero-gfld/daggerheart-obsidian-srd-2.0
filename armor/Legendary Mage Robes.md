@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Legendary Mage Robes"
+tier: 4
+thresholds: "10/31"
+score: 5
+feature: "Enchanted: Gain a bonus to your damage thresholds equal to your Spellcast trait."
+---
+
 # Legendary Mage Robes
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

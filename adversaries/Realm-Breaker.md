@@ -1,3 +1,29 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Realm-Breaker"
+tier: 4
+type: "Solo"
+description: "A Fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits."
+difficulty: 20
+thresholds: "36/66"
+hp: 8
+stress: 5
+atk: "+7"
+attack: "Barbed Whip"
+range: "Close"
+damage: "4d8+7 phy"
+motives_and_tactics: "Corrupt, dominate, punish, break the weak"
+experience: "Conquest +3, History +2, Intimidation +3"
+features:
+  - "Relentless (2) - Passive"
+  - "Firespite Plate Armor - Passive"
+  - "Tormenting Lash - Action"
+  - "All-Consuming Rage - Reaction"
+  - "Doombringer - Reaction"
+  - "I Have Never Known Defeat (Phase Change) - Reaction"
+---
+
 # Realm-Breaker
 
 ***[Tier 4](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

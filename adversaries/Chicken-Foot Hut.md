@@ -1,3 +1,26 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Chicken-Foot Hut"
+tier: 2
+type: "Bruiser"
+description: "A tall wooden shack that moves around on giant chicken legs."
+difficulty: 16
+thresholds: "14/27"
+hp: 8
+stress: 2
+atk: "+2"
+attack: "Clawed Feet"
+range: "Very Close"
+damage: "2d10+3 phy"
+motives_and_tactics: "Claw, protect master, run and jump, trample"
+experience: "Forests +2"
+features:
+  - "Fast - Passive"
+  - "Double Strike - Action"
+  - "Pin - Reaction"
+---
+
 # Chicken-Foot Hut
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Bruiser](../core_rules/Using%20Adversaries.md)***

@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Wyrdwood Splint Armor"
+tier: 2
+thresholds: "10/21"
+score: 5
+feature: "Quick-Striding: You can’t be Restrained and can move up to Far range as part of an action roll."
+---
+
 # Wyrdwood Splint Armor
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

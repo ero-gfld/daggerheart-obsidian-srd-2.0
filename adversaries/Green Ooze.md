@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Green Ooze"
+tier: 1
+type: "Skulk"
+description: "A moving mound of translucent green slime."
+difficulty: 8
+thresholds: "5/10"
+hp: 5
+stress: 2
+atk: "+1"
+attack: "Ooze Appendage"
+range: "Melee"
+damage: "1d6+1 mag"
+motives_and_tactics: "Camouflage, consume and multiply, creep up, envelop"
+experience: "Camouflage +3"
+features:
+  - "Slow - Passive"
+  - "Acidic Form - Passive"
+  - "Envelop - Action"
+  - "Split - Reaction"
+---
+
 # Green Ooze
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

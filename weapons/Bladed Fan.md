@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Bladed Fan"
+tier: 2
+category: "Primary"
+type: "Physical"
+trait: "Presence"
+range: "Melee"
+damage: "d8+3 phy"
+burden: "One-Handed"
+feature: "Parry: When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled."
+---
+
 # Bladed Fan
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Pirate Captain"
+tier: 1
+type: "Leader"
+description: "A charismatic sea dog with an impressive hat, eager to raid and plunder."
+difficulty: 14
+thresholds: "7/14"
+hp: 7
+stress: 5
+atk: "+4"
+attack: "Cutlass"
+range: "Melee"
+damage: "1d12+2 phy"
+motives_and_tactics: "Command, make ’em walk the plank, plunder, raid"
+experience: "Commander +2, Sailor +3"
+features:
+  - "Swashbuckler - Passive"
+  - "Reinforcements - Action"
+  - "No Quarter - Action"
+  - "Momentum - Reaction"
+---
+
 # Pirate Captain
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Leader](../core_rules/Using%20Adversaries.md)***

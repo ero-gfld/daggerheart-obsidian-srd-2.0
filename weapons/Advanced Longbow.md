@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Advanced Longbow"
+tier: 3
+category: "Primary"
+type: "Physical"
+trait: "Agility"
+range: "Very Far"
+damage: "d8+9 phy"
+burden: "Two-Handed"
+feature: "Cumbersome: −1 to Finesse"
+---
+
 # Advanced Longbow
 
 **_[Tier 3](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Physical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_

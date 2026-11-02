@@ -1,3 +1,13 @@
+---
+tags:
+  - "daggerheart/armor"
+name: "Emberwoven Armor"
+tier: 4
+thresholds: "13/36"
+score: 6
+feature: "Burning: When an adversary attacks you within Melee range, they mark a Stress."
+---
+
 # Emberwoven Armor
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _Armor_
 

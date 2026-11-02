@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Apprentice Assassin"
+tier: 2
+type: "Minion"
+description: "A young trainee eager to prove themselves."
+difficulty: 13
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-1"
+attack: "Thrown Dagger"
+range: "Very Close"
+damage: "4 phy"
+motives_and_tactics: "Act reckless, kill, prove their worth, show off"
+experience: "Intrusion +2"
+features:
+  - "Minion (6) - Passive"
+  - "Group Attack - Action"
+---
+
 # Apprentice Assassin
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

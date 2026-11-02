@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Jack-O’-Lantern"
+tier: 2
+type: "Minion"
+description: "A floating pumpkin or other gourd that has a face carved into it. The soul trapped within it emits an eerie glow."
+difficulty: 14
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "+2"
+attack: "Chomp"
+range: "Melee"
+damage: "6 phy"
+motives_and_tactics: "Bite, float, laugh, tell spooky stories"
+features:
+  - "Minion (4) - Passive"
+  - "Group Attack - Action"
+  - "Spine-Chilling Cackle - Reaction"
+---
+
 # Jack-O’-Lantern
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

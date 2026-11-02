@@ -1,3 +1,20 @@
+---
+tags:
+  - "daggerheart/environment"
+name: "Grand Feast"
+tier: 1
+type: "Social"
+description: "A community-wide celebration featuring way too much drink, food, and fun."
+difficulty: 11
+impulses: "Bring everyone together, celebrate a momentous occasion, encourage revelrous abandon"
+potential_adversaries: "Apprentice Assassin, Guard, Merchant, Petty Noble, Sellsword, Spy"
+features:
+  - "Loose Lips & Fast Friends - Passive"
+  - "The Evening’s Entertainment - Action"
+  - "“There’s Always That One…” - Action"
+  - "Last Call - Reaction"
+---
+
 # Grand Feast
 
 ***[Tier 1](../core_rules/Using%20Environments.md#ENVIRONMENT%20STAT%20BLOCKS%20BY%20TIER) [Social](../core_rules/Using%20Adversaries.md)***

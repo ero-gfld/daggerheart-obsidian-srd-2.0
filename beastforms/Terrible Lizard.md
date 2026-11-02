@@ -1,3 +1,18 @@
+---
+tags:
+  - "daggerheart/beastform"
+name: "Terrible Lizard"
+tier: 4
+examples: "Brachiosaurus, Tyrannosaurus, etc."
+trait_bonus: "Strength +3"
+evasion: "+2"
+attack: "Melee Strength d12+10 phy"
+advantages: "attack, deceive, scare, track"
+features:
+  - "Devastating Strikes"
+  - "Massive Stride"
+---
+
 # Terrible Lizard
 
 **_[Tier 4](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** (Brachiosaurus, Tyrannosaurus, etc.)

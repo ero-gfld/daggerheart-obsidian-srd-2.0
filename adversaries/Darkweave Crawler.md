@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Darkweave Crawler"
+tier: 1
+type: "Minion"
+description: "A spider the size of a human head, woven out of shadow-silk."
+difficulty: 10
+thresholds: "None"
+hp: 1
+stress: 1
+atk: "-2"
+attack: "Bite"
+range: "Melee"
+damage: "2 phy"
+motives_and_tactics: "Hide in shadow, strike the unwary, wait for an opening"
+experience: "Darkness +3"
+features:
+  - "Minion (3) - Passive"
+  - "Skin-Crawling - Action"
+  - "Group Attack - Action"
+  - "Darkweave Venom - Reaction"
+---
+
 # Darkweave Crawler
 
 ***[Tier 1](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Minion](../core_rules/Using%20Adversaries.md)***

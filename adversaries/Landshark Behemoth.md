@@ -1,3 +1,27 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Landshark Behemoth"
+tier: 2
+type: "Solo"
+description: "A landshark that’s lived long enough to become a large burrowing monstrosity with steely hide and razor-sharp teeth."
+difficulty: 15
+thresholds: "15/28"
+hp: 10
+stress: 4
+atk: "+2"
+attack: "Toothy Maw"
+range: "Very Close"
+damage: "2d12+6 phy"
+motives_and_tactics: "Bite, burrow, burst out of the ground"
+experience: "Subterranean +4, Bloodthirsty +3"
+features:
+  - "Relentless (3) - Passive"
+  - "Deep Diver - Passive"
+  - "Steel-Skinned - Passive"
+  - "Forceful Eruption - Action"
+---
+
 # Landshark Behemoth
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Solo](../core_rules/Using%20Adversaries.md)***

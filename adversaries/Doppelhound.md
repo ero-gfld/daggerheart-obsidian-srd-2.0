@@ -1,3 +1,25 @@
+---
+tags:
+  - "daggerheart/adversary"
+name: "Doppelhound"
+tier: 2
+type: "Skulk"
+description: "A vicious magical canid that has glowing eyes and two barbed, whiplike tails. It confuses enemies by conjuring an illusory duplicate of itself."
+difficulty: 14
+thresholds: "9/17"
+hp: 4
+stress: 5
+atk: "+3"
+attack: "Barbed Tail Whip"
+range: "Very Close"
+damage: "2d8+2 phy"
+motives_and_tactics: "Ambush prey, kill for sport, play with food, trick and deceive"
+experience: "Shadows +3"
+features:
+  - "Blink Beast - Passive"
+  - "Double Strike - Action"
+---
+
 # Doppelhound
 
 ***[Tier 2](../core_rules/Using%20Adversaries.md#ADVERSARIES%20BY%20TIER) [Skulk](../core_rules/Using%20Adversaries.md)***

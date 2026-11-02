@@ -1,3 +1,17 @@
+---
+tags:
+  - "daggerheart/weapon"
+name: "Improved Enchanted Chakram"
+tier: 2
+category: "Primary"
+type: "Magical"
+trait: "Finesse"
+range: "Close"
+damage: "d6+4 mag"
+burden: "One-Handed"
+feature: "Ricochet: When you throw this weapon, it returns to your hand. When you make an attack, you can mark a Stress to target another creature within Very Close range of the first target with that attack."
+---
+
 # Improved Enchanted Chakram
 
 **_[Tier 2](../core_rules/Core%20Mechanics.md#LEVELING%20UP)_** _[Primary](../core_rules/Equipment.md#WEAPONS)_ _[Magical](../core_rules/Equipment.md#WEAPONS)_ _Weapon_
