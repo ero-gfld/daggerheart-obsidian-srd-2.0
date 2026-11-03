@@ -5,6 +5,7 @@ name: "Major Enlighten Potion"
 effect: "You gain a +1 bonus to your Knowledge until your next rest."
 roll: 30
 set: "Core Set"
+rarity: "Uncommon"
 ---
 
 # Major Enlighten Potion

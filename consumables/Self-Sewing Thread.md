@@ -5,6 +5,7 @@ name: "Self-Sewing Thread"
 effect: "You can use this thread to clear either a Hit Point or 2 Armor Slots."
 roll: 25
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Self-Sewing Thread

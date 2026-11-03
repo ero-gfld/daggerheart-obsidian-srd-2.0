@@ -5,6 +5,7 @@ name: "Manacles"
 effect: "This pair of locking cuffs comes with a key."
 roll: 6
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Manacles

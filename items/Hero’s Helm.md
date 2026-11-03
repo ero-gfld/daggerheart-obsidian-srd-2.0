@@ -5,6 +5,7 @@ name: "Hero’s Helm"
 effect: "When you critically succeed on an attack, all allies within Close range gain a Hope."
 roll: 51
 set: "Hope & Fear"
+rarity: "Legendary"
 ---
 
 # Hero’s Helm

@@ -5,6 +5,7 @@ name: "Snap Powder"
 effect: "Mark a Stress and clear a HP."
 roll: 18
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Snap Powder

@@ -5,6 +5,7 @@ name: "Blood of the Yorgi"
 effect: "You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range."
 roll: 31
 set: "Core Set"
+rarity: "Uncommon"
 ---
 
 # Blood of the Yorgi

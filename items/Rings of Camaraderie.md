@@ -5,6 +5,7 @@ name: "Rings of Camaraderie"
 effect: "Two creatures can wear this pair of wooden rings. You can mark the Stress of whoever is wearing the other ring (with their permission) as if it were your own."
 roll: 53
 set: "Hope & Fear"
+rarity: "Legendary"
 ---
 
 # Rings of Camaraderie

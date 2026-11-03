@@ -5,6 +5,7 @@ name: "Charm Potion"
 effect: "You gain a +1 bonus to your next Presence Roll."
 roll: 5
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Charm Potion

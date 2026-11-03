@@ -5,6 +5,7 @@ name: "Attune Relic"
 effect: "You gain a +1 bonus to your Instinct. You can only carry one relic."
 roll: 44
 set: "Core Set"
+rarity: "Rare"
 ---
 
 # Attune Relic

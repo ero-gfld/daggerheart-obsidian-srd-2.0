@@ -5,6 +5,7 @@ name: "Glider"
 effect: "While falling, you can mark a Stress to deploy this small parachute and glide safely to the ground."
 roll: 27
 set: "Core Set"
+rarity: "Uncommon"
 ---
 
 # Glider

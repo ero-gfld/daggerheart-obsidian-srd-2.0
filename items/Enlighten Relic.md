@@ -5,6 +5,7 @@ name: "Enlighten Relic"
 effect: "You gain a +1 bonus to your Knowledge. You can only carry one relic."
 roll: 46
 set: "Core Set"
+rarity: "Rare"
 ---
 
 # Enlighten Relic

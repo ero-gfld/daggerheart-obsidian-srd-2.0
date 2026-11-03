@@ -5,6 +5,7 @@ name: "Enlighten Potion"
 effect: "You gain a +1 bonus to your next Knowledge Roll."
 roll: 6
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Enlighten Potion

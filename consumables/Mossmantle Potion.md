@@ -5,6 +5,7 @@ name: "Mossmantle Potion"
 effect: "You can drink this tea to perfectly blend into natural environments until your next rest."
 roll: 5
 set: "Hope & Fear"
+rarity: "Common"
 ---
 
 # Mossmantle Potion

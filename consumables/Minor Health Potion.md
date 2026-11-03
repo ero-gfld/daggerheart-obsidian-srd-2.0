@@ -5,6 +5,7 @@ name: "Minor Health Potion"
 effect: "Clear 1d4 HP."
 roll: 7
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Minor Health Potion

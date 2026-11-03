@@ -5,6 +5,7 @@ name: "Enchanter’s Loupe"
 effect: "You can use this loupe to see through illusions and enchantments."
 roll: 26
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Enchanter’s Loupe

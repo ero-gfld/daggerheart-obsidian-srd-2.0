@@ -5,6 +5,7 @@ name: "Health Potion"
 effect: "Clear 1d4+1 HP."
 roll: 19
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Health Potion

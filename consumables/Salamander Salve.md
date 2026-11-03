@@ -5,6 +5,7 @@ name: "Salamander Salve"
 effect: "You can apply this salve to your skin to make yourself immune to heat until your next rest."
 roll: 28
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Salamander Salve

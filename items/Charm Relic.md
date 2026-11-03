@@ -5,6 +5,7 @@ name: "Charm Relic"
 effect: "You gain a +1 bonus to your Presence. You can only carry one relic."
 roll: 45
 set: "Core Set"
+rarity: "Rare"
 ---
 
 # Charm Relic

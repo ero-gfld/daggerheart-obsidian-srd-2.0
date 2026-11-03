@@ -5,6 +5,7 @@ name: "Reliquary of the Sightless Saint"
 effect: "You gain a +1 bonus to your Hope Die when you make the Risk It All death move."
 roll: 30
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Reliquary of the Sightless Saint

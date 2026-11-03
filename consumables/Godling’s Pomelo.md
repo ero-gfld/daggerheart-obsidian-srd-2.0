@@ -5,6 +5,7 @@ name: "Godling’s Pomelo"
 effect: "You can eat this citrus fruit to clear all Hit Points and Stress."
 roll: 50
 set: "Hope & Fear"
+rarity: "Legendary"
 ---
 
 # Godling’s Pomelo

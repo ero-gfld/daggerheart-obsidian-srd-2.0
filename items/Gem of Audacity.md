@@ -5,6 +5,7 @@ name: "Gem of Audacity"
 effect: "You can attach this gem to a weapon, allowing you to use your Presence when making an attack with that weapon."
 roll: 57
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Gem of Audacity

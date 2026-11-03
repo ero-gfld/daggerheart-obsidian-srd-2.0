@@ -5,6 +5,7 @@ name: "Vial of Darksmoke Recipe"
 effect: "As a downtime move, you can mark a Stress to craft a Vial of Darksmoke."
 roll: 24
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Vial of Darksmoke Recipe

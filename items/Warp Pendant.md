@@ -5,6 +5,7 @@ name: "Warp Pendant"
 effect: "Once per rest, mark a Stress to teleport to a location you can clearly see."
 roll: 57
 set: "Hope & Fear"
+rarity: "Legendary"
 ---
 
 # Warp Pendant

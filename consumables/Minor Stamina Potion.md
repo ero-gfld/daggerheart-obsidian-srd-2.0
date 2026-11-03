@@ -5,6 +5,7 @@ name: "Minor Stamina Potion"
 effect: "Clear 1d4 Stress."
 roll: 8
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Minor Stamina Potion

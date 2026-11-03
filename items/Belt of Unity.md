@@ -5,6 +5,7 @@ name: "Belt of Unity"
 effect: "Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two."
 roll: 60
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Belt of Unity

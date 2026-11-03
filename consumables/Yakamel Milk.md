@@ -5,6 +5,7 @@ name: "Yakamel Milk"
 effect: "After consuming this milk, the next time you clear 1 or more Hit Points, you clear an additional Hit Point."
 roll: 13
 set: "Hope & Fear"
+rarity: "Common"
 ---
 
 # Yakamel Milk

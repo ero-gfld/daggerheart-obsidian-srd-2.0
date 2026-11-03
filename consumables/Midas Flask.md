@@ -5,6 +5,7 @@ name: "Midas Flask"
 effect: "You can pour this small flask of alchemical liquid over a mundane item to instantly transmute it into a handful of gold."
 roll: 32
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Midas Flask

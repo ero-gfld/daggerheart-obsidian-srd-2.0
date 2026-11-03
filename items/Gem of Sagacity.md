@@ -5,6 +5,7 @@ name: "Gem of Sagacity"
 effect: "You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon."
 roll: 58
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Gem of Sagacity

@@ -5,6 +5,7 @@ name: "Arcane Cloak"
 effect: "A creature with a Spellcast trait wearing this cloak can adjust its color, texture, and size at will."
 roll: 7
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Arcane Cloak

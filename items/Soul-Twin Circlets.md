@@ -5,6 +5,7 @@ name: "Soul-Twin Circlets"
 effect: "Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet."
 roll: 40
 set: "Hope & Fear"
+rarity: "Rare"
 ---
 
 # Soul-Twin Circlets
