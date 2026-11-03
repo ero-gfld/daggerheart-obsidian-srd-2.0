@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Fiole de fumée noire"
 effect: "Lorsqu’un adversaire vous attaque, utilisez cette fiole et lancez un nombre de d6 égal à votre Agilité. Ajoutez le résultat le plus élevé à votre Évasion contre cette attaque."
+roll: 16
+set: "Boîte de base"
 ---
 
 # Fiole de fumée noire

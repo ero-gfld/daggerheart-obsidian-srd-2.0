@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Pendentif de distorsion"
 effect: "Une fois par repos, marquez un Stress pour vous téléporter vers un lieu que vous voyez clairement."
+roll: 57
+set: "Espoir et Peur"
 ---
 
 # Pendentif de distorsion

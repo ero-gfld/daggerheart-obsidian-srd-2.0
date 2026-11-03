@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Thé de griffe de coq"
 effect: "Vous pouvez boire ce thé pour rafraîchir vos aptitudes comme si vous aviez pris un repos long."
+roll: 39
+set: "Espoir et Peur"
 ---
 
 # Thé de griffe de coq

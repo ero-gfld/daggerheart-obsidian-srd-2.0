@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Carquois de charge"
 effect: "Lorsque vous réussissez une attaque avec une flèche rangée dans ce carquois, vous gagnez un bonus au jet de dégâts égal à votre rang actuel."
+roll: 3
+set: "Boîte de base"
 ---
 
 # Carquois de charge

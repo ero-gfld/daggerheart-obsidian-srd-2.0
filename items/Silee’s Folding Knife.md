@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Couteau pliant de Silee"
 effect: "Cette lame de 3 pouces a un tranchant qui coupe sans peine tout ce qu’il touche, sauf le manche dans lequel elle est rangée."
+roll: 10
+set: "Espoir et Peur"
 ---
 
 # Couteau pliant de Silee

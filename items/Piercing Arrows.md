@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Flèches perçantes"
 effect: "Trois fois par repos, lorsque vous réussissez une attaque avec l’une de ces flèches, vous pouvez ajouter votre Maîtrise au jet de dégâts."
+roll: 14
+set: "Boîte de base"
 ---
 
 # Flèches perçantes

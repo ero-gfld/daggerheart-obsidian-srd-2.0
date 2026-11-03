@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Bombe de gravité"
 effect: "Vous pouvez lancer cette orbe mécanique de la taille d’une pêche sur un point à portée Loin. Elle implose et attire toutes les créatures et tous les objets situés à portée Proche de ce point jusqu’à portée de Mêlée d’elle."
+roll: 21
+set: "Espoir et Peur"
 ---
 
 # Bombe de gravité

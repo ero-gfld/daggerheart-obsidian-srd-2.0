@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Gemme de précision"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Finesse lorsque vous attaquez avec cette arme."
+roll: 55
+set: "Boîte de base"
 ---
 
 # Gemme de précision

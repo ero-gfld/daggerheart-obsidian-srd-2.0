@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Fagot de pattes d’araignée"
 effect: "Vous pouvez manger ces pattes d’araignée pour marcher sur les murs jusqu’à votre prochain repos."
+roll: 17
+set: "Espoir et Peur"
 ---
 
 # Fagot de pattes d’araignée

@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion de renfort"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet de Force."
+roll: 2
+set: "Boîte de base"
 ---
 
 # Potion de renfort

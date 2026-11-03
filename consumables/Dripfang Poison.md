@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Poison de Gouttecroc"
 effect: "Une créature qui ingère ce poison subit 8d10 dégâts magiques directs."
+roll: 42
+set: "Boîte de base"
 ---
 
 # Poison de Gouttecroc

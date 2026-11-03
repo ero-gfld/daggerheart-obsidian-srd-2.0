@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Recette de poussière mythique"
 effect: "Comme action de repos, vous pouvez utiliser une poignée de fine poussière d’or pour fabriquer de la poussière mythique."
+roll: 51
+set: "Boîte de base"
 ---
 
 # Recette de poussière mythique

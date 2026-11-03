@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion de pas de plume"
 effect: "Vous pouvez boire cette potion pour faire pousser de petites ailes à vos chevilles, ce qui vous donne un bonus à votre Évasion égal à votre rang jusqu’à votre prochain repos."
+roll: 60
+set: "Espoir et Peur"
 ---
 
 # Potion de pas de plume

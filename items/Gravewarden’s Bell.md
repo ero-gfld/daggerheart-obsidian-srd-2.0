@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Cloche du gardien des tombes"
 effect: "Cette cloche sonne lorsqu’un fantôme ou une créature morte-vivante se déplace à portée Loin d’elle."
+roll: 29
+set: "Espoir et Peur"
 ---
 
 # Cloche du gardien des tombes

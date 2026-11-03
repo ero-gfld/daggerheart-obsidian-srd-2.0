@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Raccommodeur d’armure"
 effect: "Vous pouvez utiliser ce raccommodeur pour dépenser n’importe quel nombre d’Espoir et libérer autant d’emplacements d’armure."
+roll: 21
+set: "Boîte de base"
 ---
 
 # Raccommodeur d’armure

@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Gants de célérité"
 effect: "Lorsque vous devriez marquer un Stress pour recharger une arme, vous ne le marquez pas."
+roll: 37
+set: "Espoir et Peur"
 ---
 
 # Gants de célérité

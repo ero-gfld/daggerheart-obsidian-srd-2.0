@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Gardien du savoir"
 effect: "Vous pouvez consigner le nom et les détails de jusqu’à trois créatures hostiles dans ce livre. Vous gagnez un bonus de +1 aux jets d’action contre ces créatures."
+roll: 23
+set: "Boîte de base"
 ---
 
 # Gardien du savoir

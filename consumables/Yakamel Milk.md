@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Lait de yakamel"
 effect: "Après avoir bu ce lait, la prochaine fois que vous libérez 1 ou plusieurs Points de vie, vous libérez un Point de vie supplémentaire."
+roll: 13
+set: "Espoir et Peur"
 ---
 
 # Lait de yakamel

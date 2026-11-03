@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Pieu d’abjuration"
 effect: "Vous pouvez enfoncer ce pieu dans le sol et prononcer une proclamation. Jusqu’à votre prochain repos, une créature située à portée Loin du pieu qui enfreint cette proclamation doit marquer un Stress. Le pieu dure jusqu’à votre prochain repos, puis il se brise."
+roll: 43
+set: "Espoir et Peur"
 ---
 
 # Pieu d’abjuration

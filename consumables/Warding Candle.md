@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Bougie de protection"
 effect: "Vous pouvez allumer cette bougie pour remplir une zone à portée Proche d’un halo de lumière. Une créature située hors du halo ne peut pas y entrer si elle a de mauvaises intentions envers une créature qui s’y trouve. La bougie brûle pendant une heure."
+roll: 1
+set: "Espoir et Peur"
 ---
 
 # Bougie de protection

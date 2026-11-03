@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Pendentif de dague de fer"
 effect: "Une fois par repos long, vous pouvez dépenser un Espoir pour confier au pendentif le nom d’une créature. Le pendentif vous attire doucement vers la position actuelle de cette créature jusqu’à votre prochain repos long."
+roll: 48
+set: "Espoir et Peur"
 ---
 
 # Pendentif de dague de fer

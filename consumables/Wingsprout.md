@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Pousse-d’ailes"
 effect: "Vous obtenez des ailes magiques qui vous permettent de voler pendant un nombre de minutes égal à votre niveau."
+roll: 46
+set: "Boîte de base"
 ---
 
 # Pousse-d’ailes

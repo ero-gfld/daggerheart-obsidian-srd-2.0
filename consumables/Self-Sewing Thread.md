@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Fil auto-cousant"
 effect: "Vous pouvez utiliser ce fil pour libérer soit un Point de vie, soit 2 emplacements d’armure."
+roll: 25
+set: "Espoir et Peur"
 ---
 
 # Fil auto-cousant

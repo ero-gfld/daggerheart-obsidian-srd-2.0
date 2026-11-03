@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion d’accord majeure"
 effect: "Vous gagnez un bonus de +1 à votre Instinct jusqu’à votre prochain repos."
+roll: 28
+set: "Boîte de base"
 ---
 
 # Potion d’accord majeure

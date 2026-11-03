@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Bottes de mystique souple"
 effect: "Tant que vous portez ces bottes, vous ne laissez ni traces ni empreintes."
+roll: 18
+set: "Espoir et Peur"
 ---
 
 # Bottes de mystique souple

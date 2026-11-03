@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Châle-plume"
 effect: "Si un adversaire vous attaque à portée de Mêlée, il doit réussir un jet de réaction (12) ou marquer un Point de vie."
+roll: 56
+set: "Espoir et Peur"
 ---
 
 # Châle-plume

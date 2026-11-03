@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Thé de dragonfleur"
 effect: "Vous pouvez boire ce thé pour déclencher une attaque de souffle de feu. Effectuez un jet d’Instinct contre tous les adversaires devant vous à portée Proche. Les cibles contre lesquelles vous réussissez subissent un d20 de dégâts physiques, en utilisant votre Maîtrise."
+roll: 48
+set: "Boîte de base"
 ---
 
 # Thé de dragonfleur

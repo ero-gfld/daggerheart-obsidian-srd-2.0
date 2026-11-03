@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Relique de l’augure"
 effect: "Une fois par repos long, vous pouvez activer votre aptitude d’Espoir sans dépenser d’Espoir. Vous ne pouvez porter qu’une seule relique."
+roll: 60
+set: "Espoir et Peur"
 ---
 
 # Relique de l’augure

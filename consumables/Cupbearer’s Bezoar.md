@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Bézoard de l’échanson"
 effect: "Vous pouvez avaler ce bézoard pour obtenir l’immunité contre les poisons jusqu’à votre prochain repos long."
+roll: 4
+set: "Espoir et Peur"
 ---
 
 # Bézoard de l’échanson

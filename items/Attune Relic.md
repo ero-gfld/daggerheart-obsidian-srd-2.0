@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Relique d’accord"
 effect: "Vous gagnez un bonus de +1 à votre Instinct. Vous ne pouvez porter qu’une seule relique."
+roll: 44
+set: "Boîte de base"
 ---
 
 # Relique d’accord

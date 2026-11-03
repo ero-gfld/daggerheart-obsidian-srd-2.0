@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Orbe aveuglante"
 effect: "Vous pouvez activer cette orbe pour créer un éclair de lumière vive. Toutes les cibles à portée Proche deviennent Vulnérables jusqu’à ce qu’elles marquent un Point de vie."
+roll: 57
+set: "Boîte de base"
 ---
 
 # Orbe aveuglante

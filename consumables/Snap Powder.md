@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Poudre crépitante"
 effect: "Marquez un Stress et libérez un PV."
+roll: 18
+set: "Boîte de base"
 ---
 
 # Poudre crépitante

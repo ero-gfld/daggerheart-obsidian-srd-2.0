@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion de contrôle majeure"
 effect: "Vous gagnez un bonus de +1 à votre Finesse jusqu’à votre prochain repos."
+roll: 27
+set: "Boîte de base"
 ---
 
 # Potion de contrôle majeure
