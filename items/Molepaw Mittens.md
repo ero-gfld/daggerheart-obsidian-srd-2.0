@@ -7,6 +7,7 @@ name: "Mitaines pattes-de-taupe"
 effect: "Dépensez un Espoir pour nager à travers la terre comme si c’était de l’eau, pendant 10 minutes."
 roll: 46
 set: "Espoir et Peur"
+rarity: "Rare"
 ---
 
 # Mitaines pattes-de-taupe

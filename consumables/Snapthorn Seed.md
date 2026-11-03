@@ -7,6 +7,7 @@ name: "Graine de Crochépine"
 effect: "Vous pouvez lancer cette graine sur un point que vous voyez. Elle explose en un enchevêtrement de lianes qui entrave temporairement toutes les créatures situées à portée Proche de ce point."
 roll: 19
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Graine de Crochépine

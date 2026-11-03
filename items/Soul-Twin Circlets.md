@@ -7,6 +7,7 @@ name: "Diadèmes d’âmes jumelles"
 effect: "Deux créatures peuvent porter cette paire de diadèmes. Vous pouvez dépenser un Espoir pour échanger votre place avec celui ou celle qui porte l’autre diadème."
 roll: 40
 set: "Espoir et Peur"
+rarity: "Rare"
 ---
 
 # Diadèmes d’âmes jumelles

@@ -7,6 +7,7 @@ name: "Ceinture de titan"
 effect: "Une fois par scène, vous pouvez activer cette ceinture pour gagner un bonus de +1 à votre Maîtrise pour votre prochaine attaque."
 roll: 22
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Ceinture de titan

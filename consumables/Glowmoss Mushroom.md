@@ -7,6 +7,7 @@ name: "Champignon lumimousse"
 effect: "Vous pouvez briser ce champignon en morceaux, ce qui le fait luire d’un bleu vif jusqu’à votre prochain repos long."
 roll: 14
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Champignon lumimousse

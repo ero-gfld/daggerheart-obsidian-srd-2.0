@@ -7,6 +7,7 @@ name: "Tonique cœur de lion"
 effect: "Vous pouvez boire ce tonique pour gagner un bonus de +1 à votre Maîtrise jusqu’à ce que vous fassiez un jet avec la Peur."
 roll: 58
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Tonique cœur de lion

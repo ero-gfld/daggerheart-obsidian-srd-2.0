@@ -7,6 +7,7 @@ name: "Sophisme du joueur"
 effect: "Vous pouvez dépenser n’importe quel nombre de poignées d’or en les plaçant dans ce pot en céramique à fente, en forme de cochon. Lorsque vous lancez le pot sur un point à portée Loin, il explose et inflige 1d20 dégâts magiques par poignée d’or dépensée à toutes les créatures situées à portée Proche de ce point. Tout l’or contenu dans le pot est détruit."
 roll: 57
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Sophisme du joueur

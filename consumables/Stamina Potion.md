@@ -7,6 +7,7 @@ name: "Potion d’endurance"
 effect: "Évacuez 1d4+1 Stress."
 roll: 20
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion d’endurance

@@ -7,6 +7,7 @@ name: "Potion d’illumination"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet de Savoir."
 roll: 6
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion d’illumination

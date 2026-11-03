@@ -7,6 +7,7 @@ name: "Coffret aux nombreux biens"
 effect: "Une fois par repos long, vous pouvez ouvrir ce petit coffret et lancer un d12. Sur un résultat de 1–6, il est vide. Sur un résultat de 7–10, il contient un consommable commun aléatoire. Sur un résultat de 11–12, il contient deux consommables communs aléatoires."
 roll: 34
 set: "Boîte de base"
+rarity: "Peu commun"
 ---
 
 # Coffret aux nombreux biens

@@ -7,6 +7,7 @@ name: "Esprit de peau de serpent"
 effect: "Vous pouvez boire cette potion pour muer et soigner une cicatrice."
 roll: 51
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Esprit de peau de serpent

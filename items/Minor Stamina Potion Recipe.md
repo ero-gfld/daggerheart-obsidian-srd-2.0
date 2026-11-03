@@ -7,6 +7,7 @@ name: "Recette de potion d’endurance mineure"
 effect: "Comme action de repos, vous pouvez utiliser l’os d’une créature pour fabriquer une potion d’endurance mineure."
 roll: 18
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Recette de potion d’endurance mineure

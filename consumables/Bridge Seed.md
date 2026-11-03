@@ -7,6 +7,7 @@ name: "Graine de pont"
 effect: "D’épaisses vignes poussent depuis votre position jusqu’à un point de votre choix à portée Loin, vous permettant de grimper dessus ou de les traverser. Les vignes se dissipent à votre prochain repos court."
 roll: 49
 set: "Boîte de base"
+rarity: "Légendaire"
 ---
 
 # Graine de pont

@@ -7,6 +7,7 @@ name: "Huile de suintement rouge"
 effect: "Vous pouvez enduire votre arme de cette huile. La prochaine attaque réussie que vous effectuez avec cette arme inflige 1d8 dégâts magiques supplémentaires et rend temporairement la cible Enflammée. Tant qu’elle est Enflammée, la cible subit 1d4 dégâts magiques lorsqu’elle est mise sous les projecteurs."
 roll: 15
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Huile de suintement rouge

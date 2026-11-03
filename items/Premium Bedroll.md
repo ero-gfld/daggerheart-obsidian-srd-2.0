@@ -7,6 +7,7 @@ name: "Couchage de luxe"
 effect: "Pendant le temps de repos, vous évacuez automatiquement un Stress."
 roll: 1
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Couchage de luxe

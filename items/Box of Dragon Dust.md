@@ -7,6 +7,7 @@ name: "Coffret de poussière de dragon"
 effect: "Cette tabatière contient une poudre inflammable."
 roll: 4
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Coffret de poussière de dragon

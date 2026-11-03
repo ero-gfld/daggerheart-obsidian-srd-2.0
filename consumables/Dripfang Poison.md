@@ -7,6 +7,7 @@ name: "Poison de Gouttecroc"
 effect: "Une créature qui ingère ce poison subit 8d10 dégâts magiques directs."
 roll: 42
 set: "Boîte de base"
+rarity: "Rare"
 ---
 
 # Poison de Gouttecroc

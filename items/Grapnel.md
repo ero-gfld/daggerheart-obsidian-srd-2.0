@@ -7,6 +7,7 @@ name: "Grappin"
 effect: "Vous gagnez un avantage aux jets d’action pour escalader les surfaces abruptes."
 roll: 2
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Grappin

@@ -7,6 +7,7 @@ name: "Flacon de Midas"
 effect: "Vous pouvez verser ce petit flacon de liquide alchimique sur un objet ordinaire pour le transmuer instantanément en une poignée d’or."
 roll: 32
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Flacon de Midas

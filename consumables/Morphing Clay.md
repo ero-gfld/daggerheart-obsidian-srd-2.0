@@ -7,6 +7,7 @@ name: "Argile changeante"
 effect: "Vous pouvez dépenser un Espoir pour utiliser cette argile, qui modifie votre visage au point de vous rendre méconnaissable jusqu’à votre prochain repos."
 roll: 15
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Argile changeante

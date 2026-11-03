@@ -7,6 +7,7 @@ name: "Potion de charme majeure"
 effect: "Vous gagnez un bonus de +1 à votre Présence jusqu’à votre prochain repos."
 roll: 29
 set: "Boîte de base"
+rarity: "Peu commun"
 ---
 
 # Potion de charme majeure

@@ -7,6 +7,7 @@ name: "Éclat arcanique amélioré"
 effect: "Vous pouvez effectuer un jet de Finesse pour lancer cet éclat sur un groupe d’adversaires à portée Loin. Les cibles contre lesquelles vous réussissez subissent 2d20 dégâts magiques."
 roll: 24
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Éclat arcanique amélioré

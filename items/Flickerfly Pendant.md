@@ -7,6 +7,7 @@ name: "Pendentif de papillon scintillant"
 effect: "Tant que vous portez ce pendentif, vos armes à portée de Mêlée qui infligent des dégâts physiques ont un reflet diaphane et peuvent attaquer des cibles à portée Très proche."
 roll: 48
 set: "Boîte de base"
+rarity: "Rare"
 ---
 
 # Pendentif de papillon scintillant

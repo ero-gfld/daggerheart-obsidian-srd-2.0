@@ -7,6 +7,7 @@ name: "Bâton d’inversion"
 effect: "Vous pouvez briser ce bâton contre le sol pour inverser une transformation magique ou un effet à portée Loin."
 roll: 33
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Bâton d’inversion

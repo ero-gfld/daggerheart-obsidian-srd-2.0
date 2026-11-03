@@ -7,6 +7,7 @@ name: "Potion de soins mineure"
 effect: "Libérez 1d4 PV."
 roll: 7
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion de soins mineure

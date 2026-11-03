@@ -7,6 +7,7 @@ name: "Poussière de guenaude nocturne"
 effect: "Vous pouvez souffler cette poussière au visage d’un adversaire pour l’empêcher d’évacuer du Stress jusqu’à votre prochain repos long."
 roll: 24
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Poussière de guenaude nocturne

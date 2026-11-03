@@ -7,6 +7,7 @@ name: "Onguent peau d’acier"
 effect: "Vous pouvez appliquer cet onguent sur votre peau pour gagner un bonus à vos seuils de dégâts égal à votre rang jusqu’à la fin de la scène."
 roll: 49
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Onguent peau d’acier

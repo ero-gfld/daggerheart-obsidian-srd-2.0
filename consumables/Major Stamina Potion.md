@@ -7,6 +7,7 @@ name: "Potion d’endurance majeure"
 effect: "Évacuez 1d4+2 Stress."
 roll: 44
 set: "Boîte de base"
+rarity: "Rare"
 ---
 
 # Potion d’endurance majeure

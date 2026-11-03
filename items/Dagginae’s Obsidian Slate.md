@@ -7,6 +7,7 @@ name: "Ardoise d’obsidienne de Dagginae"
 effect: "Cette plaque de verre volcanique, fine comme une feuille, sert aux archivistes pour prendre des notes. Toute information gravée à sa surface disparaît, mais peut être rappelée par une commande que vous définissez."
 roll: 32
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Ardoise d’obsidienne de Dagginae

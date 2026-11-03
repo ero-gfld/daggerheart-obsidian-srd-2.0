@@ -7,6 +7,7 @@ name: "Cloche du gardien des tombes"
 effect: "Cette cloche sonne lorsqu’un fantôme ou une créature morte-vivante se déplace à portée Loin d’elle."
 roll: 29
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Cloche du gardien des tombes

@@ -7,6 +7,7 @@ name: "Feuilles de Varik"
 effect: "Mangez ces feuilles jumelles pour gagner immédiatement 2 Espoir."
 roll: 10
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Feuilles de Varik

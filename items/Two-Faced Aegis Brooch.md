@@ -7,6 +7,7 @@ name: "Broche à double égide"
 effect: "Une fois par repos, lancez une pièce. Sur face, vous devenez immunisé contre les prochains dégâts physiques que vous subissez. Sur pile, vous devenez immunisé contre les prochains dégâts magiques que vous subissez."
 roll: 43
 set: "Espoir et Peur"
+rarity: "Rare"
 ---
 
 # Broche à double égide

@@ -7,6 +7,7 @@ name: "Potion de contrôle"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet de Finesse."
 roll: 3
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion de contrôle

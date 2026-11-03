@@ -7,6 +7,7 @@ name: "Relique de foulée"
 effect: "Vous gagnez un bonus de +1 à votre Agilité. Vous ne pouvez porter qu’une seule relique."
 roll: 41
 set: "Boîte de base"
+rarity: "Rare"
 ---
 
 # Relique de foulée
