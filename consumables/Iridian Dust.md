@@ -5,6 +5,7 @@ name: "Iridian Dust"
 effect: "This multicolored powder sticks to everything and prevents creatures covered in it from becoming Hidden."
 roll: 2
 set: "Hope & Fear"
+rarity: "Common"
 ---
 
 # Iridian Dust

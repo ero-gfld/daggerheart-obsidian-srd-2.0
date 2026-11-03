@@ -5,6 +5,7 @@ name: "Grapnel"
 effect: "You gain advantage on action rolls to climb sheer surfaces."
 roll: 2
 set: "Hope & Fear"
+rarity: "Common"
 ---
 
 # Grapnel

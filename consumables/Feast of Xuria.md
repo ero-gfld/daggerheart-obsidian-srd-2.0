@@ -5,6 +5,7 @@ name: "Feast of Xuria"
 effect: "You can eat this meal to clear all HP and Stress and gain 1d4 Hope."
 roll: 51
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Feast of Xuria

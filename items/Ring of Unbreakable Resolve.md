@@ -5,6 +5,7 @@ name: "Ring of Unbreakable Resolve"
 effect: "Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear."
 roll: 59
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Ring of Unbreakable Resolve

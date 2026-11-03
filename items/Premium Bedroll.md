@@ -5,6 +5,7 @@ name: "Premium Bedroll"
 effect: "During downtime, you automatically clear a Stress."
 roll: 1
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Premium Bedroll

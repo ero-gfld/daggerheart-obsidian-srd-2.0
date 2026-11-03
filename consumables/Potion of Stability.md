@@ -5,6 +5,7 @@ name: "Potion of Stability"
 effect: "You can drink this potion to choose one additional downtime move."
 roll: 13
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Potion of Stability

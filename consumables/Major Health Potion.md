@@ -5,6 +5,7 @@ name: "Major Health Potion"
 effect: "Clear 1d4+2 HP."
 roll: 43
 set: "Core Set"
+rarity: "Rare"
 ---
 
 # Major Health Potion

@@ -5,6 +5,7 @@ name: "Augur’s Relic"
 effect: "Once per long rest, you can activate your Hope feature without spending Hope. You can carry only one relic."
 roll: 60
 set: "Hope & Fear"
+rarity: "Legendary"
 ---
 
 # Augur’s Relic

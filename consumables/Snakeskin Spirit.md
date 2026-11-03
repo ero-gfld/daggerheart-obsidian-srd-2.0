@@ -5,6 +5,7 @@ name: "Snakeskin Spirit"
 effect: "You can drink this potion to slough off your outer layer of skin and heal a scar."
 roll: 51
 set: "Hope & Fear"
+rarity: "Legendary"
 ---
 
 # Snakeskin Spirit

@@ -5,6 +5,7 @@ name: "Sleeping Sap"
 effect: "You can drink this potion to fall asleep for a full night’s rest. You clear all Stress upon waking."
 roll: 50
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Sleeping Sap

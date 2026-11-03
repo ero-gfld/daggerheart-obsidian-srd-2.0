@@ -5,6 +5,7 @@ name: "Mnemonic Potion"
 effect: "You can drink this potion to Utilize an Experience without spending a Hope."
 roll: 27
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Mnemonic Potion

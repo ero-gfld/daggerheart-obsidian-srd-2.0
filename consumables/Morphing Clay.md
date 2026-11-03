@@ -5,6 +5,7 @@ name: "Morphing Clay"
 effect: "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest."
 roll: 15
 set: "Core Set"
+rarity: "Common"
 ---
 
 # Morphing Clay

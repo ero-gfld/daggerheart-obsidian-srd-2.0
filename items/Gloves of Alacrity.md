@@ -5,6 +5,7 @@ name: "Gloves of Alacrity"
 effect: "When you would mark a Stress to reload a weapon, you don’t mark it."
 roll: 37
 set: "Hope & Fear"
+rarity: "Rare"
 ---
 
 # Gloves of Alacrity

@@ -5,6 +5,7 @@ name: "Bridge Seed"
 effect: "Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest."
 roll: 49
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Bridge Seed

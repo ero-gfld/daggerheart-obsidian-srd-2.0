@@ -5,6 +5,7 @@ name: "Two-Faced Aegis Brooch"
 effect: "Once per rest, flip a coin. On heads, you become immune to the next physical damage you take. On tails, you become immune to the next magic damage you take."
 roll: 43
 set: "Hope & Fear"
+rarity: "Rare"
 ---
 
 # Two-Faced Aegis Brooch

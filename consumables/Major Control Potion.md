@@ -5,6 +5,7 @@ name: "Major Control Potion"
 effect: "You gain a +1 bonus to your Finesse until your next rest."
 roll: 27
 set: "Core Set"
+rarity: "Uncommon"
 ---
 
 # Major Control Potion

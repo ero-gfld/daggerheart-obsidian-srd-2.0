@@ -5,6 +5,7 @@ name: "Staff of Reversal"
 effect: "You can break this staff against the ground to reverse one magical transformation or effect within Far range."
 roll: 33
 set: "Hope & Fear"
+rarity: "Uncommon"
 ---
 
 # Staff of Reversal

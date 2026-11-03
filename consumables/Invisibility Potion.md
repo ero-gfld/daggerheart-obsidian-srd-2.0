@@ -5,6 +5,7 @@ name: "Invisibility Potion"
 effect: "You are Hidden until you deal damage to another creature or until your next rest."
 roll: 47
 set: "Hope & Fear"
+rarity: "Rare"
 ---
 
 # Invisibility Potion

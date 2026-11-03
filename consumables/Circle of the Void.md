@@ -5,6 +5,7 @@ name: "Circle of the Void"
 effect: "Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage."
 roll: 40
 set: "Core Set"
+rarity: "Rare"
 ---
 
 # Circle of the Void

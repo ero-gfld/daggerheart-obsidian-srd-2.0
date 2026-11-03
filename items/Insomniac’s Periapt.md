@@ -5,6 +5,7 @@ name: "Insomniac’s Periapt"
 effect: "When you take a rest without clearing Hit Points or Stress, you gain a +2 bonus to attack and damage rolls until your next rest."
 roll: 38
 set: "Hope & Fear"
+rarity: "Rare"
 ---
 
 # Insomniac’s Periapt

@@ -5,6 +5,7 @@ name: "Bolster Relic"
 effect: "You gain a +1 bonus to your Strength. You can only carry one relic."
 roll: 42
 set: "Core Set"
+rarity: "Rare"
 ---
 
 # Bolster Relic

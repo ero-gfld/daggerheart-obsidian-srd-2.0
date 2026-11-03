@@ -5,6 +5,7 @@ name: "Gem of Alacrity"
 effect: "You can attach this gem to a weapon, allowing you to use your Agility when making an attack with that weapon."
 roll: 53
 set: "Core Set"
+rarity: "Legendary"
 ---
 
 # Gem of Alacrity
