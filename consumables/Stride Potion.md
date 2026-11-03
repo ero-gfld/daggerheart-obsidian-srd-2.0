@@ -7,6 +7,7 @@ name: "Potion de foulée"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet d’Agilité."
 roll: 1
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion de foulée

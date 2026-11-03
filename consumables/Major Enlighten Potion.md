@@ -7,6 +7,7 @@ name: "Potion d’illumination majeure"
 effect: "Vous gagnez un bonus de +1 à votre Savoir jusqu’à votre prochain repos."
 roll: 30
 set: "Boîte de base"
+rarity: "Peu commun"
 ---
 
 # Potion d’illumination majeure

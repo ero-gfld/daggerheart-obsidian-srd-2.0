@@ -7,6 +7,7 @@ name: "Hydromel cauchemardesque"
 effect: "Vous pouvez boire cette potion pour découvrir la plus grande peur de la prochaine personne que vous croisez du regard. Lorsque vous le faites, le MJ gagne une Peur."
 roll: 42
 set: "Espoir et Peur"
+rarity: "Rare"
 ---
 
 # Hydromel cauchemardesque

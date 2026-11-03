@@ -7,6 +7,7 @@ name: "Potion de charme"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet de Présence."
 roll: 5
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion de charme

@@ -7,6 +7,7 @@ name: "Potion de croissance"
 effect: "Vous pouvez boire cette potion pour doubler votre taille jusqu’à ce que vous décidiez de quitter cette forme ou jusqu’à votre prochain repos. Sous cette forme, vous gagnez un bonus de +2 à votre Force et un bonus de +1 à votre Maîtrise."
 roll: 54
 set: "Boîte de base"
+rarity: "Légendaire"
 ---
 
 # Potion de croissance

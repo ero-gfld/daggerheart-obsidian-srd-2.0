@@ -7,6 +7,7 @@ name: "Potion mnémonique"
 effect: "Vous pouvez boire cette potion pour Utiliser une Expérience sans dépenser d’Espoir."
 roll: 27
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Potion mnémonique

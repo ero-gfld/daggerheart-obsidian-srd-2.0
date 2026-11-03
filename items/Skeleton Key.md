@@ -7,6 +7,7 @@ name: "Passe-partout"
 effect: "Quand vous utilisez cette clé pour ouvrir une porte verrouillée, vous gagnez un avantage au jet de Finesse."
 roll: 16
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Passe-partout

@@ -7,6 +7,7 @@ name: "Cape arcanique"
 effect: "Une créature dotée de l’Incantation peut modifier à volonté la couleur, la texture et la taille de cette cape lorsqu’elle la porte."
 roll: 7
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Cape arcanique

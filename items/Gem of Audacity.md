@@ -7,6 +7,7 @@ name: "Gemme d’audace"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Présence lorsque vous attaquez avec cette arme."
 roll: 57
 set: "Boîte de base"
+rarity: "Légendaire"
 ---
 
 # Gemme d’audace

@@ -7,6 +7,7 @@ name: "Poussière iridienne"
 effect: "Cette poudre multicolore adhère à tout et empêche les créatures qui en sont couvertes de devenir Cachées."
 roll: 2
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Poussière iridienne

@@ -7,6 +7,7 @@ name: "Éclat d’arcticite"
 effect: "Choisissez un point à portée Loin. Toutes les cibles à portée Proche de ce point doivent réussir un jet de réaction (16), sans quoi elles subissent 3d6 dégâts magiques et deviennent temporairement Entravées par la glace."
 roll: 36
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Éclat d’arcticite

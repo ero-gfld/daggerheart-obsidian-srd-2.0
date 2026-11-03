@@ -7,6 +7,7 @@ name: "Loupe de l’enchanteur"
 effect: "Vous pouvez utiliser cette loupe pour voir au travers des illusions et des enchantements."
 roll: 26
 set: "Espoir et Peur"
+rarity: "Peu commun"
 ---
 
 # Loupe de l’enchanteur

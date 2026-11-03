@@ -7,6 +7,7 @@ name: "Ceinture de l’union"
 effect: "Une fois par session, vous pouvez dépenser 5 Espoir pour diriger un jet en tandem à trois PJ au lieu de deux."
 roll: 60
 set: "Boîte de base"
+rarity: "Légendaire"
 ---
 
 # Ceinture de l’union

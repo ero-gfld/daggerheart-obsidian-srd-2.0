@@ -7,6 +7,7 @@ name: "Sanctuaire temporel"
 effect: "Un PJ qui se repose dans le sanctuaire temporel peut choisir une action de repos supplémentaire."
 roll: 50
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Sanctuaire temporel

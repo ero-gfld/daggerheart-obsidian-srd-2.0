@@ -7,6 +7,7 @@ name: "Potion de manteau de mousse"
 effect: "Vous pouvez boire cette tisane pour vous fondre parfaitement dans les environnements naturels jusqu’à votre prochain repos."
 roll: 5
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Potion de manteau de mousse

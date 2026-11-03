@@ -7,6 +7,7 @@ name: "Éclat arcanique majeur"
 effect: "Vous pouvez effectuer un jet de Finesse pour lancer cet éclat sur un groupe d’adversaires à portée Loin. Les cibles contre lesquelles vous réussissez subissent 4d20 dégâts magiques."
 roll: 38
 set: "Boîte de base"
+rarity: "Rare"
 ---
 
 # Éclat arcanique majeur

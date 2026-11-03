@@ -7,6 +7,7 @@ name: "Potion d’accord"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet d’Instinct."
 roll: 4
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion d’accord

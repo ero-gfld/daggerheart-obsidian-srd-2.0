@@ -7,6 +7,7 @@ name: "Selle du chevaucheur sauvage"
 effect: "Cette selle permet à tout animal qui la porte de comprendre les ordres de son cavalier."
 roll: 39
 set: "Espoir et Peur"
+rarity: "Rare"
 ---
 
 # Selle du chevaucheur sauvage

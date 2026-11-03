@@ -7,6 +7,7 @@ name: "Potion de stabilité"
 effect: "Vous pouvez boire cette potion pour choisir une action de repos supplémentaire."
 roll: 13
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Potion de stabilité

@@ -7,6 +7,7 @@ name: "Goutte d’étoile"
 effect: "Vous pouvez utiliser cette goutte d’étoile pour invoquer une grêle de comètes qui inflige 8d20 dégâts physiques à toutes les cibles à portée Très loin."
 roll: 60
 set: "Boîte de base"
+rarity: "Légendaire"
 ---
 
 # Goutte d’étoile

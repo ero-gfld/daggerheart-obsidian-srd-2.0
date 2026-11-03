@@ -7,6 +7,7 @@ name: "Boussole du voleur"
 effect: "Cette boussole indique la direction de la sortie la plus proche lorsque vous êtes à l’intérieur, et celle de l’entrée la plus proche lorsque vous êtes à l’extérieur."
 roll: 15
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Boussole du voleur

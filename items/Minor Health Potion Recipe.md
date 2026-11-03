@@ -7,6 +7,7 @@ name: "Recette de potion de soins mineure"
 effect: "Comme action de repos, vous pouvez utiliser une fiole de sang pour fabriquer une potion de soins mineure."
 roll: 19
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Recette de potion de soins mineure

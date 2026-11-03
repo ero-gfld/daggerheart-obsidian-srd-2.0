@@ -7,6 +7,7 @@ name: "Diadème du phobophage"
 effect: "Lorsque le MJ dépense une Peur, lancez un d4. Une fois par scène, sur un résultat de 4, vous évacuez un Stress."
 roll: 55
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Diadème du phobophage

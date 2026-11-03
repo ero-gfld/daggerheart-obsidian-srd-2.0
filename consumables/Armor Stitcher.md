@@ -7,6 +7,7 @@ name: "Raccommodeur d’armure"
 effect: "Vous pouvez utiliser ce raccommodeur pour dépenser n’importe quel nombre d’Espoir et libérer autant d’emplacements d’armure."
 roll: 21
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Raccommodeur d’armure

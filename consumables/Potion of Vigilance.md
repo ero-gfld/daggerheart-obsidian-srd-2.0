@@ -7,6 +7,7 @@ name: "Potion de vigilance"
 effect: "Vous pouvez boire cette potion pour gagner un bonus de +1 à votre Évasion jusqu’à ce que vous marquiez un Point de vie."
 roll: 40
 set: "Espoir et Peur"
+rarity: "Rare"
 ---
 
 # Potion de vigilance

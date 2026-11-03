@@ -7,6 +7,7 @@ name: "Chausse-trapes"
 effect: "Vous pouvez répandre ces chausse-trapes dans une zone Très proche autour de vous. Une créature qui se précipite à travers cette zone doit marquer un Stress."
 roll: 1
 set: "Espoir et Peur"
+rarity: "Commun"
 ---
 
 # Chausse-trapes

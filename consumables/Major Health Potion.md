@@ -7,6 +7,7 @@ name: "Potion de soins majeure"
 effect: "Libérez 1d4+2 PV."
 roll: 43
 set: "Boîte de base"
+rarity: "Rare"
 ---
 
 # Potion de soins majeure

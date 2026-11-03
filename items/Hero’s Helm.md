@@ -7,6 +7,7 @@ name: "Heaume du héros"
 effect: "Lorsque vous réussissez une attaque de façon critique, tous les alliés à portée Proche gagnent un Espoir."
 roll: 51
 set: "Espoir et Peur"
+rarity: "Légendaire"
 ---
 
 # Heaume du héros

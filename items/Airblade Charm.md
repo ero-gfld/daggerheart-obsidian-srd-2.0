@@ -7,6 +7,7 @@ name: "Charme de lame d’air"
 effect: "Vous pouvez attacher ce charme à une arme de Mêlée. Trois fois par repos, vous pouvez activer le charme et attaquer une cible à portée Proche."
 roll: 35
 set: "Boîte de base"
+rarity: "Peu commun"
 ---
 
 # Charme de lame d’air

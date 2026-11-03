@@ -7,6 +7,7 @@ name: "Filet tissé"
 effect: "Vous pouvez faire un jet de Finesse avec ce filet pour piéger une petite créature. Une cible piégée peut se libérer en réussissant un jet d’attaque (16)."
 roll: 8
 set: "Boîte de base"
+rarity: "Commun"
 ---
 
 # Filet tissé

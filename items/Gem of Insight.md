@@ -7,6 +7,7 @@ name: "Gemme de perspicacité"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Instinct lorsque vous attaquez avec cette arme."
 roll: 56
 set: "Boîte de base"
+rarity: "Légendaire"
 ---
 
 # Gemme de perspicacité
