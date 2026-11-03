@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Gemme de puissance"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Force lorsque vous attaquez avec cette arme."
+roll: 54
+set: "Boîte de base"
 ---
 
 # Gemme de puissance

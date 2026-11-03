@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Sève de l’arbre-soleil"
 effect: "Consommez cette sève pour lancer un d6. Sur un résultat de 5–6, libérez 2 PV. Sur un résultat de 2–4, évacuez 3 Stress. Sur un résultat de 1, vous traversez le voile de la mort et revenez changé, gagnant une cicatrice."
+roll: 41
+set: "Boîte de base"
 ---
 
 # Sève de l’arbre-soleil

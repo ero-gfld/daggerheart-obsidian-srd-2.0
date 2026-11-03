@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Plume de phénix"
 effect: "Si vous avez sur vous au moins une plume de phénix lorsque vous tombez inconscient, vous gagnez un bonus de +1 au jet que vous effectuez pour déterminer si vous gagnez une cicatrice."
+roll: 33
+set: "Boîte de base"
 ---
 
 # Plume de phénix

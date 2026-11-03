@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion de soins"
 effect: "Libérez 1d4+1 PV."
+roll: 19
+set: "Boîte de base"
 ---
 
 # Potion de soins

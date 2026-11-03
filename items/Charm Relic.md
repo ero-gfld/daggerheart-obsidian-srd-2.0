@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Relique de charme"
 effect: "Vous gagnez un bonus de +1 à votre Présence. Vous ne pouvez porter qu’une seule relique."
+roll: 45
+set: "Boîte de base"
 ---
 
 # Relique de charme

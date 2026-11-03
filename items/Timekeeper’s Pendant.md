@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Pendentif du gardien du temps"
 effect: "Vous pouvez choisir une action de repos supplémentaire à chaque repos."
+roll: 47
+set: "Espoir et Peur"
 ---
 
 # Pendentif du gardien du temps

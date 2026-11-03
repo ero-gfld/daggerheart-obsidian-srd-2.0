@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion de stabilité"
 effect: "Vous pouvez boire cette potion pour choisir une action de repos supplémentaire."
+roll: 13
+set: "Boîte de base"
 ---
 
 # Potion de stabilité

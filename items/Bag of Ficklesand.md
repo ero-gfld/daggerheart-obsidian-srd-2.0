@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Sac de sable capricieux"
 effect: "En réussissant un jet de Présence (10), vous pouvez rendre ce petit sac de sable beaucoup plus lourd ou plus léger. De plus, en réussissant un jet de Finesse (10), vous pouvez souffler un peu de sable au visage d’une cible pour la rendre temporairement Vulnérable."
+roll: 31
+set: "Boîte de base"
 ---
 
 # Sac de sable capricieux

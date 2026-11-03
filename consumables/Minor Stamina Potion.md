@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion d’endurance mineure"
 effect: "Évacuez 1d4 Stress."
+roll: 8
+set: "Boîte de base"
 ---
 
 # Potion d’endurance mineure

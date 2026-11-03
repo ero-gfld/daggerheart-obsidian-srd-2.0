@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Cadres de creuset"
 effect: "Ces lunettes révèlent les points faibles des objets et des créatures. Trois fois par repos, vous pouvez dépenser un Espoir pour obtenir un avantage à un jet d’attaque."
+roll: 42
+set: "Espoir et Peur"
 ---
 
 # Cadres de creuset

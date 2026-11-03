@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Orbe de lumière solaire"
 effect: "Vous pouvez briser cette orbe pour donner à la zone à portée Très loin l’apparence d’une journée ensoleillée pendant les 24 prochaines heures."
+roll: 30
+set: "Espoir et Peur"
 ---
 
 # Orbe de lumière solaire

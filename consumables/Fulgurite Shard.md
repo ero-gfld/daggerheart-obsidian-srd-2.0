@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Éclat de fulgurite"
 effect: "Choisissez un point à portée Loin. Toutes les cibles à portée Proche de ce point doivent réussir un jet de réaction (16), sans quoi elles subissent 3d6 dégâts magiques et marquent 1d4 Stress, tandis que la foudre crépite dans la zone."
+roll: 37
+set: "Espoir et Peur"
 ---
 
 # Éclat de fulgurite

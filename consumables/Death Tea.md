@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Thé de la mort"
 effect: "Après avoir bu ce thé, vous tuez instantanément votre cible lorsque vous réussissez une attaque de façon critique. Si vous ne réussissez pas une attaque de façon critique avant votre prochain repos long, vous mourez."
+roll: 58
+set: "Boîte de base"
 ---
 
 # Thé de la mort

@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion de soins mineure"
 effect: "Libérez 1d4 PV."
+roll: 7
+set: "Boîte de base"
 ---
 
 # Potion de soins mineure

@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Onguent de salamandre"
 effect: "Vous pouvez appliquer cet onguent sur votre peau pour obtenir l’immunité contre la chaleur jusqu’à votre prochain repos."
+roll: 28
+set: "Espoir et Peur"
 ---
 
 # Onguent de salamandre

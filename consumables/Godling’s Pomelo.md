@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Pomelo du dieu mineur"
 effect: "Vous pouvez manger cet agrume pour libérer tous vos Points de vie et évacuer tout le Stress."
+roll: 50
+set: "Espoir et Peur"
 ---
 
 # Pomelo du dieu mineur

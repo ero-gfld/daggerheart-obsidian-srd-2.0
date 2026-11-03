@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Camp instantané"
 effect: "Vous pouvez déplier cette petite boîte mécanique en une tente de camp assez grande pour abriter six personnes en sécurité. La tente s’effondre à la fin de votre prochain repos long."
+roll: 16
+set: "Espoir et Peur"
 ---
 
 # Camp instantané

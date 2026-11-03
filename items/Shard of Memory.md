@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Éclat de mémoire"
 effect: "Une fois par repos long, vous pouvez dépenser 2 Espoir pour rappeler une carte de domaine de votre réserve au lieu de payer son Coût de rappel."
+roll: 52
+set: "Boîte de base"
 ---
 
 # Éclat de mémoire

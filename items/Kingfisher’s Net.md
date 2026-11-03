@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Filet du martin-pêcheur"
 effect: "Une fois par repos long, vous pouvez utiliser ce filet pour sortir un poisson vivant de n’importe quelle quantité d’eau, même si l’on ne s’attendrait guère à y trouver des poissons."
+roll: 21
+set: "Espoir et Peur"
 ---
 
 # Filet du martin-pêcheur

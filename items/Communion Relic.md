@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Relique de communion"
 effect: "Une fois par repos, vous pouvez dépenser un Espoir pour utiliser une Expérience d’un allié comme si elle était la vôtre. Vous ne pouvez porter qu’une seule relique."
+roll: 59
+set: "Espoir et Peur"
 ---
 
 # Relique de communion

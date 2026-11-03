@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Anneaux d’alliance"
 effect: "Deux créatures peuvent porter cette paire d’anneaux en or rose. Une fois par session, vous pouvez lancer un jet en tandem avec celui ou celle qui porte l’autre anneau, sans dépenser d’Espoir et sans que cela compte dans votre limite de session pour les jets en tandem."
+roll: 54
+set: "Espoir et Peur"
 ---
 
 # Anneaux d’alliance

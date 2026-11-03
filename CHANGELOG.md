@@ -1,5 +1,16 @@
 # Changelog
 
+## [Unreleased]
+
+Added the loot roll tables of the SRD 2.0 PDF.
+
+### Added
+
+- **Loot tables** in `core_rules/Equipment.md`: the four 1-60 tables of the PDF (Core Set items, Hope & Fear
+  items, Core Set consumables, Hope & Fear consumables), each row linked to its note. Roll the d12s of the
+  chosen rarity and read the total in the table.
+- `roll` and `set` properties on every item and consumable, read from those tables.
+
 ## [1.3.0] - 2026-10-21
 
 Linked the rules together and removed duplicate files.

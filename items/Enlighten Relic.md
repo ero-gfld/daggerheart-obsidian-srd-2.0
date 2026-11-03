@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Relique d’illumination"
 effect: "Vous gagnez un bonus de +1 à votre Savoir. Vous ne pouvez porter qu’une seule relique."
+roll: 46
+set: "Boîte de base"
 ---
 
 # Relique d’illumination

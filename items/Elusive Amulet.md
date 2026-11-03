@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Amulette insaisissable"
 effect: "Une fois par repos long, vous pouvez activer cette amulette pour devenir Caché jusqu’à ce que vous vous déplaciez. Tant que vous êtes Caché de cette façon, vous restez invisible, même si un adversaire se déplace jusqu’à l’endroit où il vous verrait normalement."
+roll: 38
+set: "Boîte de base"
 ---
 
 # Amulette insaisissable

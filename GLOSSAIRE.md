@@ -154,6 +154,8 @@ Le lexique de la traduction française du SRD. Chaque terme de règle n'a qu'une
 | armor / unarmored | armure / sans armure | *proposition* |
 | item / consumable / loot | objet / consommable / butin | *proposition* |
 | Common / Uncommon / Rare / Legendary | Commun / Peu commun / Rare / Légendaire | *proposition* |
+| Roll (loot table) | Jet | *proposition* |
+| Daggerheart Core Set / Hope & Fear Expansion Set | boîte de base de Daggerheart / extension Espoir et Peur | *proposition* |
 | Gold; handful / bag / chest | Or ; poignée / bourse / coffre | *proposition* |
 | equipped / inventory | équipé / inventaire | *proposition* |
 

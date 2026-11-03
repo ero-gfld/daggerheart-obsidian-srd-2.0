@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Éclat arcanique instable"
 effect: "Vous pouvez effectuer un jet de Finesse pour lancer cet éclat sur un groupe d’adversaires à portée Loin. Les cibles contre lesquelles vous réussissez subissent 1d20 dégâts magiques."
+roll: 12
+set: "Boîte de base"
 ---
 
 # Éclat arcanique instable

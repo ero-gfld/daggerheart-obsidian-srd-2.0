@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Amulette de l’insomniaque"
 effect: "Lorsque vous prenez un repos sans effacer de Points de vie ni évacuer de Stress, vous gagnez un bonus de +2 aux jets d’attaque et de dégâts jusqu’à votre prochain repos."
+roll: 38
+set: "Espoir et Peur"
 ---
 
 # Amulette de l’insomniaque

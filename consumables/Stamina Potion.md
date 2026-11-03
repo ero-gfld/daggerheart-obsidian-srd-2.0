@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Potion d’endurance"
 effect: "Évacuez 1d4+1 Stress."
+roll: 20
+set: "Boîte de base"
 ---
 
 # Potion d’endurance

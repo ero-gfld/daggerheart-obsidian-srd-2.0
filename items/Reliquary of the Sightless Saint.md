@@ -5,6 +5,8 @@ tags:
   - "daggerheart/item"
 name: "Reliquaire du saint aveugle"
 effect: "Vous gagnez un bonus de +1 à votre dé d’Espoir lorsque vous effectuez le choix de mort Tout risquer."
+roll: 30
+set: "Espoir et Peur"
 ---
 
 # Reliquaire du saint aveugle

@@ -5,6 +5,8 @@ tags:
   - "daggerheart/consumable"
 name: "Orbe de clair de lune"
 effect: "Vous pouvez briser cette orbe pour donner à la zone à portée Très loin l’apparence d’une nuit de clair de lune pendant les 24 prochaines heures."
+roll: 31
+set: "Espoir et Peur"
 ---
 
 # Orbe de clair de lune
