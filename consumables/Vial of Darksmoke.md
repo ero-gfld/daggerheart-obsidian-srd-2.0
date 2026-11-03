@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Vial of Darksmoke"
 effect: "When an adversary attacks you, use this vial and roll a number of d6s equal to your Agility. Add the highest result to your Evasion against the attack."
+roll: 16
+set: "Core Set"
 ---
 
 # Vial of Darksmoke

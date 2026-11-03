@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Varik Leaves"
 effect: "You can eat these paired leaves to immediately gain 2 Hope."
+roll: 10
+set: "Core Set"
 ---
 
 # Varik Leaves

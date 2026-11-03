@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Cupbearer’s Bezoar"
 effect: "You can swallow this bezoar to become immune to poisons until your next long rest."
+roll: 4
+set: "Hope & Fear"
 ---
 
 # Cupbearer’s Bezoar

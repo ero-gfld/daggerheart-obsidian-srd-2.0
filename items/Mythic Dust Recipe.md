@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Mythic Dust Recipe"
 effect: "As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust."
+roll: 51
+set: "Core Set"
 ---
 
 # Mythic Dust Recipe

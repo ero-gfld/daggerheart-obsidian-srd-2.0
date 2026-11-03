@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Cockerel Claw Tea"
 effect: "You can drink this tea to refresh your features as if you had taken a long rest."
+roll: 39
+set: "Hope & Fear"
 ---
 
 # Cockerel Claw Tea

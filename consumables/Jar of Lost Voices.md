@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Jar of Lost Voices"
 effect: "You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage."
+roll: 47
+set: "Core Set"
 ---
 
 # Jar of Lost Voices

@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Phobophage’s Circlet"
 effect: "When the GM spends a Fear, roll a d4. Once per scene on a result of 4, you clear a Stress."
+roll: 55
+set: "Hope & Fear"
 ---
 
 # Phobophage’s Circlet

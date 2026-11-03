@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Ring of Silence"
 effect: "Spend a Hope to activate this ring. Your footsteps are silent until your next rest."
+roll: 28
+set: "Core Set"
 ---
 
 # Ring of Silence

@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Control Relic"
 effect: "You gain a +1 bonus to your Finesse. You can only carry one relic."
+roll: 43
+set: "Core Set"
 ---
 
 # Control Relic

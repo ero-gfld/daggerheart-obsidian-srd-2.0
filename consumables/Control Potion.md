@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Control Potion"
 effect: "You gain a +1 bonus to your next Finesse Roll."
+roll: 3
+set: "Core Set"
 ---
 
 # Control Potion

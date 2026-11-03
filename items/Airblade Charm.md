@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Airblade Charm"
 effect: "You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range."
+roll: 35
+set: "Core Set"
 ---
 
 # Airblade Charm

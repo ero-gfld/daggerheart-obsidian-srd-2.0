@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Attune Potion"
 effect: "You gain a +1 bonus to your next Instinct Roll."
+roll: 4
+set: "Core Set"
 ---
 
 # Attune Potion

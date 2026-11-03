@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Namer’s Oracle"
 effect: "Once per session, you can roll this set of runic dice to reveal the full name of the last person you touched."
+roll: 41
+set: "Hope & Fear"
 ---
 
 # Namer’s Oracle

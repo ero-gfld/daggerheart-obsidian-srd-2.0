@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Major Bolster Potion"
 effect: "You gain a +1 bonus to your Strength until your next rest."
+roll: 26
+set: "Core Set"
 ---
 
 # Major Bolster Potion

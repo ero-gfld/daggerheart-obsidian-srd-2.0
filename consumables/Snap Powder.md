@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Snap Powder"
 effect: "Mark a Stress and clear a HP."
+roll: 18
+set: "Core Set"
 ---
 
 # Snap Powder

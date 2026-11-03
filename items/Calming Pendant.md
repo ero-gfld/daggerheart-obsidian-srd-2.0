@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Calming Pendant"
 effect: "When you would mark your last Stress, roll a d6. On a result of 5 or higher, don’t mark it."
+roll: 29
+set: "Core Set"
 ---
 
 # Calming Pendant

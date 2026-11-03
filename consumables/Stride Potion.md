@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Stride Potion"
 effect: "You gain a +1 bonus to your next Agility Roll."
+roll: 1
+set: "Core Set"
 ---
 
 # Stride Potion

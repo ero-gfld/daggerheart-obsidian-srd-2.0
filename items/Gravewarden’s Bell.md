@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Gravewarden’s Bell"
 effect: "This bell rings when a ghost or undead creature moves within Far range of it."
+roll: 29
+set: "Hope & Fear"
 ---
 
 # Gravewarden’s Bell

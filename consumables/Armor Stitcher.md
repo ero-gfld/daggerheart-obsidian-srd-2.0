@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Armor Stitcher"
 effect: "You can use this stitcher to spend any number of Hope and clear that many Armor Slots."
+roll: 21
+set: "Core Set"
 ---
 
 # Armor Stitcher

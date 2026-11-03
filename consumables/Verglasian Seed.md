@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Verglasian Seed"
 effect: "You can use this ice shard to instantly freeze an area of water up to Close range."
+roll: 3
+set: "Hope & Fear"
 ---
 
 # Verglasian Seed

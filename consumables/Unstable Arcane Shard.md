@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Unstable Arcane Shard"
 effect: "You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 1d20 magic damage."
+roll: 12
+set: "Core Set"
 ---
 
 # Unstable Arcane Shard
