@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Major Stamina Potion"
 effect: "Clear 1d4+2 Stress."
+roll: 44
+set: "Core Set"
 ---
 
 # Major Stamina Potion

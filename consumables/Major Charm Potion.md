@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Major Charm Potion"
 effect: "You gain a +1 bonus to your Presence until your next rest."
+roll: 29
+set: "Core Set"
 ---
 
 # Major Charm Potion

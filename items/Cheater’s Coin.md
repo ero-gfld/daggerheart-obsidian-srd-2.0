@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Cheater’s Coin"
 effect: "When you flip this coin, you can spend a Hope to determine which side it lands on."
+roll: 28
+set: "Hope & Fear"
 ---
 
 # Cheater’s Coin

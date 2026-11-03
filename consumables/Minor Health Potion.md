@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Minor Health Potion"
 effect: "Clear 1d4 HP."
+roll: 7
+set: "Core Set"
 ---
 
 # Minor Health Potion

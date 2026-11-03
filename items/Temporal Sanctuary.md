@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Temporal Sanctuary"
 effect: "A PC who takes a rest in the temporal sanctuary can choose an additional downtime move."
+roll: 50
+set: "Hope & Fear"
 ---
 
 # Temporal Sanctuary

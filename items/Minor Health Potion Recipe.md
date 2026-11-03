@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Minor Health Potion Recipe"
 effect: "As a downtime move, you can use a vial of blood to craft a Minor Health Potion."
+roll: 19
+set: "Core Set"
 ---
 
 # Minor Health Potion Recipe

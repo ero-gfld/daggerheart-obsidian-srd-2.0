@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Bolster Potion"
 effect: "You gain a +1 bonus to your next Strength Roll."
+roll: 2
+set: "Core Set"
 ---
 
 # Bolster Potion

@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Knockback Bracelets"
 effect: "On a successful weapon attack, you can knock your target back up to Close range from their location."
+roll: 44
+set: "Hope & Fear"
 ---
 
 # Knockback Bracelets

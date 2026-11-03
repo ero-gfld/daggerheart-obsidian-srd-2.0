@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Lionheart Tonic"
 effect: "You can drink this tonic to gain a +1 bonus to your Proficiency until you roll with Fear."
+roll: 58
+set: "Hope & Fear"
 ---
 
 # Lionheart Tonic

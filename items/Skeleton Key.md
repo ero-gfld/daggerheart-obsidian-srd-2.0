@@ -3,6 +3,8 @@ tags:
   - "daggerheart/item"
 name: "Skeleton Key"
 effect: "When you use this key to open a locked door, you gain advantage on the Finesse Roll."
+roll: 16
+set: "Core Set"
 ---
 
 # Skeleton Key

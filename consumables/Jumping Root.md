@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Jumping Root"
 effect: "Eat this root to leap up to Far range once without needing to roll."
+roll: 17
+set: "Core Set"
 ---
 
 # Jumping Root

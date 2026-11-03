@@ -3,6 +3,8 @@ tags:
   - "daggerheart/consumable"
 name: "Mythic Dust"
 effect: "You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon."
+roll: 35
+set: "Core Set"
 ---
 
 # Mythic Dust
