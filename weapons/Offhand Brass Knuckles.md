@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Offhand Brass Knuckles"
 tier: 1
 category: "Secondary"

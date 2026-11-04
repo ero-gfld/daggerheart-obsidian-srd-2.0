@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/noble"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Knight of the Realm"
 tier: 2
 type: "Leader"

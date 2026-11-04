@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/heroic"
 name: "Local Tavern"
 tier: 1
 type: "Social"

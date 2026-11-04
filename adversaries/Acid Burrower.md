@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Acid Burrower"
 tier: 1
 type: "Solo"

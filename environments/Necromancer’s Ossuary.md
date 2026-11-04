@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/shadow"
+  - "mood/dungeon"
+  - "origin/ruins"
+  - "tone/grim"
 name: "Necromancer’s Ossuary"
 tier: 4
 type: "Exploration"

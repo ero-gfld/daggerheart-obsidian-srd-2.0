@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dual-Ended Sword"
 tier: 4
 category: "Primary"

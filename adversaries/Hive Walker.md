@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Hive Walker"
 tier: 2
 type: "Standard"

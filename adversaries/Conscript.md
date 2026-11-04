@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Conscript"
 tier: 2
 type: "Minion"

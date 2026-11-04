@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Spiked Plate Armor"
 tier: 3
 thresholds: "10/25"

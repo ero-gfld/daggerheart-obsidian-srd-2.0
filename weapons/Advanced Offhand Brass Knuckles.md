@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Offhand Brass Knuckles"
 tier: 3
 category: "Secondary"

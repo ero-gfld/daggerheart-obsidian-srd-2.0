@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Arquebus"
 tier: 4
 category: "Primary"

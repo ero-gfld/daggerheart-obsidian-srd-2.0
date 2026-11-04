@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Sledge Axe"
 tier: 4
 category: "Primary"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Guahalan Fang Lord"
 tier: 2
 type: "Leader"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Improved Shortbow"
 tier: 2
 category: "Primary"

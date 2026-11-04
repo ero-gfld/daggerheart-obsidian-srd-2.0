@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Elundrian Chain Armor"
 tier: 2
 thresholds: "9/21"

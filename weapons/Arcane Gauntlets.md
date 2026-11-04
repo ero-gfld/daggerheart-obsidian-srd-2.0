@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Arcane Gauntlets"
 tier: 1
 category: "Primary"

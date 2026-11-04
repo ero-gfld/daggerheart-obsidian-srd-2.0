@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Scale Mail Armor"
 tier: 3
 thresholds: "13/30"

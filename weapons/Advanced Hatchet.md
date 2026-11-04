@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Hatchet"
 tier: 3
 category: "Secondary"

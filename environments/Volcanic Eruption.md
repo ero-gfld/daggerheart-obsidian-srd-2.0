@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "element/poison"
+  - "mood/event"
+  - "origin/mountain"
+  - "tone/grim"
 name: "Volcanic Eruption"
 tier: 3
 type: "Event"

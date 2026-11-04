@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/soldier"
+  - "size/small"
+  - "tone/heroic"
 name: "Sylvan Soldier"
 tier: 1
 type: "Standard"

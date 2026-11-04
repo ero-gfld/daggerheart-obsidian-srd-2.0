@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Adult Flickerfly"
 tier: 3
 type: "Solo"

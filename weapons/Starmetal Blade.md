@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Starmetal Blade"
 tier: 4
 category: "Primary"

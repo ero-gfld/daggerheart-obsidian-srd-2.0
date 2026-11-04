@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Chimera"
 tier: 3
 type: "Bruiser"

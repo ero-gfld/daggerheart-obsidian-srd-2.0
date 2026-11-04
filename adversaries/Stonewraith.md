@@ -1,6 +1,15 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/earth"
+  - "mind/animal"
+  - "nature/beast"
+  - "nature/elemental"
+  - "origin/mountain"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Stonewraith"
 tier: 2
 type: "Skulk"

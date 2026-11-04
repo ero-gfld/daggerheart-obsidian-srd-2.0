@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Skeleton Archer"
 tier: 1
 type: "Ranged"

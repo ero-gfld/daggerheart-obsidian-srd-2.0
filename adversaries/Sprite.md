@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/tiny"
+  - "tone/whimsical"
 name: "Sprite"
 tier: 2
 type: "Minion"

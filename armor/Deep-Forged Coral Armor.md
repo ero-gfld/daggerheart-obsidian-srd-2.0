@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/bone"
+  - "origin/sea"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Deep-Forged Coral Armor"
 tier: 3
 thresholds: "13/35"

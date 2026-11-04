@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Improved Hallowed Axe"
 tier: 2
 category: "Primary"

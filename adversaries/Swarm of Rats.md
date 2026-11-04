@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Swarm of Rats"
 tier: 1
 type: "Horde"

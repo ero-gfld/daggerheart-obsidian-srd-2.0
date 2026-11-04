@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Demon of Wrath"
 tier: 3
 type: "Bruiser"

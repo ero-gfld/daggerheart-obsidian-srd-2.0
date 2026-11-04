@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "origin/swamp"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/eerie"
 name: "Will-O’-The-Wisps"
 tier: 1
 type: "Horde"

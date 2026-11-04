@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Tiny Green Ooze"
 tier: 1
 type: "Skulk"

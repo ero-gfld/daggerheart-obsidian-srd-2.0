@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/commoner"
+  - "size/medium"
+  - "tone/grim"
 name: "Common Ruffian"
 tier: 1
 type: "Standard"

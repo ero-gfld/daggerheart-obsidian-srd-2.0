@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Minotaur Wrecker"
 tier: 2
 type: "Bruiser"

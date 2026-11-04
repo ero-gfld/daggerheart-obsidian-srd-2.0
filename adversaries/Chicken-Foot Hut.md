@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/forest"
+  - "role/monster"
+  - "size/huge"
+  - "tone/whimsical"
 name: "Chicken-Foot Hut"
 tier: 2
 type: "Bruiser"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Astral Raiment"
 tier: 3
 thresholds: "11/27"

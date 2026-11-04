@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/focus"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Möbius Orb"
 tier: 4
 category: "Secondary"

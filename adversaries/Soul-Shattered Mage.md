@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Soul-Shattered Mage"
 tier: 1
 type: "Solo"

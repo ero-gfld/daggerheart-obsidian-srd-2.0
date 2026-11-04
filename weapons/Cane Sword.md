@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cane Sword"
 tier: 2
 category: "Primary"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/lightning"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/small"
+  - "tone/grim"
 name: "Electric Eels"
 tier: 2
 type: "Horde"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Clockwork Crossbow"
 tier: 4
 category: "Primary"

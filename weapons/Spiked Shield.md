@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Spiked Shield"
 tier: 2
 category: "Secondary"

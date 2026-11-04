@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/eerie"
 name: "Crystal Wasteland"
 tier: 3
 type: "Traversal"

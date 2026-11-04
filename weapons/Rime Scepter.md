@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/cold"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Rime Scepter"
 tier: 3
 category: "Primary"

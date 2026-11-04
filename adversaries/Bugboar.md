@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Bugboar"
 tier: 1
 type: "Bruiser"

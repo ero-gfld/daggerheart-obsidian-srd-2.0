@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Pirate Raiders"
 tier: 1
 type: "Horde"

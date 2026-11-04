@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "origin/forest"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Irontree Breastplate Armor"
 tier: 2
 thresholds: "9/20"

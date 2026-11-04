@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Doppelhound"
 tier: 2
 type: "Skulk"

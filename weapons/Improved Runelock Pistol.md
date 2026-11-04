@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Improved Runelock Pistol"
 tier: 2
 category: "Primary"

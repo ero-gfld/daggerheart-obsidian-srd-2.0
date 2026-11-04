@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/grim"
 name: "Elemental Spark"
 tier: 3
 type: "Minion"

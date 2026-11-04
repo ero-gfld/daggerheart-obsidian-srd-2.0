@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/minion"
+  - "size/medium"
+  - "tone/grim"
 name: "Wyrmfiend"
 tier: 4
 type: "Minion"

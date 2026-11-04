@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Gorgon"
 tier: 2
 type: "Solo"

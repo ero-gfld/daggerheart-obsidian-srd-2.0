@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Jagged Knife Shadow"
 tier: 1
 type: "Skulk"

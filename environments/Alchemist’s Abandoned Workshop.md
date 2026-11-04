@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/lightning"
+  - "mood/dungeon"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Alchemist’s Abandoned Workshop"
 tier: 1
 type: "Exploration"

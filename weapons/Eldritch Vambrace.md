@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Eldritch Vambrace"
 tier: 2
 category: "Secondary"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/monster"
+  - "size/large"
+  - "tone/heroic"
 name: "Elk"
 tier: 1
 type: "Skulk"

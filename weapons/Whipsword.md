@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Whipsword"
 tier: 1
 category: "Primary"

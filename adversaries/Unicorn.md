@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/guardian"
+  - "size/large"
+  - "tone/heroic"
 name: "Unicorn"
 tier: 3
 type: "Standard"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Legendary Enchanted Chakram"
 tier: 4
 category: "Primary"

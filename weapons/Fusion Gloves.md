@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Fusion Gloves"
 tier: 4
 category: "Primary"

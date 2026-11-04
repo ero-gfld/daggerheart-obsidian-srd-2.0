@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/horror"
+  - "nature/humanoid"
+  - "origin/otherworldly"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/eerie"
 name: "Cephilith Novitiate"
 tier: 4
 type: "Minion"

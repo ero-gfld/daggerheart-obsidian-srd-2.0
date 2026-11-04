@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Entombed Necropriest"
 tier: 2
 type: "Support"

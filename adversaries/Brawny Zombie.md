@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Brawny Zombie"
 tier: 1
 type: "Bruiser"

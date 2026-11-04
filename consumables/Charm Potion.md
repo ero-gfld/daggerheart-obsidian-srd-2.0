@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/social"
 name: "Charm Potion"
 effect: "You gain a +1 bonus to your next Presence Roll."
 roll: 5

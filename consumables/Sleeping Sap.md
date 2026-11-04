@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/stress"
 name: "Sleeping Sap"
 effect: "You can drink this potion to fall asleep for a full night’s rest. You clear all Stress upon waking."
 roll: 50

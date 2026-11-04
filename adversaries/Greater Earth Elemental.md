@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/earth"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Greater Earth Elemental"
 tier: 3
 type: "Bruiser"

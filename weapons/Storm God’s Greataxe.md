@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/lightning"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Storm God’s Greataxe"
 tier: 4
 category: "Primary"

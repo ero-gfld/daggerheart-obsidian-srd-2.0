@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/healing"
 name: "Major Health Potion"
 effect: "Clear 1d4+2 HP."
 roll: 43

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Siphoning Gauntlets"
 tier: 4
 category: "Primary"

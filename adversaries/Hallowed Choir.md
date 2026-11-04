@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Hallowed Choir"
 tier: 4
 type: "Horde"

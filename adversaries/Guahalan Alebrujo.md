@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Guahalan Alebrujo"
 tier: 2
 type: "Solo"

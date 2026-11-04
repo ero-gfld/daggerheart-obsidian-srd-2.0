@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Legendary Chainmail Armor"
 tier: 4
 thresholds: "15/40"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/horror"
+  - "role/hunter"
+  - "size/large"
+  - "tone/eerie"
 name: "Cryptimoth"
 tier: 3
 type: "Skulk"

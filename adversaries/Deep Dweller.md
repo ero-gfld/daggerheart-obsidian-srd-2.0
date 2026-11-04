@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/eerie"
 name: "Deep Dweller"
 tier: 3
 type: "Leader"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Perfected Zombie"
 tier: 4
 type: "Bruiser"

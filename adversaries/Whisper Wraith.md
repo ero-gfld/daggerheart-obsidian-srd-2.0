@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Whisper Wraith"
 tier: 3
 type: "Skulk"

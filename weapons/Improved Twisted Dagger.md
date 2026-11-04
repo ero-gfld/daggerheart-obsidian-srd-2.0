@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Improved Twisted Dagger"
 tier: 2
 category: "Primary"

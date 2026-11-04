@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/sea"
+  - "tone/grim"
 name: "Hold the Line"
 tier: 1
 type: "Event"

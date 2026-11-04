@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Runes of Fortification"
 tier: 3
 thresholds: "17/43"

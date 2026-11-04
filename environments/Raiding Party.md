@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/sea"
+  - "origin/urban"
+  - "tone/grim"
 name: "Raiding Party"
 tier: 1
 type: "Event"

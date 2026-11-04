@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/eerie"
 name: "Spellbound Armor"
 tier: 1
 type: "Bruiser"

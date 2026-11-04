@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Zombie Legion"
 tier: 4
 type: "Horde"

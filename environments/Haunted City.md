@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/ruins"
+  - "origin/urban"
+  - "tone/eerie"
 name: "Haunted City"
 tier: 2
 type: "Exploration"

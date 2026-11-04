@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/book"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/grim"
+  - "use/crafting"
 name: "Vial of Darksmoke Recipe"
 effect: "As a downtime move, you can mark a Stress to craft a Vial of Darksmoke."
 roll: 24

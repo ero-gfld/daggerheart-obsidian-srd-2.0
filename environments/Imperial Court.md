@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/grim"
 name: "Imperial Court"
 tier: 4
 type: "Social"

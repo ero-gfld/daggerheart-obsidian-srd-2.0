@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/horror"
+  - "origin/swamp"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Cephilith Abomination"
 tier: 4
 type: "Bruiser"

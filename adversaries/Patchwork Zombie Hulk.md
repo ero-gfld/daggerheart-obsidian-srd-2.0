@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Patchwork Zombie Hulk"
 tier: 1
 type: "Solo"

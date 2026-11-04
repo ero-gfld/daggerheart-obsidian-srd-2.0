@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Hydra"
 tier: 3
 type: "Solo"

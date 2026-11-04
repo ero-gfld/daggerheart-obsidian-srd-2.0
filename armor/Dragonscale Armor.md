@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/magical"
+  - "material/leather"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Dragonscale Armor"
 tier: 3
 thresholds: "11/27"

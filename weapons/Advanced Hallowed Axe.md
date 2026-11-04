@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Advanced Hallowed Axe"
 tier: 3
 category: "Primary"

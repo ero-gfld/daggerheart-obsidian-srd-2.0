@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/sea"
+  - "tone/heroic"
 name: "Ocean Voyage"
 tier: 2
 type: "Traversal"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/grim"
 name: "Darkweave Crawler"
 tier: 1
 type: "Minion"

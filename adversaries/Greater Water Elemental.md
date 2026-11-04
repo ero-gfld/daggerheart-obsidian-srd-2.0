@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/water"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Greater Water Elemental"
 tier: 3
 type: "Support"

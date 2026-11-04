@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Elder Bow"
 tier: 2
 category: "Primary"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/fey"
+  - "role/minion"
+  - "size/medium"
+  - "tone/heroic"
 name: "Guahalan Spirit Beast"
 tier: 2
 type: "Minion"

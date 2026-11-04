@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/huge"
+  - "tone/heroic"
 name: "Oak Treant"
 tier: 3
 type: "Bruiser"

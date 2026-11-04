@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/hope"
 name: "Varik Leaves"
 effect: "You can eat these paired leaves to immediately gain 2 Hope."
 roll: 10

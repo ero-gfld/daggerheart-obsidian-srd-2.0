@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Xero the Castle Killer"
 tier: 4
 type: "Solo"

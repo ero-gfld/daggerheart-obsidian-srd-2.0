@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/poison"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Adder’s Fang"
 tier: 4
 category: "Primary"

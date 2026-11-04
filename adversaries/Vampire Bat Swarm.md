@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Vampire Bat Swarm"
 tier: 3
 type: "Horde"

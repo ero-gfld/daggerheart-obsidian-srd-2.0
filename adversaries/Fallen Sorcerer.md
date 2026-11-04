@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Fallen Sorcerer"
 tier: 4
 type: "Support"

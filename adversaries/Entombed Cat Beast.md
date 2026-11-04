@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Entombed Cat Beast"
 tier: 2
 type: "Solo"

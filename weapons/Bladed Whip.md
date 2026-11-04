@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bladed Whip"
 tier: 2
 category: "Primary"

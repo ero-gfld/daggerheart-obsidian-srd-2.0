@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/fire"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Fury Gem"
 tier: 2
 category: "Primary"

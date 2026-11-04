@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Improved Chainmail Armor"
 tier: 2
 thresholds: "11/24"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Fire Titan Warlord"
 tier: 4
 type: "Leader"

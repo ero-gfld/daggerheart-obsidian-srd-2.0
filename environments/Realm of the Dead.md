@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/shadow"
+  - "mood/sacred"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/grim"
 name: "Realm of the Dead"
 tier: 4
 type: "Traversal"

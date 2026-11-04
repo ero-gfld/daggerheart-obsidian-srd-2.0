@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/eerie"
 name: "Lamplight Beguiler"
 tier: 3
 type: "Skulk"

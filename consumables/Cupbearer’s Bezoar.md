@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Cupbearer’s Bezoar"
 effect: "You can swallow this bezoar to become immune to poisons until your next long rest."
 roll: 4

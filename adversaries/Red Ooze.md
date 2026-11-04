@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Red Ooze"
 tier: 1
 type: "Skulk"

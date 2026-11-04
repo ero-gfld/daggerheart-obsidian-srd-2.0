@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/animal"
+  - "nature/beast"
+  - "nature/elemental"
+  - "role/monster"
+  - "size/huge"
+  - "tone/heroic"
 name: "Phoenix"
 tier: 3
 type: "Ranged"

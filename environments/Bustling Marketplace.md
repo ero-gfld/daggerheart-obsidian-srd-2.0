@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/whimsical"
 name: "Bustling Marketplace"
 tier: 1
 type: "Social"

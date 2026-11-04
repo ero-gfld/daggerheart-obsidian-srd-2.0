@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Improved Throwing Knives"
 tier: 2
 category: "Secondary"

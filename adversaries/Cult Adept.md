@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/cultist"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Cult Adept"
 tier: 2
 type: "Support"

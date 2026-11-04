@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Giant Rat"
 tier: 1
 type: "Minion"

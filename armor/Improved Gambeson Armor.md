@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Improved Gambeson Armor"
 tier: 2
 thresholds: "7/16"

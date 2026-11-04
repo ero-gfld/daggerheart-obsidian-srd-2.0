@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
+  - "use/stress"
 name: "Sweet Moss"
 effect: "You can consume this moss during a rest to clear 1d10 HP or 1d10 Stress."
 roll: 56

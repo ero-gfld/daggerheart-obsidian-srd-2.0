@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/water"
+  - "mood/dungeon"
+  - "origin/ruins"
+  - "origin/sea"
+  - "tone/eerie"
 name: "Sunken Citadel"
 tier: 3
 type: "Exploration"

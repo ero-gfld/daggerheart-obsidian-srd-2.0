@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Stag Knight"
 tier: 3
 type: "Standard"

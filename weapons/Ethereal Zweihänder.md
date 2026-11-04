@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Ethereal Zweihänder"
 tier: 4
 category: "Primary"

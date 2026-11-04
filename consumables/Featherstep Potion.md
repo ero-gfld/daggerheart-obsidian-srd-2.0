@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/defense"
+  - "use/travel"
 name: "Featherstep Potion"
 effect: "You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest."
 roll: 60

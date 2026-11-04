@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/grim"
 name: "Redcap Skinner"
 tier: 1
 type: "Minion"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/plant"
+  - "origin/desert"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Tangle Bramble Swarm"
 tier: 1
 type: "Horde"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/comic"
+  - "use/social"
 name: "Loaded Dice"
 effect: "You can choose what result this set of weighted dice rolls with a successful Finesse Roll (14). If you roll with Fear, anyone watching knows the dice are loaded."
 roll: 12

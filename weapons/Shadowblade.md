@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/shadow"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Shadowblade"
 tier: 1
 category: "Primary"

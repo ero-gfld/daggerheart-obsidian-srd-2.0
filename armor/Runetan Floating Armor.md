@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Runetan Floating Armor"
 tier: 2
 thresholds: "9/20"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Darkweave Swarmlings"
 tier: 1
 type: "Horde"

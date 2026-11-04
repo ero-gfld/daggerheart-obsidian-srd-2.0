@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/mountain"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/heroic"
 name: "Fire Titan"
 tier: 3
 type: "Solo"

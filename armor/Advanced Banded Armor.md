@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Banded Armor"
 tier: 3
 thresholds: "15/34"

@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Advanced Glowing Rings"
 tier: 3
 category: "Primary"

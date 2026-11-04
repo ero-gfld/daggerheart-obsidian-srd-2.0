@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Legendary Mage Robes"
 tier: 4
 thresholds: "10/31"

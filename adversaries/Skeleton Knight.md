@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Skeleton Knight"
 tier: 1
 type: "Bruiser"

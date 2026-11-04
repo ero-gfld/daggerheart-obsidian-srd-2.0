@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/underground"
+  - "tone/grim"
 name: "Deadly Dungeon"
 tier: 2
 type: "Exploration"

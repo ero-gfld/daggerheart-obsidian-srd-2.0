@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/focus"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Enchanted Lute"
 tier: 2
 category: "Primary"

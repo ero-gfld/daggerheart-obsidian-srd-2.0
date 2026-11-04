@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/eerie"
 name: "Gargoyle"
 tier: 2
 type: "Bruiser"

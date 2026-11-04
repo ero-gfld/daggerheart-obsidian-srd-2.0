@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/bone"
+  - "tech/primitive"
+  - "tone/grim"
 name: "Harrowbone Armor"
 tier: 2
 thresholds: "9/21"

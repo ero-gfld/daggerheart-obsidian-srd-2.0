@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Improved Mage Robes"
 tier: 2
 thresholds: "6/15"

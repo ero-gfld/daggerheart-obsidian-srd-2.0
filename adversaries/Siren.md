@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Siren"
 tier: 2
 type: "Skulk"

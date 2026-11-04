@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Landshark Behemoth"
 tier: 2
 type: "Solo"

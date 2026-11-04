@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Minor Chaos Elemental"
 tier: 1
 type: "Solo"

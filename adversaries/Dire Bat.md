@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Dire Bat"
 tier: 3
 type: "Skulk"

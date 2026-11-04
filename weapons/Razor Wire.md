@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Razor Wire"
 tier: 2
 category: "Secondary"

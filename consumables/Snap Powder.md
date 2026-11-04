@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/powder"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/healing"
 name: "Snap Powder"
 effect: "Mark a Stress and clear a HP."
 roll: 18

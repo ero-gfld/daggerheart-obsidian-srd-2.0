@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/frozen"
+  - "role/bandit"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Frost Titan"
 tier: 3
 type: "Bruiser"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Wyrmlings"
 tier: 4
 type: "Horde"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Mountain Troll"
 tier: 1
 type: "Solo"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/noble"
+  - "size/medium"
+  - "tone/eerie"
 name: "Entombed Empress"
 tier: 2
 type: "Leader"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Monett’s Cloak"
 tier: 3
 thresholds: "16/39"

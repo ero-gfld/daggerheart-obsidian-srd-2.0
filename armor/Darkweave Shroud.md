@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "element/shadow"
+  - "family/cloth"
+  - "legality/contraband"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Darkweave Shroud"
 tier: 4
 thresholds: "13/36"

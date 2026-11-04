@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Dire Pangolati"
 tier: 2
 type: "Bruiser"

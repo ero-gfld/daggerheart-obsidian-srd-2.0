@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/mountain"
+  - "tone/heroic"
 name: "Archmage’s Tower"
 tier: 3
 type: "Exploration"

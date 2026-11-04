@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Minor Fire Elemental"
 tier: 1
 type: "Solo"

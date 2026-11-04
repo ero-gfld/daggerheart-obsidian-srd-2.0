@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Ring of Resistance"
 effect: "Once per long rest, you can activate this ring after a successful attack against you to halve the damage."
 roll: 32

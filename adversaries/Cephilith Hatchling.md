@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/eerie"
 name: "Cephilith Hatchling"
 tier: 4
 type: "Minion"

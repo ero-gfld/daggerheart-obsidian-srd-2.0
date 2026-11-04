@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Archmage"
 tier: 3
 type: "Solo"

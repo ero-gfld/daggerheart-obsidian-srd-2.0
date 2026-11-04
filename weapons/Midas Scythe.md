@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/whimsical"
 name: "Midas Scythe"
 tier: 4
 category: "Primary"

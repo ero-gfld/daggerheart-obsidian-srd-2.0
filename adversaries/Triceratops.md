@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/plains"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Triceratops"
 tier: 2
 type: "Bruiser"

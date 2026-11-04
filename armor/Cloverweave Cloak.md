@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Cloverweave Cloak"
 tier: 3
 thresholds: "11/27"

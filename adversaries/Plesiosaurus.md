@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/large"
+  - "tone/eerie"
 name: "Plesiosaurus"
 tier: 3
 type: "Standard"

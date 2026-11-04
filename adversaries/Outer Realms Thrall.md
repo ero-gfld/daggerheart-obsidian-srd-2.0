@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/humanoid"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/medium"
+  - "tone/eerie"
 name: "Outer Realms Thrall"
 tier: 4
 type: "Minion"

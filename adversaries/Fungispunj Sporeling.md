@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/mindless"
+  - "nature/plant"
+  - "role/minion"
+  - "size/small"
+  - "tone/eerie"
 name: "Fungispunj Sporeling"
 tier: 2
 type: "Minion"

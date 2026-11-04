@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/swamp"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Rugaru"
 tier: 1
 type: "Solo"

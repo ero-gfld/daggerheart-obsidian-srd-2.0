@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/mountain"
+  - "tone/grim"
 name: "Cliffside Ascent"
 tier: 1
 type: "Traversal"

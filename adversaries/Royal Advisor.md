@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Royal Advisor"
 tier: 2
 type: "Social"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/eerie"
 name: "Harbinger of Famine"
 tier: 4
 type: "Support"

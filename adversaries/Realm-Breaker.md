@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/noble"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Realm-Breaker"
 tier: 4
 type: "Solo"

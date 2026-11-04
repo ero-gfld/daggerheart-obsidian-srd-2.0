@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/drink"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
 name: "Yakamel Milk"
 effect: "After consuming this milk, the next time you clear 1 or more Hit Points, you clear an additional Hit Point."
 roll: 13

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/small"
+  - "tone/eerie"
 name: "Chaos Skull"
 tier: 2
 type: "Ranged"

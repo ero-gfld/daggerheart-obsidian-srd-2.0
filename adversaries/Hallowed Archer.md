@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Hallowed Archer"
 tier: 4
 type: "Ranged"

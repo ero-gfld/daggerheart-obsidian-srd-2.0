@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Brigandine Armor"
 tier: 3
 thresholds: "11/26"

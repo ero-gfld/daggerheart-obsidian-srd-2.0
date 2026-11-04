@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Blunderbuss"
 tier: 2
 category: "Primary"

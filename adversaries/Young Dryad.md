@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Young Dryad"
 tier: 1
 type: "Leader"

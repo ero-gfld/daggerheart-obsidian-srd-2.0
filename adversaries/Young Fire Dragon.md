@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Young Fire Dragon"
 tier: 3
 type: "Solo"

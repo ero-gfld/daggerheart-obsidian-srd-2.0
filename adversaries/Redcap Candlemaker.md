@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/fey"
+  - "role/cultist"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Redcap Candlemaker"
 tier: 1
 type: "Leader"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/heroic"
 name: "Spellblade"
 tier: 1
 type: "Leader"

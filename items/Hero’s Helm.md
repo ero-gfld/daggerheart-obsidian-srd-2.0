@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Hero’s Helm"
 effect: "When you critically succeed on an attack, all allies within Close range gain a Hope."
 roll: 51

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Head Vampire"
 tier: 3
 type: "Leader"

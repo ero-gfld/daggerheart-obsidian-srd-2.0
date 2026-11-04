@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Stardrop"
 effect: "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range."
 roll: 60

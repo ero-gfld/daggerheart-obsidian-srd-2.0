@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Improved Glowing Rings"
 tier: 2
 category: "Primary"

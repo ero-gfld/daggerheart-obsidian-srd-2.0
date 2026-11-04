@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Volcanic Dragon: Obsidian Predator"
 tier: 4
 type: "Solo"

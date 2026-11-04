@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Panther"
 tier: 1
 type: "Skulk"

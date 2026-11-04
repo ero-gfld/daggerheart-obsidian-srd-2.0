@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/cold"
+  - "mood/wilderness"
+  - "origin/frozen"
+  - "origin/mountain"
+  - "tone/grim"
 name: "Mountain Pass"
 tier: 2
 type: "Traversal"

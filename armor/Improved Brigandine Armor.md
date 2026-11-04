@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Improved Brigandine Armor"
 tier: 2
 thresholds: "9/19"

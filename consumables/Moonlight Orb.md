@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Moonlight Orb"
 effect: "You can shatter this orb to make the area within Very Far range appear as though it’s moonlit nighttime for the next 24 hours."
 roll: 31

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/minion"
+  - "size/small"
+  - "tone/heroic"
 name: "Treant Sapling"
 tier: 3
 type: "Minion"

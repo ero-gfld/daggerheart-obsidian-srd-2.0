@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Gargantuan War Machine"
 tier: 4
 type: "Solo"

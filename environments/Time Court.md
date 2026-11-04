@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/otherworldly"
+  - "tone/eerie"
 name: "Time Court"
 tier: 4
 type: "Event"

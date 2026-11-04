@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/combat"
 name: "Insomniac’s Periapt"
 effect: "When you take a rest without clearing Hit Points or Stress, you gain a +2 bonus to attack and damage rolls until your next rest."
 roll: 38

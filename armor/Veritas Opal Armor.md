@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Veritas Opal Armor"
 tier: 4
 thresholds: "13/36"

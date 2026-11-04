@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Piercing Arrows"
 effect: "Three times per rest when you succeed on an attack with one of these arrows, you can add your Proficiency to the damage roll."
 roll: 14

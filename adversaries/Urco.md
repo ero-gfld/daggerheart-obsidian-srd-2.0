@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/undead"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Urco"
 tier: 2
 type: "Standard"

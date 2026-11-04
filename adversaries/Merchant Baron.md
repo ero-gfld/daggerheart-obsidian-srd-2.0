@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/merchant"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Merchant Baron"
 tier: 2
 type: "Social"

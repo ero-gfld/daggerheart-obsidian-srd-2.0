@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/magical"
+  - "material/wood"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Enchanted Shillelagh"
 tier: 2
 category: "Primary"

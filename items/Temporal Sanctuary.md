@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/bulky"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Temporal Sanctuary"
 effect: "A PC who takes a rest in the temporal sanctuary can choose an additional downtime move."
 roll: 50

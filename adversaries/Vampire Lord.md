@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Vampire Lord"
 tier: 3
 type: "Solo"

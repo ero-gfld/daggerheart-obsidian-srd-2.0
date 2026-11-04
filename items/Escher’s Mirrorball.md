@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "material/metal"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/knowledge"
 name: "Escher’s Mirrorball"
 effect: "Once per long rest, you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest."
 roll: 27

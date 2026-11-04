@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/leather"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Improved Leather Armor"
 tier: 2
 thresholds: "9/20"

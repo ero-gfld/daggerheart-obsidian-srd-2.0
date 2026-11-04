@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/psychic"
+  - "form/potion"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/knowledge"
 name: "Nightmare Mead"
 effect: "You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear."
 roll: 42

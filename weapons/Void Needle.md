@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Void Needle"
 tier: 4
 category: "Secondary"

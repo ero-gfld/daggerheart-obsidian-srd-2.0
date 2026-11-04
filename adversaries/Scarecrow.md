@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/plains"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/eerie"
 name: "Scarecrow"
 tier: 2
 type: "Standard"

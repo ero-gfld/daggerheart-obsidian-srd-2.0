@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Archer Squadron"
 tier: 2
 type: "Horde"

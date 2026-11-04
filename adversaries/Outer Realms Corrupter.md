@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/mindless"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Outer Realms Corrupter"
 tier: 4
 type: "Support"

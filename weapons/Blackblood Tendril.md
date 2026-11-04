@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/whip"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Blackblood Tendril"
 tier: 4
 category: "Secondary"

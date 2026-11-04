@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/forest"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Abandoned Grove"
 tier: 1
 type: "Exploration"

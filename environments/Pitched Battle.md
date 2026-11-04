@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/grim"
 name: "Pitched Battle"
 tier: 3
 type: "Event"

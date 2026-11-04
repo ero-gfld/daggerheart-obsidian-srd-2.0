@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/noble"
+  - "size/large"
+  - "tone/eerie"
 name: "Fellmounted Shadow King"
 tier: 3
 type: "Support"

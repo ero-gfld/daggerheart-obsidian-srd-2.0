@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Channeling Armor"
 tier: 4
 thresholds: "13/36"

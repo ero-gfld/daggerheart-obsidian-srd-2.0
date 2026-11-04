@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Undefeated Champion"
 tier: 4
 type: "Solo"

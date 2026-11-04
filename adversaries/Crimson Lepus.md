@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/tiny"
+  - "tone/comic"
 name: "Crimson Lepus"
 tier: 3
 type: "Solo"

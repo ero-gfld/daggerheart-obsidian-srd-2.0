@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/grim"
 name: "Upscale Casino"
 tier: 3
 type: "Social"

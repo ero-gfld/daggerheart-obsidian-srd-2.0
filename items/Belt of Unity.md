@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/social"
 name: "Belt of Unity"
 effect: "Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two."
 roll: 60

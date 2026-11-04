@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/psychic"
+  - "mood/sacred"
+  - "origin/otherworldly"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Moon Kingdom"
 tier: 4
 type: "Exploration"

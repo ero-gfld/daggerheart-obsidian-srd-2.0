@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
 name: "Sprite Bottle"
 effect: "When you mark your last Hit Point, this bottle shatters to release the Sprite inside. The Sprite clears all your Hit Points before fading from the Mortal Realm."
 roll: 20

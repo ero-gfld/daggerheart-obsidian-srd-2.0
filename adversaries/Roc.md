@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/lightning"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Roc"
 tier: 3
 type: "Solo"

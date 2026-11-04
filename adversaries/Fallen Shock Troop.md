@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/medium"
+  - "tone/grim"
 name: "Fallen Shock Troop"
 tier: 4
 type: "Minion"

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "size/handheld"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/stress"
 name: "Premium Bedroll"
 effect: "During downtime, you automatically clear a Stress."
 roll: 1

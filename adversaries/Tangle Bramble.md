@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/plant"
+  - "origin/desert"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Tangle Bramble"
 tier: 1
 type: "Minion"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Volcanic Dragon: Ashen Tyrant"
 tier: 4
 type: "Solo"

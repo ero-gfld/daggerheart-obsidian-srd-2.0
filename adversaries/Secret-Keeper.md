@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/cultist"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Secret-Keeper"
 tier: 2
 type: "Leader"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/animal"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/hunter"
+  - "size/small"
+  - "tone/grim"
 name: "Demonic Hound Pack"
 tier: 2
 type: "Horde"

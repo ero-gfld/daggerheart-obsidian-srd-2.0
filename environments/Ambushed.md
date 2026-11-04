@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/grim"
 name: "Ambushed"
 tier: 1
 type: "Event"

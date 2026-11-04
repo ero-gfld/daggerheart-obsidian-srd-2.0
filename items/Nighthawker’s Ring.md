@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/knowledge"
 name: "Nighthawker’s Ring"
 effect: "Spend a Hope to activate the gemstone in this ring until the end of the scene. While active, the gemstone changes color to indicate the wearer’s proximity to hidden treasure: warm colors for near, cool colors for far."
 roll: 5

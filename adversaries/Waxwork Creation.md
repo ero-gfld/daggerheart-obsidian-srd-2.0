@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/large"
+  - "tone/comic"
 name: "Waxwork Creation"
 tier: 1
 type: "Solo"

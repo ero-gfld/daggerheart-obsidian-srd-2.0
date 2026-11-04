@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/small"
+  - "tone/whimsical"
 name: "Jack-O’-Lantern"
 tier: 2
 type: "Minion"

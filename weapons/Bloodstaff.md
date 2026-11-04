@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/staff"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Bloodstaff"
 tier: 4
 category: "Primary"

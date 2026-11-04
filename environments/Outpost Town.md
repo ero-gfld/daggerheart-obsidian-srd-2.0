@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/grim"
 name: "Outpost Town"
 tier: 1
 type: "Social"

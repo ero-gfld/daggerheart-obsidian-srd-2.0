@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Soul Chain"
 tier: 3
 category: "Secondary"

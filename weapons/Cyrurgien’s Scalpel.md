@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Cyrurgien’s Scalpel"
 tier: 2
 category: "Primary"

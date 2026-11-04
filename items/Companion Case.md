@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/defense"
 name: "Companion Case"
 effect: "This case can fit a small animal companion. While the companion is inside, the animal and case are immune to all damage and harmful effects."
 roll: 13

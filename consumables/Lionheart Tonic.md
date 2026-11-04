@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Lionheart Tonic"
 effect: "You can drink this tonic to gain a +1 bonus to your Proficiency until you roll with Fear."
 roll: 58

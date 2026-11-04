@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/knowledge"
 name: "Mnemonic Potion"
 effect: "You can drink this potion to Utilize an Experience without spending a Hope."
 roll: 27

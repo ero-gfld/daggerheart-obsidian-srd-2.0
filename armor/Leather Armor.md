@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/leather"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Leather Armor"
 tier: 1
 thresholds: "6/13"

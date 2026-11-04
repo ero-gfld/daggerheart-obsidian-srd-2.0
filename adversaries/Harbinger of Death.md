@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Harbinger of Death"
 tier: 4
 type: "Skulk"

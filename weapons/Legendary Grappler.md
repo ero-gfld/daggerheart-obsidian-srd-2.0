@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Legendary Grappler"
 tier: 4
 category: "Secondary"

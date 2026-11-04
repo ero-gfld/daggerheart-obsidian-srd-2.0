@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/horror"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Ravenous Mockery"
 tier: 2
 type: "Standard"

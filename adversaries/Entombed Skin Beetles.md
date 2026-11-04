@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Entombed Skin Beetles"
 tier: 2
 type: "Horde"

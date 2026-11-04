@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Rocket Maul"
 tier: 3
 category: "Primary"

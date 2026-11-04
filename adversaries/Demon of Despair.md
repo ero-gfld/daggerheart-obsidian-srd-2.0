@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Demon of Despair"
 tier: 3
 type: "Skulk"

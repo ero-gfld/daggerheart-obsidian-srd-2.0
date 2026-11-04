@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Gadiman’s Backpack"
 effect: "Once per rest, you can spend a Hope to conjure a mundane item up to a cubic foot in size inside this satchel."
 roll: 33

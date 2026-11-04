@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/grim"
 name: "Castle Siege"
 tier: 3
 type: "Event"

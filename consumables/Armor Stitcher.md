@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Armor Stitcher"
 effect: "You can use this stitcher to spend any number of Hope and clear that many Armor Slots."
 roll: 21

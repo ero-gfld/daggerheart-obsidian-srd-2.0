@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Guahalan Shifter"
 tier: 2
 type: "Standard"

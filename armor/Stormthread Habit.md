@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "element/lightning"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Stormthread Habit"
 tier: 2
 thresholds: "9/20"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/comic"
+  - "use/travel"
 name: "Thief’s Compass"
 effect: "This compass points the way toward the nearest exit while indoors and the closest entrance while outdoors."
 roll: 15

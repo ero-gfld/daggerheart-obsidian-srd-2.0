@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Legendary Brass Knuckles"
 tier: 4
 category: "Primary"

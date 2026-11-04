@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Shark"
 tier: 2
 type: "Bruiser"

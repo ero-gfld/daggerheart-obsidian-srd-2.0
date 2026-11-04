@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/instrument"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/knowledge"
 name: "Gravewarden’s Bell"
 effect: "This bell rings when a ghost or undead creature moves within Far range of it."
 roll: 29

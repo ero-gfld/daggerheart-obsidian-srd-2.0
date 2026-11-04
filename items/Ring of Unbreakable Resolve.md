@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Ring of Unbreakable Resolve"
 effect: "Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear."
 roll: 59

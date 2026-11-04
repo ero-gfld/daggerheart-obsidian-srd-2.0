@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Assassin Poisoner"
 tier: 2
 type: "Skulk"

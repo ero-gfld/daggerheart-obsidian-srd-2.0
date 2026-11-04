@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/heroic"
 name: "Pirate Captain"
 tier: 1
 type: "Leader"

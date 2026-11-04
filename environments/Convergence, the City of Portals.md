@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/otherworldly"
+  - "origin/urban"
+  - "tone/whimsical"
 name: "Convergence, the City of Portals"
 tier: 4
 type: "Social"

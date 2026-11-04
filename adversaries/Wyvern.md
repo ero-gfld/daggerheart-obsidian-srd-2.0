@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/mountain"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Wyvern"
 tier: 3
 type: "Standard"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Entombed Elite Guard"
 tier: 2
 type: "Standard"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/stealth"
 name: "Arcane Cloak"
 effect: "A creature with a Spellcast trait wearing this cloak can adjust its color, texture, and size at will."
 roll: 7

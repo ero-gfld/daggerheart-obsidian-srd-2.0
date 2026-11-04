@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Juvenile Flickerfly"
 tier: 2
 type: "Solo"

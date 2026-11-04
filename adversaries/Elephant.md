@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/plains"
+  - "role/monster"
+  - "size/huge"
+  - "tone/heroic"
 name: "Elephant"
 tier: 2
 type: "Bruiser"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/heroic"
 name: "War Wizard"
 tier: 2
 type: "Ranged"

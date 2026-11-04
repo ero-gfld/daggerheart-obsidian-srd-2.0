@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Knockback Bracelets"
 effect: "On a successful weapon attack, you can knock your target back up to Close range from their location."
 roll: 44

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Darkweave Spinner"
 tier: 1
 type: "Standard"

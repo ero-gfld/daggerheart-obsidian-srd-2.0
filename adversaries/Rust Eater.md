@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Rust Eater"
 tier: 2
 type: "Standard"

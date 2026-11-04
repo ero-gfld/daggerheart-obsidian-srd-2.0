@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Control Relic"
 effect: "You gain a +1 bonus to your Finesse. You can only carry one relic."
 roll: 43

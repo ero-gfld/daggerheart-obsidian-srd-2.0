@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Mortal Hunter"
 tier: 2
 type: "Leader"

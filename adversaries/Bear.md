@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Bear"
 tier: 1
 type: "Bruiser"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/bow"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Yutari Bloodbow"
 tier: 2
 category: "Primary"

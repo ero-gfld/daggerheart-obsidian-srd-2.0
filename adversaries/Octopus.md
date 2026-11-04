@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/small"
+  - "tone/grim"
 name: "Octopus"
 tier: 1
 type: "Skulk"

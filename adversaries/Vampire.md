@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Vampire"
 tier: 3
 type: "Standard"

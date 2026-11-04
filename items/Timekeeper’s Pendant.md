@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Timekeeper’s Pendant"
 effect: "You can choose an additional downtime move each rest."
 roll: 47

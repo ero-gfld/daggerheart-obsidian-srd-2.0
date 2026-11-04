@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Mechanorb"
 tier: 1
 type: "Standard"

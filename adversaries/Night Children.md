@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Night Children"
 tier: 3
 type: "Horde"

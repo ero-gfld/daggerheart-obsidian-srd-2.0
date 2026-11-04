@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/psychic"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/eerie"
 name: "Astral Realm"
 tier: 3
 type: "Traversal"

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/knowledge"
 name: "Shard of Memory"
 effect: "Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost."
 roll: 52

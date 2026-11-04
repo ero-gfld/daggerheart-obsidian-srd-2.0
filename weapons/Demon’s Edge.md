@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Demon’s Edge"
 tier: 4
 category: "Primary"

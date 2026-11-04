@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Black Powder Revolver"
 tier: 3
 category: "Primary"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/comic"
+  - "use/social"
 name: "Cheater’s Coin"
 effect: "When you flip this coin, you can spend a Hope to determine which side it lands on."
 roll: 28

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Brass Knuckles"
 tier: 3
 category: "Primary"

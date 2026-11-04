@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/minion"
+  - "size/medium"
+  - "tone/eerie"
 name: "Cursed Merfolk"
 tier: 3
 type: "Standard"

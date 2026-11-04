@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/fire"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/grim"
 name: "Black Powder Serpentine"
 tier: 4
 category: "Primary"

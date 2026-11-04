@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/book"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/crafting"
 name: "Mythic Dust Recipe"
 effect: "As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust."
 roll: 51

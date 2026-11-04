@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/whimsical"
 name: "Local Festival"
 tier: 1
 type: "Social"

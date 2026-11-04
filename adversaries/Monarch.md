@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Monarch"
 tier: 3
 type: "Social"

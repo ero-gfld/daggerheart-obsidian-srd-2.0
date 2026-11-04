@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/air"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/noble"
+  - "size/huge"
+  - "tone/whimsical"
 name: "Cloud Titan"
 tier: 4
 type: "Social"

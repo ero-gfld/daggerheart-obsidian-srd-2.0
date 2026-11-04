@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/plant"
+  - "role/guardian"
+  - "size/large"
+  - "tone/eerie"
 name: "Fungispunj Sporophore"
 tier: 2
 type: "Leader"

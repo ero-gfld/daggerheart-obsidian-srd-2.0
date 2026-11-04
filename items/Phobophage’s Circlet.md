@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stress"
 name: "Phobophage’s Circlet"
 effect: "When the GM spends a Fear, roll a d4. Once per scene on a result of 4, you clear a Stress."
 roll: 55

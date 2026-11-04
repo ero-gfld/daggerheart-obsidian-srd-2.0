@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Soul-Twin Circlets"
 effect: "Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet."
 roll: 40

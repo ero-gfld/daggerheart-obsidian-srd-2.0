@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/instrument"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Piper Whistle"
 effect: "This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius."
 roll: 2

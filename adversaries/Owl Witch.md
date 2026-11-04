@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/beast"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/spellcaster"
+  - "size/large"
+  - "tone/eerie"
 name: "Owl Witch"
 tier: 4
 type: "Support"

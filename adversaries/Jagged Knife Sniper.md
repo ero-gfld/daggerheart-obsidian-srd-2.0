@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Jagged Knife Sniper"
 tier: 1
 type: "Ranged"

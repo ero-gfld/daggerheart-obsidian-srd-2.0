@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Harpy"
 tier: 1
 type: "Skulk"

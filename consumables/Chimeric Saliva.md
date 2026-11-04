@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/oil"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Chimeric Saliva"
 effect: "You can apply this saliva to a weapon that deals physical damage to change its damage type to magic until your next rest."
 roll: 8

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Demon of Hubris"
 tier: 3
 type: "Leader"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Fallen Warlord: Undefeated Champion"
 tier: 4
 type: "Solo"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/handheld"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/travel"
 name: "Grapnel"
 effect: "You gain advantage on action rolls to climb sheer surfaces."
 roll: 2

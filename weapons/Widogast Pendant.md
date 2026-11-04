@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Widogast Pendant"
 tier: 3
 category: "Primary"

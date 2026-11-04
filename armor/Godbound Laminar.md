@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "element/light"
+  - "family/scale"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Godbound Laminar"
 tier: 4
 thresholds: "13/36"

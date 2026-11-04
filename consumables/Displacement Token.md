@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/psychic"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stealth"
 name: "Displacement Token"
 effect: "You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest."
 roll: 23

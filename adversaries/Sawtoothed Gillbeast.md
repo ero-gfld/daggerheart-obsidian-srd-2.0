@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Sawtoothed Gillbeast"
 tier: 1
 type: "Standard"

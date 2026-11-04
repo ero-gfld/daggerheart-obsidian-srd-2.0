@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/comic"
 name: "Grand Feast"
 tier: 1
 type: "Social"

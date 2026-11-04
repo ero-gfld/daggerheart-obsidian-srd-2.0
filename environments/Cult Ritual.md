@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "mood/sacred"
+  - "origin/ruins"
+  - "tone/grim"
 name: "Cult Ritual"
 tier: 2
 type: "Event"

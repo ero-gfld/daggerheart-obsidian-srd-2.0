@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Shambling Zombie"
 tier: 1
 type: "Standard"

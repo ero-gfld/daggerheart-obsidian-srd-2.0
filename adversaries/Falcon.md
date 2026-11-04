@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/tiny"
+  - "tone/grim"
 name: "Falcon"
 tier: 1
 type: "Skulk"

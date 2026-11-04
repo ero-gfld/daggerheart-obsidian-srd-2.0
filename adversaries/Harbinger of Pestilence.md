@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/horror"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Harbinger of Pestilence"
 tier: 4
 type: "Leader"

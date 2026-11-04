@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/heroic"
 name: "Duel"
 tier: 2
 type: "Event"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stealth"
 name: "Invisibility Potion"
 effect: "You are Hidden until you deal damage to another creature or until your next rest."
 roll: 47

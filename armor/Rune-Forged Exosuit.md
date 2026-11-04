@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Rune-Forged Exosuit"
 tier: 4
 thresholds: "12/39"

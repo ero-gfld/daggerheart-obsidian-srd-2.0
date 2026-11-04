@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Viper"
 tier: 1
 type: "Minion"

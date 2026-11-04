@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/eerie"
 name: "Darkweave Queen"
 tier: 1
 type: "Solo"

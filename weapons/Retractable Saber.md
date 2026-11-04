@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Retractable Saber"
 tier: 3
 category: "Primary"

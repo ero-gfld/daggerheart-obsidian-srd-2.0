@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "element/air"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Hawkguard’s Mantle"
 tier: 2
 thresholds: "9/20"

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "role/noble"
+  - "size/huge"
+  - "tone/grim"
 name: "Demon Lord Berzug"
 tier: 4
 type: "Solo"

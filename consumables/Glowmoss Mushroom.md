@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Glowmoss Mushroom"
 effect: "You can break this mushroom into pieces, causing it to glow bright blue until your next long rest."
 roll: 14

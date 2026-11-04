@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/poison"
+  - "form/potion"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Dripfang Poison"
 effect: "A creature who consumes this poison takes 8d10 direct magic damage."
 roll: 42

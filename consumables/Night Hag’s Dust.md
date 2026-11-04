@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/shadow"
+  - "form/powder"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/combat"
 name: "Night Hag’s Dust"
 effect: "You can blow this dust in an adversary’s face to prevent them from clearing Stress until your next long rest."
 roll: 24

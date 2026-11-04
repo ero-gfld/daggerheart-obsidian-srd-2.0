@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Glowing Rings"
 tier: 1
 category: "Primary"

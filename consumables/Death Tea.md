@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/shadow"
+  - "form/drink"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Death Tea"
 effect: "After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don’t critically succeed on an attack before your next long rest, you die."
 roll: 58

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/leather"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Advanced Leather Armor"
 tier: 3
 thresholds: "11/27"

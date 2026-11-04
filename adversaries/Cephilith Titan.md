@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Cephilith Titan"
 tier: 4
 type: "Solo"

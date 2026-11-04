@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/leather"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Legendary Leather Armor"
 tier: 4
 thresholds: "13/36"

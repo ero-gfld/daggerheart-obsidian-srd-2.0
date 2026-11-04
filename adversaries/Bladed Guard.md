@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/guard"
+  - "size/medium"
+  - "tone/heroic"
 name: "Bladed Guard"
 tier: 1
 type: "Standard"

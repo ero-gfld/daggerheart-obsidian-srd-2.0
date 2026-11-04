@@ -1,6 +1,15 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/cold"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/frozen"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Verglasian Seed"
 effect: "You can use this ice shard to instantly freeze an area of water up to Close range."
 roll: 3

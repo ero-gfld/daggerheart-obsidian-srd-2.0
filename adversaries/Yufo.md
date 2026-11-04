@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/large"
+  - "tone/eerie"
 name: "Yufo"
 tier: 1
 type: "Social"

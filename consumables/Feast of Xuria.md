@@ -1,6 +1,15 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/healing"
+  - "use/hope"
+  - "use/stress"
 name: "Feast of Xuria"
 effect: "You can eat this meal to clear all HP and Stress and gain 1d4 Hope."
 roll: 51

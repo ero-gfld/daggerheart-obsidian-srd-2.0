@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/poison"
+  - "mood/wilderness"
+  - "origin/swamp"
+  - "tone/grim"
 name: "Corrupted Swamp"
 tier: 1
 type: "Traversal"

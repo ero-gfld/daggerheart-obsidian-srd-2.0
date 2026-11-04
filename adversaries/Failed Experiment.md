@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Failed Experiment"
 tier: 2
 type: "Standard"

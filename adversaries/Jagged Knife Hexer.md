@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Jagged Knife Hexer"
 tier: 1
 type: "Support"

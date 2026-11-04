@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/grim"
 name: "Cult Fang"
 tier: 2
 type: "Skulk"

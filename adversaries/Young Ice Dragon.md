@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/frozen"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Young Ice Dragon"
 tier: 3
 type: "Solo"

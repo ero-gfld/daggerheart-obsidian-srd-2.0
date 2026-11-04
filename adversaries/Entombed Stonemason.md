@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/commoner"
+  - "size/medium"
+  - "tone/grim"
 name: "Entombed Stonemason"
 tier: 2
 type: "Minion"

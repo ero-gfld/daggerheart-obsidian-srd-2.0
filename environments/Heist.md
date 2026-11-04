@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/heroic"
 name: "Heist"
 tier: 2
 type: "Event"

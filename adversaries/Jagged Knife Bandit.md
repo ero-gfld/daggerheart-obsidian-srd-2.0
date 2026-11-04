@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Jagged Knife Bandit"
 tier: 1
 type: "Standard"

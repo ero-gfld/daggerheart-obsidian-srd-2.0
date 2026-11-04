@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/lightning"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/grim"
 name: "Megastorm"
 tier: 3
 type: "Event"

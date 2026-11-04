@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Sorcerer’s Hat"
 effect: "This conical blue hat is covered in silver stars. Once per rest, you can cast a spell from your vault with a Recall Cost equal to or less than your tier. This doesn’t work for permanently vaulted cards."
 roll: 35

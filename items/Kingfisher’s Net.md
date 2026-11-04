@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/sea"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Kingfisher’s Net"
 effect: "Once per long rest, you can use this net to scoop one live fish out of any amount of water, no matter how unlikely it is for that water to have fish in it."
 roll: 21

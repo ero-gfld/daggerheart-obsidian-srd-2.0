@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Ghastly Legion"
 tier: 4
 type: "Horde"

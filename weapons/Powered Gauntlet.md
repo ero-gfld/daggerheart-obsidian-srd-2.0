@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Powered Gauntlet"
 tier: 3
 category: "Secondary"

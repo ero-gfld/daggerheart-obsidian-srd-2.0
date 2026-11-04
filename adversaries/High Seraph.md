@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/guard"
+  - "size/medium"
+  - "tone/heroic"
 name: "High Seraph"
 tier: 4
 type: "Leader"

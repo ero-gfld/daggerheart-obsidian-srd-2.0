@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/grim"
 name: "Cult Initiate"
 tier: 2
 type: "Minion"

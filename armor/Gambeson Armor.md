@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Gambeson Armor"
 tier: 1
 thresholds: "5/11"

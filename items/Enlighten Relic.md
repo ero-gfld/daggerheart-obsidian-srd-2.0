@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Enlighten Relic"
 effect: "You gain a +1 bonus to your Knowledge. You can only carry one relic."
 roll: 46

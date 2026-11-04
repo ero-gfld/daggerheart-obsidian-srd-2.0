@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/medium"
+  - "tone/heroic"
 name: "Hallowed Soldier"
 tier: 4
 type: "Minion"

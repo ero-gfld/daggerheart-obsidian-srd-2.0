@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "element/blood"
+  - "family/plate"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/stone"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Bloodstone Plate Armor"
 tier: 3
 thresholds: "13/35"

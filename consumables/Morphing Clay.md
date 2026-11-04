@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/salve"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/stealth"
+  - "use/transformation"
 name: "Morphing Clay"
 effect: "You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest."
 roll: 15

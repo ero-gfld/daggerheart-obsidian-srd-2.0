@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Legendary Fighting Cloak"
 tier: 4
 category: "Secondary"

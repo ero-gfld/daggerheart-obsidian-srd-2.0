@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Landshark"
 tier: 2
 type: "Bruiser"

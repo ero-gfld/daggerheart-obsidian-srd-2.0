@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Giant Scorpion"
 tier: 1
 type: "Bruiser"

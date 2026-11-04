@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Skeleton Key"
 effect: "When you use this key to open a locked door, you gain advantage on the Finesse Roll."
 roll: 16

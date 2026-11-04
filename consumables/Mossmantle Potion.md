@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/stealth"
 name: "Mossmantle Potion"
 effect: "You can drink this tea to perfectly blend into natural environments until your next rest."
 roll: 5

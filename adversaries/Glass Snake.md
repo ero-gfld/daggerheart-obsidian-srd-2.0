@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Glass Snake"
 tier: 1
 type: "Standard"

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/beast"
+  - "origin/desert"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Sandwyrm"
 tier: 3
 type: "Bruiser"

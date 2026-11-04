@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/noble"
+  - "size/medium"
+  - "tone/comic"
 name: "Courtier"
 tier: 1
 type: "Social"

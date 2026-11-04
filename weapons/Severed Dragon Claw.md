@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/bone"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Severed Dragon Claw"
 tier: 4
 category: "Primary"

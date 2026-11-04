@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/whimsical"
 name: "Masquerade Ball"
 tier: 2
 type: "Social"

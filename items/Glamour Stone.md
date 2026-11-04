@@ -1,6 +1,16 @@
 ---
 tags:
   - "daggerheart/item"
+  - "element/psychic"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/stone"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/social"
+  - "use/stealth"
 name: "Glamour Stone"
 effect: "Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a Hope to magically recreate this guise on yourself as an illusion."
 roll: 11

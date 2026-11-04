@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/horror"
+  - "role/minion"
+  - "size/medium"
+  - "tone/eerie"
 name: "Severed Shadow"
 tier: 4
 type: "Minion"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/spellcaster"
+  - "size/huge"
+  - "tone/grim"
 name: "Oracle of Doom"
 tier: 4
 type: "Solo"

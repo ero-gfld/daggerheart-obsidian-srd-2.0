@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/comic"
 name: "Ego Blade"
 tier: 2
 category: "Primary"

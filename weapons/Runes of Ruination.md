@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Runes of Ruination"
 tier: 3
 category: "Primary"

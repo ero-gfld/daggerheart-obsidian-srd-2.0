@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Major Bolster Potion"
 effect: "You gain a +1 bonus to your Strength until your next rest."
 roll: 26

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/light"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Blinding Orb"
 effect: "You can activate this orb to create a flash of bright light. All targets within Close range become Vulnerable until they mark HP."
 roll: 57

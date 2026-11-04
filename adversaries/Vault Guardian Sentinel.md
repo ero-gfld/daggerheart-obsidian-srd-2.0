@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/large"
+  - "tone/grim"
 name: "Vault Guardian Sentinel"
 tier: 3
 type: "Bruiser"

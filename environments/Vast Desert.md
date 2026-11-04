@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/air"
+  - "element/lightning"
+  - "mood/wilderness"
+  - "origin/desert"
+  - "tone/grim"
 name: "Vast Desert"
 tier: 2
 type: "Traversal"

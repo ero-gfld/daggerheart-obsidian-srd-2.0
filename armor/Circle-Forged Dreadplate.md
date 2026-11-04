@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/contraband"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Circle-Forged Dreadplate"
 tier: 4
 thresholds: "14/38"

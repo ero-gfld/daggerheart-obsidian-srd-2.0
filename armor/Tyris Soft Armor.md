@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Tyris Soft Armor"
 tier: 2
 thresholds: "8/18"

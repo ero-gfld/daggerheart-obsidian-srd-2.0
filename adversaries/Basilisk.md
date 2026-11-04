@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Basilisk"
 tier: 2
 type: "Standard"

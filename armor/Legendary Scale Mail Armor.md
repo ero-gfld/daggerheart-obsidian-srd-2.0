@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Legendary Scale Mail Armor"
 tier: 4
 thresholds: "15/39"

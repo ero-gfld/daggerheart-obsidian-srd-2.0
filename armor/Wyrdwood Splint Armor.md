@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/magical"
+  - "material/wood"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Wyrdwood Splint Armor"
 tier: 2
 thresholds: "10/21"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/defense"
 name: "Mirror of Marigold"
 effect: "When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters."
 roll: 59

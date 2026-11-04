@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stealth"
 name: "Ring of Silence"
 effect: "Spend a Hope to activate this ring. Your footsteps are silent until your next rest."
 roll: 28

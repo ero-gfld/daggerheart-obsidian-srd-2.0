@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/monster"
+  - "size/large"
+  - "tone/whimsical"
 name: "Fowlbear"
 tier: 2
 type: "Bruiser"

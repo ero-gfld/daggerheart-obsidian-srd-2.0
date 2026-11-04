@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Shapeshifting Fiend"
 tier: 3
 type: "Social"

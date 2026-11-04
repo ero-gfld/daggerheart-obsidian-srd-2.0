@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Vial of Moondrip"
 effect: "When you drink the contents of this vial, you can see in total darkness until your next rest."
 roll: 11

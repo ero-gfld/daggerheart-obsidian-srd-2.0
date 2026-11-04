@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "element/fire"
+  - "element/light"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sword of Light & Flame"
 tier: 4
 category: "Primary"

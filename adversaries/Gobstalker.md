@@ -1,6 +1,15 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "element/fire"
+  - "element/psychic"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/horror"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Gobstalker"
 tier: 2
 type: "Solo"

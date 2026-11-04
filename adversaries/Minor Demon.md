@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Minor Demon"
 tier: 1
 type: "Solo"

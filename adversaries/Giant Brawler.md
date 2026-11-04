@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Giant Brawler"
 tier: 2
 type: "Bruiser"

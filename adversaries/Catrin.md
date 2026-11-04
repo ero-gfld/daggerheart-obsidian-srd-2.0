@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/urban"
+  - "role/noble"
+  - "size/medium"
+  - "tone/eerie"
 name: "Catrin"
 tier: 3
 type: "Social"

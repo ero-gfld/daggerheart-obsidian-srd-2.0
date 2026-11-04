@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "element/lightning"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Battle Box"
 tier: 2
 type: "Solo"

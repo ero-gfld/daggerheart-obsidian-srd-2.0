@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "mind/animal"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Viscera Sucker"
 tier: 3
 type: "Skulk"

@@ -1,6 +1,15 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "element/fire"
+  - "element/lightning"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Supreme Demiurge Adonix"
 tier: 4
 type: "Solo"

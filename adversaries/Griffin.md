@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/mountain"
+  - "role/hunter"
+  - "size/large"
+  - "tone/heroic"
 name: "Griffin"
 tier: 4
 type: "Standard"

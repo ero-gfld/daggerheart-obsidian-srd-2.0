@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/underground"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Cave Ogre"
 tier: 1
 type: "Solo"

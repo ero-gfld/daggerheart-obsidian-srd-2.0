@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "mood/wilderness"
+  - "origin/forest"
+  - "tone/eerie"
 name: "Burning Heart of the Woods"
 tier: 3
 type: "Exploration"

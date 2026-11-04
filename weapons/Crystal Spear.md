@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/crystal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Crystal Spear"
 tier: 3
 category: "Primary"

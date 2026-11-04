@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Minor Treant"
 tier: 1
 type: "Minion"

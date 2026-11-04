@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Giant Octopus"
 tier: 2
 type: "Solo"

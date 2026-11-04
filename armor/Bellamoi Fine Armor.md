@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bellamoi Fine Armor"
 tier: 3
 thresholds: "11/27"

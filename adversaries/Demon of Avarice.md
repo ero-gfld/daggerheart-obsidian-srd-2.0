@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/noble"
+  - "size/large"
+  - "tone/grim"
 name: "Demon of Avarice"
 tier: 3
 type: "Support"

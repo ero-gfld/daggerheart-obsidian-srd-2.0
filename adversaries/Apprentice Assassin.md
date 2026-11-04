@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Apprentice Assassin"
 tier: 2
 type: "Minion"

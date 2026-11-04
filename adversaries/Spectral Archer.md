@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/eerie"
 name: "Spectral Archer"
 tier: 2
 type: "Ranged"

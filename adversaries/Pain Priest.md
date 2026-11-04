@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/otherworldly"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/grim"
 name: "Pain Priest"
 tier: 3
 type: "Social"

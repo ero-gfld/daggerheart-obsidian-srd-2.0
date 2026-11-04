@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Demon of Jealousy"
 tier: 3
 type: "Ranged"

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "element/psychic"
+  - "form/potion"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/knowledge"
 name: "Mesmer’s Tonic"
 effect: "When you drink this tonic, the only thing you can hear until your next rest are the surface thoughts of creatures within Very Close range."
 roll: 46

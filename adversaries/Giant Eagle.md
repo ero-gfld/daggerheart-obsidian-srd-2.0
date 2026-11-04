@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/mountain"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Giant Eagle"
 tier: 2
 type: "Skulk"

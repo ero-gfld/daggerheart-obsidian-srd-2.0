@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/industrial"
+  - "tone/heroic"
+  - "use/combat"
 name: "Gravity Bomb"
 effect: "You can throw this peach-sized mechanical orb at a point within Far range. It implodes and pulls all creatures and objects within Close range of that point into Melee range with it."
 roll: 21

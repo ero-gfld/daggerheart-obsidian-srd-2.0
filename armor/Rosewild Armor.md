@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/organic"
+  - "origin/forest"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Rosewild Armor"
 tier: 2
 thresholds: "11/23"

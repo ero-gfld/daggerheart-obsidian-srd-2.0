@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/large"
+  - "tone/eerie"
 name: "Huge Green Ooze"
 tier: 3
 type: "Skulk"

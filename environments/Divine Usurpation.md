@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/otherworldly"
+  - "tone/grim"
 name: "Divine Usurpation"
 tier: 4
 type: "Event"

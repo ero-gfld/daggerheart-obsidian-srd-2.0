@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/item"
+  - "form/book"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/crafting"
 name: "Minor Stamina Potion Recipe"
 effect: "As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion."
 roll: 18

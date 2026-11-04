@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/forest"
+  - "tone/eerie"
 name: "Witch’s Hut"
 tier: 2
 type: "Exploration"

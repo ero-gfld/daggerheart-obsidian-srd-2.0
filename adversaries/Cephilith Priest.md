@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/eerie"
 name: "Cephilith Priest"
 tier: 4
 type: "Leader"

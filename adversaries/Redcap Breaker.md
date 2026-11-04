@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Redcap Breaker"
 tier: 1
 type: "Bruiser"

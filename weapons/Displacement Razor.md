@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Displacement Razor"
 tier: 2
 category: "Primary"

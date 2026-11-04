@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/guard"
+  - "size/large"
+  - "tone/heroic"
 name: "Centaur Warden"
 tier: 2
 type: "Ranged"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/earth"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/underground"
+  - "role/monster"
+  - "size/huge"
+  - "tone/eerie"
 name: "Stone Titan"
 tier: 2
 type: "Solo"

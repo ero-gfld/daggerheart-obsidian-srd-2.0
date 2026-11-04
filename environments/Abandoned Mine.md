@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/mountain"
+  - "origin/underground"
+  - "tone/grim"
 name: "Abandoned Mine"
 tier: 1
 type: "Traversal"

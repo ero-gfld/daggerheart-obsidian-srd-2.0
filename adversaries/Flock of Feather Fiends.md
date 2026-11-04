@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/eerie"
 name: "Flock of Feather Fiends"
 tier: 2
 type: "Horde"

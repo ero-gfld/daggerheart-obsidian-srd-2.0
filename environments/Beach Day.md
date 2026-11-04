@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/sea"
+  - "tone/whimsical"
 name: "Beach Day"
 tier: 2
 type: "Social"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Arch-Necromancer"
 tier: 4
 type: "Leader"

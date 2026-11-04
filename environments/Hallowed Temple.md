@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/sacred"
+  - "origin/urban"
+  - "tone/heroic"
 name: "Hallowed Temple"
 tier: 2
 type: "Social"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/noble"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Fallen Warlord: Realm-Breaker"
 tier: 4
 type: "Solo"

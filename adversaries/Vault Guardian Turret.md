@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/huge"
+  - "tone/grim"
 name: "Vault Guardian Turret"
 tier: 3
 type: "Ranged"

@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/travel"
 name: "Jumping Root"
 effect: "Eat this root to leap up to Far range once without needing to roll."
 roll: 17

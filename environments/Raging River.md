@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/water"
+  - "mood/wilderness"
+  - "origin/sea"
+  - "tone/grim"
 name: "Raging River"
 tier: 1
 type: "Traversal"

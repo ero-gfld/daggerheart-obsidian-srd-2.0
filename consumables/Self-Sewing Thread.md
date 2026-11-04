@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
 name: "Self-Sewing Thread"
 effect: "You can use this thread to clear either a Hit Point or 2 Armor Slots."
 roll: 25

@@ -1,6 +1,9 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "mood/sacred"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Cursed Graveyard"
 tier: 1
 type: "Exploration"

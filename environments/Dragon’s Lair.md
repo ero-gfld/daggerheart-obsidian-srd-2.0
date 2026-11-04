@@ -1,6 +1,10 @@
 ---
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "mood/dungeon"
+  - "origin/mountain"
+  - "tone/heroic"
 name: "Dragon’s Lair"
 tier: 3
 type: "Exploration"

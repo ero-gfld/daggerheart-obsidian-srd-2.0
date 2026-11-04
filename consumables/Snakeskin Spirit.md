@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/healing"
+  - "use/transformation"
 name: "Snakeskin Spirit"
 effect: "You can drink this potion to slough off your outer layer of skin and heal a scar."
 roll: 51
