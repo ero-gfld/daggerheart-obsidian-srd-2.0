@@ -3,6 +3,12 @@ aliases:
   - "Advanced Banded Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure à bandes avancée"
 tier: 3
 thresholds: "15/34"

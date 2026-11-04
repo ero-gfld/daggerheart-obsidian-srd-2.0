@@ -3,6 +3,11 @@ aliases:
   - "Improved Scepter"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sceptre amélioré"
 tier: 2
 category: "Principale"

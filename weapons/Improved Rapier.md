@@ -3,6 +3,11 @@ aliases:
   - "Improved Rapier"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Rapière améliorée"
 tier: 2
 category: "Principale"

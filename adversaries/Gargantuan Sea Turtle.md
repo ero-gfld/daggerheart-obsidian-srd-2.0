@@ -3,6 +3,14 @@ aliases:
   - "Gargantuan Sea Turtle"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "element/water"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Tortue de mer gigantesque"
 tier: 3
 type: "Solo"

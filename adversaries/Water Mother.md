@@ -3,6 +3,13 @@ aliases:
   - "Water Mother"
 tags:
   - "daggerheart/adversary"
+  - "element/water"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Mère des eaux"
 tier: 4
 type: "Solo"

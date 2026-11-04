@@ -3,6 +3,9 @@ aliases:
   - "Hold the Line"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/sea"
+  - "tone/grim"
 name: "Tenir la ligne"
 tier: 1
 type: "Événement"

@@ -3,6 +3,13 @@ aliases:
   - "Lionheart Tonic"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Tonique cœur de lion"
 effect: "Vous pouvez boire ce tonique pour gagner un bonus de +1 à votre Maîtrise jusqu’à ce que vous fassiez un jet avec la Peur."
 roll: 58

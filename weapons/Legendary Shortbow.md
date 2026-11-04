@@ -3,6 +3,11 @@ aliases:
   - "Legendary Shortbow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc court légendaire"
 tier: 4
 category: "Principale"

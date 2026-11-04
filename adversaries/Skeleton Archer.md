@@ -3,6 +3,11 @@ aliases:
   - "Skeleton Archer"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Squelette archer"
 tier: 1
 type: "Tireur"

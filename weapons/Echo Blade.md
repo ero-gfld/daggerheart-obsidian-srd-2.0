@@ -3,6 +3,11 @@ aliases:
   - "Echo Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Lame d’écho"
 tier: 4
 category: "Secondaire"

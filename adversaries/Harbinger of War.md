@@ -3,6 +3,11 @@ aliases:
   - "Harbinger of War"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Avant-coureur de la Guerre"
 tier: 4
 type: "Cogneur"

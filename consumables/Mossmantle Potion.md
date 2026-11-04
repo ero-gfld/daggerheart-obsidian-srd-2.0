@@ -3,6 +3,13 @@ aliases:
   - "Mossmantle Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/stealth"
 name: "Potion de manteau de mousse"
 effect: "Vous pouvez boire cette tisane pour vous fondre parfaitement dans les environnements naturels jusqu’à votre prochain repos."
 roll: 5

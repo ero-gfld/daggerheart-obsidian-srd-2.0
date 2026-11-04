@@ -3,6 +3,11 @@ aliases:
   - "Powered Gauntlet"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Gantelet motorisé"
 tier: 3
 category: "Secondaire"

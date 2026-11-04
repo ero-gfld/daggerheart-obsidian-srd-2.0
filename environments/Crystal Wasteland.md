@@ -3,6 +3,9 @@ aliases:
   - "Crystal Wasteland"
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/eerie"
 name: "Désert de cristal"
 tier: 3
 type: "Traversée"

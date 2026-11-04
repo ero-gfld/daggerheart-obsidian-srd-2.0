@@ -3,6 +3,12 @@ aliases:
   - "Plesiosaurus"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/large"
+  - "tone/eerie"
 name: "Plésiosaure"
 tier: 3
 type: "Standard"

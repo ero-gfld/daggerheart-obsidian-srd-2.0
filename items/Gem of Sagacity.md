@@ -3,6 +3,14 @@ aliases:
   - "Gem of Sagacity"
 tags:
   - "daggerheart/item"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Gemme de sagacité"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Savoir lorsque vous attaquez avec cette arme."
 roll: 58

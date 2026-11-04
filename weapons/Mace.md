@@ -3,6 +3,11 @@ aliases:
   - "Mace"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Masse d’armes"
 tier: 1
 category: "Principale"

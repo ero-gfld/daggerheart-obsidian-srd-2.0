@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/swamp"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Cipactli"
 tier: 4
 type: "Solo"

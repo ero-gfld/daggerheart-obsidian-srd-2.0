@@ -3,6 +3,11 @@ aliases:
   - "Skeleton Warrior"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Squelette guerrier"
 tier: 1
 type: "Standard"

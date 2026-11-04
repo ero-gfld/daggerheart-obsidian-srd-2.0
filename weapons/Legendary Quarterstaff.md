@@ -3,6 +3,11 @@ aliases:
   - "Legendary Quarterstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton de combat légendaire"
 tier: 4
 category: "Principale"

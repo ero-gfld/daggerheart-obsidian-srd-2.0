@@ -3,6 +3,12 @@ aliases:
   - "Advanced Brightsword"
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée brillante avancée"
 tier: 3
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Rune Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bouclier runique avancé"
 tier: 3
 category: "Secondaire"

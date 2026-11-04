@@ -3,6 +3,12 @@ aliases:
   - "Merchant"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/merchant"
+  - "size/medium"
+  - "tone/comic"
 name: "Marchand"
 tier: 1
 type: "Social"

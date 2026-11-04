@@ -3,6 +3,11 @@ aliases:
   - "Bellamoi Fine Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure fine de Bellamoi"
 tier: 3
 thresholds: "11/27"

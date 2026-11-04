@@ -3,6 +3,11 @@ aliases:
   - "Soldier’s Pike"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Pique du soldat"
 tier: 3
 category: "Principale"

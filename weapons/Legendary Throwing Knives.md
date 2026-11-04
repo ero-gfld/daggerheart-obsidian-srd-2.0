@@ -3,6 +3,12 @@ aliases:
   - "Legendary Throwing Knives"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Couteaux de lancer légendaires"
 tier: 4
 category: "Secondaire"

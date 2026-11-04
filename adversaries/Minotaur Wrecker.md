@@ -3,6 +3,11 @@ aliases:
   - "Minotaur Wrecker"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Minotaure destructeur"
 tier: 2
 type: "Cogneur"

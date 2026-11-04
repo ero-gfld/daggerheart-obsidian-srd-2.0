@@ -3,6 +3,12 @@ aliases:
   - "Crystal Spear"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/crystal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Lance de cristal"
 tier: 3
 category: "Principale"

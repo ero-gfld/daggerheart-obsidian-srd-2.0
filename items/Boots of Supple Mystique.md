@@ -3,6 +3,13 @@ aliases:
   - "Boots of Supple Mystique"
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stealth"
 name: "Bottes de mystique souple"
 effect: "Tant que vous portez ces bottes, vous ne laissez ni traces ni empreintes."
 roll: 18

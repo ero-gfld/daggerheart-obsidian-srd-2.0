@@ -3,6 +3,12 @@ aliases:
   - "Legendary Gambeson Armor"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Gambison légendaire"
 tier: 4
 thresholds: "11/32"

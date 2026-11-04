@@ -3,6 +3,11 @@ aliases:
   - "Grimmling Warband"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "size/small"
+  - "tone/comic"
 name: "Bande de grimmlings"
 tier: 1
 type: "Horde"

@@ -3,6 +3,12 @@ aliases:
   - "Jagged Knife Kneebreaker"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Casse-genoux des Lames dentelées"
 tier: 1
 type: "Cogneur"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Quarterstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton de combat amélioré"
 tier: 2
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Knight of the Realm"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/noble"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Chevalier du royaume"
 tier: 2
 type: "Meneur"

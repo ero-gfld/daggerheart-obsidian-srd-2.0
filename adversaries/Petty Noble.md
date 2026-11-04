@@ -3,6 +3,12 @@ aliases:
   - "Petty Noble"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/noble"
+  - "size/medium"
+  - "tone/comic"
 name: "Petit noble"
 tier: 1
 type: "Social"

@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/eerie"
 name: "Dullahan"
 tier: 3
 type: "Cogneur"

@@ -3,6 +3,12 @@ aliases:
   - "Sawtoothed Gillbeast"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Bête branchiale dentelée"
 tier: 1
 type: "Standard"

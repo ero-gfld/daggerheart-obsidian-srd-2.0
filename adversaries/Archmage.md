@@ -3,6 +3,12 @@ aliases:
   - "Archmage"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Archimage"
 tier: 3
 type: "Solo"

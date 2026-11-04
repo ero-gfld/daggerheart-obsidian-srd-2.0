@@ -3,6 +3,12 @@ aliases:
   - "Banded Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure à bandes"
 tier: 1
 thresholds: "8/16"

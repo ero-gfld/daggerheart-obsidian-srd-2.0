@@ -3,6 +3,11 @@ aliases:
   - "Advanced Round Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bouclier rond avancé"
 tier: 3
 category: "Secondaire"

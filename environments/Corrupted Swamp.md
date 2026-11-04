@@ -3,6 +3,10 @@ aliases:
   - "Corrupted Swamp"
 tags:
   - "daggerheart/environment"
+  - "element/poison"
+  - "mood/wilderness"
+  - "origin/swamp"
+  - "tone/grim"
 name: "Marais corrompu"
 tier: 1
 type: "Traversée"

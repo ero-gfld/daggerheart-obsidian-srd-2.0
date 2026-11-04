@@ -3,6 +3,12 @@ aliases:
   - "Whipsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée-fouet"
 tier: 1
 category: "Principale"

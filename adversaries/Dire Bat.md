@@ -3,6 +3,12 @@ aliases:
   - "Dire Bat"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Chauve-souris redoutable"
 tier: 3
 type: "Furtif"

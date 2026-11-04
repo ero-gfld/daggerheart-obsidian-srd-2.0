@@ -3,6 +3,12 @@ aliases:
   - "Deeproot Defender"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/large"
+  - "tone/grim"
 name: "Défenseur des racines profondes"
 tier: 1
 type: "Cogneur"

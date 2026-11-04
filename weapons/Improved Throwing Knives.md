@@ -3,6 +3,12 @@ aliases:
   - "Improved Throwing Knives"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Couteaux de lancer améliorés"
 tier: 2
 category: "Secondaire"

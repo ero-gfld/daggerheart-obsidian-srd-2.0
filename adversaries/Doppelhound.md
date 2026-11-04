@@ -3,6 +3,12 @@ aliases:
   - "Doppelhound"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Chien-double"
 tier: 2
 type: "Furtif"

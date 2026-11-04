@@ -3,6 +3,12 @@ aliases:
   - "Giant Rat"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Rat géant"
 tier: 1
 type: "Sbire"

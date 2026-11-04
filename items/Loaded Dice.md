@@ -3,6 +3,13 @@ aliases:
   - "Loaded Dice"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/comic"
+  - "use/social"
 name: "Dés pipés"
 effect: "Vous pouvez choisir le résultat que ce jeu de dés lestés obtient lors d’un jet de Finesse réussi (14). Si vous faites un jet avec la Peur, toute personne qui vous regarde sait que les dés sont pipés."
 roll: 12

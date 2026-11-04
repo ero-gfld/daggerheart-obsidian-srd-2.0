@@ -3,6 +3,11 @@ aliases:
   - "Curved Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Dague courbe"
 tier: 4
 category: "Principale"

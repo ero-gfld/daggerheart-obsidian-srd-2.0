@@ -3,6 +3,11 @@ aliases:
   - "Legendary Warhammer"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Marteau de guerre légendaire"
 tier: 4
 category: "Principale"

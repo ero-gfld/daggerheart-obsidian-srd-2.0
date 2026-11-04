@@ -3,6 +3,11 @@ aliases:
   - "Legendary Whip"
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fouet légendaire"
 tier: 4
 category: "Secondaire"

@@ -3,6 +3,11 @@ aliases:
   - "Segmented Staff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton segmenté"
 tier: 2
 category: "Secondaire"

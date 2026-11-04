@@ -3,6 +3,13 @@ aliases:
   - "Hallowed Choir"
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Chœur sanctifié"
 tier: 4
 type: "Horde"

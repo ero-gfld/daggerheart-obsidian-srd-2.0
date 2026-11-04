@@ -3,6 +3,9 @@ aliases:
   - "Cliffside Ascent"
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/mountain"
+  - "tone/grim"
 name: "Ascension de la falaise"
 tier: 1
 type: "Traversée"

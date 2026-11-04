@@ -3,6 +3,10 @@ aliases:
   - "Alchemist’s Abandoned Workshop"
 tags:
   - "daggerheart/environment"
+  - "element/lightning"
+  - "mood/dungeon"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Atelier abandonné de l’alchimiste"
 tier: 1
 type: "Exploration"

@@ -3,6 +3,10 @@ aliases:
   - "Runes of Ruination"
 tags:
   - "daggerheart/weapon"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Runes de ruine"
 tier: 3
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Halberd"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hallebarde améliorée"
 tier: 2
 category: "Principale"

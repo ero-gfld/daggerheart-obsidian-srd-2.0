@@ -3,6 +3,11 @@ aliases:
   - "Greatsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Espadon"
 tier: 1
 category: "Principale"

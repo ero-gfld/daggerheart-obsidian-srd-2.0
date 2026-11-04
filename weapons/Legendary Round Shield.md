@@ -3,6 +3,11 @@ aliases:
   - "Legendary Round Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bouclier rond légendaire"
 tier: 4
 category: "Secondaire"

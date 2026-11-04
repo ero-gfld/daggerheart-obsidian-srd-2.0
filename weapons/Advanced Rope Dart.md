@@ -3,6 +3,11 @@ aliases:
   - "Advanced Rope Dart"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dard à corde avancé"
 tier: 3
 category: "Principale"

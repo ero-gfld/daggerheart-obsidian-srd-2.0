@@ -3,6 +3,11 @@ aliases:
   - "Legendary Arcane Rifle"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Fusil arcanique légendaire"
 tier: 4
 category: "Principale"

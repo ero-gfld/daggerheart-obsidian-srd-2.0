@@ -3,6 +3,12 @@ aliases:
   - "Pirate Captain"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/heroic"
 name: "Capitaine corsaire"
 tier: 1
 type: "Meneur"

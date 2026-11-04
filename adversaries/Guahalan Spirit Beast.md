@@ -3,6 +3,11 @@ aliases:
   - "Guahalan Spirit Beast"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/fey"
+  - "role/minion"
+  - "size/medium"
+  - "tone/heroic"
 name: "Bête-esprit guahalan"
 tier: 2
 type: "Sbire"

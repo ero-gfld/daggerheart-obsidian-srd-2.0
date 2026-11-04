@@ -3,6 +3,11 @@ aliases:
   - "Legendary Brightsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée brillante légendaire"
 tier: 4
 category: "Principale"

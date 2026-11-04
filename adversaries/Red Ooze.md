@@ -3,6 +3,12 @@ aliases:
   - "Red Ooze"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Gelée rouge"
 tier: 1
 type: "Furtif"

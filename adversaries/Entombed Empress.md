@@ -3,6 +3,12 @@ aliases:
   - "Entombed Empress"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/noble"
+  - "size/medium"
+  - "tone/eerie"
 name: "Impératrice des tombes"
 tier: 2
 type: "Meneur"

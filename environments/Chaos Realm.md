@@ -3,6 +3,9 @@ aliases:
   - "Chaos Realm"
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/grim"
 name: "Royaume du Chaos"
 tier: 4
 type: "Traversée"

@@ -3,6 +3,13 @@ aliases:
   - "Battle Box"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "element/lightning"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Boîte de combat"
 tier: 2
 type: "Solo"

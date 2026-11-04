@@ -3,6 +3,14 @@ aliases:
   - "Storm Titan"
 tags:
   - "daggerheart/adversary"
+  - "element/lightning"
+  - "mind/sapient"
+  - "nature/elemental"
+  - "nature/humanoid"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Titan de tempête"
 tier: 3
 type: "Solo"

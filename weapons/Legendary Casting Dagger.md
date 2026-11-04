@@ -3,6 +3,11 @@ aliases:
   - "Legendary Casting Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Dague d’incantation légendaire"
 tier: 4
 category: "Principale"

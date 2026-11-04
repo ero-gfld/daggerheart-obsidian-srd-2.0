@@ -3,6 +3,11 @@ aliases:
   - "Razor Wire"
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Fil rasoir"
 tier: 2
 category: "Secondaire"

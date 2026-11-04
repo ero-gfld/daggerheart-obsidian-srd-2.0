@@ -3,6 +3,11 @@ aliases:
   - "Arquebus"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Arquebuse"
 tier: 4
 category: "Principale"

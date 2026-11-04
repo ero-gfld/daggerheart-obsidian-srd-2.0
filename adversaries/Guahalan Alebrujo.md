@@ -3,6 +3,11 @@ aliases:
   - "Guahalan Alebrujo"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Alebrujo guahalan"
 tier: 2
 type: "Solo"

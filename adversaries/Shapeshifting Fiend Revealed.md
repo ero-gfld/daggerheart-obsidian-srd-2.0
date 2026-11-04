@@ -3,6 +3,13 @@ aliases:
   - "Shapeshifting Fiend Revealed"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Démon métamorphe dévoilé"
 tier: 3
 type: "Solo"

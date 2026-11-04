@@ -3,6 +3,11 @@ aliases:
   - "Improved Spear"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lance améliorée"
 tier: 2
 category: "Principale"

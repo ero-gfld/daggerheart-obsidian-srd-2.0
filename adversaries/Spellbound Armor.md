@@ -3,6 +3,11 @@ aliases:
   - "Spellbound Armor"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/eerie"
 name: "Armure ensorcelée"
 tier: 1
 type: "Cogneur"

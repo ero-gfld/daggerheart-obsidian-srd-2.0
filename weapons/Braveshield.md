@@ -3,6 +3,11 @@ aliases:
   - "Braveshield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bouclier du brave"
 tier: 4
 category: "Secondaire"

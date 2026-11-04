@@ -3,6 +3,11 @@ aliases:
   - "Gorgon"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Gorgone"
 tier: 2
 type: "Solo"

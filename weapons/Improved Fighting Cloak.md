@@ -3,6 +3,11 @@ aliases:
   - "Improved Fighting Cloak"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cape de combat améliorée"
 tier: 2
 category: "Secondaire"

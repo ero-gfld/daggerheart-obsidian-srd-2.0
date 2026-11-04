@@ -3,6 +3,11 @@ aliases:
   - "Gravity Arbalest"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Arbalète gravitique"
 tier: 4
 category: "Principale"

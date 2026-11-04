@@ -3,6 +3,13 @@ aliases:
   - "Improved Offhand Brass Knuckles"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coups-de-poing en laiton secondaires améliorés"
 tier: 2
 category: "Secondaire"

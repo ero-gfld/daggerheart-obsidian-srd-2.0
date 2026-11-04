@@ -3,6 +3,12 @@ aliases:
   - "Entombed Elite Guard"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Garde d’élite des tombes"
 tier: 2
 type: "Standard"

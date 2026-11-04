@@ -3,6 +3,13 @@ aliases:
   - "Self-Sewing Thread"
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
 name: "Fil auto-cousant"
 effect: "Vous pouvez utiliser ce fil pour libérer soit un Point de vie, soit 2 emplacements d’armure."
 roll: 25

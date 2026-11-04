@@ -3,6 +3,12 @@ aliases:
   - "High Seraph"
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/guard"
+  - "size/medium"
+  - "tone/heroic"
 name: "Haut séraphin"
 tier: 4
 type: "Meneur"

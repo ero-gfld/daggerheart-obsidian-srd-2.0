@@ -3,6 +3,12 @@ aliases:
   - "Cult Fang"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/grim"
 name: "Croc du culte"
 tier: 2
 type: "Furtif"

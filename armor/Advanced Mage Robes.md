@@ -3,6 +3,12 @@ aliases:
   - "Advanced Mage Robes"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Robes de mage avancées"
 tier: 3
 thresholds: "8/22"

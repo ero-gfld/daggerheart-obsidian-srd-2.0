@@ -3,6 +3,11 @@ aliases:
   - "Improved Mace"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Masse d’armes améliorée"
 tier: 2
 category: "Principale"

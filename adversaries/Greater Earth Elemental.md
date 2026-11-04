@@ -3,6 +3,12 @@ aliases:
   - "Greater Earth Elemental"
 tags:
   - "daggerheart/adversary"
+  - "element/earth"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Grand élémentaire de terre"
 tier: 3
 type: "Cogneur"

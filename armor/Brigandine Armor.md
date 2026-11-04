@@ -3,6 +3,11 @@ aliases:
   - "Brigandine Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Brigandine"
 tier: 1
 thresholds: "6/12"

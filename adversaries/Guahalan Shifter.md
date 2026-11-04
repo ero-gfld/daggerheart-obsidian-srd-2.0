@@ -3,6 +3,12 @@ aliases:
   - "Guahalan Shifter"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Métamorphe guahalan"
 tier: 2
 type: "Standard"

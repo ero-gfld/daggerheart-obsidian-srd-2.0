@@ -3,6 +3,11 @@ aliases:
   - "Common Ruffian"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/commoner"
+  - "size/medium"
+  - "tone/grim"
 name: "Voyou ordinaire"
 tier: 1
 type: "Standard"

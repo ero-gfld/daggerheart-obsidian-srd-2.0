@@ -3,6 +3,13 @@ aliases:
   - "Oracle of Doom"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/spellcaster"
+  - "size/huge"
+  - "tone/grim"
 name: "Oracle de la perdition"
 tier: 4
 type: "Solo"

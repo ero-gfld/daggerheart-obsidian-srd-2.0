@@ -3,6 +3,12 @@ aliases:
   - "Pirate Tough"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Costaud corsaire"
 tier: 1
 type: "Cogneur"

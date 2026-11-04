@@ -3,6 +3,13 @@ aliases:
   - "Cephilith Priest"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/eerie"
 name: "Prêtre cephilith"
 tier: 4
 type: "Meneur"

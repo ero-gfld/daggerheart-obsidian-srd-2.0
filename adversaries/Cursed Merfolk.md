@@ -3,6 +3,12 @@ aliases:
   - "Cursed Merfolk"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/minion"
+  - "size/medium"
+  - "tone/eerie"
 name: "Homme-poisson maudit"
 tier: 3
 type: "Standard"

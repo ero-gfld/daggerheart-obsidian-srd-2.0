@@ -3,6 +3,12 @@ aliases:
   - "Savior Chainmail"
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte de mailles du sauveur"
 tier: 4
 thresholds: "18/48"

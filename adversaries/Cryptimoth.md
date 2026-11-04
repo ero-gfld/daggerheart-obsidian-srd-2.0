@@ -3,6 +3,12 @@ aliases:
   - "Cryptimoth"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/horror"
+  - "role/hunter"
+  - "size/large"
+  - "tone/eerie"
 name: "Phalène des cryptes"
 tier: 3
 type: "Furtif"

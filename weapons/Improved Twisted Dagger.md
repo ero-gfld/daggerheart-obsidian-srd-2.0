@@ -3,6 +3,11 @@ aliases:
   - "Improved Twisted Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Dague tordue améliorée"
 tier: 2
 category: "Principale"

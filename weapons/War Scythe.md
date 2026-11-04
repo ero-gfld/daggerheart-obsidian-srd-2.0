@@ -3,6 +3,11 @@ aliases:
   - "War Scythe"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Faux de guerre"
 tier: 2
 category: "Principale"

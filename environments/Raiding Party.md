@@ -3,6 +3,10 @@ aliases:
   - "Raiding Party"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/sea"
+  - "origin/urban"
+  - "tone/grim"
 name: "Troupe de pillards"
 tier: 1
 type: "Événement"

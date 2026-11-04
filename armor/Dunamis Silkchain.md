@@ -3,6 +3,12 @@ aliases:
   - "Dunamis Silkchain"
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Cotte de soie Dunamis"
 tier: 4
 thresholds: "13/36"

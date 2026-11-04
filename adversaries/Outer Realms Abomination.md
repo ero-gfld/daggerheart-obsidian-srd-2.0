@@ -3,6 +3,12 @@ aliases:
   - "Outer Realms Abomination"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/huge"
+  - "tone/eerie"
 name: "Abomination des royaumes extérieurs"
 tier: 4
 type: "Cogneur"

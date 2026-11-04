@@ -3,6 +3,11 @@ aliases:
   - "Wand of Essek"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Baguette d’Essek"
 tier: 4
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Wyrmfiend"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/minion"
+  - "size/medium"
+  - "tone/grim"
 name: "Démon-ver"
 tier: 4
 type: "Sbire"

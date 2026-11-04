@@ -3,6 +3,11 @@ aliases:
   - "Legendary Fighting Cloak"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cape de combat légendaire"
 tier: 4
 category: "Secondaire"

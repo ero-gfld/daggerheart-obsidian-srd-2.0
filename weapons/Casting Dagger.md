@@ -3,6 +3,11 @@ aliases:
   - "Casting Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Dague d’incantation"
 tier: 1
 category: "Principale"

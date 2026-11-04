@@ -3,6 +3,11 @@ aliases:
   - "Legendary Enchanted Chakram"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Chakram enchanté légendaire"
 tier: 4
 category: "Principale"

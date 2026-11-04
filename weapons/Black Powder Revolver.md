@@ -3,6 +3,11 @@ aliases:
   - "Black Powder Revolver"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Revolver à poudre noire"
 tier: 3
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Dual-Ended Sword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée à double extrémité"
 tier: 4
 category: "Principale"

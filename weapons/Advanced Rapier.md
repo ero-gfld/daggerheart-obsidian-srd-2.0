@@ -3,6 +3,11 @@ aliases:
   - "Advanced Rapier"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Rapière avancée"
 tier: 3
 category: "Principale"

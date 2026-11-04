@@ -3,6 +3,11 @@ aliases:
   - "Hive Walker"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Marcheur de la ruche"
 tier: 2
 type: "Standard"

@@ -3,6 +3,14 @@ aliases:
   - "Glider"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "size/handheld"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/travel"
 name: "Planeur"
 effect: "En chute libre, vous pouvez marquer un Stress pour déployer ce petit parachute et atterrir en sécurité."
 roll: 27

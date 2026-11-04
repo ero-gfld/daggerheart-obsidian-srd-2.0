@@ -3,6 +3,12 @@ aliases:
   - "Midas Scythe"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/whimsical"
 name: "Faux de Midas"
 tier: 4
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Irontree Breastplate Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "origin/forest"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cuirasse d’arbre de fer"
 tier: 2
 thresholds: "9/20"

@@ -3,6 +3,12 @@ aliases:
   - "Spectral Archer"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/eerie"
 name: "Archer spectral"
 tier: 2
 type: "Tireur"

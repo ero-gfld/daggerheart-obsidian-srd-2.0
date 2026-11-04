@@ -3,6 +3,14 @@ aliases:
   - "Blinding Orb"
 tags:
   - "daggerheart/consumable"
+  - "element/light"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Orbe aveuglante"
 effect: "Vous pouvez activer cette orbe pour créer un éclair de lumière vive. Toutes les cibles à portée Proche deviennent Vulnérables jusqu’à ce qu’elles marquent un Point de vie."
 roll: 57

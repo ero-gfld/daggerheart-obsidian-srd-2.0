@@ -1,6 +1,13 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/water"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Kraken"
 tier: 4
 type: "Solo"

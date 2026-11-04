@@ -3,6 +3,11 @@ aliases:
   - "Advanced Arcane Rifle"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Fusil arcanique avancé"
 tier: 3
 category: "Principale"

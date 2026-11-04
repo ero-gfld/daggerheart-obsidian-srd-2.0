@@ -3,6 +3,9 @@ aliases:
   - "Local Festival"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/whimsical"
 name: "Fête locale"
 tier: 1
 type: "Social"

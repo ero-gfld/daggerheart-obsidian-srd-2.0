@@ -3,6 +3,11 @@ aliases:
   - "Improved Round Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bouclier rond amélioré"
 tier: 2
 category: "Secondaire"

@@ -3,6 +3,13 @@ aliases:
   - "Demon of Despair"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Démon du Désespoir"
 tier: 3
 type: "Furtif"

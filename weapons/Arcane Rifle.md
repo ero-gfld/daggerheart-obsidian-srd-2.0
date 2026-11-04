@@ -3,6 +3,11 @@ aliases:
   - "Arcane Rifle"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Fusil arcanique"
 tier: 1
 category: "Principale"

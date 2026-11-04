@@ -3,6 +3,13 @@ aliases:
   - "Ruby Dragon"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Dragon de rubis"
 tier: 4
 type: "Standard"

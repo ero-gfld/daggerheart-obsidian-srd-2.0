@@ -3,6 +3,12 @@ aliases:
   - "Bloodstaff"
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/staff"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Bâton de sang"
 tier: 4
 category: "Principale"

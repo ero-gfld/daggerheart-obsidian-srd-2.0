@@ -3,6 +3,14 @@ aliases:
   - "Gem of Audacity"
 tags:
   - "daggerheart/item"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Gemme d’audace"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Présence lorsque vous attaquez avec cette arme."
 roll: 57

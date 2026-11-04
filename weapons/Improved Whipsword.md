@@ -3,6 +3,12 @@ aliases:
   - "Improved Whipsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée-fouet améliorée"
 tier: 2
 category: "Principale"

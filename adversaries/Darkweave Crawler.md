@@ -3,6 +3,12 @@ aliases:
   - "Darkweave Crawler"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/grim"
 name: "Rampeur tisse-ténèbres"
 tier: 1
 type: "Sbire"

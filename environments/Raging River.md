@@ -3,6 +3,10 @@ aliases:
   - "Raging River"
 tags:
   - "daggerheart/environment"
+  - "element/water"
+  - "mood/wilderness"
+  - "origin/sea"
+  - "tone/grim"
 name: "Rivière furieuse"
 tier: 1
 type: "Traversée"

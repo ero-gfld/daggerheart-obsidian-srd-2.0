@@ -3,6 +3,11 @@ aliases:
   - "Round Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bouclier rond"
 tier: 1
 category: "Secondaire"

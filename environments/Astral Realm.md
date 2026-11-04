@@ -3,6 +3,10 @@ aliases:
   - "Astral Realm"
 tags:
   - "daggerheart/environment"
+  - "element/psychic"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/eerie"
 name: "Royaume astral"
 tier: 3
 type: "Traversée"

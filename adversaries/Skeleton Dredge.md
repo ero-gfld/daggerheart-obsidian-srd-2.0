@@ -3,6 +3,11 @@ aliases:
   - "Skeleton Dredge"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/medium"
+  - "tone/grim"
 name: "Squelette rampant"
 tier: 1
 type: "Sbire"

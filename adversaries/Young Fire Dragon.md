@@ -3,6 +3,12 @@ aliases:
   - "Young Fire Dragon"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Jeune dragon de feu"
 tier: 3
 type: "Solo"

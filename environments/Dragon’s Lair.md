@@ -3,6 +3,10 @@ aliases:
   - "Dragon’s Lair"
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "mood/dungeon"
+  - "origin/mountain"
+  - "tone/heroic"
 name: "Antre du dragon"
 tier: 3
 type: "Exploration"

@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/fey"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Banshee"
 tier: 2
 type: "Furtif"

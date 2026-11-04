@@ -3,6 +3,13 @@ aliases:
   - "Minor Health Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/healing"
 name: "Potion de soins mineure"
 effect: "Libérez 1d4 PV."
 roll: 7

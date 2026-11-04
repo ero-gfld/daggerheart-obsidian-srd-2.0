@@ -3,6 +3,15 @@ aliases:
   - "Supreme Demiurge Adonix"
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "element/fire"
+  - "element/lightning"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Démiurge suprême Adonix"
 tier: 4
 type: "Solo"

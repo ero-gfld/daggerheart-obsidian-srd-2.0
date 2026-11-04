@@ -3,6 +3,11 @@ aliases:
   - "Construct"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Automate"
 tier: 1
 type: "Solo"

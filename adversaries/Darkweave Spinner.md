@@ -3,6 +3,12 @@ aliases:
   - "Darkweave Spinner"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Fileur tisse-ténèbres"
 tier: 1
 type: "Standard"

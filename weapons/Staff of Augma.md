@@ -3,6 +3,11 @@ aliases:
   - "Staff of Augma"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bâton d’Augma"
 tier: 3
 category: "Principale"

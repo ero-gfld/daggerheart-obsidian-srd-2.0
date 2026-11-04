@@ -3,6 +3,13 @@ aliases:
   - "Homet’s Secret Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Potion secrète de Homet"
 effect: "Après avoir bu cette potion, votre prochaine attaque réussie devient une réussite critique."
 roll: 32

@@ -3,6 +3,13 @@ aliases:
   - "Yakamel Milk"
 tags:
   - "daggerheart/consumable"
+  - "form/drink"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
 name: "Lait de yakamel"
 effect: "Après avoir bu ce lait, la prochaine fois que vous libérez 1 ou plusieurs Points de vie, vous libérez un Point de vie supplémentaire."
 roll: 13

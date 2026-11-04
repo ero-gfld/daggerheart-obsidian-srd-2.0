@@ -3,6 +3,11 @@ aliases:
   - "Legendary Spear"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lance légendaire"
 tier: 4
 category: "Principale"

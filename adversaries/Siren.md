@@ -3,6 +3,12 @@ aliases:
   - "Siren"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Sirène"
 tier: 2
 type: "Furtif"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Small Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Petite dague améliorée"
 tier: 2
 category: "Secondaire"

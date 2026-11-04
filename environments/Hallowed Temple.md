@@ -3,6 +3,9 @@ aliases:
   - "Hallowed Temple"
 tags:
   - "daggerheart/environment"
+  - "mood/sacred"
+  - "origin/urban"
+  - "tone/heroic"
 name: "Temple sacré"
 tier: 2
 type: "Social"

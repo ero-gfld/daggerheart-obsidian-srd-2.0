@@ -3,6 +3,11 @@ aliases:
   - "Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète"
 tier: 1
 category: "Principale"

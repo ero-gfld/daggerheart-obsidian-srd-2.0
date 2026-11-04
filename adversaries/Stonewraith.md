@@ -3,6 +3,15 @@ aliases:
   - "Stonewraith"
 tags:
   - "daggerheart/adversary"
+  - "element/earth"
+  - "mind/animal"
+  - "nature/beast"
+  - "nature/elemental"
+  - "origin/mountain"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Spectre de pierre"
 tier: 2
 type: "Furtif"

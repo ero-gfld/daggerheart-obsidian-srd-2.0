@@ -3,6 +3,11 @@ aliases:
   - "Advanced Broadsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée large avancée"
 tier: 3
 category: "Principale"

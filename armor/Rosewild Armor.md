@@ -3,6 +3,12 @@ aliases:
   - "Rosewild Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/organic"
+  - "origin/forest"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Armure de rose sauvage"
 tier: 2
 thresholds: "11/23"

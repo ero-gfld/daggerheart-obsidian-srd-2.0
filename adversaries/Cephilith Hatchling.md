@@ -3,6 +3,13 @@ aliases:
   - "Cephilith Hatchling"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/eerie"
 name: "Éclos cephilith"
 tier: 4
 type: "Sbire"

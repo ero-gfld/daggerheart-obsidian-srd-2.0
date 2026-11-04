@@ -3,6 +3,15 @@ aliases:
   - "Verglasian Seed"
 tags:
   - "daggerheart/consumable"
+  - "element/cold"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/frozen"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Graine verglacienne"
 effect: "Vous pouvez utiliser cette graine pour geler instantanément une zone d’eau allant jusqu’à portée Proche."
 roll: 3

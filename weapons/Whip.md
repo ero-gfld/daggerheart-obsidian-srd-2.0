@@ -3,6 +3,11 @@ aliases:
   - "Whip"
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fouet"
 tier: 1
 category: "Secondaire"

@@ -3,6 +3,10 @@ aliases:
   - "Haunted City"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/ruins"
+  - "origin/urban"
+  - "tone/eerie"
 name: "Cité hantée"
 tier: 2
 type: "Exploration"

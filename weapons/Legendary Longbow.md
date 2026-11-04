@@ -3,6 +3,11 @@ aliases:
   - "Legendary Longbow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc long légendaire"
 tier: 4
 category: "Principale"

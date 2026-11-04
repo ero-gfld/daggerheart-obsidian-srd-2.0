@@ -3,6 +3,13 @@ aliases:
   - "Ashen Tyrant"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Tyran des cendres"
 tier: 4
 type: "Solo"

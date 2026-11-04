@@ -3,6 +3,12 @@ aliases:
   - "Bladed Whip"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fouet à lames"
 tier: 2
 category: "Principale"

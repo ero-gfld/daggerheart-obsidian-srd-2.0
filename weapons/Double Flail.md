@@ -3,6 +3,11 @@ aliases:
   - "Double Flail"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fléau double"
 tier: 3
 category: "Principale"

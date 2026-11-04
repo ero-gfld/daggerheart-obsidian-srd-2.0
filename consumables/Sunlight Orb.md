@@ -3,6 +3,14 @@ aliases:
   - "Sunlight Orb"
 tags:
   - "daggerheart/consumable"
+  - "element/light"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Orbe de lumière solaire"
 effect: "Vous pouvez briser cette orbe pour donner à la zone à portée Très loin l’apparence d’une journée ensoleillée pendant les 24 prochaines heures."
 roll: 30

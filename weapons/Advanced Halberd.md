@@ -3,6 +3,11 @@ aliases:
   - "Advanced Halberd"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hallebarde avancée"
 tier: 3
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Void Needle"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Aiguille du vide"
 tier: 4
 category: "Secondaire"

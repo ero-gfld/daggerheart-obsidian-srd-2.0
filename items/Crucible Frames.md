@@ -3,6 +3,14 @@ aliases:
   - "Crucible Frames"
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
+  - "use/knowledge"
 name: "Cadres de creuset"
 effect: "Ces lunettes révèlent les points faibles des objets et des créatures. Trois fois par repos, vous pouvez dépenser un Espoir pour obtenir un avantage à un jet d’attaque."
 roll: 42

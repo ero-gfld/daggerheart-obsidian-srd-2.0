@@ -3,6 +3,13 @@ aliases:
   - "Gadiman’s Backpack"
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Sac à dos de Gadiman"
 effect: "Une fois par repos, vous pouvez dépenser un Espoir pour faire apparaître dans ce sac un objet ordinaire d’un pied cube au maximum."
 roll: 33

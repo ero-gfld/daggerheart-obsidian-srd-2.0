@@ -3,6 +3,11 @@ aliases:
   - "Keeper's Staff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bâton du gardien"
 tier: 2
 category: "Principale"

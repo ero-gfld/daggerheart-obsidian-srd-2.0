@@ -3,6 +3,10 @@ aliases:
   - "Advanced Hand Runes"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Runes de main avancées"
 tier: 3
 category: "Principale"

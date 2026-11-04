@@ -3,6 +3,12 @@ aliases:
   - "Fowlbear"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/monster"
+  - "size/large"
+  - "tone/whimsical"
 name: "Ours-volaille"
 tier: 2
 type: "Cogneur"

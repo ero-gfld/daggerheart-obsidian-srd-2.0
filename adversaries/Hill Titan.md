@@ -3,6 +3,12 @@ aliases:
   - "Hill Titan"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Titan des collines"
 tier: 2
 type: "Solo"

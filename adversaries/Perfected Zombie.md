@@ -3,6 +3,11 @@ aliases:
   - "Perfected Zombie"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Zombie parfait"
 tier: 4
 type: "Cogneur"

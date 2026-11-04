@@ -3,6 +3,11 @@ aliases:
   - "War Wizard"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/heroic"
 name: "Magicien de guerre"
 tier: 2
 type: "Tireur"

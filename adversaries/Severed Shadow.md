@@ -3,6 +3,12 @@ aliases:
   - "Severed Shadow"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/horror"
+  - "role/minion"
+  - "size/medium"
+  - "tone/eerie"
 name: "Ombre tranchée"
 tier: 4
 type: "Sbire"

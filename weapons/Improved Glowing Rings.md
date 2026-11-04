@@ -3,6 +3,10 @@ aliases:
   - "Improved Glowing Rings"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Anneaux luisants améliorés"
 tier: 2
 category: "Principale"

@@ -3,6 +3,14 @@ aliases:
   - "Snakeskin Spirit"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/healing"
+  - "use/transformation"
 name: "Esprit de peau de serpent"
 effect: "Vous pouvez boire cette potion pour muer et soigner une cicatrice."
 roll: 51

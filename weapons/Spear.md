@@ -3,6 +3,11 @@ aliases:
   - "Spear"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lance"
 tier: 1
 category: "Principale"

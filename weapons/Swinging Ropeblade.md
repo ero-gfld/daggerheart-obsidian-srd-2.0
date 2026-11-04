@@ -3,6 +3,11 @@ aliases:
   - "Swinging Ropeblade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lame à corde pendulaire"
 tier: 4
 category: "Principale"

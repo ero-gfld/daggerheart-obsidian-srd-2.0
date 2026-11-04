@@ -3,6 +3,11 @@ aliases:
   - "Devouring Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Dague dévorante"
 tier: 2
 category: "Principale"

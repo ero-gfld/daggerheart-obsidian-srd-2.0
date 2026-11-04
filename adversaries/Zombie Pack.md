@@ -3,6 +3,11 @@ aliases:
   - "Zombie Pack"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Meute de zombies"
 tier: 1
 type: "Horde"

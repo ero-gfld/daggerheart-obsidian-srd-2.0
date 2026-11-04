@@ -3,6 +3,12 @@ aliases:
   - "Pain Priest"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/otherworldly"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/grim"
 name: "Prêtre de la douleur"
 tier: 3
 type: "Social"

@@ -3,6 +3,13 @@ aliases:
   - "Skeleton Key"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Passe-partout"
 effect: "Quand vous utilisez cette clé pour ouvrir une porte verrouillée, vous gagnez un avantage au jet de Finesse."
 roll: 16

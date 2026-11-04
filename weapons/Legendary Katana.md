@@ -3,6 +3,11 @@ aliases:
   - "Legendary Katana"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Katana légendaire"
 tier: 4
 category: "Principale"

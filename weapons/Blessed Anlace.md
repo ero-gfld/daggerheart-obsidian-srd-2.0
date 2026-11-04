@@ -3,6 +3,12 @@ aliases:
   - "Blessed Anlace"
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Anlace bénie"
 tier: 3
 category: "Principale"

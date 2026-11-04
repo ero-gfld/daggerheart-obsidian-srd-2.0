@@ -3,6 +3,12 @@ aliases:
   - "Minor Treant"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Petit ent"
 tier: 1
 type: "Sbire"

@@ -3,6 +3,12 @@ aliases:
   - "Spiked Plate Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Armure de plates à pointes"
 tier: 3
 thresholds: "10/25"

@@ -3,6 +3,11 @@ aliases:
   - "War Dart"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dard de guerre"
 tier: 3
 category: "Secondaire"

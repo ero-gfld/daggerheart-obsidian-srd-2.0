@@ -3,6 +3,12 @@ aliases:
   - "Elk"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/monster"
+  - "size/large"
+  - "tone/heroic"
 name: "Wapiti"
 tier: 1
 type: "Furtif"

@@ -3,6 +3,12 @@ aliases:
   - "Giant Eagle"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/mountain"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Aigle géant"
 tier: 2
 type: "Furtif"

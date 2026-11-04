@@ -3,6 +3,13 @@ aliases:
   - "Belt of Unity"
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/social"
 name: "Ceinture de l’union"
 effect: "Une fois par session, vous pouvez dépenser 5 Espoir pour diriger un jet en tandem à trois PJ au lieu de deux."
 roll: 60

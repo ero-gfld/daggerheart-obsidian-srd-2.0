@@ -3,6 +3,11 @@ aliases:
   - "Improved Longbow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc long amélioré"
 tier: 2
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Arch-Necromancer"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Archinécromant"
 tier: 4
 type: "Meneur"

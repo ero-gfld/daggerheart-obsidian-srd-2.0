@@ -3,6 +3,10 @@ aliases:
   - "Widogast Pendant"
 tags:
   - "daggerheart/weapon"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Pendentif de Widogast"
 tier: 3
 category: "Principale"

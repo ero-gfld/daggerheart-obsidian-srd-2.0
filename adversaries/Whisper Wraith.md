@@ -3,6 +3,12 @@ aliases:
   - "Whisper Wraith"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Spectre murmurant"
 tier: 3
 type: "Furtif"

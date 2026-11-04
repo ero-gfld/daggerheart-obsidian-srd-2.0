@@ -3,6 +3,9 @@ aliases:
   - "Castle Siege"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/grim"
 name: "Siège du château"
 tier: 3
 type: "Événement"

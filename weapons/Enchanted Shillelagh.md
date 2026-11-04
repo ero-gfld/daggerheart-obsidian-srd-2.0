@@ -3,6 +3,12 @@ aliases:
   - "Enchanted Shillelagh"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/magical"
+  - "material/wood"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Gourdin enchanté"
 tier: 2
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Eldritch Vambrace"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Brassard d’outre-monde"
 tier: 2
 category: "Secondaire"

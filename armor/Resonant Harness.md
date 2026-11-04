@@ -3,6 +3,11 @@ aliases:
   - "Resonant Harness"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Harnais résonnant"
 tier: 4
 thresholds: "15/40"

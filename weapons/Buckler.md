@@ -3,6 +3,11 @@ aliases:
   - "Buckler"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Targe"
 tier: 3
 category: "Secondaire"

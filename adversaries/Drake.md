@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/mountain"
+  - "role/minion"
+  - "size/large"
+  - "tone/grim"
 name: "Drake"
 tier: 3
 type: "Furtif"

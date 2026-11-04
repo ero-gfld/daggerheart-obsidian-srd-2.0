@@ -3,6 +3,11 @@ aliases:
   - "Urok Broadsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée large d’Urok"
 tier: 2
 category: "Principale"

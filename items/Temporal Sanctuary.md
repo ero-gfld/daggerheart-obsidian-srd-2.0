@@ -3,6 +3,13 @@ aliases:
   - "Temporal Sanctuary"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/bulky"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Sanctuaire temporel"
 effect: "Un PJ qui se repose dans le sanctuaire temporel peut choisir une action de repos supplémentaire."
 roll: 50

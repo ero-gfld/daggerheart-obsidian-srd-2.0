@@ -3,6 +3,9 @@ aliases:
   - "Upscale Casino"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/grim"
 name: "Casino huppé"
 tier: 3
 type: "Social"

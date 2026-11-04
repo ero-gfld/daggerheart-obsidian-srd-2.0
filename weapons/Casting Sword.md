@@ -3,6 +3,11 @@ aliases:
   - "Casting Sword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée d’incantation"
 tier: 2
 category: "Principale"

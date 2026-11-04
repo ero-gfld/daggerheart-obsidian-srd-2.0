@@ -3,6 +3,11 @@ aliases:
   - "Legendary Rapier"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Rapière légendaire"
 tier: 4
 category: "Principale"

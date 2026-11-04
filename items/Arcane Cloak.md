@@ -3,6 +3,13 @@ aliases:
   - "Arcane Cloak"
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/stealth"
 name: "Cape arcanique"
 effect: "Une créature dotée de l’Incantation peut modifier à volonté la couleur, la texture et la taille de cette cape lorsqu’elle la porte."
 roll: 7

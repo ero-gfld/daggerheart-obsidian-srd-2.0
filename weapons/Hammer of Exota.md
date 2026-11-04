@@ -3,6 +3,11 @@ aliases:
   - "Hammer of Exota"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Marteau d’Exota"
 tier: 2
 category: "Principale"

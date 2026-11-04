@@ -3,6 +3,12 @@ aliases:
   - "Landshark"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Requin terrestre"
 tier: 2
 type: "Cogneur"

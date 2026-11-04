@@ -3,6 +3,11 @@ aliases:
   - "Singing Sword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée chantante"
 tier: 3
 category: "Principale"

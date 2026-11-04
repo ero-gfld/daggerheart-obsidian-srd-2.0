@@ -3,6 +3,11 @@ aliases:
   - "Advanced Mace"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Masse d’armes avancée"
 tier: 3
 category: "Principale"

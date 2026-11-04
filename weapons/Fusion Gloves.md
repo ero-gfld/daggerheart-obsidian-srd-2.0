@@ -3,6 +3,11 @@ aliases:
   - "Fusion Gloves"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Gants de fusion"
 tier: 4
 category: "Principale"

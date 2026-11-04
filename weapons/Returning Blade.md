@@ -3,6 +3,12 @@ aliases:
   - "Returning Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/thrown"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Lame revenante"
 tier: 1
 category: "Principale"

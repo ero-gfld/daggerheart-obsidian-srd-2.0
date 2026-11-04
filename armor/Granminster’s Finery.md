@@ -3,6 +3,11 @@ aliases:
   - "Granminster’s Finery"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Atours de Granminster"
 tier: 3
 thresholds: "11/27"

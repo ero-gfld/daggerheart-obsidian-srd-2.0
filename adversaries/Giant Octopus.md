@@ -3,6 +3,12 @@ aliases:
   - "Giant Octopus"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Pieuvre géante"
 tier: 2
 type: "Solo"

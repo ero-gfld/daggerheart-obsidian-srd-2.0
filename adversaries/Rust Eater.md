@@ -3,6 +3,12 @@ aliases:
   - "Rust Eater"
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Mangeur de rouille"
 tier: 2
 type: "Standard"

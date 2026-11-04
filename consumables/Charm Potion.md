@@ -3,6 +3,13 @@ aliases:
   - "Charm Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/social"
 name: "Potion de charme"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet de Présence."
 roll: 5

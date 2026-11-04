@@ -3,6 +3,11 @@ aliases:
   - "Mountain Pass"
 tags:
   - "daggerheart/environment"
+  - "element/cold"
+  - "mood/wilderness"
+  - "origin/frozen"
+  - "origin/mountain"
+  - "tone/grim"
 name: "Col de montagne"
 tier: 2
 type: "Traversée"

@@ -3,6 +3,10 @@ aliases:
   - "Hand Runes"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Runes de main"
 tier: 1
 category: "Principale"

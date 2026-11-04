@@ -3,6 +3,13 @@ aliases:
   - "Wildrider’s Saddle"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/bulky"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Selle du chevaucheur sauvage"
 effect: "Cette selle permet à tout animal qui la porte de comprendre les ordres de son cavalier."
 roll: 39

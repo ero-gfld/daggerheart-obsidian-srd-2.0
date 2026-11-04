@@ -3,6 +3,13 @@ aliases:
   - "Grapnel"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/handheld"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/travel"
 name: "Grappin"
 effect: "Vous gagnez un avantage aux jets d’action pour escalader les surfaces abruptes."
 roll: 2

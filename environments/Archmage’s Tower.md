@@ -3,6 +3,9 @@ aliases:
   - "Archmage’s Tower"
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/mountain"
+  - "tone/heroic"
 name: "Tour de l’archimage"
 tier: 3
 type: "Exploration"

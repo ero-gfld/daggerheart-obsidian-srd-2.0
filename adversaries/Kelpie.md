@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "element/water"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Kelpie"
 tier: 1
 type: "Furtif"

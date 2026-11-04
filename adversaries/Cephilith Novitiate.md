@@ -3,6 +3,13 @@ aliases:
   - "Cephilith Novitiate"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/horror"
+  - "nature/humanoid"
+  - "origin/otherworldly"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/eerie"
 name: "Novice cephilith"
 tier: 4
 type: "Sbire"

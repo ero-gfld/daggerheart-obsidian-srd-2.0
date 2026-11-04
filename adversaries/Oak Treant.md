@@ -3,6 +3,12 @@ aliases:
   - "Oak Treant"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/huge"
+  - "tone/heroic"
 name: "Ent-chêne"
 tier: 3
 type: "Cogneur"

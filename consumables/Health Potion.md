@@ -3,6 +3,13 @@ aliases:
   - "Health Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/healing"
 name: "Potion de soins"
 effect: "Libérez 1d4+1 PV."
 roll: 19

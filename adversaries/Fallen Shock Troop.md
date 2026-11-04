@@ -3,6 +3,12 @@ aliases:
   - "Fallen Shock Troop"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/medium"
+  - "tone/grim"
 name: "Troupe de choc déchue"
 tier: 4
 type: "Sbire"

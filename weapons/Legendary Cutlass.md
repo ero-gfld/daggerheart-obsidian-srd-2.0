@@ -3,6 +3,11 @@ aliases:
   - "Legendary Cutlass"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coutelas légendaire"
 tier: 4
 category: "Principale"

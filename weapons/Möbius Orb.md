@@ -3,6 +3,11 @@ aliases:
   - "Möbius Orb"
 tags:
   - "daggerheart/weapon"
+  - "family/focus"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Orbe de Möbius"
 tier: 4
 category: "Secondaire"

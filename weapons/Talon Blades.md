@@ -3,6 +3,11 @@ aliases:
   - "Talon Blades"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lames-serres"
 tier: 3
 category: "Principale"

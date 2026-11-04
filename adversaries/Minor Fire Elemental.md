@@ -3,6 +3,12 @@ aliases:
   - "Minor Fire Elemental"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Petit élémentaire de feu"
 tier: 1
 type: "Solo"

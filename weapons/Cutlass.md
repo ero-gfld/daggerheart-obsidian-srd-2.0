@@ -3,6 +3,11 @@ aliases:
   - "Cutlass"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coutelas"
 tier: 1
 category: "Principale"

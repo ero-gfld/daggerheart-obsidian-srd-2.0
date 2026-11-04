@@ -3,6 +3,12 @@ aliases:
   - "Stag Knight"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Chevalier-cerf"
 tier: 3
 type: "Standard"

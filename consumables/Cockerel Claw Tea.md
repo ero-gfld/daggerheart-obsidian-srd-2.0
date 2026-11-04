@@ -3,6 +3,14 @@ aliases:
   - "Cockerel Claw Tea"
 tags:
   - "daggerheart/consumable"
+  - "form/drink"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
+  - "use/stress"
 name: "Thé de griffe de coq"
 effect: "Vous pouvez boire ce thé pour rafraîchir vos aptitudes comme si vous aviez pris un repos long."
 roll: 39

@@ -3,6 +3,12 @@ aliases:
   - "Huge Green Ooze"
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/large"
+  - "tone/eerie"
 name: "Gelée verte géante"
 tier: 3
 type: "Furtif"

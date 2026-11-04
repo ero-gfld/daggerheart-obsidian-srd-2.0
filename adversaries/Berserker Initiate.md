@@ -3,6 +3,11 @@ aliases:
   - "Berserker Initiate"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Berserker initié"
 tier: 2
 type: "Standard"

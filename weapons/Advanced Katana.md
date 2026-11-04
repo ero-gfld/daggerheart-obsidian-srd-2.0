@@ -3,6 +3,11 @@ aliases:
   - "Advanced Katana"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Katana avancé"
 tier: 3
 category: "Principale"

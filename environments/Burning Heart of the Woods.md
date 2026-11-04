@@ -3,6 +3,10 @@ aliases:
   - "Burning Heart of the Woods"
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "mood/wilderness"
+  - "origin/forest"
+  - "tone/eerie"
 name: "Cœur brûlant de la forêt"
 tier: 3
 type: "Exploration"

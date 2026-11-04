@@ -3,6 +3,11 @@ aliases:
   - "Volcanic Eruption"
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "element/poison"
+  - "mood/event"
+  - "origin/mountain"
+  - "tone/grim"
 name: "Éruption volcanique"
 tier: 3
 type: "Événement"

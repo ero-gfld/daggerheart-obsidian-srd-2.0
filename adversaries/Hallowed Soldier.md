@@ -3,6 +3,13 @@ aliases:
   - "Hallowed Soldier"
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/medium"
+  - "tone/heroic"
 name: "Soldat sanctifié"
 tier: 4
 type: "Sbire"

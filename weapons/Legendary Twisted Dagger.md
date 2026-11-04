@@ -3,6 +3,11 @@ aliases:
   - "Legendary Twisted Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Dague tordue légendaire"
 tier: 4
 category: "Principale"

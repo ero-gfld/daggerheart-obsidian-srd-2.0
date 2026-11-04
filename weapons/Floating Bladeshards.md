@@ -3,6 +3,11 @@ aliases:
   - "Floating Bladeshards"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Éclats de lame flottants"
 tier: 4
 category: "Principale"

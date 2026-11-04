@@ -3,6 +3,14 @@ aliases:
   - "Shard of Memory"
 tags:
   - "daggerheart/item"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/knowledge"
 name: "Éclat de mémoire"
 effect: "Une fois par repos long, vous pouvez dépenser 2 Espoir pour rappeler une carte de domaine de votre réserve au lieu de payer son Coût de rappel."
 roll: 52

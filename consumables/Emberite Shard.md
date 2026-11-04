@@ -3,6 +3,14 @@ aliases:
   - "Emberite Shard"
 tags:
   - "daggerheart/consumable"
+  - "element/fire"
+  - "form/gem"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Éclat d’emberite"
 effect: "Choisissez un point à portée Loin. Toutes les cibles à portée Proche de ce point doivent réussir un jet de réaction (16), sans quoi elles subissent 3d6 dégâts magiques et deviennent temporairement Embrasées. Tant qu’elle est Embrasée, une créature doit lancer un d4 chaque fois qu’elle effectue un jet d’action. Sur un résultat de 1, elle marque un Point de vie. Sur un résultat de 4, elle retire l’état Embrasé."
 roll: 35

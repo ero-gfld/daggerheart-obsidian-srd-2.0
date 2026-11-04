@@ -3,6 +3,11 @@ aliases:
   - "Monarch"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Monarque"
 tier: 3
 type: "Social"

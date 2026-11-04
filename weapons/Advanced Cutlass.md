@@ -3,6 +3,11 @@ aliases:
   - "Advanced Cutlass"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coutelas avancé"
 tier: 3
 category: "Principale"

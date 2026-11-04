@@ -3,6 +3,12 @@ aliases:
   - "Gilded Bow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Arc doré"
 tier: 3
 category: "Principale"

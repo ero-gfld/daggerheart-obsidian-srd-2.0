@@ -3,6 +3,11 @@ aliases:
   - "Rapier"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Rapière"
 tier: 1
 category: "Principale"

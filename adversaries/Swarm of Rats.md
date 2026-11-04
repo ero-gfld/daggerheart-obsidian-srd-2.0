@@ -3,6 +3,11 @@ aliases:
   - "Swarm of Rats"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Nuée de rats"
 tier: 1
 type: "Horde"

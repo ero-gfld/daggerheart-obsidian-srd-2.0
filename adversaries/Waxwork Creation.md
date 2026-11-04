@@ -3,6 +3,11 @@ aliases:
   - "Waxwork Creation"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/large"
+  - "tone/comic"
 name: "Créature de cire"
 tier: 1
 type: "Solo"

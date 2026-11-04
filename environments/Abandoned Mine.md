@@ -3,6 +3,10 @@ aliases:
   - "Abandoned Mine"
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/mountain"
+  - "origin/underground"
+  - "tone/grim"
 name: "Mine abandonnée"
 tier: 1
 type: "Traversée"

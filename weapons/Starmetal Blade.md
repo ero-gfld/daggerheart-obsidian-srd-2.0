@@ -3,6 +3,12 @@ aliases:
   - "Starmetal Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Lame d’acier stellaire"
 tier: 4
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Tiny Red Ooze"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Minuscule gelée rouge"
 tier: 1
 type: "Furtif"

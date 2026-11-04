@@ -3,6 +3,11 @@ aliases:
   - "Basilisk"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Basilic"
 tier: 2
 type: "Standard"

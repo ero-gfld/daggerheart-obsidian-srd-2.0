@@ -3,6 +3,12 @@ aliases:
   - "Improved Hallowed Axe"
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Hache sacrée améliorée"
 tier: 2
 category: "Principale"

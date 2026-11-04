@@ -3,6 +3,11 @@ aliases:
   - "Legendary Brigandine Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Brigandine légendaire"
 tier: 4
 thresholds: "13/35"

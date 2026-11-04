@@ -3,6 +3,11 @@ aliases:
   - "Halberd"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hallebarde"
 tier: 1
 category: "Principale"

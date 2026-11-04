@@ -3,6 +3,13 @@ aliases:
   - "Jagged Knife Hexer"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Envoûteur des Lames dentelées"
 tier: 1
 type: "Soutien"

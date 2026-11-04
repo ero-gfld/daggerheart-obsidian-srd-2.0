@@ -3,6 +3,11 @@ aliases:
   - "Improved Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète améliorée"
 tier: 2
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Jumping Root"
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/travel"
 name: "Racine bondissante"
 effect: "Mangez cette racine pour bondir une fois jusqu’à portée Loin, sans avoir à faire de jet."
 roll: 17

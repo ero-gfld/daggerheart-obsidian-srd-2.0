@@ -3,6 +3,13 @@ aliases:
   - "Sword of Light & Flame"
 tags:
   - "daggerheart/weapon"
+  - "element/fire"
+  - "element/light"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée de lumière et de flamme"
 tier: 4
 category: "Principale"

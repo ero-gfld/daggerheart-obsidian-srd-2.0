@@ -3,6 +3,11 @@ aliases:
   - "Advanced Dualstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bâton double avancé"
 tier: 3
 category: "Principale"

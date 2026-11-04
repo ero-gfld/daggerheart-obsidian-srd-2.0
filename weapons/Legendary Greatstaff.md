@@ -3,6 +3,11 @@ aliases:
   - "Legendary Greatstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Grand bâton légendaire"
 tier: 4
 category: "Principale"

@@ -3,6 +3,10 @@ aliases:
   - "Cult Ritual"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "mood/sacred"
+  - "origin/ruins"
+  - "tone/grim"
 name: "Rituel de culte"
 tier: 2
 type: "Événement"

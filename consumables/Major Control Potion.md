@@ -3,6 +3,13 @@ aliases:
   - "Major Control Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Potion de contrôle majeure"
 effect: "Vous gagnez un bonus de +1 à votre Finesse jusqu’à votre prochain repos."
 roll: 27

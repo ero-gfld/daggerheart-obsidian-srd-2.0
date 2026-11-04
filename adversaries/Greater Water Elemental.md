@@ -3,6 +3,13 @@ aliases:
   - "Greater Water Elemental"
 tags:
   - "daggerheart/adversary"
+  - "element/water"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "origin/sea"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Grand élémentaire d’eau"
 tier: 3
 type: "Soutien"

@@ -3,6 +3,12 @@ aliases:
   - "Spiked Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bouclier à pointes"
 tier: 2
 category: "Secondaire"

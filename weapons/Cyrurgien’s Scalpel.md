@@ -3,6 +3,11 @@ aliases:
   - "Cyrurgien’s Scalpel"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Scalpel du Cyrurgien"
 tier: 2
 category: "Principale"

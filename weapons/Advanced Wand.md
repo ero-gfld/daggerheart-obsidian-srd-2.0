@@ -3,6 +3,11 @@ aliases:
   - "Advanced Wand"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Baguette avancée"
 tier: 3
 category: "Principale"

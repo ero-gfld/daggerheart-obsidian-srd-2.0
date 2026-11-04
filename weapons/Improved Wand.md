@@ -3,6 +3,11 @@ aliases:
   - "Improved Wand"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Baguette améliorée"
 tier: 2
 category: "Principale"

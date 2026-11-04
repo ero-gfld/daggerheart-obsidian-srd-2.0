@@ -3,6 +3,13 @@ aliases:
   - "Stamina Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/stress"
 name: "Potion d’endurance"
 effect: "Évacuez 1d4+1 Stress."
 roll: 20

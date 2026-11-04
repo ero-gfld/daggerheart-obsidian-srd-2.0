@@ -3,6 +3,11 @@ aliases:
   - "Legendary Rune Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bouclier runique légendaire"
 tier: 4
 category: "Secondaire"

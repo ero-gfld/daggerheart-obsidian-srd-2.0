@@ -3,6 +3,13 @@ aliases:
   - "Stride Relic"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Relique de foulée"
 effect: "Vous gagnez un bonus de +1 à votre Agilité. Vous ne pouvez porter qu’une seule relique."
 roll: 41

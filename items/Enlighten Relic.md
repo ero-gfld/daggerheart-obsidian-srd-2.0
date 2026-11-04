@@ -3,6 +3,13 @@ aliases:
   - "Enlighten Relic"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Relique d’illumination"
 effect: "Vous gagnez un bonus de +1 à votre Savoir. Vous ne pouvez porter qu’une seule relique."
 roll: 46

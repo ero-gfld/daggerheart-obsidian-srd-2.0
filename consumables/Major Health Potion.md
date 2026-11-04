@@ -3,6 +3,13 @@ aliases:
   - "Major Health Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/healing"
 name: "Potion de soins majeure"
 effect: "Libérez 1d4+2 PV."
 roll: 43

@@ -3,6 +3,12 @@ aliases:
   - "Advanced Gambeson Armor"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Gambison avancé"
 tier: 3
 thresholds: "9/23"

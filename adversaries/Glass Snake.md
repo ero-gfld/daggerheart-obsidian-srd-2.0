@@ -3,6 +3,11 @@ aliases:
   - "Glass Snake"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Serpent de verre"
 tier: 1
 type: "Standard"

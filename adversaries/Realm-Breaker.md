@@ -3,6 +3,13 @@ aliases:
   - "Realm-Breaker"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "origin/otherworldly"
+  - "role/noble"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Briseur de royaumes"
 tier: 4
 type: "Solo"

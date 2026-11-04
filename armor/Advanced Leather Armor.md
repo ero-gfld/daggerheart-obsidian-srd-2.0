@@ -3,6 +3,12 @@ aliases:
   - "Advanced Leather Armor"
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/leather"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure de cuir avancée"
 tier: 3
 thresholds: "11/27"

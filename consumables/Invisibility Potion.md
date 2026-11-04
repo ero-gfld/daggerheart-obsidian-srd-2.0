@@ -3,6 +3,13 @@ aliases:
   - "Invisibility Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stealth"
 name: "Potion d’invisibilité"
 effect: "Vous êtes Caché jusqu’à ce que vous infligiez des dégâts à une autre créature ou jusqu’à votre prochain repos."
 roll: 47

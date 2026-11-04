@@ -3,6 +3,12 @@ aliases:
   - "Cloverweave Cloak"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Cape tissée de trèfle"
 tier: 3
 thresholds: "11/27"

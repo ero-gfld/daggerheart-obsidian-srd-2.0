@@ -3,6 +3,12 @@ aliases:
   - "Legendary Chainmail Armor"
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte de mailles légendaire"
 tier: 4
 thresholds: "15/40"

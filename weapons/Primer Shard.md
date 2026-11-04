@@ -3,6 +3,10 @@ aliases:
   - "Primer Shard"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Éclat d’amorce"
 tier: 4
 category: "Secondaire"

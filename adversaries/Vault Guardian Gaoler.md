@@ -3,6 +3,12 @@ aliases:
   - "Vault Guardian Gaoler"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/large"
+  - "tone/grim"
 name: "Geôlier de la Voûte"
 tier: 3
 type: "Soutien"

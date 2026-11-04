@@ -3,6 +3,11 @@ aliases:
   - "Legendary Battleaxe"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hache de bataille légendaire"
 tier: 4
 category: "Principale"

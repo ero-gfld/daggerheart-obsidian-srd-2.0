@@ -3,6 +3,11 @@ aliases:
   - "Berserker Alpha"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Berserker alpha"
 tier: 2
 type: "Meneur"

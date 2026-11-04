@@ -3,6 +3,11 @@ aliases:
   - "Legendary Scale Mail Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte d’écailles légendaire"
 tier: 4
 thresholds: "15/39"

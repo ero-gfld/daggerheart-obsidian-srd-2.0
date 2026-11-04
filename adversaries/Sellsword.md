@@ -3,6 +3,11 @@ aliases:
   - "Sellsword"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Mercenaire"
 tier: 1
 type: "Sbire"

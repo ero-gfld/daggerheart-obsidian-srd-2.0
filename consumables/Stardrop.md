@@ -3,6 +3,13 @@ aliases:
   - "Stardrop"
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Goutte d’étoile"
 effect: "Vous pouvez utiliser cette goutte d’étoile pour invoquer une grêle de comètes qui inflige 8d20 dégâts physiques à toutes les cibles à portée Très loin."
 roll: 60

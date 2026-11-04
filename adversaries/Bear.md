@@ -3,6 +3,12 @@ aliases:
   - "Bear"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Ours"
 tier: 1
 type: "Cogneur"

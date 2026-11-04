@@ -3,6 +3,12 @@ aliases:
   - "Masked Thief"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/whimsical"
 name: "Voleur masqué"
 tier: 2
 type: "Furtif"

@@ -3,6 +3,13 @@ aliases:
   - "Augur’s Relic"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Relique de l’augure"
 effect: "Une fois par repos long, vous pouvez activer votre aptitude d’Espoir sans dépenser d’Espoir. Vous ne pouvez porter qu’une seule relique."
 roll: 60

@@ -3,6 +3,11 @@ aliases:
   - "Broadsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée large"
 tier: 1
 category: "Principale"

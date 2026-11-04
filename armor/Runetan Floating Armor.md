@@ -3,6 +3,10 @@ aliases:
   - "Runetan Floating Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Armure flottante runetane"
 tier: 2
 thresholds: "9/20"

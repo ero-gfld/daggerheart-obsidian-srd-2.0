@@ -3,6 +3,13 @@ aliases:
   - "Major Charm Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/social"
 name: "Potion de charme majeure"
 effect: "Vous gagnez un bonus de +1 à votre Présence jusqu’à votre prochain repos."
 roll: 29

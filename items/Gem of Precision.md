@@ -3,6 +3,14 @@ aliases:
   - "Gem of Precision"
 tags:
   - "daggerheart/item"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Gemme de précision"
 effect: "Vous pouvez fixer cette gemme sur une arme, ce qui vous permet d’utiliser votre Finesse lorsque vous attaquez avec cette arme."
 roll: 55

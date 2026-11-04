@@ -3,6 +3,12 @@ aliases:
   - "Astral Raiment"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Atour astral"
 tier: 3
 thresholds: "11/27"

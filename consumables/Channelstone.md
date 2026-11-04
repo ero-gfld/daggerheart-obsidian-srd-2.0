@@ -3,6 +3,13 @@ aliases:
   - "Channelstone"
 tags:
   - "daggerheart/consumable"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Pierre conductrice"
 effect: "Vous pouvez utiliser cette pierre pour prendre un sort ou un grimoire dans votre réserve, l’utiliser une fois, puis le remettre dans votre réserve."
 roll: 34

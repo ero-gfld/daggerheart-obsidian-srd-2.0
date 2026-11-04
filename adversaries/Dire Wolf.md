@@ -3,6 +3,12 @@ aliases:
   - "Dire Wolf"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Loup redoutable"
 tier: 1
 type: "Furtif"

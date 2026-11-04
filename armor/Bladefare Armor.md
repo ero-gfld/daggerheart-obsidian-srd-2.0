@@ -3,6 +3,10 @@ aliases:
   - "Bladefare Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure Bladefare"
 tier: 3
 thresholds: "16/39"

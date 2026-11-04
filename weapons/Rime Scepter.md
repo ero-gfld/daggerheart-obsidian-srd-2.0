@@ -3,6 +3,12 @@ aliases:
   - "Rime Scepter"
 tags:
   - "daggerheart/weapon"
+  - "element/cold"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sceptre de givre"
 tier: 3
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Elundrian Chain Armor"
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Cotte de mailles elundrienne"
 tier: 2
 thresholds: "9/21"

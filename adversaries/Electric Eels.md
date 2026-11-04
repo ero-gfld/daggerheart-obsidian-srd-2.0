@@ -3,6 +3,13 @@ aliases:
   - "Electric Eels"
 tags:
   - "daggerheart/adversary"
+  - "element/lightning"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/small"
+  - "tone/grim"
 name: "Anguilles électriques"
 tier: 2
 type: "Horde"

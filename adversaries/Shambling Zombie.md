@@ -3,6 +3,11 @@ aliases:
   - "Shambling Zombie"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Zombie traînant"
 tier: 1
 type: "Standard"

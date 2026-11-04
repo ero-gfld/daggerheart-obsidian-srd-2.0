@@ -3,6 +3,11 @@ aliases:
   - "Falcon"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/tiny"
+  - "tone/grim"
 name: "Faucon"
 tier: 1
 type: "Furtif"

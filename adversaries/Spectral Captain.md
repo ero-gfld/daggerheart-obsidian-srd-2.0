@@ -3,6 +3,12 @@ aliases:
   - "Spectral Captain"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/noble"
+  - "size/medium"
+  - "tone/eerie"
 name: "Capitaine spectral"
 tier: 2
 type: "Meneur"

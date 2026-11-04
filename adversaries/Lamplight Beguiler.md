@@ -3,6 +3,12 @@ aliases:
   - "Lamplight Beguiler"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/eerie"
 name: "Enjôleur à la lanterne"
 tier: 3
 type: "Furtif"

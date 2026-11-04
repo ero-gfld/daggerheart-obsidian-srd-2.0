@@ -3,6 +3,11 @@ aliases:
   - "Improved Hatchet"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hachette améliorée"
 tier: 2
 category: "Secondaire"

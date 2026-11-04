@@ -3,6 +3,18 @@ aliases:
   - "Dragon Mother Mitera"
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "element/cold"
+  - "element/fire"
+  - "element/light"
+  - "element/lightning"
+  - "element/poison"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Mère-dragon Mitera"
 tier: 4
 type: "Solo"

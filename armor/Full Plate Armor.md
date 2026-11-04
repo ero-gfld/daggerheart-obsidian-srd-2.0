@@ -3,6 +3,12 @@ aliases:
   - "Full Plate Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure de plates complète"
 tier: 1
 thresholds: "8/17"

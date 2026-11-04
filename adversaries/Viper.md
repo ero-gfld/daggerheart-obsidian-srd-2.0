@@ -3,6 +3,12 @@ aliases:
   - "Viper"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Vipère"
 tier: 1
 type: "Sbire"

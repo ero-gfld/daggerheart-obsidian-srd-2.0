@@ -3,6 +3,12 @@ aliases:
   - "Guahalan Spirit Singer"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Chanteur d’esprits guahalan"
 tier: 2
 type: "Soutien"

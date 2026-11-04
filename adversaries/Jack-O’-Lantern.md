@@ -3,6 +3,11 @@ aliases:
   - "Jack-O’-Lantern"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/small"
+  - "tone/whimsical"
 name: "Jack-o’-lantern"
 tier: 2
 type: "Sbire"

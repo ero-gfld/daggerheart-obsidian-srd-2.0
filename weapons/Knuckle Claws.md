@@ -3,6 +3,12 @@ aliases:
   - "Knuckle Claws"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Griffes de poing"
 tier: 4
 category: "Secondaire"

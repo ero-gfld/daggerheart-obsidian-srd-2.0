@@ -3,6 +3,12 @@ aliases:
   - "Centaur Warden"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/guard"
+  - "size/large"
+  - "tone/heroic"
 name: "Centaure gardien"
 tier: 2
 type: "Tireur"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Returning Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Lame revenante améliorée"
 tier: 2
 category: "Principale"

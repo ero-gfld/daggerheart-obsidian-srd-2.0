@@ -3,6 +3,11 @@ aliases:
   - "Hammer of Wrath"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Marteau de la colère"
 tier: 3
 category: "Principale"

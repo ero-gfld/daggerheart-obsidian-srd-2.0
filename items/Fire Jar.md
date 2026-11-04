@@ -3,6 +3,14 @@ aliases:
   - "Fire Jar"
 tags:
   - "daggerheart/item"
+  - "element/fire"
+  - "form/container"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Jarre de feu"
 effect: "Vous pouvez verser le liquide étrange contenu dans cette jarre pour produire instantanément du feu. Le contenu se régénère lorsque vous prenez un repos long."
 roll: 9

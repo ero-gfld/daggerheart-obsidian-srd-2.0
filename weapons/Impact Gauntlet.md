@@ -3,6 +3,11 @@ aliases:
   - "Impact Gauntlet"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Gantelet de choc"
 tier: 4
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Fungispunj Sporophore"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/plant"
+  - "role/guardian"
+  - "size/large"
+  - "tone/eerie"
 name: "Sporophore fungispunj"
 tier: 2
 type: "Meneur"

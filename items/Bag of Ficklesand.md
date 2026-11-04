@@ -3,6 +3,15 @@ aliases:
   - "Bag of Ficklesand"
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "form/powder"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/combat"
+  - "use/utility"
 name: "Sac de sable capricieux"
 effect: "En réussissant un jet de Présence (10), vous pouvez rendre ce petit sac de sable beaucoup plus lourd ou plus léger. De plus, en réussissant un jet de Finesse (10), vous pouvez souffler un peu de sable au visage d’une cible pour la rendre temporairement Vulnérable."
 roll: 31

@@ -3,6 +3,11 @@ aliases:
   - "Legendary Greatsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Espadon légendaire"
 tier: 4
 category: "Principale"

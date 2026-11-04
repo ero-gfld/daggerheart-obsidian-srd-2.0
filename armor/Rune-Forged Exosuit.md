@@ -3,6 +3,10 @@ aliases:
   - "Rune-Forged Exosuit"
 tags:
   - "daggerheart/armor"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Exosquelette forgé aux runes"
 tier: 4
 thresholds: "12/39"

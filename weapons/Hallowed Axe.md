@@ -3,6 +3,12 @@ aliases:
   - "Hallowed Axe"
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Hache sacrée"
 tier: 1
 category: "Principale"

@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Poltergeist"
 tier: 1
 type: "Tireur"

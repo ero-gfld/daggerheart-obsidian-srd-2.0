@@ -3,6 +3,11 @@ aliases:
   - "Mortal Hunter"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Chasseur mortel"
 tier: 2
 type: "Meneur"

@@ -3,6 +3,13 @@ aliases:
   - "Young Ice Dragon"
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/frozen"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Jeune dragon de glace"
 tier: 3
 type: "Solo"

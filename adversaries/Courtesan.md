@@ -3,6 +3,12 @@ aliases:
   - "Courtesan"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Courtisane"
 tier: 2
 type: "Social"

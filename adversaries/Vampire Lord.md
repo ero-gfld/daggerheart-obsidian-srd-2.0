@@ -3,6 +3,13 @@ aliases:
   - "Vampire Lord"
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Seigneur vampire"
 tier: 3
 type: "Solo"

@@ -3,6 +3,11 @@ aliases:
   - "Scepter of Elias"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sceptre d’Elias"
 tier: 2
 category: "Principale"

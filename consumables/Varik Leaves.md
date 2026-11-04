@@ -3,6 +3,13 @@ aliases:
   - "Varik Leaves"
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/hope"
 name: "Feuilles de Varik"
 effect: "Mangez ces feuilles jumelles pour gagner immédiatement 2 Espoir."
 roll: 10

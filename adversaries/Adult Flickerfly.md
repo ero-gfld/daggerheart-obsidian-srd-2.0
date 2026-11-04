@@ -3,6 +3,12 @@ aliases:
   - "Adult Flickerfly"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Papillon scintillant adulte"
 tier: 3
 type: "Solo"

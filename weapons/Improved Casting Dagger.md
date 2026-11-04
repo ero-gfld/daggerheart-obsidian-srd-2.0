@@ -3,6 +3,11 @@ aliases:
   - "Improved Casting Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Dague d’incantation améliorée"
 tier: 2
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Assassin Poisoner"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Assassin empoisonneur"
 tier: 2
 type: "Furtif"

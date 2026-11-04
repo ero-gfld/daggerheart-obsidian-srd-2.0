@@ -3,6 +3,11 @@ aliases:
   - "Cult Initiate"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/cultist"
+  - "size/medium"
+  - "tone/grim"
 name: "Initié du culte"
 tier: 2
 type: "Sbire"

@@ -3,6 +3,11 @@ aliases:
   - "Legendary Hatchet"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hachette légendaire"
 tier: 4
 category: "Secondaire"

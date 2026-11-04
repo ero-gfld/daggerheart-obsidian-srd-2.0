@@ -3,6 +3,11 @@ aliases:
   - "Bravesword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée du brave"
 tier: 3
 category: "Principale"

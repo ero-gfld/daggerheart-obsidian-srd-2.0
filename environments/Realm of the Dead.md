@@ -3,6 +3,11 @@ aliases:
   - "Realm of the Dead"
 tags:
   - "daggerheart/environment"
+  - "element/shadow"
+  - "mood/sacred"
+  - "mood/wilderness"
+  - "origin/otherworldly"
+  - "tone/grim"
 name: "Royaume des morts"
 tier: 4
 type: "Traversée"

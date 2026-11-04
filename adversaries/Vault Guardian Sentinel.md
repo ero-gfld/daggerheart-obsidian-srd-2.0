@@ -3,6 +3,12 @@ aliases:
   - "Vault Guardian Sentinel"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/large"
+  - "tone/grim"
 name: "Sentinelle de la Voûte"
 tier: 3
 type: "Cogneur"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dague améliorée"
 tier: 2
 category: "Principale"

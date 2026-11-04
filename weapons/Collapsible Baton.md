@@ -3,6 +3,11 @@ aliases:
   - "Collapsible Baton"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton télescopique"
 tier: 2
 category: "Secondaire"

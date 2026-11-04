@@ -3,6 +3,12 @@ aliases:
   - "Giant Scorpion"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Scorpion géant"
 tier: 1
 type: "Cogneur"

@@ -3,6 +3,11 @@ aliases:
   - "Harrier"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Harceleur"
 tier: 1
 type: "Standard"

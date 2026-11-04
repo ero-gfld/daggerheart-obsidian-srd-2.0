@@ -3,6 +3,13 @@ aliases:
   - "Staff of Reversal"
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Bâton d’inversion"
 effect: "Vous pouvez briser ce bâton contre le sol pour inverser une transformation magique ou un effet à portée Loin."
 roll: 33

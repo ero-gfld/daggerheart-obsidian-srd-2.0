@@ -3,6 +3,12 @@ aliases:
   - "Harbinger of Death"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Avant-coureur de la Mort"
 tier: 4
 type: "Furtif"

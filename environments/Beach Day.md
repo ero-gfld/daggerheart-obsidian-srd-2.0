@@ -3,6 +3,9 @@ aliases:
   - "Beach Day"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/sea"
+  - "tone/whimsical"
 name: "Journée à la plage"
 tier: 2
 type: "Social"

@@ -3,6 +3,11 @@ aliases:
   - "Undefeated Champion"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Champion invaincu"
 tier: 4
 type: "Solo"

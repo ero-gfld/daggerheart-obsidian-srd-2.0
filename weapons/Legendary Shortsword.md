@@ -3,6 +3,11 @@ aliases:
   - "Legendary Shortsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée courte légendaire"
 tier: 4
 category: "Secondaire"

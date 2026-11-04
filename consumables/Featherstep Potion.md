@@ -3,6 +3,14 @@ aliases:
   - "Featherstep Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/defense"
+  - "use/travel"
 name: "Potion de pas de plume"
 effect: "Vous pouvez boire cette potion pour faire pousser de petites ailes à vos chevilles, ce qui vous donne un bonus à votre Évasion égal à votre rang jusqu’à votre prochain repos."
 roll: 60

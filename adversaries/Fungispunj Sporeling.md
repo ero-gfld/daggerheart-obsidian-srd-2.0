@@ -3,6 +3,12 @@ aliases:
   - "Fungispunj Sporeling"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/mindless"
+  - "nature/plant"
+  - "role/minion"
+  - "size/small"
+  - "tone/eerie"
 name: "Germe fungispunj"
 tier: 2
 type: "Sbire"

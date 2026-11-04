@@ -3,6 +3,11 @@ aliases:
   - "Harrowbone Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/bone"
+  - "tech/primitive"
+  - "tone/grim"
 name: "Armure d’os tourmentés"
 tier: 2
 thresholds: "9/21"

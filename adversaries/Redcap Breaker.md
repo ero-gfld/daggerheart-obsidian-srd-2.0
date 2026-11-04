@@ -3,6 +3,11 @@ aliases:
   - "Redcap Breaker"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Briseur bonnet-rouge"
 tier: 1
 type: "Cogneur"

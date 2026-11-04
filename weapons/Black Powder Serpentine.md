@@ -3,6 +3,12 @@ aliases:
   - "Black Powder Serpentine"
 tags:
   - "daggerheart/weapon"
+  - "element/fire"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/grim"
 name: "Serpentine à poudre noire"
 tier: 4
 category: "Principale"

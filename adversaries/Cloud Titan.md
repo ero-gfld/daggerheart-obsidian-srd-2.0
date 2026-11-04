@@ -3,6 +3,12 @@ aliases:
   - "Cloud Titan"
 tags:
   - "daggerheart/adversary"
+  - "element/air"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/noble"
+  - "size/huge"
+  - "tone/whimsical"
 name: "Titan des nuages"
 tier: 4
 type: "Social"

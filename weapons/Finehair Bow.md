@@ -3,6 +3,11 @@ aliases:
   - "Finehair Bow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc de crin fin"
 tier: 2
 category: "Principale"

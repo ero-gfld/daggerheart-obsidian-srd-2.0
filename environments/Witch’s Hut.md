@@ -3,6 +3,9 @@ aliases:
   - "Witch’s Hut"
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/forest"
+  - "tone/eerie"
 name: "Cabane de sorcière"
 tier: 2
 type: "Exploration"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Shortsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée courte améliorée"
 tier: 2
 category: "Secondaire"

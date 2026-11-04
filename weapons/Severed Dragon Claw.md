@@ -3,6 +3,12 @@ aliases:
   - "Severed Dragon Claw"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/bone"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Griffe de dragon sectionnée"
 tier: 4
 category: "Principale"

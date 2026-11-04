@@ -3,6 +3,12 @@ aliases:
   - "Fellmounted Shadow King"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/noble"
+  - "size/large"
+  - "tone/eerie"
 name: "Roi des ombres monté"
 tier: 3
 type: "Soutien"

@@ -3,6 +3,12 @@ aliases:
   - "Monett’s Cloak"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Cape de Monett"
 tier: 3
 thresholds: "16/39"

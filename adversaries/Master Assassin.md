@@ -3,6 +3,11 @@ aliases:
   - "Master Assassin"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Maître assassin"
 tier: 2
 type: "Meneur"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Small Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Petite dague avancée"
 tier: 3
 category: "Secondaire"

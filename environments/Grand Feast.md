@@ -3,6 +3,9 @@ aliases:
   - "Grand Feast"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/comic"
 name: "Grand festin"
 tier: 1
 type: "Social"

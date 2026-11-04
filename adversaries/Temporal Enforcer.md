@@ -3,6 +3,12 @@ aliases:
   - "Temporal Enforcer"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/otherworldly"
+  - "role/guardian"
+  - "size/huge"
+  - "tone/grim"
 name: "Exécuteur temporel"
 tier: 4
 type: "Cogneur"

@@ -3,6 +3,13 @@ aliases:
   - "Entombed Necropriest"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Nécroprêtre des tombes"
 tier: 2
 type: "Soutien"

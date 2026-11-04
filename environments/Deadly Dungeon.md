@@ -3,6 +3,9 @@ aliases:
   - "Deadly Dungeon"
 tags:
   - "daggerheart/environment"
+  - "mood/dungeon"
+  - "origin/underground"
+  - "tone/grim"
 name: "Donjon mortel"
 tier: 2
 type: "Exploration"

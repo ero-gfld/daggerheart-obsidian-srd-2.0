@@ -3,6 +3,12 @@ aliases:
   - "Deep-Forged Coral Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/bone"
+  - "origin/sea"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Armure de corail forgée en profondeur"
 tier: 3
 thresholds: "13/35"

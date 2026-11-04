@@ -3,6 +3,11 @@ aliases:
   - "Improved Shortstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bâton court amélioré"
 tier: 2
 category: "Principale"

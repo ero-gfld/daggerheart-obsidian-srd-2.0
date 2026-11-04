@@ -3,6 +3,11 @@ aliases:
   - "Legendary Halberd"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hallebarde légendaire"
 tier: 4
 category: "Principale"

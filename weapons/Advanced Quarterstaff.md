@@ -3,6 +3,11 @@ aliases:
   - "Advanced Quarterstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton de combat avancé"
 tier: 3
 category: "Principale"

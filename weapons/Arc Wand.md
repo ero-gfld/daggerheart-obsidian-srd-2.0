@@ -3,6 +3,12 @@ aliases:
   - "Arc Wand"
 tags:
   - "daggerheart/weapon"
+  - "element/lightning"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Baguette d’arc"
 tier: 3
 category: "Principale"

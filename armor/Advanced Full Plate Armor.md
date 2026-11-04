@@ -3,6 +3,12 @@ aliases:
   - "Advanced Full Plate Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure de plates complète avancée"
 tier: 3
 thresholds: "15/35"

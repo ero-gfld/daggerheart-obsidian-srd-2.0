@@ -3,6 +3,11 @@ aliases:
   - "Arcane Gauntlets"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Gantelets arcaniques"
 tier: 1
 category: "Principale"

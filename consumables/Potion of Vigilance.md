@@ -3,6 +3,13 @@ aliases:
   - "Potion of Vigilance"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Potion de vigilance"
 effect: "Vous pouvez boire cette potion pour gagner un bonus de +1 à votre Évasion jusqu’à ce que vous marquiez un Point de vie."
 roll: 40

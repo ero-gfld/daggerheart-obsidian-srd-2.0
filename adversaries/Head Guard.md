@@ -3,6 +3,12 @@ aliases:
   - "Head Guard"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/guard"
+  - "size/medium"
+  - "tone/heroic"
 name: "Garde en chef"
 tier: 1
 type: "Meneur"

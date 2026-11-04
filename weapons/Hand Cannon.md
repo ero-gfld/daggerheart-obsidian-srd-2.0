@@ -3,6 +3,11 @@ aliases:
   - "Hand Cannon"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Canon de main"
 tier: 4
 category: "Principale"

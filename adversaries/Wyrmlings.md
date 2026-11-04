@@ -3,6 +3,11 @@ aliases:
   - "Wyrmlings"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Vermisseaux"
 tier: 4
 type: "Horde"

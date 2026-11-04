@@ -3,6 +3,11 @@ aliases:
   - "Sledge Axe"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Hache-masse"
 tier: 4
 category: "Principale"

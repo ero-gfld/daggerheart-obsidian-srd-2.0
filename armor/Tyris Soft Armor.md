@@ -3,6 +3,10 @@ aliases:
   - "Tyris Soft Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure souple de Tyris"
 tier: 2
 thresholds: "8/18"

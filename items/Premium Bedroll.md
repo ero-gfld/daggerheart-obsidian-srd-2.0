@@ -3,6 +3,14 @@ aliases:
   - "Premium Bedroll"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "size/handheld"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/stress"
 name: "Couchage de luxe"
 effect: "Pendant le temps de repos, vous évacuez automatiquement un Stress."
 roll: 1

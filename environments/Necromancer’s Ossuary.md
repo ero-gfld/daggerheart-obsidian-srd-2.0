@@ -3,6 +3,10 @@ aliases:
   - "Necromancer’s Ossuary"
 tags:
   - "daggerheart/environment"
+  - "element/shadow"
+  - "mood/dungeon"
+  - "origin/ruins"
+  - "tone/grim"
 name: "Ossuaire du nécromancien"
 tier: 4
 type: "Exploration"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Greatstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Grand bâton avancé"
 tier: 3
 category: "Principale"

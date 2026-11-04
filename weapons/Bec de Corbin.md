@@ -3,6 +3,11 @@ aliases:
   - "Bec de Corbin"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bec-de-corbin"
 tier: 4
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Redcap Biters"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/fey"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Mordeurs bonnet-rouge"
 tier: 1
 type: "Horde"

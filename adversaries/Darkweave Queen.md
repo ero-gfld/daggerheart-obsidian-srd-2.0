@@ -3,6 +3,12 @@ aliases:
   - "Darkweave Queen"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/eerie"
 name: "Reine tisse-ténèbres"
 tier: 1
 type: "Solo"

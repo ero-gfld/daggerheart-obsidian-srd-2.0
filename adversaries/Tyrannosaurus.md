@@ -3,6 +3,12 @@ aliases:
   - "Tyrannosaurus"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Tyrannosaure"
 tier: 2
 type: "Cogneur"

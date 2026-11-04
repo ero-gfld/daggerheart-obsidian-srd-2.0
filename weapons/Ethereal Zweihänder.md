@@ -3,6 +3,11 @@ aliases:
   - "Ethereal Zweihänder"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Zweihänder éthéré"
 tier: 4
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Stake of Abjuration"
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/defense"
 name: "Pieu d’abjuration"
 effect: "Vous pouvez enfoncer ce pieu dans le sol et prononcer une proclamation. Jusqu’à votre prochain repos, une créature située à portée Loin du pieu qui enfreint cette proclamation doit marquer un Stress. Le pieu dure jusqu’à votre prochain repos, puis il se brise."
 roll: 43

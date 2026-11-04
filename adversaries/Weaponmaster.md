@@ -3,6 +3,11 @@ aliases:
   - "Weaponmaster"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Maître d’armes"
 tier: 1
 type: "Cogneur"

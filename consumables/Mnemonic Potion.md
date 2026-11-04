@@ -3,6 +3,13 @@ aliases:
   - "Mnemonic Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/knowledge"
 name: "Potion mnémonique"
 effect: "Vous pouvez boire cette potion pour Utiliser une Expérience sans dépenser d’Espoir."
 roll: 27

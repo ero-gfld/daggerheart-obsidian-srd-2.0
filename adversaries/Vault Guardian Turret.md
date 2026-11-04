@@ -3,6 +3,12 @@ aliases:
   - "Vault Guardian Turret"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/huge"
+  - "tone/grim"
 name: "Tourelle de la Voûte"
 tier: 3
 type: "Tireur"

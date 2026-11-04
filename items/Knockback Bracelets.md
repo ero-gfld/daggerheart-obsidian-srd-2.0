@@ -3,6 +3,13 @@ aliases:
   - "Knockback Bracelets"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Bracelets de recul"
 effect: "En cas de réussite d’une attaque avec une arme, vous pouvez repousser votre cible jusqu’à une distance Proche de sa position."
 roll: 44

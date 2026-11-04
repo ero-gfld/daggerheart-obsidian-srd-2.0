@@ -3,6 +3,12 @@ aliases:
   - "Knuckle Blades"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lames de poing"
 tier: 2
 category: "Principale"

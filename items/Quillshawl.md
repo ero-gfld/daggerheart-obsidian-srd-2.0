@@ -3,6 +3,14 @@ aliases:
   - "Quillshawl"
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/defense"
 name: "Châle-plume"
 effect: "Si un adversaire vous attaque à portée de Mêlée, il doit réussir un jet de réaction (12) ou marquer un Point de vie."
 roll: 56

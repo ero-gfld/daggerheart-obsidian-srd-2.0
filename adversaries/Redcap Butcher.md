@@ -3,6 +3,11 @@ aliases:
   - "Redcap Butcher"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "role/bandit"
+  - "size/small"
+  - "tone/grim"
 name: "Boucher bonnet-rouge"
 tier: 1
 type: "Standard"

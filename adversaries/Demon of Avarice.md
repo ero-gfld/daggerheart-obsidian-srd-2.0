@@ -3,6 +3,12 @@ aliases:
   - "Demon of Avarice"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/noble"
+  - "size/large"
+  - "tone/grim"
 name: "Démon de l’Avarice"
 tier: 3
 type: "Soutien"

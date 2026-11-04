@@ -3,6 +3,9 @@ aliases:
   - "Local Tavern"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/heroic"
 name: "Taverne locale"
 tier: 1
 type: "Social"

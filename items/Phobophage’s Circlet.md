@@ -3,6 +3,13 @@ aliases:
   - "Phobophage’s Circlet"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stress"
 name: "Diadème du phobophage"
 effect: "Lorsque le MJ dépense une Peur, lancez un d4. Une fois par scène, sur un résultat de 4, vous évacuez un Stress."
 roll: 55

@@ -3,6 +3,13 @@ aliases:
   - "Empty Chest"
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "size/bulky"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Coffre vide"
 effect: "Ce coffre magique semble vide. Lorsque vous prononcez un mot ou accomplissez une action déclencheurs précis puis ouvrez le coffre, vous pouvez voir les objets qu’il renferme."
 roll: 12

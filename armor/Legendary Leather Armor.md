@@ -3,6 +3,12 @@ aliases:
   - "Legendary Leather Armor"
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/leather"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure de cuir légendaire"
 tier: 4
 thresholds: "13/36"

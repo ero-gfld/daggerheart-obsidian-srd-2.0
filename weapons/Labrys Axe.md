@@ -3,6 +3,11 @@ aliases:
   - "Labrys Axe"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hache labrys"
 tier: 3
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Gunblade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée-fusil"
 tier: 3
 category: "Principale"

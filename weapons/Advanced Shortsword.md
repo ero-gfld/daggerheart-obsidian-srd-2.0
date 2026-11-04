@@ -3,6 +3,11 @@ aliases:
   - "Advanced Shortsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée courte avancée"
 tier: 3
 category: "Secondaire"

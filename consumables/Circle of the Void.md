@@ -3,6 +3,14 @@ aliases:
   - "Circle of the Void"
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/restricted"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/defense"
 name: "Cercle du vide"
 effect: "Marquez un Stress pour créer un vide qui s’étend jusqu’à portée Loin. Aucune magie ne peut être lancée à l’intérieur du vide, et les créatures qui s’y trouvent bénéficient de l’immunité contre les dégâts magiques."
 roll: 40

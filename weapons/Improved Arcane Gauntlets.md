@@ -3,6 +3,11 @@ aliases:
   - "Improved Arcane Gauntlets"
 tags:
   - "daggerheart/weapon"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Gantelets arcaniques améliorés"
 tier: 2
 category: "Principale"

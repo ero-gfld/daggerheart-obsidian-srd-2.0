@@ -3,6 +3,12 @@ aliases:
   - "Tiny Green Ooze"
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Minuscule gelée verte"
 tier: 1
 type: "Furtif"

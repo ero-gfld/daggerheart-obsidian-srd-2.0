@@ -3,6 +3,11 @@ aliases:
   - "Legendary Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dague légendaire"
 tier: 4
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Tower Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Pavois avancé"
 tier: 3
 category: "Secondaire"

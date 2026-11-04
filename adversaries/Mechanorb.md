@@ -3,6 +3,12 @@ aliases:
   - "Mechanorb"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Mécanorbe"
 tier: 1
 type: "Standard"

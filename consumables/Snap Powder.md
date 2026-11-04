@@ -3,6 +3,13 @@ aliases:
   - "Snap Powder"
 tags:
   - "daggerheart/consumable"
+  - "form/powder"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/healing"
 name: "Poudre crépitante"
 effect: "Marquez un Stress et libérez un PV."
 roll: 18

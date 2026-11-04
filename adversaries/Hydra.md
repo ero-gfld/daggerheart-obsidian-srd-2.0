@@ -3,6 +3,11 @@ aliases:
   - "Hydra"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Hydre"
 tier: 3
 type: "Solo"

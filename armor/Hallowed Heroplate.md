@@ -3,6 +3,13 @@ aliases:
   - "Hallowed Heroplate"
 tags:
   - "daggerheart/armor"
+  - "element/light"
+  - "family/plate"
+  - "legality/common"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Plate héroïque consacrée"
 tier: 4
 thresholds: "13/35"

@@ -3,6 +3,11 @@ aliases:
   - "Improved Shortbow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc court amélioré"
 tier: 2
 category: "Principale"

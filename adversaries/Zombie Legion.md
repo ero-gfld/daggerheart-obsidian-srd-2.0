@@ -3,6 +3,11 @@ aliases:
   - "Zombie Legion"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Légion de zombies"
 tier: 4
 type: "Horde"

@@ -3,6 +3,12 @@ aliases:
   - "Secret-Keeper"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/cultist"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Gardien des secrets"
 tier: 2
 type: "Meneur"

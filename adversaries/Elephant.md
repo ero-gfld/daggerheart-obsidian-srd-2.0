@@ -3,6 +3,12 @@ aliases:
   - "Elephant"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/plains"
+  - "role/monster"
+  - "size/huge"
+  - "tone/heroic"
 name: "Éléphant"
 tier: 2
 type: "Cogneur"

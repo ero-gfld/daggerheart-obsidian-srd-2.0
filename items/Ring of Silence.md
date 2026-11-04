@@ -3,6 +3,13 @@ aliases:
   - "Ring of Silence"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/stealth"
 name: "Anneau du silence"
 effect: "Dépensez un Espoir pour activer cet anneau. Vos pas sont silencieux jusqu’à votre prochain repos."
 roll: 28

@@ -3,6 +3,11 @@ aliases:
   - "Ego Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/comic"
 name: "Lame de l’ego"
 tier: 2
 category: "Principale"

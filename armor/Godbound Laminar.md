@@ -3,6 +3,13 @@ aliases:
   - "Godbound Laminar"
 tags:
   - "daggerheart/armor"
+  - "element/light"
+  - "family/scale"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Armure lamellaire de l’élu divin"
 tier: 4
 thresholds: "13/36"

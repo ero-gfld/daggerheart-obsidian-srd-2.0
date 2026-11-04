@@ -3,6 +3,12 @@ aliases:
   - "Steelforged Halberd"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hallebarde forgée en acier"
 tier: 2
 category: "Principale"

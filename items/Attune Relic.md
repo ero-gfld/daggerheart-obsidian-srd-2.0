@@ -3,6 +3,13 @@ aliases:
   - "Attune Relic"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Relique d’accord"
 effect: "Vous gagnez un bonus de +1 à votre Instinct. Vous ne pouvez porter qu’une seule relique."
 roll: 44

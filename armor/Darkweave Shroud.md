@@ -3,6 +3,13 @@ aliases:
   - "Darkweave Shroud"
 tags:
   - "daggerheart/armor"
+  - "element/shadow"
+  - "family/cloth"
+  - "legality/contraband"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Linceul tissé d’ombre"
 tier: 4
 thresholds: "13/36"

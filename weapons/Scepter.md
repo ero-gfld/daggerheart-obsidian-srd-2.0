@@ -3,6 +3,11 @@ aliases:
   - "Scepter"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sceptre"
 tier: 1
 category: "Principale"

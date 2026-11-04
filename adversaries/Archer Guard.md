@@ -3,6 +3,12 @@ aliases:
   - "Archer Guard"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/guard"
+  - "size/medium"
+  - "tone/heroic"
 name: "Garde archer"
 tier: 1
 type: "Tireur"

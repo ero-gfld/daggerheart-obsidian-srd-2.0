@@ -3,6 +3,11 @@ aliases:
   - "Tinker’s Hammer"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Marteau du rétameur"
 tier: 3
 category: "Secondaire"

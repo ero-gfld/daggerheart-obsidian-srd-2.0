@@ -3,6 +3,11 @@ aliases:
   - "Vast Desert"
 tags:
   - "daggerheart/environment"
+  - "element/air"
+  - "element/lightning"
+  - "mood/wilderness"
+  - "origin/desert"
+  - "tone/grim"
 name: "Désert immense"
 tier: 2
 type: "Traversée"

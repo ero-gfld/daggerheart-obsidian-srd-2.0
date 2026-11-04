@@ -3,6 +3,11 @@ aliases:
   - "Improved Arcane Rifle"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Fusil arcanique amélioré"
 tier: 2
 category: "Principale"

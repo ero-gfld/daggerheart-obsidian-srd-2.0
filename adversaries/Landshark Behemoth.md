@@ -3,6 +3,12 @@ aliases:
   - "Landshark Behemoth"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Béhémoth requin terrestre"
 tier: 2
 type: "Solo"

@@ -3,6 +3,9 @@ aliases:
   - "Ambushers"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/heroic"
 name: "Les embusqueurs"
 tier: 1
 type: "Événement"

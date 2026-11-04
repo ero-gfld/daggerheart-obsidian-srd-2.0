@@ -3,6 +3,11 @@ aliases:
   - "Cane Sword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée-canne"
 tier: 2
 category: "Principale"

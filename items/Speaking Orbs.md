@@ -3,6 +3,13 @@ aliases:
   - "Speaking Orbs"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/social"
 name: "Orbes parlantes"
 effect: "Cette paire d’orbes permet aux créatures qui les tiennent de communiquer entre elles, quelle que soit la distance."
 roll: 5

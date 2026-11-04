@@ -3,6 +3,11 @@ aliases:
   - "Xero the Castle Killer"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Xero le Tueur de châteaux"
 tier: 4
 type: "Solo"

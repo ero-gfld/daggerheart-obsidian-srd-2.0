@@ -3,6 +3,13 @@ aliases:
   - "Control Relic"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Relique de contrôle"
 effect: "Vous gagnez un bonus de +1 à votre Finesse. Vous ne pouvez porter qu’une seule relique."
 roll: 43

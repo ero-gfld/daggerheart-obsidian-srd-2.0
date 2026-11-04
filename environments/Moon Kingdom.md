@@ -3,6 +3,11 @@ aliases:
   - "Moon Kingdom"
 tags:
   - "daggerheart/environment"
+  - "element/psychic"
+  - "mood/sacred"
+  - "origin/otherworldly"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Royaume de la lune"
 tier: 4
 type: "Exploration"

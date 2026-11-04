@@ -3,6 +3,11 @@ aliases:
   - "Legendary Broadsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée large légendaire"
 tier: 4
 category: "Principale"

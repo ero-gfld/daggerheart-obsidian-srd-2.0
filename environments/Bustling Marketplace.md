@@ -3,6 +3,9 @@ aliases:
   - "Bustling Marketplace"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/whimsical"
 name: "Marché animé"
 tier: 1
 type: "Social"

@@ -3,6 +3,12 @@ aliases:
   - "Triceratops"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/plains"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Tricératops"
 tier: 2
 type: "Cogneur"

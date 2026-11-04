@@ -3,6 +3,12 @@ aliases:
   - "Brightsword"
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée brillante"
 tier: 1
 category: "Principale"

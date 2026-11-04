@@ -3,6 +3,11 @@ aliases:
   - "Grappler"
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Grappin"
 tier: 1
 category: "Secondaire"

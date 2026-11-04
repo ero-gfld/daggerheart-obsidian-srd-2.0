@@ -3,6 +3,13 @@ aliases:
   - "Demonic Hound Pack"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/animal"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/hunter"
+  - "size/small"
+  - "tone/grim"
 name: "Meute de chiens démoniaques"
 tier: 2
 type: "Horde"

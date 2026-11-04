@@ -1,6 +1,14 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/fey"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Valdenhax"
 tier: 2
 type: "Meneur"

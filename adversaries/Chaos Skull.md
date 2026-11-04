@@ -3,6 +3,11 @@ aliases:
   - "Chaos Skull"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/minion"
+  - "size/small"
+  - "tone/eerie"
 name: "Crâne du chaos"
 tier: 2
 type: "Tireur"

@@ -3,6 +3,13 @@ aliases:
   - "Reliquary of the Sightless Saint"
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/hope"
 name: "Reliquaire du saint aveugle"
 effect: "Vous gagnez un bonus de +1 à votre dé d’Espoir lorsque vous effectuez le choix de mort Tout risquer."
 roll: 30

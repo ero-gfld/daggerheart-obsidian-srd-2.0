@@ -3,6 +3,9 @@ aliases:
   - "Outpost Town"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/grim"
 name: "Bourg avant-poste"
 tier: 1
 type: "Social"

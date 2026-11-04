@@ -3,6 +3,11 @@ aliases:
   - "Quarterstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton de combat"
 tier: 1
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Battleaxe"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Hache de bataille avancée"
 tier: 3
 category: "Principale"

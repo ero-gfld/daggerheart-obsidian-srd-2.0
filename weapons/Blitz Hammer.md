@@ -3,6 +3,11 @@ aliases:
   - "Blitz Hammer"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Marteau éclair"
 tier: 3
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Control Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Potion de contrôle"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet de Finesse."
 roll: 3

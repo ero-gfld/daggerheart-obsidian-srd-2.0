@@ -3,6 +3,13 @@ aliases:
   - "Potion of Stability"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Potion de stabilité"
 effect: "Vous pouvez boire cette potion pour choisir une action de repos supplémentaire."
 roll: 13

@@ -3,6 +3,12 @@ aliases:
   - "Tangle Bramble"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/plant"
+  - "origin/desert"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Ronce entremêlée"
 tier: 1
 type: "Sbire"

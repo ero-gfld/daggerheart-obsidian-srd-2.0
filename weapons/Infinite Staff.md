@@ -3,6 +3,11 @@ aliases:
   - "Infinite Staff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Bâton infini"
 tier: 4
 category: "Principale"

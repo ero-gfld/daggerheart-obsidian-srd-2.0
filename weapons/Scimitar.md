@@ -3,6 +3,11 @@ aliases:
   - "Scimitar"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cimeterre"
 tier: 1
 category: "Principale"

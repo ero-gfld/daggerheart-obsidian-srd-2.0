@@ -3,6 +3,13 @@ aliases:
   - "Midas Flask"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Flacon de Midas"
 effect: "Vous pouvez verser ce petit flacon de liquide alchimique sur un objet ordinaire pour le transmuer instantanément en une poignée d’or."
 roll: 32

@@ -3,6 +3,13 @@ aliases:
   - "Charging Quiver"
 tags:
   - "daggerheart/item"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Carquois de charge"
 effect: "Lorsque vous réussissez une attaque avec une flèche rangée dans ce carquois, vous gagnez un bonus au jet de dégâts égal à votre rang actuel."
 roll: 3

@@ -3,6 +3,11 @@ aliases:
   - "Dragon Knight"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Chevalier dragon"
 tier: 2
 type: "Cogneur"

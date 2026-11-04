@@ -3,6 +3,11 @@ aliases:
   - "Conscript"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Conscrit"
 tier: 2
 type: "Sbire"

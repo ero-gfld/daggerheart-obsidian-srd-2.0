@@ -3,6 +3,12 @@ aliases:
   - "Vampire Bat Swarm"
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Essaim de chauves-souris vampires"
 tier: 3
 type: "Horde"

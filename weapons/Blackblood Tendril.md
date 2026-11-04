@@ -3,6 +3,12 @@ aliases:
   - "Blackblood Tendril"
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/whip"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Vrille de sang noir"
 tier: 4
 category: "Secondaire"

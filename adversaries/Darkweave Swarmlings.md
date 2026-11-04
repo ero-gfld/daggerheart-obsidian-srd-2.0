@@ -3,6 +3,12 @@ aliases:
   - "Darkweave Swarmlings"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Essaim de jeunes tisse-ténèbres"
 tier: 1
 type: "Horde"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Hand Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète de poing avancée"
 tier: 3
 category: "Secondaire"

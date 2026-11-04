@@ -3,6 +3,11 @@ aliases:
   - "Ricochet Axes"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Haches ricochets"
 tier: 4
 category: "Principale"

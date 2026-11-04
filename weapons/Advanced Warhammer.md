@@ -3,6 +3,11 @@ aliases:
   - "Advanced Warhammer"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Marteau de guerre avancé"
 tier: 3
 category: "Principale"

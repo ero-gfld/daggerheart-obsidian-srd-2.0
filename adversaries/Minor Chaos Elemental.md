@@ -3,6 +3,12 @@ aliases:
   - "Minor Chaos Elemental"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Petit élémentaire du chaos"
 tier: 1
 type: "Solo"

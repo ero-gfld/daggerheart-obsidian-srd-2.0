@@ -3,6 +3,11 @@ aliases:
   - "Rocket Maul"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Maillet-fusée"
 tier: 3
 category: "Principale"

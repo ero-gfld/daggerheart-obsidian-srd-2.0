@@ -3,6 +3,11 @@ aliases:
   - "Scale Mail Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte d’écailles"
 tier: 1
 thresholds: "7/14"

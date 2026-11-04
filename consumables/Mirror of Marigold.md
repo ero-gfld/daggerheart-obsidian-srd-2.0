@@ -3,6 +3,13 @@ aliases:
   - "Mirror of Marigold"
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/defense"
 name: "Miroir de Marigold"
 effect: "Lorsque vous subissez des dégâts, vous pouvez dépenser un Espoir pour annuler ces dégâts, après quoi le miroir se brise."
 roll: 59

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Returning Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Lame revenante avancée"
 tier: 3
 category: "Principale"

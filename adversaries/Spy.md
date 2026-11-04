@@ -3,6 +3,12 @@ aliases:
   - "Spy"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Espion"
 tier: 2
 type: "Social"

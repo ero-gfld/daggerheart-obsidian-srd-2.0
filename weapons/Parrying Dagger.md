@@ -3,6 +3,11 @@ aliases:
   - "Parrying Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dague de parade"
 tier: 2
 category: "Secondaire"

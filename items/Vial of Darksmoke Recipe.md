@@ -3,6 +3,13 @@ aliases:
   - "Vial of Darksmoke Recipe"
 tags:
   - "daggerheart/item"
+  - "form/book"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/grim"
+  - "use/crafting"
 name: "Recette de fiole de fumée noire"
 effect: "En tant qu’action de repos, vous pouvez marquer un Stress pour fabriquer une fiole de fumée noire."
 roll: 24

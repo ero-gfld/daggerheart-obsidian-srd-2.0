@@ -3,6 +3,12 @@ aliases:
   - "Advanced Throwing Knives"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Couteaux de lancer avancés"
 tier: 3
 category: "Secondaire"

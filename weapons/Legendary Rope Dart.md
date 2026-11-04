@@ -3,6 +3,11 @@ aliases:
   - "Legendary Rope Dart"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dard à corde légendaire"
 tier: 4
 category: "Principale"

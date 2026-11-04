@@ -3,6 +3,14 @@ aliases:
   - "Airblade Charm"
 tags:
   - "daggerheart/item"
+  - "element/air"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Charme de lame d’air"
 effect: "Vous pouvez attacher ce charme à une arme de Mêlée. Trois fois par repos, vous pouvez activer le charme et attaquer une cible à portée Proche."
 roll: 35

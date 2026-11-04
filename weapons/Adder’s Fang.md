@@ -3,6 +3,11 @@ aliases:
   - "Adder’s Fang"
 tags:
   - "daggerheart/weapon"
+  - "element/poison"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Croc de vipère"
 tier: 4
 category: "Principale"

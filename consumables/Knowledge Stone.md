@@ -3,6 +3,13 @@ aliases:
   - "Knowledge Stone"
 tags:
   - "daggerheart/consumable"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/knowledge"
 name: "Pierre du savoir"
 effect: "Si vous mourez en tenant cette pierre, un allié peut prendre une carte de votre main pour la placer dans sa main ou sa réserve. Une fois ce savoir recueilli, la pierre s’effrite."
 roll: 55

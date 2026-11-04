@@ -3,6 +3,12 @@ aliases:
   - "Gilded Falchion"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fauchon doré"
 tier: 2
 category: "Principale"

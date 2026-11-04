@@ -3,6 +3,12 @@ aliases:
   - "Harbinger of Famine"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/eerie"
 name: "Avant-coureur de la Famine"
 tier: 4
 type: "Soutien"

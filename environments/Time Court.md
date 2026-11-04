@@ -3,6 +3,9 @@ aliases:
   - "Time Court"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/otherworldly"
+  - "tone/eerie"
 name: "Cour du temps"
 tier: 4
 type: "Événement"

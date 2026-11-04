@@ -3,6 +3,11 @@ aliases:
   - "Dire Pangolati"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Pangolati redoutable"
 tier: 2
 type: "Cogneur"

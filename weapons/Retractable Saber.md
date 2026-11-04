@@ -3,6 +3,11 @@ aliases:
   - "Retractable Saber"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/contraband"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Sabre rétractable"
 tier: 3
 category: "Principale"

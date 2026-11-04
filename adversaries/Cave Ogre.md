@@ -3,6 +3,12 @@ aliases:
   - "Cave Ogre"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/underground"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Ogre des cavernes"
 tier: 1
 type: "Solo"

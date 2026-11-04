@@ -3,6 +3,13 @@ aliases:
   - "Jar of Lost Voices"
 tags:
   - "daggerheart/consumable"
+  - "form/container"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/combat"
 name: "Bocal de voix perdues"
 effect: "Vous pouvez ouvrir ce bocal pour libérer un écho assourdissant de voix pendant un nombre de minutes égal à votre Instinct. Les créatures situées à portée Loin qui ne s’attendaient pas à ce bruit subissent 6d8 dégâts magiques."
 roll: 47

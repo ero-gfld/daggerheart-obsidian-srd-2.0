@@ -3,6 +3,13 @@ aliases:
   - "Improved Arcane Shard"
 tags:
   - "daggerheart/consumable"
+  - "form/gem"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Éclat arcanique amélioré"
 effect: "Vous pouvez effectuer un jet de Finesse pour lancer cet éclat sur un groupe d’adversaires à portée Loin. Les cibles contre lesquelles vous réussissez subissent 2d20 dégâts magiques."
 roll: 24

@@ -3,6 +3,12 @@ aliases:
   - "Entombed Skin Beetles"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Scarabées de peau des tombes"
 tier: 2
 type: "Horde"

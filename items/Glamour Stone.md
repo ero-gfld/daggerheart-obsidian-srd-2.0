@@ -3,6 +3,16 @@ aliases:
   - "Glamour Stone"
 tags:
   - "daggerheart/item"
+  - "element/psychic"
+  - "form/gem"
+  - "legality/common"
+  - "magic/magical"
+  - "material/stone"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/social"
+  - "use/stealth"
 name: "Pierre d’enchantement"
 effect: "Activez cette pierre de la taille d’un caillou pour mémoriser l’apparence de quelqu’un que vous voyez. Dépensez un Espoir pour vous recréer magiquement cette apparence sous forme d’illusion."
 roll: 11

@@ -3,6 +3,11 @@ aliases:
   - "Skywarden’s Lamellar"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lamellaire du gardien du ciel"
 tier: 3
 thresholds: "11/27"

@@ -3,6 +3,12 @@ aliases:
   - "Demon of Wrath"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Démon du Courroux"
 tier: 3
 type: "Cogneur"

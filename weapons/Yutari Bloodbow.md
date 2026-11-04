@@ -3,6 +3,12 @@ aliases:
   - "Yutari Bloodbow"
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/bow"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Arc sanguin yutari"
 tier: 2
 category: "Principale"

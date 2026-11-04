@@ -3,6 +3,10 @@ aliases:
   - "Improved Hand Runes"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Runes de main améliorées"
 tier: 2
 category: "Principale"

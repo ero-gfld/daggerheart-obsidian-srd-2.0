@@ -3,6 +3,10 @@ aliases:
   - "Convergence, the City of Portals"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/otherworldly"
+  - "origin/urban"
+  - "tone/whimsical"
 name: "Convergence, la cité des portails"
 tier: 4
 type: "Social"

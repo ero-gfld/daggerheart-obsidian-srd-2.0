@@ -3,6 +3,14 @@ aliases:
   - "Sandwyrm"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/sapient"
+  - "nature/beast"
+  - "origin/desert"
+  - "origin/underground"
+  - "role/hunter"
+  - "size/huge"
+  - "tone/grim"
 name: "Ver des sables"
 tier: 3
 type: "Cogneur"

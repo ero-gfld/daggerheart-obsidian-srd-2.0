@@ -3,6 +3,13 @@ aliases:
   - "Will-O’-The-Wisps"
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "origin/swamp"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/eerie"
 name: "Feux follets"
 tier: 1
 type: "Horde"

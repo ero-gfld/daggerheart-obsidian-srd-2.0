@@ -3,6 +3,12 @@ aliases:
   - "Guahalan Fang Lord"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/forest"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Seigneur des crocs guahalan"
 tier: 2
 type: "Meneur"

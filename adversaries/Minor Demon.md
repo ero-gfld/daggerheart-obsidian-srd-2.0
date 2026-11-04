@@ -3,6 +3,13 @@ aliases:
   - "Minor Demon"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Démon mineur"
 tier: 1
 type: "Solo"

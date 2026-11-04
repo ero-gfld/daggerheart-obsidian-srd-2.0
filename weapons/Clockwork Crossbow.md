@@ -3,6 +3,11 @@ aliases:
   - "Clockwork Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/restricted"
+  - "magic/mundane"
+  - "tech/industrial"
+  - "tone/heroic"
 name: "Arbalète mécanique"
 tier: 4
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Sylvan Soldier"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/soldier"
+  - "size/small"
+  - "tone/heroic"
 name: "Soldat sylvain"
 tier: 1
 type: "Standard"

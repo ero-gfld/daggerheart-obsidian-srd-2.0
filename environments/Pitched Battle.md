@@ -3,6 +3,10 @@ aliases:
   - "Pitched Battle"
 tags:
   - "daggerheart/environment"
+  - "element/fire"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/grim"
 name: "Bataille rangée"
 tier: 3
 type: "Événement"

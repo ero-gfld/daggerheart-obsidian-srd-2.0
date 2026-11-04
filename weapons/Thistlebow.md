@@ -3,6 +3,11 @@ aliases:
   - "Thistlebow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Arc-chardon"
 tier: 4
 category: "Principale"

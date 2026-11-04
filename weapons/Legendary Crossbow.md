@@ -3,6 +3,11 @@ aliases:
   - "Legendary Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète légendaire"
 tier: 4
 category: "Principale"

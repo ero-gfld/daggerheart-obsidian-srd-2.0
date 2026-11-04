@@ -3,6 +3,11 @@ aliases:
   - "Demon’s Edge"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Tranchant du démon"
 tier: 4
 category: "Principale"

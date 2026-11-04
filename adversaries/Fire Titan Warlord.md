@@ -3,6 +3,12 @@ aliases:
   - "Fire Titan Warlord"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Seigneur de guerre titan de feu"
 tier: 4
 type: "Meneur"

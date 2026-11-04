@@ -3,6 +3,12 @@ aliases:
   - "Spellblade"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/heroic"
 name: "Lame-sort"
 tier: 1
 type: "Meneur"

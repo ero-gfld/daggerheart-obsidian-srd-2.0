@@ -3,6 +3,12 @@ aliases:
   - "Failed Experiment"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Expérience ratée"
 tier: 2
 type: "Standard"

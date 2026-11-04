@@ -3,6 +3,12 @@ aliases:
   - "Dragonscale Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/magical"
+  - "material/leather"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Armure d’écailles de dragon"
 tier: 3
 thresholds: "11/27"

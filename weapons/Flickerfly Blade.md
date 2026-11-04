@@ -3,6 +3,11 @@ aliases:
   - "Flickerfly Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Lame de papillon scintillant"
 tier: 3
 category: "Principale"

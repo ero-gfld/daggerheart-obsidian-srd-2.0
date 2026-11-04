@@ -3,6 +3,14 @@ aliases:
   - "Salamander Salve"
 tags:
   - "daggerheart/consumable"
+  - "element/fire"
+  - "form/salve"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Onguent de salamandre"
 effect: "Vous pouvez appliquer cet onguent sur votre peau pour obtenir l’immunité contre la chaleur jusqu’à votre prochain repos."
 roll: 28

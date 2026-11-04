@@ -3,6 +3,13 @@ aliases:
   - "Phantom"
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Phantasme"
 tier: 1
 type: "Standard"

@@ -3,6 +3,11 @@ aliases:
   - "Elite Soldier"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Soldat d’élite"
 tier: 2
 type: "Standard"

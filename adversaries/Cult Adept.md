@@ -3,6 +3,13 @@ aliases:
   - "Cult Adept"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/cultist"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Adepte du culte"
 tier: 2
 type: "Soutien"

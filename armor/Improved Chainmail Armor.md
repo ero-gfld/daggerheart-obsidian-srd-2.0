@@ -3,6 +3,12 @@ aliases:
   - "Improved Chainmail Armor"
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte de mailles améliorée"
 tier: 2
 thresholds: "11/24"

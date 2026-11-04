@@ -3,6 +3,14 @@ aliases:
   - "Sprite Bottle"
 tags:
   - "daggerheart/consumable"
+  - "form/container"
+  - "legality/common"
+  - "magic/magical"
+  - "origin/otherworldly"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/healing"
 name: "Fiole de lutin"
 effect: "Lorsque vous marquez votre dernier Point de vie, cette fiole se brise et libère le lutin qu’elle contient. Le lutin libère tous vos PV avant de disparaître du Royaume mortel."
 roll: 20

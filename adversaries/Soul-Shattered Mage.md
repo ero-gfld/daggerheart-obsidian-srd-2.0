@@ -3,6 +3,12 @@ aliases:
   - "Soul-Shattered Mage"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Mage à l’âme brisée"
 tier: 1
 type: "Solo"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Shortbow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc court avancé"
 tier: 3
 category: "Principale"

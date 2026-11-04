@@ -3,6 +3,11 @@ aliases:
   - "Legendary Mace"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Masse d’armes légendaire"
 tier: 4
 category: "Principale"

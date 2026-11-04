@@ -3,6 +3,11 @@ aliases:
   - "Advanced Scale Mail Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte d’écailles avancée"
 tier: 3
 thresholds: "13/30"

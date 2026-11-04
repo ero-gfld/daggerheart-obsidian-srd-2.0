@@ -3,6 +3,15 @@ aliases:
   - "Arcticite Shard"
 tags:
   - "daggerheart/consumable"
+  - "element/cold"
+  - "form/gem"
+  - "legality/restricted"
+  - "magic/magical"
+  - "origin/frozen"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Éclat d’arcticite"
 effect: "Choisissez un point à portée Loin. Toutes les cibles à portée Proche de ce point doivent réussir un jet de réaction (16), sans quoi elles subissent 3d6 dégâts magiques et deviennent temporairement Entravées par la glace."
 roll: 36

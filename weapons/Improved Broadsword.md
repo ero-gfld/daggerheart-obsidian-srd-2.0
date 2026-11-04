@@ -3,6 +3,11 @@ aliases:
   - "Improved Broadsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée large améliorée"
 tier: 2
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Giant Recruit"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Recrue géante"
 tier: 2
 type: "Sbire"

@@ -3,6 +3,13 @@ aliases:
   - "Gravity Bomb"
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/industrial"
+  - "tone/heroic"
+  - "use/combat"
 name: "Bombe de gravité"
 effect: "Vous pouvez lancer cette orbe mécanique de la taille d’une pêche sur un point à portée Loin. Elle implose et attire toutes les créatures et tous les objets situés à portée Proche de ce point jusqu’à portée de Mêlée d’elle."
 roll: 21

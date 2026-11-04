@@ -3,6 +3,11 @@ aliases:
   - "Rune Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bouclier runique"
 tier: 1
 category: "Secondaire"

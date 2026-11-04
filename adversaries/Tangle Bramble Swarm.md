@@ -3,6 +3,12 @@ aliases:
   - "Tangle Bramble Swarm"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/plant"
+  - "origin/desert"
+  - "role/monster"
+  - "size/small"
+  - "tone/grim"
 name: "Essaim de ronces entremêlées"
 tier: 1
 type: "Horde"

@@ -3,6 +3,14 @@ aliases:
   - "Frost Titan"
 tags:
   - "daggerheart/adversary"
+  - "element/cold"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/frozen"
+  - "role/bandit"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Titan de givre"
 tier: 3
 type: "Cogneur"

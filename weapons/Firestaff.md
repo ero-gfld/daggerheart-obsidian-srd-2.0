@@ -3,6 +3,12 @@ aliases:
   - "Firestaff"
 tags:
   - "daggerheart/weapon"
+  - "element/fire"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bâton de feu"
 tier: 3
 category: "Principale"

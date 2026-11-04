@@ -3,6 +3,12 @@ aliases:
   - "Octopus"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/small"
+  - "tone/grim"
 name: "Pieuvre"
 tier: 1
 type: "Furtif"

@@ -3,6 +3,14 @@ aliases:
   - "Zephyr’s Jar"
 tags:
   - "daggerheart/item"
+  - "element/air"
+  - "form/container"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Jarre de zéphyr"
 effect: "Vous pouvez ouvrir cette jarre vide pendant un mauvais temps pour capturer la tempête et laisser derrière vous un ciel dégagé. La tempête reste enfermée jusqu’à ce qu’on la libère en rouvrant la jarre."
 roll: 19

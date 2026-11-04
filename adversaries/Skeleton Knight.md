@@ -3,6 +3,11 @@ aliases:
   - "Skeleton Knight"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/large"
+  - "tone/grim"
 name: "Squelette chevalier"
 tier: 1
 type: "Cogneur"

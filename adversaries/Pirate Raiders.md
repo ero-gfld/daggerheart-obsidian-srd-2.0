@@ -3,6 +3,12 @@ aliases:
   - "Pirate Raiders"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/sea"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Maraudeurs corsaires"
 tier: 1
 type: "Horde"

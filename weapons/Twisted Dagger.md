@@ -3,6 +3,11 @@ aliases:
   - "Twisted Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/grim"
 name: "Dague tordue"
 tier: 1
 category: "Principale"

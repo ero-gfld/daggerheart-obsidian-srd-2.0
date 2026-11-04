@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/monster"
+  - "size/small"
+  - "tone/eerie"
 name: "Atototl"
 tier: 1
 type: "Standard"

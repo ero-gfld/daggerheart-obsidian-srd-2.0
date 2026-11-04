@@ -3,6 +3,13 @@ aliases:
   - "Bridge Seed"
 tags:
   - "daggerheart/consumable"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/travel"
 name: "Graine de pont"
 effect: "D’épaisses vignes poussent depuis votre position jusqu’à un point de votre choix à portée Loin, vous permettant de grimper dessus ou de les traverser. Les vignes se dissipent à votre prochain repos court."
 roll: 49

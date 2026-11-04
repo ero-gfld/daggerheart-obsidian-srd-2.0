@@ -3,6 +3,11 @@ aliases:
   - "Advanced Scepter"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sceptre avancé"
 tier: 3
 category: "Principale"

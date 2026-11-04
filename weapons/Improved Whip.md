@@ -3,6 +3,11 @@ aliases:
   - "Improved Whip"
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fouet amélioré"
 tier: 2
 category: "Secondaire"

@@ -3,6 +3,12 @@ aliases:
   - "Chainmail Armor"
 tags:
   - "daggerheart/armor"
+  - "family/chain"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cotte de mailles"
 tier: 1
 thresholds: "7/15"

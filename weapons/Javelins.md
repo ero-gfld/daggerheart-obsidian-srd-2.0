@@ -3,6 +3,11 @@ aliases:
   - "Javelins"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Javelots"
 tier: 2
 category: "Principale"

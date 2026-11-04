@@ -3,6 +3,11 @@ aliases:
   - "Archer Squadron"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Escadron d’archers"
 tier: 2
 type: "Horde"

@@ -3,6 +3,11 @@ aliases:
   - "Legendary Scepter"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Sceptre légendaire"
 tier: 4
 category: "Principale"

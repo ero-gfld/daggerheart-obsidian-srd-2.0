@@ -3,6 +3,15 @@ aliases:
   - "Gobstalker"
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "element/fire"
+  - "element/psychic"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/horror"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Traqueur gobelin"
 tier: 2
 type: "Solo"

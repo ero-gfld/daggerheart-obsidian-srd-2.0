@@ -3,6 +3,12 @@ aliases:
   - "Spectral Guardian"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/eerie"
 name: "Gardien spectral"
 tier: 2
 type: "Standard"

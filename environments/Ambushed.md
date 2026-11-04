@@ -3,6 +3,9 @@ aliases:
   - "Ambushed"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/plains"
+  - "tone/grim"
 name: "Pris en embuscade"
 tier: 1
 type: "Événement"

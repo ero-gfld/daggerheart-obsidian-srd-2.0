@@ -3,6 +3,11 @@ aliases:
   - "Improved Greatsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Espadon amélioré"
 tier: 2
 category: "Principale"

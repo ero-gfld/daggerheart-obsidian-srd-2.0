@@ -3,6 +3,11 @@ aliases:
   - "Apprentice Assassin"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Apprenti assassin"
 tier: 2
 type: "Sbire"

@@ -3,6 +3,12 @@ aliases:
   - "Entombed Cat Beast"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "origin/ruins"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Bête-chat des tombes"
 tier: 2
 type: "Solo"

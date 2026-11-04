@@ -3,6 +3,12 @@ aliases:
   - "Trollhide Cuirass"
 tags:
   - "daggerheart/armor"
+  - "family/leather"
+  - "legality/common"
+  - "magic/magical"
+  - "material/leather"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Cuirasse de peau de troll"
 tier: 2
 thresholds: "11/23"

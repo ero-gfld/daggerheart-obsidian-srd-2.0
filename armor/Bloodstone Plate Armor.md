@@ -3,6 +3,13 @@ aliases:
   - "Bloodstone Plate Armor"
 tags:
   - "daggerheart/armor"
+  - "element/blood"
+  - "family/plate"
+  - "legality/restricted"
+  - "magic/magical"
+  - "material/stone"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Armure de plates en pierre de sang"
 tier: 3
 thresholds: "13/35"

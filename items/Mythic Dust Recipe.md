@@ -3,6 +3,13 @@ aliases:
   - "Mythic Dust Recipe"
 tags:
   - "daggerheart/item"
+  - "form/book"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/crafting"
 name: "Recette de poussière mythique"
 effect: "Comme action de repos, vous pouvez utiliser une poignée de fine poussière d’or pour fabriquer de la poussière mythique."
 roll: 51

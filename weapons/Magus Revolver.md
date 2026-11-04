@@ -3,6 +3,11 @@ aliases:
   - "Magus Revolver"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Revolver du magus"
 tier: 4
 category: "Principale"

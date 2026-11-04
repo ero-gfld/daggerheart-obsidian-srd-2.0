@@ -3,6 +3,9 @@ aliases:
   - "Divine Usurpation"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/otherworldly"
+  - "tone/grim"
 name: "Usurpation divine"
 tier: 4
 type: "Événement"

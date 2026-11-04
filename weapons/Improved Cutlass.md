@@ -3,6 +3,11 @@ aliases:
   - "Improved Cutlass"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coutelas amélioré"
 tier: 2
 category: "Principale"

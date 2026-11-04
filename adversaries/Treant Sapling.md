@@ -3,6 +3,12 @@ aliases:
   - "Treant Sapling"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/plant"
+  - "origin/forest"
+  - "role/minion"
+  - "size/small"
+  - "tone/heroic"
 name: "Jeune ent"
 tier: 3
 type: "Sbire"

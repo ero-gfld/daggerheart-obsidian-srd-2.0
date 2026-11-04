@@ -3,6 +3,13 @@ aliases:
   - "Chimeric Saliva"
 tags:
   - "daggerheart/consumable"
+  - "form/oil"
+  - "legality/restricted"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/grim"
+  - "use/combat"
 name: "Salive chimérique"
 effect: "Vous pouvez appliquer cette salive sur une arme qui inflige des dégâts physiques pour changer son type de dégâts en dégâts magiques jusqu’à votre prochain repos."
 roll: 8

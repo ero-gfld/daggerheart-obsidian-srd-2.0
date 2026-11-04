@@ -3,6 +3,11 @@ aliases:
   - "Improved Warhammer"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Marteau de guerre amélioré"
 tier: 2
 category: "Principale"

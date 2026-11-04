@@ -3,6 +3,12 @@ aliases:
   - "Legendary Banded Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure à bandes légendaire"
 tier: 4
 thresholds: "17/43"

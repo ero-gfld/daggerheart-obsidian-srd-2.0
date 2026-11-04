@@ -3,6 +3,11 @@ aliases:
   - "Aantari Bow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc aantari"
 tier: 4
 category: "Principale"

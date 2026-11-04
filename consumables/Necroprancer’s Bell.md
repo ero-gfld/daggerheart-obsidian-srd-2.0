@@ -3,6 +3,14 @@ aliases:
   - "Necroprancer’s Bell"
 tags:
   - "daggerheart/consumable"
+  - "element/shadow"
+  - "form/trinket"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/travel"
 name: "Clochette du nécropranceur"
 effect: "Vous pouvez briser contre le sol cette cloche rouillée, sans battant, pour invoquer une monture squelettique qui sort de la terre et vous sert jusqu’au prochain lever du soleil."
 roll: 55

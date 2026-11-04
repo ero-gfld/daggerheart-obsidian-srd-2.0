@@ -3,6 +3,11 @@ aliases:
   - "Brawny Zombie"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Zombie balèze"
 tier: 1
 type: "Cogneur"

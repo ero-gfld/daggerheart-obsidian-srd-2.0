@@ -3,6 +3,12 @@ aliases:
   - "Platinum Estoc"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Estoc de platine"
 tier: 3
 category: "Principale"

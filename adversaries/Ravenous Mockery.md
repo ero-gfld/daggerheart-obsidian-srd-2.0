@@ -3,6 +3,11 @@ aliases:
   - "Ravenous Mockery"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/horror"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Moquerie vorace"
 tier: 2
 type: "Standard"

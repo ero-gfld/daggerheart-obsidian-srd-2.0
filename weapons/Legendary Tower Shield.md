@@ -3,6 +3,11 @@ aliases:
   - "Legendary Tower Shield"
 tags:
   - "daggerheart/weapon"
+  - "family/shield"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Pavois légendaire"
 tier: 4
 category: "Secondaire"

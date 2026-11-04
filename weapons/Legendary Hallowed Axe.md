@@ -3,6 +3,11 @@ aliases:
   - "Legendary Hallowed Axe"
 tags:
   - "daggerheart/weapon"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Hache sacrée légendaire"
 tier: 4
 category: "Principale"

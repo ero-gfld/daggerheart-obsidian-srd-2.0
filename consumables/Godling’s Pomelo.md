@@ -3,6 +3,14 @@ aliases:
   - "Godling’s Pomelo"
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/healing"
+  - "use/stress"
 name: "Pomelo du dieu mineur"
 effect: "Vous pouvez manger cet agrume pour libérer tous vos Points de vie et évacuer tout le Stress."
 roll: 50

@@ -3,6 +3,10 @@ aliases:
   - "Abandoned Grove"
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/forest"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Bosquet abandonné"
 tier: 1
 type: "Exploration"

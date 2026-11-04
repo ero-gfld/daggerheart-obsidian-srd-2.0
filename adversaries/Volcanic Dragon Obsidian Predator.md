@@ -3,6 +3,11 @@ aliases:
   - "Volcanic Dragon: Obsidian Predator"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Dragon volcanique : prédateur d’obsidienne"
 tier: 4
 type: "Solo"

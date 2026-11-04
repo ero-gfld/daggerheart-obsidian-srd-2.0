@@ -3,6 +3,12 @@ aliases:
   - "Night Children"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/small"
+  - "tone/grim"
 name: "Enfants de la nuit"
 tier: 3
 type: "Horde"

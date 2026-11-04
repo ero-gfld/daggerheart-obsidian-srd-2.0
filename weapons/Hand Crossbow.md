@@ -3,6 +3,11 @@ aliases:
   - "Hand Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète de poing"
 tier: 1
 category: "Secondaire"

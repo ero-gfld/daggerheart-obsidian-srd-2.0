@@ -3,6 +3,13 @@ aliases:
   - "Gilded Sunplate"
 tags:
   - "daggerheart/armor"
+  - "element/light"
+  - "family/plate"
+  - "legality/common"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Plate-soleil dorée"
 tier: 2
 thresholds: "12/26"

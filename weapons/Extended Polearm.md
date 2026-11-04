@@ -3,6 +3,11 @@ aliases:
   - "Extended Polearm"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arme d’hast allongée"
 tier: 4
 category: "Principale"

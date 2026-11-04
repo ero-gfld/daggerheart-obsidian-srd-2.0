@@ -3,6 +3,10 @@ aliases:
   - "Megastorm"
 tags:
   - "daggerheart/environment"
+  - "element/lightning"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/grim"
 name: "Mégatempête"
 tier: 3
 type: "Événement"

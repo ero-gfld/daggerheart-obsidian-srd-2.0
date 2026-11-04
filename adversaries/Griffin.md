@@ -3,6 +3,12 @@ aliases:
   - "Griffin"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/mountain"
+  - "role/hunter"
+  - "size/large"
+  - "tone/heroic"
 name: "Griffon"
 tier: 4
 type: "Standard"

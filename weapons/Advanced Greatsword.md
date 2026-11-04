@@ -3,6 +3,11 @@ aliases:
   - "Advanced Greatsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Espadon avancé"
 tier: 3
 category: "Principale"

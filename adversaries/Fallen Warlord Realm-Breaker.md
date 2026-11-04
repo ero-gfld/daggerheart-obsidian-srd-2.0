@@ -3,6 +3,12 @@ aliases:
   - "Fallen Warlord: Realm-Breaker"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/noble"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Seigneur de guerre déchu : briseur de royaumes"
 tier: 4
 type: "Solo"

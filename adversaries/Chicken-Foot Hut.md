@@ -3,6 +3,12 @@ aliases:
   - "Chicken-Foot Hut"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/forest"
+  - "role/monster"
+  - "size/huge"
+  - "tone/whimsical"
 name: "Hutte aux pattes de poule"
 tier: 2
 type: "Cogneur"

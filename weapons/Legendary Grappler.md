@@ -3,6 +3,10 @@ aliases:
   - "Legendary Grappler"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Grappin légendaire"
 tier: 4
 category: "Secondaire"

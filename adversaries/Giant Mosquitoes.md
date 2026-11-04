@@ -3,6 +3,12 @@ aliases:
   - "Giant Mosquitoes"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/swamp"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Moustiques géants"
 tier: 1
 type: "Horde"

@@ -3,6 +3,13 @@ aliases:
   - "Communion Relic"
 tags:
   - "daggerheart/item"
+  - "form/trinket"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/utility"
 name: "Relique de communion"
 effect: "Une fois par repos, vous pouvez dépenser un Espoir pour utiliser une Expérience d’un allié comme si elle était la vôtre. Vous ne pouvez porter qu’une seule relique."
 roll: 59

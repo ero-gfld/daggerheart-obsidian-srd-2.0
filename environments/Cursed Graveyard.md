@@ -3,6 +3,9 @@ aliases:
   - "Cursed Graveyard"
 tags:
   - "daggerheart/environment"
+  - "mood/sacred"
+  - "origin/ruins"
+  - "tone/eerie"
 name: "Cimetière maudit"
 tier: 1
 type: "Exploration"

@@ -3,6 +3,11 @@ aliases:
   - "Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Dague"
 tier: 1
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Jagged Knife Shadow"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Ombre des Lames dentelées"
 tier: 1
 type: "Furtif"

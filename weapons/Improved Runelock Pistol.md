@@ -3,6 +3,11 @@ aliases:
   - "Improved Runelock Pistol"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Pistolet à serrure runique amélioré"
 tier: 2
 category: "Principale"

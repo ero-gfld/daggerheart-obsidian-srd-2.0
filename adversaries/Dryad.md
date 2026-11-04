@@ -3,6 +3,12 @@ aliases:
   - "Dryad"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Dryade"
 tier: 3
 type: "Meneur"

@@ -3,6 +3,12 @@ aliases:
   - "Flock of Feather Fiends"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/eerie"
 name: "Volée de démons à plumes"
 tier: 2
 type: "Horde"

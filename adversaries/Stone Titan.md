@@ -3,6 +3,13 @@ aliases:
   - "Stone Titan"
 tags:
   - "daggerheart/adversary"
+  - "element/earth"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/underground"
+  - "role/monster"
+  - "size/huge"
+  - "tone/eerie"
 name: "Titan de pierre"
 tier: 2
 type: "Solo"

@@ -3,6 +3,13 @@ aliases:
   - "Magic-User’s Malison"
 tags:
   - "daggerheart/consumable"
+  - "form/container"
+  - "legality/contraband"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Malédiction de l’usager de magie"
 effect: "Lorsque vous libérez l’âme emprisonnée de ce lanceur de sorts, vous pouvez lancer un sort d’une carte de votre réserve comme si elle se trouvait dans votre main. Cela ne fonctionne pas avec les cartes mises en réserve de façon permanente."
 roll: 52

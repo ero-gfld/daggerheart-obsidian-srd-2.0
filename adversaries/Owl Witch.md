@@ -3,6 +3,13 @@ aliases:
   - "Owl Witch"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/beast"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/spellcaster"
+  - "size/large"
+  - "tone/eerie"
 name: "Sorcière-hibou"
 tier: 4
 type: "Soutien"

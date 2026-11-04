@@ -3,6 +3,11 @@ aliases:
   - "Legendary Scimitar"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cimeterre légendaire"
 tier: 4
 category: "Principale"

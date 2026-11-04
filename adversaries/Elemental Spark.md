@@ -3,6 +3,12 @@ aliases:
   - "Elemental Spark"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/elemental"
+  - "role/minion"
+  - "size/tiny"
+  - "tone/grim"
 name: "Étincelle élémentaire"
 tier: 3
 type: "Sbire"

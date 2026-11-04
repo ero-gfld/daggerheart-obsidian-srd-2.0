@@ -3,6 +3,13 @@ aliases:
   - "Hopehold Flare"
 tags:
   - "daggerheart/consumable"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Fusée de Hopehold"
 effect: "Lorsque vous utilisez cette fusée, les alliés à portée Proche lancent un d6 lorsqu’ils dépensent un Espoir. Sur un résultat de 6, ils obtiennent l’effet de cet Espoir sans le dépenser. La fusée reste active jusqu’à la fin de la scène."
 roll: 37

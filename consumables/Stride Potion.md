@@ -3,6 +3,13 @@ aliases:
   - "Stride Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/travel"
 name: "Potion de foulée"
 effect: "Vous gagnez un bonus de +1 à votre prochain jet d’Agilité."
 roll: 1

@@ -3,6 +3,12 @@ aliases:
   - "Chimera"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/animal"
+  - "nature/beast"
+  - "role/monster"
+  - "size/large"
+  - "tone/grim"
 name: "Chimère"
 tier: 3
 type: "Cogneur"

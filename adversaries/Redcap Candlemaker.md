@@ -3,6 +3,13 @@ aliases:
   - "Redcap Candlemaker"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/fey"
+  - "role/cultist"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Cirier bonnet-rouge"
 tier: 1
 type: "Meneur"

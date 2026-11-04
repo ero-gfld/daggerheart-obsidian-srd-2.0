@@ -3,6 +3,12 @@ aliases:
   - "Improved Brightsword"
 tags:
   - "daggerheart/weapon"
+  - "element/light"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Épée brillante améliorée"
 tier: 2
 category: "Principale"

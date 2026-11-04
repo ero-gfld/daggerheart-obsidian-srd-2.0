@@ -3,6 +3,12 @@ aliases:
   - "Wyrdwood Splint Armor"
 tags:
   - "daggerheart/armor"
+  - "family/scale"
+  - "legality/common"
+  - "magic/magical"
+  - "material/wood"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Armure d’éclisses en Wyrdwood"
 tier: 2
 thresholds: "10/21"

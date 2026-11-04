@@ -3,6 +3,11 @@ aliases:
   - "Veritas Opal Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "material/crystal"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Armure d’opale de Veritas"
 tier: 4
 thresholds: "13/36"

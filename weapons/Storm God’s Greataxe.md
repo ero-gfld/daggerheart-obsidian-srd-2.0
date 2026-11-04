@@ -3,6 +3,12 @@ aliases:
   - "Storm God’s Greataxe"
 tags:
   - "daggerheart/weapon"
+  - "element/lightning"
+  - "family/axe"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Grande hache du dieu de la tempête"
 tier: 4
 category: "Principale"

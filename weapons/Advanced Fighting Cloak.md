@@ -3,6 +3,11 @@ aliases:
   - "Advanced Fighting Cloak"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Cape de combat avancée"
 tier: 3
 category: "Secondaire"

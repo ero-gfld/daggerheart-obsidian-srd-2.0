@@ -1,6 +1,12 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/eerie"
 name: "Lamia"
 tier: 3
 type: "Furtif"

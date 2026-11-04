@@ -3,6 +3,13 @@ aliases:
   - "Demiurge’s Draught"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Philtre du démiurge"
 effect: "Vous pouvez boire ce philtre pour gagner un bonus de +1 à votre Maîtrise pour votre prochain jet d’attaque réussi."
 roll: 38

@@ -3,6 +3,11 @@ aliases:
   - "Bladed Fan"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Éventail à lames"
 tier: 2
 category: "Principale"

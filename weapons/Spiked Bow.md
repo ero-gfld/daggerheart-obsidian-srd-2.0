@@ -3,6 +3,12 @@ aliases:
   - "Spiked Bow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc à pointes"
 tier: 3
 category: "Principale"

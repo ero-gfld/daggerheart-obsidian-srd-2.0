@@ -3,6 +3,13 @@ aliases:
   - "Outer Realms Corrupter"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/mindless"
+  - "nature/horror"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/eerie"
 name: "Souilleur des royaumes extérieurs"
 tier: 4
 type: "Soutien"

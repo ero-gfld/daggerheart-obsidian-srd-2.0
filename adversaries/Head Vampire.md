@@ -3,6 +3,12 @@ aliases:
   - "Head Vampire"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Vampire-chef"
 tier: 3
 type: "Meneur"

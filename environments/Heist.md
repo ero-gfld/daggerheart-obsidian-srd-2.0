@@ -3,6 +3,9 @@ aliases:
   - "Heist"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/heroic"
 name: "Casse"
 tier: 2
 type: "Événement"

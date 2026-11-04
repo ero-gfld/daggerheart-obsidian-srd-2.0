@@ -3,6 +3,12 @@ aliases:
   - "Gargantuan War Machine"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/mindless"
+  - "nature/construct"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Machine de guerre gigantesque"
 tier: 4
 type: "Solo"

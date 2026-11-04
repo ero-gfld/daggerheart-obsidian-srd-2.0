@@ -3,6 +3,11 @@ aliases:
   - "Legendary Hand Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète de poing légendaire"
 tier: 4
 category: "Secondaire"

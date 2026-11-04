@@ -3,6 +3,13 @@ aliases:
   - "Hero’s Helm"
 tags:
   - "daggerheart/item"
+  - "form/clothing"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Heaume du héros"
 effect: "Lorsque vous réussissez une attaque de façon critique, tous les alliés à portée Proche gagnent un Espoir."
 roll: 51

@@ -3,6 +3,13 @@ aliases:
   - "Ring of Unbreakable Resolve"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Anneau de résolution inébranlable"
 effect: "Une fois par session, quand le MJ dépense une Peur, vous pouvez dépenser 4 Espoir pour annuler les effets de cette Peur dépensée."
 roll: 59

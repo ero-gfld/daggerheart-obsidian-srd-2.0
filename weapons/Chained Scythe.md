@@ -3,6 +3,11 @@ aliases:
   - "Chained Scythe"
 tags:
   - "daggerheart/weapon"
+  - "family/polearm"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Faux enchaînée"
 tier: 3
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Advanced Focus Runes"
 tags:
   - "daggerheart/weapon"
+  - "family/focus"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Runes de focalisation avancées"
 tier: 3
 category: "Secondaire"

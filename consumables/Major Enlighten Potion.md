@@ -3,6 +3,13 @@ aliases:
   - "Major Enlighten Potion"
 tags:
   - "daggerheart/consumable"
+  - "form/potion"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/knowledge"
 name: "Potion d’illumination majeure"
 effect: "Vous gagnez un bonus de +1 à votre Savoir jusqu’à votre prochain repos."
 roll: 30

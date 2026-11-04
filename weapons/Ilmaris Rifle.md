@@ -3,6 +3,11 @@ aliases:
   - "Ilmari's Rifle"
 tags:
   - "daggerheart/weapon"
+  - "family/firearm"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Fusil d’Ilmari"
 tier: 3
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Minor Stamina Potion Recipe"
 tags:
   - "daggerheart/item"
+  - "form/book"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/heroic"
+  - "use/crafting"
 name: "Recette de potion d’endurance mineure"
 effect: "Comme action de repos, vous pouvez utiliser l’os d’une créature pour fabriquer une potion d’endurance mineure."
 roll: 18

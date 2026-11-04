@@ -3,6 +3,12 @@ aliases:
   - "Gambeson Armor"
 tags:
   - "daggerheart/armor"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/cloth"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Gambison"
 tier: 1
 thresholds: "5/11"

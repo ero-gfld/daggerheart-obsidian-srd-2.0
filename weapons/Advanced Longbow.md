@@ -3,6 +3,11 @@ aliases:
   - "Advanced Longbow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arc long avancé"
 tier: 3
 category: "Principale"

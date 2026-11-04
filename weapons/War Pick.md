@@ -3,6 +3,11 @@ aliases:
   - "War Pick"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Pic de guerre"
 tier: 2
 category: "Principale"

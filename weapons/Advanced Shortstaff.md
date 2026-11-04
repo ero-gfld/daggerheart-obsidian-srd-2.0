@@ -3,6 +3,11 @@ aliases:
   - "Advanced Shortstaff"
 tags:
   - "daggerheart/weapon"
+  - "family/staff"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bâton court avancé"
 tier: 3
 category: "Principale"

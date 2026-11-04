@@ -3,6 +3,11 @@ aliases:
   - "Improved Hand Crossbow"
 tags:
   - "daggerheart/weapon"
+  - "family/crossbow"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Arbalète de poing améliorée"
 tier: 2
 category: "Secondaire"

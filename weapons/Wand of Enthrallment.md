@@ -3,6 +3,11 @@ aliases:
   - "Wand of Enthrallment"
 tags:
   - "daggerheart/weapon"
+  - "family/wand"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Baguette d’asservissement"
 tier: 2
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Vorpal Shard"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Éclat vorpal"
 tier: 3
 category: "Secondaire"

@@ -3,6 +3,12 @@ aliases:
   - "Ghastly Legion"
 tags:
   - "daggerheart/adversary"
+  - "element/shadow"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/grim"
 name: "Légion macabre"
 tier: 4
 type: "Horde"

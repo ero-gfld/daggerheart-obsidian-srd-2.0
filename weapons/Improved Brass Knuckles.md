@@ -3,6 +3,13 @@ aliases:
   - "Improved Brass Knuckles"
 tags:
   - "daggerheart/weapon"
+  - "family/hammer"
+  - "family/unarmed"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coups-de-poing en laiton améliorés"
 tier: 2
 category: "Principale"

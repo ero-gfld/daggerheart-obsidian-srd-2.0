@@ -3,6 +3,13 @@ aliases:
   - "Two-Faced Aegis Brooch"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Broche à double égide"
 effect: "Une fois par repos, lancez une pièce. Sur face, vous devenez immunisé contre les prochains dégâts physiques que vous subissez. Sur pile, vous devenez immunisé contre les prochains dégâts magiques que vous subissez."
 roll: 43

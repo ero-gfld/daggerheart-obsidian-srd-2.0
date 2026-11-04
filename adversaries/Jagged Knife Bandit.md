@@ -3,6 +3,12 @@ aliases:
   - "Jagged Knife Bandit"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Bandit des Lames dentelées"
 tier: 1
 type: "Standard"

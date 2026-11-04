@@ -3,6 +3,13 @@ aliases:
   - "Stormthread Habit"
 tags:
   - "daggerheart/armor"
+  - "element/lightning"
+  - "family/cloth"
+  - "legality/common"
+  - "magic/magical"
+  - "material/cloth"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Habit de fil de tempête"
 tier: 2
 thresholds: "9/20"

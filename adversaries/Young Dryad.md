@@ -3,6 +3,12 @@ aliases:
   - "Young Dryad"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fey"
+  - "origin/forest"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/heroic"
 name: "Jeune dryade"
 tier: 1
 type: "Meneur"

@@ -3,6 +3,11 @@ aliases:
   - "Meridian Cutlass"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Coutelas méridien"
 tier: 3
 category: "Principale"

@@ -3,6 +3,12 @@ aliases:
   - "Rabble Mawb"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/underground"
+  - "role/monster"
+  - "size/tiny"
+  - "tone/grim"
 name: "Populace mawb"
 tier: 1
 type: "Horde"

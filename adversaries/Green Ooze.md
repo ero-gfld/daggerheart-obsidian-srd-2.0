@@ -3,6 +3,12 @@ aliases:
   - "Green Ooze"
 tags:
   - "daggerheart/adversary"
+  - "element/acid"
+  - "mind/mindless"
+  - "nature/ooze"
+  - "role/monster"
+  - "size/small"
+  - "tone/eerie"
 name: "Gelée verte"
 tier: 1
 type: "Furtif"

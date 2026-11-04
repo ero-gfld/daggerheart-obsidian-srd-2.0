@@ -3,6 +3,12 @@ aliases:
   - "Panther"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/forest"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Panthère"
 tier: 1
 type: "Furtif"

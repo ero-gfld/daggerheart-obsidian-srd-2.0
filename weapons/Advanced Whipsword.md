@@ -3,6 +3,12 @@ aliases:
   - "Advanced Whipsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "family/whip"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée-fouet avancée"
 tier: 3
 category: "Principale"

@@ -3,6 +3,11 @@ aliases:
   - "Soul Chain"
 tags:
   - "daggerheart/weapon"
+  - "family/whip"
+  - "legality/contraband"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Chaîne d’âme"
 tier: 3
 category: "Secondaire"

@@ -3,6 +3,13 @@ aliases:
   - "Ring of Resistance"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Anneau de résistance"
 effect: "Une fois par repos long, vous pouvez activer cet anneau après une attaque réussie contre vous pour réduire de moitié les dégâts."
 roll: 32

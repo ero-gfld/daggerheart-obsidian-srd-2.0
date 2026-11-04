@@ -3,6 +3,11 @@ aliases:
   - "Enchanted Lute"
 tags:
   - "daggerheart/weapon"
+  - "family/focus"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Luth enchanté"
 tier: 2
 category: "Principale"

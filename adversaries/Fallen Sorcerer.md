@@ -3,6 +3,12 @@ aliases:
   - "Fallen Sorcerer"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/spellcaster"
+  - "size/medium"
+  - "tone/grim"
 name: "Sorcier déchu"
 tier: 4
 type: "Soutien"

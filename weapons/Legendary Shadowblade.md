@@ -3,6 +3,12 @@ aliases:
   - "Legendary Shadowblade"
 tags:
   - "daggerheart/weapon"
+  - "element/shadow"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Lame d’ombre légendaire"
 tier: 4
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Piercing Arrows"
 tags:
   - "daggerheart/item"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/combat"
 name: "Flèches perçantes"
 effect: "Trois fois par repos, lorsque vous réussissez une attaque avec l’une de ces flèches, vous pouvez ajouter votre Maîtrise au jet de dégâts."
 roll: 14

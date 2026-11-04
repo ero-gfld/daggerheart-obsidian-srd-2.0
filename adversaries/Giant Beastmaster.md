@@ -3,6 +3,12 @@ aliases:
   - "Giant Beastmaster"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "role/hunter"
+  - "role/soldier"
+  - "size/large"
+  - "tone/heroic"
 name: "Maître-dresseur géant"
 tier: 2
 type: "Meneur"

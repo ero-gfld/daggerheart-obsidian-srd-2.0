@@ -3,6 +3,13 @@ aliases:
   - "Demon of Jealousy"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "size/medium"
+  - "tone/grim"
 name: "Démon de la Jalousie"
 tier: 3
 type: "Tireur"

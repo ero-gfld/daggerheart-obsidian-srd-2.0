@@ -3,6 +3,10 @@ aliases:
   - "Spellbound Bangles"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Bracelets envoûtés"
 tier: 2
 category: "Principale"

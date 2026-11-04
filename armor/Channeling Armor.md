@@ -3,6 +3,10 @@ aliases:
   - "Channeling Armor"
 tags:
   - "daggerheart/armor"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Armure de canalisation"
 tier: 4
 thresholds: "13/36"

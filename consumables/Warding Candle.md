@@ -3,6 +3,14 @@ aliases:
   - "Warding Candle"
 tags:
   - "daggerheart/consumable"
+  - "element/light"
+  - "form/tool"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/defense"
 name: "Bougie de protection"
 effect: "Vous pouvez allumer cette bougie pour remplir une zone à portée Proche d’un halo de lumière. Une créature située hors du halo ne peut pas y entrer si elle a de mauvaises intentions envers une créature qui s’y trouve. La bougie brûle pendant une heure."
 roll: 1

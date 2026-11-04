@@ -3,6 +3,12 @@ aliases:
   - "Improved Banded Armor"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/common"
+  - "magic/mundane"
+  - "material/metal"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Armure à bandes améliorée"
 tier: 2
 thresholds: "13/27"

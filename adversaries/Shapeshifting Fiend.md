@@ -3,6 +3,12 @@ aliases:
   - "Shapeshifting Fiend"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/bandit"
+  - "size/medium"
+  - "tone/grim"
 name: "Démon métamorphe"
 tier: 3
 type: "Social"

@@ -3,6 +3,11 @@ aliases:
   - "Legendary Returning Blade"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Lame revenante légendaire"
 tier: 4
 category: "Principale"

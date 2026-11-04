@@ -3,6 +3,11 @@ aliases:
   - "Legendary Small Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Petite dague légendaire"
 tier: 4
 category: "Secondaire"

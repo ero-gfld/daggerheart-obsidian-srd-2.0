@@ -3,6 +3,12 @@ aliases:
   - "Demon of Hubris"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Démon de l’Orgueil"
 tier: 3
 type: "Meneur"

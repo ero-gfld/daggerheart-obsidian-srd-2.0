@@ -3,6 +3,11 @@ aliases:
   - "Splintershaft Bow"
 tags:
   - "daggerheart/weapon"
+  - "family/bow"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Arc à hampe éclatée"
 tier: 2
 category: "Principale"

@@ -3,6 +3,10 @@ aliases:
   - "Legendary Hand Runes"
 tags:
   - "daggerheart/weapon"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Runes de main légendaires"
 tier: 4
 category: "Principale"

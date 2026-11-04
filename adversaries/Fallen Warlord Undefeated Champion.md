@@ -3,6 +3,11 @@ aliases:
   - "Fallen Warlord: Undefeated Champion"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/soldier"
+  - "size/huge"
+  - "tone/grim"
 name: "Seigneur de guerre déchu : champion invaincu"
 tier: 4
 type: "Solo"

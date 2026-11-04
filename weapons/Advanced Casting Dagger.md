@@ -3,6 +3,11 @@ aliases:
   - "Advanced Casting Dagger"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Dague d’incantation avancée"
 tier: 3
 category: "Principale"

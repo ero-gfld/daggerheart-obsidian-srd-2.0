@@ -3,6 +3,13 @@ aliases:
   - "Glowmoss Mushroom"
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/whimsical"
+  - "use/utility"
 name: "Champignon lumimousse"
 effect: "Vous pouvez briser ce champignon en morceaux, ce qui le fait luire d’un bleu vif jusqu’à votre prochain repos long."
 roll: 14

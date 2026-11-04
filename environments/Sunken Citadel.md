@@ -3,6 +3,11 @@ aliases:
   - "Sunken Citadel"
 tags:
   - "daggerheart/environment"
+  - "element/water"
+  - "mood/dungeon"
+  - "origin/ruins"
+  - "origin/sea"
+  - "tone/eerie"
 name: "Citadelle engloutie"
 tier: 3
 type: "Exploration"

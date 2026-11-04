@@ -3,6 +3,12 @@ aliases:
   - "Circle-Forged Dreadplate"
 tags:
   - "daggerheart/armor"
+  - "family/plate"
+  - "legality/contraband"
+  - "magic/magical"
+  - "material/metal"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Plate d’effroi forgée en cercle"
 tier: 4
 thresholds: "14/38"

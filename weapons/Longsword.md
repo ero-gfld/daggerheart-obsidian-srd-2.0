@@ -3,6 +3,11 @@ aliases:
   - "Longsword"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Épée longue"
 tier: 1
 category: "Principale"

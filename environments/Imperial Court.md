@@ -3,6 +3,9 @@ aliases:
   - "Imperial Court"
 tags:
   - "daggerheart/environment"
+  - "mood/settlement"
+  - "origin/urban"
+  - "tone/grim"
 name: "Cour impériale"
 tier: 4
 type: "Social"

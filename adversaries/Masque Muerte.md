@@ -1,6 +1,11 @@
 ---
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/undead"
+  - "role/commoner"
+  - "size/medium"
+  - "tone/comic"
 name: "Masque Muerte"
 tier: 1
 type: "Solo"

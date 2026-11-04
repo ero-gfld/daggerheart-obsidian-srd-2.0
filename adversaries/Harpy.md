@@ -3,6 +3,13 @@ aliases:
   - "Harpy"
 tags:
   - "daggerheart/adversary"
+  - "element/poison"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Harpie"
 tier: 1
 type: "Furtif"

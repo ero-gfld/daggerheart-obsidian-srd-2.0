@@ -3,6 +3,12 @@ aliases:
   - "Improved Shadowblade"
 tags:
   - "daggerheart/weapon"
+  - "element/shadow"
+  - "family/blade"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Lame d’ombre améliorée"
 tier: 2
 category: "Principale"

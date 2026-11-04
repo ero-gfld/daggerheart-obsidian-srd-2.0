@@ -3,6 +3,13 @@ aliases:
   - "Soul-Twin Circlets"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/handheld"
+  - "tech/arcane"
+  - "tone/eerie"
+  - "use/utility"
 name: "Diadèmes d’âmes jumelles"
 effect: "Deux créatures peuvent porter cette paire de diadèmes. Vous pouvez dépenser un Espoir pour échanger votre place avec celui ou celle qui porte l’autre diadème."
 roll: 40

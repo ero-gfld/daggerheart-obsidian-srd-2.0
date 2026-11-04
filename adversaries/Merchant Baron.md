@@ -3,6 +3,13 @@ aliases:
   - "Merchant Baron"
 tags:
   - "daggerheart/adversary"
+  - "mind/sapient"
+  - "nature/humanoid"
+  - "origin/urban"
+  - "role/merchant"
+  - "role/noble"
+  - "size/medium"
+  - "tone/grim"
 name: "Baron marchand"
 tier: 2
 type: "Social"

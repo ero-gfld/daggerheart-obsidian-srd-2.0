@@ -3,6 +3,11 @@ aliases:
   - "Hand Sling"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/common"
+  - "magic/mundane"
+  - "tech/mundane"
+  - "tone/heroic"
 name: "Fronde de poing"
 tier: 3
 category: "Secondaire"

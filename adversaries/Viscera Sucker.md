@@ -3,6 +3,13 @@ aliases:
   - "Viscera Sucker"
 tags:
   - "daggerheart/adversary"
+  - "element/blood"
+  - "mind/animal"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/hunter"
+  - "size/medium"
+  - "tone/grim"
 name: "Suceur de viscères"
 tier: 3
 type: "Furtif"

@@ -3,6 +3,12 @@ aliases:
   - "Siphoning Gauntlets"
 tags:
   - "daggerheart/weapon"
+  - "element/blood"
+  - "family/unarmed"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/grim"
 name: "Gantelets siphonneurs"
 tier: 4
 category: "Principale"

@@ -3,6 +3,13 @@ aliases:
   - "Hopekeeper Locket"
 tags:
   - "daggerheart/item"
+  - "form/jewelry"
+  - "legality/common"
+  - "magic/magical"
+  - "size/pocket"
+  - "tech/arcane"
+  - "tone/heroic"
+  - "use/hope"
 name: "Médaillon du Gardien de l’Espoir"
 effect: "Pendant un repos long, si vous avez 6 Espoir, vous pouvez dépenser un Espoir pour imprégner ce médaillon de votre résolution généreuse. Lorsque vous avez 0 Espoir, vous pouvez utiliser le médaillon pour gagner immédiatement un Espoir. Le médaillon doit être imprégné à nouveau avant de pouvoir être utilisé de cette façon."
 roll: 39

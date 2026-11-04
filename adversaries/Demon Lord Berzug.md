@@ -3,6 +3,14 @@ aliases:
   - "Demon Lord Berzug"
 tags:
   - "daggerheart/adversary"
+  - "element/psychic"
+  - "mind/sapient"
+  - "nature/fiend"
+  - "origin/otherworldly"
+  - "role/monster"
+  - "role/noble"
+  - "size/huge"
+  - "tone/grim"
 name: "Seigneur-démon Berzug"
 tier: 4
 type: "Solo"

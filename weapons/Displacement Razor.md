@@ -3,6 +3,11 @@ aliases:
   - "Displacement Razor"
 tags:
   - "daggerheart/weapon"
+  - "family/blade"
+  - "legality/common"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/eerie"
 name: "Rasoir de déplacement"
 tier: 2
 category: "Principale"

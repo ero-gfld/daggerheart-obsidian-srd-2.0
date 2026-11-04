@@ -3,6 +3,11 @@ aliases:
   - "Enchanted Chakram"
 tags:
   - "daggerheart/weapon"
+  - "family/thrown"
+  - "legality/restricted"
+  - "magic/magical"
+  - "tech/arcane"
+  - "tone/heroic"
 name: "Chakram enchanté"
 tier: 1
 category: "Principale"

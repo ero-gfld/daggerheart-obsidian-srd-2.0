@@ -3,6 +3,11 @@ aliases:
   - "Patchwork Zombie Hulk"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/undead"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Zombie colosse rapiécé"
 tier: 1
 type: "Solo"

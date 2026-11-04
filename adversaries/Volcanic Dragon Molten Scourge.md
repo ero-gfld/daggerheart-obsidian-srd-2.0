@@ -3,6 +3,13 @@ aliases:
   - "Volcanic Dragon: Molten Scourge"
 tags:
   - "daggerheart/adversary"
+  - "element/fire"
+  - "mind/sapient"
+  - "nature/dragon"
+  - "origin/mountain"
+  - "role/monster"
+  - "size/huge"
+  - "tone/grim"
 name: "Dragon volcanique : fléau en fusion"
 tier: 4
 type: "Solo"

@@ -3,6 +3,13 @@ aliases:
   - "Pipeweed"
 tags:
   - "daggerheart/consumable"
+  - "form/food"
+  - "legality/common"
+  - "magic/mundane"
+  - "size/pocket"
+  - "tech/mundane"
+  - "tone/whimsical"
+  - "use/stress"
 name: "Herbe à pipe"
 effect: "Lorsque vous choisissez l’action de repos Évacuer le Stress pendant un repos court, vous pouvez fumer cette feuille non enivrante pour évacuer un Stress supplémentaire. Les autres PJ qui ont choisi l’action Évacuer le Stress bénéficient également de cet effet."
 roll: 10

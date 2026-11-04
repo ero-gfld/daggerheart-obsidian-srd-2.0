@@ -3,6 +3,9 @@ aliases:
   - "Ocean Voyage"
 tags:
   - "daggerheart/environment"
+  - "mood/wilderness"
+  - "origin/sea"
+  - "tone/heroic"
 name: "Traversée océanique"
 tier: 2
 type: "Traversée"

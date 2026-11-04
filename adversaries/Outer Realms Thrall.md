@@ -3,6 +3,12 @@ aliases:
   - "Outer Realms Thrall"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/humanoid"
+  - "origin/otherworldly"
+  - "role/minion"
+  - "size/medium"
+  - "tone/eerie"
 name: "Serviteur des royaumes extérieurs"
 tier: 4
 type: "Sbire"

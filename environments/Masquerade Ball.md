@@ -3,6 +3,9 @@ aliases:
   - "Masquerade Ball"
 tags:
   - "daggerheart/environment"
+  - "mood/event"
+  - "origin/urban"
+  - "tone/whimsical"
 name: "Bal masqué"
 tier: 2
 type: "Social"

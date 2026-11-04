@@ -3,6 +3,12 @@ aliases:
   - "Hallowed Archer"
 tags:
   - "daggerheart/adversary"
+  - "element/light"
+  - "mind/sapient"
+  - "nature/celestial"
+  - "role/soldier"
+  - "size/medium"
+  - "tone/heroic"
 name: "Archer sanctifié"
 tier: 4
 type: "Tireur"

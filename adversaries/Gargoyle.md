@@ -3,6 +3,12 @@ aliases:
   - "Gargoyle"
 tags:
   - "daggerheart/adversary"
+  - "mind/mindless"
+  - "nature/construct"
+  - "origin/ruins"
+  - "role/guardian"
+  - "size/medium"
+  - "tone/eerie"
 name: "Gargouille"
 tier: 2
 type: "Cogneur"

@@ -3,6 +3,12 @@ aliases:
   - "Shark"
 tags:
   - "daggerheart/adversary"
+  - "mind/animal"
+  - "nature/beast"
+  - "origin/sea"
+  - "role/hunter"
+  - "size/large"
+  - "tone/grim"
 name: "Requin"
 tier: 2
 type: "Cogneur"
